@@ -21985,6 +21985,20 @@
       }
     }
   },
+  "compairingnumber": {
+    "1.0.0": {
+      "sdist": [
+        "F48FR+bjJNhW5VgZ/hMcbJIn7bZZs4gW9HvWNcIOBr0=",
+        "compairingnumber-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "compairingnumber-1.0.0-py3-none-any.whl": [
+          "odWZkibiAmmOb9iN9IedYOm3arhGGKA3LQF6bdqpPJw=",
+          "py3"
+        ]
+      }
+    }
+  },
   "compare-qrels": {
     "0.0.3": {
       "sdist": [
@@ -51962,6 +51976,12 @@
         "ibm-cos-sdk-core-2.12.1.tar.gz"
       ]
     },
+    "2.12.2": {
+      "sdist": [
+        "vzWAJwya2/6DI44sKdmWhFBMEVIn5WiWsOzvAwy90Lc=",
+        "ibm-cos-sdk-core-2.12.2.tar.gz"
+      ]
+    },
     "2.2.0": {
       "sdist": [
         "3msvnFJa55YdBsPmFLI34fb+l/UzazwTmBOwDR+zVH4=",
@@ -71346,6 +71366,18 @@
       "wheels": {
         "moptipy-0.9.40-py3-none-any.whl": [
           "iIMRAMpf1VWpw+olR3N5KxCHaEtLIR2BXoAeT4IGmBQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.9.42": {
+      "sdist": [
+        "tY9nk/jtY1lKAWpf0DD2h0IFz+gXtAZ5sXF3YXrqFao=",
+        "moptipy-0.9.42.tar.gz"
+      ],
+      "wheels": {
+        "moptipy-0.9.42-py3-none-any.whl": [
+          "Go25FEnbOnxzoWo+O7lf+fxg2Ouv6SfiVru+zqg/3Rc=",
           "py3"
         ]
       }
@@ -126334,6 +126366,18 @@
         ]
       }
     },
+    "0.2.25": {
+      "sdist": [
+        "ZoOeWjFqXVCg/OwzYlVS6gofM9eeDmFp8dCUJHpUNCU=",
+        "roboflow-0.2.25.tar.gz"
+      ],
+      "wheels": {
+        "roboflow-0.2.25-py3-none-any.whl": [
+          "0EKuHalrbB18WEagzuflQQekJMhIN3vAv+7V1tUdhck=",
+          "py3"
+        ]
+      }
+    },
     "0.2.4": {
       "sdist": [
         "gI1leDZCcbWx3iBC9S+DyO22jjmq+wc/OzLH1rYvm1w=",
@@ -127546,6 +127590,74 @@
         ],
         "robotpy_photonvision-2023.1.1b7-cp39-cp39-win_amd64.whl": [
           "MGbJ9y9mX9r1+m3TiRH9hBiFD1tPZ7MOuDiu4FbW2MU=",
+          "cp39"
+        ]
+      }
+    },
+    "2023.1.2": {
+      "sdist": [
+        "byi3YoPHWlDIvBne3XucrmZDI1/hyK8FVNo6J1N7eb0=",
+        "robotpy-photonvision-2023.1.2.tar.gz"
+      ],
+      "wheels": {
+        "robotpy_photonvision-2023.1.2-cp310-cp310-macosx_10_16_x86_64.whl": [
+          "i9xQ9y76tn5tYqXmpXm39ZK/EZgdzLb7D+goMNO/A/E=",
+          "cp310"
+        ],
+        "robotpy_photonvision-2023.1.2-cp310-cp310-manylinux_2_35_x86_64.whl": [
+          "jaBa0UZGEo2hedfkrjqUdueRETlo57A33FgRv/czwv8=",
+          "cp310"
+        ],
+        "robotpy_photonvision-2023.1.2-cp310-cp310-win_amd64.whl": [
+          "q1nsJ4BD8Lhda3DzgMJkSO2RL4ydGB+wwlRrG10nlrw=",
+          "cp310"
+        ],
+        "robotpy_photonvision-2023.1.2-cp311-cp311-macosx_11_0_universal2.whl": [
+          "J9U2byfJMtgGsu8JZQwUZD+hez73uCq/PptO5A3JL/4=",
+          "cp311"
+        ],
+        "robotpy_photonvision-2023.1.2-cp311-cp311-manylinux_2_35_x86_64.whl": [
+          "XAdipIPUbwKuk9GzeIo15ALndJEH0gS+RqEAk9zGo4w=",
+          "cp311"
+        ],
+        "robotpy_photonvision-2023.1.2-cp311-cp311-win_amd64.whl": [
+          "GK4eLdrd9aJoeLqLaQm8Zt2lZ74nh0nVQOZuy3LEz+o=",
+          "cp311"
+        ],
+        "robotpy_photonvision-2023.1.2-cp37-cp37m-macosx_10_16_x86_64.whl": [
+          "92xZjtrtIGnEgZ4YnJezrGZfn9mzO8v8HMGgNevdhME=",
+          "cp37"
+        ],
+        "robotpy_photonvision-2023.1.2-cp37-cp37m-manylinux_2_35_x86_64.whl": [
+          "fSaMapchFNnAxOBwTar37FZMyn6smKYILjf7GpolMs0=",
+          "cp37"
+        ],
+        "robotpy_photonvision-2023.1.2-cp37-cp37m-win_amd64.whl": [
+          "wxKpgoAHVKH/7xzmQTnfB0qOcbeyIiMIf1VTr9HwLL0=",
+          "cp37"
+        ],
+        "robotpy_photonvision-2023.1.2-cp38-cp38-macosx_10_16_x86_64.whl": [
+          "FkK8kohKzw5tXssvKKOE37qvSl6SfQB8ImC+sM+Hj90=",
+          "cp38"
+        ],
+        "robotpy_photonvision-2023.1.2-cp38-cp38-manylinux_2_35_x86_64.whl": [
+          "aypI5k2xNOCrGfs7x/ogQeBRwzByqmd6CJ1fTzewKic=",
+          "cp38"
+        ],
+        "robotpy_photonvision-2023.1.2-cp38-cp38-win_amd64.whl": [
+          "yvHqr1znfSBnaJTb4YP49EIamAyYWzTisVjCBuFQFas=",
+          "cp38"
+        ],
+        "robotpy_photonvision-2023.1.2-cp39-cp39-macosx_10_16_x86_64.whl": [
+          "4qnyujhAQbQUUsB5csI0ELh3FDa5RAoorccQheoIAS4=",
+          "cp39"
+        ],
+        "robotpy_photonvision-2023.1.2-cp39-cp39-manylinux_2_35_x86_64.whl": [
+          "kIbSDx7cxN9/cInmB0xwQHyxN4KAcwvNIQab00OtbBE=",
+          "cp39"
+        ],
+        "robotpy_photonvision-2023.1.2-cp39-cp39-win_amd64.whl": [
+          "MW5CaEO3X4/yXHLJdxSQ2AQJ4cYWW9gX35iJPJAivkQ=",
           "cp39"
         ]
       }

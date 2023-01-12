@@ -22772,6 +22772,12 @@
         "cloudinary-1.30.0.tar.gz"
       ]
     },
+    "1.31.0": {
+      "sdist": [
+        "9SofXrLGgg8TqgHBCcqlk3rT/WyvWWeBfQ72wRNAOvw=",
+        "cloudinary-1.31.0.tar.gz"
+      ]
+    },
     "1.4.0": {
       "sdist": [
         "2vYJ4/Z8V/tK4NIA0NPhO1VFwENJTX2Od2hd+N65Ewc=",
@@ -26261,6 +26267,32 @@
         "kNmpcKcv5gYgEqIsr4e5GOpcTwvnoNz1xCn8cGJcLvI=",
         "crxmake-0.0.3.tar.gz"
       ]
+    }
+  },
+  "cryptographymethods": {
+    "0.0.1": {
+      "sdist": [
+        "q5qQH6NeHqHlW0Qgjf88zkyN+V6vCPwmKviKfZYp4JU=",
+        "CryptographyMethods-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "CryptographyMethods-0.0.1-py3-none-any.whl": [
+          "2egrJmj4YPZko4z/wLpwLC1aiNY7XbH+lEsFtLZqg88=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "EsxL42IGkzkI0UyUSJ6ZE2fn8wsPJiJfwyvP3pakSdM=",
+        "CryptographyMethods-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "CryptographyMethods-0.0.2-py3-none-any.whl": [
+          "fuwsyI7nT38/7RiepUVGg8ko3+dBThGUg6uBqwvfj84=",
+          "py3"
+        ]
+      }
     }
   },
   "cryptowatch-sdk": {
@@ -72646,6 +72678,18 @@
         ]
       }
     },
+    "1.2.3rc1": {
+      "sdist": [
+        "98AfL8b0zzPIU+J0mv4OkLad3vp9+pM+tuL6PDOX2/0=",
+        "mlserver-mlflow-1.2.3rc1.tar.gz"
+      ],
+      "wheels": {
+        "mlserver_mlflow-1.2.3rc1-py3-none-any.whl": [
+          "mH4WabbGwUYSOKsTo6Ov7fpN0Y22fdVI/1knRL3OE7g=",
+          "py3"
+        ]
+      }
+    },
     "1.3.0.dev2": {
       "sdist": [
         "D97lKDdL1ITkStoKIKJx/M+SzGeZKDaoPtarNKcPf5s=",
@@ -86006,6 +86050,14 @@
       "wheels": {
         "odoo_addon_stock_move_location-16.0.1.1.0.1-py3-none-any.whl": [
           "mFmV2C6dmKadG08H9jlwkhpCuG2olSRn5HKwU+R5oVI=",
+          "py3"
+        ]
+      }
+    },
+    "16.0.1.1.0.2": {
+      "wheels": {
+        "odoo_addon_stock_move_location-16.0.1.1.0.2-py3-none-any.whl": [
+          "ALA8NWoDNIVKYF2CUAYq+J0wRIbTgCxq5pLG4U1PaRM=",
           "py3"
         ]
       }
@@ -147340,6 +147392,30 @@
       "wheels": {
         "torch_snippets-0.499.14-py3-none-any.whl": [
           "TV6RKurBRW+SNDCbpaQiYzIkHrCQ1U7y+uqrTeRniaY=",
+          "py3"
+        ]
+      }
+    },
+    "0.499.15": {
+      "sdist": [
+        "pz5pk3nREpfTVq9bhP5KLDcRPVgtTOc1ZMmQRBV5zT4=",
+        "torch_snippets-0.499.15.tar.gz"
+      ],
+      "wheels": {
+        "torch_snippets-0.499.15-py3-none-any.whl": [
+          "z+9Co/UBu9Moa85S3aRonvJV5Um2ZXXApJ49dXFSI/Y=",
+          "py3"
+        ]
+      }
+    },
+    "0.499.16": {
+      "sdist": [
+        "/PXdnYEniebehOeIPQJnE6I7gg+asTCmPUPrhy64Mbk=",
+        "torch_snippets-0.499.16.tar.gz"
+      ],
+      "wheels": {
+        "torch_snippets-0.499.16-py3-none-any.whl": [
+          "VBk+EGfabn+DvXt1rBxc7iTOxDT9ZAmRS8CinBUqaM0=",
           "py3"
         ]
       }

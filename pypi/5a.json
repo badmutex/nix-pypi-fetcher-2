@@ -10873,6 +10873,22 @@
           "py3"
         ]
       }
+    },
+    "2.2.0b20230112": {
+      "sdist": [
+        "ORFBPKxMHuMcyZGDNhdTwhm+GypI3FsSm2xI+DU1iZk=",
+        "bigdl-dllib-spark3-2.2.0b20230112.tar.gz"
+      ],
+      "wheels": {
+        "bigdl_dllib_spark3-2.2.0b20230112-py3-none-macosx_10_11_x86_64.whl": [
+          "Y/SW8EduralmYYCIRkcKf9ZvWFdPNKZ2MexJA9HB1aU=",
+          "py3"
+        ],
+        "bigdl_dllib_spark3-2.2.0b20230112-py3-none-manylinux1_x86_64.whl": [
+          "4QbSKsZCJhuuxY+kxKFGbgWI9UvfUhYWFd6RmlewWb8=",
+          "py3"
+        ]
+      }
     }
   },
   "bigos": {
@@ -51638,6 +51654,14 @@
         ]
       }
     },
+    "3.1.22": {
+      "wheels": {
+        "huaweicloudsdkcloudide-3.1.22-py2.py3-none-any.whl": [
+          "jDj6WGD3ntU6p2FSVeFcGIyJje+zff0HAB5bWUzYjGk=",
+          "py2.py3"
+        ]
+      }
+    },
     "3.1.3": {
       "wheels": {
         "huaweicloudsdkcloudide-3.1.3-py2.py3-none-any.whl": [
@@ -52268,6 +52292,14 @@
       "wheels": {
         "huaweicloudsdkddm-3.1.21-py2.py3-none-any.whl": [
           "jyIeaaJkkqnSUYPtn8we4qsbjso8C8Vm/K22SbEOad0=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.22": {
+      "wheels": {
+        "huaweicloudsdkddm-3.1.22-py2.py3-none-any.whl": [
+          "2TWjY5A2FhdyssO/GJkLs8kqGQUZFv0mXNUmEXCrj8w=",
           "py2.py3"
         ]
       }
@@ -69276,6 +69308,12 @@
       "sdist": [
         "5PHi86eF1EZP8nUSW7qcWQu8g60VRJv5m79SMS+dGAY=",
         "microcosm-fastapi-0.1.10.tar.gz"
+      ]
+    },
+    "0.1.11": {
+      "sdist": [
+        "Wo26plNToNApTyDJ+dCNytPZJ4qxGrwwpzZkwvq0se0=",
+        "microcosm-fastapi-0.1.11.tar.gz"
       ]
     },
     "0.1.2": {
@@ -140078,6 +140116,18 @@
       "wheels": {
         "syngen-0.0.58-py3-none-any.whl": [
           "3Sse2VhTI+qU26NBaw0c/YWdmBP7+V/miilmLOLQFQk=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.59": {
+      "sdist": [
+        "qpCmelG9XtL+2HQdY1H5Q1QIAiT5fIkTSgZHLg+bqaU=",
+        "syngen-0.0.59.tar.gz"
+      ],
+      "wheels": {
+        "syngen-0.0.59-py3-none-any.whl": [
+          "xfAsl/J5AA1DNyLT9Px7uCbV/cS4mlREDsFO6Ye/ofA=",
           "py3"
         ]
       }

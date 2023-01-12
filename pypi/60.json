@@ -14121,6 +14121,18 @@
           "py3"
         ]
       }
+    },
+    "2.2.0b20230112": {
+      "wheels": {
+        "bigdl_friesian_spark3-2.2.0b20230112-py3-none-macosx_10_11_x86_64.whl": [
+          "I3vtHhdxn5x04SbWVi90FRB4O2ZiYdPdSsqEvRbARuk=",
+          "py3"
+        ],
+        "bigdl_friesian_spark3-2.2.0b20230112-py3-none-manylinux1_x86_64.whl": [
+          "zOx07goZXE5iYNpYkCOPevulIc2Zow2kREfLLxSDaVg=",
+          "py3"
+        ]
+      }
     }
   },
   "binsinfo": {
@@ -24787,6 +24799,32 @@
         "VC1+6+5BKtBAl84f+3d5wummXtvGo11oKzYe3iq0JOc=",
         "custom_output-0.0.2.tar.gz"
       ]
+    }
+  },
+  "customconsole": {
+    "1.0.2": {
+      "sdist": [
+        "Srtr8R9uaK/hIORX/7IF3j7kdS++oHX0KLdcDRB2wDQ=",
+        "CustomConsole-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "CustomConsole-1.0.2-py3-none-any.whl": [
+          "8lHJwT5eacwFzCf52LZ4Th9+R5a8ATYrWDI9/PvT+Bs=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.0": {
+      "sdist": [
+        "2KLyISRU/uDwHrkG0YcrIC3LKvLQiA+WQVExzn/6rrw=",
+        "CustomConsole-1.1.0.tar.gz"
+      ],
+      "wheels": {
+        "CustomConsole-1.1.0-py3-none-any.whl": [
+          "sUkE/IKNt/Jpn+3xu//BGs4moHqloVH0emBBkMxE3zw=",
+          "py3"
+        ]
+      }
     }
   },
   "cuteuid-alexredmon": {
@@ -47361,6 +47399,18 @@
           "py3"
         ]
       }
+    },
+    "1.1964.0": {
+      "sdist": [
+        "Smfsi5UuwEsgpGqj6ljcHzYzKvh84Tn5b8387ExbJSE=",
+        "gardener-cicd-libs-1.1964.0.tar.gz"
+      ],
+      "wheels": {
+        "gardener_cicd_libs-1.1964.0-py3-none-any.whl": [
+          "8ThbeksHfqoMz/gGltCrJ9LC0njXvyLUz0GCm3YNgmE=",
+          "py3"
+        ]
+      }
     }
   },
   "gcp-secret-manager-wrapper": {
@@ -62602,6 +62652,18 @@
       "wheels": {
         "jupyterlab_lego_boost-0.1.0a1-py3-none-any.whl": [
           "jqSNPD/JOZLWd16T06T7PhENtEmw6jxvFzfDm3vjztk=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.0a2": {
+      "sdist": [
+        "tGOLo5CmUL5qohe0+ccYqzBEaerwkAzqDeCZHGRRsx0=",
+        "jupyterlab_lego_boost-0.1.0a2.tar.gz"
+      ],
+      "wheels": {
+        "jupyterlab_lego_boost-0.1.0a2-py3-none-any.whl": [
+          "qX6X14qfJ/jMqvqMOWV41FwsQhUd4PFNz5mpBF5AYIs=",
           "py3"
         ]
       }
@@ -87599,6 +87661,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.6": {
+      "sdist": [
+        "7c7UmodmCO3AaO4bA8g6tYdfAlya2yHo5XAC6vcQShk=",
+        "nvgr-0.1.6.tar.gz"
+      ],
+      "wheels": {
+        "nvgr-0.1.6-py3-none-any.whl": [
+          "dTNLg8pSA5R1plzL5R1zDhbjxatJcQCwK0aa1g/jo1U=",
+          "py3"
+        ]
+      }
     }
   },
   "nwu-cards-demo": {
@@ -89304,6 +89378,14 @@
       "wheels": {
         "odoo12_addon_mrp_production_grouped_by_product-12.0.1.0.1-py3-none-any.whl": [
           "n2QBEay7E/jN15h+zKoBugm7hQWEAV1a7VN7sYvMUzg=",
+          "py3"
+        ]
+      }
+    },
+    "12.0.1.0.1.99.dev1": {
+      "wheels": {
+        "odoo12_addon_mrp_production_grouped_by_product-12.0.1.0.1.99.dev1-py3-none-any.whl": [
+          "yR7o/Ul7IfymNl2Y4ObyulVMIk6nOS73Wr08s3G+lb4=",
           "py3"
         ]
       }
@@ -133589,6 +133671,30 @@
           "py3"
         ]
       }
+    },
+    "0.0.6": {
+      "sdist": [
+        "N10TDqY2gMRnMYEnn0YzpcqzHhcKKJTcTAx1xL9ofL0=",
+        "tasksource-0.0.6.tar.gz"
+      ],
+      "wheels": {
+        "tasksource-0.0.6-py3-none-any.whl": [
+          "gqYog1uuK7sOXya/7b+LK08SGBcwKc0fizPLo9FZZJE=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.7": {
+      "sdist": [
+        "dJY3qcB5m+2eNwxx8O8KCPxbtrmaj/Pb5w+7oixUTmc=",
+        "tasksource-0.0.7.tar.gz"
+      ],
+      "wheels": {
+        "tasksource-0.0.7-py3-none-any.whl": [
+          "vOVR92GKl9xvLJPiMxa/JEwyw3S3V+oFhKUvUg1R8jE=",
+          "py3"
+        ]
+      }
     }
   },
   "tdspu": {
@@ -135232,6 +135338,18 @@
       "wheels": {
         "TMFuncs-0.0.7-py3-none-any.whl": [
           "UlYZqij0UE/iTPTVRxF1p/ZobiNRHQDLV/1nzuQGN5U=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.8": {
+      "sdist": [
+        "WBCCyM7gfD6RQ+kTUhA98YqFVZGk/hUkzZay60y5mIk=",
+        "TMFuncs-0.0.8.tar.gz"
+      ],
+      "wheels": {
+        "TMFuncs-0.0.8-py3-none-any.whl": [
+          "+ZDabEPgKCqaxn+3dWNgyLjshn8KhoKbj+H+IKqot0Y=",
           "py3"
         ]
       }
@@ -140874,6 +140992,18 @@
         ]
       }
     },
+    "0.78.0": {
+      "sdist": [
+        "esVUh252mx/JzPklS0CxbdT1U3gsjBdNG6Mcj8PM2Qo=",
+        "vanoma_api_utils-0.78.0.tar.gz"
+      ],
+      "wheels": {
+        "vanoma_api_utils-0.78.0-py3-none-any.whl": [
+          "ogTlIpqKuEwkTMAJcz1HKhRYiHsZDV3fIqv7BZQBXgs=",
+          "py3"
+        ]
+      }
+    },
     "0.8.0": {
       "sdist": [
         "9kf11AZnmputpmW3Bc5oRyfiC4MJA4K6W3yDJcjLjNg=",
@@ -142774,6 +142904,12 @@
       "sdist": [
         "StqcgpmwKIYQOJLysoKjI6ThhF+YAiPgS4OhTAiPdc8=",
         "wayback-news-search-1.0.0.tar.gz"
+      ]
+    },
+    "1.0.1": {
+      "sdist": [
+        "hgosGI3Qm0MPCj182H4PkrUxFsCTN4dYNt5/hbrkN30=",
+        "wayback-news-search-1.0.1.tar.gz"
       ]
     }
   },
@@ -145390,6 +145526,18 @@
       "wheels": {
         "xmldiff-2.5-py3-none-any.whl": [
           "0u7nmS8/cbFXCIskx+cPbnerUPdbDs5x9pONnqJVmnw=",
+          "py3"
+        ]
+      }
+    },
+    "2.6b1": {
+      "sdist": [
+        "I2nP6AYSCdEsl6inay9ys7FtsidW0D8blwUliM8G65U=",
+        "xmldiff-2.6b1.tar.gz"
+      ],
+      "wheels": {
+        "xmldiff-2.6b1-py3-none-any.whl": [
+          "WzPWCIGvUfDDcS2n3tUANOKvzv5U9Lt6gnKrDm4Ouqc=",
           "py3"
         ]
       }

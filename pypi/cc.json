@@ -25443,6 +25443,26 @@
       ]
     }
   },
+  "customt5": {
+    "0.0.1": {
+      "sdist": [
+        "oEq29/ufXs6a6xEBRe06mdrt8a3LiViKpUUAFp0dF6I=",
+        "customt5-0.0.1.tar.gz"
+      ]
+    },
+    "1.0.0": {
+      "sdist": [
+        "qDZVCk+xHsArCGfmxUfZ2G9RAk37VQAeE1IB7ABqfzs=",
+        "customt5-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "customt5-1.0.0-py3-none-any.whl": [
+          "DOirCIBvjhnkDqsGVHXdJoFiWLxMzCBB1l82j/J4ekk=",
+          "py3"
+        ]
+      }
+    }
+  },
   "cvarena": {
     "0.1": {
       "sdist": [
@@ -28630,6 +28650,22 @@
       "wheels": {
         "dbsqlclone-0.1.1-py3-none-any.whl": [
           "g0opHi4KL9DABqGU7UjIglPVOrupZa8yfiiSqymWPbE=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "wheels": {
+        "dbsqlclone-0.1.2-py3-none-any.whl": [
+          "NfdP0P8Grj/clPw8Eay/OytRhcyRZyyFM4Ux9fd/fGk=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.3": {
+      "wheels": {
+        "dbsqlclone-0.1.3-py3-none-any.whl": [
+          "dEjWzBGWs4r7Rh08/rjcwqeNJrc1NhTzlcYIzU6IFBI=",
           "py3"
         ]
       }
@@ -53864,6 +53900,18 @@
       "wheels": {
         "homelypy-0.0.1-py3-none-any.whl": [
           "u+s9fuDDE567BmgrSJo+bwbCuIolBc3ZcJMCFGDhiHU=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.10": {
+      "sdist": [
+        "zg5NJv9ncSAV/6latMmGXnMfawmEgmfxZaktK4YxsgY=",
+        "homelypy-0.0.10.tar.gz"
+      ],
+      "wheels": {
+        "homelypy-0.0.10-py3-none-any.whl": [
+          "vaERBVTsF9znG/8cp7FEza1jrAyT055OYPc26oZXB+8=",
           "py3"
         ]
       }
@@ -83386,6 +83434,14 @@
     }
   },
   "odoo13-addon-vault-share": {
+    "13.0.1.0.1": {
+      "wheels": {
+        "odoo13_addon_vault_share-13.0.1.0.1-py3-none-any.whl": [
+          "IigZrKf6oFG7GirD/ZL+B8h1iHaiFxLDGJDT8yNGOZg=",
+          "py3"
+        ]
+      }
+    },
     "13.0.1.0.1.dev3": {
       "wheels": {
         "odoo13_addon_vault_share-13.0.1.0.1.dev3-py3-none-any.whl": [
@@ -88644,6 +88700,30 @@
       "wheels": {
         "patchwork_node-0.1.0-py3-none-any.whl": [
           "noUojM5q7cGn5aogY3lkCgg2vkc20jOXNu3dR+50IKs=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "E2glgS34P6OrsTNzMX4GM0oPdTzmrx9lgfDo2lgzTAA=",
+        "patchwork-node-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "patchwork_node-0.1.1-py3-none-any.whl": [
+          "2OdA3io8E7X6vclRe+QvP8QF69ahyquDz/rf+ugdVJg=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "BzsIZ3DW8UiCHIpyS/3xcbuRUCjYH8TkDRvLZUDQzyY=",
+        "patchwork-node-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "patchwork_node-0.1.2-py3-none-any.whl": [
+          "84ndPXwR17rt3eo4nt8EJjuzeRbLYCNrbqpBZE8TUGU=",
           "py3"
         ]
       }
@@ -100683,6 +100763,68 @@
         "/2hUoltcm8XPuHknz+4e2UA73/qHS0wtnhzktczHVe8=",
         "pymycustomcalc-0.1.tar.gz"
       ]
+    }
+  },
+  "pynotifications": {
+    "0.0.1": {
+      "sdist": [
+        "0qoffpvK7g00bMEi9FGYjV0ti9OCbM+dU7ta+/XmsgA=",
+        "pyNotifications-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "pyNotifications-0.0.1-py3-none-any.whl": [
+          "UO4LiEayLVyVRxu99J2Z6n9HUuXGYEj++kzmwXN36tQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "KNhI4LQuBJWYj5NGZjTUXUZzj1YQF8OlCrvE93ObtTU=",
+        "pyNotifications-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "pyNotifications-0.0.2-py3-none-any.whl": [
+          "3xHLGxFuM6r/GsrTHBR0n+8oRwacGwnBn8HeZwIDMyk=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "xMUjZdN6xFgLeXJsmrqkS0xyIzrnTfZBcsuYKNLhxyw=",
+        "pyNotifications-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "pyNotifications-0.0.3-py3-none-any.whl": [
+          "qaEUJojLEL89ET2ATUNeIqoGRRTxg6ODSEh2Xe8k9hU=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4": {
+      "sdist": [
+        "O9yOZ+jhYkG5yID7XmZxNxOqiyW9TeZ8/6VroJdWCGQ=",
+        "pyNotifications-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "pyNotifications-0.0.4-py3-none-any.whl": [
+          "HuW9OMpswSxVnL1Tacg5E63N4VROT0C9Kagr+6aXk7I=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.0": {
+      "sdist": [
+        "gANdNQBKKg6Wy+jULuN9m+DJRlE1KsbfBzOlpswj+sc=",
+        "pyNotifications-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "pyNotifications-1.0.0-py3-none-any.whl": [
+          "74PztikcYnUXuDtMnTCWWHzzXt9cMhXln7O5NHN2GJI=",
+          "py3"
+        ]
+      }
     }
   },
   "pynotion-wrapper": {

@@ -48542,6 +48542,14 @@
         ]
       }
     },
+    "3.1.22": {
+      "wheels": {
+        "huaweicloudsdkeg-3.1.22-py2.py3-none-any.whl": [
+          "cFjT5OHr+hWQOADS97pU+M2goluLDfvfqolsHvTi/eU=",
+          "py2.py3"
+        ]
+      }
+    },
     "3.1.3": {
       "wheels": {
         "huaweicloudsdkeg-3.1.3-py2.py3-none-any.whl": [
@@ -49140,6 +49148,14 @@
       "wheels": {
         "huaweicloudsdkfrs-3.1.21-py2.py3-none-any.whl": [
           "nzAU06/483WE3d8rAYQLrBdVeU9H/Vb6CSc6pgaRjKI=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.22": {
+      "wheels": {
+        "huaweicloudsdkfrs-3.1.22-py2.py3-none-any.whl": [
+          "oBh1eMKncbRb/mUVsMGk8fwS4E+VT1MIE4IWgt8JzEo=",
           "py2.py3"
         ]
       }
@@ -82383,6 +82399,14 @@
           "py3"
         ]
       }
+    },
+    "12.0.1.5.0.99.dev6": {
+      "wheels": {
+        "odoo12_addon_mgmtsystem_nonconformity-12.0.1.5.0.99.dev6-py3-none-any.whl": [
+          "/WHZcEV3PI43/8Ye7f72RRYW6RvBV1NgoWx7hSdatmw=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo12-addon-sale-backorder": {
@@ -83442,6 +83466,14 @@
       "wheels": {
         "odoo14_addon_hr_timesheet_report-14.0.1.0.1.dev8-py3-none-any.whl": [
           "5DOfkNznhEyXNn0yFHmey8fleRM07TfefqCj7HiVRn8=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.1.0.1.dev9": {
+      "wheels": {
+        "odoo14_addon_hr_timesheet_report-14.0.1.0.1.dev9-py3-none-any.whl": [
+          "2UhQNaED8pH4WBit86oXUxyTB19Nh+TkHbpNsUjVB+M=",
           "py3"
         ]
       }
@@ -93953,6 +93985,20 @@
         "6q1uleo5JBKbR6qzi+S44VP7ZwUSyma0iBX3DsxPDBQ=",
         "py4ml-0.1.dev0.tar.gz"
       ]
+    }
+  },
+  "pyaiken": {
+    "0.1.0": {
+      "sdist": [
+        "21v1Vu1u7LQk04o9F3BNvScjfMuYJ3V+skp53yJ3lr4=",
+        "pyaiken-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "pyaiken-0.1.0-cp38-cp38-manylinux_2_34_x86_64.whl": [
+          "vv9fdJI5RQYqVtFajguTy+VGy/rIp3vXNvwFB4+Sh3c=",
+          "cp38"
+        ]
+      }
     }
   },
   "pyalfawise": {
@@ -129018,6 +129064,18 @@
       "wheels": {
         "tensorcircuit_nightly-0.7.0.dev20230111-py3-none-any.whl": [
           "E6NMF8pL/0KNNWSdTcgyQTbrjVh7+lTHCgqxwe88veM=",
+          "py3"
+        ]
+      }
+    },
+    "0.7.0.dev20230112": {
+      "sdist": [
+        "v057aE9EeCHXTFLT78m+STb9SnmlBXs6LpIDi0CYGSY=",
+        "tensorcircuit-nightly-0.7.0.dev20230112.tar.gz"
+      ],
+      "wheels": {
+        "tensorcircuit_nightly-0.7.0.dev20230112-py3-none-any.whl": [
+          "ScTp+PHJBE2qjgyjYYLLrdAU4AoMhuS/1nKsJi566fY=",
           "py3"
         ]
       }

@@ -17537,6 +17537,12 @@
         "smpBG7zhSRcjq/Qc4PM2SUBUJBtIDypt2Urm+c3i/vw=",
         "binary-refinery-0.5.3.tar.gz"
       ]
+    },
+    "0.5.4": {
+      "sdist": [
+        "A+uD53Fju72Z4h7Ceq5Kp6D2W4Euv/JslygPKyJj9lg=",
+        "binary-refinery-0.5.4.tar.gz"
+      ]
     }
   },
   "biobeam": {
@@ -17942,12 +17948,6 @@
       "sdist": [
         "xBpWKEFKep7kVHqXSUHuq1ztjPCtTy8Yr/APufSmkMQ=",
         "bolid_selenium_test-1.8.tar.gz"
-      ]
-    },
-    "1.9": {
-      "sdist": [
-        "3PXaLsdOnIUwY0gqKM6xPibdBAKvMkBHOV4EavRMSZg=",
-        "bolid_selenium_test-1.9.tar.gz"
       ]
     }
   },
@@ -51752,6 +51752,174 @@
         ]
       }
     },
+    "0.13.1": {
+      "sdist": [
+        "mbGLKOxBTvm2BN2u0IGC5IakAEhvMcpW9h1Tfu0dF88=",
+        "hidapi-0.13.1.tar.gz"
+      ],
+      "wheels": {
+        "hidapi-0.13.1-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "DiRbUXf8WVSOT3ZACgeniC/KSKHGUPfF2QKv5RmGm9A=",
+          "cp310"
+        ],
+        "hidapi-0.13.1-cp310-cp310-macosx_11_0_arm64.whl": [
+          "7Jfctml2Wb4IeKrBQUO6AKtD6GprvsL6avRvgzq2l0M=",
+          "cp310"
+        ],
+        "hidapi-0.13.1-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "pIoMPxETrAXTia5O/wBIWiU8Y9xufHwXrjAm0GPKgJo=",
+          "cp310"
+        ],
+        "hidapi-0.13.1-cp310-cp310-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "GyQhrOVdHMqWuNXAn5GOdmK2rHt9uw9iSBToMdq1Bi4=",
+          "cp310"
+        ],
+        "hidapi-0.13.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Vx46B7y9wTwtKvm9CYOeb0XPusjV4tKLfhuERCeBMWI=",
+          "cp310"
+        ],
+        "hidapi-0.13.1-cp310-cp310-win32.whl": [
+          "bAooWzcg0Sd/MYtXTZh0g9YSe3XX123s3WyFxySvjvc=",
+          "cp310"
+        ],
+        "hidapi-0.13.1-cp310-cp310-win_amd64.whl": [
+          "2lUc34gSLp19u5NVfvpp01+xsf6gUQpb1GGvMxrZKJI=",
+          "cp310"
+        ],
+        "hidapi-0.13.1-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "ZJACH32CJ/tidzVfFDU5QEwbkHTXfWT+u+DUpinwg1s=",
+          "cp311"
+        ],
+        "hidapi-0.13.1-cp311-cp311-macosx_11_0_arm64.whl": [
+          "6//PSHmLvyAYqG8UZe6rzg2pjCBmyZoSHbl905e3mLM=",
+          "cp311"
+        ],
+        "hidapi-0.13.1-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "DGrooLacqa4K0/lI4RdCMam3gacP82QuaxEN/sdwz1k=",
+          "cp311"
+        ],
+        "hidapi-0.13.1-cp311-cp311-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "k7ldi7bIf22wO265+v+y/pd6x4h5GJhlGCbBthpHNME=",
+          "cp311"
+        ],
+        "hidapi-0.13.1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "rKmJnn/MxvnmqQloHF2XzCuiJGg9iGyWvNyjFlRU2HU=",
+          "cp311"
+        ],
+        "hidapi-0.13.1-cp311-cp311-win32.whl": [
+          "k9/Cc54NP3c64Uj+2cDwIME+F9nVEs9ztUpeYPCyjGg=",
+          "cp311"
+        ],
+        "hidapi-0.13.1-cp311-cp311-win_amd64.whl": [
+          "aLkoHCLngy4dFA0+tlcYSGthrCRwGDfA/yEfIZW+37g=",
+          "cp311"
+        ],
+        "hidapi-0.13.1-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "PBkNT4vkA8juVDaEAT6FSUrGkNotY2oDpPf1t1tBu6U=",
+          "cp36"
+        ],
+        "hidapi-0.13.1-cp36-cp36m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "PLZRE0VGyrweUVs4Ymcydw7DqwFXsz3BMvwvRgeFhlg=",
+          "cp36"
+        ],
+        "hidapi-0.13.1-cp36-cp36m-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "arTdLhmRi+/1Bji+ibliYZHfRRRFb9c4hhF2LNu9Rsw=",
+          "cp36"
+        ],
+        "hidapi-0.13.1-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "hxgI9bTIBJ91i5Q3XiS/6HyKWPkffCykxIKrADya+ac=",
+          "cp36"
+        ],
+        "hidapi-0.13.1-cp36-cp36m-win32.whl": [
+          "WlFSEgD+zWd2lde9Eqbv3M8xWhaSmmW4Nvt+yFlqJPQ=",
+          "cp36"
+        ],
+        "hidapi-0.13.1-cp36-cp36m-win_amd64.whl": [
+          "0eke8MyoGFqFhJHZ4lP1heWIiMU1ABOrkwXK9Lf1Y7o=",
+          "cp36"
+        ],
+        "hidapi-0.13.1-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "inNepJxo1gCLTgez3ltMIR+HXCYt0U1maaNim8SCo3U=",
+          "cp37"
+        ],
+        "hidapi-0.13.1-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "yGR+6yhtG0YQSilyWLSvFeeHiz29uZUboBzyM7L/UTo=",
+          "cp37"
+        ],
+        "hidapi-0.13.1-cp37-cp37m-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "z2qQ+YjDobGRD0QcKeTIwhFQxssO1ai+O+pxWu0CAC0=",
+          "cp37"
+        ],
+        "hidapi-0.13.1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "WFgDYNxpIGpU78zG0jS6ptv6VjlDhv93vdZyKLJ8l1k=",
+          "cp37"
+        ],
+        "hidapi-0.13.1-cp37-cp37m-win32.whl": [
+          "HrEkeTDr9FJ1k32wEYVogNxuPJYSkNyHg4NSMDEiULY=",
+          "cp37"
+        ],
+        "hidapi-0.13.1-cp37-cp37m-win_amd64.whl": [
+          "FVvODAdB7jtM+TrFPQJSbvFgCKHvPZBxzWfdThkMAtg=",
+          "cp37"
+        ],
+        "hidapi-0.13.1-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "LwE9fhB675Ckx5gC9+RPUoD5/WLT1D4wfdfRCMlSd80=",
+          "cp38"
+        ],
+        "hidapi-0.13.1-cp38-cp38-macosx_11_0_arm64.whl": [
+          "r8eZHBIjXzOStfdEt1h4Qp2/WjpKDVHKGLHoLrzOcDM=",
+          "cp38"
+        ],
+        "hidapi-0.13.1-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "o/z+bkp1ZRuvcEAB3fdlMm3dZLVbG6bNDi4IUUCcJ8Q=",
+          "cp38"
+        ],
+        "hidapi-0.13.1-cp38-cp38-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "ZOwNzOKCMjVKkdRXWnTqt3/LtDefovRlDp6q3XVh2Ic=",
+          "cp38"
+        ],
+        "hidapi-0.13.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "gXTglThqN+s9jrCOlC86p+a9cDwpbbtsRcvKQIYqclM=",
+          "cp38"
+        ],
+        "hidapi-0.13.1-cp38-cp38-win32.whl": [
+          "Lcr0ud+RoQwOKQTxdcC/7VPVGj/nPSq6cGHdw2Akn4Y=",
+          "cp38"
+        ],
+        "hidapi-0.13.1-cp38-cp38-win_amd64.whl": [
+          "9aFqipeslEd1NpcTs1u0eny2swkUWOfP5P3sP3rJwp4=",
+          "cp38"
+        ],
+        "hidapi-0.13.1-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "CTP+9uFZnDgJO+wio93tNZ+wqc5Xq0PbiUfspzCP4Kg=",
+          "cp39"
+        ],
+        "hidapi-0.13.1-cp39-cp39-macosx_11_0_arm64.whl": [
+          "IMBqIlZpboPF8nidzZqBCQCa9fPnWvAIKTSGf8beUoM=",
+          "cp39"
+        ],
+        "hidapi-0.13.1-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "e1l3jOx++fYVF3i/ZaGx3RZAFCONfUNFyON2xKS6rA4=",
+          "cp39"
+        ],
+        "hidapi-0.13.1-cp39-cp39-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "ItWvb3dv/86AeNbTeF3IwWR2iBg8Hb2iSs9t2EHXasM=",
+          "cp39"
+        ],
+        "hidapi-0.13.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ntU2YnQpvCmbKBiKKNL+QjC0ctc37p3FyDdv1mxBhnQ=",
+          "cp39"
+        ],
+        "hidapi-0.13.1-cp39-cp39-win32.whl": [
+          "Y0lMzORr9gSR1+RPE3FEOheOIa+ih7NBKIBXv7776HI=",
+          "cp39"
+        ],
+        "hidapi-0.13.1-cp39-cp39-win_amd64.whl": [
+          "VpbhR5wgPmEj219sXv/m/co6XaMyvZulWWhwVq97HTw=",
+          "cp39"
+        ]
+      }
+    },
     "0.7.99.post10": {
       "sdist": [
         "OxgMOydlupjNNwELmVkHoeX2R9a+D1HSSRf+jMzENDY=",
@@ -53696,6 +53864,14 @@
       "wheels": {
         "huaweicloudsdkgaussdbfornosql-3.1.21-py2.py3-none-any.whl": [
           "0clgwc1s1AQgAla+B+qCAE+1L8CjZEsnBtfw6TZOM+Y=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.22": {
+      "wheels": {
+        "huaweicloudsdkgaussdbfornosql-3.1.22-py2.py3-none-any.whl": [
+          "vOU+oa+bdTF+9EqVjs+4e80KIg8Bxyf824GGzWeyVUE=",
           "py2.py3"
         ]
       }
@@ -77878,6 +78054,14 @@
       "wheels": {
         "odoo12_addon_mrp_multi_level-12.0.2.4.1-py3-none-any.whl": [
           "pkGIcn5tb+Q3fpYCf6tBjLNJk31KATyXktOaEO/+73s=",
+          "py3"
+        ]
+      }
+    },
+    "12.0.2.4.1.99.dev1": {
+      "wheels": {
+        "odoo12_addon_mrp_multi_level-12.0.2.4.1.99.dev1-py3-none-any.whl": [
+          "cXt799cWVqgWZ6unAyjfHdVti3ozIaAtRbukTrY2keE=",
           "py3"
         ]
       }
@@ -121830,6 +122014,18 @@
         ]
       }
     },
+    "0.0.13.dev20230112": {
+      "sdist": [
+        "OWKuLqBK5gtk/z1z6OtL6qwuMevxredJdl2iYK4IYd4=",
+        "seqio-nightly-0.0.13.dev20230112.tar.gz"
+      ],
+      "wheels": {
+        "seqio_nightly-0.0.13.dev20230112-py3-none-any.whl": [
+          "NKmyA0Q50jeinKyRbTE3k+FK2GSREXh5CpOeKaVkcM8=",
+          "py3"
+        ]
+      }
+    },
     "0.0.7.dev20211103": {
       "sdist": [
         "kNZOayVWFdG+gZZ05DQyq5xrzV6zxBNK8i9qgTF/BRY=",
@@ -134552,6 +134748,86 @@
         ]
       }
     },
+    "1.2.0": {
+      "sdist": [
+        "gekSfbxi6peawBuZnL8D1j/QcgMXeTwVjIuauNRK1Dc=",
+        "spacy-transformers-1.2.0.tar.gz"
+      ],
+      "wheels": {
+        "spacy_transformers-1.2.0-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "0ezzUeYJ7aFltey62Xq1PHzAUJMXMOPq1y8CIwnChJs=",
+          "cp310"
+        ],
+        "spacy_transformers-1.2.0-cp310-cp310-macosx_11_0_arm64.whl": [
+          "gcDD1Q0SYTX0ZW7fUOvzRsNwWVuu8rV88I4e8K0fjNc=",
+          "cp310"
+        ],
+        "spacy_transformers-1.2.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "R7NSYp2w8kcbSr1Ku55fYC7qLFFAjx/t4TAfcl97Zqc=",
+          "cp310"
+        ],
+        "spacy_transformers-1.2.0-cp310-cp310-win_amd64.whl": [
+          "x+LTVEHfojN33OF4MHHj5V+YPFdpKqzk7U4+GxjjwDI=",
+          "cp310"
+        ],
+        "spacy_transformers-1.2.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "APX5nhy6j/x3CPEuolPG12q+2ZxRFt2HjOjhxVLClCA=",
+          "cp311"
+        ],
+        "spacy_transformers-1.2.0-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "+rG1Xm0glMemtNDikvKmBHOl30dITEK82qZtn/7qlqA=",
+          "cp36"
+        ],
+        "spacy_transformers-1.2.0-cp36-cp36m-win_amd64.whl": [
+          "7KTr24VL0sR7XSFdg5Iqp+oNMYhVenjG+Y6xxdfx5+s=",
+          "cp36"
+        ],
+        "spacy_transformers-1.2.0-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "7KLja5hWTKamV6ujdpS80h2B+B7aeTwfVn18etGbViU=",
+          "cp37"
+        ],
+        "spacy_transformers-1.2.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "wjkDQ2DNEv7CO0YT3WGpsXjRhSdwJz1TND1GZgUlN1Q=",
+          "cp37"
+        ],
+        "spacy_transformers-1.2.0-cp37-cp37m-win_amd64.whl": [
+          "cSGSmf9vs68xAsOLlnhhmEq/XEMKxRU7nPSt0hM02VM=",
+          "cp37"
+        ],
+        "spacy_transformers-1.2.0-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "FcYA04yNz7neG7xiq5gxGl4gPcaSHtAcF5JnT477cqc=",
+          "cp38"
+        ],
+        "spacy_transformers-1.2.0-cp38-cp38-macosx_11_0_arm64.whl": [
+          "Hqgc/rr4T93tEkm1i38HAMTkPfx+W59bp6fcYe17IdI=",
+          "cp38"
+        ],
+        "spacy_transformers-1.2.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ilyfsd5mS3Q20TmqZxpsmIbusjC2G2BdCigTmoOuoeQ=",
+          "cp38"
+        ],
+        "spacy_transformers-1.2.0-cp38-cp38-win_amd64.whl": [
+          "MD01pkxNk/woiehx66AZ+P8H3rQh+JzahCWJuBHpAfI=",
+          "cp38"
+        ],
+        "spacy_transformers-1.2.0-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "WS7wmJoXy9akM/I5r41ooeXWz03isNSnWaccv9ZOCO8=",
+          "cp39"
+        ],
+        "spacy_transformers-1.2.0-cp39-cp39-macosx_11_0_arm64.whl": [
+          "SlUsCIfFbue99lX4uhHZBFRmCASeStz6JfUsPL5qIVI=",
+          "cp39"
+        ],
+        "spacy_transformers-1.2.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "3a3QX8IywpWLGcdv3YrP34yWBHw6vEiKx8F0CpwZ4p0=",
+          "cp39"
+        ],
+        "spacy_transformers-1.2.0-cp39-cp39-win_amd64.whl": [
+          "E/oQKGpGN1uhZ+hb69BVS8I8I/ESocQDJiFdcMJQfJs=",
+          "cp39"
+        ]
+      }
+    },
     "1.2.0.dev0": {
       "sdist": [
         "j6Vqtr+iQZ6BO0LVT05MnykXhBRzs+MMReoP32iTLvU=",
@@ -143570,6 +143846,18 @@
       "wheels": {
         "traceml-1.0.3-py3-none-any.whl": [
           "waalBsNhzLx/NeBf4NJqfb0J8AsoXSpJxQ75PruCSug=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.4": {
+      "sdist": [
+        "y2RlV92x5awuprAp5k4ufGt8oWI0YSd/9zCYqvTRoWo=",
+        "traceml-1.0.4.tar.gz"
+      ],
+      "wheels": {
+        "traceml-1.0.4-py3-none-any.whl": [
+          "rC8KOs49mwVBcDILjXFi/nRlwFfL2HbY7WxvDgNsvhA=",
           "py3"
         ]
       }

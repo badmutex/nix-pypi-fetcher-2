@@ -371,6 +371,18 @@
           "py3"
         ]
       }
+    },
+    "1.4.0": {
+      "sdist": [
+        "0sJE0BBIukdufAgL0sbfXhQdIR3oAiNGDVs7iipYQz0=",
+        "absl-py-1.4.0.tar.gz"
+      ],
+      "wheels": {
+        "absl_py-1.4.0-py3-none-any.whl": [
+          "DT/mBq36T322R5LdTHruTuDDirdd/TU7eoPtPpV/y0c=",
+          "py3"
+        ]
+      }
     }
   },
   "abutils": {
@@ -3178,6 +3190,18 @@
       "wheels": {
         "amqtt_pazzarpj-0.10.1.dev0-py3-none-any.whl": [
           "ptx8ofuSsHMDuKavKrCV6pGeZNbh43pxpmXvbiJoFGw=",
+          "py3"
+        ]
+      }
+    },
+    "0.10.1.dev1": {
+      "sdist": [
+        "HN3SCN87T7ND8vkPmNcJMd4DqFv347UGa34h1vAWu2E=",
+        "amqtt_pazzarpj-0.10.1.dev1.tar.gz"
+      ],
+      "wheels": {
+        "amqtt_pazzarpj-0.10.1.dev1-py3-none-any.whl": [
+          "sTI/qh9XEleFXH2SEA0hxCkIDuZR+QSzzQPRgk7B4b8=",
           "py3"
         ]
       }
@@ -6532,6 +6556,18 @@
       "wheels": {
         "aws_cdk.aws_globalaccelerator-1.187.0-py3-none-any.whl": [
           "ji0zEKoSlZBrJSveqzQeuRw5D+v/2DoyZqCqhgGUbMQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.188.0": {
+      "sdist": [
+        "qRIcPcl7XdJG5t7xfrBxTNFW6Cr0EqL8tcanAwS8soQ=",
+        "aws-cdk.aws-globalaccelerator-1.188.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_globalaccelerator-1.188.0-py3-none-any.whl": [
+          "Q+SFs+hpzCUdTtD/Lk8mUyfOHmxnyk6d6dOhAnyF+Ho=",
           "py3"
         ]
       }
@@ -13254,6 +13290,18 @@
       "wheels": {
         "biobricks-0.0.32-py3-none-any.whl": [
           "/BuZAzL2lSje6jJoDOXifpEiGXvamdtxTnmsTCWUmlQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.33": {
+      "sdist": [
+        "+omyyo9RqMsl+QpsdXZrh5R8EMzS5rcuNexpmyeNBLs=",
+        "biobricks-0.0.33.tar.gz"
+      ],
+      "wheels": {
+        "biobricks-0.0.33-py3-none-any.whl": [
+          "JFekkzlX4Wh75bFf/XLTbvuBwwc1YR8gNTLxBTPl0RA=",
           "py3"
         ]
       }
@@ -27174,6 +27222,18 @@
       "wheels": {
         "coastseg-0.0.14-py3-none-any.whl": [
           "067PB6P2eZzXJi/mTgYakI5R8ov2uhHBaF0FYhxIusU=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.15": {
+      "sdist": [
+        "ws96KsAaHIOeGHb7giY4X7H7hRqHiTWZjFxGr//7gbE=",
+        "coastseg-0.0.15.tar.gz"
+      ],
+      "wheels": {
+        "coastseg-0.0.15-py3-none-any.whl": [
+          "kujICfC4iuaMzaznOx9nZs/FC244tPmQzu5r7JouPVc=",
           "py3"
         ]
       }
@@ -139958,6 +140018,126 @@
         ],
         "snowflake_connector_python_nightly-2023.1.11-cp39-cp39-win_amd64.whl": [
           "1DFyAMzlZENkNOz8l/YWAFakW2kJoxh5m+LaPD8XDGs=",
+          "cp39"
+        ]
+      }
+    },
+    "2023.1.12": {
+      "sdist": [
+        "8IaNXUfCOw/pHCldLbzJBFfW6cjoXUJMcElSTtU573c=",
+        "snowflake-connector-python-nightly-2023.1.12.tar.gz"
+      ],
+      "wheels": {
+        "snowflake_connector_python_nightly-2023.1.12-cp310-cp310-macosx_10_14_universal2.whl": [
+          "8mkj9Ve4wrqAGP4mRaFtoAUoRlHpvducF/dz62uxIUI=",
+          "cp310"
+        ],
+        "snowflake_connector_python_nightly-2023.1.12-cp310-cp310-macosx_10_14_x86_64.whl": [
+          "Lcr0Ory2Jzz5yqkUZNPsHfonFJB6NXyCnCg7VOQ0iDg=",
+          "cp310"
+        ],
+        "snowflake_connector_python_nightly-2023.1.12-cp310-cp310-macosx_11_0_arm64.whl": [
+          "X0RZTDyAd589u5eehBAfrjthZXCtk0avIaQZUTUEOac=",
+          "cp310"
+        ],
+        "snowflake_connector_python_nightly-2023.1.12-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "dKSAAbCyYH7Z2Vr88HyO8sPt/0qYeQXB6pAooKFHrno=",
+          "cp310"
+        ],
+        "snowflake_connector_python_nightly-2023.1.12-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "hnO+YYdxRf07dokjU2vws/vu/uQKXT/Kc0PyI72P9XA=",
+          "cp310"
+        ],
+        "snowflake_connector_python_nightly-2023.1.12-cp310-cp310-win_amd64.whl": [
+          "g7A0G1L+rd19ZHduqAP0Jn7smuFbktD3wzfXoVbxg4k=",
+          "cp310"
+        ],
+        "snowflake_connector_python_nightly-2023.1.12-cp311-cp311-macosx_10_14_universal2.whl": [
+          "TSa0smLw2rvz+d83O8Sne1EnsjJdrY9WnUfNaksSKdg=",
+          "cp311"
+        ],
+        "snowflake_connector_python_nightly-2023.1.12-cp311-cp311-macosx_10_14_x86_64.whl": [
+          "/iyS83nNtNQDy1wIxQTe4JgVpSGuP6hhlRu7tZj9ycs=",
+          "cp311"
+        ],
+        "snowflake_connector_python_nightly-2023.1.12-cp311-cp311-macosx_11_0_arm64.whl": [
+          "E/zRk4SHepZPbKIsDZVg3HsGIAu4Dd1ZOW5nLadE84c=",
+          "cp311"
+        ],
+        "snowflake_connector_python_nightly-2023.1.12-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "Ss3wMSGFWC9Fk4SWs+Z1SRsr81s0D4r+WRiedaTae90=",
+          "cp311"
+        ],
+        "snowflake_connector_python_nightly-2023.1.12-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Wex/SKR6vbAr3bR77m53A7Akkc5mF6zM2Ai8Xry4UbU=",
+          "cp311"
+        ],
+        "snowflake_connector_python_nightly-2023.1.12-cp311-cp311-win_amd64.whl": [
+          "xlZ3bSvvu8meXaYT3aPcHWEAmxLPZ3iuzyYMVpFLJsY=",
+          "cp311"
+        ],
+        "snowflake_connector_python_nightly-2023.1.12-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "AGR9u1+nR9O2X/TjoTa0bO8UTpxlnGmevf26Ip7VACU=",
+          "cp37"
+        ],
+        "snowflake_connector_python_nightly-2023.1.12-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "3+JOxIBYIH5XL75OVveHukeMHF8hhYcBjcHJ8166AB0=",
+          "cp37"
+        ],
+        "snowflake_connector_python_nightly-2023.1.12-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "O7JCyq61aCctKY3rc+mTsN+kVVcL/Tguky47UXPux+g=",
+          "cp37"
+        ],
+        "snowflake_connector_python_nightly-2023.1.12-cp37-cp37m-win_amd64.whl": [
+          "2tLO6Z4hmw1K/tYNbaxGOcuti51GzvIL3yOdJcJOFng=",
+          "cp37"
+        ],
+        "snowflake_connector_python_nightly-2023.1.12-cp38-cp38-macosx_10_14_universal2.whl": [
+          "pEpybDvJ4WHgmjNOe/yjcX6oyc4kv51rRdPXBH90wFA=",
+          "cp38"
+        ],
+        "snowflake_connector_python_nightly-2023.1.12-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "m2QldeJ/+2BYjAg+9BMz3qfydeK6mKewb3jPkl6nglE=",
+          "cp38"
+        ],
+        "snowflake_connector_python_nightly-2023.1.12-cp38-cp38-macosx_11_0_arm64.whl": [
+          "PWTgKPpPNoupn9KuAtIdu9MXHIecCSLh3cpHOt9VLKM=",
+          "cp38"
+        ],
+        "snowflake_connector_python_nightly-2023.1.12-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "VTeTSPxRq+mLBWWr0CyKHXLqlCdYiQyFmtwdrRA3xyk=",
+          "cp38"
+        ],
+        "snowflake_connector_python_nightly-2023.1.12-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "3Bo0yzTtuLcDrY6nnxzjUptL3atRhzhWYT5kFdOM6Ik=",
+          "cp38"
+        ],
+        "snowflake_connector_python_nightly-2023.1.12-cp38-cp38-win_amd64.whl": [
+          "hIVmoD0bwaBC5bLzFHaUIBqBeneVd9tShz0CABDQBco=",
+          "cp38"
+        ],
+        "snowflake_connector_python_nightly-2023.1.12-cp39-cp39-macosx_10_14_universal2.whl": [
+          "+EAZNDjRHKn1YJoEpE9e2ulNh/BXG0+KikPPSNCuhao=",
+          "cp39"
+        ],
+        "snowflake_connector_python_nightly-2023.1.12-cp39-cp39-macosx_10_14_x86_64.whl": [
+          "tRfrftqwuEMDkox4jcqjGzTaE0KFMHl/v/v8nDdz2Zs=",
+          "cp39"
+        ],
+        "snowflake_connector_python_nightly-2023.1.12-cp39-cp39-macosx_11_0_arm64.whl": [
+          "Ciy9bVaT94/6C4dWIJEv/bWJ25U4O9PXC7aTDQJVPIk=",
+          "cp39"
+        ],
+        "snowflake_connector_python_nightly-2023.1.12-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "oe7uiZZEnhr0YedO4D7NJqH9lUaz04zLaB1cPhlAnTw=",
+          "cp39"
+        ],
+        "snowflake_connector_python_nightly-2023.1.12-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "kNp0YhFHQH3+gDUVlioh/SXUjDvCZW9ot2vOgrpIoyg=",
+          "cp39"
+        ],
+        "snowflake_connector_python_nightly-2023.1.12-cp39-cp39-win_amd64.whl": [
+          "8jVOaH8uKAYkrdUPpaGonGT9gbSLRdEnYFhmqrGsKrA=",
           "cp39"
         ]
       }

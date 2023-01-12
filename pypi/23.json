@@ -4386,6 +4386,30 @@
         ]
       }
     },
+    "1.4.37": {
+      "sdist": [
+        "EF5oCHy4+GXadrgxIUc2WwNqEBuBDf/Nm1Vw8jANQB8=",
+        "algora-sdk-1.4.37.tar.gz"
+      ],
+      "wheels": {
+        "algora_sdk-1.4.37-py3-none-any.whl": [
+          "Hax96S1t/EO3j9z73ApGRiqjD8aMlQS7o3R27gMd5iM=",
+          "py3"
+        ]
+      }
+    },
+    "1.4.39": {
+      "sdist": [
+        "vsHMsjVsi4uMWQunJn+X/XWgt/tNe63TYIFoAVgwBoA=",
+        "algora-sdk-1.4.39.tar.gz"
+      ],
+      "wheels": {
+        "algora_sdk-1.4.39-py3-none-any.whl": [
+          "ovYnDT1qoCMUxzYQmZbMij6mO4hcvlyCiA7jOHPBRAQ=",
+          "py3"
+        ]
+      }
+    },
     "1.4.5": {
       "sdist": [
         "PWCi2b1gHDRzSEvL78kcNN8PPQsUtkKMDVWJGag/GqQ=",
@@ -10430,6 +10454,18 @@
       "wheels": {
         "aws_cdk.aws_managedblockchain-1.187.0-py3-none-any.whl": [
           "6rW2dYvpxnPg6djIvOFYI4v7P+zfFnYRnV98GI5gEWo=",
+          "py3"
+        ]
+      }
+    },
+    "1.188.0": {
+      "sdist": [
+        "0dI6FvC7nBd0xnLzziGWvC5xclBB7E13gScG+pK6rLs=",
+        "aws-cdk.aws-managedblockchain-1.188.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_managedblockchain-1.188.0-py3-none-any.whl": [
+          "OEPB26Ewjk/rlyuT1z4qI7ReM0SPBiH3e0EuES51n6E=",
           "py3"
         ]
       }
@@ -30742,6 +30778,18 @@
       "wheels": {
         "cdktf_cdktf_provider_local-4.0.0-py3-none-any.whl": [
           "YFGb/S5Qn32OXeUkM9B4XwTEGVFaAqpXeB4ZNDql+lo=",
+          "py3"
+        ]
+      }
+    },
+    "4.0.1": {
+      "sdist": [
+        "EHD6HztOyX59dODu9B/ULeNLzmSSr+sKCZHZd5jjnBw=",
+        "cdktf-cdktf-provider-local-4.0.1.tar.gz"
+      ],
+      "wheels": {
+        "cdktf_cdktf_provider_local-4.0.1-py3-none-any.whl": [
+          "u1Jwduvm3cAbFKJsXNLikTPlqaTpnJqDgSQmaXhrzaE=",
           "py3"
         ]
       }
@@ -75246,6 +75294,20 @@
       "wheels": {
         "marketorestclientpython-0.3-py3-none-any.whl": [
           "YhTedMovyGrwLdNAwghSnoCmkYhdQMfDn0aM9MdqZgM=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "martian-api": {
+    "1.0.0": {
+      "sdist": [
+        "JdUQV8kw7k0D3G0FE9DkSSF3Pku8YSguhYyOed69mm8=",
+        "martian_api-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "martian_api-1.0.0-py3-none-any.whl": [
+          "s51hY/vtl6AWzoJhjfq1YdicypqP1rfYBbY9LgI37vU=",
           "py3"
         ]
       }
@@ -139091,6 +139153,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.813": {
+      "sdist": [
+        "rwPh0I5OALsarS26jCaWsf/pf9QNqDxxNqLVOLfzzD0=",
+        "tencentcloud-sdk-python-mariadb-3.0.813.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_mariadb-3.0.813-py2.py3-none-any.whl": [
+          "DoNY6twKGxUInuLMfBEbYR8nIERWiCWQb+Z3eXid3Ok=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tencentcloud-sdk-python-ssm": {
@@ -145597,6 +145671,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.813": {
+      "sdist": [
+        "ipNYVzU+CtwEm1mk6XA2KJQc0fNhXVSjeg+5R2WmUXk=",
+        "tencentcloud-sdk-python-ssm-3.0.813.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_ssm-3.0.813-py2.py3-none-any.whl": [
+          "/4dv+Ku6hL0SXikhaOUCjGYZd1MCqMPAIPTM/9smgPM=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tennet-py": {
@@ -150164,6 +150250,42 @@
       "wheels": {
         "Twitter_Spaces_Speaker_Lookup-0.0.3-py3-none-any.whl": [
           "UzGWxCHDduG8i3cz8CEk7xY8zJno2fJmB4ty+oZLX98=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4": {
+      "sdist": [
+        "e/WJTGbE8dNMpA1B+jjDfvcXenpzDBAeDf5oZFHcCn4=",
+        "Twitter-Spaces-Speaker-Lookup-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "Twitter_Spaces_Speaker_Lookup-0.0.4-py3-none-any.whl": [
+          "WYmZ6lVGh8PT/QYYaJasdgWzVQH7KKp5BuEng7MN11g=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.5": {
+      "sdist": [
+        "aaCnMs/X2KxnnS4NnvVp917RhA+JdLyZwqBkc4kRCt8=",
+        "Twitter-Spaces-Speaker-Lookup-0.0.5.tar.gz"
+      ],
+      "wheels": {
+        "Twitter_Spaces_Speaker_Lookup-0.0.5-py3-none-any.whl": [
+          "PcS8GGppvs6wfDlvaPJGLRfStcJamKioEGos70bU0v4=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.6": {
+      "sdist": [
+        "8wWIHJ/ni+xj3E7kMW9iZ7J56zkIy47cAN6QJKx83Hw=",
+        "Twitter-Spaces-Speaker-Lookup-0.0.6.tar.gz"
+      ],
+      "wheels": {
+        "Twitter_Spaces_Speaker_Lookup-0.0.6-py3-none-any.whl": [
+          "Y5ut/oCJI+o5Xs1o8pc1/KLbe81oYBpH1HC0C8N1f7E=",
           "py3"
         ]
       }

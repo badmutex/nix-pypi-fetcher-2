@@ -9706,6 +9706,18 @@
         ]
       }
     },
+    "1.188.0": {
+      "sdist": [
+        "qXFxV4hOWX2wTjGIClNeg7lOwybCaJvkFoSFnc7Tgv0=",
+        "aws-cdk.aws-greengrass-1.188.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_greengrass-1.188.0-py3-none-any.whl": [
+          "kxnWGI2gyzvKKBgqRqMOG0Sm86OL2w0zqRw7cSjoJGg=",
+          "py3"
+        ]
+      }
+    },
     "1.19.0": {
       "sdist": [
         "0bQ6Ci8KqJx0WN4JcWQJAdztx3+SJefNOSdFK0F3jPM=",
@@ -84183,6 +84195,14 @@
           "py3"
         ]
       }
+    },
+    "1.1.1": {
+      "wheels": {
+        "nucliadb_dataset-1.1.1-py3-none-any.whl": [
+          "yN9PGBEZyV/WXF6J+7GEpjBz8yAwH9+L78neeC+b2pw=",
+          "py3"
+        ]
+      }
     }
   },
   "nucliadb-writer": {
@@ -144822,6 +144842,18 @@
       "wheels": {
         "tencentcloud_sdk_python_ticm-3.0.812-py2.py3-none-any.whl": [
           "5fdytCFPXynoOsuFbdC7kA/lvgFPAlOEovz94XCV4RQ=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.813": {
+      "sdist": [
+        "YNqeerAebJMMtJL57LOK+N9CTOzy37zKnpB1bnzEqiM=",
+        "tencentcloud-sdk-python-ticm-3.0.813.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_ticm-3.0.813-py2.py3-none-any.whl": [
+          "bTU/ym7CYU8cmWxtQb+7vfrYV2l9hh2TZcriIo69etk=",
           "py2.py3"
         ]
       }

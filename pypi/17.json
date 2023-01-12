@@ -9498,6 +9498,18 @@
         ]
       }
     },
+    "1.188.0": {
+      "sdist": [
+        "mX8De8F8iCZZ3gufir+OVQ6hOFmLJG5QUaT1TACj/4k=",
+        "aws-cdk.aws-autoscaling-hooktargets-1.188.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_autoscaling_hooktargets-1.188.0-py3-none-any.whl": [
+          "JzptD3TD9H1Lkj+KQFImgg8QA/pULVK0XuH0ej5Wb2c=",
+          "py3"
+        ]
+      }
+    },
     "1.19.0": {
       "sdist": [
         "kHuA7LoUz6eYwRSp3rmdvV4Nj8MdfCe7S/olEZD5adQ=",
@@ -15080,6 +15092,18 @@
       "wheels": {
         "botocore_a_la_carte_chime_sdk_media_pipelines-1.29.47-py3-none-any.whl": [
           "1iS8ISVLu/O3eGJ8dpQPqYTxkI70dPftXUdqN/VhsDo=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.48": {
+      "sdist": [
+        "TeqNqO94I//vMytZhH9o3+ldGxdn/6N5rYUiLGV3P7s=",
+        "botocore-a-la-carte-chime-sdk-media-pipelines-1.29.48.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_chime_sdk_media_pipelines-1.29.48-py3-none-any.whl": [
+          "tbcKwillo3HErZXXRJ11or2rf4m84RdNlxAxgWy3Z4o=",
           "py3"
         ]
       }
@@ -32718,6 +32742,18 @@
       "wheels": {
         "devoud-1.0b11-py3-none-any.whl": [
           "I6ayzW+SMuboyDdKWwsSINnRQp6u05HsXJyaCgRH8KA=",
+          "py3"
+        ]
+      }
+    },
+    "1.0b12": {
+      "sdist": [
+        "0ZNZ7bX1FXcHqttKigC6CPq1fM6/xRGCrQafiobUfh0=",
+        "devoud-1.0b12.tar.gz"
+      ],
+      "wheels": {
+        "devoud-1.0b12-py3-none-any.whl": [
+          "xzTn1e7MnFlUw2wBdi5I9TbRl0D2niRhic8AA5LVKgg=",
           "py3"
         ]
       }
@@ -96316,6 +96352,12 @@
         "proactive-13.1.0.2301110239.dev0.zip"
       ]
     },
+    "13.1.0.2301120239.dev0": {
+      "sdist": [
+        "AcgeBWs1TkexjdCURLyqTsWAdO972ldTjUR7j3H6Cqg=",
+        "proactive-13.1.0.2301120239.dev0.zip"
+      ]
+    },
     "13.1.1.2212182207.dev0": {
       "sdist": [
         "hcTQsCB22rsAzxYjV/+6nG22zFdUzgINev+tcAa3OSM=",
@@ -106296,11 +106338,17 @@
     }
   },
   "pyriotapi": {
-    "0.1.0": {
+    "0.0.1": {
       "sdist": [
-        "i40uKY89J7u8AYx0WmXyiT/u9bJScMeCz8oefzqO3Tg=",
-        "pyriotapi-0.1.0.tar.gz"
-      ]
+        "La+mOo65vJzbGqycW/qnlhAJjwsIX2ahoxvuRQ1xasg=",
+        "pyriotapi-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "pyriotapi-0.0.1-py3-none-any.whl": [
+          "bZU0JUTf+QC8DlJqqBQSp6UWY+0v5MaFYIM9fdMNH6s=",
+          "py3"
+        ]
+      }
     }
   },
   "pyscf-doci": {
@@ -116738,6 +116786,18 @@
       "wheels": {
         "robotcode-0.21.3-py3-none-any.whl": [
           "fPtkUzuMXzqrlaTJSuVIdPT9pgk30Z3wic5hPv1uueI=",
+          "py3"
+        ]
+      }
+    },
+    "0.21.4": {
+      "sdist": [
+        "OsXIzA/TxrEk3c41Jj5splwa3+PbtopVJlR/jZkbR1Y=",
+        "robotcode-0.21.4.tar.gz"
+      ],
+      "wheels": {
+        "robotcode-0.21.4-py3-none-any.whl": [
+          "/VamTDoHf+2JlpR2rOX2+tZXtbiMkj7h7TgYF8CB9SE=",
           "py3"
         ]
       }
@@ -133282,6 +133342,18 @@
       "wheels": {
         "thatscraper-0.1.1-py3-none-any.whl": [
           "c0DAhpkkT9Y6hivvbAHX2oETMQI6E8VNY4j1+aQVbxE=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "xXUzYGu6F6Ks4ooxbX+YNTNQukCfj7Y6wiRnoQDxvmA=",
+        "thatscraper-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "thatscraper-0.1.2-py3-none-any.whl": [
+          "XJVAYMw2fMgGTsN7ntdjunsgu94mJJcQZrprmHqdvl4=",
           "py3"
         ]
       }

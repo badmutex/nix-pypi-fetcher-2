@@ -8560,6 +8560,18 @@
         ]
       }
     },
+    "1.188.0": {
+      "sdist": [
+        "gFeEDQ/s0IvRn8WDbfNNnedk5MN4qJ0sqo2QuVRqOeg=",
+        "aws-cdk.aws-ce-1.188.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_ce-1.188.0-py3-none-any.whl": [
+          "jdthf/6W5PvwaP3bANcUFAudFOeG9/5fyKM/2e3AhyM=",
+          "py3"
+        ]
+      }
+    },
     "1.36.1": {
       "sdist": [
         "/mSjT9CLHoSTSpJ7v14G4C3BXJWcfJLoyRzdN6Aw+8o=",
@@ -10514,6 +10526,18 @@
       "wheels": {
         "aws_cdk.aws_kinesisanalytics_flink_alpha-2.6.0a0-py3-none-any.whl": [
           "1k6lW1zAHUbQ0WWlF3X54fqOomadHxWKA5/sMIjkFPs=",
+          "py3"
+        ]
+      }
+    },
+    "2.60.0a0": {
+      "sdist": [
+        "EKWDHbB3GxYpidmq1gRHR1GnIIgnEF8j1sn6F1ywbyI=",
+        "aws-cdk.aws-kinesisanalytics-flink-alpha-2.60.0a0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_kinesisanalytics_flink_alpha-2.60.0a0-py3-none-any.whl": [
+          "Esr9MNch/688dP0kDBaGKeN9fOALlXmgosvUEXb4Owo=",
           "py3"
         ]
       }
@@ -16379,6 +16403,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.48": {
+      "sdist": [
+        "sH0qPNWJEtOtmBvwID+GQj8YuWVHYDIBE4nnSFIEsC8=",
+        "botocore-a-la-carte-iotthingsgraph-1.29.48.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_iotthingsgraph-1.29.48-py3-none-any.whl": [
+          "iZ2LNujbgFAPIgRyWEJkeU1XweieofxLcYJb9Bs+GiM=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-xray": {
@@ -16450,6 +16486,18 @@
       "wheels": {
         "botocore_a_la_carte_xray-1.29.47-py3-none-any.whl": [
           "BwhJ0x0At6APjjK7vWjs+RPK7EenZlwWMp4KyDPxZ04=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.48": {
+      "sdist": [
+        "f8/sxB9vBoQzSno0eGwLUahsW0aWMK493lgLI6mek/Y=",
+        "botocore-a-la-carte-xray-1.29.48.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_xray-1.29.48-py3-none-any.whl": [
+          "PZ8bWDQl+qzi5NmP4u27X6vX4NK2jADD0R4u9TucX4M=",
           "py3"
         ]
       }
@@ -17215,6 +17263,18 @@
         "build-0.1.0-py2.py3-none-any.whl": [
           "I5DGkKU7wioJy9NfcOzmnUDMhVPiZ+zgRttKWh0y2FY=",
           "py2.py3"
+        ]
+      }
+    },
+    "0.10.0": {
+      "sdist": [
+        "1bcSZK/bWVHWcESCqseN6IfIBpHFK4iprRlZg8oskmk=",
+        "build-0.10.0.tar.gz"
+      ],
+      "wheels": {
+        "build-0.10.0-py3-none-any.whl": [
+          "ryZnIAUKZsiTpglqL0EJie6sdP+aaLoZSz9kc+jiYXE=",
+          "py3"
         ]
       }
     },
@@ -48985,6 +49045,32 @@
         "BicRbvJiglHKWU+SCAjiHadkv8kZ34FnfCsoqIIgupQ=",
         "feincms-jobs-0.1.tar.gz"
       ]
+    }
+  },
+  "fennel-client-lib": {
+    "0.1.0": {
+      "sdist": [
+        "0WPa6aBHq5vImjCHw2jTAnS9d2T4CwF7b9xp8I5KpY8=",
+        "fennel_client_lib-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "fennel_client_lib-0.1.0-py3-none-any.whl": [
+          "0cEgyscxiTOJwRxUOFdPepmq8aOeYJEfldjQvQJHtXQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "3rd+78k+QFB/hSKdRxI3DsIQkGsGOtC1d/k+SSF5AA8=",
+        "fennel_client_lib-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "fennel_client_lib-0.1.1-py3-none-any.whl": [
+          "bdoeHVl4D4qZ/gCCEbh8WTh04yQ325zONC2sMp9Cpvs=",
+          "py3"
+        ]
+      }
     }
   },
   "fictionary": {
@@ -111059,6 +111145,16 @@
       }
     }
   },
+  "python-docparser": {
+    "1.1.0": {
+      "wheels": {
+        "python_docparser-1.1.0-py3-none-any.whl": [
+          "Jj7Bt7yUVNDQP+70tovaifRoyROAH683zgRMIN3Nz/A=",
+          "py3"
+        ]
+      }
+    }
+  },
   "python-dubbo-support-python3": {
     "0.0.1": {
       "sdist": [
@@ -134594,6 +134690,18 @@
       "wheels": {
         "tencentcloud_sdk_python_mna-3.0.812-py2.py3-none-any.whl": [
           "DVbqmQLg1pzQ+bIO1mcmhPh4qHaOFx7MQH8KsOLeZXw=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.813": {
+      "sdist": [
+        "18zr9F8iBTt2ACEywUeMUvsmLbWVTcS7nd13kRJYcM8=",
+        "tencentcloud-sdk-python-mna-3.0.813.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_mna-3.0.813-py2.py3-none-any.whl": [
+          "/EpoPzgDrh+DP01k2BS8ApySG7phYy+GkHsHfAAanOs=",
           "py2.py3"
         ]
       }

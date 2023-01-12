@@ -5950,6 +5950,18 @@
         ]
       }
     },
+    "1.188.0": {
+      "sdist": [
+        "gY+t1beTCOIQD7fa/P+RecRhS19HXdNniRvix9bDsto=",
+        "aws-cdk.aws-appconfig-1.188.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_appconfig-1.188.0-py3-none-any.whl": [
+          "wCQGNax6Eg+LzJnPqv40HzDSVAtiayDqpH3bzuD+TbQ=",
+          "py3"
+        ]
+      }
+    },
     "1.24.0": {
       "sdist": [
         "vZBbW11I5GVIPlu2ZIyMgITfIEck5Ax9VjZke4Kgoos=",
@@ -19094,6 +19106,18 @@
         ]
       }
     },
+    "1.26.48": {
+      "sdist": [
+        "iqP9RTqBUkC4XAEZDtDZkkYioaBhyTQjsUQzeerdPEM=",
+        "boto3-1.26.48.tar.gz"
+      ],
+      "wheels": {
+        "boto3-1.26.48-py3-none-any.whl": [
+          "oj/ofpuvynNmIN2dfll37qqifDq/WAD32Le30ItK1zY=",
+          "py3"
+        ]
+      }
+    },
     "1.26.5": {
       "sdist": [
         "y07KNLbhPk6tRqaPZnWf6q5r9elzYrLJebe58dIDcV4=",
@@ -24279,6 +24303,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.48": {
+      "sdist": [
+        "NUHxZsrRuWVyPoe5YGTiOBaeb4m7PF7u1wykNEcOYSk=",
+        "botocore-a-la-carte-connect-contact-lens-1.29.48.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_connect_contact_lens-1.29.48-py3-none-any.whl": [
+          "cJb0CX29Ew3LXxiD5zM6dQLLoQBveOC5AIUBWGcyqZs=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-elastic-inference": {
@@ -24353,6 +24389,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.48": {
+      "sdist": [
+        "FiJ1ZtJXWAXKtQCAuOiPh+iOOkdzuAku0oiL6gAq2j0=",
+        "botocore-a-la-carte-elastic-inference-1.29.48.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_elastic_inference-1.29.48-py3-none-any.whl": [
+          "lb602Opf3LiQclkJjjmGDtFnTQcYmZc8guzkNz70l8Q=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-robomaker": {
@@ -24424,6 +24472,18 @@
       "wheels": {
         "botocore_a_la_carte_robomaker-1.29.47-py3-none-any.whl": [
           "tp5LIWuXEJ0PF+EPerxTsv/TkbWNiHpTfsfgfnMRARA=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.48": {
+      "sdist": [
+        "pt5e78vpK/0SBuvw36HZt2dfpXLx7GpY9tztC4hLEWk=",
+        "botocore-a-la-carte-robomaker-1.29.48.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_robomaker-1.29.48-py3-none-any.whl": [
+          "elzYky0Jso7a+8tu89IogTnC59OFXMGYlCieAvgtOy4=",
           "py3"
         ]
       }
@@ -24766,6 +24826,18 @@
       "wheels": {
         "bufrtools-1.1.3-py3-none-any.whl": [
           "uHIp1+hMjl5i/gpTCAsEjamiSfX5AljLJcQXrRRQp2M=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.4": {
+      "sdist": [
+        "lpPJwBdVQmlnnWpuMCLtOoKx40fh6vOhhyVwwpmtfKU=",
+        "bufrtools-1.1.4.tar.gz"
+      ],
+      "wheels": {
+        "bufrtools-1.1.4-py3-none-any.whl": [
+          "886V4o3y0h9XcELu+rpd9dNL2lEgR5PtPn24AIRFx0w=",
           "py3"
         ]
       }
@@ -143201,6 +143273,10 @@
   },
   "tract": {
     "0.19.0": {
+      "sdist": [
+        "yJA3Cna7fqrPRFqYOpUibd3PzUqiNlnWuCvXsUMrHdU=",
+        "tract-0.19.0.tar.gz"
+      ],
       "wheels": {
         "tract-0.19.0-cp310-cp310-macosx_10_9_universal2.whl": [
           "KGvWrakU+0KP9ULjrlQ/wlGm2Qa8d/0mruOL3SBEvmA=",
@@ -143257,6 +143333,130 @@
         "tract-0.19.0-cp311-cp311-win_amd64.whl": [
           "e2dr49/vxaaaPNNcVtZDCeUcfAqC9CK3KfrDflJGv6M=",
           "cp311"
+        ],
+        "tract-0.19.0-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "EbITwKPyc3azzRqJ4lp+5zzhk/3KG73ErR8U7glUZpg=",
+          "cp37"
+        ],
+        "tract-0.19.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "rEU13her9xCwuv9y66M1eqoEVY08iJD3gvZa2s/i1Hw=",
+          "cp37"
+        ],
+        "tract-0.19.0-cp37-cp37m-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "kWsGvypGTo2NJ6BIjgDzKIqgDgh0eqii4Uy7cqC1SGs=",
+          "cp37"
+        ],
+        "tract-0.19.0-cp37-cp37m-musllinux_1_1_x86_64.whl": [
+          "qk1NdmzOCdLfCtQLiD79B+8NDmybnBdBcA0KGuAPli8=",
+          "cp37"
+        ],
+        "tract-0.19.0-cp37-cp37m-win_amd64.whl": [
+          "cCLAMpE+D6Xl2pjRoSxebnmKNIGgLl2qiR0WEnoN+L0=",
+          "cp37"
+        ],
+        "tract-0.19.0-cp38-cp38-macosx_10_9_universal2.whl": [
+          "GVeR6sG9dzQvu7XbUAZ6cxs0XxloqYK5hLc7OViPAWc=",
+          "cp38"
+        ],
+        "tract-0.19.0-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "5pkgnzKWMk1IvrRlUVOw8HbVtWbE3stnIW6uLiEq6Sg=",
+          "cp38"
+        ],
+        "tract-0.19.0-cp38-cp38-macosx_11_0_arm64.whl": [
+          "Rt1SFha48z1deKBD/bAyhKhrONXHRckyoWRuy2HGU+o=",
+          "cp38"
+        ],
+        "tract-0.19.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "hyBjAXawKm8F3xB3cKdp8dbqUTj3X4CcxOoIyeI/KRc=",
+          "cp38"
+        ],
+        "tract-0.19.0-cp38-cp38-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "UIuEe2FqFflH8zfxr8JBpZ4Jl1lUDgpXP8mynGJtJRg=",
+          "cp38"
+        ],
+        "tract-0.19.0-cp38-cp38-musllinux_1_1_x86_64.whl": [
+          "OjG24dDJzRhiIa5ZyR43RD1qJC0Y/WUu3b6gMvSsD2s=",
+          "cp38"
+        ],
+        "tract-0.19.0-cp38-cp38-win_amd64.whl": [
+          "4tk595cp7rhCa5BuUu7oqXMMX8ok+6nW8s+aG8k3gZ4=",
+          "cp38"
+        ],
+        "tract-0.19.0-cp39-cp39-macosx_10_9_universal2.whl": [
+          "46pl3l63IX7Kvhcjs1V49U35Uo8oILE/lDCSm38Wdz0=",
+          "cp39"
+        ],
+        "tract-0.19.0-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "ZJZk1WdFBZLXBdHfqHAn3bCPnvC9yfrUucPfrb9oeJs=",
+          "cp39"
+        ],
+        "tract-0.19.0-cp39-cp39-macosx_11_0_arm64.whl": [
+          "+JXkaqlTNY37/dgwLDbyci8yeHe77G5A9aKn7kEDnis=",
+          "cp39"
+        ],
+        "tract-0.19.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ZKOl9RqNMKl91bNtFXa8Kesczhb9umvPp/RJAaF65AU=",
+          "cp39"
+        ],
+        "tract-0.19.0-cp39-cp39-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "+FqLHI69eERIuxg5X25+2CER5UaZ3zYR2wVah4qSd6A=",
+          "cp39"
+        ],
+        "tract-0.19.0-cp39-cp39-musllinux_1_1_x86_64.whl": [
+          "NYiI8UDk5CBfRCcYNCJOMtd0kaHaDuyYHJz65/BefaQ=",
+          "cp39"
+        ],
+        "tract-0.19.0-cp39-cp39-win_amd64.whl": [
+          "opBEn+3rLPZ6TSQBOQKli9dptXU3wIAZ9S3a2GknTG8=",
+          "cp39"
+        ],
+        "tract-0.19.0-pp37-pypy37_pp73-macosx_10_9_x86_64.whl": [
+          "N/KVjThPeeM/Szn3u4Hp2jsfVD4jvWGJvNblUsnrRY0=",
+          "pp37"
+        ],
+        "tract-0.19.0-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "LRylSnToKuXVWw2eXHKQH/1Gwbu29OVhW9K5ewKA3fc=",
+          "pp37"
+        ],
+        "tract-0.19.0-pp37-pypy37_pp73-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "3RsBWvLSxcdKXxyRcLHYE37kvKcP+CVKJnolRzLtXCc=",
+          "pp37"
+        ],
+        "tract-0.19.0-pp37-pypy37_pp73-win_amd64.whl": [
+          "FW8HFZ5jV2jcFVRuMTUnTnzWr3ak3HJ76opQwJW7lJU=",
+          "pp37"
+        ],
+        "tract-0.19.0-pp38-pypy38_pp73-macosx_10_9_x86_64.whl": [
+          "rzRoSo8ZjbCH2Qd2Pf7HqvQVrzK9YkxIE47mE8a68U0=",
+          "pp38"
+        ],
+        "tract-0.19.0-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "7M6bmqd8Toq+e/MU/v8wbr43963aIhA8qxac3+o/WmA=",
+          "pp38"
+        ],
+        "tract-0.19.0-pp38-pypy38_pp73-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "FjRJ/WBuwwlsGr464UY4nxeMquWguSfUM3WycKSy1aA=",
+          "pp38"
+        ],
+        "tract-0.19.0-pp38-pypy38_pp73-win_amd64.whl": [
+          "C5YtDaz/HR6wPwfVMxw8kl7rU1Mr2ELbuMjrO9SSMag=",
+          "pp38"
+        ],
+        "tract-0.19.0-pp39-pypy39_pp73-macosx_10_9_x86_64.whl": [
+          "Ws1c5787c9sLq1s0nyMIjdn2sSeNe6H0QvgY8kzTfBw=",
+          "pp39"
+        ],
+        "tract-0.19.0-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "XLyPa6AMfZZsylzGnfqvOfRex7ZOM1De9ezz98Thy8I=",
+          "pp39"
+        ],
+        "tract-0.19.0-pp39-pypy39_pp73-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "8l7OjQcOH4l6d0ZBBMEaB8AmWxHU4Kpxrap9u49zd90=",
+          "pp39"
+        ],
+        "tract-0.19.0-pp39-pypy39_pp73-win_amd64.whl": [
+          "h/HFNI8Vo5D4I7+GrrtWoiGG9TL9z01maGZ7JGtq9bw=",
+          "pp39"
         ]
       }
     },
@@ -146594,6 +146794,18 @@
       "wheels": {
         "typeguard-3.0.0b1-py3-none-any.whl": [
           "ZTVM0HqpN9+4JnanBbYcOBnXO5GjoBDkR8pQQIePAws=",
+          "py3"
+        ]
+      }
+    },
+    "3.0.0b2": {
+      "sdist": [
+        "GH3cdsBGksLewcCgKRPIdd/urAeHeu7sJKiOJJBHseE=",
+        "typeguard-3.0.0b2.tar.gz"
+      ],
+      "wheels": {
+        "typeguard-3.0.0b2-py3-none-any.whl": [
+          "fTMO/C19Q6AF+L09sHoZntcs8fCqfCAxb6Z3W6lu5yA=",
           "py3"
         ]
       }

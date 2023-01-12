@@ -6661,6 +6661,18 @@
           "py3"
         ]
       }
+    },
+    "1.188.0": {
+      "sdist": [
+        "9eKtzRF9m5jSGlob/0Ty8vE7KzAdtzuBxaXyStg2s04=",
+        "aws-cdk.aws-iottwinmaker-1.188.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_iottwinmaker-1.188.0-py3-none-any.whl": [
+          "mwssIlRVxrdyuwQhF0/Nl2VMUUSG89GB5xoPtti7F+4=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-cdk.aws-route53recoverycontrol": {
@@ -7632,6 +7644,18 @@
       "wheels": {
         "aws_cdk.aws_route53recoverycontrol-1.187.0-py3-none-any.whl": [
           "5YrFLAEwlKkX9BmBMz4eE0anxEJyHzztsvnUjeyo79I=",
+          "py3"
+        ]
+      }
+    },
+    "1.188.0": {
+      "sdist": [
+        "mn5PxCfdMSyWggXQl6KoNYdzqeQWnUxRMhMtZUPFWQ0=",
+        "aws-cdk.aws-route53recoverycontrol-1.188.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_route53recoverycontrol-1.188.0-py3-none-any.whl": [
+          "dVVOyDHtEJFKpm9hdBWImDOxKgkej/FOKZuVM++VZ6k=",
           "py3"
         ]
       }
@@ -18691,6 +18715,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.48": {
+      "sdist": [
+        "ckN4h1Z6z4nQ7zTWRMMDQDLaWStQx+nU/vvD6CePBgA=",
+        "botocore-a-la-carte-fms-1.29.48.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_fms-1.29.48-py3-none-any.whl": [
+          "sEGcfv4hYUMMhOoYVUqkhVBdaSizLO1J29CUxx9mtMw=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-rds-data": {
@@ -18765,6 +18801,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.48": {
+      "sdist": [
+        "SNxgQCUSoy78BealYC+9oxKB4Jkju1E1GweckVVmSIQ=",
+        "botocore-a-la-carte-rds-data-1.29.48.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_rds_data-1.29.48-py3-none-any.whl": [
+          "TSrvRLhn6od57DFsd37HukkbKS+sQe8CSXR6f+mplvc=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-rum": {
@@ -18836,6 +18884,18 @@
       "wheels": {
         "botocore_a_la_carte_rum-1.29.47-py3-none-any.whl": [
           "4R2GLKiDxxwmemME21ojrD1nprowFIYNQ/8IgDQAxnY=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.48": {
+      "sdist": [
+        "sCEadZdQEU8kAY4A6pPkMj+q1UOe6rnt2GvuWFISYSU=",
+        "botocore-a-la-carte-rum-1.29.48.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_rum-1.29.48-py3-none-any.whl": [
+          "HBAbq7HPjjnY4DGkNmFwRH8F+7pl7j9j9AQscez5e1g=",
           "py3"
         ]
       }
@@ -128331,6 +128391,18 @@
           "py3"
         ]
       }
+    },
+    "4.3.1": {
+      "sdist": [
+        "DhzZ5lsAKFHZijie4fFjYGdpAVCUWInBxx1dtM+Ztfs=",
+        "sem_desc-4.3.1.tar.gz"
+      ],
+      "wheels": {
+        "sem_desc-4.3.1-py3-none-any.whl": [
+          "fowjUanM3zVOXt6bnezXFPA0IkTg0+b/sjkRdSiIITw=",
+          "py3"
+        ]
+      }
     }
   },
   "sentida": {
@@ -146825,6 +146897,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.813": {
+      "sdist": [
+        "zSfdgsP1CzUfb2wb3TioLFEGNIm5okWrM8Pp/C78wHA=",
+        "tencentcloud-sdk-python-tcr-3.0.813.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_tcr-3.0.813-py2.py3-none-any.whl": [
+          "fzaOc4kj05Kd0EX01r4Sq/UKaCP1xBgtyrTX4EmUgeo=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tensornvme": {
@@ -150100,6 +150184,30 @@
       "wheels": {
         "tiktokapipy-0.1.8.post1-py3-none-any.whl": [
           "ARo+SUYGJC5QYMLlcbwUt8KPjfc/7SJ79yeqwiyK+OQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.9": {
+      "sdist": [
+        "Nv5l/XTKZwbdJrf2JXI9GG4UK2DBiwokcZ0ioP/ycTw=",
+        "tiktokapipy-0.1.9.tar.gz"
+      ],
+      "wheels": {
+        "tiktokapipy-0.1.9-py3-none-any.whl": [
+          "JD+/WUjmfckAj/gmCtXUbUOF1ZcCup759ZNM3LdYEQ4=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.9.post1": {
+      "sdist": [
+        "1i4cQaLFBEfRjrXyFiTGdDQh3BVYe5SZvDzI50YpEu0=",
+        "tiktokapipy-0.1.9.post1.tar.gz"
+      ],
+      "wheels": {
+        "tiktokapipy-0.1.9.post1-py3-none-any.whl": [
+          "MHqsyGGZvXspsTgYyq1WAfwA5sj/mgtv/E01eZ3KDaU=",
           "py3"
         ]
       }

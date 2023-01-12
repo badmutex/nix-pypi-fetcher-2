@@ -10385,6 +10385,30 @@
           "py3"
         ]
       }
+    },
+    "0.2.0": {
+      "sdist": [
+        "DV/1YnrlWuYwa7NA93UnjzXDOZdFu2OBBG0QQyn5V9g=",
+        "betty-ml-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "betty_ml-0.2.0-py3-none-any.whl": [
+          "9m/2cccMkD8yWrbTX49+109aGf1P35alSHuvzVHdRIo=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.0rc1": {
+      "sdist": [
+        "LwRFh9/lyyVsYQnBPXwALJzQvPRFPZtYt36mGfQEi3A=",
+        "betty-ml-0.2.0rc1.tar.gz"
+      ],
+      "wheels": {
+        "betty_ml-0.2.0rc1-py3-none-any.whl": [
+          "g8HXnmgKPDX/aH0sjhY5FHF2TY+/zYM/8/0JPOfnNbQ=",
+          "py3"
+        ]
+      }
     }
   },
   "bhvideoconverter": {
@@ -12619,6 +12643,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.48": {
+      "sdist": [
+        "kxPreppFvdDgL8BUHhvOp7lxaPxUWKvZuHk9kgT/ets=",
+        "botocore-a-la-carte-ssm-incidents-1.29.48.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_ssm_incidents-1.29.48-py3-none-any.whl": [
+          "ULBY2dB05ALtd+PpTbwkj3FA3VOYS+Z5hFOBQpv+rvg=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-voice-id": {
@@ -12690,6 +12726,18 @@
       "wheels": {
         "botocore_a_la_carte_voice_id-1.29.47-py3-none-any.whl": [
           "pBhnTxBgOzUyX8ARWm4D4E8MqLxnfbYuQI3Q6Kvypbo=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.48": {
+      "sdist": [
+        "Q461oSqbLGDtJUnPn2cy/NSXHYgwIlH1DzHLsfy8g1o=",
+        "botocore-a-la-carte-voice-id-1.29.48.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_voice_id-1.29.48-py3-none-any.whl": [
+          "kvVHHQZrm6m8wqHnH7kCy4s+ozVZbhcnWTpeb/JfFuY=",
           "py3"
         ]
       }
@@ -16094,6 +16142,18 @@
     }
   },
   "cdncheck": {
+    "0.1.2.3": {
+      "sdist": [
+        "Do17O7IBN4iEJAOQs50n/6Ob/wfh7P0Ili0ibU81Ws4=",
+        "cdncheck-0.1.2.3.tar.gz"
+      ],
+      "wheels": {
+        "cdncheck-0.1.2.3-cp310-cp310-manylinux_2_35_x86_64.whl": [
+          "VmvfMtS1sWO7iGkh6/26RmF1mag9o5V7ObnLdZzqY7Y=",
+          "cp310"
+        ]
+      }
+    },
     "1.0.0.10": {
       "sdist": [
         "L3s1j07J1jXWk8LFWB51QtACU6FgO+2S9HXRmdg1H/w=",
@@ -16147,6 +16207,290 @@
         "cdncheck-1.0.0.15-cp39-cp39-manylinux_2_35_x86_64.whl": [
           "FosoX83yGjM7ZFOgUBSGnhiy8Qvt0S20m69Gd36VoXc=",
           "cp39"
+        ]
+      }
+    },
+    "1.0.0.24": {
+      "sdist": [
+        "OOOFAiBFeI0oSRQNt09FtWV3KyHHsYC07kVEe7r0v/g=",
+        "cdncheck-1.0.0.24.tar.gz"
+      ],
+      "wheels": {
+        "cdncheck-1.0.0.24-cp310-cp310-manylinux_2_35_x86_64.whl": [
+          "eBJhlT5NN00ajffrSGYbeNrZXH5e9GsRiWldCTfvu9I=",
+          "cp310"
+        ]
+      }
+    },
+    "1.0.0.25": {
+      "sdist": [
+        "n/zslMLiXQSp0EYiYhdY2jqg1FQbnx6CoAgEkUZhZwk=",
+        "cdncheck-1.0.0.25.tar.gz"
+      ],
+      "wheels": {
+        "cdncheck-1.0.0.25-cp310-cp310-manylinux_2_17_x86_64.manylinux_2_5_x86_64.manylinux1_x86_64.manylinux2014_x86_64.whl": [
+          "+mYqI2c9iO+EZdZoFJffDIhQRpN0/xR/JVluuDr7sks=",
+          "cp310"
+        ],
+        "cdncheck-1.0.0.25-cp310-cp310-manylinux_2_35_x86_64.whl": [
+          "SLzPoopZU+3wQnlN23zbvVUuQpwiXuM5E7U/hakTshk=",
+          "cp310"
+        ],
+        "cdncheck-1.0.0.25-cp310-cp310-musllinux_1_1_x86_64.whl": [
+          "1R0TDvRG18Yv3FbcVSBvTSpNWVSezfE81mI8pVlSMkY=",
+          "cp310"
+        ],
+        "cdncheck-1.0.0.25-cp311-cp311-manylinux_2_17_x86_64.manylinux_2_5_x86_64.manylinux1_x86_64.manylinux2014_x86_64.whl": [
+          "aV+mKdgeDmFtI4oFN/Il435tCxnx2piWPL/La7OBHug=",
+          "cp311"
+        ],
+        "cdncheck-1.0.0.25-cp311-cp311-musllinux_1_1_x86_64.whl": [
+          "ZfrAYwDvBqLnfInH0WizCXm2jNIrxuaG8JQi92CezjE=",
+          "cp311"
+        ],
+        "cdncheck-1.0.0.25-cp36-cp36m-manylinux_2_17_x86_64.manylinux_2_5_x86_64.manylinux1_x86_64.manylinux2014_x86_64.whl": [
+          "rqmMOMCtzdeffccq4QmX6ov7BGx6XJAkrku5B1N8oME=",
+          "cp36"
+        ],
+        "cdncheck-1.0.0.25-cp36-cp36m-musllinux_1_1_x86_64.whl": [
+          "VnUoTGjqwOTFagIZRvi3nfvtSRJst07BIYAVGiHyzWE=",
+          "cp36"
+        ],
+        "cdncheck-1.0.0.25-cp37-cp37m-manylinux_2_17_x86_64.manylinux_2_5_x86_64.manylinux1_x86_64.manylinux2014_x86_64.whl": [
+          "wULoCR5RTLA9y6PbbLVCMdNAcQNzHmBKSb6Bd/LbymU=",
+          "cp37"
+        ],
+        "cdncheck-1.0.0.25-cp37-cp37m-musllinux_1_1_x86_64.whl": [
+          "3vU1cfvtWg2ZyKPEImQMBWS/otWofcqkhoQWBlyvRpM=",
+          "cp37"
+        ],
+        "cdncheck-1.0.0.25-cp38-cp38-manylinux_2_17_x86_64.manylinux_2_5_x86_64.manylinux1_x86_64.manylinux2014_x86_64.whl": [
+          "iSKVBvqgVLhep67VJfZmU93p0gn7JokPJsK1glF5UY8=",
+          "cp38"
+        ],
+        "cdncheck-1.0.0.25-cp38-cp38-musllinux_1_1_x86_64.whl": [
+          "/uYdVknj2wcTNWxUOFOGAbMsvD3HOExYabJQCjzLIJ0=",
+          "cp38"
+        ],
+        "cdncheck-1.0.0.25-cp39-cp39-manylinux_2_17_x86_64.manylinux_2_5_x86_64.manylinux1_x86_64.manylinux2014_x86_64.whl": [
+          "71optFWQ6HD64vHYm2Fs6XWm8hdHcXTvd0e4/hWyJqU=",
+          "cp39"
+        ],
+        "cdncheck-1.0.0.25-cp39-cp39-musllinux_1_1_x86_64.whl": [
+          "7Kvnp9/ls7b+TYrd8N6Q4NIaE9NJv2s/BKNobgDB7mY=",
+          "cp39"
+        ],
+        "cdncheck-1.0.0.25-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux_2_5_x86_64.manylinux1_x86_64.manylinux2014_x86_64.whl": [
+          "UsITAMGHRA9x1+ufoYEsLvwiJtjpfSTW2XsIvSRlZRc=",
+          "pp37"
+        ],
+        "cdncheck-1.0.0.25-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux_2_5_x86_64.manylinux1_x86_64.manylinux2014_x86_64.whl": [
+          "C72oOzspSz1AWo91Z5Lajnk6HX4H7wjUA0PgJQ61PFE=",
+          "pp38"
+        ],
+        "cdncheck-1.0.0.25-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux_2_5_x86_64.manylinux1_x86_64.manylinux2014_x86_64.whl": [
+          "IHJfiiX88/nZ4x75pfp7UznCGjViUh1Ow4KtLVLD40c=",
+          "pp39"
+        ]
+      }
+    },
+    "1.0.0.26": {
+      "sdist": [
+        "orTu62qxLbhGThCHQq0+fVfTxfXLjgi6nTPfaTCQIs0=",
+        "cdncheck-1.0.0.26.tar.gz"
+      ],
+      "wheels": {
+        "cdncheck-1.0.0.26-cp310-cp310-manylinux_2_17_x86_64.manylinux_2_5_x86_64.manylinux1_x86_64.manylinux2014_x86_64.whl": [
+          "/LNfkbJSwSqrR74bzshi6Lh3hOU0Rod2o7+7V7dzt8g=",
+          "cp310"
+        ],
+        "cdncheck-1.0.0.26-cp310-cp310-manylinux_2_35_x86_64.whl": [
+          "bXCEZDRZuVMAY+FdmgZzNiA9y8dUzWNnHsooWXuBy7c=",
+          "cp310"
+        ],
+        "cdncheck-1.0.0.26-cp310-cp310-musllinux_1_1_x86_64.whl": [
+          "0KwiubVlvVs0j9xMV8PMCsdSWwthQF+Glfq2l+wQHoE=",
+          "cp310"
+        ],
+        "cdncheck-1.0.0.26-cp311-cp311-manylinux_2_17_x86_64.manylinux_2_5_x86_64.manylinux1_x86_64.manylinux2014_x86_64.whl": [
+          "D/fiOQ2lTimpcUCrfZ/uK72z15cGt78To535VX/bgJg=",
+          "cp311"
+        ],
+        "cdncheck-1.0.0.26-cp311-cp311-musllinux_1_1_x86_64.whl": [
+          "Xz6yU9UuD5VHLgrwfS0/DY6Nwwa9uUFMkuHWrJz12jE=",
+          "cp311"
+        ],
+        "cdncheck-1.0.0.26-cp36-cp36m-manylinux_2_17_x86_64.manylinux_2_5_x86_64.manylinux1_x86_64.manylinux2014_x86_64.whl": [
+          "WGyzNCoreOLzuGSSX6+EN3Ssk/Oblyouy1aZuoKZNhg=",
+          "cp36"
+        ],
+        "cdncheck-1.0.0.26-cp36-cp36m-musllinux_1_1_x86_64.whl": [
+          "FpYGPq/7fARuWEclWfj10ytUkTzIr9VgG1MdKkCPHvE=",
+          "cp36"
+        ],
+        "cdncheck-1.0.0.26-cp37-cp37m-manylinux_2_17_x86_64.manylinux_2_5_x86_64.manylinux1_x86_64.manylinux2014_x86_64.whl": [
+          "PwR/cieI+6mR18IdyTiiqfab8xUmRDHpOvnrsM7DZnY=",
+          "cp37"
+        ],
+        "cdncheck-1.0.0.26-cp37-cp37m-musllinux_1_1_x86_64.whl": [
+          "vhe44dQkJyKCp1gzHdEqyfb2zJ1qbDzBTucQLeHG0Po=",
+          "cp37"
+        ],
+        "cdncheck-1.0.0.26-cp38-cp38-manylinux_2_17_x86_64.manylinux_2_5_x86_64.manylinux1_x86_64.manylinux2014_x86_64.whl": [
+          "SZ3/qjAw/K1qbAsNuxy/FOSBfgFZ+xKyQFmDFAVkLVA=",
+          "cp38"
+        ],
+        "cdncheck-1.0.0.26-cp38-cp38-musllinux_1_1_x86_64.whl": [
+          "g4X34pkMXRIWZkHIAJ8wsbDgWBqMtdFNu30BGuKE35c=",
+          "cp38"
+        ],
+        "cdncheck-1.0.0.26-cp39-cp39-manylinux_2_17_x86_64.manylinux_2_5_x86_64.manylinux1_x86_64.manylinux2014_x86_64.whl": [
+          "CS9VPMxM9RI0CuqC4CP0N6NQjNb/nVm0JCRsD91TMq4=",
+          "cp39"
+        ],
+        "cdncheck-1.0.0.26-cp39-cp39-musllinux_1_1_x86_64.whl": [
+          "9P5bpownkLl2s8dTf0O5UKRSpAYF3BDW1L1vXOrCvdo=",
+          "cp39"
+        ],
+        "cdncheck-1.0.0.26-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux_2_5_x86_64.manylinux1_x86_64.manylinux2014_x86_64.whl": [
+          "/urfIw6FuL4pqjQZ9B062MQVcJYHzgjO12mmxVydFSQ=",
+          "pp37"
+        ],
+        "cdncheck-1.0.0.26-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux_2_5_x86_64.manylinux1_x86_64.manylinux2014_x86_64.whl": [
+          "lDaaUadFLkjfjMzeX8+p9YghG8Xitck3BN3UdENK4rg=",
+          "pp38"
+        ],
+        "cdncheck-1.0.0.26-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux_2_5_x86_64.manylinux1_x86_64.manylinux2014_x86_64.whl": [
+          "C8Xdlzowwy0m7Kg45aEZdmEcd47Od89XrVsr+TVq2Mo=",
+          "pp39"
+        ]
+      }
+    },
+    "1.0.0.33": {
+      "sdist": [
+        "41E2O2Mdz2fe/3kbKQQnS23iRvBdr+ZLM7bwMr/P6Ok=",
+        "cdncheck-1.0.0.33.tar.gz"
+      ],
+      "wheels": {
+        "cdncheck-1.0.0.33-cp310-cp310-manylinux_2_17_x86_64.manylinux_2_5_x86_64.manylinux1_x86_64.manylinux2014_x86_64.whl": [
+          "ME96DSeLozrEOghiWdMXEcI6i1Bxd23b92wAkYmLoXQ=",
+          "cp310"
+        ],
+        "cdncheck-1.0.0.33-cp310-cp310-manylinux_2_35_x86_64.whl": [
+          "qxqBLrBF+GDRkuqQ+wT6iYqOCNJ8oFMfZiUwqw/1p4s=",
+          "cp310"
+        ],
+        "cdncheck-1.0.0.33-cp310-cp310-musllinux_1_1_x86_64.whl": [
+          "8OU3lzKVs1CELqMvvvbjph0YOhzKtNDPKdF5C1C8ndM=",
+          "cp310"
+        ],
+        "cdncheck-1.0.0.33-cp311-cp311-manylinux_2_17_x86_64.manylinux_2_5_x86_64.manylinux1_x86_64.manylinux2014_x86_64.whl": [
+          "HcWpmz7m/xYt1hCQ82kQku71iwNF5B/LxpTf/3maVXs=",
+          "cp311"
+        ],
+        "cdncheck-1.0.0.33-cp311-cp311-musllinux_1_1_x86_64.whl": [
+          "8EyYEQyBF+qiSwUDjhj9s6Lp7k7PKEq3aFknJtfXMzw=",
+          "cp311"
+        ],
+        "cdncheck-1.0.0.33-cp37-cp37m-manylinux_2_17_x86_64.manylinux_2_5_x86_64.manylinux1_x86_64.manylinux2014_x86_64.whl": [
+          "iOX8eAOliecbX0l0Aw6M+xsw30yStEN6CuLxCxMMEqI=",
+          "cp37"
+        ],
+        "cdncheck-1.0.0.33-cp37-cp37m-musllinux_1_1_x86_64.whl": [
+          "FXoHGDFnN350ewTJ3cqO9/FOxowSNQj5fueH9PL0jh0=",
+          "cp37"
+        ],
+        "cdncheck-1.0.0.33-cp38-cp38-manylinux_2_17_x86_64.manylinux_2_5_x86_64.manylinux1_x86_64.manylinux2014_x86_64.whl": [
+          "BncQWesVu1FnXDUrmPJcREx42R5cH9rZGB83rWI7Ndc=",
+          "cp38"
+        ],
+        "cdncheck-1.0.0.33-cp38-cp38-musllinux_1_1_x86_64.whl": [
+          "Vkmo/bWRFsiz5/WWGbTrUn6c0eJB1O5Mr3iT2aCiPk4=",
+          "cp38"
+        ],
+        "cdncheck-1.0.0.33-cp39-cp39-manylinux_2_17_x86_64.manylinux_2_5_x86_64.manylinux1_x86_64.manylinux2014_x86_64.whl": [
+          "6umhZG0vtTSN0u70YymiCxeNu4xR5cSPMEK+Ymk/jGY=",
+          "cp39"
+        ],
+        "cdncheck-1.0.0.33-cp39-cp39-musllinux_1_1_x86_64.whl": [
+          "+gGSg1A/AAHnllr31V8AtM4WnLYwx/GVF3NkrhVeFbI=",
+          "cp39"
+        ],
+        "cdncheck-1.0.0.33-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux_2_5_x86_64.manylinux1_x86_64.manylinux2014_x86_64.whl": [
+          "uTEgKouWxGQWBJIK9HGdLCmxUItOk2Zi66X3MyDsLJ8=",
+          "pp37"
+        ],
+        "cdncheck-1.0.0.33-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux_2_5_x86_64.manylinux1_x86_64.manylinux2014_x86_64.whl": [
+          "6XrTuakjGxj9sFw3v2d0MytjobZ697kc/W8ERL5ooRA=",
+          "pp38"
+        ],
+        "cdncheck-1.0.0.33-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux_2_5_x86_64.manylinux1_x86_64.manylinux2014_x86_64.whl": [
+          "Qt1GbPuTZy6nbveisgg9djO52AOzy12jA1ANR27plco=",
+          "pp39"
+        ]
+      }
+    },
+    "1.0.0.34": {
+      "sdist": [
+        "XuSyJ+XJeQO1DOvhD6uusZYv6Bzb3l4wigLgwXkeIHQ=",
+        "cdncheck-1.0.0.34.tar.gz"
+      ],
+      "wheels": {
+        "cdncheck-1.0.0.34-cp310-cp310-manylinux_2_17_x86_64.manylinux_2_5_x86_64.manylinux1_x86_64.manylinux2014_x86_64.whl": [
+          "yi7Vw4VaNS9289auNt8U+IxFsFYukSBh7uIJrnCcGfs=",
+          "cp310"
+        ],
+        "cdncheck-1.0.0.34-cp310-cp310-manylinux_2_35_x86_64.whl": [
+          "8ovkb34XpPzgcxqPKjtWDiIb/qgSgVUO93bbtbs5Jq8=",
+          "cp310"
+        ],
+        "cdncheck-1.0.0.34-cp310-cp310-musllinux_1_1_x86_64.whl": [
+          "qpPmoUuXvg0MxTwEQHbaGPtoHYPDm8wjRMacmVBJzBk=",
+          "cp310"
+        ],
+        "cdncheck-1.0.0.34-cp311-cp311-manylinux_2_17_x86_64.manylinux_2_5_x86_64.manylinux1_x86_64.manylinux2014_x86_64.whl": [
+          "KuhkXDi7nu5e2X6z05X8LNdSswpK/59E+BUTFTQJIlI=",
+          "cp311"
+        ],
+        "cdncheck-1.0.0.34-cp311-cp311-musllinux_1_1_x86_64.whl": [
+          "whDIM/EJIS+7YMumP7teytDeU0OoAu8S/iBGSsAPFug=",
+          "cp311"
+        ],
+        "cdncheck-1.0.0.34-cp37-cp37m-manylinux_2_17_x86_64.manylinux_2_5_x86_64.manylinux1_x86_64.manylinux2014_x86_64.whl": [
+          "uJjjurYISniiGakJ+UEHrU+cM4wHzPOvEjY+7x3Hh5g=",
+          "cp37"
+        ],
+        "cdncheck-1.0.0.34-cp37-cp37m-musllinux_1_1_x86_64.whl": [
+          "g3JoExk/GoiHwk+41YI9pMrlsDFRh40B52ycCfXYCB4=",
+          "cp37"
+        ],
+        "cdncheck-1.0.0.34-cp38-cp38-manylinux_2_17_x86_64.manylinux_2_5_x86_64.manylinux1_x86_64.manylinux2014_x86_64.whl": [
+          "Vo1iy6EtJfPphki+AhP1uLY027Q/zPd8NNHsCouU5VY=",
+          "cp38"
+        ],
+        "cdncheck-1.0.0.34-cp38-cp38-musllinux_1_1_x86_64.whl": [
+          "/iOpcZxlN2WY9RATBT6nLcHsCyF7GXiqdRsST7VyWzo=",
+          "cp38"
+        ],
+        "cdncheck-1.0.0.34-cp39-cp39-manylinux_2_17_x86_64.manylinux_2_5_x86_64.manylinux1_x86_64.manylinux2014_x86_64.whl": [
+          "I0X1QPLeQ91ljsTykLhodzkxAXjoymdm1tITVjaZ4f8=",
+          "cp39"
+        ],
+        "cdncheck-1.0.0.34-cp39-cp39-musllinux_1_1_x86_64.whl": [
+          "N9hih/nKcjk53veqT/dhFbg69g91ipOD1oZRu92WC5M=",
+          "cp39"
+        ],
+        "cdncheck-1.0.0.34-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux_2_5_x86_64.manylinux1_x86_64.manylinux2014_x86_64.whl": [
+          "4xufBJL/UoS2b1+jIhX1PU5UEbh2Qa+DjB1pa90uSOI=",
+          "pp37"
+        ],
+        "cdncheck-1.0.0.34-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux_2_5_x86_64.manylinux1_x86_64.manylinux2014_x86_64.whl": [
+          "QWMzKfUTNz27H3S00pJ3Ebh2IMFrOHVLBFuXzqabm9c=",
+          "pp38"
+        ],
+        "cdncheck-1.0.0.34-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux_2_5_x86_64.manylinux1_x86_64.manylinux2014_x86_64.whl": [
+          "UX3QFYrl8OZNjmzlUtY6kP3wKXTzDl2oiB53Fc0CZ4w=",
+          "pp39"
         ]
       }
     },
@@ -55046,6 +55390,30 @@
       "wheels": {
         "iotree-0.1.7-py3-none-any.whl": [
           "fvEgLl59T0FOTd7ktkvaEFChOh5eRtU5J9HbeFilb/k=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.8": {
+      "sdist": [
+        "D2qgqRR273LXDVeMrfKvUfjI/iVhj6/H7XqGjAx+psI=",
+        "iotree-0.1.8.tar.gz"
+      ],
+      "wheels": {
+        "iotree-0.1.8-py3-none-any.whl": [
+          "KRCUbrYr9fTYNWJmKiROPZ2/SOjh1+XBKsSPi7MrVh4=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.9": {
+      "sdist": [
+        "Oz4fWOBG7AQYkaJ845f9j0771lf9UAUcwDExK4VRjIw=",
+        "iotree-0.1.9.tar.gz"
+      ],
+      "wheels": {
+        "iotree-0.1.9-py3-none-any.whl": [
+          "R0xc9LG0CcXeFsz91ekvhMHtD4SVuXMz9oJIOUT/IiY=",
           "py3"
         ]
       }
@@ -107451,6 +107819,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.5": {
+      "sdist": [
+        "Q6NCOKFx2X7tUKSz37Qsnvr9EoPLUcrfVIkXII0EQM8=",
+        "PromptEHR-0.0.5.tar.gz"
+      ],
+      "wheels": {
+        "PromptEHR-0.0.5-py3-none-any.whl": [
+          "hYUTSB2j0JPRTy3EyDBpioOXB0MHSvNPEdbIyKqJmzQ=",
+          "py3"
+        ]
+      }
     }
   },
   "promptlib": {
@@ -108728,6 +109108,20 @@
       "wheels": {
         "pure_interface-6.0.2-py3-none-any.whl": [
           "kE6HzaC9Y6saXfiA3bKJ+mGkHHQXf94D+DF05xpH2NU=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "pure-predict-sec": {
+    "0.0.1": {
+      "sdist": [
+        "GnezggymDWMSTT96D4lDiUnlasOSQ2AHyTG2LsBbe1I=",
+        "pure-predict-sec-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "pure_predict_sec-0.0.1-py3-none-any.whl": [
+          "Be0i2JfEcLk+WpXSaM5SEpX/cOmoNT/ZFPaUb0/ko9Q=",
           "py3"
         ]
       }
@@ -113170,6 +113564,20 @@
       "wheels": {
         "pycountrycodes-0.3.1-py3-none-any.whl": [
           "DieH0UN25mKTRTJz5Ch+/cKYQ5QHcXfbgi0mudpaXIs=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "pycounts-lennonay": {
+    "0.1.0": {
+      "sdist": [
+        "f9m93o/uBzZ016ZNZugj89KEahSzox/wqMjBwpZxwa0=",
+        "pycounts_lennonay-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "pycounts_lennonay-0.1.0-py3-none-any.whl": [
+          "4CgIc/07QXP8UV3bBwCW0Vr8kcakMgakU5LYn87wafg=",
           "py3"
         ]
       }
@@ -136149,6 +136557,18 @@
           "py3"
         ]
       }
+    },
+    "0.5.0": {
+      "sdist": [
+        "L3Cuhtk44J+veQkG/f237cvlkjR4ltEkH3dQEz0FyWI=",
+        "spectrochempy-0.5.0.tar.gz"
+      ],
+      "wheels": {
+        "spectrochempy-0.5.0-py3-none-any.whl": [
+          "AR2YO59jP/+YHOj49j0A0ZTFhluSQUoQ1lBwStHWEz8=",
+          "py3"
+        ]
+      }
     }
   },
   "speechtotext": {
@@ -142420,6 +142840,18 @@
       "wheels": {
         "tencentcloud_sdk_python_tcbr-3.0.812-py2.py3-none-any.whl": [
           "vZvHAaEyRWin5bKk1JJq//vh7prrMu/WnBcWxm1ud6s=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.813": {
+      "sdist": [
+        "mlBnTUUH1MzS1wa0lh/Kp5IMNcVQBjYID20ApuCKu68=",
+        "tencentcloud-sdk-python-tcbr-3.0.813.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_tcbr-3.0.813-py2.py3-none-any.whl": [
+          "WpBkciq9ZWzLCohOyqmPttRpNlWvD6ciLAZkZEh9zgU=",
           "py2.py3"
         ]
       }
@@ -149138,6 +149570,18 @@
       "wheels": {
         "tuindow-1.0.0-py3-none-any.whl": [
           "hugKt1ZI59zO7UAQaLEC8eg5eg7FfMMX8rwGKhSVHqU=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.1": {
+      "sdist": [
+        "d19KVBGUwpKrDgf6/ZeXlu79xSluNlQLP4rG+JOOlhY=",
+        "tuindow-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "tuindow-1.0.1-py3-none-any.whl": [
+          "P1SrZ62Dr7tBlZKE64nCF0zWXtowLb9+GB9PLyGGmRg=",
           "py3"
         ]
       }

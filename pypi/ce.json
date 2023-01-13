@@ -1211,6 +1211,30 @@
           "py3"
         ]
       }
+    },
+    "1.9.0": {
+      "sdist": [
+        "kyjW8u3hrEdZeIomD3cF6TSfWKfnLc5dpHBeP8sVqhk=",
+        "affinda-1.9.0.tar.gz"
+      ],
+      "wheels": {
+        "affinda-1.9.0-py3-none-any.whl": [
+          "o65InTRgOLUtgKUpvWJ1UjbZq5/21eRo3uRvraXDlbE=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.0": {
+      "sdist": [
+        "jVjN8jlzgUEETeyOuZISbKpRitMaFB8XCQ2aJ020qKM=",
+        "affinda-2.0.0.tar.gz"
+      ],
+      "wheels": {
+        "affinda-2.0.0-py3-none-any.whl": [
+          "8gyZyhcNKbb9YIXZR//dcwkGihT8iGzz/ePGYImMtpM=",
+          "py3"
+        ]
+      }
     }
   },
   "agileupstate": {
@@ -8845,6 +8869,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.49": {
+      "sdist": [
+        "OxfQ7FN07AIWgO65Z52MgAvZ6uWlotLE2j1sx3mFhBU=",
+        "botocore-a-la-carte-savingsplans-1.29.49.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_savingsplans-1.29.49-py3-none-any.whl": [
+          "VUifnqR2TRfl9BE6qj0IprM4a3tj/sFBGLOG0rSwuhY=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-sso-admin": {
@@ -8928,6 +8964,18 @@
       "wheels": {
         "botocore_a_la_carte_sso_admin-1.29.48-py3-none-any.whl": [
           "CLMGPAoIIvzGrMBTNg1kq5KP3VzwlztvpaskTzd6AKA=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.49": {
+      "sdist": [
+        "OTVzdnExosKwM+u5BT4J8KQhY/xPwyuGKL4lQVJgjTM=",
+        "botocore-a-la-carte-sso-admin-1.29.49.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_sso_admin-1.29.49-py3-none-any.whl": [
+          "MyftlGB8qTX+OaqLXl1TmQBnr6pMDVWhddycJGqhIdg=",
           "py3"
         ]
       }
@@ -10006,6 +10054,38 @@
         ],
         "cargo_lambda-0.14.0-py3-none-win_amd64.whl": [
           "x26IwbRNMGYE1Zj7h+FiRClIz2jkvkZtJ0w34vRavLk=",
+          "py3"
+        ]
+      }
+    },
+    "0.15.0": {
+      "wheels": {
+        "cargo_lambda-0.15.0-py3-none-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "fh+7AT8uFIDzXdTKV7KOib+HLmhDwy4OE3bQu3kT2VY=",
+          "py3"
+        ],
+        "cargo_lambda-0.15.0-py3-none-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "gQXnSoLrbLylNuqHsIiSwtbaQMquPLowK81B6T9Ftxo=",
+          "py3"
+        ],
+        "cargo_lambda-0.15.0-py3-none-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "oYgjX13neT1cRTVB1G8qoN71ol8+yMC7jW1/QW5lgqU=",
+          "py3"
+        ],
+        "cargo_lambda-0.15.0-py3-none-manylinux_2_5_i686.manylinux1_i686.whl": [
+          "55GVyJiwBa+bdA06S/JC7i9kkADNMirqG6qHgbpD7Lo=",
+          "py3"
+        ],
+        "cargo_lambda-0.15.0-py3-none-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "xydbcAeJX/AiaCFJS3pU7R7kKf94dLKOlTDxkytAGaQ=",
+          "py3"
+        ],
+        "cargo_lambda-0.15.0-py3-none-win32.whl": [
+          "XJ4jW6pTvl2D/lnMtWbWkjWv+VH6LRiXbjYQaKCdrpc=",
+          "py3"
+        ],
+        "cargo_lambda-0.15.0-py3-none-win_amd64.whl": [
+          "9Ne8wkFNRndwdix/3p0Nlf/MiOup0wkRZf6OXKGwlzA=",
           "py3"
         ]
       }
@@ -20698,6 +20778,14 @@
       "wheels": {
         "deltastore-0.1.9-py3-none-any.whl": [
           "FFEsC76GzMIox76QAWBKZGY6A1TpdWX5PI9RRmxzBqI=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.1": {
+      "wheels": {
+        "deltastore-0.2.1-py3-none-any.whl": [
+          "grK9o0QAoDHdCwdjaKkKedxh3pxnoFyum88jD5a1miU=",
           "py3"
         ]
       }
@@ -41173,6 +41261,14 @@
           "py3"
         ]
       }
+    },
+    "18.5": {
+      "wheels": {
+        "funboost-18.5-py3-none-any.whl": [
+          "Pb1RlLXbUEDQoK3Lr94uZ8qsW1AeP6F2vTJ5vXXCrIY=",
+          "py3"
+        ]
+      }
     }
   },
   "funengliangde-xiyinli-faze": {
@@ -43644,6 +43740,18 @@
       "wheels": {
         "godel-0.6.2-py3-none-any.whl": [
           "vJ8OET/eFZZRh+9txunErHUsgxOGFq2TssuCzxl0QqI=",
+          "py3"
+        ]
+      }
+    },
+    "0.7.0": {
+      "sdist": [
+        "TWUYmg6KhRKtSfQf/A7oJWkYByl+IKi+eZKQO3ipyYA=",
+        "godel-0.7.0.tar.gz"
+      ],
+      "wheels": {
+        "godel-0.7.0-py3-none-any.whl": [
+          "bGN9k2gKUlLXwHIK5fZCcwpCoOM1epmXlPwnZx9zzZc=",
           "py3"
         ]
       }
@@ -102968,6 +103076,18 @@
         ]
       }
     },
+    "0.0.106": {
+      "sdist": [
+        "t3sN1Sua8n07PFMa1pfmprAzK/7lC2DvecUn2usG3Vc=",
+        "pydbapi-0.0.106.tar.gz"
+      ],
+      "wheels": {
+        "pydbapi-0.0.106-py3-none-any.whl": [
+          "Tz0QPKwYd472jOn+rZqZBKjRfmkqPM4HEraurPyWnFc=",
+          "py3"
+        ]
+      }
+    },
     "0.0.25": {
       "sdist": [
         "28cs5oHqozEB6ZzXK9/cBZg/X49DblX2vEOX3jIzcZo=",
@@ -150247,6 +150367,36 @@
         "xdi-0.7.4-py3-none-any.whl": [
           "Y5CZoba8PMTpqGITFSTGzudVJZRjshdXMykEff6a2Kg=",
           "py3"
+        ]
+      }
+    }
+  },
+  "xia-storer-gcs": {
+    "0.0.2": {
+      "wheels": {
+        "xia_storer_gcs-0.0.2-cp310-none-macosx_11_0_x86_64.whl": [
+          "U3zddhYlZv6wNUYGGOJLJfhlojLHAdpdbB5yhksnuU8=",
+          "cp310"
+        ],
+        "xia_storer_gcs-0.0.2-cp310-none-manylinux1_x86_64.whl": [
+          "TGhG0Jz7TpRFYuYit1g1ZAZR26birZeUYilIptShAbk=",
+          "cp310"
+        ],
+        "xia_storer_gcs-0.0.2-cp310-none-win_amd64.whl": [
+          "T5aLqHd43nOdbXNR2ygkviRhvK8YgT0d37debsuGm2s=",
+          "cp310"
+        ],
+        "xia_storer_gcs-0.0.2-cp39-none-macosx_11_0_x86_64.whl": [
+          "dO6KZQMYRalkOpxuCZOIvEmh8inyKOvg9vBnVREk34M=",
+          "cp39"
+        ],
+        "xia_storer_gcs-0.0.2-cp39-none-manylinux1_x86_64.whl": [
+          "K5BQhe5a8x6r6PYcsf6SutKFlLGbRpEY+sIcaN+holE=",
+          "cp39"
+        ],
+        "xia_storer_gcs-0.0.2-cp39-none-win_amd64.whl": [
+          "dUr6q+WKttgs8v2AbwEbXGc6i8BMArbhz/72TPQC0oY=",
+          "cp39"
         ]
       }
     }

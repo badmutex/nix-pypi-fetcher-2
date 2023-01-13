@@ -14741,6 +14741,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.49": {
+      "sdist": [
+        "E+urlI2gMnSX6SSLXAbPNkg3bHWEqfDJsrUGRH73YpY=",
+        "botocore-a-la-carte-amplify-1.29.49.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_amplify-1.29.49-py3-none-any.whl": [
+          "UGEi7n4eIgXQCEb9lSCcLVP0tYmv6I2NJ2iy9tEBYvQ=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-cloudformation": {
@@ -14827,6 +14839,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.49": {
+      "sdist": [
+        "WApSNzYp/CZbdZ4w7dSNIxOtitWn6m2ExW915H/ve7g=",
+        "botocore-a-la-carte-cloudformation-1.29.49.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_cloudformation-1.29.49-py3-none-any.whl": [
+          "vG3dcA1WF8fwr4f699N/HHyeDw5RUO9w+KW9iSgeBBQ=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-eks": {
@@ -14910,6 +14934,18 @@
       "wheels": {
         "botocore_a_la_carte_eks-1.29.48-py3-none-any.whl": [
           "0PFLwl1Epxu9swJ/eTvvtpPHweiYYv+2Ax9nmApglwc=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.49": {
+      "sdist": [
+        "zBhOz2veWfsGB15NPt89qizYa3ABk8q47w9yVvn5TLo=",
+        "botocore-a-la-carte-eks-1.29.49.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_eks-1.29.49-py3-none-any.whl": [
+          "4MVzlYeBzjVsZJWtbY8YxbcZV2aIcXI9iDWJ70LHxr0=",
           "py3"
         ]
       }
@@ -17232,6 +17268,18 @@
       "wheels": {
         "cdklabs.ecs_codedeploy-0.0.32-py3-none-any.whl": [
           "Tl7bt0QSzo4HAr4GAuh8ZzUQTGalplnU7nD+Uv+T3Nk=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.33": {
+      "sdist": [
+        "3fcjWh/nrLWGuno9INqBF8qdc4L3JVfdxG1AlDmfWr8=",
+        "cdklabs.ecs-codedeploy-0.0.33.tar.gz"
+      ],
+      "wheels": {
+        "cdklabs.ecs_codedeploy-0.0.33-py3-none-any.whl": [
+          "7Zx676UF9CvooeMZ++RIST83yphYU378GWJI8beQ1ig=",
           "py3"
         ]
       }
@@ -31272,6 +31320,18 @@
         ]
       }
     },
+    "0.17.10": {
+      "sdist": [
+        "4FvJcIEIRySMNt7LqOCrVBA2lyMNINLopSt1/bk5+Ns=",
+        "dagster-celery-docker-0.17.10.tar.gz"
+      ],
+      "wheels": {
+        "dagster_celery_docker-0.17.10-py3-none-any.whl": [
+          "dY+b1EGyv2gh6HNcOgkX/Cc+7V3cdCldLJtprD6+mBw=",
+          "py3"
+        ]
+      }
+    },
     "0.17.2": {
       "sdist": [
         "tax6qkfIJAS+eEKC3ksj/+Otf5mtwYVTU9t1wMtovuk=",
@@ -41609,6 +41669,20 @@
           "py3"
         ]
       }
+    }
+  },
+  "easy-pyinstaller": {
+    "0.0.2": {
+      "sdist": [
+        "KN43dh7HifAb7j23eaLBoUxarEQGpchI63hREGwVhfI=",
+        "easy-pyinstaller-0.0.2.tar.gz"
+      ]
+    },
+    "0.0.21": {
+      "sdist": [
+        "reqX/SX8TiZztUKPjyiwfcstezTS8t1+6KttgUyH1JM=",
+        "easy-pyinstaller-0.0.21.tar.gz"
+      ]
     }
   },
   "ec2": {

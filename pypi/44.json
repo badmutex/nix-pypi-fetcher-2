@@ -16427,6 +16427,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.49": {
+      "sdist": [
+        "fU8P66MbeS8B8eTgPACaGn5A1nF+8ZTYiDjVpBXOA38=",
+        "botocore-a-la-carte-iotthingsgraph-1.29.49.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_iotthingsgraph-1.29.49-py3-none-any.whl": [
+          "rulepSVPfa4bGs8XsqtoHd97DMTMbjOicPVYZ+PyteQ=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-xray": {
@@ -16510,6 +16522,18 @@
       "wheels": {
         "botocore_a_la_carte_xray-1.29.48-py3-none-any.whl": [
           "PZ8bWDQl+qzi5NmP4u27X6vX4NK2jADD0R4u9TucX4M=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.49": {
+      "sdist": [
+        "1APH/MoZCZyqV95hPkbYI87Bf5K4MeqJawaJcTZFX7M=",
+        "botocore-a-la-carte-xray-1.29.49.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_xray-1.29.49-py3-none-any.whl": [
+          "FPhyCEwOsVn++jTGwE1Jj4J8jATOoYfXLmLzAcGJ54o=",
           "py3"
         ]
       }
@@ -16728,6 +16752,70 @@
       "wheels": {
         "brainspike-1.0.1-py2.py3-none-any.whl": [
           "w0s9FcWQtWXsga2YNWtH3W7E5ZHhb/vzlLqvBHXNnbk=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.0.10": {
+      "wheels": {
+        "brainspike-1.0.10-py2.py3-none-any.whl": [
+          "PQ+VXciQVUxqdeEKlBWC4buylz7ET4/IcyyX8orZbfE=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.0.11": {
+      "wheels": {
+        "brainspike-1.0.11-py2.py3-none-any.whl": [
+          "cFfo5H+igFD9oDzcFT4jGzv105bFy1fsjLBhhz7DUVw=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.0.12": {
+      "wheels": {
+        "brainspike-1.0.12-py2.py3-none-any.whl": [
+          "//W6HqS/U7dMOeDHb6TUAv1oSgiBfX5t23uR7sMpRo4=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.0.14": {
+      "wheels": {
+        "brainspike-1.0.14-py2.py3-none-any.whl": [
+          "kOmkOppgVeVpog3O52IZLE+eVXT4m0U0uDBz6TDwT4Q=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.0.15": {
+      "wheels": {
+        "brainspike-1.0.15-py2.py3-none-any.whl": [
+          "m6JbeNsBg1A4ARFtEExXJlO8gyjgGMbPbRUMfWl6ZWY=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.0.16": {
+      "wheels": {
+        "brainspike-1.0.16-py2.py3-none-any.whl": [
+          "QBZuGX5Pzw4fT/2iUw9ACPjtD7wdx4nB0hpj/kqeaL8=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.0.17": {
+      "wheels": {
+        "brainspike-1.0.17-py2.py3-none-any.whl": [
+          "LlNuveVhd0DmcC5ipmKn9mYxMMBSZxC47Xac/UdCuww=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.0.18": {
+      "wheels": {
+        "brainspike-1.0.18-py2.py3-none-any.whl": [
+          "EiwSeOkjKWp4FEWIOf9AKdnh2/RUHBmj06gEpZbdqEY=",
           "py2.py3"
         ]
       }
@@ -68249,6 +68337,54 @@
           "py3"
         ]
       }
+    },
+    "1.0.4": {
+      "sdist": [
+        "rkD+63mPpM/6/81qQknI25Fg3/89czsyIgRCveeOnag=",
+        "kadena_sdk-1.0.4.tar.gz"
+      ],
+      "wheels": {
+        "kadena_sdk-1.0.4-py3-none-any.whl": [
+          "jUEjz9QjQsmUD6Jn1RCUtHqdMJIOk6xD9B5e4AxMdXE=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.5": {
+      "sdist": [
+        "QSkC7usnGFd70Z+xDgJ+8LvOo8xzSUx2bBRBrqqqJYQ=",
+        "kadena_sdk-1.0.5.tar.gz"
+      ],
+      "wheels": {
+        "kadena_sdk-1.0.5-py3-none-any.whl": [
+          "lZ1UJLdQgRZV9NCsRDzUibAVOLm9y4iGvheubSBYCtU=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.6": {
+      "sdist": [
+        "gne+YaJV57k6GXoaDPpmXafM79f+13VaSr1xUe0P6co=",
+        "kadena_sdk-1.0.6.tar.gz"
+      ],
+      "wheels": {
+        "kadena_sdk-1.0.6-py3-none-any.whl": [
+          "G8vK5OB6ipZ97Jh+SnNgYcZ3koG5Hkhf641+RI4gbcg=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.7": {
+      "sdist": [
+        "dwoxCxeF/qn8bhx5K7nEpcUU6JcPoI2mm0RG9Y2T0Sc=",
+        "kadena_sdk-1.0.7.tar.gz"
+      ],
+      "wheels": {
+        "kadena_sdk-1.0.7-py3-none-any.whl": [
+          "H1R3/wvG1HtrH9bQ4cYjVwdnoDcrLit1MQFk/FHkLUg=",
+          "py3"
+        ]
+      }
     }
   },
   "karanage-tools": {
@@ -68272,6 +68408,18 @@
       "wheels": {
         "karanage_tools-0.2.0-py3-none-any.whl": [
           "J2BGuHbYDSH7bhpph4FY2HUGfHqeVew09jC7VXiCYVY=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.0": {
+      "sdist": [
+        "0PTX/2+bNKq4JAWWDhiXCFxsdGSCmZQPEREoOXvOkm0=",
+        "karanage-tools-0.3.0.tar.gz"
+      ],
+      "wheels": {
+        "karanage_tools-0.3.0-py3-none-any.whl": [
+          "ksN1rGQxmHdXFDpjEIhK3CERhT+uMegdYkJp93swqfk=",
           "py3"
         ]
       }
@@ -70252,6 +70400,18 @@
       "wheels": {
         "machineconfig-0.8-py3-none-any.whl": [
           "NbEykMMgURJHbaFNnTH/lpqjA8MsZ6SqXaj7zQBW0Xo=",
+          "py3"
+        ]
+      }
+    },
+    "0.9": {
+      "sdist": [
+        "2fOVTnDdgtjwe3XCHuKiejZna/NqXWMP0B4/No472u4=",
+        "machineconfig-0.9.tar.gz"
+      ],
+      "wheels": {
+        "machineconfig-0.9-py3-none-any.whl": [
+          "vXS19Fs0VUbyTMqJvJwb6jSKPegRTvNynEbQCYO8RZQ=",
           "py3"
         ]
       }
@@ -84138,6 +84298,44 @@
       "wheels": {
         "nialog-0.0.2-py3-none-any.whl": [
           "75tx/n0SmRL6ijMja4p+UaO7fObgWqJ/J5OXe5RODWs=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "nicepyright": {
+    "0.1.0": {
+      "sdist": [
+        "glN79Mu0JjODhwuIqqhjNyyovAKYkvs7j9b2520lSKo=",
+        "nicepyright-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "nicepyright-0.1.0-py3-none-any.whl": [
+          "4g2ZiUSfC7d8/lpNiWgVemMoOmWMI+cVkExNlSIXaQE=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "jIuZHvheZI92lM/Ji5E3xMdce8wQf89AIFv2ive6VpQ=",
+        "nicepyright-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "nicepyright-0.1.1-py3-none-any.whl": [
+          "lQK/YS6OoBWFHCYnPViwd95pz5lOOw47W2O2rPTfHks=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "eJJR99GCHCB5dqLhnYX+4T+tbTMJKA3HUzL24qewrf0=",
+        "nicepyright-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "nicepyright-0.1.2-py3-none-any.whl": [
+          "tAzdWTH+CI0B5Q/VAe9Po7kXoM2EdDjw8u59ntTrnMM=",
           "py3"
         ]
       }
@@ -134731,6 +134929,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.814": {
+      "sdist": [
+        "8sdxx87AkWois/okIMps3sUgeghHAfbM1Lc5sFBM8zo=",
+        "tencentcloud-sdk-python-mna-3.0.814.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_mna-3.0.814-py2.py3-none-any.whl": [
+          "G9CulgVF+TGT+asYhoIpVx920dsCEK3LHEAQLJ3G+NI=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tenff": {
@@ -146106,6 +146316,50 @@
         ],
         "xlOil-0.16.1-cp39-cp39-win_amd64.whl": [
           "sm292473CuZpWZ9TnZsd1CxmEBwm0xyyPyL/pn+8VeQ=",
+          "cp39"
+        ]
+      }
+    },
+    "0.16.2": {
+      "wheels": {
+        "xlOil-0.16.2-cp310-cp310-win32.whl": [
+          "qKVZdqGNTqSVJQ33b2R/gq39Zg4wSDDsaKpBHS816mc=",
+          "cp310"
+        ],
+        "xlOil-0.16.2-cp310-cp310-win_amd64.whl": [
+          "tD3zrIJz5wybnNWyVTffYddNPIUb8XIG8Wtmvc98WN4=",
+          "cp310"
+        ],
+        "xlOil-0.16.2-cp36-cp36m-win32.whl": [
+          "gPx/HbF02a5LFXAhbT20Va8XjvTkOMRBN7VD23LDJv8=",
+          "cp36"
+        ],
+        "xlOil-0.16.2-cp36-cp36m-win_amd64.whl": [
+          "3pTFM4bRg1/jMTSukZSAW/3HOQYFYI7ddMSM0zvH5Og=",
+          "cp36"
+        ],
+        "xlOil-0.16.2-cp37-cp37m-win32.whl": [
+          "1jzTM2eSmEEAwCNb6TK75DEKlzG9E1F1OlfIZyPEQiY=",
+          "cp37"
+        ],
+        "xlOil-0.16.2-cp37-cp37m-win_amd64.whl": [
+          "4BIDCyaqex+E45fOCOpXYKjISjPaLvTIeV8CJKrnftE=",
+          "cp37"
+        ],
+        "xlOil-0.16.2-cp38-cp38-win32.whl": [
+          "n//SWhh+3AeOEcIrvbxCz4IUCDSeztB1bmqAR6VxkYw=",
+          "cp38"
+        ],
+        "xlOil-0.16.2-cp38-cp38-win_amd64.whl": [
+          "UxRdiEgbvoDw/WJ9bOmd8uXWHjDCdAI21wO+vISBw0g=",
+          "cp38"
+        ],
+        "xlOil-0.16.2-cp39-cp39-win32.whl": [
+          "0uPuyVrsTU/94kn97SOwIpieoBJDid+Pm2PrVdu7ki0=",
+          "cp39"
+        ],
+        "xlOil-0.16.2-cp39-cp39-win_amd64.whl": [
+          "qImozmowVjsBh11G/v1tBwMub0bRHNyvW8FdXRxUcNY=",
           "cp39"
         ]
       }

@@ -18227,6 +18227,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.49": {
+      "sdist": [
+        "nu4qCv2OIAgtMaXRzWG9nnfp9QYRamsFerkCq6854yA=",
+        "botocore-a-la-carte-finspace-data-1.29.49.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_finspace_data-1.29.49-py3-none-any.whl": [
+          "ySajAIIr+L8sHt8UukUIqwxAHQiCyLZpEeoI6nQorG8=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-mobile": {
@@ -18310,6 +18322,18 @@
       "wheels": {
         "botocore_a_la_carte_mobile-1.29.48-py3-none-any.whl": [
           "BwEnzVXrL30fqjfISMqk6oGaotPxHnbc/ivfFvkZmIo=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.49": {
+      "sdist": [
+        "fGvi0qzcp5iozw1bMJ2cXNrTIm1hLybqaRrVa7/z+WY=",
+        "botocore-a-la-carte-mobile-1.29.49.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_mobile-1.29.49-py3-none-any.whl": [
+          "LY5X5a84lYps4eSb2ClnL339M22jZWxteI3A1Fc9YD4=",
           "py3"
         ]
       }
@@ -23061,6 +23085,18 @@
           "py3"
         ]
       }
+    },
+    "4.0.3": {
+      "sdist": [
+        "P1dE8AOazn50m/lVYVYCocHkzffHcExiMVcYNnbfpiQ=",
+        "cdktf-cdktf-provider-spotinst-4.0.3.tar.gz"
+      ],
+      "wheels": {
+        "cdktf_cdktf_provider_spotinst-4.0.3-py3-none-any.whl": [
+          "lplln1kR8yaz1+uwlggXcHcHJFycHxvZgLLir413Js4=",
+          "py3"
+        ]
+      }
     }
   },
   "cdmc": {
@@ -23526,6 +23562,18 @@
       "wheels": {
         "cftdeploy-1.0.4-py3-none-any.whl": [
           "ThrE18xxgP1/YRjGY7XjoUn457aAuFAh+myGF5RJyhA=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.5": {
+      "sdist": [
+        "T3JFjoeE5NSJJCXc95swGFsAqFKT5UdysAHld+xbrmk=",
+        "cftdeploy-1.0.5.tar.gz"
+      ],
+      "wheels": {
+        "cftdeploy-1.0.5-py3-none-any.whl": [
+          "Rqu/AFGkaylWoWCs6fdwm9qPqqJAQuY3p/IP96BDH54=",
           "py3"
         ]
       }
@@ -84731,6 +84779,70 @@
           "cp39"
         ]
       }
+    },
+    "9.0.dev1253": {
+      "wheels": {
+        "NEURON_nightly-9.0.dev1253-cp310-cp310-macosx_10_15_x86_64.whl": [
+          "itpySO69yt70xGCT5H3gnmWLqEaMPTT+NkuEreu/w3E=",
+          "cp310"
+        ],
+        "NEURON_nightly-9.0.dev1253-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "HZ5w38GP/2IuUQxDLmPt8ZiTOuHYGc2rZK00Vo7lbhE=",
+          "cp310"
+        ],
+        "NEURON_nightly-9.0.dev1253-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "gJTQ+ckXHdUzoPUAeyK1yqSemi/IBp/LkGai/z24pJw=",
+          "cp310"
+        ],
+        "NEURON_nightly-9.0.dev1253-cp311-cp311-macosx_10_15_x86_64.whl": [
+          "nL30jzg039fKvK1oY3+zKomzHWlsuzcpx61m/WsV8I8=",
+          "cp311"
+        ],
+        "NEURON_nightly-9.0.dev1253-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "6eT+30euFfJwEeb9M91fdefziUrrKsecNB2oPd+CwA4=",
+          "cp311"
+        ],
+        "NEURON_nightly-9.0.dev1253-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "aUy4p9bjwL724x13zw/HEH7iUoYnMRaWquwUGncbwiI=",
+          "cp311"
+        ],
+        "NEURON_nightly-9.0.dev1253-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "7JdusNhlm8Znm4MLk222QleCrzGvV0JODDeo2mpu5Dw=",
+          "cp37"
+        ],
+        "NEURON_nightly-9.0.dev1253-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "Qll0EWfOkWBp6QBV/xh7GltyhbbFAznXr7nC/p7BlC4=",
+          "cp37"
+        ],
+        "NEURON_nightly-9.0.dev1253-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "0IX2C8Pv3MkwcM9sTd7V9hQ6vwxcNVCY4+V/Y5B7dqg=",
+          "cp37"
+        ],
+        "NEURON_nightly-9.0.dev1253-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "hJJc7eLcwFq6W+jnK18RDEN3GiLSCNBnKm8Oxia8J58=",
+          "cp38"
+        ],
+        "NEURON_nightly-9.0.dev1253-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "d6L4VBZ1HQ0gi+CoRd93NAtFfRUxt8S9lO3gIYpZ9bA=",
+          "cp38"
+        ],
+        "NEURON_nightly-9.0.dev1253-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "fvD8Pu1XfCtrZosQDHtSu2lgvVT0inR+e2qatAX6dls=",
+          "cp38"
+        ],
+        "NEURON_nightly-9.0.dev1253-cp39-cp39-macosx_10_15_x86_64.whl": [
+          "UBiUVcoUSUbmf4l56uVoBrgggOxZcmAq8ukQW/SaSHU=",
+          "cp39"
+        ],
+        "NEURON_nightly-9.0.dev1253-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "Ktq8DEGXoJUEZd8pvhNq+ko+yzQnjUvhsnfEbrF2pLw=",
+          "cp39"
+        ],
+        "NEURON_nightly-9.0.dev1253-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "HHcEh9wD4bZbq5CLlkajMKR7KOZHlwyG/ciryUUYFMg=",
+          "cp39"
+        ]
+      }
     }
   },
   "neuropod": {
@@ -140171,6 +140283,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.814": {
+      "sdist": [
+        "vFsMXaxDZsYe8m1efwc0Eerz5XkXMkyX4QvyQCFWIno=",
+        "tencentcloud-sdk-python-organization-3.0.814.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_organization-3.0.814-py2.py3-none-any.whl": [
+          "omRYa5KV8UCVR4Z/1jpMCa3QWMrgZg0U5YZdm+MWdAQ=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "test-styles": {
@@ -145846,6 +145970,18 @@
       "wheels": {
         "torchdatasets_nightly-1673483829-py3-none-any.whl": [
           "c7p3DzhmBptLSGSTNsIsPocwzCVR0YnwnEwqgcRfnB4=",
+          "py3"
+        ]
+      }
+    },
+    "1673570161": {
+      "sdist": [
+        "Vg/YnqkM2yitAW4vN6mLGUfiWbGjwzLF5txrnlT2xXM=",
+        "torchdatasets-nightly-1673570161.tar.gz"
+      ],
+      "wheels": {
+        "torchdatasets_nightly-1673570161-py3-none-any.whl": [
+          "MvCwDBnn/W3aa3lA2oEg0rUEHGOBaOFl7urfKWFbIKE=",
           "py3"
         ]
       }

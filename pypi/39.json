@@ -15297,6 +15297,22 @@
           "py3"
         ]
       }
+    },
+    "2.2.0b20230113": {
+      "sdist": [
+        "HB3OaGr8VM6im40tM09QfQAvrPHLWWJ1uwzO0KMPTyg=",
+        "bigdl-dllib-2.2.0b20230113.tar.gz"
+      ],
+      "wheels": {
+        "bigdl_dllib-2.2.0b20230113-py3-none-macosx_10_11_x86_64.whl": [
+          "m1++7IF5/2Ese5fYxPBAPjp92ol1IG9oqhI/aNyqnmY=",
+          "py3"
+        ],
+        "bigdl_dllib-2.2.0b20230113-py3-none-manylinux1_x86_64.whl": [
+          "lsEWMa63+hqu17j+xS9+bFP1bMVwDDGxv01rcfBycBQ=",
+          "py3"
+        ]
+      }
     }
   },
   "biggan": {
@@ -61609,6 +61625,18 @@
           "py3"
         ]
       }
+    },
+    "1.1.1": {
+      "sdist": [
+        "Xgt2K56q5PG+RwHVZpl4HVxEtEztvvXLyFQv0nsHqzs=",
+        "merkle-py-1.1.1.tar.gz"
+      ],
+      "wheels": {
+        "merkle_py-1.1.1-py3-none-any.whl": [
+          "apLCid985u+KGPV5z7ljt/EDk1VRm+LHnAKOiyTfC8k=",
+          "py3"
+        ]
+      }
     }
   },
   "mesa-behaviors": {
@@ -106898,6 +106926,18 @@
         ]
       }
     },
+    "4.11.3": {
+      "sdist": [
+        "kieDhcSfMPKnUINFKTpjOrQph/tqHCR2EtsxPg4+qNo=",
+        "pytest-sbase-4.11.3.tar.gz"
+      ],
+      "wheels": {
+        "pytest_sbase-4.11.3-py3-none-any.whl": [
+          "h4uT5f8eTehQSbUu/A7/NQWa8eog27Iqy98MgX+qF+0=",
+          "py3"
+        ]
+      }
+    },
     "4.2.0": {
       "sdist": [
         "KbgFZreL/rJ1n3LptGHzolcsPgDk3iv3X6jVqVuXRws=",
@@ -107966,6 +108006,18 @@
       "wheels": {
         "pytest_workflow-2.0.0-py3-none-any.whl": [
           "/JxAwZJzLl0TwQTi9Xeo9Rn1d2YdnKYo6NXGc1GEYos=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.1": {
+      "sdist": [
+        "xJaLry88X/MB5Z4fct0oFMjcfblQ33/K+/NYtJXaf6g=",
+        "pytest-workflow-2.0.1.tar.gz"
+      ],
+      "wheels": {
+        "pytest_workflow-2.0.1-py3-none-any.whl": [
+          "IHZIXlDq3Daqe2wyXzJqRSaxUz2UqyjgEwo99+NqvE0=",
           "py3"
         ]
       }
@@ -142664,6 +142716,22 @@
         ],
         "tf_nightly_intel-2.12.0.dev20230112-cp39-cp39-win_amd64.whl": [
           "iliYVZ2NXNsrmsOibWhP8RvtAD9E9XGkv3vpU+dLlsk=",
+          "cp39"
+        ]
+      }
+    },
+    "2.12.0.dev20230113": {
+      "wheels": {
+        "tf_nightly_intel-2.12.0.dev20230113-cp310-cp310-win_amd64.whl": [
+          "31JVHbnwWg5vBSm7z4olPcK2D4W1FuENXbZqZPf+qkY=",
+          "cp310"
+        ],
+        "tf_nightly_intel-2.12.0.dev20230113-cp38-cp38-win_amd64.whl": [
+          "JCjTpibbxkAN8uYjiR4UODCDy3yfc+Qc4eNfMDbV2k4=",
+          "cp38"
+        ],
+        "tf_nightly_intel-2.12.0.dev20230113-cp39-cp39-win_amd64.whl": [
+          "k2mQ5ZcyJQBQMtfbM8v1UVX0vG66Mn3dt2jZKZF1Q84=",
           "cp39"
         ]
       }

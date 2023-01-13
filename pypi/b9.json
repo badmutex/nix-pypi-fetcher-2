@@ -14601,6 +14601,18 @@
           "py3"
         ]
       }
+    },
+    "2.2.0b20230113": {
+      "wheels": {
+        "bigdl-2.2.0b20230113-py3-none-macosx_10_11_x86_64.whl": [
+          "vMLvQp+vUx1c3U3XSoFLGUz7ZklC/12u0qE0nBtJQpk=",
+          "py3"
+        ],
+        "bigdl-2.2.0b20230113-py3-none-manylinux1_x86_64.whl": [
+          "3m4ONL9ucFBhk0flPr56QVYtUWrapLje8/vO0H6zpt4=",
+          "py3"
+        ]
+      }
     }
   },
   "binaryheap": {
@@ -31390,6 +31402,18 @@
       "wheels": {
         "django_oauth2_authcodeflow-0.8.0-py3-none-any.whl": [
           "T8USEp5V0D7I6T27nK08RI6JQ3DPLDmfG5ieGWaq310=",
+          "py3"
+        ]
+      }
+    },
+    "0.8.1": {
+      "sdist": [
+        "JqGSAwan4YMTo3/7sjPfsmzWRijSVE9U3WR+46HJ214=",
+        "django_oauth2_authcodeflow-0.8.1.tar.gz"
+      ],
+      "wheels": {
+        "django_oauth2_authcodeflow-0.8.1-py3-none-any.whl": [
+          "H5yb6EHYbQEeDTTuAWXiuA9GuP0BzMDBtWNGYzRogvs=",
           "py3"
         ]
       }
@@ -54869,6 +54893,20 @@
       }
     }
   },
+  "lilio": {
+    "0.2.1": {
+      "sdist": [
+        "lNad4eQYMtvjUOL/UFPZ6/Jdzf5IfzVvGR4TqClG6dI=",
+        "lilio-0.2.1.tar.gz"
+      ],
+      "wheels": {
+        "lilio-0.2.1-py3-none-any.whl": [
+          "12HliasV4bN5yK0tyBNvYo4emeTfuciiM3d8wUVlFAY=",
+          "py3"
+        ]
+      }
+    }
+  },
   "lim-cpu": {
     "1.0.0": {
       "sdist": [
@@ -73224,6 +73262,18 @@
       "wheels": {
         "O365-2.0.24-py3-none-any.whl": [
           "/vFEu+7DTWW2oiXLPssRyhDxN/enWYXEdk6+q7+ryq4=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.25": {
+      "sdist": [
+        "QoXHwMQxtKEZNR7ounmwy0fS5kTMZAtMNGaxxifcQpM=",
+        "O365-2.0.25.tar.gz"
+      ],
+      "wheels": {
+        "O365-2.0.25-py3-none-any.whl": [
+          "Gwv7BnLJrZBauCbjEcuylZXDA1cMKm9ubYFehfjnMFY=",
           "py3"
         ]
       }
@@ -154835,6 +154885,36 @@
         "xerosdk-0.9.0-py3-none-any.whl": [
           "9Fo/qSg3ISLSlx1UtMAz/9C3VYbqyc42Bvb+TTQLMdk=",
           "py3"
+        ]
+      }
+    }
+  },
+  "xia-fields-network": {
+    "0.0.2": {
+      "wheels": {
+        "xia_fields_network-0.0.2-cp310-none-macosx_11_0_x86_64.whl": [
+          "ZLlCKoTyry+/fT4QNQDFV/3ket3L3Ge8i0lKSHRuRPU=",
+          "cp310"
+        ],
+        "xia_fields_network-0.0.2-cp310-none-manylinux1_x86_64.whl": [
+          "5nDaH2XuuRIcal2TjLN+ewpElvQJj7XNrrvcL07vsq0=",
+          "cp310"
+        ],
+        "xia_fields_network-0.0.2-cp310-none-win_amd64.whl": [
+          "qABaQKm0VxtYugGp4WrrgPSGTYokZopStBUBgsLCI/I=",
+          "cp310"
+        ],
+        "xia_fields_network-0.0.2-cp39-none-macosx_11_0_x86_64.whl": [
+          "+0+pco0ZQwBhrT6asyt664YIrgSdFQrBLwu+CJt90nc=",
+          "cp39"
+        ],
+        "xia_fields_network-0.0.2-cp39-none-manylinux1_x86_64.whl": [
+          "CEZNl2lk79s6k8qhdXeXnx1jBI92xl7a8rx21VxkArw=",
+          "cp39"
+        ],
+        "xia_fields_network-0.0.2-cp39-none-win_amd64.whl": [
+          "GS7Bu2yMliIR4Jet70P/xuKChl/OSk1vVsu1wKhPxuI=",
+          "cp39"
         ]
       }
     }

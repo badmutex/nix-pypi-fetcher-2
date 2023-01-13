@@ -4261,6 +4261,14 @@
           "py3"
         ]
       }
+    },
+    "2.5": {
+      "wheels": {
+        "alright-2.5-py3-none-any.whl": [
+          "KQ+/l6PSQiW5FvM6YpmhoS+yXSM59a6xsSCabZlkjoA=",
+          "py3"
+        ]
+      }
     }
   },
   "amitu-putils": {
@@ -24477,6 +24485,42 @@
           "py3"
         ]
       }
+    },
+    "0.5.0": {
+      "sdist": [
+        "fbGPd9Zpo3A1L22wbty+idraDz0wetkbvcHU7G2ykr8=",
+        "csv.py-0.5.0.tar.gz"
+      ],
+      "wheels": {
+        "csv.py-0.5.0-py3-none-any.whl": [
+          "JQeEW3G69eQb7KuJOv7+amwsl6JvIMT74EoplzI5+wI=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.1": {
+      "sdist": [
+        "2RKKvJJpx3pGM/zukJGhd4HRNOJIWTB+6TuQagH9COA=",
+        "csv.py-0.5.1.tar.gz"
+      ],
+      "wheels": {
+        "csv.py-0.5.1-py3-none-any.whl": [
+          "mWdFEAsaIYs2u0NBdA5zg/uJczNkmWVpQfSf4iGxW/Y=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.2": {
+      "sdist": [
+        "Z7jaQ1O5r7MqVUVPVfrwNXuqzRm9lBqNxOIdHp/WJR4=",
+        "csv.py-0.5.2.tar.gz"
+      ],
+      "wheels": {
+        "csv.py-0.5.2-py3-none-any.whl": [
+          "KJDs3GQMf9J3IViwULdPVova2SyBzMPmCbGUk24dQvE=",
+          "py3"
+        ]
+      }
     }
   },
   "csv2notion": {
@@ -43103,6 +43147,30 @@
           "py3"
         ]
       }
+    },
+    "1.3.0": {
+      "sdist": [
+        "heFmdh8gPVEPSaAYn6lcewF11zSbtXKbVQt0EdB361Q=",
+        "fyle-rest-auth-1.3.0.tar.gz"
+      ],
+      "wheels": {
+        "fyle_rest_auth-1.3.0-py3-none-any.whl": [
+          "E7D/4za5UclNnURoMJZ1OUIxjDmcTX6MuKDUcC5WShE=",
+          "py3"
+        ]
+      }
+    },
+    "1.3.1": {
+      "sdist": [
+        "9isBr8Dx2vtA0VfoqpYWcCTU2UOc91Zrzksll86Rbi4=",
+        "fyle-rest-auth-1.3.1.tar.gz"
+      ],
+      "wheels": {
+        "fyle_rest_auth-1.3.1-py3-none-any.whl": [
+          "+XbNpvEmWq+h6Y9UfA5PHKjbZeF0xGb6bxRJAnc0zec=",
+          "py3"
+        ]
+      }
     }
   },
   "gadget-python": {
@@ -52222,6 +52290,18 @@
       "wheels": {
         "invenio_cli-1.0.14-py2.py3-none-any.whl": [
           "Gi1vqhr5PqVmQuMH3CY3MPw87RiypGXLM+3PltIqjrw=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.0.15": {
+      "sdist": [
+        "u8ysyOP4vbJlVDh7OEgssH3g+GwOaYmEwvq6qDChhXg=",
+        "invenio-cli-1.0.15.tar.gz"
+      ],
+      "wheels": {
+        "invenio_cli-1.0.15-py2.py3-none-any.whl": [
+          "Dg/7ebNjX2W5v5Xxgv0dr/B2sA+V89k2DV1S8FASMg4=",
           "py2.py3"
         ]
       }
@@ -80378,6 +80458,18 @@
         ]
       }
     },
+    "0.1.32": {
+      "sdist": [
+        "/G9Te3e0j1iEC1datO0B4/gz77wsm4qkNxLU7QLw4wA=",
+        "nteu_corporate_engine-0.1.32.tar.gz"
+      ],
+      "wheels": {
+        "nteu_corporate_engine-0.1.32-py3-none-any.whl": [
+          "+CvaFkzK0P3wVi7vSfOo9fY4pUmVUGrwdqPJE9HrSA4=",
+          "py3"
+        ]
+      }
+    },
     "0.1.4": {
       "sdist": [
         "yPqPezMLV4uicDiJiURkS9gMkdp7Oo4FeQEueZQWyVQ=",
@@ -94054,9 +94146,77 @@
         "pyaiken-0.1.1.tar.gz"
       ],
       "wheels": {
+        "pyaiken-0.1.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "PRu16/OiJYK2QzJUQ18Xh2iaYEL+TTkXWVROY5Z+DUs=",
+          "cp310"
+        ],
+        "pyaiken-0.1.1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "K8Yb4XA3nV/A7iQYhExnqPNoJJYW0TXXVlelOWTLMdk=",
+          "cp311"
+        ],
+        "pyaiken-0.1.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "+cwu5Jwfadf3VNK+xEsNdot+FcCT+GUxCfqXJcJsVeg=",
+          "cp38"
+        ],
         "pyaiken-0.1.1-cp38-cp38-manylinux_2_34_x86_64.whl": [
           "aja2m+mKc56cJcpi4VUwuhVbfUe1pYvgON4VWA1nP4s=",
           "cp38"
+        ],
+        "pyaiken-0.1.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "E3AOQGYelaUHJpHOnFfS8dhQEvArUdYe+T2RleXnFBo=",
+          "cp39"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "ZKe3ciYIoW2VjHWfddyBC6k3O0NRC82H/oIbKw8WW1Y=",
+        "pyaiken-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "pyaiken-0.1.2-cp38-cp38-manylinux_2_34_x86_64.whl": [
+          "FNKgpXSIU0W9RKB/jY00JGBnsgvkb9LrFmGcATvwU48=",
+          "cp38"
+        ]
+      }
+    },
+    "0.2.1": {
+      "sdist": [
+        "Gyr1YppJZ9ePpmBl17Tlo4loCC6GsJ4NkXUOZbdJkcU=",
+        "pyaiken-0.2.1.tar.gz"
+      ],
+      "wheels": {
+        "pyaiken-0.2.1-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "xC37yHN+I7KK9NpKlslS8QHk4M60she1Z9KYExzGZDM=",
+          "cp310"
+        ],
+        "pyaiken-0.2.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "CZqUbXz/HDLMmKKP78TlGYtbbB0XG6rgtJTIZXHk8q0=",
+          "cp310"
+        ],
+        "pyaiken-0.2.1-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "oZ3CWOfKrB1IQIEquDYY2GRd3vYK0AQe2xHocqQbi2I=",
+          "cp311"
+        ],
+        "pyaiken-0.2.1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "bjZMl8xNL0YC6TcLH/Qt6BtFNm89IzFKIAWXH4MMOqg=",
+          "cp311"
+        ],
+        "pyaiken-0.2.1-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "DVqq+6IVDT3J5zwfShB1NkNVaVnUGHYv3Llf2c4wcQU=",
+          "cp38"
+        ],
+        "pyaiken-0.2.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "8xXL6MxBdZ8HzziBlNbcbStK2AxNBCmGgbOLzjIR/bk=",
+          "cp38"
+        ],
+        "pyaiken-0.2.1-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "7Zi7sALCq2n/PAtq2yxUhyCTR0KymTbx3rRltTe1U/c=",
+          "cp39"
+        ],
+        "pyaiken-0.2.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "VgP5so9COSGYhHueoW1aMv11V/PZ4/Vy8tauQUgj2+A=",
+          "cp39"
         ]
       }
     }
@@ -108254,6 +108414,18 @@
       "wheels": {
         "raumo_data_tools-0.1.5-py3-none-any.whl": [
           "B0SVgPu3nEQjzfejwOs/T0s9By3FDkCvjJNvIus2yQE=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.6": {
+      "sdist": [
+        "fs9NBnfKG/h6C3WhEwOTzOOCwEcDojE/7yrlMjKQsJw=",
+        "raumo_data_tools-0.1.6.tar.gz"
+      ],
+      "wheels": {
+        "raumo_data_tools-0.1.6-py3-none-any.whl": [
+          "BP/Wx4uPys3nlFwFgMoJQLSyxGawctt/NJrQAO3uySI=",
           "py3"
         ]
       }
@@ -129148,6 +129320,18 @@
       "wheels": {
         "tensorcircuit_nightly-0.7.0.dev20230112-py3-none-any.whl": [
           "ScTp+PHJBE2qjgyjYYLLrdAU4AoMhuS/1nKsJi566fY=",
+          "py3"
+        ]
+      }
+    },
+    "0.7.0.dev20230113": {
+      "sdist": [
+        "HRlNe704RDWBMzlr1wc0pwGBjhuvTwQXBT0dxJEuRow=",
+        "tensorcircuit-nightly-0.7.0.dev20230113.tar.gz"
+      ],
+      "wheels": {
+        "tensorcircuit_nightly-0.7.0.dev20230113-py3-none-any.whl": [
+          "7TO/V4GLT5C4D6lu7t1Q27tiOh95wGjYbqT6uQPUOEA=",
           "py3"
         ]
       }

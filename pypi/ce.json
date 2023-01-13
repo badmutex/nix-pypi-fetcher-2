@@ -5267,6 +5267,18 @@
           "py3"
         ]
       }
+    },
+    "0.2.3a2": {
+      "sdist": [
+        "ChV++SxFlCR44fGH7VuXibRV0jpdx2vf122eiioMoy4=",
+        "backendpy-0.2.3a2.tar.gz"
+      ],
+      "wheels": {
+        "backendpy-0.2.3a2-py3-none-any.whl": [
+          "7teqOedECoZ9Xtuz98vshC37fC71Z3HdFNs/ylTw+p8=",
+          "py3"
+        ]
+      }
     }
   },
   "bad-formatting-johnmontgomery2003": {
@@ -59082,6 +59094,12 @@
         "libs3tl-0.1.4.tar.gz"
       ]
     },
+    "0.1.40": {
+      "sdist": [
+        "X353SH3WbsEG8Er9EqXa8hqpEBNhxmbVOGUeLFC6FfQ=",
+        "libs3tl-0.1.40.tar.gz"
+      ]
+    },
     "0.1.5": {
       "sdist": [
         "CXlKq3LstlurM8Ou11S5DJHMBm2mmAGMycpuCyHxikY=",
@@ -73444,6 +73462,18 @@
       "wheels": {
         "muffin_rest-4.2.2-py3-none-any.whl": [
           "aPrx5LMaqjYJ+VERS5yKAaFAV55/PqONjv7IvOvL+Co=",
+          "py3"
+        ]
+      }
+    },
+    "4.2.3": {
+      "sdist": [
+        "YE8/KKrgXG+WrM8sDe1S3/dyvS82qslt02bEYWMU4Ds=",
+        "muffin-rest-4.2.3.tar.gz"
+      ],
+      "wheels": {
+        "muffin_rest-4.2.3-py3-none-any.whl": [
+          "vTZegiceGiDIIpY8VayOjCwfo4jwtI7qXTmAhnGcLMk=",
           "py3"
         ]
       }
@@ -99950,6 +99980,18 @@
       "sdist": [
         "ce/wN2pSO+lCgoPdupSigPQAgP+VYURLX6Z8eG/SnwE=",
         "pulumi_alicloud-3.29.0a1661293358.tar.gz"
+      ]
+    },
+    "3.29.0a1673593781": {
+      "sdist": [
+        "QeZoNUP5Hw5hVpBstQKVPnLWXn4cjRh9yLY7ddQ/2lU=",
+        "pulumi_alicloud-3.29.0a1673593781.tar.gz"
+      ]
+    },
+    "3.29.0a1673595458": {
+      "sdist": [
+        "GPuw3kbV7NSFSUgvjC7R28G0EkqK4w2b0RZwuQiNkGY=",
+        "pulumi_alicloud-3.29.0a1673595458.tar.gz"
       ]
     },
     "3.3.0": {
@@ -143067,6 +143109,42 @@
           "cp39"
         ]
       }
+    },
+    "13.8.0rc1": {
+      "wheels": {
+        "viktor-13.8.0rc1-cp310-cp310-manylinux2014_x86_64.whl": [
+          "v6EMFQlSG57C+RZmkOfK1YK9UcqRQiqVdjpX/4L8egA=",
+          "cp310"
+        ],
+        "viktor-13.8.0rc1-cp310-cp310-win_amd64.whl": [
+          "uyrJKttmJbWyNpxkxPQhr0cu+8yRTgkMJ2GfC7nE8J0=",
+          "cp310"
+        ],
+        "viktor-13.8.0rc1-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "WlDvHAS07gWzIQkT4ao6zdoJHFye6DEQ2eham6eiuIo=",
+          "cp37"
+        ],
+        "viktor-13.8.0rc1-cp37-cp37m-win_amd64.whl": [
+          "7khR3FczTonCPXX+PV+tGjfRzd3G36JGz+2oRdCf4kQ=",
+          "cp37"
+        ],
+        "viktor-13.8.0rc1-cp38-cp38-manylinux2014_x86_64.whl": [
+          "7ZmXAif3iH0AHQEW+4TYvXSaTt6zhBPKpFKcp1XsF38=",
+          "cp38"
+        ],
+        "viktor-13.8.0rc1-cp38-cp38-win_amd64.whl": [
+          "waIT4MOpoBG1GIyRPqPUJxxOFaYKqtevIZ6RupohzBk=",
+          "cp38"
+        ],
+        "viktor-13.8.0rc1-cp39-cp39-manylinux2014_x86_64.whl": [
+          "uiGp1I1rgXJsbBmfT1ftM1reaXEWRZ9FkrDiNAfchk4=",
+          "cp39"
+        ],
+        "viktor-13.8.0rc1-cp39-cp39-win_amd64.whl": [
+          "bi6p+ndd5MVSbC6qu7Fx8GjxtyGuIFzDXGA2u0AumHk=",
+          "cp39"
+        ]
+      }
     }
   },
   "vineyard": {
@@ -144134,6 +144212,46 @@
         ],
         "vineyard-0.11.4-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
           "8AqfE2buRVgN7YwsnrlmsLVGq5Hulh+6iPEq7684388=",
+          "cp39"
+        ]
+      }
+    },
+    "0.11.6": {
+      "wheels": {
+        "vineyard-0.11.6-cp310-cp310-macosx_11_0_x86_64.whl": [
+          "53VxgGuggwv/k3TqTSmkUabs7RwHP1NvGet2URSP0Rs=",
+          "cp310"
+        ],
+        "vineyard-0.11.6-cp310-cp310-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "8MxvS4dPpGFlzuMWrD7Z+EkZTKID+Yonbibfdj0Z1O4=",
+          "cp310"
+        ],
+        "vineyard-0.11.6-cp36-cp36m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "d6WhY+98qHViIUxAXj/3asRduZHS9zE/FjaA37CiK/k=",
+          "cp36"
+        ],
+        "vineyard-0.11.6-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "31QvmJimMGerdSsjGSSrpPCxiX9c2nWazJQJa3eF6U8=",
+          "cp37"
+        ],
+        "vineyard-0.11.6-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "VjtmlOmut5UL4luVx6Kyeazy/nMnHKYrKtHsXU/ArEY=",
+          "cp37"
+        ],
+        "vineyard-0.11.6-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "BFKaxEZNdQXMz9mfl4f+iOs9ubW996bspHJYXvg94dg=",
+          "cp38"
+        ],
+        "vineyard-0.11.6-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "UwK5dN+/i4/29ukGyxykNiA4HPfxbyOUW94U1h5NIFw=",
+          "cp38"
+        ],
+        "vineyard-0.11.6-cp39-cp39-macosx_11_0_x86_64.whl": [
+          "aMqrm1Okut93r0dKj8IQVq3lbGJMQJ5lEBfQguWJlkg=",
+          "cp39"
+        ],
+        "vineyard-0.11.6-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "2MH+dxy1P0WdsAgc0RDmBkJ5FNst+1Vdsobd+zBSIZs=",
           "cp39"
         ]
       }

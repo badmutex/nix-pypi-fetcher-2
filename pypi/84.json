@@ -9396,6 +9396,14 @@
         ]
       }
     },
+    "1.48.0.post1": {
+      "wheels": {
+        "azureml_train_automl_runtime-1.48.0.post1-py3-none-any.whl": [
+          "QVski/0b3uh1QXyqndYxofZU4riumw2eruXJPMlTykE=",
+          "py3"
+        ]
+      }
+    },
     "1.5.0": {
       "wheels": {
         "azureml_train_automl_runtime-1.5.0-py3-none-any.whl": [
@@ -31056,6 +31064,18 @@
       "wheels": {
         "django_admin_geomap-1.3.1-py3-none-any.whl": [
           "1EC3EEECeA6SeUzH/nav2aupSNTREW/A+hI+1aj16EU=",
+          "py3"
+        ]
+      }
+    },
+    "1.4": {
+      "sdist": [
+        "ZZtU3PQLDTRYzLCSt7m2ktq/OEmH7jNVVygMRvbv+RQ=",
+        "django_admin_geomap-1.4.tar.gz"
+      ],
+      "wheels": {
+        "django_admin_geomap-1.4-py3-none-any.whl": [
+          "j1HkozUAE9GsNhgBJNbGRuTFYHm56HfFOHa0eDSXxpI=",
           "py3"
         ]
       }
@@ -63912,6 +63932,18 @@
       "wheels": {
         "large_image_source_dicom-1.19.1.dev17-py3-none-any.whl": [
           "NzyUiUhThasNqA5Cr5f6cwg5+yjxz+Ghcd8amJO7aPM=",
+          "py3"
+        ]
+      }
+    },
+    "1.19.2.dev2": {
+      "sdist": [
+        "Z7RXC1qIbGqMN/jf2ZNj/VnwETX5eAvFH7TQD/ZP9cs=",
+        "large-image-source-dicom-1.19.2.dev2.tar.gz"
+      ],
+      "wheels": {
+        "large_image_source_dicom-1.19.2.dev2-py3-none-any.whl": [
+          "Gs/CChyIYwOMcT37dbBtsvJDA7fnaH+4mIQyyy3XpMs=",
           "py3"
         ]
       }
@@ -100839,6 +100871,18 @@
         "omNMdkEwuCboKk0FTud1aNV/6UpTTbTM1uifPbmlc/U=",
         "pyAMOSA-1.1.5.tar.gz"
       ]
+    },
+    "1.1.8": {
+      "sdist": [
+        "b/+y6QVziToVYPAc8+JFGlkRoOhZeMk7WROtr9KCx5A=",
+        "pyAMOSA-1.1.8.tar.gz"
+      ]
+    },
+    "1.1.9": {
+      "sdist": [
+        "fLUkVTPORfp4dL0k7UwgaqE4DJqYsAU8e9Zq/owsftw=",
+        "pyAMOSA-1.1.9.tar.gz"
+      ]
     }
   },
   "pyannotators-stefan": {
@@ -120491,6 +120535,20 @@
       }
     }
   },
+  "splitaxes": {
+    "0.9.0": {
+      "sdist": [
+        "sqdhpAlk6Fz5SpHWhSLO1IT6OS917H4ScQhwhnkf0Mw=",
+        "splitAxes-0.9.0.tar.gz"
+      ],
+      "wheels": {
+        "splitAxes-0.9.0-py3-none-any.whl": [
+          "NVGkQA5slg/Vbp6bpRH3Da8MCMjBr2pS/3Xsf0Scego=",
+          "py3"
+        ]
+      }
+    }
+  },
   "spotipie": {
     "0.1.0": {
       "sdist": [
@@ -135898,6 +135956,14 @@
         ]
       }
     },
+    "2.12.0a20230113": {
+      "wheels": {
+        "tb_nightly-2.12.0a20230113-py3-none-any.whl": [
+          "X4M+OEtnT5riKl3XQPfS/CA7mnjAAwrZohbbE1Z29Hg=",
+          "py3"
+        ]
+      }
+    },
     "2.2.0a20191207": {
       "wheels": {
         "tb_nightly-2.2.0a20191207-py2-none-any.whl": [
@@ -146372,6 +146438,42 @@
       "wheels": {
         "trio_binance-0.1.9-py3-none-any.whl": [
           "AlJuKDP8RPHidV6MO1IrlXMF+0lITcym+2MA/grjnD0=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.0": {
+      "sdist": [
+        "7skSqzcxmfsPkL3nlYTCAYLHwTUK+Y8F1mfwy0te3lk=",
+        "trio-binance-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "trio_binance-0.2.0-py3-none-any.whl": [
+          "nTS+sxJPg2WcMeYALkp6jF976L4J5FFQst1/LSml0+U=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.1": {
+      "sdist": [
+        "gc0HnBNFy0GfyOwXQ4Ftu6YfpE043snD6K1zjSH7cbw=",
+        "trio-binance-0.2.1.tar.gz"
+      ],
+      "wheels": {
+        "trio_binance-0.2.1-py3-none-any.whl": [
+          "Sugk1UPu8zCTM4RO+Y0QXVop4YdfbCeDbtpUnGNGJQs=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.2": {
+      "sdist": [
+        "7laLuF316CG5MBYem87kZgM3bz+ta4NXyLb0kpwtBd4=",
+        "trio-binance-0.2.2.tar.gz"
+      ],
+      "wheels": {
+        "trio_binance-0.2.2-py3-none-any.whl": [
+          "7Y2EoAibGNuo4zHNEIcgD1dtdvAFc5oSvQ5yXucXQu0=",
           "py3"
         ]
       }

@@ -6713,6 +6713,18 @@
           "py3"
         ]
       }
+    },
+    "5.1.0rc1": {
+      "sdist": [
+        "y6gaehwsB6VFTiHHphSuDBNeMWEN6M8+uKZBI+CJ/LI=",
+        "apache-airflow-providers-microsoft-azure-5.1.0rc1.tar.gz"
+      ],
+      "wheels": {
+        "apache_airflow_providers_microsoft_azure-5.1.0rc1-py3-none-any.whl": [
+          "22hJ1gFA3PEb6VYpNBEIWXL8AgL7RMBWyFgqEqB+ljY=",
+          "py3"
+        ]
+      }
     }
   },
   "apeman-model-client": {
@@ -97189,6 +97201,48 @@
       ]
     }
   },
+  "pybind11-geobuf": {
+    "0.0.1": {
+      "sdist": [
+        "iapWdGmyo1htA7n4LQCVoi1QRjOaphVNSF4Eaj9kD6E=",
+        "pybind11_geobuf-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "pybind11_geobuf-0.0.1-cp310-cp310-macosx_11_0_arm64.whl": [
+          "kXKWGINHUceDCe6YNE98llt3cni8FTEEpPmEGNP6wa4=",
+          "cp310"
+        ],
+        "pybind11_geobuf-0.0.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "GGAMYBRNrw3DB7zQYCyfpsbxDii/kUyGZTH88/b2DS4=",
+          "cp310"
+        ],
+        "pybind11_geobuf-0.0.1-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "BDh7UlDDmIYaanEU+T4pIrKrh7IcjhIhkSU+Yo8Hd+M=",
+          "cp36"
+        ],
+        "pybind11_geobuf-0.0.1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "9AKEEj4qioCT25NMJhoKyKMX3o2PS9F8MizqTrQR+pE=",
+          "cp37"
+        ],
+        "pybind11_geobuf-0.0.1-cp38-cp38-macosx_11_0_arm64.whl": [
+          "7N5LTkJT7cu57uXdDMaF656BxjIc+vZgwBAM5Im+kuo=",
+          "cp38"
+        ],
+        "pybind11_geobuf-0.0.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "lq8cfzJroJPoTAyS5fOtJXCsNshcp6cLihkzATikdog=",
+          "cp38"
+        ],
+        "pybind11_geobuf-0.0.1-cp39-cp39-macosx_11_0_arm64.whl": [
+          "VWlPwvCgM2krnj8o6ugH02BkekFj4HmERjD9s7aF4UY=",
+          "cp39"
+        ],
+        "pybind11_geobuf-0.0.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "NdOZZ/P0MM/4U2CZj8gqAc0f0/R9wTcW7MMlYS6Oxyw=",
+          "cp39"
+        ]
+      }
+    }
+  },
   "pyblemesh": {
     "0.1": {
       "wheels": {
@@ -129369,6 +129423,18 @@
           "py3"
         ]
       }
+    },
+    "0.7.0.dev20230114": {
+      "sdist": [
+        "JTbxtiQi3tnL9hlDS3O2zAFB89oE9FZi+Vu3Azjv+T0=",
+        "tensorcircuit-nightly-0.7.0.dev20230114.tar.gz"
+      ],
+      "wheels": {
+        "tensorcircuit_nightly-0.7.0.dev20230114-py3-none-any.whl": [
+          "8gom4g8II1P24IKbHqWN33bIBb9o965GHZ8YcmDVejo=",
+          "py3"
+        ]
+      }
     }
   },
   "tensorflow-lattice-gpu": {
@@ -139916,6 +139982,20 @@
       "wheels": {
         "xiangqi-1.0.5-py3-none-any.whl": [
           "0Onsmj9oLTwv0lrFflVOFBXoYFMACeh6HI9s4LhRpfA=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "xinxilun-bianma-yumimaxue": {
+    "2023.1.14.0": {
+      "sdist": [
+        "sDirzIfnqbxQovRm5sySm878ScpRukcnPPHLMHasL7g=",
+        "xinxilun-bianma-yumimaxue-2023.1.14.0.tar.gz"
+      ],
+      "wheels": {
+        "xinxilun_bianma_yumimaxue-2023.1.14.0-py3-none-any.whl": [
+          "9WFx69hSRbZ6rC3hPISOL4O/ueUk4rW8T10RTrmvPDY=",
           "py3"
         ]
       }

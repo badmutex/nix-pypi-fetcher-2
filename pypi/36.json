@@ -52555,6 +52555,30 @@
           "cp39"
         ]
       }
+    },
+    "1.1.2": {
+      "wheels": {
+        "gma-1.1.2-cp310-cp310-manylinux1_x86_64.whl": [
+          "KrD9b6euQSLM8GaFhJOE/9cCpm6duywMUPVyw7VMGyE=",
+          "cp310"
+        ],
+        "gma-1.1.2-cp310-cp310-win_amd64.whl": [
+          "GpV/P/zfgLZY4Z1qLKQkheaEsxAv7gBxfZZLmGSoLV0=",
+          "cp310"
+        ],
+        "gma-1.1.2-cp38-cp38-win_amd64.whl": [
+          "oVnePa1g7gTjkmwziW4wbxrdpVpGPSd4s2akPAiCUn4=",
+          "cp38"
+        ],
+        "gma-1.1.2-cp39-cp39-manylinux1_x86_64.whl": [
+          "a7++i1UGUDGiajsw6ZzW/88eeXV6QEMn80gdCUUCr9k=",
+          "cp39"
+        ],
+        "gma-1.1.2-cp39-cp39-win_amd64.whl": [
+          "11aHuHD0RU/PiFH7OcEsm2g2oQQ3IBsGQG1dVhaEzzQ=",
+          "cp39"
+        ]
+      }
     }
   },
   "godb": {
@@ -62715,6 +62739,20 @@
         "tKM2yj+TrFgI8NuGcoWm21oZvUdu/Owm9MU68GfO2VQ=",
         "jirainfo-0.2.0.tar.gz"
       ]
+    }
+  },
+  "jisuanji-anquan-yuanli-yushijian": {
+    "2023.1.14.0": {
+      "sdist": [
+        "clYIrkiqnOIJFPTtUy7Qfz50Qh5GSFgPyw82B1eDBg4=",
+        "jisuanji-anquan-yuanli-yushijian-2023.1.14.0.tar.gz"
+      ],
+      "wheels": {
+        "jisuanji_anquan_yuanli_yushijian-2023.1.14.0-py3-none-any.whl": [
+          "B56WMurAimru3PqmAW9Aa6CaKSQ9zJ6bGJtOkq64VRo=",
+          "py3"
+        ]
+      }
     }
   },
   "jmbo-twitter": {
@@ -130932,6 +130970,18 @@
         ]
       }
     },
+    "1.7.10": {
+      "sdist": [
+        "wRUe/PEZO+i+ybB88Oyc1i7av2qXWV5ifYqVLeB2rv8=",
+        "scholarly-1.7.10.tar.gz"
+      ],
+      "wheels": {
+        "scholarly-1.7.10-py3-none-any.whl": [
+          "XTvs+LPj49Z+gSrR6EGXAlmX4iR/K0QmR8Zq7kLU4lM=",
+          "py3"
+        ]
+      }
+    },
     "1.7.10a0": {
       "sdist": [
         "g0ueJtF4ZMz8Sl55ywwD9wld1GehPO+H7Z3p+7DnKsg=",
@@ -137945,6 +137995,20 @@
       }
     }
   },
+  "tcpip-xiangjie-vol1": {
+    "2023.1.14.0": {
+      "sdist": [
+        "2Is+rEKhnW+V38rv1m/nacLfmQUrAri7J9r0/+DmhMo=",
+        "tcpip-xiangjie-vol1-2023.1.14.0.tar.gz"
+      ],
+      "wheels": {
+        "tcpip_xiangjie_vol1-2023.1.14.0-py3-none-any.whl": [
+          "F6qjxJuRm3jAKpt8QX/85KA7Qfxn2EJhXRB77KHNlyc=",
+          "py3"
+        ]
+      }
+    }
+  },
   "tcplite": {
     "0.0.1": {
       "sdist": [
@@ -140206,6 +140270,14 @@
       "wheels": {
         "tf_model_optimization_nightly-0.7.3.dev20230112-py2.py3-none-any.whl": [
           "aa5rVTSRWCBFpDTE8rMeXS+ewOqrfiJwPMrO9L2MIvc=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.7.3.dev20230114": {
+      "wheels": {
+        "tf_model_optimization_nightly-0.7.3.dev20230114-py2.py3-none-any.whl": [
+          "4R0BwtbTI4OyqcpmOiWciGwp346pCOPLGtDyPmcWtQs=",
           "py2.py3"
         ]
       }

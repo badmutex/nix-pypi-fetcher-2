@@ -13375,6 +13375,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.50": {
+      "sdist": [
+        "25L4EUgZ0R9f28x9tzc6ngdKQUbiNCTeHDbzOaw7g7E=",
+        "botocore-a-la-carte-lexv2-models-1.29.50.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_lexv2_models-1.29.50-py3-none-any.whl": [
+          "+bc1BpmiEDb9O5HfJZVdD+XqID8jQI6Y2ZmFK9ykKts=",
+          "py3"
+        ]
+      }
     }
   },
   "botterino": {
@@ -19820,6 +19832,14 @@
       "sdist": [
         "Ab4NK/FUwAGW7xmI9iqiER6mgoJYQxF9pF/kT4Xn7N0=",
         "crispor_cli-0.1.1.tar.gz"
+      ]
+    }
+  },
+  "crisppy": {
+    "1.0.2": {
+      "sdist": [
+        "xPLTt3EqxqE2gHMUvnLfjqZPiPZl4KPC/kHMK3/Faeg=",
+        "crisppy-1.0.2.tar.gz"
       ]
     }
   },
@@ -49952,6 +49972,14 @@
       "wheels": {
         "hidet-0.1-py3-none-any.whl": [
           "0wJs5SuL/NDQguRnqLt4G52I1HOr+B7FP2xyoyznMZE=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.0": {
+      "wheels": {
+        "hidet-0.2.0-py3-none-any.whl": [
+          "qWLHsiKTURtmshkFYsUYZdQ6aUob4ah3KZC/S2HddXE=",
           "py3"
         ]
       }
@@ -113217,6 +113245,30 @@
           "py3"
         ]
       }
+    },
+    "0.0.3": {
+      "sdist": [
+        "5rz23crpwwLI5DmbwsAFUcKoNIKoLbiABK+Uv2dNi8Y=",
+        "saprpa-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "saprpa-0.0.3-py3-none-any.whl": [
+          "+CbVlJ9RRMfPO3T4QmUGlGUVgOMS15CM5yTovWAzOYA=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4": {
+      "sdist": [
+        "ItvrKEsZ9Lfxf93EW/WkDXZvDySZfNUEJZz6jgKhGIM=",
+        "saprpa-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "saprpa-0.0.4-py3-none-any.whl": [
+          "6aB0KmfwT87ZWwKKw0Rhii0yytu47fXkd5fPPfQd/os=",
+          "py3"
+        ]
+      }
     }
   },
   "sathyabama-updates": {
@@ -115058,6 +115110,50 @@
         ],
         "Sella-2.2.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "UJ6a0YtkHtmj4pffNxEFr/EQWwY8sRmhCh0i+m/VkIQ=",
+          "cp39"
+        ]
+      }
+    },
+    "2.2.1": {
+      "sdist": [
+        "xtVxjsbtt+cIUNUYluG9osPn/jpwFwV92Vx7XYdsF9Q=",
+        "Sella-2.2.1.tar.gz"
+      ],
+      "wheels": {
+        "Sella-2.2.1-cp310-cp310-macosx_11_0_x86_64.whl": [
+          "pcWao44RGobEtHO2n3fptQmMoTQoOUAn8Z8piuWFx4c=",
+          "cp310"
+        ],
+        "Sella-2.2.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "BBWiZQEaIABGH9ReDP+fGdjWlcXVbRv5NvnX66BXBE8=",
+          "cp310"
+        ],
+        "Sella-2.2.1-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "z1Rw0LGe2mCfcfVr3Wm8aIAf1+ARHOdxQG1KgxUnPhk=",
+          "cp36"
+        ],
+        "Sella-2.2.1-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "w/ZDbjAKlRcsTxO9PH7yQC/IeSVgYyUt2TNlwvcP3+I=",
+          "cp37"
+        ],
+        "Sella-2.2.1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "FKJOzsaHlIcPQkMPALZVjiQIXhfhFzAkjYgl+wspCMc=",
+          "cp37"
+        ],
+        "Sella-2.2.1-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "TdETQycIqmikOgJeXhcT0dCJkHp8iSEJ8OahLTGvmAQ=",
+          "cp38"
+        ],
+        "Sella-2.2.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "qRfgYG0LSrowycQrTPjU9hWoqxL+RU+EXzeBbsDC95o=",
+          "cp38"
+        ],
+        "Sella-2.2.1-cp39-cp39-macosx_11_0_x86_64.whl": [
+          "Lp0WDOEaYyQukUjKqpb6vpQv8I0YaXeagCV492eJfuQ=",
+          "cp39"
+        ],
+        "Sella-2.2.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "m7xP6HMi2I4Dt227sodJOUluoHpfK4R3s9ajE1AYqKE=",
           "cp39"
         ]
       }

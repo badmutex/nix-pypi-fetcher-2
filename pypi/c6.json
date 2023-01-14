@@ -14495,6 +14495,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.50": {
+      "sdist": [
+        "cpMIjSSDKPTLdewmWNhlfz5Q+HqFiE9gTUXn1zkxRlA=",
+        "botocore-a-la-carte-chime-sdk-identity-1.29.50.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_chime_sdk_identity-1.29.50-py3-none-any.whl": [
+          "lJkv2rSJCvfxawhlWOZbXYhKbdMfgQRjVYjVtRLEsEM=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-controltower": {
@@ -14590,6 +14602,18 @@
       "wheels": {
         "botocore_a_la_carte_controltower-1.29.49-py3-none-any.whl": [
           "JKP6GTgCEbkBNnYR5rAgQSLV2+jmizV97tVi6ElwQtY=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.50": {
+      "sdist": [
+        "ItsF7gO2xF5vgdCLWTjmE3afzX5f6T/E2oEW3NHaX/A=",
+        "botocore-a-la-carte-controltower-1.29.50.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_controltower-1.29.50-py3-none-any.whl": [
+          "yc/GRwYM35/k2LB7ODDpr4+zNnUy1Uc9OVt5E06qBjs=",
           "py3"
         ]
       }
@@ -14691,6 +14715,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.50": {
+      "sdist": [
+        "jgS4Xd7Ul93s5FDlyRpw4rFz5Ic3ApWVf2x9/3M+wCU=",
+        "botocore-a-la-carte-mgn-1.29.50.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_mgn-1.29.50-py3-none-any.whl": [
+          "2UcRXOZD87WE9xO6ptCkQm4aebIJGSCsokxmPf5KWLs=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-sesv2": {
@@ -14786,6 +14822,18 @@
       "wheels": {
         "botocore_a_la_carte_sesv2-1.29.49-py3-none-any.whl": [
           "CPN4uNhKfPcQN/p+wVdAFsD5LQiuOTRssbLOFlqsZ3o=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.50": {
+      "sdist": [
+        "cLLALV8cLBtWp4XGqRQjrvYEJS6iqM1qD8uQrTqsppk=",
+        "botocore-a-la-carte-sesv2-1.29.50.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_sesv2-1.29.50-py3-none-any.whl": [
+          "EUrdiLHnrVkkHTAiEzo+Tu486wL4zzSYnkrs0l/A2Wk=",
           "py3"
         ]
       }
@@ -74354,6 +74402,14 @@
       "wheels": {
         "odoo_addon_operating_unit-15.0.1.0.3.1-py3-none-any.whl": [
           "P95nXA5q/DB0H8twManbD4OaE9yt6yUVMiM9iTLQHK4=",
+          "py3"
+        ]
+      }
+    },
+    "15.0.1.0.4": {
+      "wheels": {
+        "odoo_addon_operating_unit-15.0.1.0.4-py3-none-any.whl": [
+          "eLAtvc6wk5RZOyX6a0assNDqHjpAKplrt4SEPcTY6Gk=",
           "py3"
         ]
       }
@@ -135768,6 +135824,26 @@
       "wheels": {
         "zarcrender-1.0.1-py3-none-any.whl": [
           "lFT/S0YMD/xkfM9V35VM9/ewIrOCnLKrSl3CBAXsuyc=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "zarr-checksum": {
+    "0.1.0": {
+      "sdist": [
+        "JHklsMNlj+TVIBZt+xMoDBUXn9pTKS/Jn/nYABhDwuc=",
+        "zarr_checksum-0.1.0.tar.gz"
+      ]
+    },
+    "0.1.1": {
+      "sdist": [
+        "CdWEP3K8jfNMZtswyWqqI5GHrcjjnpPUsynuMdCV+ZA=",
+        "zarr_checksum-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "zarr_checksum-0.1.1-py3-none-any.whl": [
+          "aCKeMGDfOMPpUJuU89pqtjHP2bVT42bEurOIrkpYX/E=",
           "py3"
         ]
       }

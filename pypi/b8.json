@@ -16457,6 +16457,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.50": {
+      "sdist": [
+        "ct1qbOGdbWpR0NAsCzKWoLbz5FNgrf6Dw3U3i3PFaSA=",
+        "botocore-a-la-carte-cloud9-1.29.50.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_cloud9-1.29.50-py3-none-any.whl": [
+          "KqCGkTFfvIyYXuRWxgCJhB65FhvThVcTTYTcw9NorwU=",
+          "py3"
+        ]
+      }
     }
   },
   "bpx": {
@@ -19733,6 +19745,20 @@
           "py3"
         ]
       }
+    }
+  },
+  "classsave": {
+    "1.1": {
+      "sdist": [
+        "RXo95l9XjZqGKUJ7BGKLR3VhqD27Mvn0OzHm0GGYXys=",
+        "ClassSave-1.1.tar.gz"
+      ]
+    },
+    "1.2": {
+      "sdist": [
+        "Cm7lHiiw4momccug3v9WkO8FcFn3YVrSJE+nJtP32UU=",
+        "ClassSave-1.2.tar.gz"
+      ]
     }
   },
   "cli-config-manager": {
@@ -47052,6 +47078,14 @@
       "wheels": {
         "hat_doit-0.11.9-cp38.cp39.cp310-none-any.whl": [
           "gMK7Jo9JKTMvhIhGrxVeHFtUn4RQCvzMo2qLwKRS/sk=",
+          "cp38.cp39.cp310"
+        ]
+      }
+    },
+    "0.12.0": {
+      "wheels": {
+        "hat_doit-0.12.0-cp38.cp39.cp310-none-any.whl": [
+          "fVqddsFsjzOCdJ0XCpPRzmuk8a4hJLYO+8jYo8I7kAM=",
           "cp38.cp39.cp310"
         ]
       }

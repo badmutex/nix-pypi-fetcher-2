@@ -17337,6 +17337,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.50": {
+      "sdist": [
+        "gVmAyW4hpHxneBiR0vAiFq8rE8meyae1WTrTmZuUQ9U=",
+        "botocore-a-la-carte-customer-profiles-1.29.50.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_customer_profiles-1.29.50-py3-none-any.whl": [
+          "1N2ouxCjqF44Jc5SjT1oUZ3qwwLoLdW/HUY8U/Lpl4I=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-route53": {
@@ -17435,6 +17447,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.50": {
+      "sdist": [
+        "STdSsP6Wjs3Z1G6brD03Gut10Imx3aWJotFcxVb/v6E=",
+        "botocore-a-la-carte-route53-1.29.50.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_route53-1.29.50-py3-none-any.whl": [
+          "TVt8tg5+pCEB29H1jDm8wW6qwdpJYyhXi+vk36hfCTQ=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-timestream-query": {
@@ -17530,6 +17554,18 @@
       "wheels": {
         "botocore_a_la_carte_timestream_query-1.29.49-py3-none-any.whl": [
           "mIkg8IjPacvWy3tKLQpo4UEzuWnLGl3GRBDHhS+C3JM=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.50": {
+      "sdist": [
+        "n57WsuavccBOWVkMJw+Ht/UYnMErzZu8y/+Kp5qctIs=",
+        "botocore-a-la-carte-timestream-query-1.29.50.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_timestream_query-1.29.50-py3-none-any.whl": [
+          "avf3xjv+CH9alWAa07c06QxMvvLVD5JqEseIBp9jPMM=",
           "py3"
         ]
       }
@@ -24900,6 +24936,162 @@
         ],
         "clevercsv-0.7.4-cp39-cp39-win_amd64.whl": [
           "fI18Xx+lBDTl3jcn3h75ofrIWa0RdUNSdrjPFHLfZdE=",
+          "cp39"
+        ]
+      }
+    },
+    "0.7.5": {
+      "sdist": [
+        "DmB6NInnoKkfZZdtAvGJcnmt1o0AOwkSD47/jLnhWa4=",
+        "clevercsv-0.7.5.tar.gz"
+      ],
+      "wheels": {
+        "clevercsv-0.7.5-cp310-cp310-macosx_10_9_universal2.whl": [
+          "Fn072QnwnZfj7dLqaQpyJBpQfNrnxeRhefsbQ1F5O0U=",
+          "cp310"
+        ],
+        "clevercsv-0.7.5-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "IpMp9uz9Ww8jYQwpXI1wqBOUrmc3acbwf8KhLjWVEMQ=",
+          "cp310"
+        ],
+        "clevercsv-0.7.5-cp310-cp310-macosx_11_0_arm64.whl": [
+          "CDzrHv7Da/j6B7D/o5zd/4QGsBxzdMMxgN/8BBjJBi0=",
+          "cp310"
+        ],
+        "clevercsv-0.7.5-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "hztAHzuiGy/lgBQlP4PC/Dl70Ym+7ELZJaQ8HLTedo4=",
+          "cp310"
+        ],
+        "clevercsv-0.7.5-cp310-cp310-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "qNSlIFTRt5dvI9RLqa+hiXJf835dKeTIK7cL3M3AIvw=",
+          "cp310"
+        ],
+        "clevercsv-0.7.5-cp310-cp310-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "32wItCiRBWpD3w7vf1dnFUORRam0l4wL1n41FDkkIKk=",
+          "cp310"
+        ],
+        "clevercsv-0.7.5-cp310-cp310-win_amd64.whl": [
+          "zwL3RQzVDMCnAC55+yeFWEh0w13Abfxep3nD7gNNmrk=",
+          "cp310"
+        ],
+        "clevercsv-0.7.5-cp311-cp311-macosx_10_9_universal2.whl": [
+          "eeUgkywL/0KUyB/vejCWWKcfEj2ugPYXSs8bfQFqBDc=",
+          "cp311"
+        ],
+        "clevercsv-0.7.5-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "Lw4GjSN2pTD8u5NXG8zcUlSLEXO/D/i1JAmVVzy5dd0=",
+          "cp311"
+        ],
+        "clevercsv-0.7.5-cp311-cp311-macosx_11_0_arm64.whl": [
+          "s1V34f3iWHEauTOKHPS/KhnqqxTxDGXOD9PJVa01ypI=",
+          "cp311"
+        ],
+        "clevercsv-0.7.5-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "7I530IBeoAdjOQe8tlG94IYIJbzktAzRN0YdYWQVt28=",
+          "cp311"
+        ],
+        "clevercsv-0.7.5-cp311-cp311-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "CCrqGqzjcopXqpzndFs96iT+gSADkEQRtNBwQurCvQ8=",
+          "cp311"
+        ],
+        "clevercsv-0.7.5-cp311-cp311-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ZYNiXyxK8Nh47OHixVPviOBQYF6vYkuJo/OHIECjTgo=",
+          "cp311"
+        ],
+        "clevercsv-0.7.5-cp311-cp311-win32.whl": [
+          "4Yd0/leR8CtGUnXYzv6pZ8QDgEnLR3FzAWhwDMEu97o=",
+          "cp311"
+        ],
+        "clevercsv-0.7.5-cp311-cp311-win_amd64.whl": [
+          "rqpV8NpcfiAsa+9N3jDUz1CVn/vMWCS3vMVZFKWa/BY=",
+          "cp311"
+        ],
+        "clevercsv-0.7.5-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "eOd+hKd0L4d95vLrPGZUr7FAO/YO7vlyDW2HJg94jBw=",
+          "cp37"
+        ],
+        "clevercsv-0.7.5-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "clwLWNAhvx6PqRv/vVCtGyjqKLfgmIwAt/+9Dw8eo7c=",
+          "cp37"
+        ],
+        "clevercsv-0.7.5-cp37-cp37m-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "2MZiN+/S4UlP0VXWKMclY4tYt1Ze4l73Wn9HGNk7xFk=",
+          "cp37"
+        ],
+        "clevercsv-0.7.5-cp37-cp37m-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "8L5oxSrY/Il+ORXJuUgVixulYLEwv6efSMPupxMua0E=",
+          "cp37"
+        ],
+        "clevercsv-0.7.5-cp37-cp37m-win32.whl": [
+          "T9p92rSHlE7Kiyf8uXItzfvsdcjunEH/dkw0r2BFWb0=",
+          "cp37"
+        ],
+        "clevercsv-0.7.5-cp37-cp37m-win_amd64.whl": [
+          "F+7Q64ADkRrlP5yDYQjn5c/E4NEg893S0bgr3wPUn1Y=",
+          "cp37"
+        ],
+        "clevercsv-0.7.5-cp38-cp38-macosx_10_9_universal2.whl": [
+          "Fd3i0rQGds2Z0NLEdQXBRd1a3qTTTMJm6voQ1CXoalA=",
+          "cp38"
+        ],
+        "clevercsv-0.7.5-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "/F+vBdSQj2RF+dPa2t2rhXV6jUPiuQnNKQsRvRguxns=",
+          "cp38"
+        ],
+        "clevercsv-0.7.5-cp38-cp38-macosx_11_0_arm64.whl": [
+          "5UD7jtCFtMMzFSQxdM/EGEmihnl3xvaQ7U3L96lvelI=",
+          "cp38"
+        ],
+        "clevercsv-0.7.5-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "6xt9Eb5oCVMb3lrqQmorCEyKOy9DAV2Htbp7kK6yRmU=",
+          "cp38"
+        ],
+        "clevercsv-0.7.5-cp38-cp38-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "td7WjTMOztmuMYhy+CZ4W+JOgJP5rqjzAnRJGezt9OI=",
+          "cp38"
+        ],
+        "clevercsv-0.7.5-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Qq4zvRMH0iSfV5ZDA/tTnztiktIdp35CyrmzRE25l1I=",
+          "cp38"
+        ],
+        "clevercsv-0.7.5-cp38-cp38-win32.whl": [
+          "hZn4gBjUrH/85sT2C5fWJmfo7STSUjGoaRnCMFIZmaA=",
+          "cp38"
+        ],
+        "clevercsv-0.7.5-cp38-cp38-win_amd64.whl": [
+          "QuEOszpVmEpLQ/aduqPkZj0p+S2wZtGlaqih2uK41LY=",
+          "cp38"
+        ],
+        "clevercsv-0.7.5-cp39-cp39-macosx_10_9_universal2.whl": [
+          "lamXrB+mk8jX/+NnkiQpJI6nDeeNpHEZFeu6xWXxSNw=",
+          "cp39"
+        ],
+        "clevercsv-0.7.5-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "6bq2qlAmrA5iAc8ABulYhpqNkdgG5ZYkPPAMVhoKAQE=",
+          "cp39"
+        ],
+        "clevercsv-0.7.5-cp39-cp39-macosx_11_0_arm64.whl": [
+          "Y37MYLLIhGN31DrZ8oNItzaeJxe6hDHJBouOlyGWvds=",
+          "cp39"
+        ],
+        "clevercsv-0.7.5-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "2p/+o2+njczRSuYvU3LqNRmyy0MB5SLPGfdeI34G5jY=",
+          "cp39"
+        ],
+        "clevercsv-0.7.5-cp39-cp39-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "P96lxNBCsBPRFFYF9AlRxIdZQz4VK4F0d5FQXFbTNoc=",
+          "cp39"
+        ],
+        "clevercsv-0.7.5-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "1d1Lc69osap41Oa7dZTzLBbWkxkLb9s6Kh6ICNGyGaY=",
+          "cp39"
+        ],
+        "clevercsv-0.7.5-cp39-cp39-win32.whl": [
+          "Zza0ntfAvvl0uzw2Ka9hEGH04VOb++/0fjEl6CwQc6U=",
+          "cp39"
+        ],
+        "clevercsv-0.7.5-cp39-cp39-win_amd64.whl": [
+          "OlWVbp2WOPlLcZTMBG1bY9T2jnKY1DawyUedD2tkADY=",
           "cp39"
         ]
       }
@@ -47194,6 +47386,18 @@
       "wheels": {
         "fabric_orchestrator_client-1.4.0rc1-py3-none-any.whl": [
           "+MT0YxdS5rjRHF57023+R2+Oc6lFZOQV42AGdw33w+Y=",
+          "py3"
+        ]
+      }
+    },
+    "1.4.1": {
+      "sdist": [
+        "Wa7XEsWsKMe58WHK0q5kSFfoijq45uIvReALdzvZwTE=",
+        "fabric-orchestrator-client-1.4.1.tar.gz"
+      ],
+      "wheels": {
+        "fabric_orchestrator_client-1.4.1-py3-none-any.whl": [
+          "OnhQhYIqM8GRDXQKj92I/+0Np01FVezQ0bXzDb2e3CM=",
           "py3"
         ]
       }

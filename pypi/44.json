@@ -16439,6 +16439,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.50": {
+      "sdist": [
+        "wy2tFnohcN5XiaeoKBaVe2ocyO1IJnjzZe8GC6OT1x4=",
+        "botocore-a-la-carte-iotthingsgraph-1.29.50.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_iotthingsgraph-1.29.50-py3-none-any.whl": [
+          "DJ6aV3ZU0Gcc13DtJ6bt/V1dmYFKDp0jqYo3QttUJf0=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-xray": {
@@ -16534,6 +16546,18 @@
       "wheels": {
         "botocore_a_la_carte_xray-1.29.49-py3-none-any.whl": [
           "FPhyCEwOsVn++jTGwE1Jj4J8jATOoYfXLmLzAcGJ54o=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.50": {
+      "sdist": [
+        "k8LnfQBpzAVOAIL1O8FRe7+S+xnK+0t8oaL9cABsZGc=",
+        "botocore-a-la-carte-xray-1.29.50.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_xray-1.29.50-py3-none-any.whl": [
+          "KlqS4BdoIupB94JDHV0wjWvrEbAQqYv6FSauqvGFBd8=",
           "py3"
         ]
       }
@@ -49852,6 +49876,18 @@
         ]
       }
     },
+    "0.1.1": {
+      "sdist": [
+        "Hfs2jf+dm5H5wik4Bh+x/+UvVvTTRCh7wSM9GB+FfPA=",
+        "flake8-bas-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "flake8_bas-0.1.1-py3-none-any.whl": [
+          "2hZHx13PhivEXiwNVqyc1DBrn9hkUt/kwkyxLfBcL6U=",
+          "py3"
+        ]
+      }
+    },
     "0.1.1a0": {
       "sdist": [
         "ho+rEL86+IyWt/bItBl3l+bqzp5qdPYvS3+KIEVdEf4=",
@@ -70347,6 +70383,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.1": {
+      "sdist": [
+        "B3z8Sf9F6zSZFFZ9eyxgo2LQGJION4/JwFNw7DztpJY=",
+        "lsp-devtools-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "lsp_devtools-0.1.1-py3-none-any.whl": [
+          "vz+PTaU0PSzepzsk14QVbXj6umEAd9OQE20RFrtP2hI=",
+          "py3"
+        ]
+      }
     }
   },
   "lykkelleloader": {
@@ -89316,6 +89364,22 @@
       "wheels": {
         "ogre_python-13.5.3.post1-cp310-cp310-win_amd64.whl": [
           "lFl5ld7vkR813p2oKhcQGSXS8+S1SRatRzbPvAI5l08=",
+          "cp310"
+        ]
+      }
+    },
+    "13.6.0": {
+      "wheels": {
+        "ogre_python-13.6.0-cp310-cp310-macosx_11_0_x86_64.whl": [
+          "t98cOY0SzBv/qIvreTzg4HNwFfh9K0ALjgjvgU5LlT8=",
+          "cp310"
+        ],
+        "ogre_python-13.6.0-cp310-cp310-manylinux2014_x86_64.whl": [
+          "9qNHgsiKlo0LFX+76NWws4FtNM7m4JtRVT1QdxYIObU=",
+          "cp310"
+        ],
+        "ogre_python-13.6.0-cp310-cp310-win_amd64.whl": [
+          "PCJtFqLYjCLBgn43UR2ePi9Psa1CyA8wDwJk/D9UXJc=",
           "cp310"
         ]
       }
@@ -146422,6 +146486,50 @@
         ],
         "xlOil-0.16.2-cp39-cp39-win_amd64.whl": [
           "qImozmowVjsBh11G/v1tBwMub0bRHNyvW8FdXRxUcNY=",
+          "cp39"
+        ]
+      }
+    },
+    "0.16.3": {
+      "wheels": {
+        "xlOil-0.16.3-cp310-cp310-win32.whl": [
+          "CpeseJWTy5H7cvA3GaHSBigJJNViD+M3HfcXDMHpCX4=",
+          "cp310"
+        ],
+        "xlOil-0.16.3-cp310-cp310-win_amd64.whl": [
+          "+mOLEUI73++hyTrOz8v8nTiy6zD6d3o4B9LFA4w2QBE=",
+          "cp310"
+        ],
+        "xlOil-0.16.3-cp36-cp36m-win32.whl": [
+          "6SmDwRGlzYtiRx+Df1KTp7gYCIXZ1kuk/AP1WGzUTLE=",
+          "cp36"
+        ],
+        "xlOil-0.16.3-cp36-cp36m-win_amd64.whl": [
+          "GWccQ7CWbDtaWFYGs6nM7Hr4GLBnkUNSuscFfLlERu8=",
+          "cp36"
+        ],
+        "xlOil-0.16.3-cp37-cp37m-win32.whl": [
+          "A9ilLtbHC76FIXQvqM75iEU0zZkvx75bdUTtU12/grg=",
+          "cp37"
+        ],
+        "xlOil-0.16.3-cp37-cp37m-win_amd64.whl": [
+          "YVUoArgn0EaIW3G58Jgzof8MrXyic4Hm0PWlVm4ZEl8=",
+          "cp37"
+        ],
+        "xlOil-0.16.3-cp38-cp38-win32.whl": [
+          "fOjUXXnzXljrZ0M1/KT1MYSvTFolftO6MEoIt1s1ye0=",
+          "cp38"
+        ],
+        "xlOil-0.16.3-cp38-cp38-win_amd64.whl": [
+          "btypObHLHqymF2Cdv9dmZR69D6CBAIbgoC642oIOABU=",
+          "cp38"
+        ],
+        "xlOil-0.16.3-cp39-cp39-win32.whl": [
+          "xfbqeFQjFFRAvZ2KRlhiRNDYsIL40TjBBO7ck4SSdL0=",
+          "cp39"
+        ],
+        "xlOil-0.16.3-cp39-cp39-win_amd64.whl": [
+          "SHEHnWvCHXBfEWlS6T9x45BscvnyaR6pPRASQ+4YMew=",
           "cp39"
         ]
       }

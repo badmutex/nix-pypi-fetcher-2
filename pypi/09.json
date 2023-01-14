@@ -5235,6 +5235,12 @@
         "Kdd5Z4bdRc/7IOLjv1lzNCFWm0vAvp6dNdERmRPpld8=",
         "AutoROM.accept-rom-license-0.5.0.tar.gz"
       ]
+    },
+    "0.5.1": {
+      "sdist": [
+        "r6ulJTetrGaK/TiF+Rfw2WPV8Ze3e2ZVpNwQOO9buvo=",
+        "AutoROM.accept-rom-license-0.5.1.tar.gz"
+      ]
     }
   },
   "autoswitch": {
@@ -18095,6 +18101,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.50": {
+      "sdist": [
+        "KYaUjlmntmDfGEy3V8SE4NgGQKFvT54+1s9F3XXRFCc=",
+        "botocore-a-la-carte-connect-1.29.50.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_connect-1.29.50-py3-none-any.whl": [
+          "QJHur8BSyrnzHoyyPlLcAZZqYA0UBvj3VMP8iCrShUE=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-serverlessrepo": {
@@ -18190,6 +18208,18 @@
       "wheels": {
         "botocore_a_la_carte_serverlessrepo-1.29.49-py3-none-any.whl": [
           "5ELvg6lrNooFrTOOEVgrgFlXx0hPgmTR0x7reaILEy0=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.50": {
+      "sdist": [
+        "09vOZjP9cGrKd4a/fzSDfKFha5ovkZLeb6vz0OWhdcI=",
+        "botocore-a-la-carte-serverlessrepo-1.29.50.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_serverlessrepo-1.29.50-py3-none-any.whl": [
+          "ds2JUIG76mWndoNuG8OHiHYE46SfLBU5jAsKZ9msJ0Y=",
           "py3"
         ]
       }
@@ -76621,6 +76651,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.5": {
+      "sdist": [
+        "Nw7IkQg0sN6xwkgCWSCr3hPqEVo87zr5OrWvDz8vTmw=",
+        "ocsmesh-1.0.5.tar.gz"
+      ],
+      "wheels": {
+        "ocsmesh-1.0.5-py3-none-any.whl": [
+          "TgOtPALNZR2nzPwFWQdCmrT5Z0lCIgtzwRSaHZO4OTM=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo-addon-account-banking-sepa-direct-debit": {
@@ -116855,6 +116897,74 @@
           "cp39"
         ]
       }
+    },
+    "2023.1.2": {
+      "sdist": [
+        "YAWSnfYIvRbBjki2cbX3LOC3egylUiHwK7H9s7Ugtg0=",
+        "robotpy-rev-2023.1.2.tar.gz"
+      ],
+      "wheels": {
+        "robotpy_rev-2023.1.2-cp310-cp310-macosx_10_16_x86_64.whl": [
+          "NWi7yQLR1qxM751oTTAgDl3U542a3jlh1Wv6KGMlSdQ=",
+          "cp310"
+        ],
+        "robotpy_rev-2023.1.2-cp310-cp310-manylinux_2_35_x86_64.whl": [
+          "WQ5ZhN9nL4MitDGfo+LWlNKjIE2IK7gg3WztWJRAwAU=",
+          "cp310"
+        ],
+        "robotpy_rev-2023.1.2-cp310-cp310-win_amd64.whl": [
+          "sJj8Pckr7VMXlKsZi59uxx4wbHwo/kWzk/3ezswekto=",
+          "cp310"
+        ],
+        "robotpy_rev-2023.1.2-cp311-cp311-macosx_11_0_universal2.whl": [
+          "9akB9p0NBt8yXFf1Pcdgyc5ZnIMTPt5QJiXKaHO6R7A=",
+          "cp311"
+        ],
+        "robotpy_rev-2023.1.2-cp311-cp311-manylinux_2_35_x86_64.whl": [
+          "RfBNgT93/6CKWgaCznY4G+krNRHvMCt4v+pQW7JBgX4=",
+          "cp311"
+        ],
+        "robotpy_rev-2023.1.2-cp311-cp311-win_amd64.whl": [
+          "4ongmXPUKL+ZxG/Rdl4+YA7S98g4XZmdcSrsrUNIsX0=",
+          "cp311"
+        ],
+        "robotpy_rev-2023.1.2-cp37-cp37m-macosx_10_16_x86_64.whl": [
+          "jzOS8noGBdFtkm7gV4qTB5iuaTUy9pM0F7M0fVr7Q94=",
+          "cp37"
+        ],
+        "robotpy_rev-2023.1.2-cp37-cp37m-manylinux_2_35_x86_64.whl": [
+          "LH9HUu+dkl3+OjDEgjlmkuii+Y0ub5uvu/PBlkgfpxs=",
+          "cp37"
+        ],
+        "robotpy_rev-2023.1.2-cp37-cp37m-win_amd64.whl": [
+          "PHLXUY9pUq7sjpIPtp0gs8oIK4NGccc7Wtkobz5U9UE=",
+          "cp37"
+        ],
+        "robotpy_rev-2023.1.2-cp38-cp38-macosx_10_16_x86_64.whl": [
+          "HOhy5B76SnAtSPgrGr41pg4N8ksP8Ym5pv2eMQbP4kw=",
+          "cp38"
+        ],
+        "robotpy_rev-2023.1.2-cp38-cp38-manylinux_2_35_x86_64.whl": [
+          "k62Cpg2vMNTDqa8dIUSKgMBJHkjYjzYUNcOormSFTyo=",
+          "cp38"
+        ],
+        "robotpy_rev-2023.1.2-cp38-cp38-win_amd64.whl": [
+          "5b3E+e1K9ELhCho8H1F2qSQ2WLJjX410zkPPf2+c1u4=",
+          "cp38"
+        ],
+        "robotpy_rev-2023.1.2-cp39-cp39-macosx_10_16_x86_64.whl": [
+          "ZvmYrx1ZWUzv0BeGCaZmtbKS4HTQPfagZam4v6T9uoo=",
+          "cp39"
+        ],
+        "robotpy_rev-2023.1.2-cp39-cp39-manylinux_2_35_x86_64.whl": [
+          "dTbNMPGaoDJEEs1G9nB3r5pUInZQmeqtimidDiaR5/4=",
+          "cp39"
+        ],
+        "robotpy_rev-2023.1.2-cp39-cp39-win_amd64.whl": [
+          "jDqf5Jv8XTtYxH1YbhsghyaKhJTpEUOacao/RXZBycU=",
+          "cp39"
+        ]
+      }
     }
   },
   "robustml": {
@@ -155182,6 +155292,18 @@
       "wheels": {
         "wxcadm-3.0.4-py3-none-any.whl": [
           "gY9O5w6N65wfnLheXhZnxGvhzCeOMOWhSVA1zD48+0g=",
+          "py3"
+        ]
+      }
+    },
+    "3.1.0": {
+      "sdist": [
+        "WAYcza97v/WZpyPdbVlWvPdQVKDhFN9Fq8F4L39YOCQ=",
+        "wxcadm-3.1.0.tar.gz"
+      ],
+      "wheels": {
+        "wxcadm-3.1.0-py3-none-any.whl": [
+          "4priNeasARRYcibBKd6/CHQ4/Vf505I6XMUvkaNnrro=",
           "py3"
         ]
       }

@@ -5213,6 +5213,26 @@
           "py3"
         ]
       }
+    },
+    "0.3.9": {
+      "sdist": [
+        "uCVaYRKpxVcRgw4RLlxKFIg3cp+Be9hvX95TqwYyutc=",
+        "arrow_odbc-0.3.9.tar.gz"
+      ],
+      "wheels": {
+        "arrow_odbc-0.3.9-py3-none-macosx_10_7_x86_64.whl": [
+          "v82mxtUakHsfFqkwRZyQ9umntFIR4Fwf9F8WBaOFMLw=",
+          "py3"
+        ],
+        "arrow_odbc-0.3.9-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "U/FSQVqV+yood4uac+JK42oLz5H7ZawlscBoI3kcicc=",
+          "py3"
+        ],
+        "arrow_odbc-0.3.9-py3-none-win_amd64.whl": [
+          "tNvaTSgd0OfbivWkO/V5TERsk5uGU3FzXW11uFMPM18=",
+          "py3"
+        ]
+      }
     }
   },
   "arstecnica.sqlalchemy.async": {
@@ -10084,6 +10104,18 @@
       "wheels": {
         "botocore_a_la_carte_firehose-1.29.49-py3-none-any.whl": [
           "a14zDA9KfOQRTtmUbgK3VQ7b2GqyjHrdo1WNMKYC0Go=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.50": {
+      "sdist": [
+        "9zdCjR7F0/lxykdDVcQB6ZmHY7/SyXwRFEQKG1HPlM8=",
+        "botocore-a-la-carte-firehose-1.29.50.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_firehose-1.29.50-py3-none-any.whl": [
+          "vmzLFgqtnuzG5WIufAcZ/SYqYcDgZCDNHIkRVBdfplo=",
           "py3"
         ]
       }
@@ -32557,6 +32589,14 @@
           "py3"
         ]
       }
+    }
+  },
+  "edi-parser2-stups": {
+    "1.0.0": {
+      "sdist": [
+        "W4qEyqepXVGIN8BStpKL0ZYo04n0BcYx+yyt3s0ZhOk=",
+        "edi-parser2-stups-1.0.0.tar.gz"
+      ]
     }
   },
   "edwh": {
@@ -113949,6 +113989,46 @@
           "cp39"
         ]
       }
+    },
+    "0.1.9": {
+      "sdist": [
+        "wX3uC9VWln7IOQ1BVyMyrLWtyCdMV7duuuVHYgDBTmc=",
+        "pywry-0.1.9.tar.gz"
+      ],
+      "wheels": {
+        "pywry-0.1.9-cp310-cp310-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "Qusg88x/uyWO5VnppvfMujKRL9IG+VOwbyJm2IX2AxQ=",
+          "cp310"
+        ],
+        "pywry-0.1.9-cp310-none-win_amd64.whl": [
+          "uzHJ6az0AX7R4ZBnxUVAPHmfUDbYJOXpALY3aFwuwVI=",
+          "cp310"
+        ],
+        "pywry-0.1.9-cp311-cp311-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "NHlHayMBImBjcKEIAfntAy/tq1QOpLUzvKAOOfDiSuA=",
+          "cp311"
+        ],
+        "pywry-0.1.9-cp311-none-win_amd64.whl": [
+          "UysrIv85Xpz3QWyjCUjlzrkniplr6S8YxcJePn1tsik=",
+          "cp311"
+        ],
+        "pywry-0.1.9-cp38-cp38-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "mA2dbIUcFUxzGH0ttvlRyr1/2q/QBA7erFLtHRqTkBM=",
+          "cp38"
+        ],
+        "pywry-0.1.9-cp38-none-win_amd64.whl": [
+          "vbC/oI+jaDEdx9IKn5q/JOHlNs+Cct7iqYsqpDgX3Z8=",
+          "cp38"
+        ],
+        "pywry-0.1.9-cp39-cp39-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "VJRM0uhbKCfwysq3zWI799pRaCesK+oYjonJEkiqYdM=",
+          "cp39"
+        ],
+        "pywry-0.1.9-cp39-none-win_amd64.whl": [
+          "C0fw+nVQM5vg8K43Qt51ILF2ur3g45XSZ0N1LWrgzqs=",
+          "cp39"
+        ]
+      }
     }
   },
   "pyxdameraulevenshtein": {
@@ -128810,6 +128890,18 @@
       "wheels": {
         "steam_tools_ng-2.0.2-py3-none-any.whl": [
           "IoLWva7hEi0CB1SrppeVZO70Qle2J+uaIxYVoETCUII=",
+          "py3"
+        ]
+      }
+    },
+    "2.1.0": {
+      "sdist": [
+        "Y+m77q4PXIMlvn2snEn3MTGM+onPCfw7ymV0OKicYjs=",
+        "steam-tools-ng-2.1.0.tar.gz"
+      ],
+      "wheels": {
+        "steam_tools_ng-2.1.0-1-py3-none-any.whl": [
+          "Kjw42TbInG97ugjkCtc7+eYsuoaq15R3/el4782oWAM=",
           "py3"
         ]
       }

@@ -20142,6 +20142,18 @@
         ]
       }
     },
+    "2.0.251": {
+      "sdist": [
+        "dDKYghdRWzkI2RqRsS+16mjybT9OEbCahpRElPuxnuM=",
+        "cdk-kubesphere-2.0.251.tar.gz"
+      ],
+      "wheels": {
+        "cdk_kubesphere-2.0.251-py3-none-any.whl": [
+          "z//M1rQLgo8+OpO7unLsE36JJ1yPl9K0Hw0S2b7W7wA=",
+          "py3"
+        ]
+      }
+    },
     "2.0.26": {
       "sdist": [
         "tyvj3ATS3S1HRJtXSTR9ffhFqKVYEWpwkmjIPzJ4DzQ=",
@@ -44692,6 +44704,18 @@
       "wheels": {
         "dynamicadaptor-0.2.8-py3-none-any.whl": [
           "XmvlKfy3+l+MV8V5Dm50gTxBVoCDlZ/r7a8MePsRMA4=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.9": {
+      "sdist": [
+        "yFMZh2wjc07VyUKhG2JHRydek8o6LWnmPVX2LMv54vk=",
+        "dynamicadaptor-0.2.9.tar.gz"
+      ],
+      "wheels": {
+        "dynamicadaptor-0.2.9-py3-none-any.whl": [
+          "EoPgBqSuA9i79O/IKFBzDBNu3cn2u8/msS4VWy1SXjc=",
           "py3"
         ]
       }
@@ -113317,6 +113341,190 @@
         "PyMaxflow-1.2.13-cp37-cp37m-macosx_10_9_x86_64.whl": [
           "i7M6nWeT6LtI3g5mRMoDfl9332S5uhx1ky3eZjyhThI=",
           "cp37"
+        ]
+      }
+    },
+    "1.2.14": {
+      "sdist": [
+        "V/+eGY9wBzfjhVfXmF6clWeOcjS1EJGggQyM3QslzfY=",
+        "PyMaxflow-1.2.14.tar.gz"
+      ],
+      "wheels": {
+        "PyMaxflow-1.2.14-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "TxvTAdrpKHrC7rMxUQV5XWtt3V+fNoZicLrV8P9Grl8=",
+          "cp310"
+        ],
+        "PyMaxflow-1.2.14-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "g7+/FIvESX3k57Bz29XAylTc5fximOSiF/cU9ZsgKDA=",
+          "cp310"
+        ],
+        "PyMaxflow-1.2.14-cp310-cp310-win_amd64.whl": [
+          "LiYvAfwyYLlrQnJpj6X3qdOYRDhozRHpDYKjJCfaqKY=",
+          "cp310"
+        ],
+        "PyMaxflow-1.2.14-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "nUwlV+q8BXiG66O5Y6Oedmm4BtdTDiVaISrXn8d4BLY=",
+          "cp311"
+        ],
+        "PyMaxflow-1.2.14-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Ay8OPbH/prSzyBg+6xPc13IVJq+PgCMEUuq4S/CkudY=",
+          "cp311"
+        ],
+        "PyMaxflow-1.2.14-cp311-cp311-win_amd64.whl": [
+          "Umu4qv8KiFSRqf4Gl9x5KbmKJzmclqbtPkph+ZHOrts=",
+          "cp311"
+        ],
+        "PyMaxflow-1.2.14-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "au9e3/1ZFBkpisxUQWKEPd6nCjd3jlmOkam6moWk46U=",
+          "cp37"
+        ],
+        "PyMaxflow-1.2.14-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "EP7q9KAv8qZ62jdlH+rirRfPxmDPnhVYnZRQqVCQQz8=",
+          "cp37"
+        ],
+        "PyMaxflow-1.2.14-cp37-cp37m-win_amd64.whl": [
+          "jU/y3cT4BHtu2p/0Nz8wvuZs9jVQ7pZimJZjJnoUiWs=",
+          "cp37"
+        ],
+        "PyMaxflow-1.2.14-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "gnAyHSiVjrwmYgcrZ3VkYEkGChAgZx/1VQ8OlZzZ3Uo=",
+          "cp38"
+        ],
+        "PyMaxflow-1.2.14-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Wcu5XyCZoMlwCw0Vz82OE3mX5ULRF0JQYVItFRSSo4M=",
+          "cp38"
+        ],
+        "PyMaxflow-1.2.14-cp38-cp38-win_amd64.whl": [
+          "g0vj89osRRt8G0k7sixBFBD5xKKgmAh3qzGtwoe/Npk=",
+          "cp38"
+        ],
+        "PyMaxflow-1.2.14-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "jzh19w3F+MNkxu4Ijzqd22YwJu5k8OAVtZ4SoSHlcdU=",
+          "cp39"
+        ],
+        "PyMaxflow-1.2.14-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "n1E5887rdHcrwSTmU9dBl+122cqKygyRiPVEPyh4vYU=",
+          "cp39"
+        ],
+        "PyMaxflow-1.2.14-cp39-cp39-win_amd64.whl": [
+          "aTlctWJKzmN4WKBpDViDcZoo2t3tA5Qj16OixwYVmyI=",
+          "cp39"
+        ],
+        "PyMaxflow-1.2.14-pp37-pypy37_pp73-macosx_10_9_x86_64.whl": [
+          "/mjgEs6G3KKSYrqW3OdeIGdpzqR8nttjKN7Vg79exk0=",
+          "pp37"
+        ],
+        "PyMaxflow-1.2.14-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "skQnRXicoHCBVyDmES4Ys6sfebU/HCwUcmxlTu+s+So=",
+          "pp37"
+        ],
+        "PyMaxflow-1.2.14-pp37-pypy37_pp73-win_amd64.whl": [
+          "GJf//xIOa/GpjM34CK+Jh7CKDjuHd6anDtl0BXmhW0Q=",
+          "pp37"
+        ],
+        "PyMaxflow-1.2.14-pp38-pypy38_pp73-macosx_10_9_x86_64.whl": [
+          "FjWZWtGdtWyZRjVp3xtkw1H8NEp9/pjue91R8MX5Rg0=",
+          "pp38"
+        ],
+        "PyMaxflow-1.2.14-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "IGorHgr2ST6omdcCAA52mlDnm5ccTcdkiGOOljTiMP4=",
+          "pp38"
+        ],
+        "PyMaxflow-1.2.14-pp38-pypy38_pp73-win_amd64.whl": [
+          "E9nzmEI8SdS5Cs1KxeRAIwXtmGp8I8ObNmYSbZCHQ8Q=",
+          "pp38"
+        ],
+        "PyMaxflow-1.2.14-pp39-pypy39_pp73-macosx_10_9_x86_64.whl": [
+          "AdNP0ps8maswQEjsGkSUGFbyKpbW5OtLiI1C3a3SfcI=",
+          "pp39"
+        ],
+        "PyMaxflow-1.2.14-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "aFhoRltm2TW1/CpMHTKR7gfmcZsLKCVDTWu8XDhPPFA=",
+          "pp39"
+        ],
+        "PyMaxflow-1.2.14-pp39-pypy39_pp73-win_amd64.whl": [
+          "X2348Mh9Nf+Rg6e3XbUy3h/7tBFq/ULaXEWKJJQZjz0=",
+          "pp39"
+        ]
+      }
+    },
+    "1.2.15": {
+      "sdist": [
+        "UT+wopAdqAPioRWcAMP3FvWAvED3snL+RjhzHayoIxo=",
+        "PyMaxflow-1.2.15.tar.gz"
+      ],
+      "wheels": {
+        "PyMaxflow-1.2.15-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "HRJZIw97vTUaCeQUOc/7laW5bcdMU9WL3/N+l01tvEU=",
+          "cp310"
+        ],
+        "PyMaxflow-1.2.15-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ROVqHBVrmiCkVVpP4O8K/cEjEf0bSlfqrnbPiTXKycU=",
+          "cp310"
+        ],
+        "PyMaxflow-1.2.15-cp310-cp310-win_amd64.whl": [
+          "sZaGCN2+5abWCpBx8jcs0tYMEHvz9cQdSS1X7j7SqYs=",
+          "cp310"
+        ],
+        "PyMaxflow-1.2.15-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "2d2x4riRmdX08cpIzPXO3VOZ0NW2xGXVNfDAii1ezZM=",
+          "cp311"
+        ],
+        "PyMaxflow-1.2.15-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "1Hv2zwIfa0gLWFO2FZUsq5cx8MejqcixrPeT/Ety874=",
+          "cp311"
+        ],
+        "PyMaxflow-1.2.15-cp311-cp311-win_amd64.whl": [
+          "4kTa4d6B+sumf83c/uKlgPP4MokXXep1HuJA05kRjSo=",
+          "cp311"
+        ],
+        "PyMaxflow-1.2.15-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "mu+zqtHQeskoavmgbzSmUd5U7ZTndzwA04sZ+1HMmV0=",
+          "cp37"
+        ],
+        "PyMaxflow-1.2.15-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ft878c5WnDvsFPJKJ8LIT+3wdaL6Qfu2DxpxrH/bugw=",
+          "cp37"
+        ],
+        "PyMaxflow-1.2.15-cp37-cp37m-win_amd64.whl": [
+          "p2s40hO146AL+tyBnxK6n5OAR4mMvUqga3FQCyQHywQ=",
+          "cp37"
+        ],
+        "PyMaxflow-1.2.15-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "m5Iqpm8WFZUlSlDsqBYPGmTBs20rI/wAehleAgDs7W8=",
+          "cp38"
+        ],
+        "PyMaxflow-1.2.15-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "TiGFZp/K1dMcWe7q+S9xdD5apHVlytPPqhwmoNs7RKQ=",
+          "cp38"
+        ],
+        "PyMaxflow-1.2.15-cp38-cp38-win_amd64.whl": [
+          "ARpfpeDMJ/k064GmUxKdU3X0L+KlEsbMpr5CKcHgaUg=",
+          "cp38"
+        ],
+        "PyMaxflow-1.2.15-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "Cr57lLWrnrGeYNoKYoWdT/Rx/1U26gLZvZL3K4W0IKI=",
+          "cp39"
+        ],
+        "PyMaxflow-1.2.15-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ERNGM7hLxJEldGfxJRXoe3QXUClOXBqivSQHkt3HlQo=",
+          "cp39"
+        ],
+        "PyMaxflow-1.2.15-cp39-cp39-win_amd64.whl": [
+          "NfJZpaDAMsJ764uFkBEXTu296/jpQGXB1IQAknGx0F0=",
+          "cp39"
+        ],
+        "PyMaxflow-1.2.15-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "3fkryv/tnU5Diqt131jZNJAs4F+K9oAI+E93Fp2T7gQ=",
+          "pp37"
+        ],
+        "PyMaxflow-1.2.15-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "/Iyd4lxtxvrvAtWldZiIT0EATPH7STe4fJ4tCtPweY8=",
+          "pp38"
+        ],
+        "PyMaxflow-1.2.15-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "b1sLgB2HAOawrwI2zEdmexXPCNSBJjtGJQBlK4ORjU4=",
+          "pp39"
         ]
       }
     },

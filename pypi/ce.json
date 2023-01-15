@@ -59501,6 +59501,20 @@
       }
     }
   },
+  "locoprop": {
+    "0.1.0": {
+      "sdist": [
+        "9bIxRi2K3pwBMb3uFBbyyGdrFghb2a1MIZMGvK0UNfo=",
+        "locoprop-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "locoprop-0.1.0-py3-none-any.whl": [
+          "KxBOPKT6IjhKq6iU2SX7et9L8dtH6hAcSD+x2H8m8Tg=",
+          "py3"
+        ]
+      }
+    }
+  },
   "loess": {
     "2.0.11": {
       "sdist": [
@@ -107915,6 +107929,44 @@
       }
     }
   },
+  "pythonspt": {
+    "1.0.0b1": {
+      "sdist": [
+        "/OEC2PoiRSVIjg4/6+vXZ2TLPFdYGAipgPx3mfIML8M=",
+        "pythonspt-1.0.0b1.tar.gz"
+      ],
+      "wheels": {
+        "pythonspt-1.0.0b1-py3-none-any.whl": [
+          "J8o+Md5ZD4VZu89/RO5dzkjlpOckLayQ12knMn/h08g=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.0b2": {
+      "sdist": [
+        "Lb+JcdAXJg2tRqp3TSJYs0YXEPR9Qi6iBOnoiBFV5Ds=",
+        "pythonspt-1.0.0b2.tar.gz"
+      ],
+      "wheels": {
+        "pythonspt-1.0.0b2-py3-none-any.whl": [
+          "nQWho7FkdCMl5Bh8rU22dhbLWp3pCvqt2gSnkj2JBXA=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.0b3": {
+      "sdist": [
+        "k01iuqToCfZjaifqLkM2bpshx7WVgq/MpQTaK8hBhj4=",
+        "pythonspt-1.0.0b3.tar.gz"
+      ],
+      "wheels": {
+        "pythonspt-1.0.0b3-py3-none-any.whl": [
+          "oUuD+PSwDPvaYQJtwvPIQmUDpbwLYS6fgE7KX892ojg=",
+          "py3"
+        ]
+      }
+    }
+  },
   "pytimedinput": {
     "1.0.0": {
       "sdist": [
@@ -144400,6 +144452,54 @@
         ]
       }
     },
+    "0.11.7": {
+      "wheels": {
+        "vineyard-0.11.7-cp310-cp310-macosx_11_0_x86_64.whl": [
+          "7eZoE9ySdKSTqA6RfWCqYwAeynuYSCJtp9SYmUwdF5w=",
+          "cp310"
+        ],
+        "vineyard-0.11.7-cp310-cp310-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "7BUsa8cltQvMinzt9dtByRAI3Pw5Tny9eSgnS+GUs44=",
+          "cp310"
+        ],
+        "vineyard-0.11.7-cp311-cp311-macosx_10_9_universal2.whl": [
+          "T6eh/jvhfFXRQok6zQ/aaw4+S+Wiu0RFTa86M1HoZ08=",
+          "cp311"
+        ],
+        "vineyard-0.11.7-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "vKhaWVTUBbbbxPWS7WfsOE7mIba9UXa0b2j/QhxA5kk=",
+          "cp311"
+        ],
+        "vineyard-0.11.7-cp36-cp36m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "SAxMNKKbvnzA+kQ/hjAanbIAA34Bc6LiYzVx4FMQpY0=",
+          "cp36"
+        ],
+        "vineyard-0.11.7-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "gQQ4vvfwUWJLzpVKcUCYcxyPpru3vz/iZ5eBV2tnYGk=",
+          "cp37"
+        ],
+        "vineyard-0.11.7-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "mQ8ORBsa7JCTRHgPnwhCKgZdDmbh2nu84UzReMc8ieU=",
+          "cp37"
+        ],
+        "vineyard-0.11.7-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "9OlkCec0YCWediJyFv3KA9lsBACgtqSIO//HqJuqmC4=",
+          "cp38"
+        ],
+        "vineyard-0.11.7-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "B1S3mo/n5/fgXN+HiEdjP7pNtwAAkd91Fc5yA1V3V6M=",
+          "cp38"
+        ],
+        "vineyard-0.11.7-cp39-cp39-macosx_11_0_x86_64.whl": [
+          "7WKz68RV85c48sODRoNPAADwTZu+0B3ark8X49sOB+o=",
+          "cp39"
+        ],
+        "vineyard-0.11.7-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "FB1qV6a+ALcvLjp6Ufzbk3bY+mvI3fAvRguV/1yL1bc=",
+          "cp39"
+        ]
+      }
+    },
     "0.2.0": {
       "wheels": {
         "vineyard-0.2.0-cp36-cp36m-macosx_10_9_x86_64.whl": [
@@ -149460,6 +149560,18 @@
       "wheels": {
         "weather_provider_api-2.31.412-py3-none-any.whl": [
           "n08mys0Itj3p7BE1tMAICExWwFNVuNdBVaRQH49B3xM=",
+          "py3"
+        ]
+      }
+    },
+    "2.32.113": {
+      "sdist": [
+        "SxgGk1lr1m01xLOuNmUeaAsL7Whvt/fp3vHmIN1iZck=",
+        "weather_provider_api-2.32.113.tar.gz"
+      ],
+      "wheels": {
+        "weather_provider_api-2.32.113-py3-none-any.whl": [
+          "e/7eZiNsMZ8zxlfQMKM8ijDrNeeFlbKiAdDSOK1DENQ=",
           "py3"
         ]
       }

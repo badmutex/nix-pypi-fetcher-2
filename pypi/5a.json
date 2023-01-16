@@ -10937,6 +10937,22 @@
           "py3"
         ]
       }
+    },
+    "2.3.0b20230116": {
+      "sdist": [
+        "9bt1THZmZC/6Vml+6Thxv4kyxWWOEdNe/58rHqtWucs=",
+        "bigdl-dllib-spark3-2.3.0b20230116.tar.gz"
+      ],
+      "wheels": {
+        "bigdl_dllib_spark3-2.3.0b20230116-py3-none-macosx_10_11_x86_64.whl": [
+          "Q1izkQ/x9gpUorQWKdaAMaFcCs57Z+3HcvEldyoPjps=",
+          "py3"
+        ],
+        "bigdl_dllib_spark3-2.3.0b20230116-py3-none-manylinux1_x86_64.whl": [
+          "xGfCHJTgJhDFBrMS+fWglioCwa3SRMaZCiRqgB6T5Os=",
+          "py3"
+        ]
+      }
     }
   },
   "bigos": {
@@ -21527,6 +21543,12 @@
           "py3"
         ]
       }
+    },
+    "0.2.1": {
+      "sdist": [
+        "MPRnoYfDeA51eGuuyQZS1YbcckRiKAncOwB4NfEJPkU=",
+        "cpsplines-0.2.1.tar.gz"
+      ]
     }
   },
   "cptools": {
@@ -21982,6 +22004,18 @@
       "wheels": {
         "crowdin_api_client-1.7.0-py3-none-any.whl": [
           "5p+A1kNvgdA9M7OBTIkkebDe1y/ME04x3Dk1UvwP8Qs=",
+          "py3"
+        ]
+      }
+    },
+    "1.8.0": {
+      "sdist": [
+        "LWMsE+0W+cpko9lOFmTDRrWJU2ThJ7N/G4bI9rjolGw=",
+        "crowdin-api-client-1.8.0.tar.gz"
+      ],
+      "wheels": {
+        "crowdin_api_client-1.8.0-py3-none-any.whl": [
+          "jDBxdNQI1rYxsS7Ds7cli8a3utpDG+FxgaahiNl7lsQ=",
           "py3"
         ]
       }
@@ -23546,6 +23580,14 @@
       "wheels": {
         "DatabaseConnectionUtility-0.0.10-py3-none-any.whl": [
           "TeEdpihUJ0Ey0ebsWQ+c1b5bJvdf4kgDfhisoUJi6ls=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.11": {
+      "wheels": {
+        "DatabaseConnectionUtility-0.0.11-py3-none-any.whl": [
+          "9NoLXkui+I+RkJX9Kl7x+I+jFi8Y01XoWxeTCnXKMZE=",
           "py3"
         ]
       }
@@ -55602,6 +55644,54 @@
         ]
       }
     },
+    "0.1.16": {
+      "sdist": [
+        "cFVRrV/x8AyQhx6DeyBaIjbbKanBI9Ant23j3folYnI=",
+        "iotree-0.1.16.tar.gz"
+      ],
+      "wheels": {
+        "iotree-0.1.16-py3-none-any.whl": [
+          "9YfQGNp0Hugaq/aBAUB86xwSTJwg4EzYjWAa2JxjAW0=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.17": {
+      "sdist": [
+        "MmDTjROQqnE0wTzMMPVEEIVjMlG0ol81hpRopIJmiAo=",
+        "iotree-0.1.17.tar.gz"
+      ],
+      "wheels": {
+        "iotree-0.1.17-py3-none-any.whl": [
+          "7F6w62cvOOVWT3eFTPYbi3HdEVskUr5JBYYaSv+ClDs=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.18": {
+      "sdist": [
+        "m5l2fGTglwwH0usQ8pRq3XMzXGcYSDsaHIJ7v4cqW2Q=",
+        "iotree-0.1.18.tar.gz"
+      ],
+      "wheels": {
+        "iotree-0.1.18-py3-none-any.whl": [
+          "uJ4Np5Xj4mnJEhQqrKlya8H3QPqsfU2SfmHfzWHxZWc=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.19": {
+      "sdist": [
+        "v0i8eAKkTBN+l9EKosvqtADksEqL80EKviUsEo5Gsl0=",
+        "iotree-0.1.19.tar.gz"
+      ],
+      "wheels": {
+        "iotree-0.1.19-py3-none-any.whl": [
+          "TG+pY1yDh8KNBTsa0MDcX63rOYUnEIcfOekAesZqgGY=",
+          "py3"
+        ]
+      }
+    },
     "0.1.2": {
       "sdist": [
         "znNqLGJud2Zy0R1uQ2aNsy8nU1WMaez3whqA5JL1PRc=",
@@ -55610,6 +55700,30 @@
       "wheels": {
         "iotree-0.1.2-py3-none-any.whl": [
           "yDQDEwU9r3EZ55cnCpuCKRhBmWcb/x3oveIAQdYDBPE=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.20": {
+      "sdist": [
+        "oUzTf70t88awp0FGipFyxvVsRvramAyZFVRfklodwlk=",
+        "iotree-0.1.20.tar.gz"
+      ],
+      "wheels": {
+        "iotree-0.1.20-py3-none-any.whl": [
+          "yUOLJoUqtKK5fGWjSdo1RSgeGlLfpfNBmkCZ5rM7pb0=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.21": {
+      "sdist": [
+        "RIbq9R4QfxR6u8f0VD+dftCvl4cdX3pLbEoEHMwRYes=",
+        "iotree-0.1.21.tar.gz"
+      ],
+      "wheels": {
+        "iotree-0.1.21-py3-none-any.whl": [
+          "JAI/tk4MrSG85OmFygiS1cL2ybOsX3Mu2i6prNSribk=",
           "py3"
         ]
       }
@@ -72164,6 +72278,20 @@
       "wheels": {
         "moshpdf-1.0-py3-none-any.whl": [
           "elncCQJhA5YCtYSrWBwN7slnDlihIVr6QtbUABeb048=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "motopy": {
+    "1.0.0": {
+      "sdist": [
+        "yRKY9YmGLI/jY6xooWR6OZNvmyIALCdWqbLzYrINUt0=",
+        "motopy-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "motopy-1.0.0-py3-none-any.whl": [
+          "yPcF8UuIveWTexb19kfenKyg+3wX3gqM5ponTOFVfFE=",
           "py3"
         ]
       }
@@ -98224,6 +98352,18 @@
       "wheels": {
         "openmetadata_ingestion-0.13.1.3-py3-none-any.whl": [
           "LS7gB/vqwpJgfS5vGIzT7GNK2GquPwGxMWFf7ciFCTY=",
+          "py3"
+        ]
+      }
+    },
+    "0.13.1.4": {
+      "sdist": [
+        "3IkXNPko+/ncaLLRb2/GtSiTbPW4aoFJSSgs9EKfuaI=",
+        "openmetadata-ingestion-0.13.1.4.tar.gz"
+      ],
+      "wheels": {
+        "openmetadata_ingestion-0.13.1.4-py3-none-any.whl": [
+          "5Qpn/N5bV0gfhUscalMHj4MMhMYJ+o5MDBCSmsuleAE=",
           "py3"
         ]
       }
@@ -138688,6 +138828,12 @@
       "sdist": [
         "LYWOEHY9asC1DgMsVSuPGWF9dECH8qgvS3R57NcQO74=",
         "squarecloud-api-0.2.1.tar.gz"
+      ]
+    },
+    "2.0.1": {
+      "sdist": [
+        "vAJB65HWBOfnU415t5bSyms9aqf/zi/4g3yCSRrmE2c=",
+        "squarecloud-api-2.0.1.tar.gz"
       ]
     }
   },

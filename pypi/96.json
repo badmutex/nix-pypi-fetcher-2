@@ -77757,6 +77757,18 @@
           "py2.py3"
         ]
       }
+    },
+    "0.3.5": {
+      "sdist": [
+        "a7+ZCnjHJTzYIzfzrRZImWQiSGlU3P2wgsDZf0NSKE4=",
+        "lognflow-0.3.5.tar.gz"
+      ],
+      "wheels": {
+        "lognflow-0.3.5-py2.py3-none-any.whl": [
+          "S7mJLFSZcHQzzyKTc+seeqrK9RyvAz3lpOjQcIAVtZI=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "logthon": {
@@ -116024,6 +116036,18 @@
         ]
       }
     },
+    "2.24.0": {
+      "sdist": [
+        "i1N2iBxI23GotwUleMhxoPbctpPde44yxu0zLJ9b9rg=",
+        "PyViCare-2.24.0.tar.gz"
+      ],
+      "wheels": {
+        "PyViCare-2.24.0-py3-none-any.whl": [
+          "DekQFRjscHlMru7Ig4K0MdM297GN6DIjXh4owKDDGYo=",
+          "py3"
+        ]
+      }
+    },
     "2.3": {
       "sdist": [
         "gdPugowTelC7jH893bNwGU8QiRG7eCt0aybFHdNiHXE=",
@@ -131468,6 +131492,86 @@
         ],
         "setpwef-0.1.5-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "uSewVACKpQ1Fyji03/tOP3MtPqTSR+YkwTElsADcyeY=",
+          "pp39"
+        ]
+      }
+    },
+    "0.1.6": {
+      "sdist": [
+        "Sl5fyLzRDWWw+xcd9sryEk8QELA1/WVwpieEhS7LXHA=",
+        "setpwef-0.1.6.tar.gz"
+      ],
+      "wheels": {
+        "setpwef-0.1.6-cp310-cp310-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "YCb45QIhIcfq5iOY+Z0yIG3yFqLm8RtIrvxuR8ekHIE=",
+          "cp310"
+        ],
+        "setpwef-0.1.6-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "zVWQMfyHs/PzqDIAre12TdOsIhteD87sbAXX1yAW9/M=",
+          "cp310"
+        ],
+        "setpwef-0.1.6-cp310-none-win_amd64.whl": [
+          "aHHIoMzLvdt6RL+L08wydaqE851X4IYFuIZXgrvK3VU=",
+          "cp310"
+        ],
+        "setpwef-0.1.6-cp311-cp311-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "Xng1JipCs9D5hdU/aiusitGt9BjET9Ota8U6HqPqs7I=",
+          "cp311"
+        ],
+        "setpwef-0.1.6-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "lAFE91K9drRbme0mr3PcuoW90Oo0BBKDn8Uc9W8ys1c=",
+          "cp311"
+        ],
+        "setpwef-0.1.6-cp311-none-win_amd64.whl": [
+          "1wqMBfdzv5aglfaMMmDXpazSMnZNnqUHBz2kixSK0d8=",
+          "cp311"
+        ],
+        "setpwef-0.1.6-cp37-cp37m-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "PHCREhNTtx9oIXLcj+148fn4a638mBrGkT9hlaB+P5A=",
+          "cp37"
+        ],
+        "setpwef-0.1.6-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "kHLV4q8ZIcF/wG8DWHrMirQ8fIXKpzLjjRqivawfrmU=",
+          "cp37"
+        ],
+        "setpwef-0.1.6-cp37-none-win_amd64.whl": [
+          "VawBwWUQR2cODnq6yMdNBT1UmZggN8zspdbxBnvhxx4=",
+          "cp37"
+        ],
+        "setpwef-0.1.6-cp38-cp38-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "skyYNW9AUig6LJDr0I4wKe7nvjvx4m7jPETC/NQgSRQ=",
+          "cp38"
+        ],
+        "setpwef-0.1.6-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Rkv2fsWVArNLq5I+gT1EjTMrSNSQY7fbhrdIJa8kp7g=",
+          "cp38"
+        ],
+        "setpwef-0.1.6-cp38-none-win_amd64.whl": [
+          "y0Q0hZ2Q/OQWizsMtSHtZK3w4665xGqwxhIOMCuQqZM=",
+          "cp38"
+        ],
+        "setpwef-0.1.6-cp39-cp39-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "aBNDKFBm2A+V3+gCHu9nWpcnYy2hdOK0+ktvax16GPo=",
+          "cp39"
+        ],
+        "setpwef-0.1.6-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "r9ucTHBz5ScnfeTvlmWARS1eNJK/Fk3OFsRR22Np/j8=",
+          "cp39"
+        ],
+        "setpwef-0.1.6-cp39-none-win_amd64.whl": [
+          "tG7Y2eW4Moi7MIHR76XhRQM+8mkRCgoS4AifTBBSFBA=",
+          "cp39"
+        ],
+        "setpwef-0.1.6-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "WB01RQlwng2drS9gltyeGWS4X/hyZhUCs8+yswszI1Q=",
+          "pp37"
+        ],
+        "setpwef-0.1.6-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "lLxVGE5U3LFx28GCDEa+yrvyzY41Wir7/lzLShoKg2o=",
+          "pp38"
+        ],
+        "setpwef-0.1.6-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "GdlG4GdfPeYCa6sJHckzkoT2W1aztrCZaYzXWFtMPl4=",
           "pp39"
         ]
       }

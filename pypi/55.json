@@ -16605,6 +16605,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.0.5b1": {
+      "sdist": [
+        "qtQHBXLOy86dXnTYlbbWgH99eQcrUgE3EUf3rs6Rukg=",
+        "ayaka-0.0.0.5b1.tar.gz"
+      ],
+      "wheels": {
+        "ayaka-0.0.0.5b1-py3-none-any.whl": [
+          "nMLMRn6pIDi4R41VWII/92YBHubdxCUjDgAuHRDZTkU=",
+          "py3"
+        ]
+      }
     }
   },
   "azure-cognitiveservices-vision": {
@@ -19652,6 +19664,12 @@
       "sdist": [
         "UnWIdZ9mGuGKbnmV4qS90HHDbEFLMTsM7r0+BKzlhIU=",
         "brilws-3.6.8.tar.gz"
+      ]
+    },
+    "3.6.9": {
+      "sdist": [
+        "jmOlIbNqE0Yj0cvJLFQf3uAYBIiJ+s4JgfP2SqbCwGc=",
+        "brilws-3.6.9.tar.gz"
       ]
     }
   },
@@ -60924,6 +60942,18 @@
         ]
       }
     },
+    "1.13.2": {
+      "sdist": [
+        "epW/2wn7c/d+Aw6y0AGzxdU2A1H10Pl8JgmQt2qSlxg=",
+        "jfExt-1.13.2.tar.gz"
+      ],
+      "wheels": {
+        "jfExt-1.13.2-py3-none-any.whl": [
+          "JOtBth+5KzpmCmN/Nv4npvWiMYB7FRjPbU65hdYoWnU=",
+          "py3"
+        ]
+      }
+    },
     "1.2.1": {
       "sdist": [
         "U1iRAxpkLLdS+pA96vYPZAsx5HqIjWSbTZtlZ39I9f4=",
@@ -70754,38 +70784,6 @@
     }
   },
   "mindspore-cuda11-dev": {
-    "2.0.0.dev20221016": {
-      "wheels": {
-        "mindspore_cuda11_dev-2.0.0.dev20221016-cp37-cp37m-manylinux1_x86_64.whl": [
-          "nSj9uiT+lvqdlsb/vMWRb5g2Iqyww12BjGzzqqrxAng=",
-          "cp37"
-        ],
-        "mindspore_cuda11_dev-2.0.0.dev20221016-cp38-cp38-manylinux1_x86_64.whl": [
-          "hW7jIjOhVLXGF6H35r+d76jYFpcz6JwTzlJKX6t76zc=",
-          "cp38"
-        ],
-        "mindspore_cuda11_dev-2.0.0.dev20221016-cp39-cp39-manylinux1_x86_64.whl": [
-          "BlJcWRwh36hkxAUl4iEB+UzLM5L47JqO8mKclWI0QuQ=",
-          "cp39"
-        ]
-      }
-    },
-    "2.0.0.dev20221030": {
-      "wheels": {
-        "mindspore_cuda11_dev-2.0.0.dev20221030-cp37-cp37m-manylinux1_x86_64.whl": [
-          "YEssz3TpHNjzuu9Tpcj0uJSm7x8M4v9/M/boyJI4ZUE=",
-          "cp37"
-        ],
-        "mindspore_cuda11_dev-2.0.0.dev20221030-cp38-cp38-manylinux1_x86_64.whl": [
-          "8uvV5lOtyptmKobPRk+qHoSIV+Mu64kwKNMdeBU/Vek=",
-          "cp38"
-        ],
-        "mindspore_cuda11_dev-2.0.0.dev20221030-cp39-cp39-manylinux1_x86_64.whl": [
-          "zs/Sbq32iDpD6OhYNfLdDnBxdwMohliP02FpkYxVuBI=",
-          "cp39"
-        ]
-      }
-    },
     "2.0.0.dev20221106": {
       "wheels": {
         "mindspore_cuda11_dev-2.0.0.dev20221106-cp37-cp37m-manylinux1_x86_64.whl": [
@@ -107469,6 +107467,18 @@
           "py3"
         ]
       }
+    },
+    "23.1.1": {
+      "sdist": [
+        "kieVXty+hxGpWgWtQ9IC8Zq8K3vj0athlBxiAbYsU04=",
+        "pytest_parametrize_suite-23.1.1.tar.gz"
+      ],
+      "wheels": {
+        "pytest_parametrize_suite-23.1.1-py3-none-any.whl": [
+          "9IUBwPH/bfTa7YZ7vG6Mg0hCHxS8CpajHJHb8fDaSkc=",
+          "py3"
+        ]
+      }
     }
   },
   "pytest-typhoon-config": {
@@ -121908,6 +121918,14 @@
         ]
       }
     },
+    "1.0.10": {
+      "wheels": {
+        "singlestore_demo-1.0.10-py3-none-any.whl": [
+          "Gw1ZCBUfMMbBc9rpl/6SSo5Kzt3LVs9ATiGB6OMlEF4=",
+          "py3"
+        ]
+      }
+    },
     "1.0.2": {
       "wheels": {
         "singlestore_demo-1.0.2-py3-none-any.whl": [
@@ -121928,6 +121946,38 @@
       "wheels": {
         "singlestore_demo-1.0.4-py3-none-any.whl": [
           "C1uKrSqrwfrnNTLOzgvWWam2FT+r2TCTOGVpodNHsmM=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.5": {
+      "wheels": {
+        "singlestore_demo-1.0.5-py3-none-any.whl": [
+          "JSG4SnVhnJ1pLPA1DETHCd7aw3mlZRpXxlc2Q7iZN74=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.6": {
+      "wheels": {
+        "singlestore_demo-1.0.6-py3-none-any.whl": [
+          "QZ4ZYQArP0vprpca5Vz2w9Io3d3JPDila092z1nL4Vw=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.7": {
+      "wheels": {
+        "singlestore_demo-1.0.7-py3-none-any.whl": [
+          "LYZg8NEnIYSoVk4cQtsxTWqpsJlI0lE7vnZlHZLiEZo=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.9": {
+      "wheels": {
+        "singlestore_demo-1.0.9-py3-none-any.whl": [
+          "TEIkPBs9Syr95FFhvwEXpyF/kaV+5OosXY9ZU95VveE=",
           "py3"
         ]
       }
@@ -147272,6 +147322,18 @@
       "wheels": {
         "wmss-0.1-py3-none-any.whl": [
           "KY/uEja0VYE60MzMfiJHu9vzHNn9VL5ibb6u7jzABZQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "A5okN1Ixv656kMJGaXsUXqOGqxNLBqDjksP3qRYbMC8=",
+        "wmss-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "wmss-0.1.1-py3-none-any.whl": [
+          "DFEP5da3ZXo3C1Tl7Oyqhj5jDaEjr9eTnbPsO7qt22w=",
           "py3"
         ]
       }

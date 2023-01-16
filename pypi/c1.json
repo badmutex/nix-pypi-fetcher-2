@@ -6069,6 +6069,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.2": {
+      "sdist": [
+        "NUQr8M3SGpNlBs3t1oAWEOGr/cpaF3XYJ4uHup6N0Wc=",
+        "awesome_monaco-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "awesome_monaco-0.0.2-py3-none-any.whl": [
+          "rTb9HMaNDUr1mVvOb35VKQYlqwMnBJOCB6y5VYdnRXQ=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-cdkaws-apigateway": {
@@ -45464,6 +45476,18 @@
       "wheels": {
         "gridlib-0.4.1-py3-none-any.whl": [
           "la006icVhYtvMaWS6fycC3KO1YiUJG4AA+pHjYhLt+M=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.0": {
+      "sdist": [
+        "XCyt7oICuAmHER/UBkds6HJiSxQZZpL13+dR4Kt8zGg=",
+        "gridlib-0.5.0.tar.gz"
+      ],
+      "wheels": {
+        "gridlib-0.5.0-py3-none-any.whl": [
+          "7t7p7vSANJfJnRa//NSWNXBYEnYBmt3vGViBHaEr4A8=",
           "py3"
         ]
       }
@@ -104469,15 +104493,7 @@
       }
     },
     "109.0": {
-      "sdist": [
-        "UAhs9r+ebA+WAkzCp3oFmdMKf2UthO3bOV+Ot5RcE1I=",
-        "pychromedriver-109.0.tar.gz"
-      ],
       "wheels": {
-        "pychromedriver-109.0-py3-none-any.whl": [
-          "4oNW/v4iYVbMWKAJXxxmig/jcUp+PACd49+HTeze9As=",
-          "py3"
-        ],
         "pychromedriver-109.0-py3-none-macosx_10_11_arm64.whl": [
           "0d3DOj0G0o22WghHDH5NSBd649XMce0pdWG1E5bBTFs=",
           "py3"
@@ -104497,13 +104513,37 @@
       }
     },
     "110.0": {
-      "sdist": [
-        "/Mi1IONVBJ383+p3zwsGi6oCyzD1zzojym+RhFnFTXc=",
-        "pychromedriver-110.0.tar.gz"
-      ],
       "wheels": {
-        "pychromedriver-110.0-py3-none-any.whl": [
-          "548TvYyZoMo0XAdheeApUg/BgiCYnf6JVx8pF0dxlEE=",
+        "pychromedriver-110.0-py3-none-macosx_10_0_arm64.whl": [
+          "zrqgrEAmEhcgZzGG9wbcqvOJTYJbRxoK/25YU+WD45E=",
+          "py3"
+        ],
+        "pychromedriver-110.0-py3-none-macosx_10_0_x86_64.whl": [
+          "g9VlepXVRx9C//wl8IHCuRikfcTWF+hpaFkpp3mYR/c=",
+          "py3"
+        ],
+        "pychromedriver-110.0-py3-none-macosx_11_0_arm64.whl": [
+          "tT8kBOd1e9n20qXCULpnSQv89x0Fa3MIzzow3M+fuTU=",
+          "py3"
+        ],
+        "pychromedriver-110.0-py3-none-macosx_11_0_x86_64.whl": [
+          "0riGhLIt7Bfpf/U2XS6VAUUz/unAr09lDIVGi/DHv2U=",
+          "py3"
+        ],
+        "pychromedriver-110.0-py3-none-macosx_12_0_arm64.whl": [
+          "Wq4HZ4kQWkWV3J/AsyzmcpyMwNv9HK5XoezMvRPhXik=",
+          "py3"
+        ],
+        "pychromedriver-110.0-py3-none-macosx_12_0_x86_64.whl": [
+          "+8rr0VB6RWCO+8zheVfRNRjebGbIIseAIgZLzeadyhI=",
+          "py3"
+        ],
+        "pychromedriver-110.0-py3-none-manylinux2010_x86_64.whl": [
+          "yEUzOTkvOeT0xK5z6RgmAFWalgBxzrxGeSJyoMPwo6g=",
+          "py3"
+        ],
+        "pychromedriver-110.0-py3-none-win32.whl": [
+          "s4gHKw8kJXq2s7zZJsL1A+BU4pJfRYV71NEMaZjVaek=",
           "py3"
         ]
       }

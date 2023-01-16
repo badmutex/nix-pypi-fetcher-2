@@ -19438,6 +19438,18 @@
         ]
       }
     },
+    "2.0.212": {
+      "sdist": [
+        "IMZxGvGuz6IPSOilR6XNj1WOQaCffdxn/N67W6PGGp4=",
+        "cdk-tweet-queue-2.0.212.tar.gz"
+      ],
+      "wheels": {
+        "cdk_tweet_queue-2.0.212-py3-none-any.whl": [
+          "FlHK6yM/+0DG0E1Zp76725F9sMmc5dN/CKmiFFKHbms=",
+          "py3"
+        ]
+      }
+    },
     "2.0.22": {
       "sdist": [
         "S0dO6cvoDzmPl9MHxXOOmIhxUlxYk6Ds8iUeqr31uXI=",
@@ -28182,6 +28194,20 @@
       "wheels": {
         "delay_proxy-0.1.2-py3-none-any.whl": [
           "bEFzVf6kJEHJ+/D8Cdx3JOxiUhlG3uDaqCXgbqeNqKY=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "deta-hub": {
+    "0.0.1": {
+      "sdist": [
+        "cFQAp3YrwQ01rw0mIAeHM2yrBEc64ur4Cdts/dqDw/s=",
+        "deta-hub-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "deta_hub-0.0.1-py3-none-any.whl": [
+          "5NiLbT+BOYhTaQRR29JPS2KSpGbcUnjmd43VWy3n3yI=",
           "py3"
         ]
       }
@@ -49420,6 +49446,22 @@
         ]
       }
     },
+    "0.19.0a20230115": {
+      "wheels": {
+        "graphscope_client-0.19.0a20230115-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "4eMnKQcBA/tclpaVquB9L7wo7UZeXuPzvF5Zw0jOeoM=",
+          "cp37"
+        ],
+        "graphscope_client-0.19.0a20230115-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "1VoSUOVxg++tUhd/5pnUfTsYGW2eNhXNLVnwn8smlik=",
+          "cp38"
+        ],
+        "graphscope_client-0.19.0a20230115-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "qnnXQ8AzfGURBDrJAMJJiJ5AhCVrBAqBvKMxYBeCOLg=",
+          "cp39"
+        ]
+      }
+    },
     "0.8.0": {
       "wheels": {
         "graphscope_client-0.8.0-2-cp36-cp36m-macosx_10_9_x86_64.whl": [
@@ -64029,6 +64071,18 @@
           "py3"
         ]
       }
+    },
+    "1.19.2.dev8": {
+      "sdist": [
+        "DSnFk2wDRK3AGHcni7T2SFIhKgBNc/QaPNC8R4m/OFM=",
+        "large-image-source-dicom-1.19.2.dev8.tar.gz"
+      ],
+      "wheels": {
+        "large_image_source_dicom-1.19.2.dev8-py3-none-any.whl": [
+          "YvLKqKyn9ywFLxm2rp4Y/Sv0yjpy4Iv6wAdGqKT9Ygk=",
+          "py3"
+        ]
+      }
     }
   },
   "last-task": {
@@ -66797,6 +66851,24 @@
         "DdmK+X/Uj6FHcJ2UumDX983js+yktJJKBliTi5Wn/x4=",
         "MajoranaNanowires-Quantum_Simulation_Package-1.0.tar.gz"
       ]
+    }
+  },
+  "make-preset": {
+    "1.0.0": {
+      "wheels": {
+        "make_preset-1.0.0-py3-none-any.whl": [
+          "NWfP8iLZgo9W71YunR5XEoa2kQidq5N3/spo+GjEbtw=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.1": {
+      "wheels": {
+        "make_preset-1.0.1-py3-none-any.whl": [
+          "0+H3ogATA9R0N6bXwjwAjmaBeThUcVXGEaOF8n1UR9w=",
+          "py3"
+        ]
+      }
     }
   },
   "makecourse": {
@@ -111228,6 +111300,66 @@
         ],
         "quippy_ase-0.9.11-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "ihGL6LJNNoiZLBr2JICVhXqMApIwbwB8xaZ0u5tOuWE=",
+          "cp39"
+        ]
+      }
+    },
+    "0.9.12": {
+      "wheels": {
+        "quippy_ase-0.9.12-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "4FrdbaGn9QGwil0ZQlR5RxzuLNX/lnNeZunmEL1DtgY=",
+          "cp310"
+        ],
+        "quippy_ase-0.9.12-cp310-cp310-macosx_11_0_arm64.whl": [
+          "iePF5+Niwe/hUKonBN1fjKCpRqQ9m/Yp6LebN9+kxl8=",
+          "cp310"
+        ],
+        "quippy_ase-0.9.12-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "a2jkNEL2EUhBizGpOFfZhve+nDajMzRNdhD7LVw9kA0=",
+          "cp310"
+        ],
+        "quippy_ase-0.9.12-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "YET2ZA+OQ7fYWa8Q1cFTxBn9NzJTIrRPWY2V1JTa7ks=",
+          "cp37"
+        ],
+        "quippy_ase-0.9.12-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "mC9pz9MoIVRfDXrTANGnXdxbT3sp8ilwyAPXrQIxvdM=",
+          "cp37"
+        ],
+        "quippy_ase-0.9.12-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "/qCZweCD+wBKjdZV8n7YBZQFnSU+214dOt/0R4ucduc=",
+          "cp37"
+        ],
+        "quippy_ase-0.9.12-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "YX3tkkByvLIG+UjTqHCMjNxhQ/A/xhhEe3m0KrS+r9Y=",
+          "cp38"
+        ],
+        "quippy_ase-0.9.12-cp38-cp38-macosx_11_0_arm64.whl": [
+          "iFMX0eUq20Dy7gmW/xCm2Jtc5+egtrueIO0n0TggWWU=",
+          "cp38"
+        ],
+        "quippy_ase-0.9.12-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "Cgod9YhRU0ENBUr87qc3EAAHTBotP5y6koVcvDXukRk=",
+          "cp38"
+        ],
+        "quippy_ase-0.9.12-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "tS/R7UNjI9daH5Qc5YQAl+iVBipprW+WQQ1ZemRFol8=",
+          "cp38"
+        ],
+        "quippy_ase-0.9.12-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "roltXHatoQNNkGmdmJEfUA2TFlRelV9ITc7YuaEUrpU=",
+          "cp39"
+        ],
+        "quippy_ase-0.9.12-cp39-cp39-macosx_11_0_arm64.whl": [
+          "F18X/Hef9EwJIycp+QSpl8dqpQeBeAhV0gtivAQVxt8=",
+          "cp39"
+        ],
+        "quippy_ase-0.9.12-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "HI5RYYZiXw8w60jKDAe2ZKI8THXdRv0khMnK+k9zatE=",
+          "cp39"
+        ],
+        "quippy_ase-0.9.12-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Owh290dswiHx5N5fqmeDTvKytHOIn/Yp9Acu3LorcT8=",
           "cp39"
         ]
       }

@@ -22332,6 +22332,18 @@
         ]
       }
     },
+    "2.12.0": {
+      "sdist": [
+        "UQsTpcyNhUqCwab6gZyHSx9qMGS5DjH9p7emSbyOgK8=",
+        "cibuildwheel-2.12.0.tar.gz"
+      ],
+      "wheels": {
+        "cibuildwheel-2.12.0-py3-none-any.whl": [
+          "PXXVj46ZCfLJ/kkj0DaC6a4npF043roqdrdXEUvc82E=",
+          "py3"
+        ]
+      }
+    },
     "2.2.0": {
       "sdist": [
         "Jp6OkghxcIeX+341IY/xcwogXh3yz5/nI7fsR+tMF0I=",
@@ -50144,6 +50156,74 @@
         ],
         "genieclust-1.1.2-cp39-cp39-win_amd64.whl": [
           "BGaqAqhEW8Fjy80svrVyBjh/LiuRGwf/2/PnMYmeZ64=",
+          "cp39"
+        ]
+      }
+    },
+    "1.1.3": {
+      "sdist": [
+        "FdD+sXTJJg5q/jwExou8OavjJ8Yq4Bp1cSrPJORhW1E=",
+        "genieclust-1.1.3.tar.gz"
+      ],
+      "wheels": {
+        "genieclust-1.1.3-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "V+maqH7I8FqZnEJlBDJv9hHcO1ZtmeNXz/OWRuPew70=",
+          "cp310"
+        ],
+        "genieclust-1.1.3-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "BgEYjaSfh433PWPrdhi3BJdBGamgYI/U1qGigXu1Vo0=",
+          "cp310"
+        ],
+        "genieclust-1.1.3-cp310-cp310-win_amd64.whl": [
+          "x3XeZk75FsP1cFt7mD8C0VlfQMvsdNnmk+WYAZGnM7g=",
+          "cp310"
+        ],
+        "genieclust-1.1.3-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "wcl8KlJIck1Qxs4P6kTle/3dnFDu1EYorW4ZUXiXdhI=",
+          "cp311"
+        ],
+        "genieclust-1.1.3-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Ra6t2ujwpacVeSVd3poVonOZ6V3F21EGOLVkJI1C9Fo=",
+          "cp311"
+        ],
+        "genieclust-1.1.3-cp311-cp311-win_amd64.whl": [
+          "7kgYNukUJp1GZDXGmImDNXyrwBcO2gkMilAhuvSgtOw=",
+          "cp311"
+        ],
+        "genieclust-1.1.3-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "YUD9fcKBHsHTpz1owr9Al6SgzhH+4fzseB/KUrtq6jw=",
+          "cp37"
+        ],
+        "genieclust-1.1.3-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "h47gAvx2yji6ugRPR3KTKDke5okwEO+FVQO+Owd2OM4=",
+          "cp37"
+        ],
+        "genieclust-1.1.3-cp37-cp37m-win_amd64.whl": [
+          "+rBUCZGQg8fOcIB0MmzZ5Jtz3oK0I4WVhaCWEHFmhE4=",
+          "cp37"
+        ],
+        "genieclust-1.1.3-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "PR0tTuHD/v7GGhh5g7PNGPDhojcBciziIJK1L69eC/4=",
+          "cp38"
+        ],
+        "genieclust-1.1.3-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "t9iXF6eR2SFcpT6AQoBoxn/DBX+aebjV2124tKliMmw=",
+          "cp38"
+        ],
+        "genieclust-1.1.3-cp38-cp38-win_amd64.whl": [
+          "CvUMuLeDSD/q/RV/bjVhiHadgzGTHAqT47wMIUZM20Y=",
+          "cp38"
+        ],
+        "genieclust-1.1.3-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "/VZ0qceRyxlK3y7mbnpDEq8mbc6HC0fvgLzGJrsqUeg=",
+          "cp39"
+        ],
+        "genieclust-1.1.3-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "GJe64LQZDKpo1iVt7V36TQupMokN/m3TKiLG3ct3EFs=",
+          "cp39"
+        ],
+        "genieclust-1.1.3-cp39-cp39-win_amd64.whl": [
+          "68N0K7FD7Ph5AmjGZuUocdTmq6tX2D7EE4yLfddWkWk=",
           "cp39"
         ]
       }
@@ -83582,6 +83662,14 @@
       "wheels": {
         "odoo_addons_oca_account_financial_tools-16.0.20230106.0-py3-none-any.whl": [
           "7dm0qmGv5z93mJfD6e+oYTplzg4Dzf87bev/WEsKI30=",
+          "py3"
+        ]
+      }
+    },
+    "16.0.20230116.0": {
+      "wheels": {
+        "odoo_addons_oca_account_financial_tools-16.0.20230116.0-py3-none-any.whl": [
+          "Fh3lRflwS0wguU2FuUImFK19t9i+IZr+C3IAcaF9iXI=",
           "py3"
         ]
       }
@@ -132844,6 +132932,18 @@
       "wheels": {
         "tencentcloud_sdk_python_sts-3.0.815-py2.py3-none-any.whl": [
           "XJFnF3wrBbs27cTxD1pU4T4y6w5GhqZ/6M8klWLKgSE=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.816": {
+      "sdist": [
+        "tO57YQg0jyi/9VKUBsBZBRS+vRLQFRPlpv1UntsDoPw=",
+        "tencentcloud-sdk-python-sts-3.0.816.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_sts-3.0.816-py2.py3-none-any.whl": [
+          "aeUe8WuvU/yGG3gNihVToFWI7Ipd7/4qA5RvU8TjAlU=",
           "py2.py3"
         ]
       }

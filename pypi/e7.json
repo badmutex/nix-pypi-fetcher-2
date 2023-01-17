@@ -2161,6 +2161,12 @@
         "aIfeQVSgiTdSupqW6f/HXxTRlS5vq5kKrqfTIXPLHwE=",
         "aeppl-nightly-0.1.0.dev20230116.tar.gz"
       ]
+    },
+    "0.1.0.dev20230117": {
+      "sdist": [
+        "kX3WjBjFfQ0WHFJJwgXu/g/qIEYtXaT9zd9COi8JMw8=",
+        "aeppl-nightly-0.1.0.dev20230117.tar.gz"
+      ]
     }
   },
   "agpypelinetest1": {
@@ -41179,6 +41185,20 @@
       ]
     }
   },
+  "flowmium": {
+    "0.0.0": {
+      "sdist": [
+        "n1ySP/HMNj/zcKDbmNwWFLo7YG/4GaQ9imnlhWxI+Tk=",
+        "flowmium-0.0.0.tar.gz"
+      ],
+      "wheels": {
+        "flowmium-0.0.0-py3-none-any.whl": [
+          "6gWU6wEygFtmE44OTVdiJua/F7RejHVyUTUOpSqSHqA=",
+          "py3"
+        ]
+      }
+    }
+  },
   "flowsym": {
     "0.2.2": {
       "sdist": [
@@ -58406,6 +58426,18 @@
       "wheels": {
         "invoke-1.7.3-py3-none-any.whl": [
           "2WlKhldk3T/ZHyX36al/tBZm6CK7sA5nAJHj9DkzV00=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.0": {
+      "sdist": [
+        "erXdnNdreH1WCnixqYENJSNnq1lZhcUGEnAr4h1nHdc=",
+        "invoke-2.0.0.tar.gz"
+      ],
+      "wheels": {
+        "invoke-2.0.0-py3-none-any.whl": [
+          "qGBYK896SzNv4Y71OTfw8ozsHABT/6dnwvz3uguFD1k=",
           "py3"
         ]
       }
@@ -96642,6 +96674,34 @@
         ],
         "open_aea-1.28.0-py3-none-win_amd64.whl": [
           "Q/T/H/iGXWQaO7VTmG+2Ofbpo8mN5Uh9XXKDUmUVbkY=",
+          "py3"
+        ]
+      }
+    },
+    "1.28.0.post1": {
+      "sdist": [
+        "keuktfxGqFzXfz1PUXJDBC/heeFjitGeC0EWZ/vPg94=",
+        "open-aea-1.28.0.post1.tar.gz"
+      ],
+      "wheels": {
+        "open_aea-1.28.0.post1-py3-none-macosx_10_9_x86_64.whl": [
+          "CXDDhaZTwvnLL0fONpNVmb1T/kOI/vaKncpUm4cdLKs=",
+          "py3"
+        ],
+        "open_aea-1.28.0.post1-py3-none-manylinux1_x86_64.whl": [
+          "WW5dfzdpcl/cuobonMyxpjCmjE4HBJ/3kuHBUTdm/gE=",
+          "py3"
+        ],
+        "open_aea-1.28.0.post1-py3-none-manylinux2014_aarch64.whl": [
+          "QvJu8/sRmPsF+oj5eBRvz28BilMoKP6UJJVAOyVkXjE=",
+          "py3"
+        ],
+        "open_aea-1.28.0.post1-py3-none-win32.whl": [
+          "Eorh14EGqNR6DvaKmnzriFn6YLWumaBNk+GKkTDcMlA=",
+          "py3"
+        ],
+        "open_aea-1.28.0.post1-py3-none-win_amd64.whl": [
+          "ooksaQfylz7cPOcbMaZA4ARZdUW+jTD3JRccG86MWxw=",
           "py3"
         ]
       }

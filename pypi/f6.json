@@ -15217,6 +15217,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.2": {
+      "sdist": [
+        "80aSGVofoYSFW6YkUYLkxYCXUSW3HZW+9mAA2I1L6+0=",
+        "bashckup-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "bashckup-0.0.2-py3-none-any.whl": [
+          "CdiOlYtiTfawufsaPCsV1e3P1tGvCNkj4S2bUJx429s=",
+          "py3"
+        ]
+      }
     }
   },
   "basic-knn": {
@@ -42714,6 +42726,30 @@
       "wheels": {
         "flet_core-0.4.0.dev1058-py3-none-any.whl": [
           "cghLYb5jm3QcSANI4UX4/QQYTrZPHEXKIHftP28DzqI=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.0.dev1062": {
+      "sdist": [
+        "ayQV3z63PzU7tn9Uf4Tan5YP4/snGMxxD10ub3h9da4=",
+        "flet_core-0.4.0.dev1062.tar.gz"
+      ],
+      "wheels": {
+        "flet_core-0.4.0.dev1062-py3-none-any.whl": [
+          "LK15DyTLJU3j0O+eDSCOAcbuL1JOrCJtK9KIcRAdz0k=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.0.dev1065": {
+      "sdist": [
+        "1d96E1Ycq/bcTFlWzSxvbnxzMnT2uCERBHo+wqQla2M=",
+        "flet_core-0.4.0.dev1065.tar.gz"
+      ],
+      "wheels": {
+        "flet_core-0.4.0.dev1065-py3-none-any.whl": [
+          "ncHilvsG1DCAecUocUe+3AXUDEosbwykHmgZiRnqkxY=",
           "py3"
         ]
       }
@@ -99025,6 +99061,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.3": {
+      "sdist": [
+        "ainVRqDrf92xu5RdOW1JSIizTGqnEucz3lEFK2cI238=",
+        "plutous_trade_crypto-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "plutous_trade_crypto-0.0.3-py3-none-any.whl": [
+          "qzCgABIEXJ8OJ7w31QZiov8jYXceHHRjhFjhl6n8Qfg=",
+          "py3"
+        ]
+      }
     }
   },
   "pm4pyminimal": {
@@ -110388,6 +110436,12 @@
       "sdist": [
         "S1fIoMBcIVWjx48mvy57XuNxJqxrjAlORR5lir1riQI=",
         "pypi_token_client-1.0.7.tar.gz"
+      ]
+    },
+    "1.0.8": {
+      "sdist": [
+        "xytiXxvyg0Uf2jKiJg9MWfU2sZH2kZh8pnkge4PWojg=",
+        "pypi_token_client-1.0.8.tar.gz"
       ]
     }
   },
@@ -139787,6 +139841,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.3": {
+      "sdist": [
+        "mSxQD0SXhyjOwAME/OD6f5klenK3j8Rj9x2YwOtpfsI=",
+        "transformers-openai-api-1.0.3.tar.gz"
+      ],
+      "wheels": {
+        "transformers_openai_api-1.0.3-py3-none-any.whl": [
+          "UlH8wUrO/HUtbobSsRkLx5ln6M/cptTYw7zYZkuZEo4=",
+          "py3"
+        ]
+      }
     }
   },
   "travalloni-eos": {
@@ -143287,6 +143353,44 @@
         "7YGSf1NgeD6n3+lAx3cGFn9fXNn5jjPpLhan72bthYA=",
         "wa_hack_cli-0.0.7.tar.gz"
       ]
+    }
+  },
+  "wagtail-taggable": {
+    "0.0.7": {
+      "sdist": [
+        "oUeLRDu/WqZOGr/KeD44fi02EWPt9V4cIL0AoksAjM8=",
+        "wagtail_taggable-0.0.7.tar.gz"
+      ],
+      "wheels": {
+        "wagtail_taggable-0.0.7-py2.py3-none-any.whl": [
+          "yj7fyV1iK60HoNlXt2wt2bkpXpdub1ZHa9Vc4ek5Skk=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.8": {
+      "sdist": [
+        "oFTtiNdQSJvfit4uFNwcF3TECWTpfSyNg1TENohCbZg=",
+        "wagtail_taggable-0.0.8.tar.gz"
+      ],
+      "wheels": {
+        "wagtail_taggable-0.0.8-py2.py3-none-any.whl": [
+          "vy80hDWzQCzZE9vlMPluKDgIwPAIdGPG+2sKThudrrc=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.9": {
+      "sdist": [
+        "M4CMyKer4WJUHflDC6PmffSjTIQ/iXXtLrz4JYqZQnQ=",
+        "wagtail_taggable-0.0.9.tar.gz"
+      ],
+      "wheels": {
+        "wagtail_taggable-0.0.9-py2.py3-none-any.whl": [
+          "NVBN5VL5KO6sYZPZF6/0bCt7fPs9LkSeVlaZ8fysnpE=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "wagtailapi-legacy": {

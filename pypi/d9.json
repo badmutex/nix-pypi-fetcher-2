@@ -10244,6 +10244,12 @@
         "blickfeld_scanner-2.20.5.tar.gz"
       ]
     },
+    "2.20.6": {
+      "sdist": [
+        "UxftD4Oo+3BQs10gMvzQkubws4QvI7JV7oS4AWHSuTE=",
+        "blickfeld_scanner-2.20.6.tar.gz"
+      ]
+    },
     "2.8.1": {
       "sdist": [
         "PAgJP4NBfpb+s7QXmkPWL3goMCv0w0SUWAFq0jyB5ro=",
@@ -75173,6 +75179,18 @@
           "py3"
         ]
       }
+    },
+    "2.1.0": {
+      "sdist": [
+        "/rJKNubNR0vxoTz+7fW3B/LwFVo/Cr6lH0ADspVC81E=",
+        "neutron-tempest-plugin-2.1.0.tar.gz"
+      ],
+      "wheels": {
+        "neutron_tempest_plugin-2.1.0-py3-none-any.whl": [
+          "CX9YyKaoybwTGcF0cfVpy8kljiY+uHx9rVGJr+Pu06w=",
+          "py3"
+        ]
+      }
     }
   },
   "new11": {
@@ -77420,6 +77438,14 @@
       "wheels": {
         "odoo12_addon_mrp_request_workcenter_cycle-12.0.1.0.1-py3-none-any.whl": [
           "nY7Psz3sQA3qmtppElKFeeK5SwD+ifzC1ET/cf1K4FY=",
+          "py3"
+        ]
+      }
+    },
+    "12.0.1.0.1.99.dev1": {
+      "wheels": {
+        "odoo12_addon_mrp_request_workcenter_cycle-12.0.1.0.1.99.dev1-py3-none-any.whl": [
+          "Btyig/bIZKkl0CswndUsSoSB1e7GT4yEDIORxGId7/M=",
           "py3"
         ]
       }
@@ -102206,6 +102232,18 @@
       "wheels": {
         "rebotics_sdk-0.18.0-py2.py3-none-any.whl": [
           "Ljjv7Its2XjL+EwbZ7gxKD9IHmx+V+pGXSsBki6v8J4=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.18.1": {
+      "sdist": [
+        "Um+X7pIw46JLhbO+l9vD9MzwszfslJ5EVQjcsQTHdcU=",
+        "rebotics_sdk-0.18.1.tar.gz"
+      ],
+      "wheels": {
+        "rebotics_sdk-0.18.1-py2.py3-none-any.whl": [
+          "m4QOKeUvvYZ4ZxdSc5t7KLP2V9JJPxgp4X8m/8VsS0g=",
           "py2.py3"
         ]
       }

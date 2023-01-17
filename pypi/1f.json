@@ -16251,6 +16251,18 @@
           "py3"
         ]
       }
+    },
+    "3.0.0": {
+      "sdist": [
+        "YJVSYhcx1kh8EtVQuTOEGWu45nfZLRRxOKmyyUbxna0=",
+        "cdktf-cdktf-provider-dns-3.0.0.tar.gz"
+      ],
+      "wheels": {
+        "cdktf_cdktf_provider_dns-3.0.0-py3-none-any.whl": [
+          "nzL4pUHXIS7zxxa/1roNY3LGYCxaGi+1/4cfSSUr4P0=",
+          "py3"
+        ]
+      }
     }
   },
   "cdqa": {
@@ -39490,6 +39502,74 @@
         ],
         "detkit-0.1.7-cp39-cp39-win_amd64.whl": [
           "O8zJLhxC8Vmfx1bsaxdUZUCMKLdOy6QPNap0bghFuZw=",
+          "cp39"
+        ]
+      }
+    },
+    "0.2.0": {
+      "sdist": [
+        "rweMwCIuiAWFYSj/uTcPhNyQO6I01PPT4LYNLDb34D4=",
+        "detkit-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "detkit-0.2.0-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "TyQZuDMYjozdjYve0aPucv1jY7RO+UcRsMvrggaPzfU=",
+          "cp310"
+        ],
+        "detkit-0.2.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ok9qwTUfJGknyemr8EhGij7XUw4xdEmWXgGOOqZ+kgY=",
+          "cp310"
+        ],
+        "detkit-0.2.0-cp310-cp310-win_amd64.whl": [
+          "jiFKb8iJY6agof2FCwqRVIFn1osIfOiwI3USxsoKBOQ=",
+          "cp310"
+        ],
+        "detkit-0.2.0-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "mNjkhvMizd5C8XKV9AeT8hdPJDeM72EvylTIb18vibw=",
+          "cp311"
+        ],
+        "detkit-0.2.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "/CWmXIwiqo8ZTHYf5mHBoxreihpN7tBmbrKReMsyi7Q=",
+          "cp311"
+        ],
+        "detkit-0.2.0-cp311-cp311-win_amd64.whl": [
+          "44EQbfA1c0Zm9tut88uoqz/3OCI7o0S9PSJw0lBDups=",
+          "cp311"
+        ],
+        "detkit-0.2.0-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "0Y5/ksbIzJ0lRQzxK8GjBO3jO6Hr2S1IyMydTOsopPU=",
+          "cp37"
+        ],
+        "detkit-0.2.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "3yyEODruP4UFXXrPOgOwhnT7CZDgw80sgCk+42ujuyQ=",
+          "cp37"
+        ],
+        "detkit-0.2.0-cp37-cp37m-win_amd64.whl": [
+          "GVftLejDWgHzGJV74tmPsKBt1RhtxDM7ZVbMx9m3yEI=",
+          "cp37"
+        ],
+        "detkit-0.2.0-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "In/30Rgnw6Ob6qlQQSozAfJwfRDqCCnQYs4VCl2dmSE=",
+          "cp38"
+        ],
+        "detkit-0.2.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ovpXVwDq4PvFx12VhpGP02l1bgi18GKKbqeB3b5YlS8=",
+          "cp38"
+        ],
+        "detkit-0.2.0-cp38-cp38-win_amd64.whl": [
+          "NSuHZHMC30rEQBVMuAbS8BSJkR2UCIDh/ZcECaJfa68=",
+          "cp38"
+        ],
+        "detkit-0.2.0-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "YMB9eBqImoS9GFzNomE4l8i0YM1kuxyki3IMLWrGQ74=",
+          "cp39"
+        ],
+        "detkit-0.2.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "reneQs6VEGGmHNHlZgmpFieSiKzOTI5VkzS5aUpX1LA=",
+          "cp39"
+        ],
+        "detkit-0.2.0-cp39-cp39-win_amd64.whl": [
+          "ebhzdefuDdcpweA3JgDjGPXjyPZcSnuGbQmEIdnXX9I=",
           "cp39"
         ]
       }
@@ -80444,6 +80524,22 @@
       "wheels": {
         "mse_lib_crypto-0.3-py3-none-any.whl": [
           "HOdBdSNIhNufD5Ql1vetpZQW4XvfCtLiyLW9W6qjIds=",
+          "py3"
+        ]
+      }
+    },
+    "0.4": {
+      "wheels": {
+        "mse_lib_crypto-0.4-py3-none-any.whl": [
+          "Z9/yodYbc6VRNncIFSEnv4G+dTmd9mfbsggrXHDADRQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.5": {
+      "wheels": {
+        "mse_lib_crypto-0.5-py3-none-any.whl": [
+          "BctPkL9pnGPaPllQHEI16LAH34ZGBvmfpTftoyowrrw=",
           "py3"
         ]
       }
@@ -133701,6 +133797,32 @@
       ]
     }
   },
+  "sbpars": {
+    "0.2.0": {
+      "sdist": [
+        "8AoREVZ+1iPL8xChXvjawPunVQjSJzYINGun/juk66M=",
+        "sbpars-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "sbpars-0.2.0-py3-none-any.whl": [
+          "psyCtOJDbltDaU8BivJXnBnZwCt86SGkm1OdBwh1yyY=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.0": {
+      "sdist": [
+        "HZ+/dYAsHBGQvzze9XQzxJkO5m19eMsyOvMzIaMGnmw=",
+        "sbpars-0.3.0.tar.gz"
+      ],
+      "wheels": {
+        "sbpars-0.3.0-py3-none-any.whl": [
+          "CX2HdozKKhPf/9pUqJfCKc+OjkO6vj9iPvJf+Ic3z1c=",
+          "py3"
+        ]
+      }
+    }
+  },
   "scathach-api": {
     "0.0.3": {
       "sdist": [
@@ -135068,6 +135190,12 @@
       "sdist": [
         "N6maV+IPpo0S8qTmYwXXEV389afg/nqj3miL583vIEE=",
         "segments-ai-1.0.16.tar.gz"
+      ]
+    },
+    "1.0.17": {
+      "sdist": [
+        "sVaOkqeEVuV4WywE2lIfKbSwnFpDQWBGwAB0fzu7+j8=",
+        "segments-ai-1.0.17.tar.gz"
       ]
     },
     "1.0.2": {
@@ -154942,6 +155070,18 @@
       "wheels": {
         "uniprotparser-1.0.8-py3-none-any.whl": [
           "RTWKIDfwykVGgKplykCsxB/wUxqq+SdaQwm6gPKy0jI=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.9": {
+      "sdist": [
+        "jSGC7Cv0yNrEIHbRxPOZKiAwDwARy33de57Rl1GPo5M=",
+        "uniprotparser-1.0.9.tar.gz"
+      ],
+      "wheels": {
+        "uniprotparser-1.0.9-py3-none-any.whl": [
+          "acm0HTxqDDLOunLpXrwFZBBdxFxkAdBCo+ZJwe9LtBw=",
           "py3"
         ]
       }

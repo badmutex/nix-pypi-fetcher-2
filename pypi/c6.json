@@ -8257,6 +8257,18 @@
           "py2.py3"
         ]
       }
+    },
+    "2.7.0": {
+      "sdist": [
+        "RMD8PSjGqSbk1JWf+8G8zzf69NygdSC6LpsbWzb+C9o=",
+        "asn1-2.7.0.tar.gz"
+      ],
+      "wheels": {
+        "asn1-2.7.0-py2.py3-none-any.whl": [
+          "/rAd7h9IXswbHAtmdiGWuqrSLA4ciYYRWUE7KDk/ujM=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "aspect-ratio-kd": {
@@ -16851,6 +16863,18 @@
           "py3"
         ]
       }
+    },
+    "3.0.0": {
+      "sdist": [
+        "QTxYRN/42PjUAmBYmMQX6dT7u5Av8VzC6wT6gY6I9AY=",
+        "cdktf-cdktf-provider-hcp-3.0.0.tar.gz"
+      ],
+      "wheels": {
+        "cdktf_cdktf_provider_hcp-3.0.0-py3-none-any.whl": [
+          "+Nrnvo0LjQX9TAsy5nRQvTAp1+O7sjco+OC4j9ZTzZM=",
+          "py3"
+        ]
+      }
     }
   },
   "cdktf-cdktf-provider-opc": {
@@ -16958,6 +16982,18 @@
       "wheels": {
         "cdktf_cdktf_provider_opc-2.0.0-py3-none-any.whl": [
           "q+6huo30smaVIfBVmVn3JcCs3kzquJ18vxhqy0f+YK4=",
+          "py3"
+        ]
+      }
+    },
+    "3.0.0": {
+      "sdist": [
+        "+cJEGR/Ttu25W6oVwIsDWH24XAkedOm20LZnG3a035Q=",
+        "cdktf-cdktf-provider-opc-3.0.0.tar.gz"
+      ],
+      "wheels": {
+        "cdktf_cdktf_provider_opc-3.0.0-py3-none-any.whl": [
+          "UPJ7QvtOKX12oEsxbQSM40ISKCICHRiIfBijbOs3kDI=",
           "py3"
         ]
       }
@@ -49125,6 +49161,20 @@
       ]
     }
   },
+  "gailvlun-jichu-jiaocheng-ver6": {
+    "2023.1.17.0": {
+      "sdist": [
+        "gjS+eawsUpToICGp+wdgEVZgEpXqc9nQJAYxGnLjvxQ=",
+        "gailvlun-jichu-jiaocheng-ver6-2023.1.17.0.tar.gz"
+      ],
+      "wheels": {
+        "gailvlun_jichu_jiaocheng_ver6-2023.1.17.0-py3-none-any.whl": [
+          "Pc9xY17mDE6f6J+gvwCE/4EMohuEaMVln7/z47NHFSQ=",
+          "py3"
+        ]
+      }
+    }
+  },
   "gajou": {
     "0.1": {
       "sdist": [
@@ -50030,6 +50080,24 @@
       "sdist": [
         "dTj12udlQ4qvoRuq8w289Yzy7nnqgM9ah6q6IIb+Kxo=",
         "gftp-0.0.4.tar.gz"
+      ]
+    },
+    "0.0.5": {
+      "sdist": [
+        "SD93Wb9rAWd+GaGInjQ30kr/X+U7oA6Ml2AmkhUIm5I=",
+        "gftp-0.0.5.tar.gz"
+      ]
+    },
+    "0.0.6": {
+      "sdist": [
+        "IXf6aFkrC6UxjoH2AKmLBNDk8ElRjX1XcOL6udDAY+8=",
+        "gftp-0.0.6.tar.gz"
+      ]
+    },
+    "0.0.7": {
+      "sdist": [
+        "RUGSL6fR/iZNGM2cGSaIkM7IX501pVemfOoYQ1Xa7GM=",
+        "gftp-0.0.7.tar.gz"
       ]
     }
   },
@@ -73476,14 +73544,14 @@
     }
   },
   "nornir-network-backup": {
-    "0.1.0": {
+    "0.1.1": {
       "sdist": [
-        "1/up+obYWIEwQG6DQhwi8wgI6k9h7Zy9LOnSbJCw+OY=",
-        "nornir_network_backup-0.1.0.tar.gz"
+        "6I/DEIXB33h0nnpbjRDlUx8Bl3rzPAflyt1+GJyHiao=",
+        "nornir_network_backup-0.1.1.tar.gz"
       ],
       "wheels": {
-        "nornir_network_backup-0.1.0-py3-none-any.whl": [
-          "/gDkiV75zAEfN0G64HXiTLuRin64vBUrEPe++YkytnY=",
+        "nornir_network_backup-0.1.1-py3-none-any.whl": [
+          "YgKaYs2PnAhecd32+TbKpJJbz0bJqRbU06/O35uMGqc=",
           "py3"
         ]
       }
@@ -74504,6 +74572,14 @@
       "wheels": {
         "odoo_addon_operating_unit-15.0.1.0.4-py3-none-any.whl": [
           "eLAtvc6wk5RZOyX6a0assNDqHjpAKplrt4SEPcTY6Gk=",
+          "py3"
+        ]
+      }
+    },
+    "15.0.1.0.5": {
+      "wheels": {
+        "odoo_addon_operating_unit-15.0.1.0.5-py3-none-any.whl": [
+          "5PHAbqr2icZB4JUNdk50iHgbDNK8F+HUhvJyAnTGYWg=",
           "py3"
         ]
       }
@@ -86984,6 +87060,54 @@
         ]
       }
     },
+    "0.0.334": {
+      "sdist": [
+        "3PNTdfTAQR2H78Pnv1/5XD3lnr0bfyuWGZ3Jsi2LlIM=",
+        "pepperize.projen-awscdk-app-ts-0.0.334.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.projen_awscdk_app_ts-0.0.334-py3-none-any.whl": [
+          "ma9xInAOFvaOfqBraEz09lEqUCTjGS2sNfjbiUKpwks=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.335": {
+      "sdist": [
+        "9jTdHQfuQSctQPvqB/g5XTcSq8hJm11G0UN+0PcC36c=",
+        "pepperize.projen-awscdk-app-ts-0.0.335.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.projen_awscdk_app_ts-0.0.335-py3-none-any.whl": [
+          "KXnqgNCY10gf4Ac3MKIY09fRCgNdLFZ8mMotmE3GNZY=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.336": {
+      "sdist": [
+        "Db1lKrrilZ9MLMorPDj5NMOw/qA6UHiczIucONtDLSs=",
+        "pepperize.projen-awscdk-app-ts-0.0.336.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.projen_awscdk_app_ts-0.0.336-py3-none-any.whl": [
+          "eMdY2tNukf+XYn2gOhzdPqKqAXnaU8sUOc2mNBIqCjs=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.337": {
+      "sdist": [
+        "cq2bJjPY2u5/qbTbsaOggFuZDtgvr54bHSa7rdIspb8=",
+        "pepperize.projen-awscdk-app-ts-0.0.337.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.projen_awscdk_app_ts-0.0.337-py3-none-any.whl": [
+          "ByO3MESxfjdDcRRSwE7mekEOpCA4lsqBswGA4IH3qJk=",
+          "py3"
+        ]
+      }
+    },
     "0.0.34": {
       "sdist": [
         "zjDtnthJ+QfEJoCzXEhaMF45HvRBgXIiQQieP7ewZuQ=",
@@ -90626,6 +90750,30 @@
       "wheels": {
         "progress_parallel-1.0.2-py3-none-any.whl": [
           "vQK80UaHk9jTyde6xF69NG8wrUAfik/n+PnnOXjJIHc=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.1": {
+      "sdist": [
+        "Rhxb3F5lRZkKGZiPaitZ85W3DKHwpcFwAeYqq/+V0xQ=",
+        "progress parallel-2.0.1.tar.gz"
+      ],
+      "wheels": {
+        "progress_parallel-2.0.1-py3-none-any.whl": [
+          "7rYpjdX1p5WCI4umPAh/+6XFunH4ER8Q5T7x0Bb+6h8=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.2": {
+      "sdist": [
+        "3WMf53Pht9DX+IrNUu381A8RUTykpxmXNFIRCt1qy0Q=",
+        "progress parallel-2.0.2.tar.gz"
+      ],
+      "wheels": {
+        "progress_parallel-2.0.2-py3-none-any.whl": [
+          "OVVZUiaatLcj0GlaE0DTx6ltMg+gRAbi979r1781jMc=",
           "py3"
         ]
       }
@@ -129385,6 +129533,20 @@
         "YeVeV0kwT1k0RxSq19opsfo9CT7g+kk8aRq/UOi6Xj4=",
         "viberbot-1.0.8.tar.gz"
       ]
+    }
+  },
+  "video-background-estimation": {
+    "0.1.2": {
+      "sdist": [
+        "DSXHjNtJL5WMMqiOV/C5MVb+s8+epirvyzKrvYLxFWc=",
+        "video_background_estimation-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "video_background_estimation-0.1.2-py3-none-any.whl": [
+          "t9YCb8G2cqpCHCYr2ILB4caj3pYWc3pKal/4uxKlVco=",
+          "py3"
+        ]
+      }
     }
   },
   "virtual-dataframe": {

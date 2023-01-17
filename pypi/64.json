@@ -48101,6 +48101,30 @@
           "py3"
         ]
       }
+    },
+    "2.0.1": {
+      "sdist": [
+        "0rJWVemHDtUNvpffRUJzbVDQow7j5wBEi6udPNv/ycI=",
+        "dsp_tools-2.0.1.tar.gz"
+      ],
+      "wheels": {
+        "dsp_tools-2.0.1-py3-none-any.whl": [
+          "m1vJHNqvHXPiCGL6/PpONa8fAWqKYwccP7frtApe9sg=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.2": {
+      "sdist": [
+        "7VcRp6NY/bkpY1quFH/kfqbPpep1v86LRbfgpL9Shg0=",
+        "dsp_tools-2.0.2.tar.gz"
+      ],
+      "wheels": {
+        "dsp_tools-2.0.2-py3-none-any.whl": [
+          "wmrd3gMeqsx66EEsJt+LIfEaKVraFkucSi0vYJ0DAc8=",
+          "py3"
+        ]
+      }
     }
   },
   "dstore": {
@@ -143574,6 +143598,14 @@
         ]
       }
     },
+    "2023.1.17": {
+      "wheels": {
+        "torch_model_archiver_nightly-2023.1.17-py3-none-any.whl": [
+          "XFuJ6LReS6SII2U9DS421XVA60E62ulK95Jo0ioPZB0=",
+          "py3"
+        ]
+      }
+    },
     "2023.1.2": {
       "wheels": {
         "torch_model_archiver_nightly-2023.1.2-py3-none-any.whl": [
@@ -143730,6 +143762,20 @@
       "wheels": {
         "torch_simplify-1.1.2-py3-none-any.whl": [
           "0vQgzDHwDVGGGZuPmNFPNVR3VVUdR4eNTFDb8jaHkWY=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "torch-treecrf": {
+    "0.1.0": {
+      "sdist": [
+        "pXKXqpE91rOcgLuLCqYrGI0ggxwEYUHr+acNkHWRUsM=",
+        "torch-treecrf-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "torch_treecrf-0.1.0-py3-none-any.whl": [
+          "LWyEPFz3F5GbEeGf3VQvwJ9DE5rGGGz19cRpE4kHo2U=",
           "py3"
         ]
       }

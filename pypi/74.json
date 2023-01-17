@@ -12361,6 +12361,18 @@
           "py3"
         ]
       }
+    },
+    "0.1b20230117": {
+      "sdist": [
+        "O5f2MRvvk9PZW2jUAuGUqDaijRmX+YUjVnKosxw1L4s=",
+        "autogluon.cloud-0.1b20230117.tar.gz"
+      ],
+      "wheels": {
+        "autogluon.cloud-0.1b20230117-py3-none-any.whl": [
+          "3wWsrkRZOtvfR0Q/uY7hipcY8d9Q9WJcbOygPbtxwS0=",
+          "py3"
+        ]
+      }
     }
   },
   "automagic-rest": {
@@ -20380,6 +20392,10 @@
           "ejrcBhsgBePj6DBmtemsmWZjT/ZdtbYKvjvx7H8seQM=",
           "cp310"
         ],
+        "caio-0.9.11-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "G5DMZiMOeP2F2U4o/WvXMDIxkobwgI9gEYouY9v0zeU=",
+          "cp310"
+        ],
         "caio-0.9.11-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
           "ClwNLX1DfBPvcgYazw9Ph4rhdkK3O9HYpVlLnHOY+Y4=",
           "cp310"
@@ -20392,16 +20408,32 @@
           "WOGE0z6UlirLyfTo/5uZPKb3h5TekBiiwwYMssGQOY4=",
           "cp311"
         ],
+        "caio-0.9.11-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "GfjacxS9gKhiDo4fxl6XG7uX6qjq1pLoHZFWHMadCgs=",
+          "cp311"
+        ],
         "caio-0.9.11-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
           "GSVd7545V2hXPwAunQHD6qu/b03aaKHFaghiQD2h+qY=",
           "cp311"
+        ],
+        "caio-0.9.11-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "zRxtQzgwp+HC1f+FSVbqOgpGrG5yGWgkpVwAERoy0hw=",
+          "cp36"
         ],
         "caio-0.9.11-cp37-cp37m-macosx_10_15_x86_64.whl": [
           "gVdYe27jQNdRDH43tvXxIj7DYxVLOLQ7cYx8xrd9WMI=",
           "cp37"
         ],
+        "caio-0.9.11-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "WMJjARyJk9QzCuk63mlzAmd3sj/EHdlMvQGLCw9O74o=",
+          "cp37"
+        ],
         "caio-0.9.11-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "boHdUPm1PbUhRGnzuVO7Fs+5bAXwjzNMeq8NkJbDdok=",
+          "cp37"
+        ],
+        "caio-0.9.11-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "meue8FQ+heSaeIOzUVLiFq8nFYuk9eYQ54TAkNVQ7kw=",
           "cp37"
         ],
         "caio-0.9.11-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
@@ -20412,8 +20444,16 @@
           "4C4MJBttwZvg+F7OI/9oYZB+8cxqiSOoE0WIennykwA=",
           "cp38"
         ],
+        "caio-0.9.11-cp38-cp38-macosx_11_0_universal2.whl": [
+          "tgkUch67yH1wmLVSZtJv9S5/WaqbkC6t+xheXKO/kT4=",
+          "cp38"
+        ],
         "caio-0.9.11-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "Iq2HqUsgYhUe94xhNxHJfdzrunOZ7OOeT9iHKIUxN9I=",
+          "cp38"
+        ],
+        "caio-0.9.11-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "4mLGE9R8RDxNrqA+t8FQAZkhNq9x1LajRMIPD4MH8ls=",
           "cp38"
         ],
         "caio-0.9.11-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
@@ -20424,8 +20464,16 @@
           "IIbWWxV9ObDwcKPm37ypcMadFVR9+p7zRlBvTalo6WA=",
           "cp39"
         ],
+        "caio-0.9.11-cp39-cp39-macosx_10_9_universal2.whl": [
+          "Q+0JYtcS23pwgcswCmz455JO/WUIAG22eeFlV+YKOUw=",
+          "cp39"
+        ],
         "caio-0.9.11-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "UQ8B9xNh0xzok49pHpanoTBsKeBHWqWadzAKYbbwcyo=",
+          "cp39"
+        ],
+        "caio-0.9.11-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "OmKhcG8RZh8JQb8iD1bukSedROT7/bwh9DyitdelJTE=",
           "cp39"
         ],
         "caio-0.9.11-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
@@ -43684,6 +43732,14 @@
       "wheels": {
         "finetuner_stubs-0.12.2-py3-none-any.whl": [
           "Fl+zHODRCOP/DuFSizHCDqvVQQl7KQBjsvvgwYMzV5o=",
+          "py3"
+        ]
+      }
+    },
+    "0.12.3rc1": {
+      "wheels": {
+        "finetuner_stubs-0.12.3rc1-py3-none-any.whl": [
+          "NrcJVALPGMmi0MxHZVt11AquT74+27bv736sSPyg8mM=",
           "py3"
         ]
       }
@@ -69195,6 +69251,18 @@
           "py3"
         ]
       }
+    },
+    "1.1.0": {
+      "sdist": [
+        "nOE+Li+7joHd6KltKtmFYQnFUZsuzmlFXMfb5Dlv3+g=",
+        "mitol-django-hubspot-api-1.1.0.tar.gz"
+      ],
+      "wheels": {
+        "mitol_django_hubspot_api-1.1.0-py3-none-any.whl": [
+          "Gck9lm3K6bxl1AZ88sb9vRWA6hxavQL58Qir//CTpfo=",
+          "py3"
+        ]
+      }
     }
   },
   "mkappleopensourcedownload": {
@@ -71020,6 +71088,12 @@
       "sdist": [
         "Rqjs9/TIavN91H/iPah44nf1P/9suXRvQeyIsKS1uVo=",
         "multiplex-imaging-pipeline-0.0.1.tar.gz"
+      ]
+    },
+    "0.0.2": {
+      "sdist": [
+        "4ZuUx9BPRQuqSVwj9az5k4V6pTBTKofbmfGxDodVPsw=",
+        "multiplex-imaging-pipeline-0.0.2.tar.gz"
       ]
     }
   },
@@ -140853,6 +140927,20 @@
       }
     }
   },
+  "tuopuxue-jichu-jiyingyong": {
+    "2023.1.17.0": {
+      "sdist": [
+        "PbmZJZ8jkxsQDmRLud4/YgNNLR7bTQFTGVuFlITEIz0=",
+        "tuopuxue-jichu-jiyingyong-2023.1.17.0.tar.gz"
+      ],
+      "wheels": {
+        "tuopuxue_jichu_jiyingyong-2023.1.17.0-py3-none-any.whl": [
+          "dg79LqrvpbIUoDCyjriXNOx8iTYiKgRvt34/nM83Uag=",
+          "py3"
+        ]
+      }
+    }
+  },
   "tup": {
     "0.2": {
       "sdist": [
@@ -146587,6 +146675,42 @@
         "xarray_leaflet-0.1.9-py2.py3-none-any.whl": [
           "7QL18Ts/QsTyomw0MSjcGxCuRorUacQNIrILfgrMFPk=",
           "py2.py3"
+        ]
+      }
+    },
+    "0.2.0": {
+      "sdist": [
+        "DMDRWLhmNM5H8pJUbEZ9vNUi8RYZOls2nqBo3nQm9Vg=",
+        "xarray_leaflet-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "xarray_leaflet-0.2.0-py3-none-any.whl": [
+          "p9quF+D8epldn+sqkRvQAmDDcXMmqYc7OM7t0aeEhUY=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.1": {
+      "sdist": [
+        "OiM4p47mjuawUeXVaP16wmK4CYl7zMNeeutuq44VbUg=",
+        "xarray_leaflet-0.2.1.tar.gz"
+      ],
+      "wheels": {
+        "xarray_leaflet-0.2.1-py3-none-any.whl": [
+          "Ri/yDMW9B7Zh0sTQRjlzM9XI/4fQqC7wzcOoofxLU7g=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.2": {
+      "sdist": [
+        "ILMO+jtbGJ4u08qONeqQ/BvzGVwkESemL1wOVmyMuTw=",
+        "xarray_leaflet-0.2.2.tar.gz"
+      ],
+      "wheels": {
+        "xarray_leaflet-0.2.2-py3-none-any.whl": [
+          "To6nsG2R2qpZPMAKw+3/8cd8bWyE/twScQQBUqWDoSU=",
+          "py3"
         ]
       }
     }

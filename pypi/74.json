@@ -9596,6 +9596,30 @@
         ]
       }
     },
+    "0.18.11": {
+      "sdist": [
+        "vCR+6AIcQiUimdWXtbEIQArAqRbxIcZk2avS4LpABcE=",
+        "apis-core-0.18.11.tar.gz"
+      ],
+      "wheels": {
+        "apis_core-0.18.11-py3-none-any.whl": [
+          "e3q2xAN68DxfcjKKDoogJR+26No3Z2IYsc5TCaK8ILU=",
+          "py3"
+        ]
+      }
+    },
+    "0.18.12": {
+      "sdist": [
+        "BDWlaVMd7EaWYy0bjmxywIzSz/4l9C01H8d9Om0hSQc=",
+        "apis-core-0.18.12.tar.gz"
+      ],
+      "wheels": {
+        "apis_core-0.18.12-py3-none-any.whl": [
+          "SQKhEUBhPkBka9zQHMbzpYvq+orfCAzebd7pTHJ0/vU=",
+          "py3"
+        ]
+      }
+    },
     "0.18.2": {
       "sdist": [
         "LmPidHz0vUK1hJtSDEkS/shCag0QnhO178leGR7QURM=",
@@ -12370,6 +12394,18 @@
       "wheels": {
         "autogluon.cloud-0.1b20230117-py3-none-any.whl": [
           "3wWsrkRZOtvfR0Q/uY7hipcY8d9Q9WJcbOygPbtxwS0=",
+          "py3"
+        ]
+      }
+    },
+    "0.1b20230118": {
+      "sdist": [
+        "FTSMAXwpsN0T2nJc8PV5+8CbQcurfiT1TndBnYaoNbU=",
+        "autogluon.cloud-0.1b20230118.tar.gz"
+      ],
+      "wheels": {
+        "autogluon.cloud-0.1b20230118-py3-none-any.whl": [
+          "O6SIMou53r4wA2/j2WNSd2jC2ah+wWi7NnyLcTeKMFo=",
           "py3"
         ]
       }
@@ -95393,6 +95429,32 @@
       ]
     }
   },
+  "pascal-voc-analyser": {
+    "1.0.0": {
+      "sdist": [
+        "IzcI/9aGi7IIRqrQRJTtc5cBpRr8pE6MZgboODBcFM4=",
+        "pascal-voc-analyser-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "pascal_voc_analyser-1.0.0-py3-none-any.whl": [
+          "Mq+WTgrtAzP8WDUfZ70su22FuQ6+co8lFfZIysld+Ig=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.1": {
+      "sdist": [
+        "Hyl/m4ZXPzfPs9nyeMWyzTN805/+pBg5BH1QMMYJ1N4=",
+        "pascal-voc-analyser-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "pascal_voc_analyser-1.0.1-py3-none-any.whl": [
+          "TI/dgmwHVPPccH9yr7chcpzlpM7HO+mXfOLw7f5Mcrw=",
+          "py3"
+        ]
+      }
+    }
+  },
   "passtodict": {
     "0.0.1": {
       "sdist": [
@@ -97287,6 +97349,20 @@
         "phenoapt-0.1.6-py2.py3-none-any.whl": [
           "G9c3u34TxdV+SVoJRMeb+U692EnM34oshD0RtLOPAqQ=",
           "py2.py3"
+        ]
+      }
+    }
+  },
+  "phlearn": {
+    "1.0.0": {
+      "sdist": [
+        "FxNjDK1IrD5WcPY2IiHcmqDNEiG2RMND3wbCJOpSftM=",
+        "phlearn-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "phlearn-1.0.0-py3-none-any.whl": [
+          "XtzND2OfYE3+UmUQjj23IF4SrxtkNxA74GnZpmrGHDA=",
+          "py3"
         ]
       }
     }
@@ -111693,6 +111769,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.6": {
+      "sdist": [
+        "XkSU/KkG028O2/T4Y4rUt4kLxaRrPZFkMG3MDHryItk=",
+        "pynedra-0.1.6.tar.gz"
+      ],
+      "wheels": {
+        "pynedra-0.1.6-py3-none-any.whl": [
+          "9mqr3r/Fkg2dQflJuHtYxyYZEwrxZV8XMjFYBYshUp0=",
+          "py3"
+        ]
+      }
     }
   },
   "pyngsild": {
@@ -125278,6 +125366,18 @@
       "sdist": [
         "Agvk0IxxZ2s3+o9qz2IcIISJV6ftC4wNaq0QuuEvmIE=",
         "scoptimize-0.0.5.tar.gz"
+      ]
+    },
+    "0.0.6": {
+      "sdist": [
+        "mbRUs6chwRf6u9ZInoy23wqzzamNaR9eAR/dOjNvwxo=",
+        "scoptimize-0.0.6.tar.gz"
+      ]
+    },
+    "0.6": {
+      "sdist": [
+        "4mozTiGiGgzDuaXLDGvulrzDta5LY8zbTEJ20b3esag=",
+        "scoptimize-0.6.tar.gz"
       ]
     }
   },
@@ -141956,6 +142056,18 @@
       "wheels": {
         "ubcpdk-1.15.1-py3-none-any.whl": [
           "qpKsmDezC3+3w/S+Cs/Ge+SVAZbD6jlpRv32CIZQ0DE=",
+          "py3"
+        ]
+      }
+    },
+    "1.15.2": {
+      "sdist": [
+        "SYoBHI5GMG/tszpLGEBqcBH6gWvzSswX9SOFx0RxE4s=",
+        "ubcpdk-1.15.2.tar.gz"
+      ],
+      "wheels": {
+        "ubcpdk-1.15.2-py3-none-any.whl": [
+          "809GvbhrxoFFRB8j19Eqjs/FxFhz2rBptcILcr8TpOo=",
           "py3"
         ]
       }

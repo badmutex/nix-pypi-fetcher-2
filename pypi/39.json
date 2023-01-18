@@ -15417,6 +15417,22 @@
           "py3"
         ]
       }
+    },
+    "2.3.0b20230118": {
+      "sdist": [
+        "XwYH19U6TKPlYN0QPyD4WxJb+TFBGYkO20cbag9MJd0=",
+        "bigdl-dllib-2.3.0b20230118.tar.gz"
+      ],
+      "wheels": {
+        "bigdl_dllib-2.3.0b20230118-py3-none-macosx_10_11_x86_64.whl": [
+          "Pq/dQVoD0jd9M6U/SKYNhQ0h4SP0Oe3hlnAe3bv7KFk=",
+          "py3"
+        ],
+        "bigdl_dllib-2.3.0b20230118-py3-none-manylinux1_x86_64.whl": [
+          "G0HBGwfKa6qbU+VS412KLLLPBA8+LbA5Mmrg7M5wAF0=",
+          "py3"
+        ]
+      }
     }
   },
   "biggan": {
@@ -28999,6 +29015,20 @@
       }
     }
   },
+  "dfp": {
+    "0.0.8": {
+      "sdist": [
+        "9p1ZXwFrII+rAfe4hOkChwa1DzTnULHwxXycZdlXXPM=",
+        "dfp-0.0.8.tar.gz"
+      ],
+      "wheels": {
+        "dfp-0.0.8-py3-none-any.whl": [
+          "O/Vbl0ZdHlAeTqVSTIUR3EBKZj4q6rDAi1XJfEuvcYg=",
+          "py3"
+        ]
+      }
+    }
+  },
   "dfttopif": {
     "0.1.1": {
       "sdist": [
@@ -35972,6 +36002,30 @@
       "wheels": {
         "dumbo_utils-0.1.3-py3-none-any.whl": [
           "pP00ZKmnjOFNCRRZsEK0dtRpEvjDU3yjhZqj5emCSjs=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.4": {
+      "sdist": [
+        "SM+vK68Ol7YGjrT0lvkGYsx63X4pKPIRsEILxTh8qZA=",
+        "dumbo_utils-0.1.4.tar.gz"
+      ],
+      "wheels": {
+        "dumbo_utils-0.1.4-py3-none-any.whl": [
+          "qZNvJhKzta1vCgTZ86XXko1pSKKozDQzFiIgMDVy/VA=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.5": {
+      "sdist": [
+        "Jd3DV1g9CtJeZS/AonkV2aQdA09TEeqV6U3tA4mdD6U=",
+        "dumbo_utils-0.1.5.tar.gz"
+      ],
+      "wheels": {
+        "dumbo_utils-0.1.5-py3-none-any.whl": [
+          "K+wKgYnuSv+8MyQRooaS9DPhIKgI3kC8al5U6rrmpWs=",
           "py3"
         ]
       }
@@ -58434,6 +58488,14 @@
       "wheels": {
         "libsrg-1.2.5-py3-none-any.whl": [
           "SUFa4A591S+4iBZTuEx3DMYqua0DI7b+2K2MkhVBIhQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.3.0": {
+      "wheels": {
+        "libsrg-1.3.0-py3-none-any.whl": [
+          "kW2EDFwf2I7QGVI/+5wv7PILOhXK4EURgeea3aJaPyU=",
           "py3"
         ]
       }
@@ -81725,6 +81787,14 @@
           "py3"
         ]
       }
+    },
+    "13.0.1.5.0": {
+      "wheels": {
+        "odoo13_addon_account_payment_partner-13.0.1.5.0-py3-none-any.whl": [
+          "Y2NStgfNrRlEqN4AYnq08EfNenRqpIdES2FzjSoPyF8=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo13-addon-l10n-th-expense-tax-invoice": {
@@ -93978,6 +94048,14 @@
       "wheels": {
         "pulser-0.8.1-py3-none-any.whl": [
           "QlS7Mo2WyAFwvIl5hF6JUZqZ2ZluTDEmikcBr2BRU/0=",
+          "py3"
+        ]
+      }
+    },
+    "0.9.0": {
+      "wheels": {
+        "pulser-0.9.0-py3-none-any.whl": [
+          "rLTeU45gBtwS6bc0h3OOhqsBQWpfi4tQIvRSq6sUNiI=",
           "py3"
         ]
       }
@@ -110186,6 +110264,18 @@
       "wheels": {
         "PyTumblr-0.1.0-py2.py3-none-any.whl": [
           "o3dNOXi8/y25jzai5dF7uElqwhFXsbUYCJra2G0NynI=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "7vJlMRD4TfdKnYYopO3zATEATeB+k0hLyMyV5EByA24=",
+        "PyTumblr-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "PyTumblr-0.1.2-py2.py3-none-any.whl": [
+          "RDW/TdvTVDqYCikgeIkU6OQam5GyVeq/0i3XovTu3+w=",
           "py2.py3"
         ]
       }
@@ -158782,6 +158872,18 @@
       "wheels": {
         "zood-0.5.4-py3-none-any.whl": [
           "E4Zp0Ipa9123q9HBbkgK48rc5bCcgXdLWiw1brFrdNg=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.5": {
+      "sdist": [
+        "f5pjPoQGRynvrPzZJ0PkwSOD58XNHanLshMKjWiBn98=",
+        "zood-0.5.5.tar.gz"
+      ],
+      "wheels": {
+        "zood-0.5.5-py3-none-any.whl": [
+          "37wowORZZ2rTRUDCn8M4TJhN3CaAUeoj0F47bwxmLss=",
           "py3"
         ]
       }

@@ -15509,6 +15509,12 @@
         "0qB2n6jo02vJ9D0w8J5jDokeZEstdlQi9OIZQsJXPH4=",
         "bottle-pymysql-0.1.3.tar.gz"
       ]
+    },
+    "0.1.4": {
+      "sdist": [
+        "BKmsphredEPU0LOSJM/2O5CpvFzyHVrO9ZD9T2LbrO8=",
+        "bottle-pymysql-0.1.4.tar.gz"
+      ]
     }
   },
   "bottle-swagger-2": {
@@ -28911,6 +28917,14 @@
           "py3"
         ]
       }
+    },
+    "0.3.2": {
+      "wheels": {
+        "cryptodataset-0.3.2-py3-none-any.whl": [
+          "WpE25cEwH8Jt8AquQzqF9TKJ75qb2PAOCiQ4Wz+N9I0=",
+          "py3"
+        ]
+      }
     }
   },
   "crystalpytools": {
@@ -34825,6 +34839,30 @@
           "py3"
         ]
       }
+    },
+    "0.2.3": {
+      "sdist": [
+        "+9UzcmfmFaTagA9MeBUwOxtIWeCtA9PFGnfbW/vwBOM=",
+        "django-keycloak-pkg-0.2.3.tar.gz"
+      ],
+      "wheels": {
+        "django_keycloak_pkg-0.2.3-py3-none-any.whl": [
+          "LG7RhtMFeNYFbsxGiySQIXe5idzMyaL+H/i6FbXfI0Q=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.4": {
+      "sdist": [
+        "alZaBmzZXGRCnOHBaygdVQ5+tnhUKKmFE4LSarwNYSw=",
+        "django-keycloak-pkg-0.2.4.tar.gz"
+      ],
+      "wheels": {
+        "django_keycloak_pkg-0.2.4-py3-none-any.whl": [
+          "BKODw6VTNWvN+xk6BmFGr1mYauvEKbjMfpSrtH1ewgg=",
+          "py3"
+        ]
+      }
     }
   },
   "django-lazyloader": {
@@ -38032,6 +38070,18 @@
       "wheels": {
         "doc_ufcn-0.1.7-py3-none-any.whl": [
           "u8c7olqG5XYeAnr7FFhWQwv23B+WiE1UTuUb9rf6G2k=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.8": {
+      "sdist": [
+        "DPCcisiJpEsV3lKiR6zNwtprE0iG2bhdQUTCmdBIWw8=",
+        "doc-ufcn-0.1.8.tar.gz"
+      ],
+      "wheels": {
+        "doc_ufcn-0.1.8-py3-none-any.whl": [
+          "PJsidA/ousJLzRqm/BUuir5u3BPO9OSvbVeW+aKfvkk=",
           "py3"
         ]
       }
@@ -79436,6 +79486,18 @@
         ]
       }
     },
+    "0.16.16": {
+      "sdist": [
+        "mD8CD0pmSwavWYxV5H/3uqJWP75s6K5sYjQkx7JfIfY=",
+        "neptune_client-0.16.16.tar.gz"
+      ],
+      "wheels": {
+        "neptune_client-0.16.16-py3-none-any.whl": [
+          "+flj64E7AwqLc30vLmkp8AvW01yeaY1rN0DN5PmaoXM=",
+          "py3"
+        ]
+      }
+    },
     "0.16.2": {
       "sdist": [
         "fl4CYfPOSG9F4ycsW149Vj8HZakhvNoVmwAucBdaVTs=",
@@ -111989,6 +112051,70 @@
           "py3"
         ]
       }
+    },
+    "0.9.7": {
+      "wheels": {
+        "reloadium-0.9.7-cp310-cp310-macosx_10_15_x86_64.whl": [
+          "xK+ilg85O681M9RfSYQM3o5SAVRRZDGFN4CKdWv8Nu0=",
+          "cp310"
+        ],
+        "reloadium-0.9.7-cp310-cp310-macosx_12_0_arm64.whl": [
+          "WWMLBCps3PL0uZ4E2IZRsBC2N8tZyZ3gc12IQm8RqEU=",
+          "cp310"
+        ],
+        "reloadium-0.9.7-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ZYM32do2k7+QbH3QvSq7nrSMqo5HzTc5adwfpsVOzuc=",
+          "cp310"
+        ],
+        "reloadium-0.9.7-cp310-cp310-win_amd64.whl": [
+          "HUx76L21LA/37cB+7u77AP5TZKP5Ay8QaJ7q1GPUnw8=",
+          "cp310"
+        ],
+        "reloadium-0.9.7-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "BcsCT7VkGCjih3jpAtfdZm1Q5ER6LcuXkTxug5Ys6Uo=",
+          "cp37"
+        ],
+        "reloadium-0.9.7-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "muy1bCB/D8AXsMLww5SqooKTHlQhpmXwEuFCiEUM5nA=",
+          "cp37"
+        ],
+        "reloadium-0.9.7-cp37-cp37m-win_amd64.whl": [
+          "uK31tcYHJEItOdDXjSteidQAxd4prbn5njGg0HwMk/Q=",
+          "cp37"
+        ],
+        "reloadium-0.9.7-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "ZkEJ1hx5hxS1dLHvKxBe8DpyU9yfW6FIT6ZnbcFCP9Y=",
+          "cp38"
+        ],
+        "reloadium-0.9.7-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "3zj9lrOQsBVV79k55B8jC+El0recuHEitlvxedCfYZ4=",
+          "cp38"
+        ],
+        "reloadium-0.9.7-cp38-cp38-win_amd64.whl": [
+          "SeP3WYrY99ZK9DlUb4kCmL8DxPScpXB1EK8T327YEpw=",
+          "cp38"
+        ],
+        "reloadium-0.9.7-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "s1D+DFxFFtnvmN1RMFekpGUGeKhMbZEaGzlf3GDSpWk=",
+          "cp39"
+        ],
+        "reloadium-0.9.7-cp39-cp39-macosx_12_0_arm64.whl": [
+          "h76nEM8mLHbu0zB2D+up2wNQFP6Ww+7dsuHmyZe6454=",
+          "cp39"
+        ],
+        "reloadium-0.9.7-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "zQQjFDY6ihuKdcXF0zdsot1r68W7+CQ76soyIVjhkcI=",
+          "cp39"
+        ],
+        "reloadium-0.9.7-cp39-cp39-win_amd64.whl": [
+          "1wXkIMs+qLroiibCykOZcKM9DqJXq5hLfkODsAM3VNk=",
+          "cp39"
+        ],
+        "reloadium-0.9.7-py3-none-any.whl": [
+          "i0azJu2+9MjFWrY0skAN+3PX/1/oBcdJjNHQXC0mFmY=",
+          "py3"
+        ]
+      }
     }
   },
   "remind-me-some": {
@@ -119520,6 +119646,12 @@
       "sdist": [
         "EBSoyPgSPSzBqEzSM958wG+LHxDvF/1xjDf9mWCr3W0=",
         "SimpliPyTEM-1.0.0.tar.gz"
+      ]
+    },
+    "1.0.1": {
+      "sdist": [
+        "l6wUiXZcXRP1Zh0+Eopcp/9NYE4wxzGCwHkTgfsxBq4=",
+        "SimpliPyTEM-1.0.1.tar.gz"
       ]
     }
   },

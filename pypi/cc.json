@@ -62078,6 +62078,18 @@
         ]
       }
     },
+    "0.5.11": {
+      "sdist": [
+        "SHAovKVwP4M2hthqxGzdZ7RgfcaeUhtbagj+ayjkPfg=",
+        "kraken_std-0.5.11.tar.gz"
+      ],
+      "wheels": {
+        "kraken_std-0.5.11-py3-none-any.whl": [
+          "iB/X3vp2xC/EQXYToUjfFAvZgPBBL8SMpsVXNU07rqU=",
+          "py3"
+        ]
+      }
+    },
     "0.5.2": {
       "sdist": [
         "PBI1LIxWKnvJlBzTq89E1K9XKxNrWptgk+CppH6RhSc=",
@@ -83299,6 +83311,14 @@
           "py3"
         ]
       }
+    },
+    "12.0.1.0.1.99.dev2": {
+      "wheels": {
+        "odoo12_addon_repair_payment_term-12.0.1.0.1.99.dev2-py3-none-any.whl": [
+          "7yDcKwPOduXMztFKXIUvbCnb2rz6wItJkHKnll5deno=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo12-addon-sale-commission-delegated-partner": {
@@ -83558,6 +83578,14 @@
       "wheels": {
         "odoo13_addon_l10n_es_ticketbai_api_batuz-13.0.1.0.2-py3-none-any.whl": [
           "cbm7mxh2CrZimuncN6d878BhWfsozEj+KrSEws02L60=",
+          "py3"
+        ]
+      }
+    },
+    "13.0.1.0.3": {
+      "wheels": {
+        "odoo13_addon_l10n_es_ticketbai_api_batuz-13.0.1.0.3-py3-none-any.whl": [
+          "hy4TK3ATRgAsH4hVjXhJVYPaxSzPLO/s49B5xRcUSKs=",
           "py3"
         ]
       }
@@ -111263,6 +111291,12 @@
         "3sZDfwlWSIvFaxs3/g2inbiOlkxpQRVrUi7ap4CPP1M=",
         "salure_helpers_sharepoint-1.0.4.tar.gz"
       ]
+    },
+    "1.0.5": {
+      "sdist": [
+        "cXTF95gK4UO8QBWEvqcXtjUtjBJWGlYmHmBX9HeZVaE=",
+        "salure_helpers_sharepoint-1.0.5.tar.gz"
+      ]
     }
   },
   "samsungctl": {
@@ -135023,6 +135057,22 @@
           "cp38"
         ]
       }
+    },
+    "2.12.0.dev20230118": {
+      "wheels": {
+        "tf_nightly_cpu_aws-2.12.0.dev20230118-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "/r6cXSY9UyJz18/Y5DtOkDPTf/pgNylFSEeBsqoXMxs=",
+          "cp310"
+        ],
+        "tf_nightly_cpu_aws-2.12.0.dev20230118-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "AkpiRItBYnZnhWF/cvgoVwohiwVpca/2XNT/vsWMkzo=",
+          "cp38"
+        ],
+        "tf_nightly_cpu_aws-2.12.0.dev20230118-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "YSx8bkC0wAUtBno0YtF57JajOopPNLys3z7MrFbtp3k=",
+          "cp39"
+        ]
+      }
     }
   },
   "tffm": {
@@ -147709,6 +147759,12 @@
         "9rrnRxf4RwqLerNqXnZVpQD5IGv5ww6iOsmT6osP8Qs=",
         "whatap-python-1.2.6.tar.gz"
       ]
+    },
+    "1.2.8": {
+      "sdist": [
+        "NWKFh2rv0n/gZ+fo+oUJ+o88VhvbJ/1ATYhpn3Q5wr0=",
+        "whatap-python-1.2.8.tar.gz"
+      ]
     }
   },
   "whats-that-code": {
@@ -151818,6 +151874,30 @@
       "wheels": {
         "zigzag_dse-2.0.6-py3-none-any.whl": [
           "y3GVBruT8DtrC1UAQ1WncW3Rfj/8NYme3hF4j2KAAJY=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.7": {
+      "sdist": [
+        "mHuWar21idJoV2wD2NPacgjBgUH4q/STeAhH9GRFIYc=",
+        "zigzag-dse-2.0.7.tar.gz"
+      ],
+      "wheels": {
+        "zigzag_dse-2.0.7-py3-none-any.whl": [
+          "D9BeFx65Vg7r8kedMyPnb64JB6EZc6Aq5KumNzocNks=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.8": {
+      "sdist": [
+        "He0dmCEqErquNuW25+UHOtVyBL1joiTvObbZFMl7zJs=",
+        "zigzag-dse-2.0.8.tar.gz"
+      ],
+      "wheels": {
+        "zigzag_dse-2.0.8-py3-none-any.whl": [
+          "wqSh8o/6chnDPfq5UhScMOM4bkmj5rmAKHDqMl8baA4=",
           "py3"
         ]
       }

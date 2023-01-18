@@ -92133,6 +92133,14 @@
           "py3"
         ]
       }
+    },
+    "14.0.6.6.0": {
+      "wheels": {
+        "odoo14_addon_l10n_ro_stock_report-14.0.6.6.0-py3-none-any.whl": [
+          "hZnV+T8g/8r4VSUWhKR62ZAWfZ7lvwB4idGzhlAuqB0=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo14-addon-mrp-progress-button": {
@@ -102528,6 +102536,18 @@
       "wheels": {
         "py_book_util-0.1.34-py3-none-any.whl": [
           "ZVSOX0/y4/Zgi7lfuw82/DTqflzFigo7ukMXWYuBD7Y=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.35": {
+      "sdist": [
+        "weWM+xMX43ZbbJof0tVHr0TU6PMnTV1yjjIx/JqLTwg=",
+        "py_book_util-0.1.35.tar.gz"
+      ],
+      "wheels": {
+        "py_book_util-0.1.35-py3-none-any.whl": [
+          "1AT3WxaOsVXP4oNnMEekjsxLQnGVIFKN5ay8FGGvO7k=",
           "py3"
         ]
       }
@@ -138543,6 +138563,18 @@
           "py3"
         ]
       }
+    },
+    "0.8.6": {
+      "sdist": [
+        "45xAAMpw1Zglbso/zgdeI/SLIbzqQWiuP9bq1f9FDO8=",
+        "uorf4u-0.8.6.tar.gz"
+      ],
+      "wheels": {
+        "uorf4u-0.8.6-py3-none-any.whl": [
+          "rblSD5d6UDabQk3VScQMK8MbgJNrFtPSqwV8LCV/t9Y=",
+          "py3"
+        ]
+      }
     }
   },
   "up42-py": {
@@ -149524,6 +149556,130 @@
         ],
         "zope.proxy-4.6.1-cp39-cp39-win_amd64.whl": [
           "9/AiZZ/YWYV9ZN2LVeWQFqmH70GSzSZUnr0OxWO6pD8=",
+          "cp39"
+        ]
+      }
+    },
+    "5.0.0": {
+      "sdist": [
+        "b6RMl6QStNxR4vX9Tcc8W9SZ01KA+IzSvNJviuHkV3s=",
+        "zope.proxy-5.0.0.tar.gz"
+      ],
+      "wheels": {
+        "zope.proxy-5.0.0-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "ImrgedVmShZuhh/897snRNfYULs17SaSPOIQnLSt+I8=",
+          "cp310"
+        ],
+        "zope.proxy-5.0.0-cp310-cp310-macosx_11_0_arm64.whl": [
+          "qUKn/jy7EQbcxMKm1yIjd7nuGqkWNKWHIUQ3O9k2QTM=",
+          "cp310"
+        ],
+        "zope.proxy-5.0.0-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "JTMZCbI0NJHM5xqVBsRT25396wDrCb0ljiGcRPMUb68=",
+          "cp310"
+        ],
+        "zope.proxy-5.0.0-cp310-cp310-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "RNfxMi+yuIfWMIuJvUaiFR+ex4dNR2+AwDjZYplwakA=",
+          "cp310"
+        ],
+        "zope.proxy-5.0.0-cp310-cp310-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "tL6N3sRtdel6n+qpQYo9LH4FU+SsrW0T7KKhdu0RkIw=",
+          "cp310"
+        ],
+        "zope.proxy-5.0.0-cp310-cp310-win_amd64.whl": [
+          "j4jUNIcyKMWBuvPKwbYwyDQL3YPBW1bHWy27FfnyNoQ=",
+          "cp310"
+        ],
+        "zope.proxy-5.0.0-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "Itn2PwSjajbPjMMbJDHN9K6W8OXCdeMjgUKo/1+qqS8=",
+          "cp311"
+        ],
+        "zope.proxy-5.0.0-cp311-cp311-macosx_11_0_arm64.whl": [
+          "74jh4BOFF14kJPGzkJswTJi643ehV5DHcgMGDv0Ck0A=",
+          "cp311"
+        ],
+        "zope.proxy-5.0.0-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "fbnRV3xratHYdMMuFQf1ksS2AkaYXknRuxllw53FgCg=",
+          "cp311"
+        ],
+        "zope.proxy-5.0.0-cp311-cp311-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "nNAUmtDufdVNMn2c6m3qk++w+bp/CqsZ4hjrtGOZZMQ=",
+          "cp311"
+        ],
+        "zope.proxy-5.0.0-cp311-cp311-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "kw/Sn7gW34Mp2Yorj4gV4OMQqbrlE72i+O67U9J4RW8=",
+          "cp311"
+        ],
+        "zope.proxy-5.0.0-cp311-cp311-win_amd64.whl": [
+          "wVmUKKkZ2nKpuSVLw8MUy8dIAFRLtimu4gvAV0Jtco4=",
+          "cp311"
+        ],
+        "zope.proxy-5.0.0-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "zbC0Mltt7Hl5rACZKl6onVDhKZJG5c/ShFcyrBVlkh8=",
+          "cp37"
+        ],
+        "zope.proxy-5.0.0-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "R0VVcTBmshOB0QkjGo1s6FAvazl/BuJ64zocT4Tgcmw=",
+          "cp37"
+        ],
+        "zope.proxy-5.0.0-cp37-cp37m-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "7etXE8eJE7Is0f7fSl0rHcVKrk917MCkzvi9YHrq/xg=",
+          "cp37"
+        ],
+        "zope.proxy-5.0.0-cp37-cp37m-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "NxllT2zoHKI95uUsLoIhdUzAO2gWSCdfnyUDAycMl3Y=",
+          "cp37"
+        ],
+        "zope.proxy-5.0.0-cp37-cp37m-win_amd64.whl": [
+          "CiZaAUsw9DeLYpHScQi2zXS2GC/pA/fIFpextdml5XI=",
+          "cp37"
+        ],
+        "zope.proxy-5.0.0-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "jfHuYPml09vK4Bm9tP5r97rF88XKrIslKvewW1OO0zo=",
+          "cp38"
+        ],
+        "zope.proxy-5.0.0-cp38-cp38-macosx_11_0_arm64.whl": [
+          "5ZPCj4Wuxmzkhhz8aHT7MO8uM8PQNFKSSjdXiZt1eyY=",
+          "cp38"
+        ],
+        "zope.proxy-5.0.0-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "ocVqklfV+crSzo4A/vbuGIz2W9Qwa/LC1tjPrcVifS4=",
+          "cp38"
+        ],
+        "zope.proxy-5.0.0-cp38-cp38-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "jvD2LZ1IukoUeOkCpDMeiFHCL2aDuvotqLwaif+dfe4=",
+          "cp38"
+        ],
+        "zope.proxy-5.0.0-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "GEtR8DJS2IMpqKlPJHZQhhOwbCWUx27jL4z062fV1NM=",
+          "cp38"
+        ],
+        "zope.proxy-5.0.0-cp38-cp38-win_amd64.whl": [
+          "M33LUsF1FQbVxpPCfQybIXCvHTZCxfmnLCQMUbuOcFQ=",
+          "cp38"
+        ],
+        "zope.proxy-5.0.0-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "JvFaOW72GmDW8es5jq4MNOXJcNDVxjZcCUzMovH43XU=",
+          "cp39"
+        ],
+        "zope.proxy-5.0.0-cp39-cp39-macosx_11_0_arm64.whl": [
+          "E/FrwCgKCf2Oj/W+Hx+ysUmsSVs2q0F2S7VuaMuXAWk=",
+          "cp39"
+        ],
+        "zope.proxy-5.0.0-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "Aufvf3RQAS4FePU3RXmQNhiVaeJJxcW8Nr9L/xjFo3I=",
+          "cp39"
+        ],
+        "zope.proxy-5.0.0-cp39-cp39-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "CbWxqa0/EwCf/Mt/J/d0t03MEp/lgJja3Kw7ZwKNzPA=",
+          "cp39"
+        ],
+        "zope.proxy-5.0.0-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "HMAYvfeXQ6ewZTbte27FMNg6B/nxaAXqin0ypcpL2nI=",
+          "cp39"
+        ],
+        "zope.proxy-5.0.0-cp39-cp39-win_amd64.whl": [
+          "Az2Rkv3uqN+FVYxzgrtZaLYItMY5VDX6bs4Lt2FnEQo=",
           "cp39"
         ]
       }

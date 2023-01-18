@@ -650,6 +650,58 @@
         ]
       }
     },
+    "1.2.17": {
+      "wheels": {
+        "accera_llvm-1.2.17-cp310-cp310-macosx_11_0_x86_64.whl": [
+          "z7vpyYpySJPnOzUaK7Gm518vq4MEp/u3JMe3cgMkxOg=",
+          "cp310"
+        ],
+        "accera_llvm-1.2.17-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "LFAv1x7NgG4EKI3fYa0PSsyp1xQH1po8fWsxGLwolfA=",
+          "cp310"
+        ],
+        "accera_llvm-1.2.17-cp310-cp310-win_amd64.whl": [
+          "Q9zfJ0ChL4xHYfhiwCbHQM2+D9ym3Js0nHhM+RSTRms=",
+          "cp310"
+        ],
+        "accera_llvm-1.2.17-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "wtnaz5a9a3Gv2V+vRgd3AjxF7nyQy74danhnr+xdPso=",
+          "cp37"
+        ],
+        "accera_llvm-1.2.17-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "wXAepHusS3BmdLGe3cMMtMq7adFLxvrlT66r02zcEQI=",
+          "cp37"
+        ],
+        "accera_llvm-1.2.17-cp37-cp37m-win_amd64.whl": [
+          "LVRXcxTtoOxfgtKYGvjuSNVjqbDagFPnuBnCGGyKPV8=",
+          "cp37"
+        ],
+        "accera_llvm-1.2.17-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "nzdjzRXmDXXnpNZZvaYGOm7qW6qKBdb4V9tLfNq10dc=",
+          "cp38"
+        ],
+        "accera_llvm-1.2.17-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "/wTYWcn965UBf02MToaGkbJOUhuCv7tAz6es9Pj14MM=",
+          "cp38"
+        ],
+        "accera_llvm-1.2.17-cp38-cp38-win_amd64.whl": [
+          "w6o/Nff78rkHoQjFX9UxGwUCqkBychz4ya1gFOlnFHg=",
+          "cp38"
+        ],
+        "accera_llvm-1.2.17-cp39-cp39-macosx_11_0_x86_64.whl": [
+          "UDdPESaFLVrNjku87fqkiPlBruxoWp8gRrTyNlTX4qY=",
+          "cp39"
+        ],
+        "accera_llvm-1.2.17-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "GdQMua7BjRomM3EjpvCSXSkO41FDWoK49SJovyfgNPQ=",
+          "cp39"
+        ],
+        "accera_llvm-1.2.17-cp39-cp39-win_amd64.whl": [
+          "PaevOMuyg8Ck+8E3wo6LBemK2rmsiN1lSa/KSU944+o=",
+          "cp39"
+        ]
+      }
+    },
     "1.2.3": {
       "wheels": {
         "accera_llvm-1.2.3-cp310-cp310-macosx_10_15_x86_64.whl": [
@@ -9178,6 +9230,24 @@
       "sdist": [
         "lxpNnJJdy3LLcCs8rzNl1V03ls/R4iw+DGYSo7aXV2s=",
         "asyncsqlite3-0.1.1.tar.gz"
+      ]
+    },
+    "0.1.2": {
+      "sdist": [
+        "rkJjkGErCNql6frES5bHjifnNv2ADMVENVojt9Tom3A=",
+        "asyncsqlite3-0.1.2.tar.gz"
+      ]
+    },
+    "0.1.3": {
+      "sdist": [
+        "XE0u4utsxJa8TqKh7Rd/8m6LTIRx6AuZUBwGFbq8AQo=",
+        "asyncsqlite3-0.1.3.tar.gz"
+      ]
+    },
+    "0.1.4": {
+      "sdist": [
+        "xx+/l6CyIHUvrEssYhdJ+F1duZ+4fid8ROrpoUteGZk=",
+        "asyncsqlite3-0.1.4.tar.gz"
       ]
     }
   },
@@ -46748,6 +46818,12 @@
         "energinet-ml-sdk-0.10.1.dev258.tar.gz"
       ]
     },
+    "0.10.1.dev259": {
+      "sdist": [
+        "waVqQMw+P8XYe2CPjDqhFkd6+CL9zKl+efQvghmsmPc=",
+        "energinet-ml-sdk-0.10.1.dev259.tar.gz"
+      ]
+    },
     "0.5.16": {
       "sdist": [
         "0SSiVPr+B4e8ALaHwmidR2UEZUthA0IuPdfgJtuQYGE=",
@@ -79882,14 +79958,14 @@
         ]
       }
     },
-    "0.4.0rc1": {
+    "0.4.0rc2": {
       "sdist": [
-        "dEzq09TtPqDg+qr+AASECt8qlkxbc+FdB/ntgGEssKs=",
-        "mitzu-0.4.0rc1.tar.gz"
+        "hn++5or+ebJ1Fxr2d7ClYFOALbA29Id0vwweI55vjMQ=",
+        "mitzu-0.4.0rc2.tar.gz"
       ],
       "wheels": {
-        "mitzu-0.4.0rc1-py3-none-any.whl": [
-          "WT/DEbaveYRz2NIf6eUk4eM8lv+JE6yVctckQxEzbrk=",
+        "mitzu-0.4.0rc2-py3-none-any.whl": [
+          "XiV5LcY2wExN7Sv3YRLPDanxdOctlYAfC/CZk0pzFqM=",
           "py3"
         ]
       }
@@ -117337,6 +117413,12 @@
         "MQ1kjylBdpYkGuY7BUcVNSc6jxmj76NA+eTknVndr7I=",
         "Retro3D-1.5.tar.gz"
       ]
+    },
+    "1.6": {
+      "sdist": [
+        "V7rvlCcxiZGJGGRgjAhMigAENDguc+ZUBSD8Ut7WpM8=",
+        "Retro3D-1.6.tar.gz"
+      ]
     }
   },
   "rfgb": {
@@ -128718,6 +128800,18 @@
         ]
       }
     },
+    "0.1.158": {
+      "sdist": [
+        "JnBvkUGBOoMANsu4XYuJ5h134UvSISzbYYDCL+9SmUw=",
+        "state-machine-semaphore-0.1.158.tar.gz"
+      ],
+      "wheels": {
+        "state_machine_semaphore-0.1.158-py3-none-any.whl": [
+          "HvaZdvtZNw8PW/8umrhLBK7ydip7QpEbMoorOhlq9n4=",
+          "py3"
+        ]
+      }
+    },
     "0.1.16": {
       "sdist": [
         "QHf0C8enOZxipabtT4JXAYg85nYqYugQ6BOZ3RbAOYQ=",
@@ -138004,6 +138098,18 @@
       "wheels": {
         "torchtnt-0.0.4-py3-none-any.whl": [
           "y3ti9jnUQtWG2+D7FoqBgrTWm0NzGDBSWXN6jRZxXS0=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.5": {
+      "sdist": [
+        "JvGGzViP+xfZi2D1oy55mEJs+fjK3C2QIw1raQDawrc=",
+        "torchtnt-0.0.5.tar.gz"
+      ],
+      "wheels": {
+        "torchtnt-0.0.5-py3-none-any.whl": [
+          "8hWaV6QeZMAgfppd8snXBDP/8HoRCXcoJEO6PTsXlb0=",
           "py3"
         ]
       }

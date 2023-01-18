@@ -13390,6 +13390,18 @@
         ]
       }
     },
+    "2.2.0": {
+      "wheels": {
+        "bigdl-2.2.0-py3-none-macosx_10_11_x86_64.whl": [
+          "8qsy7uwaAj1vXaLEYZtSCpDpafkNO4Ezi9rFNci6mfg=",
+          "py3"
+        ],
+        "bigdl-2.2.0-py3-none-manylinux1_x86_64.whl": [
+          "PnVrZrfjFyeRpPTUtbtlRY9iKKHnj44YEc15l6JcP7k=",
+          "py3"
+        ]
+      }
+    },
     "2.2.0b20220923": {
       "wheels": {
         "bigdl-2.2.0b20220923-py3-none-macosx_10_11_x86_64.whl": [
@@ -16269,6 +16281,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.51": {
+      "sdist": [
+        "iQc42IBABAAYhPBKXy64S7r8yNOis+G0/zFiU7i5Z04=",
+        "botocore-a-la-carte-securityhub-1.29.51.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_securityhub-1.29.51-py3-none-any.whl": [
+          "KBJWfNtueiuc8rBI2Ftu1Zugn2ESsMPtcVaP4K5rswc=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-translate": {
@@ -16376,6 +16400,18 @@
       "wheels": {
         "botocore_a_la_carte_translate-1.29.50-py3-none-any.whl": [
           "3qrP/eiKUm2NiQ7MfpnPZtw4TnuFoEkDdNOXAyBI4as=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.51": {
+      "sdist": [
+        "qkDkTgGe3C7f1VhzMbEf7Ozs0IAniTjf3kp8Dp3DIUI=",
+        "botocore-a-la-carte-translate-1.29.51.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_translate-1.29.51-py3-none-any.whl": [
+          "rL7YRkiUoqXMtBaVOfndRf8KnZwdTocK8hr4bKFgstI=",
           "py3"
         ]
       }
@@ -25225,6 +25261,18 @@
           "py3"
         ]
       }
+    },
+    "0.7.5": {
+      "sdist": [
+        "1ZpqFhWkegkjOLhS6vO98o1hvxTD9w2avTiLw0cCyEI=",
+        "CustomIntents-0.7.5.tar.gz"
+      ],
+      "wheels": {
+        "CustomIntents-0.7.5-py3-none-any.whl": [
+          "s2hP7lNyhl9ndFfCZlmwy2fa1QM2YmgQcWmi2s/GOhQ=",
+          "py3"
+        ]
+      }
     }
   },
   "cvr-osc-lib": {
@@ -32829,6 +32877,20 @@
         "Uz2Ce11kNWBdC1IGTztgm+XQbSADeei4WZgEXuoe9Qg=",
         "djangocms-contact-0.1.8.tar.gz"
       ]
+    }
+  },
+  "djangocms-form-builder": {
+    "0.1": {
+      "sdist": [
+        "EdtF1ChCtw9c7YdHYASciCgnrA3IroS8iO2kR9II6Hk=",
+        "djangocms-form-builder-0.1.tar.gz"
+      ],
+      "wheels": {
+        "djangocms_form_builder-0.1-py3-none-any.whl": [
+          "n+iLuNXygi2LXfV4vP1yrA017yLio43LqbDJgnBu4mM=",
+          "py3"
+        ]
+      }
     }
   },
   "djangocms-layouter": {
@@ -50234,6 +50296,18 @@
       "wheels": {
         "jaxkern_nightly-0.0.4.dev20230117-py3-none-any.whl": [
           "+XqyrbuF/cNmr3bWpzrPqfizLUVvmRWt+9/o8lFUMnk=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4.dev20230118": {
+      "sdist": [
+        "z5fCPz7J/HMLEEMAyEM1dX3MNm5W9uynP/a2uW1pgEM=",
+        "jaxkern-nightly-0.0.4.dev20230118.tar.gz"
+      ],
+      "wheels": {
+        "jaxkern_nightly-0.0.4.dev20230118-py3-none-any.whl": [
+          "Y38ggQQCHUEIs0yoFolN9e0ciJGIGahMc/EAeVYI5Go=",
           "py3"
         ]
       }
@@ -72575,6 +72649,74 @@
           "cp39"
         ]
       }
+    },
+    "0.5.1": {
+      "sdist": [
+        "jm1r7fsO/oACOJesd68FV5wcrRYJW2jpGHS+J0rd+kc=",
+        "nucypher_core-0.5.1.tar.gz"
+      ],
+      "wheels": {
+        "nucypher_core-0.5.1-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "gompt6qSRnJutW4r2uwu6gwfgB2e5oNFoWqpCdP4LWE=",
+          "cp310"
+        ],
+        "nucypher_core-0.5.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "6LUygJLSxph6ypfHlnWknc3vUAP5VRSOCVs0PfwwC+o=",
+          "cp310"
+        ],
+        "nucypher_core-0.5.1-cp310-cp310-win_amd64.whl": [
+          "tahP4ean0/uJg/X/BBwA5uXHbxXSt1p+I6W/cA5dlI8=",
+          "cp310"
+        ],
+        "nucypher_core-0.5.1-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "fsD8tKjiGUofmiD1NnUqEIeFRsoCoEtxcedgv40hD8c=",
+          "cp311"
+        ],
+        "nucypher_core-0.5.1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "n/bKbpr4Y7SKizWP4x8KU49ZZnhkMnse9gyW20cFqB8=",
+          "cp311"
+        ],
+        "nucypher_core-0.5.1-cp311-cp311-win_amd64.whl": [
+          "y7jsprpjF4T0BRymDLpCiDM9XDxxKRFjEydCZiQKlFk=",
+          "cp311"
+        ],
+        "nucypher_core-0.5.1-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "M368rzAsFbK19mGUoD70/kK3asJ2NR0/aXRsPsnH7vQ=",
+          "cp37"
+        ],
+        "nucypher_core-0.5.1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "alqtZer/bn92jn+ZlaJsnwLdIFoVXi8rPTsgtpmURKM=",
+          "cp37"
+        ],
+        "nucypher_core-0.5.1-cp37-cp37m-win_amd64.whl": [
+          "MPcvAed1J3BjmAaRGbQVCR9+GRPCrJrZe45xAUPVU+Y=",
+          "cp37"
+        ],
+        "nucypher_core-0.5.1-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "nP0XhTiZXDNqL/jwrxKkvBN51NmEbbcp42bF/YMhVqo=",
+          "cp38"
+        ],
+        "nucypher_core-0.5.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "bSJ0e1A1Fs6PJ9KJFzaLLMuozNrvOAtoisgYqRkLP8o=",
+          "cp38"
+        ],
+        "nucypher_core-0.5.1-cp38-cp38-win_amd64.whl": [
+          "Dlbg8lblSAZSCRVYU/phwlOhpYFTOctRnRUw/6kDeQs=",
+          "cp38"
+        ],
+        "nucypher_core-0.5.1-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "Wr4T/588LMJUAcnRBxwxH5XtMU9jMSgfEv2ozD673wQ=",
+          "cp39"
+        ],
+        "nucypher_core-0.5.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "iKOVWt+C1r/BhHDFittSb57JKnc4S2BjAjnertvlr7k=",
+          "cp39"
+        ],
+        "nucypher_core-0.5.1-cp39-cp39-win_amd64.whl": [
+          "ab3GrM//qsTUl5uL0eCq8FS4kYlojZ0cYQ5AbFGjI7I=",
+          "cp39"
+        ]
+      }
     }
   },
   "nukikata": {
@@ -74465,6 +74607,14 @@
           "py3"
         ]
       }
+    },
+    "16.0.1.0.0.3": {
+      "wheels": {
+        "odoo_addon_account_cash_deposit-16.0.1.0.0.3-py3-none-any.whl": [
+          "weRnpJv5lKegzCZtBF9Oh9xXE4PfJ9f3SvSMp0RdXGk=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo-addon-github-connector": {
@@ -74590,6 +74740,14 @@
       "wheels": {
         "odoo_addons_oca_hr_attendance-15.0.20221111.0-py3-none-any.whl": [
           "FgbID9xJ8nZqgEyCtKGeXlPTfOcaje5YHop22WlRH8U=",
+          "py3"
+        ]
+      }
+    },
+    "16.0.20230117.0": {
+      "wheels": {
+        "odoo_addons_oca_hr_attendance-16.0.20230117.0-py3-none-any.whl": [
+          "ltEaWdR9oCRsF7vyYJeP9iQnzlOPs8NrbrhNHe7tVq4=",
           "py3"
         ]
       }

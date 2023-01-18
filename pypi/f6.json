@@ -522,6 +522,58 @@
         ]
       }
     },
+    "1.2.17": {
+      "wheels": {
+        "accera_compilers-1.2.17-cp310-cp310-macosx_11_0_x86_64.whl": [
+          "RwbJNBYl3jkPm6KbJwYtdNzUTaa0MplGfEuGUFTI/wY=",
+          "cp310"
+        ],
+        "accera_compilers-1.2.17-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "4GAua0PsSkmdrax5pMJ9zvVTg7mxsNXekYdAUUA3jPA=",
+          "cp310"
+        ],
+        "accera_compilers-1.2.17-cp310-cp310-win_amd64.whl": [
+          "XP9WGfYt/QpmS7vw0oS8+C2ujNDsaLZHgSZr7NSOYS4=",
+          "cp310"
+        ],
+        "accera_compilers-1.2.17-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "9mhtA7C0FjgeynUDJUI2RN5kgp2zKEmk6f6hCj6PRcc=",
+          "cp37"
+        ],
+        "accera_compilers-1.2.17-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ibcJ4Gn8acaRaO50KEhH+oYxwV4aVNpA/sedDMDsaXI=",
+          "cp37"
+        ],
+        "accera_compilers-1.2.17-cp37-cp37m-win_amd64.whl": [
+          "m0RuWSa3u8R4s0RnU/3jQ9+xr5p6pncBe9BXe9wPbY0=",
+          "cp37"
+        ],
+        "accera_compilers-1.2.17-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "WxUw2iRygmrszfFQjylg8YwTugPxOZ2I3MkuuIG8H2g=",
+          "cp38"
+        ],
+        "accera_compilers-1.2.17-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "MasIYYifFo4o2I6x8XqQ90bopZMfEOamwf+fYWxYtGU=",
+          "cp38"
+        ],
+        "accera_compilers-1.2.17-cp38-cp38-win_amd64.whl": [
+          "YLn189UGRGiBZj70URs70YL6eL9QngSBKQqqLA3NaeM=",
+          "cp38"
+        ],
+        "accera_compilers-1.2.17-cp39-cp39-macosx_11_0_x86_64.whl": [
+          "OUcDCaLKSpqlDCzFTOeyVR/Mf294IXn0aab99qgq0yw=",
+          "cp39"
+        ],
+        "accera_compilers-1.2.17-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "7dTtbEJ0mmHiyYAQjPTHFcHiI1u29GnNC1GzsE0AJQ4=",
+          "cp39"
+        ],
+        "accera_compilers-1.2.17-cp39-cp39-win_amd64.whl": [
+          "h7mWImpAv0V4f+v7H3I1Tk8BKNwJrc89ecob6bxFlLE=",
+          "cp39"
+        ]
+      }
+    },
     "1.2.3": {
       "wheels": {
         "accera_compilers-1.2.3-cp310-cp310-macosx_10_15_x86_64.whl": [
@@ -42813,6 +42865,18 @@
           "py3"
         ]
       }
+    },
+    "0.4.0.dev1066": {
+      "sdist": [
+        "ShoUBSbi1grXzqLPpTizfzF8I1ggipnV72NrW76gsAw=",
+        "flet_core-0.4.0.dev1066.tar.gz"
+      ],
+      "wheels": {
+        "flet_core-0.4.0.dev1066-py3-none-any.whl": [
+          "efZelaLBKixjThwheUJ+To8pZymTawSM3tZSSThIjl8=",
+          "py3"
+        ]
+      }
     }
   },
   "flockdoc": {
@@ -82775,6 +82839,14 @@
           "py3"
         ]
       }
+    },
+    "1.0.1": {
+      "wheels": {
+        "NEMO_periodic_table_question-1.0.1-py3-none-any.whl": [
+          "cuddI95Fyb2/jDmoP8kurVZ3Gq7zzo2yr1jUthvwczg=",
+          "py3"
+        ]
+      }
     }
   },
   "neolite": {
@@ -106636,6 +106708,86 @@
         ],
         "pyarc2-0.1.1-cp39-none-win_amd64.whl": [
           "jkficIhAgiQAT9IVyV43U81jNNJMFqEpxFfPOzM1sNM=",
+          "cp39"
+        ]
+      }
+    },
+    "0.2.0": {
+      "sdist": [
+        "/aFZOhT7p0epMDklCLL7LvV70o/w5ETRCJU3qPrcl1Y=",
+        "pyarc2-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "pyarc2-0.2.0-cp310-cp310-manylinux_2_24_x86_64.whl": [
+          "C2Z/q4G+tbvksv2X7RCOWdfFyaJKfwt3fbWUeP5kCIU=",
+          "cp310"
+        ],
+        "pyarc2-0.2.0-cp310-none-win_amd64.whl": [
+          "uYXywgzdsigVim2jhdCmxQUQznrWG8qx9pGdv5b9Zp0=",
+          "cp310"
+        ],
+        "pyarc2-0.2.0-cp311-cp311-manylinux_2_24_x86_64.whl": [
+          "A3CyLlFqhZqTkXVU1XWTjX6Hiiplyz9plypCW2y2mps=",
+          "cp311"
+        ],
+        "pyarc2-0.2.0-cp311-none-win_amd64.whl": [
+          "OqPK5Y/KmAgfadYpuoGssbhp7MmV8fRJFmU0wWUR7bI=",
+          "cp311"
+        ],
+        "pyarc2-0.2.0-cp38-cp38-manylinux_2_24_x86_64.whl": [
+          "5P1LPdPlsdCjzppeAASWo6VHfZHk4C8YyuMxK2ZAZq4=",
+          "cp38"
+        ],
+        "pyarc2-0.2.0-cp38-none-win_amd64.whl": [
+          "zCU22gMIC2IMKCXsBFD79tmXVG1mE5VvyuUcH8RsUk0=",
+          "cp38"
+        ],
+        "pyarc2-0.2.0-cp39-cp39-manylinux_2_24_x86_64.whl": [
+          "nK6PrQTBvqhTguFoWsuQgBzqZheO+iyzYD8fWkfOlyY=",
+          "cp39"
+        ],
+        "pyarc2-0.2.0-cp39-none-win_amd64.whl": [
+          "nyTJHlyVLJbOc52VIyaxfyqCla1QdLyaB7dzk8E0xeM=",
+          "cp39"
+        ]
+      }
+    },
+    "0.2.1": {
+      "sdist": [
+        "ABSpKxxqbB4BSR0TLB6Yasna3Ok8MECAmWV5i4tXnc0=",
+        "pyarc2-0.2.1.tar.gz"
+      ],
+      "wheels": {
+        "pyarc2-0.2.1-cp310-cp310-manylinux_2_24_x86_64.whl": [
+          "pAEYCQINV6WR0mQ9IY2yFwuB2b5xifTOCbwFx3VI8e0=",
+          "cp310"
+        ],
+        "pyarc2-0.2.1-cp310-none-win_amd64.whl": [
+          "mLkXPZLpOCPCTMeUQNxI/xdqQTc5xzmfsgIKAXEVcqQ=",
+          "cp310"
+        ],
+        "pyarc2-0.2.1-cp311-cp311-manylinux_2_24_x86_64.whl": [
+          "BfEVJnFvA4ZvIU+fx/GAt2IjKlmo7Zz5ONEjhvDzvb0=",
+          "cp311"
+        ],
+        "pyarc2-0.2.1-cp311-none-win_amd64.whl": [
+          "MKz/yFkkWFxkoowhWRsCWjfGaIBt6Em3UjcbX3sOgJM=",
+          "cp311"
+        ],
+        "pyarc2-0.2.1-cp38-cp38-manylinux_2_24_x86_64.whl": [
+          "2MmXBXDb0ACO7ipE9B3M5hczkS1+wcaECnm93MM1JLc=",
+          "cp38"
+        ],
+        "pyarc2-0.2.1-cp38-none-win_amd64.whl": [
+          "B+kaNmYERuULrUXEC5CXwmw03Wc+G9daEcjJZRzxvZc=",
+          "cp38"
+        ],
+        "pyarc2-0.2.1-cp39-cp39-manylinux_2_24_x86_64.whl": [
+          "PtODrbzJ01Ql2Fh7JIzHvAPGATYk5Znqau2AYv04kXw=",
+          "cp39"
+        ],
+        "pyarc2-0.2.1-cp39-none-win_amd64.whl": [
+          "6+jiI6SExr+dPGs9eGTke8CuqVu+VkIHMnsEwR5ZYYY=",
           "cp39"
         ]
       }

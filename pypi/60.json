@@ -12918,6 +12918,18 @@
         ]
       }
     },
+    "2.2.0": {
+      "wheels": {
+        "bigdl_friesian_spark3-2.2.0-py3-none-macosx_10_11_x86_64.whl": [
+          "igAGLv0B1cujmUT7q37NsUEpv+JE1L3uxQLpFNv4BRY=",
+          "py3"
+        ],
+        "bigdl_friesian_spark3-2.2.0-py3-none-manylinux1_x86_64.whl": [
+          "NdeeisqJfqS3wM1Ifi9euACs5pV2lt1UFbFEwOOdE8s=",
+          "py3"
+        ]
+      }
+    },
     "2.2.0b20220923": {
       "wheels": {
         "bigdl_friesian_spark3-2.2.0b20220923-py3-none-macosx_10_11_x86_64.whl": [
@@ -36901,6 +36913,18 @@
           "py3"
         ]
       }
+    },
+    "1.1": {
+      "sdist": [
+        "js9NHP+UM/6rs5rzEcO15AAcrHBVLfTxOusMuy/vULk=",
+        "esa_ptr-1.1.tar.gz"
+      ],
+      "wheels": {
+        "esa_ptr-1.1-py3-none-any.whl": [
+          "YrWyzRAYkGw8XSeGyx5NerglaC1DVaonPuqWRz8ILNc=",
+          "py3"
+        ]
+      }
     }
   },
   "esi-utils-rupture": {
@@ -47590,6 +47614,66 @@
       "wheels": {
         "gardener_cicd_libs-1.1966.0-py3-none-any.whl": [
           "P8ZinlKyK5JRIp9+JCcrLpHFLtuCZv30Hm6bHx+0YcA=",
+          "py3"
+        ]
+      }
+    },
+    "1.1967.0": {
+      "sdist": [
+        "ol/Y+z2hb+YvFr3JAqs9tIxe55U6yUfMq0hHBIajTYA=",
+        "gardener-cicd-libs-1.1967.0.tar.gz"
+      ],
+      "wheels": {
+        "gardener_cicd_libs-1.1967.0-py3-none-any.whl": [
+          "33h1QM0k9mFKMKZb5h38l6tsPAfpsfJCno9knRd7tZ8=",
+          "py3"
+        ]
+      }
+    },
+    "1.1968.0": {
+      "sdist": [
+        "xKfeGXui2HO1N1c/LqJEbgjAq7hLx7QvjqWawNiLXhU=",
+        "gardener-cicd-libs-1.1968.0.tar.gz"
+      ],
+      "wheels": {
+        "gardener_cicd_libs-1.1968.0-py3-none-any.whl": [
+          "nTYzBk/zsoOOxBP4NmLgPyh29kWzrsDrbEKn/6NxNzs=",
+          "py3"
+        ]
+      }
+    },
+    "1.1969.0": {
+      "sdist": [
+        "gHKl24jtE3lk+QsmzbwHjjavagr7cMj4xGrbJJIQbBo=",
+        "gardener-cicd-libs-1.1969.0.tar.gz"
+      ],
+      "wheels": {
+        "gardener_cicd_libs-1.1969.0-py3-none-any.whl": [
+          "Kt/2b9YGR4F8TE0tN7sv0WaEOi54qg+lozlpG1BdtpA=",
+          "py3"
+        ]
+      }
+    },
+    "1.1970.0": {
+      "sdist": [
+        "D5dz+4f1rIVqbJ85T12f7v/iOt6OldFCNcovnygqV4k=",
+        "gardener-cicd-libs-1.1970.0.tar.gz"
+      ],
+      "wheels": {
+        "gardener_cicd_libs-1.1970.0-py3-none-any.whl": [
+          "qdnwGn33/nxz2G2eOp/Etlx+ulr7db8NhljP0KTNXoE=",
+          "py3"
+        ]
+      }
+    },
+    "1.1971.0": {
+      "sdist": [
+        "qGdniZcmo5xB9B6Gv+/fZffBoHw99JlvHJM6JgYxKR0=",
+        "gardener-cicd-libs-1.1971.0.tar.gz"
+      ],
+      "wheels": {
+        "gardener_cicd_libs-1.1971.0-py3-none-any.whl": [
+          "+MhbdzQSaEQwMZUZ4nXSglq4JrXTLK9NEiSu4c42lsk=",
           "py3"
         ]
       }
@@ -79998,6 +80082,14 @@
         ]
       }
     },
+    "0.0.0.4": {
+      "wheels": {
+        "mongo_ninja_python-0.0.0.4-py2.py3-none-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "AK/wTWOJR6XBi5/B68q/RJrQwq1qL8OP96QHtGal++I=",
+          "py2.py3"
+        ]
+      }
+    },
     "1.11.1.0": {
       "wheels": {
         "mongo_ninja_python-1.11.1.0-py2.py3-none-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
@@ -103176,6 +103268,20 @@
       "wheels": {
         "poit-0.1.5-py3-none-any.whl": [
           "r1ZkJO8mIapI0dHozePlbzYlv26Z3IHUbIHKeR00ah0=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "polypharm": {
+    "0.3.1": {
+      "sdist": [
+        "dYTKACmh0p4InezjWGwnlz877CKGwp5lJZl8o6045no=",
+        "polypharm-0.3.1.tar.gz"
+      ],
+      "wheels": {
+        "polypharm-0.3.1-py3-none-any.whl": [
+          "Hb+/JDAzvoEYiCaa/HZtjzhfdniodMi+Dq6Ujy9MyaA=",
           "py3"
         ]
       }

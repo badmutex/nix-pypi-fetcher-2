@@ -13387,6 +13387,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.51": {
+      "sdist": [
+        "AJqDXzNqw76RC3HPxtV5xSzoHtDFd1h2hdYcK/jps8Q=",
+        "botocore-a-la-carte-lexv2-models-1.29.51.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_lexv2_models-1.29.51-py3-none-any.whl": [
+          "4nF5g947V1Q3Z992q2TJdBaY8pn07IM+KbxzFtBrCEw=",
+          "py3"
+        ]
+      }
     }
   },
   "botterino": {
@@ -26646,6 +26658,32 @@
       "wheels": {
         "django_nps-1.0.0-py3-none-any.whl": [
           "zOCT9VEGsMOa6ZC4l+q/0ah/61tGs1k8a7O28zDCndY=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "django-oasis4-auth": {
+    "1.0.0a3": {
+      "sdist": [
+        "PXsB7EFszZL6uSd0DIRNqfFmeqHWw2LC+1Hifdhom8Q=",
+        "django-oasis4-auth-1.0.0a3.tar.gz"
+      ],
+      "wheels": {
+        "django_oasis4_auth-1.0.0a3-py3-none-any.whl": [
+          "jEZIqf3n7zw//gmPyFTtkZcMU54KFdoaxPs6eV0C7n0=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.0a4": {
+      "sdist": [
+        "9ZSBTyH60iQSLVoxicSxTtn+sDLoV7ZOvDS+WHBHPe0=",
+        "django-oasis4-auth-1.0.0a4.tar.gz"
+      ],
+      "wheels": {
+        "django_oasis4_auth-1.0.0a4-py3-none-any.whl": [
+          "iH4BufJDpSXxq0RfUpDpX+p7PE0T5vfKpaXG28lugXU=",
           "py3"
         ]
       }
@@ -46889,6 +46927,18 @@
           "py3"
         ]
       }
+    },
+    "0.3.2": {
+      "sdist": [
+        "q/OdE/8rvS7hfRrY8dMP7zwwbdchvCtTejBFS6KgBcw=",
+        "geoapis-0.3.2.tar.gz"
+      ],
+      "wheels": {
+        "geoapis-0.3.2-py3-none-any.whl": [
+          "4RuPoLi9rr8RJTVFSwM1duLJiRpEPpGuAYvgJ0lbTJc=",
+          "py3"
+        ]
+      }
     }
   },
   "geoapps": {
@@ -47296,6 +47346,18 @@
       "wheels": {
         "geoapps-0.9.1-py3-none-any.whl": [
           "P0MKVWhYGhTUgf+INf35A1An5dkN/z+cf7WeHKCI74k=",
+          "py3"
+        ]
+      }
+    },
+    "0.9.2": {
+      "sdist": [
+        "sO1RU8UGBgWZbsyizHgGpr7FWwIiSf8mpNWSM5VPBKY=",
+        "geoapps-0.9.2.tar.gz"
+      ],
+      "wheels": {
+        "geoapps-0.9.2-py3-none-any.whl": [
+          "HNkOtcURISkygvqlN3oOgWp4PgNRi3/NzSK5NSG9Ywo=",
           "py3"
         ]
       }
@@ -65888,6 +65950,18 @@
         ]
       }
     },
+    "1.19.2.dev18": {
+      "sdist": [
+        "rlwQ5VTz8ic+1LxsRxy69CR9y5q8/fxqjgTDCOMz/Ls=",
+        "large-image-source-openjpeg-1.19.2.dev18.tar.gz"
+      ],
+      "wheels": {
+        "large_image_source_openjpeg-1.19.2.dev18-py3-none-any.whl": [
+          "Fk1kr9DAlGeUM1OkFHSRR6k4iuU1DO6j6APRQVs5fys=",
+          "py3"
+        ]
+      }
+    },
     "1.19.2.dev2": {
       "sdist": [
         "hoprihRZwELj4RpN2BQ60bDrUA2WfKKv2/OrKaxNX/g=",
@@ -79790,6 +79864,22 @@
         ],
         "navigator_auth-0.3.42-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "Ux4pb92Y61u8ueB0DAEDbfChnxIKdOY/YAzDRMReQW8=",
+          "cp39"
+        ]
+      }
+    },
+    "0.3.44": {
+      "wheels": {
+        "navigator_auth-0.3.44-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "d6pTzwUHBxSd4Gv9LORDsco0Ix4LHWMp/jUMMCnekwY=",
+          "cp310"
+        ],
+        "navigator_auth-0.3.44-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "U3Vk5E+knJSdlLjOGHQse5RW3XkC8b2vKXNu9nSfO5A=",
+          "cp38"
+        ],
+        "navigator_auth-0.3.44-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Wlesu5Hu5Pk772b3Lp4xBZFEdKICtg5wCV32Jhg3EJ0=",
           "cp39"
         ]
       }
@@ -114598,6 +114688,32 @@
         ],
         "scorpiotool-0.1.5-py3-none-any.whl": [
           "YbIEz1kL63FP1JJRBrGvsNACU9pykI0/UAPmAYuNVc4=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "scrapetools": {
+    "0.1.0": {
+      "sdist": [
+        "H/CezGjdA2yFh/Ptgf+CvhgNHLW2CbEduekd9s34LxI=",
+        "scrapetools-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "scrapetools-0.1.0-py3-none-any.whl": [
+          "o3beuiDYh/tZk0eWAgWmb7wgIM9MxlsM15Ot5ppK/5c=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.0": {
+      "sdist": [
+        "tmlcCpqxiA5pLW8qXpPYnC484yBuUAZGYlcxMjgxh4I=",
+        "scrapetools-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "scrapetools-0.2.0-py3-none-any.whl": [
+          "XqGhhi7DVovvO9szwfLVFwlJ0ceGJl8EJd8Ak3H19ic=",
           "py3"
         ]
       }

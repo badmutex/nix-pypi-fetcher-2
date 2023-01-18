@@ -840,6 +840,58 @@
         ]
       }
     },
+    "1.2.17": {
+      "wheels": {
+        "accera_gpu-1.2.17-cp310-cp310-macosx_11_0_x86_64.whl": [
+          "ZlrCaW5bOHVkAz7cPiCwjlLSiyQUOrJQsdesqjOVkUI=",
+          "cp310"
+        ],
+        "accera_gpu-1.2.17-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "R67DCKSzNTfWgDbR6FfGXeSV/TSrrSsAxVVhS35WnuM=",
+          "cp310"
+        ],
+        "accera_gpu-1.2.17-cp310-cp310-win_amd64.whl": [
+          "WXPTmjeuxJFk0uvdaCSVLXOvrgv8BeT4G6SS+sadCJ4=",
+          "cp310"
+        ],
+        "accera_gpu-1.2.17-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "imPql8Zljz9KVK1gGM61X5m6ZWO961w72orlTC+z5Ak=",
+          "cp37"
+        ],
+        "accera_gpu-1.2.17-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "6nZZ4z9Ocn0Jw+aE/7QElWxUVClkI70hNosLu2CCdf0=",
+          "cp37"
+        ],
+        "accera_gpu-1.2.17-cp37-cp37m-win_amd64.whl": [
+          "zgwiul66xo/9mAGpG74t2oOacfLbMTk3hhyBFDayPc4=",
+          "cp37"
+        ],
+        "accera_gpu-1.2.17-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "mfZNQBqwYpT+mFzuM8wIh+lEV4frKWteTk4ExH06fyE=",
+          "cp38"
+        ],
+        "accera_gpu-1.2.17-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "oIJMLrMCgEDPU7n33U+FH8FT7aiZ8WO9OT0R60I7Hp8=",
+          "cp38"
+        ],
+        "accera_gpu-1.2.17-cp38-cp38-win_amd64.whl": [
+          "6Gwk5PfsKDPvNK+Kpl4ERyWSlaVUDC76+5Em0DQSe74=",
+          "cp38"
+        ],
+        "accera_gpu-1.2.17-cp39-cp39-macosx_11_0_x86_64.whl": [
+          "n2w4qAMa6horURVmfkrSUfOXgF5cvBSQrp6q4NJTO6M=",
+          "cp39"
+        ],
+        "accera_gpu-1.2.17-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "J2aMRHJmXjv0DTsNPxBbLSMKP3xX+F7hjD+CO7L7Tpw=",
+          "cp39"
+        ],
+        "accera_gpu-1.2.17-cp39-cp39-win_amd64.whl": [
+          "sQJ0EM7a7JnP78LpBrfYdY++m/+sRf/V4dOQbZN7qNI=",
+          "cp39"
+        ]
+      }
+    },
     "1.2.3": {
       "wheels": {
         "accera_gpu-1.2.3-cp310-cp310-macosx_10_15_x86_64.whl": [
@@ -2166,6 +2218,12 @@
       "sdist": [
         "kX3WjBjFfQ0WHFJJwgXu/g/qIEYtXaT9zd9COi8JMw8=",
         "aeppl-nightly-0.1.0.dev20230117.tar.gz"
+      ]
+    },
+    "0.1.0.dev20230118": {
+      "sdist": [
+        "vVsP6SshXkWDmIA1iEtwwZNTkN+KvozSsApjvY6CQ4k=",
+        "aeppl-nightly-0.1.0.dev20230118.tar.gz"
       ]
     }
   },
@@ -16085,6 +16143,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.51": {
+      "sdist": [
+        "WxtthDYKsW3+9pyHRWjn/SvdD2hIUCf0YablVgbxuQA=",
+        "botocore-a-la-carte-cloudhsm-1.29.51.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_cloudhsm-1.29.51-py3-none-any.whl": [
+          "fr4MyDxoiVnP9uaRdJ6esYF2tk0O5fB1x3eK9EGo7sQ=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-qldb": {
@@ -16192,6 +16262,18 @@
       "wheels": {
         "botocore_a_la_carte_qldb-1.29.50-py3-none-any.whl": [
           "a6QYjjCioaRvz87hF99erDjpD7P3wfjQhp1FVqujcw4=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.51": {
+      "sdist": [
+        "xNxMR35G5wJjFqW/r+NH/DKDmBW58jyeSzzJC9mdKew=",
+        "botocore-a-la-carte-qldb-1.29.51.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_qldb-1.29.51-py3-none-any.whl": [
+          "nmgRqMa0FxWms0pMnm8xXtPE4z6LXgq0DMSLtfbxfOY=",
           "py3"
         ]
       }
@@ -71390,6 +71472,30 @@
       "wheels": {
         "mnist_dnn-0.1.1a3-py3-none-any.whl": [
           "j1kA3P9NUJ6S9ceKgEzGqO1GDx2gVah/eS9Jl5yK0XU=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1a4": {
+      "sdist": [
+        "p1ooUvGMXRFwxpdziNJRRur4vBVzhW9xG94GDo6FfRQ=",
+        "mnist-dnn-0.1.1a4.tar.gz"
+      ],
+      "wheels": {
+        "mnist_dnn-0.1.1a4-py3-none-any.whl": [
+          "A3K1FriRZM+m8pYD/MWFeuw3SpiSyarCbMzIIfouTmw=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1a5": {
+      "sdist": [
+        "GqXgQlfALyl3twRIMeaPWlJHb6Hk+mnP3Slg24kVT3I=",
+        "mnist-dnn-0.1.1a5.tar.gz"
+      ],
+      "wheels": {
+        "mnist_dnn-0.1.1a5-py3-none-any.whl": [
+          "BQQDDuDDmTYag454B4MmTe91CKradWegp5euTTgiVFk=",
           "py3"
         ]
       }
@@ -153998,6 +154104,18 @@
       "sdist": [
         "+LH9jrr7lkixBU9nEog1q8ez6soGIUI8i3gVPnLdV54=",
         "UC-Quantum-tools-0.1.12.tar.gz"
+      ]
+    },
+    "0.1.14": {
+      "sdist": [
+        "eSQplM6t4wI3kirh1B/n/2cWjO3CE1bIVVnCxDau9fw=",
+        "UC-Quantum-tools-0.1.14.tar.gz"
+      ]
+    },
+    "0.1.15": {
+      "sdist": [
+        "nLusBAJ2WrNV++biRiGRrNzagt4czHadEm7OHPPzL4I=",
+        "UC-Quantum-tools-0.1.15.tar.gz"
       ]
     },
     "0.1.5": {

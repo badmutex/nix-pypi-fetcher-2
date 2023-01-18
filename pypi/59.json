@@ -5280,6 +5280,18 @@
         ]
       }
     },
+    "7.2.0": {
+      "sdist": [
+        "Fsemf0O65c/W2Tjrhpej1EOS4mzOnAbPyCrxw7qNV2I=",
+        "apache-airflow-providers-slack-7.2.0.tar.gz"
+      ],
+      "wheels": {
+        "apache_airflow_providers_slack-7.2.0-py3-none-any.whl": [
+          "5+Eqw9uPTxpdhaL8E0gYnZle9DCQ86PiDXP44MQiuPE=",
+          "py3"
+        ]
+      }
+    },
     "7.2.0rc1": {
       "sdist": [
         "NAwJqOB+aRYtmoOjGvl404RdSTYSMVudZI/kt6/249A=",
@@ -21031,6 +21043,20 @@
         "costeopy_package-0.1.5-py3-none-any.whl": [
           "eiwCshVxR3T5Sc2TZ6mq28VKJgeSgsbw4ldAB5mijF4=",
           "py3"
+        ]
+      }
+    }
+  },
+  "cote": {
+    "0.0.1": {
+      "sdist": [
+        "2pAjYo3l3LTdOyxZEHduM970z7HX7s9gwySIHjaVmuQ=",
+        "cote-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "cote-0.0.1-py2.py3-none-any.whl": [
+          "OzBcsngzxzgGpLXe0ykPiM9gzHeIghX+ae930XgsgLc=",
+          "py2.py3"
         ]
       }
     }
@@ -105534,6 +105560,26 @@
         ]
       }
     },
+    "9.2.34": {
+      "sdist": [
+        "3IWhMhiaGm0LXxgVy1HgCxNIBYuGzCJKf3Nual13xe8=",
+        "pyvex-9.2.34.tar.gz"
+      ],
+      "wheels": {
+        "pyvex-9.2.34-py3-none-macosx_10_9_x86_64.whl": [
+          "7P86OATGuqZWtAh+hXts19yVq2Pg2Cpc/62iLttukhA=",
+          "py3"
+        ],
+        "pyvex-9.2.34-py3-none-manylinux2014_x86_64.whl": [
+          "hzCzcO/OWGUM/qOFM2h31oDEz0h0Tr3tYCY/yZuSyYE=",
+          "py3"
+        ],
+        "pyvex-9.2.34-py3-none-win_amd64.whl": [
+          "pU4dTLBzZ+FYxW7ts131zGnRBiXoerkLSnPgtijm+zU=",
+          "py3"
+        ]
+      }
+    },
     "9.2.4": {
       "sdist": [
         "r+dmf5qIjiN5vmdzBmPORnPWPrjLKGks+OAdZXdAbOc=",
@@ -137973,6 +138019,14 @@
       }
     }
   },
+  "thecord.py": {
+    "0.1": {
+      "sdist": [
+        "sQa7ciBaEudYgtR4rFqDuApN2L0G0B6VOHusWjq3y0g=",
+        "thecord.py-0.1.tar.gz"
+      ]
+    }
+  },
   "themingwiki": {
     "0.1": {
       "sdist": [
@@ -147012,6 +147066,22 @@
         ],
         "vtx_common-0.1.17-py38-none-any.whl": [
           "PLgIXFzIeoDFodeBdm5bNsVvO9c9K5wvNv0ulPRKmQI=",
+          "py38"
+        ]
+      }
+    },
+    "0.1.18": {
+      "sdist": [
+        "QGna2IL8cV2tmxE1kLbfjZvDj8jr2y4SR+VcUkT9kRk=",
+        "vtx-common-0.1.18.tar.gz"
+      ],
+      "wheels": {
+        "vtx_common-0.1.18-py37-none-any.whl": [
+          "xDqVJ8WZQ3XWpZIFgoLTnKMH/YygZyeP1bRX/obBamI=",
+          "py37"
+        ],
+        "vtx_common-0.1.18-py38-none-any.whl": [
+          "cIWJbgvvhhN01Y7LLnd9S9qev8L47a0lh5E+hkaxY8Y=",
           "py38"
         ]
       }

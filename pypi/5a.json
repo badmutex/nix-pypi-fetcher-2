@@ -10526,6 +10526,22 @@
         ]
       }
     },
+    "2.2.0": {
+      "sdist": [
+        "mpbdKvK66sTFKQSdDiZETZ1xY2xK7FUL2xgq7bq15vE=",
+        "bigdl-dllib-spark3-2.2.0.tar.gz"
+      ],
+      "wheels": {
+        "bigdl_dllib_spark3-2.2.0-py3-none-macosx_10_11_x86_64.whl": [
+          "3plqyJFnZk21jsHJzOs7oGW73JkcxY2uJd5hPnoF4ew=",
+          "py3"
+        ],
+        "bigdl_dllib_spark3-2.2.0-py3-none-manylinux1_x86_64.whl": [
+          "LKb8HfgpwqxojOizjFi+RKlIaz57sewA750BmNJ2SzM=",
+          "py3"
+        ]
+      }
+    },
     "2.2.0b20221212": {
       "sdist": [
         "QRk354pcc4E7PElytjktnMIjh/0TCN00agj4kWc4ZNM=",
@@ -12775,6 +12791,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.51": {
+      "sdist": [
+        "fPljUP5vaRlfuwoc9ENPAk6qsYfbqOR1qjUaMXvvDE4=",
+        "botocore-a-la-carte-ssm-incidents-1.29.51.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_ssm_incidents-1.29.51-py3-none-any.whl": [
+          "SLsfK4tGDOGw+0IhAyNkoDwHrIis/7gKaKWLdUuBGjA=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-voice-id": {
@@ -12882,6 +12910,18 @@
       "wheels": {
         "botocore_a_la_carte_voice_id-1.29.50-py3-none-any.whl": [
           "ymInTKIqLzQCg/sB67QFOprb3YLTJ+XGlzZAhA8nIJA=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.51": {
+      "sdist": [
+        "2e4Rw0OgnJ1PNKlzvbKuX21wnCiHbHjGyaqk2oUyVT8=",
+        "botocore-a-la-carte-voice-id-1.29.51.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_voice_id-1.29.51-py3-none-any.whl": [
+          "HP1b9oh9ggFSwg6oPy+2hq8EcJ2IqzrCG5b6ioH4sHM=",
           "py3"
         ]
       }
@@ -125348,6 +125388,42 @@
     }
   },
   "reapply": {
+    "0.0.1": {
+      "sdist": [
+        "tDHui4Tq3rTHDLjbb/PqmMAUovd0ePeBVMaY+/oBvbA=",
+        "reapply-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "reapply-0.0.1-py3-none-any.whl": [
+          "WdwLLMBinFDi2MIGuwtGhHfbvBVFXeI5tbUZbZlm05c=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "DaoDupyUXNKIAeMqoSB1grFZzR4pv5UB+iabAt303D4=",
+        "reapply-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "reapply-0.0.2-py3-none-any.whl": [
+          "6tNyqrMrdb1vyWa90A4XI4WK3lDmz1KvI4xRrN62Ys0=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "cy4dBGybyz/kKiLFpesMqdkrQ3Zy92ygVvJEzGmU8h8=",
+        "reapply-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "reapply-0.0.3-py3-none-any.whl": [
+          "y9Nr6THHMJ7SA4kZxGGOQNdJx9ubl07qBHm594xz3xg=",
+          "py3"
+        ]
+      }
+    },
     "0.1.0": {
       "sdist": [
         "hHq5UB5+WF88gnNQrzrVKiPjxsSrr8rFYcFauXtqA0s=",
@@ -125368,6 +125444,18 @@
       "wheels": {
         "reapply-0.1.1-py3-none-any.whl": [
           "aJaz0fAJ/B4enyM6vUm7YcurWXq6AcbVpQzGHwylUIY=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "eVTF2yef+datPoc1G7OVHceprrSbzvmoOrHfMp1vOAg=",
+        "reapply-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "reapply-0.1.2-py3-none-any.whl": [
+          "kHCTj7i7KyXbRaNDpqZKYOV9sgQXjiq2bnB1Tx+kjTA=",
           "py3"
         ]
       }
@@ -131461,6 +131549,18 @@
           "py3"
         ]
       }
+    },
+    "23.1.16": {
+      "sdist": [
+        "JEdkqX4Wr8OKBGeOyslgIq+/DMsTXvN9kHreQbMOIAE=",
+        "screenshare-23.1.16.tar.gz"
+      ],
+      "wheels": {
+        "screenshare-23.1.16-py3-none-any.whl": [
+          "3K7PUYAB65G5cR6B/UrS7qb1EYQl8c34ju02fTUM75w=",
+          "py3"
+        ]
+      }
     }
   },
   "scys-20210928-20210930": {
@@ -133065,6 +133165,20 @@
         "PgtUaWbaoMfE55pieEUfSSuerW3+yI0gpUBhwehqdBA=",
         "selcol-0.0.3.2.tar.gz"
       ]
+    }
+  },
+  "seleniumuser": {
+    "0.1.0": {
+      "sdist": [
+        "H2BQZcgw59dHJrdjftuvodho/vbroCNS32T8tjQ0Gr4=",
+        "seleniumuser-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "seleniumuser-0.1.0-py3-none-any.whl": [
+          "4jIeOFpiGvRpvhhknIhOze4OrolcJT1AEAAQThmkGqo=",
+          "py3"
+        ]
+      }
     }
   },
   "semantic3": {

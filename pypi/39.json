@@ -15050,6 +15050,22 @@
         ]
       }
     },
+    "2.2.0": {
+      "sdist": [
+        "aaRDPlKGFJRMOKXJYP258qTm1Jj6FKf8WjBUe7vcbGQ=",
+        "bigdl-dllib-2.2.0.tar.gz"
+      ],
+      "wheels": {
+        "bigdl_dllib-2.2.0-py3-none-macosx_10_11_x86_64.whl": [
+          "3MzfHasQ1i504OCS36HhrQ+z1ffmDnYZ2tc7MhoFUIk=",
+          "py3"
+        ],
+        "bigdl_dllib-2.2.0-py3-none-manylinux1_x86_64.whl": [
+          "rWBprlNrpjOsWUmv5ECtBLHJ/VtjqacU9FRzrQSqeuw=",
+          "py3"
+        ]
+      }
+    },
     "2.2.0b20221019": {
       "sdist": [
         "H5bSCsHHNd7qF+ONusk/asGHxmctJoVZbqY/Y/sApj0=",
@@ -16363,6 +16379,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.51": {
+      "sdist": [
+        "4i/nSY1l5ZGA7hpx31RKoWpLrGfRWRFJxwL4vGX48ZM=",
+        "botocore-a-la-carte-kinesisvideo-1.29.51.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_kinesisvideo-1.29.51-py3-none-any.whl": [
+          "/l5Xau8Ptzmu4Qnwq+ry/DcGwpv/b0LPZsM5nJZfSPs=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-rolesanywhere": {
@@ -16470,6 +16498,18 @@
       "wheels": {
         "botocore_a_la_carte_rolesanywhere-1.29.50-py3-none-any.whl": [
           "eCHFE6a+ktx4F1SRlOKJ2HnVzJkob4p/fbBDR/VGviE=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.51": {
+      "sdist": [
+        "v5VYAEhnwA/Mq/mf1Hqt8pgwZ59jRUJd8xwapiP8UGo=",
+        "botocore-a-la-carte-rolesanywhere-1.29.51.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_rolesanywhere-1.29.51-py3-none-any.whl": [
+          "eoRAjkwY8KYuEeTV1pi5wTIy4hMFmupc34eutJfV5oY=",
           "py3"
         ]
       }
@@ -35908,6 +35948,30 @@
       "wheels": {
         "dumbo_utils-0.1.1-py3-none-any.whl": [
           "M7qsgo9i4rj3lLMhbDveiZS8nuD5hpOixKjNQmdsr7g=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "qvZaK81b9Wt25317w69BcHEJcLZlylNPd2duKpbz+bI=",
+        "dumbo_utils-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "dumbo_utils-0.1.2-py3-none-any.whl": [
+          "PztZDk553tA50fx3ankPwoVOZ2OhGozwuZLs0z0D5Zg=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.3": {
+      "sdist": [
+        "9uww0kD3j7JfnNHG4bQgO8X33bA5GjSxrLiXuMMjrdA=",
+        "dumbo_utils-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "dumbo_utils-0.1.3-py3-none-any.whl": [
+          "pP00ZKmnjOFNCRRZsEK0dtRpEvjDU3yjhZqj5emCSjs=",
           "py3"
         ]
       }
@@ -61274,6 +61338,12 @@
       "sdist": [
         "NNs20FvBbQB6Hpeqgeq/x9dbvCBhUEhlHy/8rIZmvfY=",
         "McPhysics-1.5.11.tar.gz"
+      ]
+    },
+    "1.5.12": {
+      "sdist": [
+        "cXArMJjvmJ19vbfT9sWhprzDDzD04XG+Q1dBAfTkvr8=",
+        "McPhysics-1.5.12.tar.gz"
       ]
     },
     "1.5.2": {
@@ -86950,6 +87020,54 @@
       "wheels": {
         "pepperize.cdk_github-0.0.195-py3-none-any.whl": [
           "yCiHSaCTzlJI5EcXX2mpxaMjnhOCOiClqlD0e3K3gXI=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.196": {
+      "sdist": [
+        "EjPSumvkeXC0LCXkoBNbzZPROlWYppF1tVbvYCks5/4=",
+        "pepperize.cdk-github-0.0.196.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.cdk_github-0.0.196-py3-none-any.whl": [
+          "lmIKloEYWvRgLP40v63QsPw9SqHvVHZtkA16Rj/tlzA=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.197": {
+      "sdist": [
+        "zhE1JkRZ9iUp/gtJ3wsYb9YR4qvn58HxhoCZTjcm93M=",
+        "pepperize.cdk-github-0.0.197.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.cdk_github-0.0.197-py3-none-any.whl": [
+          "sJMAId7kiBTNLr/fq5V0peYmjCK5NkZyO4IGaBB9v2s=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.198": {
+      "sdist": [
+        "DSWoe21gFVX4yFQ7RmmcYveA43sxGK6ezRV9u69Age4=",
+        "pepperize.cdk-github-0.0.198.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.cdk_github-0.0.198-py3-none-any.whl": [
+          "+wsmHBooVEkpUm+eUNP9EN+vIPSruNHZLsTDhDhqtks=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.199": {
+      "sdist": [
+        "HnxowMo9eCsjKpORNL56eENLU75FWTEgyzxvmcWgAyI=",
+        "pepperize.cdk-github-0.0.199.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.cdk_github-0.0.199-py3-none-any.whl": [
+          "m0QyYVQpvd7+XKwBYU/YufUgPEjVK0hB9zZ3lYKvnzo=",
           "py3"
         ]
       }
@@ -143171,6 +143289,22 @@
           "cp39"
         ]
       }
+    },
+    "2.12.0.dev20230117": {
+      "wheels": {
+        "tf_nightly_intel-2.12.0.dev20230117-cp310-cp310-win_amd64.whl": [
+          "7NQ5b3IZyiomERhibwAHhipsQFayAFcQapPY7l2xTs0=",
+          "cp310"
+        ],
+        "tf_nightly_intel-2.12.0.dev20230117-cp38-cp38-win_amd64.whl": [
+          "LA51DlBI03+MCbdNA8z2N9S2+XoqzHI62/bG1eGdETc=",
+          "cp38"
+        ],
+        "tf_nightly_intel-2.12.0.dev20230117-cp39-cp39-win_amd64.whl": [
+          "iD+uQhc5dKFddq922IuX1LZhqp3iHatyhiNdmmNEydU=",
+          "cp39"
+        ]
+      }
     }
   },
   "tfparse": {
@@ -154077,6 +154211,20 @@
       ]
     }
   },
+  "webint": {
+    "0.1.0": {
+      "sdist": [
+        "20DPH1SI17I9UC/d4wL+sNdrTemGRilurN6DXlhU4+g=",
+        "webint-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "webint-0.1.0-py3-none-any.whl": [
+          "9pu+MzdNgu4vT9Jkchotg+MNywZpQJWB6yqiRcEYjC4=",
+          "py3"
+        ]
+      }
+    }
+  },
   "webscaff": {
     "0.1.0": {
       "sdist": [
@@ -157073,6 +157221,18 @@
           "py3"
         ]
       }
+    },
+    "1.4.0": {
+      "sdist": [
+        "FJyNU7Eom7GB98/KYk8VxZADzldnqkq5HpBz1aAVEPA=",
+        "x2paddle-1.4.0.tar.gz"
+      ],
+      "wheels": {
+        "x2paddle-1.4.0-py3-none-any.whl": [
+          "+ufWIIjx77anMyWN1LB/Oprfy/PU5WsJXsD3/7N1Yew=",
+          "py3"
+        ]
+      }
     }
   },
   "xbeetransmission": {
@@ -158610,6 +158770,18 @@
       "wheels": {
         "zood-0.5.3-py3-none-any.whl": [
           "1I2RqIWHJZNL7uYBxvVt+LgVfE0am8FLTl+1Uunrdn0=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.4": {
+      "sdist": [
+        "f8pYhUpjmpgi1+fdH/+zc56mOYjA9dC+68/A50zyTKA=",
+        "zood-0.5.4.tar.gz"
+      ],
+      "wheels": {
+        "zood-0.5.4-py3-none-any.whl": [
+          "E4Zp0Ipa9123q9HBbkgK48rc5bCcgXdLWiw1brFrdNg=",
           "py3"
         ]
       }

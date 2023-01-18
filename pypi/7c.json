@@ -14833,6 +14833,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.51": {
+      "sdist": [
+        "+tMTz6hTZm4umpMqe/eCajxN+1cFi8QS17xNqVYVonE=",
+        "botocore-a-la-carte-amplify-1.29.51.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_amplify-1.29.51-py3-none-any.whl": [
+          "oVvuYyTi0kocQBXlIT7f4Jx514l404SFLd4NAaSMGYQ=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-cloudformation": {
@@ -14943,6 +14955,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.51": {
+      "sdist": [
+        "+v9N+QTQMPcD0ZCt5hIhRw9o1YYvKdkvLM6ULoF9QL0=",
+        "botocore-a-la-carte-cloudformation-1.29.51.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_cloudformation-1.29.51-py3-none-any.whl": [
+          "aB5+HBFM4xPSFIyBiylJNo06pRq4AyaIsaMDLj0PpZE=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-eks": {
@@ -15050,6 +15074,18 @@
       "wheels": {
         "botocore_a_la_carte_eks-1.29.50-py3-none-any.whl": [
           "8r39VRhkupioujVqliXCrq0Z7iDsD9v/du3Ks2rYUNE=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.51": {
+      "sdist": [
+        "G34mS38Br10giIQvzEMKIKE5osBjUsM5Qjj4nsG2px4=",
+        "botocore-a-la-carte-eks-1.29.51.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_eks-1.29.51-py3-none-any.whl": [
+          "X48ZNyM36YUfyrXhfwwItpbQah78+9qITbsFclaWq+k=",
           "py3"
         ]
       }
@@ -16282,6 +16318,18 @@
       "wheels": {
         "capirca-2.0.6-py3-none-any.whl": [
           "7xDmfQ3qjbXn3hHCek3OfHap/krD36odVw42wW/j1OA=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.7": {
+      "sdist": [
+        "46+wSqvyR47mOl9SbOSxbT2L/a4x+CA7YxHXqQm7Mj8=",
+        "capirca-2.0.7.tar.gz"
+      ],
+      "wheels": {
+        "capirca-2.0.7-py3-none-any.whl": [
+          "OpJFRlf/mwoLvfZ5HYtF3sdaMiIJS9NsJ/g+SC2hhVY=",
           "py3"
         ]
       }
@@ -34125,6 +34173,20 @@
       }
     }
   },
+  "deploy-ciscoasa-cert": {
+    "0.1.0": {
+      "sdist": [
+        "+Zq0mumIpwVNUohJtyBGJOuaPAIGwH1zDWK5CuFP4hM=",
+        "deploy_ciscoasa_cert-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "deploy_ciscoasa_cert-0.1.0-py3-none-any.whl": [
+          "6MMMBVEAY8bidKtIcwe4VotA2WYdSHOoQk4Yu0IJm4U=",
+          "py3"
+        ]
+      }
+    }
+  },
   "deployx-server-sdk1": {
     "0.0.1": {
       "sdist": [
@@ -37075,6 +37137,32 @@
         "kqyR9i6SCoKgpwiQ8yTKGImVcT+hDaZ+dJYwmTVKk7Y=",
         "django-notification-1.3.3.tar.gz"
       ]
+    }
+  },
+  "django-oasis4-coffee-price": {
+    "1.0.1": {
+      "sdist": [
+        "8lQUnV8r4YS4v0nCrLWpojGVMjGCKc9EeFsux5yB/oU=",
+        "django-oasis4-coffee-price-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "django_oasis4_coffee_price-1.0.1-py3-none-any.whl": [
+          "pGPKJz5rfjo8286Uwqw9QF2QGHiXiQrnd0edSkIwwiw=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.2": {
+      "sdist": [
+        "S6tn3Ikmbg+i+xuw1hCMINYsTBAQhjgSEXJYOcKnFQ0=",
+        "django-oasis4-coffee-price-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "django_oasis4_coffee_price-1.0.2-py3-none-any.whl": [
+          "+6Xyt7qTxFRQy0AWb5B5jU7kITzltk4itEMJz4t0KuM=",
+          "py3"
+        ]
+      }
     }
   },
   "django-pass-code": {
@@ -71002,6 +71090,12 @@
         "lts-mpsjobtracker-mongo-0.1.10.tar.gz"
       ]
     },
+    "0.1.12a0": {
+      "sdist": [
+        "E+gsjQgLxz8gUthv2TFKmCcmmQgabcfvwQLC0NLCgmc=",
+        "lts-mpsjobtracker-mongo-0.1.12a0.tar.gz"
+      ]
+    },
     "0.1.5": {
       "sdist": [
         "UfUlrYCc22WCynTCeuUkSoUx/TmdsGnPan6aZmiFha0=",
@@ -85964,6 +86058,18 @@
       "wheels": {
         "mypy_boto3_imagebuilder-1.26.0.post1-py3-none-any.whl": [
           "/6Mk3881hg9P25wSZ8/3REb7IXJbnYvm+5TGaA0gOOE=",
+          "py3"
+        ]
+      }
+    },
+    "1.26.51": {
+      "sdist": [
+        "VinELa4kWy2LZ9owrDAJFoldjgxEftgqAzSh69CNkrI=",
+        "mypy-boto3-imagebuilder-1.26.51.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_imagebuilder-1.26.51-py3-none-any.whl": [
+          "+qVnybpiE4ELF9vqd64EE/phzbEpW3HPWvGG3s/4QYo=",
           "py3"
         ]
       }

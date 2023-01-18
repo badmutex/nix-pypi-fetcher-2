@@ -14893,6 +14893,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.51": {
+      "sdist": [
+        "1WUrz8B5CU0LgPiMJmu8rJ9kdxT2a6KaqUicDZTGRLg=",
+        "botocore-a-la-carte-networkmanager-1.29.51.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_networkmanager-1.29.51-py3-none-any.whl": [
+          "O0Wv7PMaJl16xOiYznAFp0LykcM399xEXSHgDPx/9B0=",
+          "py3"
+        ]
+      }
     }
   },
   "botogram": {
@@ -24992,6 +25004,44 @@
       "wheels": {
         "comm_helper-0.3.6-py3-none-any.whl": [
           "aEPgy7gE/abcJnDm8lgoQ6WxIqYJlXX1Uu4zmU6onIQ=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "commonkeywords": {
+    "0.0.2": {
+      "sdist": [
+        "1VZ3PrkR03dSoDCoHU4nANSuvhv3jEA3MwI6Tq0rzjs=",
+        "CommonKeywords-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "CommonKeywords-0.0.2-py3-none-any.whl": [
+          "bTZn26upUidhzwLUVd9LTCxEYlCOmKoOwkL9B8/bvAo=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "f1Lr+y4wiRznGonsIIoI7H++EnxZYC+SRGNrZiWc9qo=",
+        "CommonKeywords-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "CommonKeywords-0.0.3-py3-none-any.whl": [
+          "LRKkll/wiWZmsi/ZzDoNxKJQcj4J6wm4mxlfCNch9Zw=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4": {
+      "sdist": [
+        "LMewvBYi6X5OCcgxq5XuoRiEQVp5cyxaESKBXw1UciI=",
+        "CommonKeywords-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "CommonKeywords-0.0.4-py3-none-any.whl": [
+          "dI5i1KkEQiGtKNzFmNCZVOd591JFgxvKzHvhHRZ8lKI=",
           "py3"
         ]
       }
@@ -39184,6 +39234,14 @@
       "wheels": {
         "edr_query_parser-4.3.3-py3-none-any.whl": [
           "hplZiwfTm+SaTr1Dt9u6QQb80fB/ZuG2NNe8vXYyKOc=",
+          "py3"
+        ]
+      }
+    },
+    "4.3.4": {
+      "wheels": {
+        "edr_query_parser-4.3.4-py3-none-any.whl": [
+          "O2ypCmCFaV8iFNgWEpdZEDf+5IO++ha+8lPnLRH9dyg=",
           "py3"
         ]
       }
@@ -117524,6 +117582,58 @@
         ]
       }
     },
+    "1.11.0": {
+      "wheels": {
+        "pytket-1.11.0-cp310-cp310-macosx_10_14_x86_64.whl": [
+          "l2dehKZklcbAl/DLjnUPzJx7dx1BS4ZKPjPhwzxkNow=",
+          "cp310"
+        ],
+        "pytket-1.11.0-cp310-cp310-macosx_13_0_arm64.whl": [
+          "Nyc2fEK7I2NU6cFwMc7vC6vLypzI3J4c/maWfxSf+1g=",
+          "cp310"
+        ],
+        "pytket-1.11.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Bg2RN2w/NZ0u4XGTYziVq2TI21R5ws8Ao2rmPsdsmM0=",
+          "cp310"
+        ],
+        "pytket-1.11.0-cp310-cp310-win_amd64.whl": [
+          "q6fRgDzNgo8PI5lUnacJ0qXyWp8XZVw5JIRBz1Hq9Ks=",
+          "cp310"
+        ],
+        "pytket-1.11.0-cp311-cp311-macosx_10_14_x86_64.whl": [
+          "BxOyhSggISWK+h43k9j6fVUoAr6x+7yTbxLSH4ktsPg=",
+          "cp311"
+        ],
+        "pytket-1.11.0-cp311-cp311-macosx_13_0_arm64.whl": [
+          "CVjDhXzALv3Qj+dFkmpX+kBYc0RVUDYWc0LvoZd/LO0=",
+          "cp311"
+        ],
+        "pytket-1.11.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "FegMEhbpWszfUQ7VNsalnnb5V1o/nvSayXwYrDgqOxQ=",
+          "cp311"
+        ],
+        "pytket-1.11.0-cp311-cp311-win_amd64.whl": [
+          "uZ3Z6Q2tpmwO/Mr6pO9j/o5kTgXuPhiHqUhQbg4r0G4=",
+          "cp311"
+        ],
+        "pytket-1.11.0-cp39-cp39-macosx_10_14_x86_64.whl": [
+          "wUe+HSz5Jy9pt6v79LdXxZQTOpiCn9UavMf9s5fg2D4=",
+          "cp39"
+        ],
+        "pytket-1.11.0-cp39-cp39-macosx_13_0_arm64.whl": [
+          "s5HNh2lw6J1Hg/q4dSArEOhiGc0HYYvB8kidhuf319k=",
+          "cp39"
+        ],
+        "pytket-1.11.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "5FXyf44FgsQrj6DklJkHcydobURjoIpMvDryReBwe0k=",
+          "cp39"
+        ],
+        "pytket-1.11.0-cp39-cp39-win_amd64.whl": [
+          "9Z39KMZBwl1OHxnm2GlzaVAu+rl8r8iB47LL++OjEhI=",
+          "cp39"
+        ]
+      }
+    },
     "1.11.0rc0": {
       "wheels": {
         "pytket-1.11.0rc0-cp310-cp310-macosx_10_14_x86_64.whl": [
@@ -123808,6 +123918,20 @@
       "wheels": {
         "replapiit_python_parser-0.0.2-py3-none-any.whl": [
           "S9RJbV2uxCSIDi88VV/O2D59Uwf0vgfXE/H2I7oYZfM=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "replitplusplus": {
+    "0.0.1": {
+      "sdist": [
+        "EwVuoJcSw2cU++trUYO3jZ6YQmGUfyBbe7N5yL/eb24=",
+        "replitplusplus-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "replitplusplus-0.0.1-py3-none-any.whl": [
+          "o6ggDPegw7DWEYQ8IwymyBLebjSRDbmYzF0xAYkYLrk=",
           "py3"
         ]
       }

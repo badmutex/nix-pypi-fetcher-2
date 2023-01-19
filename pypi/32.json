@@ -7912,6 +7912,18 @@
         ]
       }
     },
+    "1.189.0": {
+      "sdist": [
+        "Elt8kqKKNgVCXkLGsQUAbUkj6x2yTzhsUV0oUR6OrIc=",
+        "aws-cdk.core-1.189.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.core-1.189.0-py3-none-any.whl": [
+          "s6tj4I3ruCVpZqjUidg6A2S9HLbtc9+YbgxL+0RlGgY=",
+          "py3"
+        ]
+      }
+    },
     "1.19.0": {
       "sdist": [
         "bnc2b0Os2NVz/4udevirJ/R3lgUoawOF+bxqpAFXW+k=",
@@ -90705,6 +90717,14 @@
           "py3"
         ]
       }
+    },
+    "15.0.1.0.3.1": {
+      "wheels": {
+        "odoo_addon_contract_sale_generation-15.0.1.0.3.1-py3-none-any.whl": [
+          "dBBOEcG4D4bcG9bhR0YtkX6QKP/ilvN0/Q0KRzTFJag=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo10-addon-account-balance-reporting-xlsx": {
@@ -103297,6 +103317,20 @@
         "Lu5sl3pKhnqOcytIFvb8lNglivKQnvMhER1eV/8op24=",
         "Products.QuickImporter-0.2.2.tar.gz"
       ]
+    }
+  },
+  "proforesight": {
+    "0.0.1": {
+      "sdist": [
+        "BhhYQWM4jpaavK9vPD3r2gpFCweXdWaHG1zdwn5kzlU=",
+        "proforesight-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "proforesight-0.0.1-py3-none-any.whl": [
+          "hOnopnEV/x9go0dWsXy1LVFQrhDTXAnUWca1g/pPmOk=",
+          "py3"
+        ]
+      }
     }
   },
   "projectpython": {
@@ -116379,6 +116413,12 @@
         "kk9eoaZu2RV5L+KZZxCiR8kiaX5NzLpAd7ScYxEE/MQ=",
         "result4utility-0.1.0.tar.gz"
       ]
+    },
+    "0.1.1": {
+      "sdist": [
+        "dYICAgnPCxGGYSyyGePqHAhdm2PZeksgx5QYqlevdYE=",
+        "result4utility-0.1.1.tar.gz"
+      ]
     }
   },
   "reticle": {
@@ -119746,6 +119786,12 @@
         "sagemaker-2.128.0.tar.gz"
       ]
     },
+    "2.129.0": {
+      "sdist": [
+        "7eQkogkcliEfMYbGb1Z5umbw2opGkqAJXjStTS8POuQ=",
+        "sagemaker-2.129.0.tar.gz"
+      ]
+    },
     "2.13.0": {
       "sdist": [
         "3P2h1EM6R/MzQMJLMzHAe7IqoTeonomlC90y6OB5P0E=",
@@ -122984,6 +123030,30 @@
       "wheels": {
         "sdmetrics-0.8.1.dev0-py2.py3-none-any.whl": [
           "uPXYzYk/BwINbH6W2x3P9ijAjk9bbThpFEB5IYl27X8=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.9.0": {
+      "sdist": [
+        "jhacqiVaSo5dRldpeyZGiIcGPJ6eoK7Zh8fBWtuveDc=",
+        "sdmetrics-0.9.0.tar.gz"
+      ],
+      "wheels": {
+        "sdmetrics-0.9.0-py2.py3-none-any.whl": [
+          "3yYddcz5YKy5x4bFty7GNnDhp4GE1/6KV2Kp2tW6MLs=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.9.0.dev0": {
+      "sdist": [
+        "+9iyTDVjg7Ra0w7Ii5/ofq/oE/FVmd/XckMYv4bMJSg=",
+        "sdmetrics-0.9.0.dev0.tar.gz"
+      ],
+      "wheels": {
+        "sdmetrics-0.9.0.dev0-py2.py3-none-any.whl": [
+          "HPpV8YyYlsHJjbq+sqOwwrt4w7j4SRfM5K0psp1D4Gw=",
           "py2.py3"
         ]
       }

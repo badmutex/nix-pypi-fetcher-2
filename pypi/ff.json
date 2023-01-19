@@ -11336,6 +11336,18 @@
         ]
       }
     },
+    "1.189.0": {
+      "sdist": [
+        "MeGNGUV0FKl5zSA6/cVthVH1y9OolZTb9VT86q34MAk=",
+        "aws-cdk.aws-kinesis-1.189.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_kinesis-1.189.0-py3-none-any.whl": [
+          "tLZgS8fl3SEvcy7ecKRnlu0hRRf8jiDh5ot4yoe56vk=",
+          "py3"
+        ]
+      }
+    },
     "1.19.0": {
       "sdist": [
         "23skCIWQ+VAJ889AsSIB8lUrKLVFKY2ISxgKoyFqX1A=",
@@ -15410,6 +15422,18 @@
       "wheels": {
         "botocore_a_la_carte_dlm-1.29.51-py3-none-any.whl": [
           "FrfSY06DNApi8swsDU9nMUDvJT0CRYwcOKkchbB+Q+0=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.52": {
+      "sdist": [
+        "jgxzqpqwYwne8OhJwmy+9/6OHQMlx2JPDGfH+XortU4=",
+        "botocore-a-la-carte-dlm-1.29.52.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_dlm-1.29.52-py3-none-any.whl": [
+          "LPEu/8tI0frFJMDQPaqKLmVaUnC5hS9rflRwpmTeMOk=",
           "py3"
         ]
       }
@@ -54815,6 +54839,18 @@
           "py3"
         ]
       }
+    },
+    "0.4.1": {
+      "sdist": [
+        "5/CmcleEz875NcZ4kgv+jThuyf7sk75UN+YrqgUhOZc=",
+        "godoo_cli-0.4.1.tar.gz"
+      ],
+      "wheels": {
+        "godoo_cli-0.4.1-py3-none-any.whl": [
+          "J6NwVzBgGyV57RpH1Vo3I7uosgQcVPQ0aXn90mVTU4U=",
+          "py3"
+        ]
+      }
     }
   },
   "gogs-ldap-groups-syncer": {
@@ -78836,6 +78872,22 @@
       "wheels": {
         "neon_skill_launcher-0.2.1a1-py3-none-any.whl": [
           "RSjwGZWNRk+GvunSrQg3z+oBFMEEYzy7V61NzvPnofc=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.1a2": {
+      "wheels": {
+        "neon_skill_launcher-0.2.1a2-py3-none-any.whl": [
+          "WCI1QArz/CaHEcZWwm2BAXMvPZOv4qsL0SJU48UhPKE=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.0": {
+      "wheels": {
+        "neon_skill_launcher-0.3.0-py3-none-any.whl": [
+          "C91Hp9lm7mh2aHniHbCzTPaSdIB3PE5k8O8Z+nR7cfM=",
           "py3"
         ]
       }
@@ -140587,6 +140639,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.817": {
+      "sdist": [
+        "2af99gnMYX6JGCRuWCxDGyI8uv1KBG8vpLpGOMcm6/A=",
+        "tencentcloud-sdk-python-ckafka-3.0.817.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_ckafka-3.0.817-py2.py3-none-any.whl": [
+          "KSg3y+haj/uJql4S4Fx2T/HKsd6WHp7600+hx6ootZ8=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tensorflow-datavalidation": {
@@ -145072,6 +145136,30 @@
       "wheels": {
         "uintel-0.1.2-py3-none-any.whl": [
           "z3XcznIT0hqlpVkVQGrntHqx8XMvpxwbGkIErJ2/lnA=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.3": {
+      "sdist": [
+        "NhXSVSLfGQ8bdeAGbbcdKbXD1un+B2nzsFwRO6OXOC4=",
+        "uintel-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "uintel-0.1.3-py3-none-any.whl": [
+          "TFydoBK4rOozxiJfdXw4tN8qnJPUxLvQ+MO6Ghi3RNk=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.4": {
+      "sdist": [
+        "2IYBUrcoG/va5fUnx35hcRm5yfaa8iN6nqcuZNsbCrY=",
+        "uintel-0.1.4.tar.gz"
+      ],
+      "wheels": {
+        "uintel-0.1.4-py3-none-any.whl": [
+          "3O44721w9/HaWE/fyliPKbqW3QnoSic1wZ+GjlzD/Y0=",
           "py3"
         ]
       }

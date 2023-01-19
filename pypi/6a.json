@@ -6709,6 +6709,18 @@
           "py3"
         ]
       }
+    },
+    "1.189.0": {
+      "sdist": [
+        "cUKrss3fIBEqyWLvkhr8w4AqxjlJtET4599mDg+q2Rw=",
+        "aws-cdk.aws-iottwinmaker-1.189.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_iottwinmaker-1.189.0-py3-none-any.whl": [
+          "EOjk2czrcl03kk5ZuHAPoU1fY/YCkbjjS4jJ02BGtO4=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-cdk.aws-route53recoverycontrol": {
@@ -7692,6 +7704,18 @@
       "wheels": {
         "aws_cdk.aws_route53recoverycontrol-1.188.0-py3-none-any.whl": [
           "dVVOyDHtEJFKpm9hdBWImDOxKgkej/FOKZuVM++VZ6k=",
+          "py3"
+        ]
+      }
+    },
+    "1.189.0": {
+      "sdist": [
+        "YCc3WeUQ+Pe3OJzn/BSLTymjqyOnrdCRgoqvV6PEHuI=",
+        "aws-cdk.aws-route53recoverycontrol-1.189.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_route53recoverycontrol-1.189.0-py3-none-any.whl": [
+          "/Fb5Av07L6aDEC2sjgkTdeenv+qMQcb0FZQoJ/836V8=",
           "py3"
         ]
       }
@@ -12380,6 +12404,58 @@
         ],
         "azureml_dataprep_rslex-2.15.2-cp39-cp39-win_amd64.whl": [
           "4W+1dnn1zBg8lhFGxbUpQGOb7M0Ie35QbX68U6UHNag=",
+          "cp39"
+        ]
+      }
+    },
+    "2.16.0": {
+      "wheels": {
+        "azureml_dataprep_rslex-2.16.0-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "Qgj6mk2UTW0LL9zcAqM/+uu8XlyKNvlAIwgRY5TeSg4=",
+          "cp310"
+        ],
+        "azureml_dataprep_rslex-2.16.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "wF9+8AqW4SqUb/4cQ63yNb40OsfqCQybSBH6XI6/OA8=",
+          "cp310"
+        ],
+        "azureml_dataprep_rslex-2.16.0-cp310-cp310-win_amd64.whl": [
+          "L9J44sFqSHv3qVWWC5Y42Of/EeDRd/mQb2kq5u5G8+I=",
+          "cp310"
+        ],
+        "azureml_dataprep_rslex-2.16.0-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "iaQ19JrPs0mOTKiMQwacBAjvDnNhGQszQX3BWahjlow=",
+          "cp37"
+        ],
+        "azureml_dataprep_rslex-2.16.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "2x9mOoaGdXKTyWsKJjAIRrS5XxtjGHPmdrbJN2SFyU8=",
+          "cp37"
+        ],
+        "azureml_dataprep_rslex-2.16.0-cp37-cp37m-win_amd64.whl": [
+          "31EUdRT6SZQpKuVeajblFpS18DsOuleAuaxhBwqBZnw=",
+          "cp37"
+        ],
+        "azureml_dataprep_rslex-2.16.0-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "y1JUHwTvhj5zaWJiySGEf9uoiXiLZPmEJZgEMDoyKo8=",
+          "cp38"
+        ],
+        "azureml_dataprep_rslex-2.16.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "4SwVpvHaj8HLmI4CeCXxc9/Ye5OjL4hvAcUGVnMwnNE=",
+          "cp38"
+        ],
+        "azureml_dataprep_rslex-2.16.0-cp38-cp38-win_amd64.whl": [
+          "AGZTx2PIsEg1cdUOeGdhIr5bPqhlrgSCa99TrG//RVI=",
+          "cp38"
+        ],
+        "azureml_dataprep_rslex-2.16.0-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "NC/GbBdoVJjQ2nIGzCwCP5PXP6jCW0+UuFjcmdX3m28=",
+          "cp39"
+        ],
+        "azureml_dataprep_rslex-2.16.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "cVu/6jfKlcoflGeHXIJKxx4+QgVWZdT0buKmlUBXYeg=",
+          "cp39"
+        ],
+        "azureml_dataprep_rslex-2.16.0-cp39-cp39-win_amd64.whl": [
+          "XRDCxj/R/fFilIJSkgWF6VqIy9BQTemGCVuAYVniV34=",
           "cp39"
         ]
       }
@@ -18863,6 +18939,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.52": {
+      "sdist": [
+        "tgukX0eCy2JlrILziImMopngLi6GxB/QjSe1qtk7bhI=",
+        "botocore-a-la-carte-fms-1.29.52.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_fms-1.29.52-py3-none-any.whl": [
+          "Wc6mHQlY2fv8vuP/rpUdW6LxKv/hxmJVNl18GNoL+OA=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-rds-data": {
@@ -18985,6 +19073,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.52": {
+      "sdist": [
+        "RwJEOTZ0sDOXUl0j24HE0aLhGNTmoMeSiUr5oUV5wJg=",
+        "botocore-a-la-carte-rds-data-1.29.52.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_rds_data-1.29.52-py3-none-any.whl": [
+          "H8BpIvGY9mjFg3R5qr+1VMtmvKukuURsFA2vycrdLhQ=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-rum": {
@@ -19104,6 +19204,18 @@
       "wheels": {
         "botocore_a_la_carte_rum-1.29.51-py3-none-any.whl": [
           "ERBjGZiCbnwRbgxI6KzTSx+MD0q2RqyKV6lmBGurdW4=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.52": {
+      "sdist": [
+        "FxlVOgYggT1DHBnQmj/UO0qfRlJsq/aGeu/oVMgorb0=",
+        "botocore-a-la-carte-rum-1.29.52.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_rum-1.29.52-py3-none-any.whl": [
+          "LHK93q+FNgLX6JR46TS+s5E0QQrNLiJ8pii85U1U70s=",
           "py3"
         ]
       }
@@ -94603,6 +94715,14 @@
           "py2"
         ]
       }
+    },
+    "10.0.1.1.0.99.dev1": {
+      "wheels": {
+        "odoo10_addon_sale_delivery_rate-10.0.1.1.0.99.dev1-py2-none-any.whl": [
+          "MowSD5+REwUT9FTGCc8QBDgwiVjhTZ8qfa2CIyuP6sI=",
+          "py2"
+        ]
+      }
     }
   },
   "odoo10-addon-website-form-builder": {
@@ -147764,6 +147884,18 @@
       "wheels": {
         "tencentcloud_sdk_python_tcr-3.0.816-py2.py3-none-any.whl": [
           "RUihp2ylFW2XxdBuTlq0NlfxXcTO4XbeFHsf15PslkE=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.817": {
+      "sdist": [
+        "B+k0drKFDYZrXz4YwekBXlY44qyp0AGcF+Zkol1ZYww=",
+        "tencentcloud-sdk-python-tcr-3.0.817.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_tcr-3.0.817-py2.py3-none-any.whl": [
+          "q6SDzKAvQrqnOuPq7miIQJCxp0OvP2Yx9DrilhXjgfo=",
           "py2.py3"
         ]
       }

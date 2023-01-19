@@ -9249,6 +9249,12 @@
         "xx+/l6CyIHUvrEssYhdJ+F1duZ+4fid8ROrpoUteGZk=",
         "asyncsqlite3-0.1.4.tar.gz"
       ]
+    },
+    "0.1.5": {
+      "sdist": [
+        "KRHjIhA1FOf+mOnGv82ZQFZU1ShvFNyIjQ6Mkr5DK9E=",
+        "asyncsqlite3-0.1.5.tar.gz"
+      ]
     }
   },
   "asynctwitch": {
@@ -12960,6 +12966,18 @@
         ]
       }
     },
+    "1.189.0": {
+      "sdist": [
+        "QNSvT0VNiRCZlZA0R/mnAkhB6ZII2fwDPJj7ZBizo/s=",
+        "aws-cdk.aws-kinesisfirehose-1.189.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_kinesisfirehose-1.189.0-py3-none-any.whl": [
+          "5FS99vsC82poUggmfOSFn13gH3PU8cTnz/gjbvuIaG0=",
+          "py3"
+        ]
+      }
+    },
     "1.19.0": {
       "sdist": [
         "4EmtxX4i0H+xnk0EQSW32OR1qmF4gNzERbqe4JnEAvg=",
@@ -15142,6 +15160,18 @@
       "wheels": {
         "aws_cdk.aws_opensearchservice-1.188.0-py3-none-any.whl": [
           "JHB1RZsmxLFanVv9kWqFbjRqLD1jzUo1NQJR6GlNy90=",
+          "py3"
+        ]
+      }
+    },
+    "1.189.0": {
+      "sdist": [
+        "tn5sAF2JX5LeR/t58F+cuwquMMuujH5K4/h6R6FhrmM=",
+        "aws-cdk.aws-opensearchservice-1.189.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_opensearchservice-1.189.0-py3-none-any.whl": [
+          "ydUa7408X9zGZievZ4AjRoD/UmeF4nL9ZCGrNNWKorI=",
           "py3"
         ]
       }
@@ -81969,6 +81999,24 @@
       }
     }
   },
+  "movers": {
+    "1.2": {
+      "sdist": [
+        "aDblpNzVoJJbErzAgdFn6hSQltnVgvMfim6qVGcxuZU=",
+        "movers-1.2.tar.gz"
+      ],
+      "wheels": {
+        "movers-1.2-py2.py3-none-any.whl": [
+          "ji3dKIi2TTQCfAOb/nNxpt0hIhF/VLuFWq/MvG73x2Y=",
+          "py2.py3"
+        ],
+        "movers-1.2-py3-none-any.whl": [
+          "w9DC/sOckk+9u8MTwDXVdl8glGGL09xqAH0y28L4H58=",
+          "py3"
+        ]
+      }
+    }
+  },
   "mp3treesim": {
     "1.0.1": {
       "sdist": [
@@ -90676,6 +90724,14 @@
       "wheels": {
         "odoo14_addon_l10n_br_nfe-14.0.7.0.0-py3-none-any.whl": [
           "od6FTHWTKYAOZ1dJnxTmd5t7TsAlYUSno29knR4uykg=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.7.0.1": {
+      "wheels": {
+        "odoo14_addon_l10n_br_nfe-14.0.7.0.1-py3-none-any.whl": [
+          "DXrANxKmdl/K3PKnHPwnkTeldnO4k45HPoYGnm7k6mk=",
           "py3"
         ]
       }
@@ -115469,6 +115525,30 @@
           "py3"
         ]
       }
+    },
+    "2.6.3": {
+      "sdist": [
+        "Ge+ajZehX7wn8VCR+b4PF4YPD9j2xp8AS3Fsk3QC94s=",
+        "rasgotransforms-2.6.3.tar.gz"
+      ],
+      "wheels": {
+        "rasgotransforms-2.6.3-py3-none-any.whl": [
+          "ypr5WgE7PMx+4bTj1eTUj2hl6oXIgWexZ5vgfdgWz/o=",
+          "py3"
+        ]
+      }
+    },
+    "2.6.3a1": {
+      "sdist": [
+        "GH8awcQj0r2JYCut4Dmli3GSXF6+FFFxAWSwC2Sejlw=",
+        "rasgotransforms-2.6.3a1.tar.gz"
+      ],
+      "wheels": {
+        "rasgotransforms-2.6.3a1-py3-none-any.whl": [
+          "XCl6RxBSvHq9fsN1Vrwgkr3RVrgMN/l85Erw3oa71RU=",
+          "py3"
+        ]
+      }
     }
   },
   "raspberry-pi-lcd": {
@@ -117430,6 +117510,12 @@
       "sdist": [
         "V7rvlCcxiZGJGGRgjAhMigAENDguc+ZUBSD8Ut7WpM8=",
         "Retro3D-1.6.tar.gz"
+      ]
+    },
+    "1.7": {
+      "sdist": [
+        "nkX5zDPBXt4LrFQ/O6a0AanpSDTiVMJyDNdv0bcAx38=",
+        "Retro3D-1.7.tar.gz"
       ]
     }
   },
@@ -136174,6 +136260,54 @@
         ]
       }
     },
+    "0.0.186": {
+      "sdist": [
+        "SxNrtXX+1QmHJEneiZ3jdZc7Y9QL3jSb8zwJHh6RTi8=",
+        "TheSilent-0.0.186.tar.gz"
+      ],
+      "wheels": {
+        "TheSilent-0.0.186-py3-none-any.whl": [
+          "+etYLGxh5VJcWog1oD6utoomMKL8PtMQUQIofCf0VY4=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.187": {
+      "sdist": [
+        "wNVjalpmBghLuY5wMltAjm4evaStCH0Py0YEGrDAqoQ=",
+        "TheSilent-0.0.187.tar.gz"
+      ],
+      "wheels": {
+        "TheSilent-0.0.187-py3-none-any.whl": [
+          "y/wyRfD0eHis6gx2JRIIcAPh5UK6k2InQzpWwBQ7EM0=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.188": {
+      "sdist": [
+        "l70vseMHjRIJumMFb0x7SZzu2xuZaI4wAbTNhUbM3rE=",
+        "TheSilent-0.0.188.tar.gz"
+      ],
+      "wheels": {
+        "TheSilent-0.0.188-py3-none-any.whl": [
+          "ianrshLs/LeMsqFu0V1kdBxFT8IGDXymETvKmh99/c0=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.189": {
+      "sdist": [
+        "YnYyvcUnjuDHQSdwW6s8v1wbzWqVTBB5qxWrJzYBwic=",
+        "TheSilent-0.0.189.tar.gz"
+      ],
+      "wheels": {
+        "TheSilent-0.0.189-py3-none-any.whl": [
+          "+bqY6KnneWqdb6WamfbIUOLZYstbPW60u0jO3ECAEx8=",
+          "py3"
+        ]
+      }
+    },
     "0.0.19": {
       "sdist": [
         "7yIreuiTaKtYzaj/zlge5LBTCzTMiS4e36DatGYulWc=",
@@ -136182,6 +136316,30 @@
       "wheels": {
         "TheSilent-0.0.19-py3-none-any.whl": [
           "m7PCxgIEovJ2DG/8bwjeDWUQ2clL0lB+kAWXz2bZtUU=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.190": {
+      "sdist": [
+        "JsGSbugjOZV/yoRugRm3EydRdGxw+dJFab1ZR+VhIgc=",
+        "TheSilent-0.0.190.tar.gz"
+      ],
+      "wheels": {
+        "TheSilent-0.0.190-py3-none-any.whl": [
+          "H7TryaJdrY1N8YkeenKq53raYN5hZcfMogQnQkgg4Nk=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.191": {
+      "sdist": [
+        "ADMyQJSM9h0pwdewKfPnX0w5lROjUpMD9jiNveRLcvg=",
+        "TheSilent-0.0.191.tar.gz"
+      ],
+      "wheels": {
+        "TheSilent-0.0.191-py3-none-any.whl": [
+          "i4b0OVwiOMyOC7Wi7MBrLUKYjzB6YllB2NKtDzGxVEY=",
           "py3"
         ]
       }

@@ -9884,6 +9884,18 @@
         ]
       }
     },
+    "1.189.0": {
+      "sdist": [
+        "0V21IkwNctAMPa+YQL/12xZiQQsN3IO6PQkJ3wBT4Eo=",
+        "aws-cdk.aws-directoryservice-1.189.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_directoryservice-1.189.0-py3-none-any.whl": [
+          "z69+NbMADhedJ2DcN8bGyvsNob5Q4npkCl2aG13kWJ0=",
+          "py3"
+        ]
+      }
+    },
     "1.19.0": {
       "sdist": [
         "jg2mtwC7Z/3urkh3FxWp2kM0sL4ctwxdKCmCQxBREC8=",
@@ -15714,6 +15726,18 @@
       "wheels": {
         "botocore_a_la_carte_pricing-1.29.51-py3-none-any.whl": [
           "IB8LgenSKj12chQt6Z20nPgM53KpXPpab86jnV/shTw=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.52": {
+      "sdist": [
+        "jPouzVvkRmY2oC4LyCgYl4r1Zi12XigQjtUoSaXg6mU=",
+        "botocore-a-la-carte-pricing-1.29.52.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_pricing-1.29.52-py3-none-any.whl": [
+          "rFOaaS/dYLlFbWvFjowqyo0WXVxPRlF/zcgWDp8BiK4=",
           "py3"
         ]
       }
@@ -41657,6 +41681,12 @@
           "pp39"
         ]
       }
+    },
+    "1.0.0b1": {
+      "sdist": [
+        "SeNL43AWCEBSqJnjKrV8PkhcJIMi0qPQ3RblRC7MVVg=",
+        "eflomal-1.0.0b1.tar.gz"
+      ]
     }
   },
   "eks-node-migrator": {
@@ -60376,6 +60406,18 @@
       "wheels": {
         "ingl-0.0.501-py3-none-any.whl": [
           "eUi5hWbRJqoKm73Jb8Wil8CcxkQjBHcZRbnXlmjv7+M=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.502": {
+      "sdist": [
+        "+Gld2Y25I9hDpQM8KckDqZ6FTwhFvidmHpqQwOSQO3o=",
+        "ingl-0.0.502.tar.gz"
+      ],
+      "wheels": {
+        "ingl-0.0.502-py3-none-any.whl": [
+          "AXzMWMpVR8m8QRBfIAZkVcCj3VXvXJosoQW2vHn+nbw=",
           "py3"
         ]
       }
@@ -88131,6 +88173,18 @@
           "py3"
         ]
       }
+    },
+    "1.26.52": {
+      "sdist": [
+        "jcGy1ZSDahL6LonSDrI8NArIk+c5mSiaI2i3RQ1bUZU=",
+        "mypy-boto3-efs-1.26.52.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_efs-1.26.52-py3-none-any.whl": [
+          "n2xjiryeQBHTOs2Gbp8LhADeCeVjhfPxG6sVIQ+Ug5s=",
+          "py3"
+        ]
+      }
     }
   },
   "mypythonlib19": {
@@ -94104,6 +94158,14 @@
       "wheels": {
         "odoo12_addon_product_contract-12.0.5.3.0.99.dev1-py3-none-any.whl": [
           "NLG3xUW5m6iQPJSper+qeksbPG9em9x2Xjfu9HnfRsE=",
+          "py3"
+        ]
+      }
+    },
+    "12.0.5.3.0.99.dev2": {
+      "wheels": {
+        "odoo12_addon_product_contract-12.0.5.3.0.99.dev2-py3-none-any.whl": [
+          "Ls4BwnYmbga4926ZC1nH9ZsaAiOK/jSuva9GMAVuKNg=",
           "py3"
         ]
       }
@@ -115684,21 +115746,85 @@
         "python-ucto-0.6.2.tar.gz"
       ],
       "wheels": {
+        "python_ucto-0.6.2-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "9xeTbhPR+um9VJG808c9i+7jyyALc99wDzbw8msMyuI=",
+          "cp310"
+        ],
+        "python_ucto-0.6.2-cp310-cp310-macosx_11_0_arm64.whl": [
+          "cR/vTIwhbry/2vRr5N7NLGjkdEaeRbEpikAHIeXt4wE=",
+          "cp310"
+        ],
+        "python_ucto-0.6.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "u+FiEWJKawa7/3R8V3kOjJxAp660xfLFcTJ5Pig/pLc=",
+          "cp310"
+        ],
         "python_ucto-0.6.2-cp310-cp310-manylinux_2_28_x86_64.whl": [
           "unZTu9CjSg7WwqPaPw5wgW8GEo1xQ6jyx+JChXisq8M=",
           "cp310"
+        ],
+        "python_ucto-0.6.2-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "pfwBIp3dVBSKFeVsM66oQE0ls3vTrDxQO1vXO2mvoqk=",
+          "cp311"
+        ],
+        "python_ucto-0.6.2-cp311-cp311-macosx_11_0_arm64.whl": [
+          "+bJM1KeK6UjGc2kxpxZsFGQc7yoW52PHQBxqBN/V3cY=",
+          "cp311"
+        ],
+        "python_ucto-0.6.2-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "JVo6OcSqZFiAgV0N8lctS19mHuO8mt0yywwRp3owhIQ=",
+          "cp311"
+        ],
+        "python_ucto-0.6.2-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "Z/iEdiJtH5BrMZx4WIxHD3LI0ZnRkk4h7emF5xyMDug=",
+          "cp36"
+        ],
+        "python_ucto-0.6.2-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "GqmUBwBjvwUXOqOsSKeX2gMFQuG9k8oD7NHtP4TWNgw=",
+          "cp36"
         ],
         "python_ucto-0.6.2-cp36-cp36m-manylinux_2_28_x86_64.whl": [
           "7xSLANbcTgQ2EUgo5AWTNXTGEAZ6spyDnqLy5TxUARk=",
           "cp36"
         ],
+        "python_ucto-0.6.2-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "5n71rDQwqVg0syExysz3Wl73GAq6eOtbhuarmKfgK7w=",
+          "cp37"
+        ],
+        "python_ucto-0.6.2-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "SIihTXT6TFHlNAxkRiIxVgmlYBfY3OkNThMEWOwKO2o=",
+          "cp37"
+        ],
         "python_ucto-0.6.2-cp37-cp37m-manylinux_2_28_x86_64.whl": [
           "3/t3k5NtH6TPunJ8DbFlzhur61C6rG8uiCJexLjYUXQ=",
           "cp37"
         ],
+        "python_ucto-0.6.2-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "gqCDQ0cP9zMvza7ew6G3dAYBVjoj8oPZjn7Bg6cOV/M=",
+          "cp38"
+        ],
+        "python_ucto-0.6.2-cp38-cp38-macosx_11_0_arm64.whl": [
+          "eYlL3xOcPnLSwAFfClIa3KC4I4VuyjMAsI9seeeLLVs=",
+          "cp38"
+        ],
+        "python_ucto-0.6.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "uVoSv53tWhRasdVNDXd8M5L4aPbg20xQV1BiSerkTY4=",
+          "cp38"
+        ],
         "python_ucto-0.6.2-cp38-cp38-manylinux_2_28_x86_64.whl": [
           "7vr1zW1AZrOlk7VTTe/z8l/gv1RJFtPrYcZnjOp8D9c=",
           "cp38"
+        ],
+        "python_ucto-0.6.2-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "B0bLFMIMQwsrK4Bs3kZ+2vKbe3QGhFs0XRdl4RUR5+s=",
+          "cp39"
+        ],
+        "python_ucto-0.6.2-cp39-cp39-macosx_11_0_arm64.whl": [
+          "SvWinvqNvJeEHRGSrApwKGTdsFa1eVn+NYwYxSa95Ns=",
+          "cp39"
+        ],
+        "python_ucto-0.6.2-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "tcFtEGjJxBkIK1fjqVCG3LQn0fl95on3VpE3i8e6lZc=",
+          "cp39"
         ],
         "python_ucto-0.6.2-cp39-cp39-manylinux_2_28_x86_64.whl": [
           "6fg0kcdX1L7g7JeMI1V1P9hGWki8fNIx1ti0u5Zz7mg=",
@@ -122252,6 +122378,18 @@
     }
   },
   "rgmining-fraud-eagle": {
+    "0.10.0": {
+      "sdist": [
+        "auX+D3CZH+saUQ4LYQrhHHJt4ukkr2pt8zPS2XSNcK0=",
+        "rgmining_fraud_eagle-0.10.0.tar.gz"
+      ],
+      "wheels": {
+        "rgmining_fraud_eagle-0.10.0-py3-none-any.whl": [
+          "7npJgx7hMoDWQoK7s3VxphkPvFkzepqhOLtziVv1RfQ=",
+          "py3"
+        ]
+      }
+    },
     "0.9.0": {
       "sdist": [
         "90xsSyDxgF190dXlkczCrU8hK4Lb48Ec7oiT8NQtqsw=",

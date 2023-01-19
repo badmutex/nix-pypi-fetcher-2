@@ -8174,6 +8174,18 @@
         ]
       }
     },
+    "1.189.0": {
+      "sdist": [
+        "vnimE9t0yIzcyyAAxePtTo5o61dAFOrClyMoBOtbpCc=",
+        "aws-cdk.aws-lambda-destinations-1.189.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_lambda_destinations-1.189.0-py3-none-any.whl": [
+          "mEcJ3fID2wY4zIwzyuc6WG2WKPFW4wGAkwW/3fmHoxM=",
+          "py3"
+        ]
+      }
+    },
     "1.19.0": {
       "sdist": [
         "eESL+fYShgN0GJ/NF95gzLcubYsQeTRrK5+gESbJ3JE=",
@@ -10956,6 +10968,18 @@
       "wheels": {
         "aws_cdk.aws_rds-1.188.0-py3-none-any.whl": [
           "ZwaxsiI0jqud0Hj0ql1GH7A2ncimH0e/JdMLK/WyTzM=",
+          "py3"
+        ]
+      }
+    },
+    "1.189.0": {
+      "sdist": [
+        "TTzTpU5jYmJrdX3OQryb4iCTBGUx7wgePwMu972G9Bg=",
+        "aws-cdk.aws-rds-1.189.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_rds-1.189.0-py3-none-any.whl": [
+          "lbc7QUPuy4TrE64ioWA9uADabGfJisryBC9+mZkgss4=",
           "py3"
         ]
       }
@@ -42832,6 +42856,18 @@
         ]
       }
     },
+    "1.0.11": {
+      "sdist": [
+        "4v7JzdiJKT9qeVXOYiE0/GGIOnRjKj2/fdj3zI7juYk=",
+        "embody_serial-1.0.11.tar.gz"
+      ],
+      "wheels": {
+        "embody_serial-1.0.11-py3-none-any.whl": [
+          "Kuy472fOb6bi7o/YYxvR/n4praJxZrpwJoIzdcB0UEg=",
+          "py3"
+        ]
+      }
+    },
     "1.0.7": {
       "sdist": [
         "kEeCOvWZVI3kBUHUEnGbSLLemkdgXYkHxVnQgGyOTDQ=",
@@ -49496,6 +49532,18 @@
       "wheels": {
         "flytekitplugins_onnxscikitlearn-1.3.0b6-py3-none-any.whl": [
           "fqh3tEuw5IynvDm4pOIFczsY90j4Behtl7Bu8Ra47bw=",
+          "py3"
+        ]
+      }
+    },
+    "1.3.1": {
+      "sdist": [
+        "c1SvkY78iIPkG3s7Rf0cp5/ZORsYSRjmMk0rGT5rriA=",
+        "flytekitplugins-onnxscikitlearn-1.3.1.tar.gz"
+      ],
+      "wheels": {
+        "flytekitplugins_onnxscikitlearn-1.3.1-py3-none-any.whl": [
+          "xqEMF3GwlJMg8SatcQ7aQdX1q0gxexd0+ulmZVHqZ9A=",
           "py3"
         ]
       }
@@ -94074,6 +94122,14 @@
       "wheels": {
         "odoo10_addon_base_delivery_carrier_label-10.0.1.3.1-py2-none-any.whl": [
           "UILWxWUnDd6CqzI7ptyDZM696iNUnv4g6yIhfSoHWaM=",
+          "py2"
+        ]
+      }
+    },
+    "10.0.1.3.1.99.dev1": {
+      "wheels": {
+        "odoo10_addon_base_delivery_carrier_label-10.0.1.3.1.99.dev1-py2-none-any.whl": [
+          "voJpryIUHqi0sEKPCNhelGCv88zh1iTQaacEFu/3qU8=",
           "py2"
         ]
       }

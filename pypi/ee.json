@@ -1093,6 +1093,18 @@
           "py3"
         ]
       }
+    },
+    "1.3.4": {
+      "sdist": [
+        "9bu/lJB0oK9r3uZV8g/LbuCENYoiJUpr0v8XUgQ+Nrg=",
+        "adafruit-circuitpython-lidarlite-1.3.4.tar.gz"
+      ],
+      "wheels": {
+        "adafruit_circuitpython_lidarlite-1.3.4-py3-none-any.whl": [
+          "RhRpBaVVZHffDEeaal/QYtCqzMBWbR4MgWS4P6OGiLM=",
+          "py3"
+        ]
+      }
     }
   },
   "adafruit-circuitpython-rfm9x": {
@@ -9848,6 +9860,18 @@
       "wheels": {
         "aws_cdk.aws_greengrass-1.188.0-py3-none-any.whl": [
           "kxnWGI2gyzvKKBgqRqMOG0Sm86OL2w0zqRw7cSjoJGg=",
+          "py3"
+        ]
+      }
+    },
+    "1.189.0": {
+      "sdist": [
+        "CpRzNLGjdhMTUwEynSpFoyR/P9oQzHwDxmWj2M6hpWU=",
+        "aws-cdk.aws-greengrass-1.189.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_greengrass-1.189.0-py3-none-any.whl": [
+          "XwmJQPLdqvmO+9Fa1m8j7zNvXdrEZvARtEKznraaGVU=",
           "py3"
         ]
       }
@@ -23666,6 +23690,18 @@
       "wheels": {
         "coop-4.1.1-py3-none-any.whl": [
           "Fd7/TjpMKAYEqzZYgqcY1LbY9Pki5Z1yCqpTNTrokK8=",
+          "py3"
+        ]
+      }
+    },
+    "4.1.2": {
+      "sdist": [
+        "AqQS8rp3pwodskhcRFZOaA9IIsBOQi0ocXr9VCoZ3Hc=",
+        "coop-4.1.2.tar.gz"
+      ],
+      "wheels": {
+        "coop-4.1.2-py3-none-any.whl": [
+          "MMGJiZbcv8ttz0l4uq0ez90b2jbpXTPMw9LzRJPCCUo=",
           "py3"
         ]
       }
@@ -107985,6 +108021,136 @@
       ]
     }
   },
+  "pyplotgui": {
+    "1.0.0": {
+      "sdist": [
+        "O3VR9WLdvoWs1dulIT5k28Ft1h8fXOzcr/t48Vt/8yI=",
+        "pyplotgui-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "pyplotgui-1.0.0-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "RzvvB9mxB/Dtub7tBnat17JISGnv9oBZa/p8d9ZPA9M=",
+          "cp310"
+        ],
+        "pyplotgui-1.0.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "OEFlut8i5M/01Br7ANgqBWycvkA32iODXhnFkbC4P4U=",
+          "cp310"
+        ],
+        "pyplotgui-1.0.0-cp310-cp310-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "YhFXiBfBF/5oFjIz9Aco73ABu3N4QXBLkECK7aYBPv8=",
+          "cp310"
+        ],
+        "pyplotgui-1.0.0-cp310-cp310-win32.whl": [
+          "VFSeIYG1Ko3gNlaAdiaxNsGR+KGL8rAfccjyunjGQqg=",
+          "cp310"
+        ],
+        "pyplotgui-1.0.0-cp310-cp310-win_amd64.whl": [
+          "7n8IvXobeq8HNr8Ag+lfPqW+5g+zX8xFanuQYF0/zFs=",
+          "cp310"
+        ],
+        "pyplotgui-1.0.0-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "TWEIj/vFJQ0jvKmjp17Ul/Vy25JFYl5VATqsfhCow9U=",
+          "cp311"
+        ],
+        "pyplotgui-1.0.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "EFc8kzJOyUDdW5wYdkcaoTgYWr4JrNzHc+qrIm6xh70=",
+          "cp311"
+        ],
+        "pyplotgui-1.0.0-cp311-cp311-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "VEencBe/I5xuQsMNN1+kmAbahXJNNmgjtOA6P5+THQ0=",
+          "cp311"
+        ],
+        "pyplotgui-1.0.0-cp311-cp311-win32.whl": [
+          "m1T+AS/a/Nih5jyV3dMd48Vpz+oJZFGBLrkf+IDYn2Y=",
+          "cp311"
+        ],
+        "pyplotgui-1.0.0-cp311-cp311-win_amd64.whl": [
+          "FYQeNJzKDOE0fcR2CoD0KAe55J3Z2F5JP1XsvL3BvSg=",
+          "cp311"
+        ],
+        "pyplotgui-1.0.0-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "4FGkYf2kgYM1gsEPmz4DkzjAZr2Zx5nZ832jf+3yigI=",
+          "cp36"
+        ],
+        "pyplotgui-1.0.0-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "mWR3f+1RZx4A7Og8vB25H3DCGSqRYmvXJVdUcYXHNTQ=",
+          "cp36"
+        ],
+        "pyplotgui-1.0.0-cp36-cp36m-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "SMRBM0mqQjsD8rRr7EaDP52ZzhcBZ9bqNqfkRzHBM+E=",
+          "cp36"
+        ],
+        "pyplotgui-1.0.0-cp36-cp36m-win32.whl": [
+          "7pttEQ6Et7RNXLURy06rkAmzrd6Ph3PxW4FIZLhLTT0=",
+          "cp36"
+        ],
+        "pyplotgui-1.0.0-cp36-cp36m-win_amd64.whl": [
+          "/8mjWv+oXoiN1VCDlq2VHtb05MKoPsOS8qNisw5BQLY=",
+          "cp36"
+        ],
+        "pyplotgui-1.0.0-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "eTZRtiUgi+AJVoE/6rSMMmezHGFGHOcECIcGJ3z35x4=",
+          "cp37"
+        ],
+        "pyplotgui-1.0.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "FJYzVdANN4L+UPLcatMDC+Fqae6ELI10GkWaQA+/ASA=",
+          "cp37"
+        ],
+        "pyplotgui-1.0.0-cp37-cp37m-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "FxR2IJHUu4glO+wIuSvJjcKpN1zK8s0jgM4qeqh1mNw=",
+          "cp37"
+        ],
+        "pyplotgui-1.0.0-cp37-cp37m-win32.whl": [
+          "MYY5EVEX9GijsUwfHsmXHITKeW7tENQyd43UMZhEeL8=",
+          "cp37"
+        ],
+        "pyplotgui-1.0.0-cp37-cp37m-win_amd64.whl": [
+          "wpZc5/lX+GsW2aT2moXoqoDx7+cUneydEMwjZnwaL0U=",
+          "cp37"
+        ],
+        "pyplotgui-1.0.0-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "T0iFb1V75ijdw3pbuRWyiCMFqGS9zKwtg/tCsunpuA4=",
+          "cp38"
+        ],
+        "pyplotgui-1.0.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ZfXiDobLU1K0Mv2962EtPaV9g3qjk/83K9cspHkxyxI=",
+          "cp38"
+        ],
+        "pyplotgui-1.0.0-cp38-cp38-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "CtzRkTrG2J9Bk6gOZhfcIplxGhHVelyBAzRR0HT/RWc=",
+          "cp38"
+        ],
+        "pyplotgui-1.0.0-cp38-cp38-win32.whl": [
+          "7Dd1vRlDcdc1bnu/VOwvH+/UW1IQBcXr5dMKolvOpNA=",
+          "cp38"
+        ],
+        "pyplotgui-1.0.0-cp38-cp38-win_amd64.whl": [
+          "sxoZz5OCeOZUcY4DhQJ8OiqjOv+vk6PodiGf2syPB08=",
+          "cp38"
+        ],
+        "pyplotgui-1.0.0-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "IhhXkMeOuWvIb3XU/b9Rbvp+gNmT+s2qgoVHhHThcAc=",
+          "cp39"
+        ],
+        "pyplotgui-1.0.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "H0KKTCEF37oz4pIJYkUcZaKKYCs9ykOeKnXT/+TlvoE=",
+          "cp39"
+        ],
+        "pyplotgui-1.0.0-cp39-cp39-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "0EvfLyRz1rYyCQCCddaDjmu5c4xN7gupmVSFliQRhRs=",
+          "cp39"
+        ],
+        "pyplotgui-1.0.0-cp39-cp39-win32.whl": [
+          "ARv63CdC+9+JfMzWvshjNHX27ERuykZjCfqs1lKmpeA=",
+          "cp39"
+        ],
+        "pyplotgui-1.0.0-cp39-cp39-win_amd64.whl": [
+          "VvKcbfxFsUAFR+ubmhH+n4aVESpDn/sUv3M1vp8s0MM=",
+          "cp39"
+        ]
+      }
+    }
+  },
   "pyplugs": {
     "0.1.0": {
       "sdist": [
@@ -130725,6 +130891,18 @@
           "py3"
         ]
       }
+    },
+    "2.64.0": {
+      "sdist": [
+        "kSgaLf30jczIQHmXE4YYeWdsQQKbBSwuUGv61OrSs0k=",
+        "siriuspy-2.64.0.tar.gz"
+      ],
+      "wheels": {
+        "siriuspy-2.64.0-py3-none-any.whl": [
+          "1jJm0+f86108L7kTXtys1VVEjPl9Bqip8ZuSGjO9mVE=",
+          "py3"
+        ]
+      }
     }
   },
   "sjgefily1": {
@@ -145628,6 +145806,18 @@
       "wheels": {
         "tencentcloud_sdk_python_ticm-3.0.816-py2.py3-none-any.whl": [
           "0ryeC/VJFY5y/ly9mAG0kKNH9Ue4rZOBFKQfxtA7iQI=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.817": {
+      "sdist": [
+        "FTbAeLZxL72EcxzLADCzoLkfWjs3Mi23jFuZn3DtyoY=",
+        "tencentcloud-sdk-python-ticm-3.0.817.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_ticm-3.0.817-py2.py3-none-any.whl": [
+          "mITQf0PuF0FVSmFUGzeJHP7HkLuxmNFlNkoU2rLGjyo=",
           "py2.py3"
         ]
       }

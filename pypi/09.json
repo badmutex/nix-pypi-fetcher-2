@@ -6928,6 +6928,18 @@
         ]
       }
     },
+    "1.189.0": {
+      "sdist": [
+        "BOmVoj5jD5IGVfjLrrcWoSxWSy3IiUe8q55qVESrtLM=",
+        "aws-cdk.aws-docdb-1.189.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_docdb-1.189.0-py3-none-any.whl": [
+          "612EeXjZDQcvWWUaqPqL5iktNAyiWaa3jvRh74gU000=",
+          "py3"
+        ]
+      }
+    },
     "1.19.0": {
       "sdist": [
         "ZEWPy320+E8FUd4RbY6TwcAAP6hjLN1ffyu098mTaak=",
@@ -8885,6 +8897,18 @@
           "py3"
         ]
       }
+    },
+    "1.189.0": {
+      "sdist": [
+        "r8mP2L3O3Oii/3LjZj57YBeX+4NM1SpyG65Z7uoGGl0=",
+        "aws-cdk.aws-forecast-1.189.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_forecast-1.189.0-py3-none-any.whl": [
+          "qU2Fy9ghmi7dvcSutX4CUxc7izLqIVPRDdWj0xowqXs=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-cdk.aws-iam": {
@@ -10504,6 +10528,18 @@
       "wheels": {
         "aws_cdk.aws_iam-1.188.0-py3-none-any.whl": [
           "vR8zwpsvYCrHD91QlwFEeWDA1Jyxs8Ynt6eUYqXz9K8=",
+          "py3"
+        ]
+      }
+    },
+    "1.189.0": {
+      "sdist": [
+        "zfb0fymW2RY2MPJ4UOfnM+pnr53x1h9sPl5xJNYIgUY=",
+        "aws-cdk.aws-iam-1.189.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_iam-1.189.0-py3-none-any.whl": [
+          "UALp3xJbHHiYPvzQ+ZDNAcRDwAtgFOUXxMo6uiqTOms=",
           "py3"
         ]
       }
@@ -13002,6 +13038,18 @@
       "wheels": {
         "aws_cdk.aws_kinesisanalytics_flink-1.188.0-py3-none-any.whl": [
           "Q+/lpEJmKKyWaFuiGs8j8cMckDT5psOePv0wEK879rs=",
+          "py3"
+        ]
+      }
+    },
+    "1.189.0": {
+      "sdist": [
+        "iu3ZVutNldyy5PS/91d0BCbeI2LUigZMMJT8wPKtB4I=",
+        "aws-cdk.aws-kinesisanalytics-flink-1.189.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_kinesisanalytics_flink-1.189.0-py3-none-any.whl": [
+          "4bdEe8W1MZJzblGnxRN+gLxFOFwrhvyyLT/Xiy1FntU=",
           "py3"
         ]
       }
@@ -18155,6 +18203,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.52": {
+      "sdist": [
+        "NDGJTBQl20j8rnyvrw+lFO6YLz5mNxA2wVEfx5PzkKk=",
+        "botocore-a-la-carte-connect-1.29.52.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_connect-1.29.52-py3-none-any.whl": [
+          "dx0lp9MDp1RuLzR+7/pE/+p8R5ygP1Hi61kNNsFB3js=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-serverlessrepo": {
@@ -18274,6 +18334,18 @@
       "wheels": {
         "botocore_a_la_carte_serverlessrepo-1.29.51-py3-none-any.whl": [
           "ug3n03IsYq6n434LmkKjYb1+t2aJO2HBSVm0/5/Ho4M=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.52": {
+      "sdist": [
+        "HGpDM17kh0VMnHx9KQGGcOs6SRPGAEgP+EIPuC9ZqVk=",
+        "botocore-a-la-carte-serverlessrepo-1.29.52.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_serverlessrepo-1.29.52-py3-none-any.whl": [
+          "iarygP6Qj6h1Q+FiHl1lZLC9W+WNvEoA4JgZCVb/BpA=",
           "py3"
         ]
       }
@@ -37900,6 +37972,18 @@
       "wheels": {
         "ergastirio-0.23-py3-none-any.whl": [
           "V9xTiNKqdSgCNY5DUFkTJhstzdLv7HbVhpXFSLE9fpI=",
+          "py3"
+        ]
+      }
+    },
+    "0.25": {
+      "sdist": [
+        "14v4VeWQELLLHimGvb+Y5yaqfjblhhgWomiGwbHvRow=",
+        "ergastirio-0.25.tar.gz"
+      ],
+      "wheels": {
+        "ergastirio-0.25-py3-none-any.whl": [
+          "70QFjgd0BhaAPUIp77kAnodhG5NUIj8ykUHzbhTZH8k=",
           "py3"
         ]
       }
@@ -78703,6 +78787,14 @@
           "py3"
         ]
       }
+    },
+    "13.0.1.1.1.dev4": {
+      "wheels": {
+        "odoo13_addon_fieldservice_sale-13.0.1.1.1.dev4-py3-none-any.whl": [
+          "VAwQe8KtYZ+WQVGLv65QBtZjNf3r6H8jV9kNonYk/4I=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo13-addon-hr-timesheet-analysis": {
@@ -117201,6 +117293,74 @@
           "cp39"
         ]
       }
+    },
+    "2023.1.3": {
+      "sdist": [
+        "sDOG9OeEJCjaVZtGrw6xwy3gaBgO8SZgt2aKhupgKcE=",
+        "robotpy-rev-2023.1.3.tar.gz"
+      ],
+      "wheels": {
+        "robotpy_rev-2023.1.3-cp310-cp310-macosx_10_16_x86_64.whl": [
+          "q2h2kXlruN2bTDI97tM2ZPgSKpWELJ35mOtJPALTMPA=",
+          "cp310"
+        ],
+        "robotpy_rev-2023.1.3-cp310-cp310-manylinux_2_35_x86_64.whl": [
+          "r4xwGDiaK5sul+86vBizcKNW4AoUsrEMM27EgRGshug=",
+          "cp310"
+        ],
+        "robotpy_rev-2023.1.3-cp310-cp310-win_amd64.whl": [
+          "joQKni+PLr0Luta/kV+IzMTk70pHSwfEkS9S9P5z5pc=",
+          "cp310"
+        ],
+        "robotpy_rev-2023.1.3-cp311-cp311-macosx_11_0_universal2.whl": [
+          "69d6UZo9ATrVnU6eSGLfmYObiCt5kpOMA1SMx9BJXcI=",
+          "cp311"
+        ],
+        "robotpy_rev-2023.1.3-cp311-cp311-manylinux_2_35_x86_64.whl": [
+          "oWuVwAXlt1P9ovxG1SILlYw7we+E6eK3Ks9j7uaW1Ko=",
+          "cp311"
+        ],
+        "robotpy_rev-2023.1.3-cp311-cp311-win_amd64.whl": [
+          "AkcJd51Y2HThR+CwkmiBpqP2YBBLgResSNhToSfV8WE=",
+          "cp311"
+        ],
+        "robotpy_rev-2023.1.3-cp37-cp37m-macosx_10_16_x86_64.whl": [
+          "XsM+6cKm0LCQrYEKZHno3DIgObSGqJX/ZDpbpgFyydU=",
+          "cp37"
+        ],
+        "robotpy_rev-2023.1.3-cp37-cp37m-manylinux_2_35_x86_64.whl": [
+          "XB/UO5spEVAGKDmPKm6/fG4PAc8rYApLcZfp4sEsqfw=",
+          "cp37"
+        ],
+        "robotpy_rev-2023.1.3-cp37-cp37m-win_amd64.whl": [
+          "RD5C7GRllLEh+lqn+l3rNgZTvA+V3hfQsEJjCZFFNk8=",
+          "cp37"
+        ],
+        "robotpy_rev-2023.1.3-cp38-cp38-macosx_10_16_x86_64.whl": [
+          "euwJUYsBqOgDhoTk8HdnUX8Log8g6cimkjkwl2PJlfw=",
+          "cp38"
+        ],
+        "robotpy_rev-2023.1.3-cp38-cp38-manylinux_2_35_x86_64.whl": [
+          "1p4QkqJ7DDYTRBoAFhmZpLL21SiPIybiviYcx2fUKas=",
+          "cp38"
+        ],
+        "robotpy_rev-2023.1.3-cp38-cp38-win_amd64.whl": [
+          "YG50Qpz/gRDXkroUqjYAJbIOjNE/ar8CoUeAmQ9093c=",
+          "cp38"
+        ],
+        "robotpy_rev-2023.1.3-cp39-cp39-macosx_10_16_x86_64.whl": [
+          "Nh0MbRikkK2PUaBfJ51s+mYeSUHOtxcGl69Tjis6TcY=",
+          "cp39"
+        ],
+        "robotpy_rev-2023.1.3-cp39-cp39-manylinux_2_35_x86_64.whl": [
+          "GV+r+A5RnwWM9Lp1YcVJm+B+x2LNwGB1zP958q0V1qY=",
+          "cp39"
+        ],
+        "robotpy_rev-2023.1.3-cp39-cp39-win_amd64.whl": [
+          "DcSDIdYV6oUyWYcBWcM47Qq04whuYkALWnrWILz1BG8=",
+          "cp39"
+        ]
+      }
     }
   },
   "robustml": {
@@ -132332,6 +132492,18 @@
         ]
       }
     },
+    "2022.1.19rc1": {
+      "sdist": [
+        "LX7d1efNCDDjRLztl95tITRnRJhU/h9tdMeJIYa0YMI=",
+        "sktmls-2022.1.19rc1.tar.gz"
+      ],
+      "wheels": {
+        "sktmls-2022.1.19rc1-py3-none-any.whl": [
+          "4TpTwY8ZO+XXR54ehRIf9Q4aND3RK+Alz/bKxVlayXo=",
+          "py3"
+        ]
+      }
+    },
     "2022.11.17rc1": {
       "sdist": [
         "B5RR+rRl3kkUQdGt1QthXIEasCTQqbGoCqTr8TZtGhk=",
@@ -132616,6 +132788,18 @@
       "wheels": {
         "sktmls-2022.12.1rc9-py3-none-any.whl": [
           "TJQ/o5TSuoR5ueOTrR5Sj2WUFEoYe70Q5nd8g2gDO8I=",
+          "py3"
+        ]
+      }
+    },
+    "2023.1.19rc1": {
+      "sdist": [
+        "97sjTlC3/qntEavFIGd/5cZA93U9h3XzKttiTJSA4u8=",
+        "sktmls-2023.1.19rc1.tar.gz"
+      ],
+      "wheels": {
+        "sktmls-2023.1.19rc1-py3-none-any.whl": [
+          "tKxRGNYzsWmp4f22MSxEo+wtwxY/B7iJy78/t1LhNEI=",
           "py3"
         ]
       }
@@ -141941,6 +142125,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.817": {
+      "sdist": [
+        "s73TCLjc8Reb2uMDHF8k45n1peCuUCoMCWx5OO5DBC8=",
+        "tencentcloud-sdk-python-ciam-3.0.817.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_ciam-3.0.817-py2.py3-none-any.whl": [
+          "UC85zymhkQG64K6MjQPfjXmRV8r3FzveDAfl7n00hcc=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tenyks": {
@@ -144500,6 +144696,18 @@
       "wheels": {
         "traceml-1.0.6-py3-none-any.whl": [
           "KrV04K0f0dF66O6hHXH4K4j5r5lcsjI/ELWE4DsC9gs=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.7": {
+      "sdist": [
+        "ay2OQe4qCr1pSymTSEVDejZHkJ6IzZ60aUoojYoGLg4=",
+        "traceml-1.0.7.tar.gz"
+      ],
+      "wheels": {
+        "traceml-1.0.7-py3-none-any.whl": [
+          "dI4TnlaQOaI1+vMXxXLrs21Ff6wi5uUPYrWj5uEmjkY=",
           "py3"
         ]
       }

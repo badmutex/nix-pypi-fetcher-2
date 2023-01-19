@@ -8142,6 +8142,18 @@
         ]
       }
     },
+    "1.189.0": {
+      "sdist": [
+        "l7YU8weedCtfForE7+0xJfgSEx79Kk4zlYZewtu2AfE=",
+        "aws-cdk.aws-efs-1.189.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_efs-1.189.0-py3-none-any.whl": [
+          "SWXv7Jc515X3scJPDM2VPahPOISHGI9Z28BzW0YIFxo=",
+          "py3"
+        ]
+      }
+    },
     "1.19.0": {
       "sdist": [
         "zEfB8HLVorPNPbAWDmOvNqR0zGE1syjDc4ZYHz5HtEY=",
@@ -14975,6 +14987,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.52": {
+      "sdist": [
+        "7H+nYsPgxZ4AcUq20BLb9PNdYqVgMUbDXE3snL+4MBQ=",
+        "botocore-a-la-carte-chime-sdk-voice-1.29.52.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_chime_sdk_voice-1.29.52-py3-none-any.whl": [
+          "WkjUOOpDQqzL8i6IqWEnOBerOSU+iKY77zml8Mb+i3Y=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-mwaa": {
@@ -15094,6 +15118,18 @@
       "wheels": {
         "botocore_a_la_carte_mwaa-1.29.51-py3-none-any.whl": [
           "6/uaiGQisXtun5qGqY6w26ScifFO9o/glYpnq9UjLbc=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.52": {
+      "sdist": [
+        "sRyIl4JU0x9vaZvb6UgHBw2sNQBHZiX4hS14S3Yl95g=",
+        "botocore-a-la-carte-mwaa-1.29.52.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_mwaa-1.29.52-py3-none-any.whl": [
+          "AmkCHM9CjV4jzmspw6OuTJ4yCVkKPTnQGx/EOW2wRtQ=",
           "py3"
         ]
       }
@@ -43438,6 +43474,20 @@
       "wheels": {
         "graysimp-0.0.8-py3-none-any.whl": [
           "dgv9pMgzYTddA/sWQepKNapA6yjzWfYjHJE60hpWILY=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "gridworks-marketmaker": {
+    "0.0.3": {
+      "sdist": [
+        "Pa3GYyieO95tY/Rpl7BjDorcngfoaciXaixrh753JFo=",
+        "gridworks_marketmaker-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "gridworks_marketmaker-0.0.3-py3-none-any.whl": [
+          "Th4no99P/UDXvdmBDdglo18abgB32NIi831bwhADLKA=",
           "py3"
         ]
       }
@@ -109493,6 +109543,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.817": {
+      "sdist": [
+        "DxVFHvj0hTsvclV+XcOR5OwXgjsp46/1ZKD7kejVdsc=",
+        "tencentcloud-sdk-python-dasb-3.0.817.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_dasb-3.0.817-py2.py3-none-any.whl": [
+          "+yZ2UiRRpvp7oGFhG4cH24sCZ60FLAekZsEHpYyjhSg=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tensorflow-cpu-test-package": {
@@ -132628,6 +132690,42 @@
       "wheels": {
         "XAISuite-0.7.9-py3-none-any.whl": [
           "yLa4Trl6QiY97UWauU0G170hsjYNv4Y1WBKJ+mT7Q+4=",
+          "py3"
+        ]
+      }
+    },
+    "0.8.0": {
+      "sdist": [
+        "l18BWMIzpBv2E490yCxiGxK648aFmFe6oOYcW8u2SME=",
+        "XAISuite-0.8.0.tar.gz"
+      ],
+      "wheels": {
+        "XAISuite-0.8.0-py3-none-any.whl": [
+          "yP5/J7eYtwvUlswTawBpqDK8SspOl4B5ZVFH0GQu0mk=",
+          "py3"
+        ]
+      }
+    },
+    "0.8.1": {
+      "sdist": [
+        "urRcw1yWxkSVZxyMjxizman2TjqK8vfxLrG9boICMuk=",
+        "XAISuite-0.8.1.tar.gz"
+      ],
+      "wheels": {
+        "XAISuite-0.8.1-py3-none-any.whl": [
+          "nPAXOVFOr3cEND/SskJyCc/LpV/srE+DC4Hy/8nxf1A=",
+          "py3"
+        ]
+      }
+    },
+    "0.8.2": {
+      "sdist": [
+        "8zrs6dp9vmt+sfyenJp1mJKzCNE8kVVj9yIBFjKp6bM=",
+        "XAISuite-0.8.2.tar.gz"
+      ],
+      "wheels": {
+        "XAISuite-0.8.2-py3-none-any.whl": [
+          "ws4R0vjiTGomdb6TGGU8qIcisF2ry6Quns8P+K18fWs=",
           "py3"
         ]
       }

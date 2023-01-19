@@ -8606,6 +8606,54 @@
         ]
       }
     },
+    "3.10.2": {
+      "wheels": {
+        "bcml-3.10.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "14ojhBartuJJMO9BHd2zjqw5OQGE645YRLeLnX3P2Sg=",
+          "cp310"
+        ],
+        "bcml-3.10.2-cp310-none-win_amd64.whl": [
+          "wtIiTaWW8z3MAp/DeOBbTHt53Uemd0bz4Nz5R7E0yzs=",
+          "cp310"
+        ],
+        "bcml-3.10.2-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "BulSCjcYQzMSQB+/b/yomA9jBm6NRmIbavpMR9Ikdrw=",
+          "cp311"
+        ],
+        "bcml-3.10.2-cp311-none-win_amd64.whl": [
+          "kkKBE7lHXHZ2Jfn4OD+bp8F/tQv2PBqy10ByY7UNiYU=",
+          "cp311"
+        ],
+        "bcml-3.10.2-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "mo9DLxuQfm5VgOrYyBjy9jRLSaHIeWZDMOXB6yWt000=",
+          "cp37"
+        ],
+        "bcml-3.10.2-cp37-none-win_amd64.whl": [
+          "hgP780ebBJZKgteABMb3srE8fs3weZhsExAeyesph4o=",
+          "cp37"
+        ],
+        "bcml-3.10.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "BoM3hVhGUYAih1lMdRQ/VP2puXo8GPnNVGFvHV0iVaE=",
+          "cp38"
+        ],
+        "bcml-3.10.2-cp38-none-win_amd64.whl": [
+          "ndhym6raLRZThlYjyt3URU+Dm6Y0kgkLxWMNX2gVq7c=",
+          "cp38"
+        ],
+        "bcml-3.10.2-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "sftHJjnKRJnKNxZXqly7cOMlzUcy7RKwmYRrfMKWKeY=",
+          "cp39"
+        ],
+        "bcml-3.10.2-cp39-none-win_amd64.whl": [
+          "bawQkx1YAbyCstOXVB6J7d7XH/gJ9fc9ND3ghoiwZLQ=",
+          "cp39"
+        ],
+        "bcml-3.10.2-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "wXjDYBS8oYNjQ/GxXpBMKMfTcp+A0hnxpwjlIJyvX8A=",
+          "pp37"
+        ]
+      }
+    },
     "3.2.0.post1": {
       "sdist": [
         "dfxNRGas5Zyxxl3B1V+uP5O+B8QYzMzJRfLCMJ4oXmc=",
@@ -12016,6 +12064,18 @@
       "wheels": {
         "botocore_a_la_carte_macie2-1.29.51-py3-none-any.whl": [
           "MK7ahnPGjWHkXBCYsywZ0H5zUVF/zCiIjhUS/61YViY=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.52": {
+      "sdist": [
+        "4m1gfGVP18STJwGBMkXkiDVmbtY5wgx+4GH3Bis2uZU=",
+        "botocore-a-la-carte-macie2-1.29.52.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_macie2-1.29.52-py3-none-any.whl": [
+          "JepwH8kgtJWhFqPYnzdPmk9SM25VoeEtRajqWxPXJ2M=",
           "py3"
         ]
       }
@@ -20234,6 +20294,18 @@
       "wheels": {
         "cdk_kubesphere-2.0.254-py3-none-any.whl": [
           "LPSan1RmSB6k4jbo1Bb1h+P4FyrNSq2Sn0pG1vcD1eA=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.255": {
+      "sdist": [
+        "Hbab/VfHwVCotwsRhqS/FaqfOhKZtzrhLU0Yg5ogPl4=",
+        "cdk-kubesphere-2.0.255.tar.gz"
+      ],
+      "wheels": {
+        "cdk_kubesphere-2.0.255-py3-none-any.whl": [
+          "9uWNfVqQBBeEIKmeLuyLlm+W/4sjOOLUNgDeqGj+WIw=",
           "py3"
         ]
       }
@@ -51619,6 +51691,18 @@
           "py3"
         ]
       }
+    },
+    "1.3.1": {
+      "sdist": [
+        "GMJ7kxGB5AH/XaH/ofL6krWkefN81+jqbU5MAfV9dsg=",
+        "flytekitplugins-ray-1.3.1.tar.gz"
+      ],
+      "wheels": {
+        "flytekitplugins_ray-1.3.1-py3-none-any.whl": [
+          "J4ijXVi9fcR4u62ZSv1voVHpx5JfzpG6i9VHSlJzS2I=",
+          "py3"
+        ]
+      }
     }
   },
   "fmtlabels": {
@@ -73739,6 +73823,14 @@
           "py3"
         ]
       }
+    },
+    "7.8.0.post1": {
+      "wheels": {
+        "kelvin_sdk_client-7.8.0.post1-py3-none-any.whl": [
+          "RMeh8X5N0a9BP4K1rdsz+g59y0kb76D7L1jPdhOQFtU=",
+          "py3"
+        ]
+      }
     }
   },
   "kend": {
@@ -85312,6 +85404,18 @@
       "wheels": {
         "musicdiff-1.4.0-py3-none-any.whl": [
           "FBQOFaXpT6CozVLgHncmXa4dAWKpOjSef+8qZ9SQ0EE=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.0": {
+      "sdist": [
+        "zkAmd1SCmzi+YCCJ20SjpT2Y+zp2asMOX8JeFS+JC+A=",
+        "musicdiff-2.0.0.tar.gz"
+      ],
+      "wheels": {
+        "musicdiff-2.0.0-py3-none-any.whl": [
+          "BYIBEFIZyCk5Qhb6w9KWHUJ88GfuHME+AhH2pdZd8WQ=",
           "py3"
         ]
       }
@@ -125521,6 +125625,18 @@
         "rutter-0.4-py2.py3-none-any.whl": [
           "9qm2yLRe5obsJgJlqJATBB422N0AAN8ZdyODepaLHH8=",
           "py2.py3"
+        ]
+      }
+    },
+    "1.0b1": {
+      "sdist": [
+        "wXHkwHNeIc21i+MP5dJvIaUb0N4w3asVYC41DPfrmfE=",
+        "rutter-1.0b1.tar.gz"
+      ],
+      "wheels": {
+        "rutter-1.0b1-py3-none-any.whl": [
+          "yV/aCReT60SUs+EB2MSru1pJYMvq7xkcVtz3lHiNPVc=",
+          "py3"
         ]
       }
     }

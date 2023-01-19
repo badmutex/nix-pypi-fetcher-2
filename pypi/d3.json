@@ -10542,6 +10542,18 @@
         ]
       }
     },
+    "1.189.0": {
+      "sdist": [
+        "N4JJ+iinmaAcO6K6rDqRJgWaIKu1tsojXMmo7iJRsD8=",
+        "aws-cdk.aws-fsx-1.189.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_fsx-1.189.0-py3-none-any.whl": [
+          "Tvy8ToBWBBdrPvkN8aKtW1KUFdkdEOcflfiZD30iLmo=",
+          "py3"
+        ]
+      }
+    },
     "1.19.0": {
       "sdist": [
         "9BoO92eQHmotbPVv2cqQ7mkJSyI7APoisgs6BVTs5Jw=",
@@ -16610,6 +16622,18 @@
       "wheels": {
         "bit_diffusion-0.0.14-py3-none-any.whl": [
           "KwQax5Sq921GpLNWLdtcsd1rkN4fUQw+Bp0b3VncQjo=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.15": {
+      "sdist": [
+        "3+rzsikhKcneRO+5hUDmzpQ2a+2K8DrEMwLlXQ2k2mE=",
+        "bit-diffusion-0.0.15.tar.gz"
+      ],
+      "wheels": {
+        "bit_diffusion-0.0.15-py3-none-any.whl": [
+          "IN7B3rwDM+RSlrsuF+ay319E8ctuuPzdXvvEmAzfAnw=",
           "py3"
         ]
       }
@@ -109179,6 +109203,18 @@
           "py2.py3"
         ]
       }
+    },
+    "0.8.6": {
+      "sdist": [
+        "y7Yy3aeXXuQ5lYEQCBPGDiGMHBFuE7DRG68Z4Y+VZO8=",
+        "pollination-daylight-factor-0.8.6.tar.gz"
+      ],
+      "wheels": {
+        "pollination_daylight_factor-0.8.6-py2.py3-none-any.whl": [
+          "ZAv1gLVTiBsHGZudigKv3MnaDez8j9mtNZJSGx4sLko=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "polyscope": {
@@ -143525,6 +143561,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.817": {
+      "sdist": [
+        "HHfjYhsDRts89xEkaW+2voLSEgpymucIoEz1ce8+RtU=",
+        "tencentcloud-sdk-python-eiam-3.0.817.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_eiam-3.0.817-py2.py3-none-any.whl": [
+          "Aj9d8iumn8SDyfZ/0YOFa4HiU0fQi5UzQID7Sasb4mU=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tensor-algebra-dont-use": {
@@ -145428,6 +145476,32 @@
       "wheels": {
         "TextSpitter-0.3.6-py3-none-any.whl": [
           "TomtRpCcqeejLSSqR0fXulDgwCwPAK6F1gABEdDOIP8=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "textsum": {
+    "0.1.1": {
+      "sdist": [
+        "3fPo1ERjFG/5rcLrs91Od8HP5tZTz1fFZW5ZKpsJoIs=",
+        "textsum-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "textsum-0.1.1-py3-none-any.whl": [
+          "tJxzfirSjGjt3FDk0ETxY0xD+bI0/CJAqw0NZGh81/Q=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "JV0t8Y47lyRYrRjMYpNgV5pbQSEOu8QE+ZnByV7m2zw=",
+        "textsum-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "textsum-0.1.2-py3-none-any.whl": [
+          "B9SvezpjSkkp282dt+JRPgr+dsJu55fWwPAFijwmCHg=",
           "py3"
         ]
       }
@@ -154257,6 +154331,122 @@
           "pp39"
         ]
       }
+    },
+    "0.2.0": {
+      "sdist": [
+        "7LnelJhriQfLS/kONMFMg83a3fsxEYwnMfINlmSc+8o=",
+        "xurdfpy-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "xurdfpy-0.2.0-cp310-cp310-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "dNefP99ZE+6xmtjV5LeuMgVaPo2Ilysu+bE1WhZOzNo=",
+          "cp310"
+        ],
+        "xurdfpy-0.2.0-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "/kwZciE70DKRExvGwbLmX8A/136VhDuk93SYVBPMjCk=",
+          "cp310"
+        ],
+        "xurdfpy-0.2.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ey7Ve3hLNj75wLOw/caVDbyPu7+Yx9ZzmEWc+6+qEsc=",
+          "cp310"
+        ],
+        "xurdfpy-0.2.0-cp310-none-win_amd64.whl": [
+          "9DmH8FZTbUWR9lBNGWt4l+gv/n+P1nG8NyozOD9SV+4=",
+          "cp310"
+        ],
+        "xurdfpy-0.2.0-cp311-cp311-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "r6yQsrQZ5zUVxARlsKFWjoHz0ivqPfNZMv6yPX/sOQA=",
+          "cp311"
+        ],
+        "xurdfpy-0.2.0-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "RfgdZlbUa1mzg6m5Y2RsapZfvNMcCcR7eh9jDhRyXvI=",
+          "cp311"
+        ],
+        "xurdfpy-0.2.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "4b8b6DiHb8xjDZ5td1xn5Lb5qYjC5LcNEqIXIAmr9Pg=",
+          "cp311"
+        ],
+        "xurdfpy-0.2.0-cp311-none-win_amd64.whl": [
+          "Z8wQ54K01tti0m3Xa/MVK3vDvt1+notjsktF85OvvO8=",
+          "cp311"
+        ],
+        "xurdfpy-0.2.0-cp312-cp312-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "+5nVYeScA+DUyRzGUODPK1u8n5hwlixPJH6XWvhVFWg=",
+          "cp312"
+        ],
+        "xurdfpy-0.2.0-cp37-cp37m-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "dXwVRwW0XBBRnIzAPOjpzHzqgDKjqIFp1sPUOvH0OFo=",
+          "cp37"
+        ],
+        "xurdfpy-0.2.0-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "eo+dETkAZK2ohH125M+b0/2QWXrWI+q0iSkL6ijMi40=",
+          "cp37"
+        ],
+        "xurdfpy-0.2.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "x5vmGsQO8qE6YJ7B7ZGAPY3k9ecWZL6AM1vXBmknDZ0=",
+          "cp37"
+        ],
+        "xurdfpy-0.2.0-cp37-none-win_amd64.whl": [
+          "82nV3OQ+TJrTjIzLZBMGZ9+02Upxn1jEgOaPFxMCDfQ=",
+          "cp37"
+        ],
+        "xurdfpy-0.2.0-cp38-cp38-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "2yDYKH+7KbK47tRR+Igyjxd1RsSmoS8Dyw7fNcWgTkQ=",
+          "cp38"
+        ],
+        "xurdfpy-0.2.0-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "HWJzVaIi5qqpP8ljvrLPkK5Ty0gkjV+JrgNMV4UlTWc=",
+          "cp38"
+        ],
+        "xurdfpy-0.2.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "PurT0ZuUV7Ni9+v2Icyt134+bV2PEK8Qr0yqVAFpsW4=",
+          "cp38"
+        ],
+        "xurdfpy-0.2.0-cp38-none-win_amd64.whl": [
+          "lfXiBZ6taxLuq7k/b+/4vpTa6axAkeX+WW+xghfCDeI=",
+          "cp38"
+        ],
+        "xurdfpy-0.2.0-cp39-cp39-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "uQnx2yXbE5F8FGNpGBVMXKlgj5fM0HNcMaHUE37Wf+c=",
+          "cp39"
+        ],
+        "xurdfpy-0.2.0-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "5DV7wv28ODAW7CdgGZ3zZaSCPXOg77p0UlZau2YxE3o=",
+          "cp39"
+        ],
+        "xurdfpy-0.2.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "jqnTHGQxhaaKyEDJJdBDYEXRdT0SD8nZomuR9zPOvPI=",
+          "cp39"
+        ],
+        "xurdfpy-0.2.0-cp39-none-win_amd64.whl": [
+          "f0L2kmNr6zmjK1Kl4MawhGQ3i6pfgN7gCzalRbCkPT4=",
+          "cp39"
+        ],
+        "xurdfpy-0.2.0-pp37-pypy37_pp73-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "iUoUe+zJlGBFDjRvgRlfK9SquEAunr3HwE1PzVwZFFU=",
+          "pp37"
+        ],
+        "xurdfpy-0.2.0-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "B7H92IpN3lG0iLxCVzFIEjlH/1DPwX+9ZmYSU1EwNes=",
+          "pp37"
+        ],
+        "xurdfpy-0.2.0-pp38-pypy38_pp73-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "YAbAUiNJVX71H0b+HAK0xB8/6IK5zus9qfqV5db89Bg=",
+          "pp38"
+        ],
+        "xurdfpy-0.2.0-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "t65LCLRQrPnJvt3FsRUnrpaxwqMSHdCAjuSzzcLFrq4=",
+          "pp38"
+        ],
+        "xurdfpy-0.2.0-pp39-pypy39_pp73-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "vCbNHXr0bWKj7dTX7WkwgJKxRuaIms+S6ybGfF8X8Uw=",
+          "pp39"
+        ],
+        "xurdfpy-0.2.0-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "4WUGrH+GuXA3lhPstSaLTXzu/0eS+eCDRmcUajY81bU=",
+          "pp39"
+        ]
+      }
     }
   },
   "xwrf": {
@@ -154802,6 +154992,18 @@
       "wheels": {
         "yankee-0.1.4-py3-none-any.whl": [
           "o7+HBDIpWyY3MvSA0gSbdrJ+RxrOGg0zxX3pTi/lrLc=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.40": {
+      "sdist": [
+        "ID6+KqTiDFERm0XOFrVj2rAJo6kk6uIB829LC6JSJmA=",
+        "yankee-0.1.40.tar.gz"
+      ],
+      "wheels": {
+        "yankee-0.1.40-py3-none-any.whl": [
+          "n7jsPFgVnJJ+t7Ryz8OjInMIJC5UU8/CoqU0RS2y4GU=",
           "py3"
         ]
       }

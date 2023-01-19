@@ -5988,6 +5988,18 @@
         ]
       }
     },
+    "1.189.0": {
+      "sdist": [
+        "pqB7L6EafhPnbIFO4uurLkceJHKKt3jVJmQml92GI0M=",
+        "aws-cdk.aws-appconfig-1.189.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_appconfig-1.189.0-py3-none-any.whl": [
+          "IfroX8QXCyHUVHGB1nuQzoiBlDMc76v9A52lmE+MUJ0=",
+          "py3"
+        ]
+      }
+    },
     "1.24.0": {
       "sdist": [
         "vZBbW11I5GVIPlu2ZIyMgITfIEck5Ax9VjZke4Kgoos=",
@@ -19192,6 +19204,18 @@
         ]
       }
     },
+    "1.26.52": {
+      "sdist": [
+        "Cx+C1FZe2HXHl1rAvlZl6NlIYTwBvLDknfbU9a9nDMg=",
+        "boto3-1.26.52.tar.gz"
+      ],
+      "wheels": {
+        "boto3-1.26.52-py3-none-any.whl": [
+          "MZ3bJ0+Pg7A1uIo7EnxGW/b+Pj/C1miGm0iemSxHync=",
+          "py3"
+        ]
+      }
+    },
     "1.26.6": {
       "sdist": [
         "SUP684l5rERWJzkLQxsMCKc8zV7NRpg+HSnO5FTRSqo=",
@@ -24413,6 +24437,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.52": {
+      "sdist": [
+        "wDjIcnW7BXgSF6nRpQFUbxvkivNqGDO7+VEkd97eezc=",
+        "botocore-a-la-carte-connect-contact-lens-1.29.52.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_connect_contact_lens-1.29.52-py3-none-any.whl": [
+          "g/7uxvw9Tqmz2hl8xWWWSLWzV/9ZDnnD5bD5XoKqa0k=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-elastic-inference": {
@@ -24535,6 +24571,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.52": {
+      "sdist": [
+        "dssyz8r8WCc/zaq0//vPjsuFYHENEpMsMGs4abUyzI8=",
+        "botocore-a-la-carte-elastic-inference-1.29.52.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_elastic_inference-1.29.52-py3-none-any.whl": [
+          "1ukieBOQjFhRkpReq4jpwu+vh+woK/teEn4eD1GfEWc=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-robomaker": {
@@ -24654,6 +24702,18 @@
       "wheels": {
         "botocore_a_la_carte_robomaker-1.29.51-py3-none-any.whl": [
           "8K1L2BNyhuUa84Fr85iEvW9OhU5svgce8rqZu4giLVw=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.52": {
+      "sdist": [
+        "5ob48R8j/4UHu840qK7R/iQTPXcsO3ORiFgMRBl5Ids=",
+        "botocore-a-la-carte-robomaker-1.29.52.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_robomaker-1.29.52-py3-none-any.whl": [
+          "/o8BWG0ygyNlJrdfmz1Z33yToLO0FiIYaXSPeG4Jq8c=",
           "py3"
         ]
       }
@@ -25910,6 +25970,42 @@
       "wheels": {
         "cakework-0.0.35-py3-none-any.whl": [
           "3NxzBsr2jbL0R7rSXtPmp8C8QD3CDqF0BgNYtlnGf20=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.36": {
+      "sdist": [
+        "ECKMlWdOmyqbXuTMypjD6C3o7qoVuyd+pa1St46xvXM=",
+        "cakework-0.0.36.tar.gz"
+      ],
+      "wheels": {
+        "cakework-0.0.36-py3-none-any.whl": [
+          "02OpepMInS/O+RjzSEzGqIfigTycyxfvvPxg0q0uZCk=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.37": {
+      "sdist": [
+        "w1Ick6zBs7DD2w1BXLKc0Id758zO998D68+OrvIkW7g=",
+        "cakework-0.0.37.tar.gz"
+      ],
+      "wheels": {
+        "cakework-0.0.37-py3-none-any.whl": [
+          "WWEAx5Vc5Sa+KFbDqQLrwNQeOXh24SwtNmIjF/zjKAg=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.38": {
+      "sdist": [
+        "B3XyaVSvCI/ILOSE5EH4G4KIoSLoJPc4iF16vqcqFe8=",
+        "cakework-0.0.38.tar.gz"
+      ],
+      "wheels": {
+        "cakework-0.0.38-py3-none-any.whl": [
+          "Ef4EnZ/EB1Uzbwj7FurVT23BLZpEu1Xm1J/u6B3pU5U=",
           "py3"
         ]
       }
@@ -28528,6 +28624,18 @@
       "wheels": {
         "click_reviewers_tools-0.75-py3-none-any.whl": [
           "NxCifZ/nQkRYxji7JGvFhdbJLJ5KSk4FTkPiJJcN3Y4=",
+          "py3"
+        ]
+      }
+    },
+    "0.76": {
+      "sdist": [
+        "BFqft5REuenFHDgPMKpd6Si4wHcM5EWCvShH+useE0k=",
+        "click-reviewers-tools-0.76.tar.gz"
+      ],
+      "wheels": {
+        "click_reviewers_tools-0.76-py3-none-any.whl": [
+          "XR2g8l2PRC0Eo8hJGH4vPKxgUc3m15Vj/6XWcxjJ03Y=",
           "py3"
         ]
       }
@@ -98090,6 +98198,18 @@
         ]
       }
     },
+    "1.3.3": {
+      "sdist": [
+        "JxwNqaMa3fxowaJUQgpm9z0ko5oeOGccgetcSgFxWXs=",
+        "nubium-schemas-1.3.3.tar.gz"
+      ],
+      "wheels": {
+        "nubium_schemas-1.3.3-py3-none-any.whl": [
+          "RrmzUiQr+9RLOWcncVZ3rQtGyC+w0ka2oWLR1WxKNE4=",
+          "py3"
+        ]
+      }
+    },
     "1.4.1": {
       "sdist": [
         "bIivuQzvvIovgoA4dINvVIA/cUu17DopWUMIhjwnYr0=",
@@ -124287,6 +124407,14 @@
       }
     }
   },
+  "pywifiscan": {
+    "1.0.0": {
+      "sdist": [
+        "QMocR1zkMD7pNP3PT7cXaBba8ihJtTQEEk8EdAAsZU8=",
+        "pywifiscan-1.0.0.tar.gz"
+      ]
+    }
+  },
   "pywsdp": {
     "1.0": {
       "sdist": [
@@ -143190,6 +143318,64 @@
       "wheels": {
         "topicnetwork-0.1.4-py3-none-any.whl": [
           "Q62xRa2GdAPTUd7CcRFlr/ZX7ZuKsiE/8trf9vhF2bc=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "topsis-amrita-102017017": {
+    "0.0.1": {
+      "wheels": {
+        "Topsis_Amrita_102017017-0.0.1-py3-none-any.whl": [
+          "tqYN6CaIuvSTd4IOrVTa+vv6zW6lAE+IEGev8NvCmsg=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "wyu4fM6/0LAxe/brfRr9TuMYbPgquQW68eCR/VjS9hU=",
+        "Topsis-Amrita-102017017-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "Topsis_Amrita_102017017-0.0.2-py3-none-any.whl": [
+          "QRdfZrcPjxRcBfgoOtY0k+25IXu9q/bLgRJFAEMt5fY=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "9xkq4w1ghOfZBC/ulbY77ilBX8CLhiXSURqR+TK68Vs=",
+        "Topsis-Amrita-102017017-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "Topsis_Amrita_102017017-0.0.3-py3-none-any.whl": [
+          "ZyZ9tggF2UsuWrtmX1aqTQZu18mYgqV0COMhO8mEHg8=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4": {
+      "sdist": [
+        "ANM4r3Von80SfvNfivi9FAkliOL603pdWpriz5dCdq4=",
+        "Topsis-Amrita-102017017-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "Topsis_Amrita_102017017-0.0.4-py3-none-any.whl": [
+          "AGTpLP4cnew/qjNZr32b7MRhWXbZUk62ngh7RR60HUQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.0": {
+      "sdist": [
+        "MVTItohSKS6cZsOJGGpNy95vqntWKptNiTlu+IRydGo=",
+        "Topsis-Amrita-102017017-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "Topsis_Amrita_102017017-1.0.0-py3-none-any.whl": [
+          "/8mlrietTE85Dufw8dDDq5/lBDbFyHdJRR4k15PeEU0=",
           "py3"
         ]
       }

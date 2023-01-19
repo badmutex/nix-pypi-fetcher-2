@@ -5845,6 +5845,18 @@
           "py3"
         ]
       }
+    },
+    "1.189.0": {
+      "sdist": [
+        "ghX0OHW5j6tL7OFT/+HK0ShLpdXB48Lvo9N9Vyv3IAg=",
+        "aws-cdk.aws-connectcampaigns-1.189.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_connectcampaigns-1.189.0-py3-none-any.whl": [
+          "qEWh/uWVl/HTgRTUytD3O0w0sMfTYO0vlgkyHARe5Cw=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-cdk.aws-synthetics-alpha": {
@@ -6924,6 +6936,18 @@
       "wheels": {
         "aws_cdk.aws_synthetics_alpha-2.60.0a0-py3-none-any.whl": [
           "+HimToBYP51Uc+wMYIjDFfHJZCQEZBamudNQ6GZspnk=",
+          "py3"
+        ]
+      }
+    },
+    "2.61.0a0": {
+      "sdist": [
+        "RT/yz0vrpRKgS9upTgrcQPVy0of3VhdQehthL9eJk/o=",
+        "aws-cdk.aws-synthetics-alpha-2.61.0a0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_synthetics_alpha-2.61.0a0-py3-none-any.whl": [
+          "61az04uNpHzT1crzFjJr5V9HyWDHC9f+Xyt/V4dkEuU=",
           "py3"
         ]
       }
@@ -8086,6 +8110,18 @@
       "wheels": {
         "azul_voos-0.1.3-py3-none-any.whl": [
           "xNKbhFq5z/8hr+h52irKz3C7bSuJn04Q7FeYnIiy3So=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.4": {
+      "sdist": [
+        "+77Nq5y67rxLjoC+4YQAX0hUsLP76ke9ZctwfUqOV3g=",
+        "azul_voos-0.1.4.tar.gz"
+      ],
+      "wheels": {
+        "azul_voos-0.1.4-py3-none-any.whl": [
+          "jgQQeqLg9IbZjbNP2Xp8YfNkgxE3tG1qmRvvLH3kxTM=",
           "py3"
         ]
       }
@@ -12490,6 +12526,18 @@
       "wheels": {
         "botocore_a_la_carte_alexaforbusiness-1.29.51-py3-none-any.whl": [
           "Kgi2WQG+wl5ROMCKuxodYDE2o1M61KUmkGtBi1CTww0=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.52": {
+      "sdist": [
+        "AgJPo02uPC/9Id/fud05mS5BSCMMwfe0wFoJQ1s3EMA=",
+        "botocore-a-la-carte-alexaforbusiness-1.29.52.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_alexaforbusiness-1.29.52-py3-none-any.whl": [
+          "TZNhd3yFArJtmFjnDyoftpMHXSMm4+ePse/5USe+EuM=",
           "py3"
         ]
       }
@@ -129105,6 +129153,20 @@
       }
     }
   },
+  "skip-django-user-comments": {
+    "0.0.7.1": {
+      "sdist": [
+        "KKsgjow+5iMc56gipX1eAoPRffH4kLxoBcQjDx/Hi/U=",
+        "skip-django-user-comments-0.0.7.1.tar.gz"
+      ],
+      "wheels": {
+        "skip_django_user_comments-0.0.7.1-py3-none-any.whl": [
+          "Ac4OTOgJnUrt6ZilUmHMeaVDE/C3ytfvovUi7p/gCvA=",
+          "py3"
+        ]
+      }
+    }
+  },
   "skqulacs": {
     "0.1.0": {
       "sdist": [
@@ -144300,6 +144362,18 @@
         ]
       }
     },
+    "3.0.817": {
+      "sdist": [
+        "g69SNnEXpq4P1lVXWUNuHE/kSbuo9U6t+9yA0T7akKA=",
+        "tencentcloud-sdk-python-3.0.817.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python-3.0.817-py2.py3-none-any.whl": [
+          "hVFi5fEwV5o1BhvCAyC4eNr/0qkqt/Un+d/WZ9O6mG8=",
+          "py2.py3"
+        ]
+      }
+    },
     "3.0.82": {
       "sdist": [
         "ppGq7t4sjmzXczcyp34SzHo9c1oIkQ4sWBdQ7DdtlRw=",
@@ -157248,6 +157322,56 @@
       "wheels": {
         "xfit-0.1.1.0-py3-none-any.whl": [
           "8ef+pEznKZaeLRywkXNRiI7eXBhPWVwD7Ts97cyCF4g=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "xforce": {
+    "0.1": {
+      "sdist": [
+        "ynJ4PcKY39iYaZTI7apTapFjF/l7Sytn/l5VyTXBvOI=",
+        "XForce-0.1.tar.gz"
+      ],
+      "wheels": {
+        "XForce-0.1-py3-none-any.whl": [
+          "H05AO+RoE3kDYobJBO8HDF/B8FLY+uRGbSp5VA1FtYg=",
+          "py3"
+        ]
+      }
+    },
+    "0.2": {
+      "sdist": [
+        "WS4o9nC1tY9AT4ycs2QvoVjP3npMtCIxqHxpgfrSKkU=",
+        "XForce-0.2.tar.gz"
+      ],
+      "wheels": {
+        "XForce-0.2-py3-none-any.whl": [
+          "xyHIYIvi+xE6NDcVecNTWq0qrTWNq4pO0QbZMQhWaPM=",
+          "py3"
+        ]
+      }
+    },
+    "0.3": {
+      "sdist": [
+        "4k/3HlvUCy1Dehs0mciAVLFywkD73nR5IcQKyMQlxos=",
+        "XForce-0.3.tar.gz"
+      ],
+      "wheels": {
+        "XForce-0.3-py3-none-any.whl": [
+          "VYlGFDCy0gq89yJldfeeWhKyzyZWsuHXi3HE5G0qkZw=",
+          "py3"
+        ]
+      }
+    },
+    "0.4": {
+      "sdist": [
+        "ixi//yK/u0U2ksXtWOZm0OHRhtQc7MXS1ecTkPU2+as=",
+        "XForce-0.4.tar.gz"
+      ],
+      "wheels": {
+        "XForce-0.4-py3-none-any.whl": [
+          "dkFdeCERgZ+ef2UQn/68myurxJkxPT7AnOfnCbN6Hfg=",
           "py3"
         ]
       }

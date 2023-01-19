@@ -12937,6 +12937,12 @@
         "DLKi5MtemcRRd2Cr6BxaFWnYy14yRBmySmSXhy2fdnk=",
         "briefkasten-0.3.8.tar.gz"
       ]
+    },
+    "0.3.9": {
+      "sdist": [
+        "W0BHh0uFmt9HC1HVocvr9HycI/G3qpZsUfIFQ9aNdMk=",
+        "briefkasten-0.3.9.tar.gz"
+      ]
     }
   },
   "bringbuf": {
@@ -23232,6 +23238,12 @@
         "cupy-wheel-11.4.0.tar.gz"
       ]
     },
+    "11.5.0": {
+      "sdist": [
+        "BOeCd7egJB7l4YOY14QVD8m6zW0USUHtG5HqiFDAAv4=",
+        "cupy-wheel-11.5.0.tar.gz"
+      ]
+    },
     "12.0.0a1": {
       "sdist": [
         "RJ9acRwj4+aX97/uTopxq3VR2s59igo53sXqNPboeC4=",
@@ -23254,6 +23266,12 @@
       "sdist": [
         "9IHKJQbAY34Dp15oxbqOhFQnPIpRdZHgQ63vcYX51Ws=",
         "cupy-wheel-12.0.0b2.tar.gz"
+      ]
+    },
+    "12.0.0b3": {
+      "sdist": [
+        "g57/0TbVg5DMaPagxm7TvYCqOMN5hsabDCUejbPN6vo=",
+        "cupy-wheel-12.0.0b3.tar.gz"
       ]
     }
   },
@@ -49046,6 +49064,14 @@
         ]
       }
     },
+    "3.1.23": {
+      "wheels": {
+        "huaweicloudsdkcc-3.1.23-py2.py3-none-any.whl": [
+          "hMgS4b5WrJKuqpJyMcChC159KcxpKbAxG2owJTfiHVU=",
+          "py2.py3"
+        ]
+      }
+    },
     "3.1.3": {
       "wheels": {
         "huaweicloudsdkcc-3.1.3-py2.py3-none-any.whl": [
@@ -49612,6 +49638,14 @@
       "wheels": {
         "huaweicloudsdkcloudrtc-3.1.22-py2.py3-none-any.whl": [
           "e8ZM/w1Ms8ME/JFxb5JZ/vKftJo++Ws2R1LjNWAwk34=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.23": {
+      "wheels": {
+        "huaweicloudsdkcloudrtc-3.1.23-py2.py3-none-any.whl": [
+          "F7LuNBOFQEyyxn50VdYj+nV9o+HCToFemjOdwaJHv3M=",
           "py2.py3"
         ]
       }
@@ -50562,6 +50596,14 @@
         ]
       }
     },
+    "3.1.23": {
+      "wheels": {
+        "huaweicloudsdkcloudtest-3.1.23-py2.py3-none-any.whl": [
+          "I9ef8/GYANo68SeUdHAsyzyYI1nKx51dqqFxjM0DSrE=",
+          "py2.py3"
+        ]
+      }
+    },
     "3.1.3": {
       "wheels": {
         "huaweicloudsdkcloudtest-3.1.3-py2.py3-none-any.whl": [
@@ -51040,6 +51082,14 @@
       "wheels": {
         "huaweicloudsdkdws-3.1.22-py2.py3-none-any.whl": [
           "WLAYYHrjtv84wFhtJZ0zGAuTg50BZhJDoBc5a6CIuzk=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.23": {
+      "wheels": {
+        "huaweicloudsdkdws-3.1.23-py2.py3-none-any.whl": [
+          "9jaC5MrsJIAOR2it7moA7ako5bnqTsjtldE6XcNiwVY=",
           "py2.py3"
         ]
       }
@@ -64005,6 +64055,20 @@
         "ldaptor-21.2.0-py2.py3-none-any.whl": [
           "cFIYUcdLZ7NAYZ/Fi7cQVhlxTkAocwlXLttuhvbXW9A=",
           "py2.py3"
+        ]
+      }
+    }
+  },
+  "ledmx": {
+    "0.1a0": {
+      "sdist": [
+        "378OK9J87BYS3X5TkfEJul4uxp5daqbeMyRUqTeUUPg=",
+        "ledmx-0.1a0.tar.gz"
+      ],
+      "wheels": {
+        "ledmx-0.1a0-py3-none-any.whl": [
+          "WYx9NC2AT0YEcJJxKuCVpD7Hlf7WHVGJ1N8Fc1yA5yc=",
+          "py3"
         ]
       }
     }
@@ -83667,6 +83731,14 @@
           "py3"
         ]
       }
+    },
+    "12.0.3.2.1.99.dev1": {
+      "wheels": {
+        "odoo12_addon_pos_cash_move_reason-12.0.3.2.1.99.dev1-py3-none-any.whl": [
+          "I/C9nIy4Gp1jdtvsQqAyvA7NEBWOh+w3HY5EPqizb+E=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo12-addon-shopinvader-locomotive-elasticsearch": {
@@ -83788,6 +83860,14 @@
       "wheels": {
         "odoo12_addon_stock_return_request-12.0.1.0.2.99.dev11-py3-none-any.whl": [
           "FbhcqXZIqmNlZPezVi+r3A2GuAHNE/PLS1QxjW2uPBw=",
+          "py3"
+        ]
+      }
+    },
+    "12.0.1.0.2.99.dev12": {
+      "wheels": {
+        "odoo12_addon_stock_return_request-12.0.1.0.2.99.dev12-py3-none-any.whl": [
+          "bbAn+WXo8zZ7+vSumWDT8GvXklAwTPuR2PqAaMsL9LY=",
           "py3"
         ]
       }
@@ -85348,6 +85428,14 @@
       "wheels": {
         "odoo9_addon_mgmtsystem_claim-9.0.1.1.1.99.dev25-py2-none-any.whl": [
           "pEDyeIik1TZn22bpOSYR1r7+WksXdikDeo1fkOgAdUA=",
+          "py2"
+        ]
+      }
+    },
+    "9.0.1.1.1.99.dev26": {
+      "wheels": {
+        "odoo9_addon_mgmtsystem_claim-9.0.1.1.1.99.dev26-py2-none-any.whl": [
+          "KrwCFyL3punJKaJ47hra/uFwskTOC0FACet1/1fqK9M=",
           "py2"
         ]
       }

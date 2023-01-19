@@ -5964,6 +5964,18 @@
         ]
       }
     },
+    "0.2.22": {
+      "wheels": {
+        "auton-0.2.22-py2-none-any.whl": [
+          "3uzMJDbtjbWKlusOKBQ5cSNIPyry+nz7yYL34zKFHZU=",
+          "py2"
+        ],
+        "auton-0.2.22-py3-none-any.whl": [
+          "IlMXT+fv7J2i/U+ohnN2tDix7Gegt+/GROuiu1LfLFQ=",
+          "py3"
+        ]
+      }
+    },
     "0.2.3": {
       "wheels": {
         "auton-0.2.3-py2-none-any.whl": [
@@ -47382,6 +47394,18 @@
         ]
       }
     },
+    "1.3.2": {
+      "sdist": [
+        "8Yuh8h4E0M6qKQEZRNtIoYE8KD1I0NPhguc6mUxfuYE=",
+        "fabric-orchestrator-client-1.3.2.tar.gz"
+      ],
+      "wheels": {
+        "fabric_orchestrator_client-1.3.2-py3-none-any.whl": [
+          "6R8hwxkhsUrSLgkNVUnrNl1dknYl/RoidmnliHi8HDU=",
+          "py3"
+        ]
+      }
+    },
     "1.3.2rc0": {
       "sdist": [
         "9Dy5rhOS/4gNDXWOzd6Xod5OI9N9PqlL1SAvFOSpE7s=",
@@ -64544,6 +64568,14 @@
       "wheels": {
         "huaweicloudsdkkafka-3.1.22-py2.py3-none-any.whl": [
           "emSGPo+0/dTu5dYKpXeuG+fXEv2cvVUIU+52xFZHOHY=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.23": {
+      "wheels": {
+        "huaweicloudsdkkafka-3.1.23-py2.py3-none-any.whl": [
+          "/csfdMaPA2eLalKUzcwF7A4EQfoMs4czd1tEEUV5RfQ=",
           "py2.py3"
         ]
       }
@@ -87672,6 +87704,14 @@
       "wheels": {
         "odoo12_addon_contract_variable_qty_prorated-12.0.1.1.0.99.dev4-py3-none-any.whl": [
           "UQrlAwk7lVqLHEGLcaP4KqoK/xkf+mshL7gyPEvMPNc=",
+          "py3"
+        ]
+      }
+    },
+    "12.0.1.1.1": {
+      "wheels": {
+        "odoo12_addon_contract_variable_qty_prorated-12.0.1.1.1-py3-none-any.whl": [
+          "f+HDkSXGJXV4DSvIS5UmkOeX4HoBMPf+mkdJQW2ZhgY=",
           "py3"
         ]
       }
@@ -118770,6 +118810,30 @@
         ],
         "spconv-2.2.6-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "LiekUEZGQHZWEAqEDRY0/MRWX/ISDfZx79YilUZtEoA=",
+          "cp39"
+        ]
+      }
+    },
+    "2.3.0": {
+      "wheels": {
+        "spconv-2.3.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "NQ0W75pgGeYEVm7OGv7YW6RjXpqlam9jkFC6ttzjYfs=",
+          "cp310"
+        ],
+        "spconv-2.3.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Sq/fOTn8/OYLcYg7DKNFrh0HG7Vd3FP7buWV26YDvBE=",
+          "cp311"
+        ],
+        "spconv-2.3.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "8A4x+I3foMHFc6jIQY/tfr+dmKlACA2LJOfulov9P3Q=",
+          "cp37"
+        ],
+        "spconv-2.3.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "1yTnCAgfNGEAY8xdZUOptbDqESS43c/gUVXcU/Y3kRs=",
+          "cp38"
+        ],
+        "spconv-2.3.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "lXBSdirxkrc8Wz4ioq/Op9SYqrNsp3tMubdzvAYEziU=",
           "cp39"
         ]
       }

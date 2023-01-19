@@ -30882,6 +30882,12 @@
         "concrete-4.15.1.tar.gz"
       ]
     },
+    "4.15.2": {
+      "sdist": [
+        "05Ns4K3AgzturB4xBUUa7tOV6VqkNrvaJzewzQVAg5I=",
+        "concrete-4.15.2.tar.gz"
+      ]
+    },
     "4.2.1": {
       "sdist": [
         "G297xz7qTCrLPOKaYa7MIHh6H0jHFiJ74n52Jim1Ako=",
@@ -60984,6 +60990,14 @@
         ]
       }
     },
+    "3.1.23": {
+      "wheels": {
+        "huaweicloudsdksis-3.1.23-py2.py3-none-any.whl": [
+          "F/hW3+aoEwX/Oy970xoWJGutCS35c6CeI7OJk6/4CFg=",
+          "py2.py3"
+        ]
+      }
+    },
     "3.1.3": {
       "wheels": {
         "huaweicloudsdksis-3.1.3-py2.py3-none-any.whl": [
@@ -86552,6 +86566,14 @@
         ]
       }
     },
+    "9.0.1.0.0.99.dev15": {
+      "wheels": {
+        "odoo9_addon_project_task_materials-9.0.1.0.0.99.dev15-py2-none-any.whl": [
+          "Z4OnvNXl1yIlprrz6721o8KZq0YJv4+XFySA2LPucCc=",
+          "py2"
+        ]
+      }
+    },
     "9.0.1.0.0.99.dev2": {
       "wheels": {
         "odoo9_addon_project_task_materials-9.0.1.0.0.99.dev2-py2-none-any.whl": [
@@ -99656,6 +99678,12 @@
       "sdist": [
         "eFLdOPGQ7urxKB0TMuYTBIcvrm+JY6UMwYOj56zCS6E=",
         "pulumi_awsx-1.0.0a1671631566.tar.gz"
+      ]
+    },
+    "1.0.0a1674144362": {
+      "sdist": [
+        "ICd/fIMNia/52IOpjReANc9t5BH8so+DI9UNPzeNp/s=",
+        "pulumi_awsx-1.0.0a1674144362.tar.gz"
       ]
     },
     "1.0.0b1": {
@@ -131137,6 +131165,42 @@
           "py3"
         ]
       }
+    },
+    "0.1.3": {
+      "sdist": [
+        "i/K4Kai0TXBVRk2d90FNTCG+EvyfK1h14YkydkUGRY8=",
+        "stauth-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "stauth-0.1.3-py3-none-any.whl": [
+          "BVEUl2OjNUq3hiO6T1xJBsYke38qL52gM75GnD1A7No=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.4": {
+      "sdist": [
+        "4TxXFi37kndXPILnHpOAAIzzavVV7liMzPrXgo2soGo=",
+        "stauth-0.1.4.tar.gz"
+      ],
+      "wheels": {
+        "stauth-0.1.4-py3-none-any.whl": [
+          "tnaqUB6prHWKbVrmPxIQja87k8GUdvFdn77RKIAxKaE=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.5": {
+      "sdist": [
+        "Mtpc6qJu4FbOlo2zM8mPDefdiU36w5DNs2qA3sA+/xw=",
+        "stauth-0.1.5.tar.gz"
+      ],
+      "wheels": {
+        "stauth-0.1.5-py3-none-any.whl": [
+          "19fVr6/EWfes2Ul2IZ8ZHYfKNbvgctLB9lSym/X5R9o=",
+          "py3"
+        ]
+      }
     }
   },
   "stdlogging": {
@@ -131735,6 +131799,56 @@
         "2u+9TmHwbKXqG2R6Vf/9NUS+cFNDxftXTWJaXPkqiaY=",
         "swabbie-0.1.4.tar.gz"
       ]
+    }
+  },
+  "swibots": {
+    "1.0.2": {
+      "sdist": [
+        "W3Bx5gri0ItOCr2PeXcQu2OTafRsBy9vObXOzo/MUdU=",
+        "swibots-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "swibots-1.0.2-py3-none-any.whl": [
+          "71oG3WekgbKgSRJQtbHIbWOaAw9fx3/vnOLxRx1Z2dg=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.3": {
+      "sdist": [
+        "RND2jQX13AVsk34cnHvfd+Df7p7Fp5oUamq3rHyS0uk=",
+        "swibots-1.0.3.tar.gz"
+      ],
+      "wheels": {
+        "swibots-1.0.3-py3-none-any.whl": [
+          "svLOfoT8i6imAMkg4hYOuft/DMLhAj5EmanH513a4iE=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.4": {
+      "sdist": [
+        "qQeauY10x63HCbHBSa/nJz5gRQQ+8FV+fOAEqEtHuoA=",
+        "swibots-1.0.4.tar.gz"
+      ],
+      "wheels": {
+        "swibots-1.0.4-py3-none-any.whl": [
+          "LLDl2UmMmdZZeIA+imhaE2UmxcpeT7e0xB6Aod5AvhI=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.5": {
+      "sdist": [
+        "SY+yBNgGhh6Y3t9toQxpdAaA6IJ+HbD54Mt1CehbcIE=",
+        "swibots-1.0.5.tar.gz"
+      ],
+      "wheels": {
+        "swibots-1.0.5-py3-none-any.whl": [
+          "ZcZDqSQZON70WBAenukX4MDCMvhvw0r+VTOFu8OIHBs=",
+          "py3"
+        ]
+      }
     }
   },
   "swisslandstats-geopy": {

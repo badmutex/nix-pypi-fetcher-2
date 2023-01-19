@@ -65456,6 +65456,14 @@
         ]
       }
     },
+    "3.1.23": {
+      "wheels": {
+        "huaweicloudsdker-3.1.23-py2.py3-none-any.whl": [
+          "hUIwquA28mfBesp2D1lQSBZFoC8LQEL1MRC9s5SYjGQ=",
+          "py2.py3"
+        ]
+      }
+    },
     "3.1.3": {
       "wheels": {
         "huaweicloudsdker-3.1.3-py2.py3-none-any.whl": [
@@ -73828,6 +73836,14 @@
       "wheels": {
         "kelvin_sdk_client-7.8.0.post1-py3-none-any.whl": [
           "RMeh8X5N0a9BP4K1rdsz+g59y0kb76D7L1jPdhOQFtU=",
+          "py3"
+        ]
+      }
+    },
+    "7.8.1": {
+      "wheels": {
+        "kelvin_sdk_client-7.8.1-py3-none-any.whl": [
+          "AUvDy0J14/2zT8Jw7RiobJ8dfKJcpa7ixb+hH5jGqg8=",
           "py3"
         ]
       }
@@ -98253,6 +98269,14 @@
           "py3"
         ]
       }
+    },
+    "14.0.1.1.1.dev4": {
+      "wheels": {
+        "odoo14_addon_purchase_sale_inter_company-14.0.1.1.1.dev4-py3-none-any.whl": [
+          "KqSs9pV2CI6xgyf07i3VmkyDgIesOJBVjvdGSS2lCZo=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo14-addon-shopfloor-checkout-package-measurement-mobile": {
@@ -118715,6 +118739,12 @@
         "0oNULBTloPrBXZEBi4OQ3OOXs+AvycQ6Fs15mIaAHUU=",
         "pyvkfft-2022.1.1.tar.gz"
       ]
+    },
+    "2023.1": {
+      "sdist": [
+        "X7X2utZFp/OiuWgsEd1omFgDkZc6IOeJ0KSWKPJCUpg=",
+        "pyvkfft-2023.1.tar.gz"
+      ]
     }
   },
   "pywe-membercard": {
@@ -126277,6 +126307,18 @@
           "py3"
         ]
       }
+    },
+    "0.3.4": {
+      "sdist": [
+        "37QXXRInhxiBaWpwiKgyuvqCfIIlcd3M+p7Vf9vD2xE=",
+        "scenario_gym-0.3.4.tar.gz"
+      ],
+      "wheels": {
+        "scenario_gym-0.3.4-py3-none-any.whl": [
+          "nFAwNC0/jIi40RTNnyHrP0vLxwmuYSbRP7+WR1Oly/c=",
+          "py3"
+        ]
+      }
     }
   },
   "scenarios": {
@@ -132105,6 +132147,46 @@
           "pp39"
         ]
       }
+    },
+    "0.5.0": {
+      "sdist": [
+        "fXr6BEXLGHrLfNu+YsKAiD1MCzKBjBEvpxD3XUnt9cM=",
+        "solarwinds_apm-0.5.0.tar.gz"
+      ],
+      "wheels": {
+        "solarwinds_apm-0.5.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "dPbwytJYZQpEhAnBQYFUGpqCvNLGV6ATopsFbquwR4k=",
+          "cp310"
+        ],
+        "solarwinds_apm-0.5.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "sSvchvbWFcW7qfcd7FlUgQm0H5xxMxu9KPqxUxWDrN4=",
+          "cp311"
+        ],
+        "solarwinds_apm-0.5.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "2HIG1N1tNTJRQrH5LwP8eZ5WR2axQ41hJHIEmtSlc1k=",
+          "cp37"
+        ],
+        "solarwinds_apm-0.5.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "lRC/SIW7arQzIemtRfMxwxehyWd9BwtYUWjNHAacRcA=",
+          "cp38"
+        ],
+        "solarwinds_apm-0.5.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "IrnF/YMzfr6BnOWuTU3Qzsbv3Q3WLkBO72wxSit0kQE=",
+          "cp39"
+        ],
+        "solarwinds_apm-0.5.0-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "qxXq/QxIyUvWIFwKg7BSG5QnGsUSNi9y37+eNXHeRA0=",
+          "pp37"
+        ],
+        "solarwinds_apm-0.5.0-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "kOlTreY1OWTip1AhsGvXLpg5z+Fm/CY6OtpTD/YM4s8=",
+          "pp38"
+        ],
+        "solarwinds_apm-0.5.0-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "HYRcMkONrLO0XE36MuKVA9qKSTdZj+dRTHTbq47Fjfs=",
+          "pp39"
+        ]
+      }
     }
   },
   "soltrannet": {
@@ -135810,6 +135892,18 @@
       "wheels": {
         "streamlit_folium-0.10.0-py3-none-any.whl": [
           "h/QKi+/PU618BBpU2L+4qZtqKIOQ2ynz6G8psosJY5I=",
+          "py3"
+        ]
+      }
+    },
+    "0.11.0": {
+      "sdist": [
+        "7xhYb/Rx9mFbWs63Kv/Se6vyXgd7wp3/nip7+Y9mbEU=",
+        "streamlit_folium-0.11.0.tar.gz"
+      ],
+      "wheels": {
+        "streamlit_folium-0.11.0-py3-none-any.whl": [
+          "ECzsN/I2XrXuAmqZTorZosaXVfnE04ozp0xdLnzsosw=",
           "py3"
         ]
       }

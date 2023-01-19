@@ -2011,6 +2011,18 @@
           "py3"
         ]
       }
+    },
+    "2.8.1": {
+      "sdist": [
+        "TSPDruOQgAwb93RET7q3VoQMGAX/UYXkHqTBBoMxYOI=",
+        "aleph-alpha-client-2.8.1.tar.gz"
+      ],
+      "wheels": {
+        "aleph_alpha_client-2.8.1-py3-none-any.whl": [
+          "qJfsjYG9dfmhgfGwK28eBeiX1VvIm9vT0vRVNX6ujzc=",
+          "py3"
+        ]
+      }
     }
   },
   "alibabacloud-quotas20200510": {
@@ -37779,6 +37791,20 @@
       }
     }
   },
+  "fallen": {
+    "0.3": {
+      "sdist": [
+        "k2FHWgbybwPBq1eAa8Pz+l8KPvifHUnP01NN4UuEX+E=",
+        "fallen-0.3.tar.gz"
+      ],
+      "wheels": {
+        "fallen-0.3-py3-none-any.whl": [
+          "eH7LXJ/j2SovEZNtVzQ7xOQ2r3aLACrXAZCSWTxzAR8=",
+          "py3"
+        ]
+      }
+    }
+  },
   "fantasy-analysis": {
     "0.0.0": {
       "sdist": [
@@ -56132,6 +56158,18 @@
       "wheels": {
         "jptranstokenizer-0.1.3-py3-none-any.whl": [
           "UAQz9y98Xq4pZ3CPbV0eFfsYGprKw5zDcUevbp87SkA=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.0": {
+      "sdist": [
+        "piVQ8HbbNzT3fL/+CIOAjyZoB3p9uoZ0NO1/EoCHyQQ=",
+        "jptranstokenizer-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "jptranstokenizer-0.2.0-py3-none-any.whl": [
+          "3gl5WDNz92M4evhgZrMudS//dSC2sgPlydfDx/XgWlc=",
           "py3"
         ]
       }
@@ -90399,6 +90437,34 @@
           "cp38"
         ]
       }
+    },
+    "1.8.5": {
+      "sdist": [
+        "rOID/gIAD+uuwiGphDTNmlN0MMYJMyONlgEVnuueizU=",
+        "OctoBot-Commons-1.8.5.tar.gz"
+      ],
+      "wheels": {
+        "OctoBot_Commons-1.8.5-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "DmrxhfWVBnWgZ6AvwcawQzFGI66mJlqvqWzSKcNMsVc=",
+          "cp38"
+        ],
+        "OctoBot_Commons-1.8.5-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "63ybkYFPeQ0QQmIyyLrhnCTBcSgP7B8vQ2xSEMpSYfY=",
+          "cp38"
+        ],
+        "OctoBot_Commons-1.8.5-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "iMaowICo5D6QB19S1/lMPp4ysPgAH2u1yzzrznumSXg=",
+          "cp38"
+        ],
+        "OctoBot_Commons-1.8.5-cp38-cp38-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "oTupWEZixx0ChhEi7hNnsZ2YtTFWIOMQt/4bEJc8Clg=",
+          "cp38"
+        ],
+        "OctoBot_Commons-1.8.5-cp38-cp38-win_amd64.whl": [
+          "cr696AaHxV9KQoVBOT+R/GZ0paA5F8p8X5RwXTLx7bc=",
+          "cp38"
+        ]
+      }
     }
   },
   "odinweb.flask": {
@@ -90939,6 +91005,14 @@
           "py2"
         ]
       }
+    },
+    "10.0.1.0.0.99.dev5": {
+      "wheels": {
+        "odoo10_addon_l10n_ch_import_winbiz-10.0.1.0.0.99.dev5-py2-none-any.whl": [
+          "ETxDThAGno5tTaElactvvDWHQ5LLpETKTjyHedFocG8=",
+          "py2"
+        ]
+      }
     }
   },
   "odoo10-addon-l10n-ch-scan-bvr": {
@@ -91026,6 +91100,14 @@
       "wheels": {
         "odoo10_addon_l10n_ch_scan_bvr-10.0.1.0.4.99.dev1-py2-none-any.whl": [
           "RV797NOccXDPDaBCosMs3E/yxAk7onnCNXt6W698gL4=",
+          "py2"
+        ]
+      }
+    },
+    "10.0.1.0.4.99.dev2": {
+      "wheels": {
+        "odoo10_addon_l10n_ch_scan_bvr-10.0.1.0.4.99.dev2-py2-none-any.whl": [
+          "DZZnMu7xAoVUHSvTayL4GVYg1eepZJ73ESrUckUY2ls=",
           "py2"
         ]
       }
@@ -91150,6 +91232,14 @@
       "wheels": {
         "odoo10_addon_sale_partner_incoterm-10.0.1.0.1-py2-none-any.whl": [
           "OMSOHXwrTDp8vBDxNGv5PO14nLqgI4yBS5E9N92oMhw=",
+          "py2"
+        ]
+      }
+    },
+    "10.0.1.0.1.99.dev1": {
+      "wheels": {
+        "odoo10_addon_sale_partner_incoterm-10.0.1.0.1.99.dev1-py2-none-any.whl": [
+          "v/ONwRxEAHakQvDBC3EkJ6fLPcsk/YMxwTZZLZIfNc8=",
           "py2"
         ]
       }

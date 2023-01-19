@@ -15763,6 +15763,20 @@
       }
     }
   },
+  "cdktf-github-actions": {
+    "0.0.1": {
+      "sdist": [
+        "JOuNOnAORmNn5ZWagGoqjePd6sj9dZzalyWkYC2KlLw=",
+        "cdktf-github-actions-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "cdktf_github_actions-0.0.1-py3-none-any.whl": [
+          "xN2//AbkJyFvs6MLbXr90IcmHzFFxzY9rYi6tAUQ2rQ=",
+          "py3"
+        ]
+      }
+    }
+  },
   "celery-dispatcher": {
     "1.0.0": {
       "sdist": [
@@ -25410,6 +25424,20 @@
       "wheels": {
         "deepgram_sdk-2.2.0-py3-none-any.whl": [
           "dnxLBs6w4eJeACUSxRncN0MFZNoRkphd6gAwcTk6Oss=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "deepl-tr": {
+    "0.1.0a0": {
+      "sdist": [
+        "yFmfNKB+4GNaFv/lCgRQDFO2iljb+cTPTPQ87llGOAo=",
+        "deepl_tr-0.1.0a0.tar.gz"
+      ],
+      "wheels": {
+        "deepl_tr-0.1.0a0-py3-none-any.whl": [
+          "a8rYa2/Px9xYfAf+VO90zENYtL7ceXQvZeQjULFN75I=",
           "py3"
         ]
       }
@@ -46588,14 +46616,26 @@
     }
   },
   "gb-projects-pages": {
-    "1.0.0": {
+    "1.0.3": {
       "sdist": [
-        "H216dCg1/0u+I3EuFCeLiPceu1KfR/0PIPvNgAnt+wo=",
-        "gb_projects_pages-1.0.0.tar.gz"
+        "bUoMTYg2CePHggwIZ/267vd+ybIjLptbDo2ZqgOTKoc=",
+        "gb_projects_pages-1.0.3.tar.gz"
       ],
       "wheels": {
-        "gb_projects_pages-1.0.0-py3-none-any.whl": [
-          "3jWBbIaiJDXcGJBan9vtOwhCiV1RnKbVUxeR3euVwiM=",
+        "gb_projects_pages-1.0.3-py3-none-any.whl": [
+          "HsjaiZFxBTlitNFXir5c+6QnwNJpMPOicmJ615ob28k=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.4": {
+      "sdist": [
+        "KZ6P+MbuAFcnvjLqlxX8K8/6oC0xs/Mi5ysrb51wU/8=",
+        "gb-projects-pages-1.0.4.tar.gz"
+      ],
+      "wheels": {
+        "gb_projects_pages-1.0.4-py3-none-any.whl": [
+          "sGpYCyfPdmToPsfUsizmR/eLWCxtp/TtnhZPAgf5ISg=",
           "py3"
         ]
       }
@@ -49484,6 +49524,12 @@
       "sdist": [
         "V9Mj/M9fqfGz+kJpZv3YRhQCTBMHbn1KYaa7McrQIWI=",
         "gpt_index-0.2.7.tar.gz"
+      ]
+    },
+    "0.2.8": {
+      "sdist": [
+        "/QGCrnMJE9D9R7i0Ak/DkF4Ho1uMennQEO41KPqBkQE=",
+        "gpt_index-0.2.8.tar.gz"
       ]
     }
   },
@@ -53910,6 +53956,14 @@
       "wheels": {
         "huaweicloudsdkas-3.1.22-py2.py3-none-any.whl": [
           "xPqyfdbxORLnzdoIYXpI+ssIUdVJVy/NSEVz/oyOpAI=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.23": {
+      "wheels": {
+        "huaweicloudsdkas-3.1.23-py2.py3-none-any.whl": [
+          "sftkmKEWpq8dz2Zd+gydOfLfDzSUJADFcGR6oAenF9I=",
           "py2.py3"
         ]
       }
@@ -69239,6 +69293,12 @@
         "PGpdweRPhKX1liYgeVndRN4k4AQgeUvmn/BnlN/ZeHY=",
         "meteomoris-2.1.0.tar.gz"
       ]
+    },
+    "2.2.0": {
+      "sdist": [
+        "r0gpFKWeA6v5PDu57PUjN0cYybMYmwiR2ZnWzMC9En8=",
+        "meteomoris-2.2.0.tar.gz"
+      ]
     }
   },
   "metricspy": {
@@ -76744,6 +76804,12 @@
       "sdist": [
         "Sfq1d8ylWVUblrueAiDxNP+BH3ziLmql71xMQtW6tak=",
         "netbluemind4-4.1.64941.tar.gz"
+      ]
+    },
+    "4.1.64966": {
+      "sdist": [
+        "B+XHKv91N1eIUHi7d9G4W2h4HzBWATnz1ycIGq5bZ8Y=",
+        "netbluemind4-4.1.64966.tar.gz"
       ]
     }
   },
@@ -130650,6 +130716,18 @@
       "wheels": {
         "trident_sync-1.0.3-py3-none-any.whl": [
           "rfEzzOZsrZLGhgZC18H0HchS+TRcbNGdPyb9+etw630=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.4": {
+      "sdist": [
+        "tgklaTLf+IJr6vlGQCgYUJeNEX34Gkthcl1DNB9qEdc=",
+        "trident_sync-1.0.4.tar.gz"
+      ],
+      "wheels": {
+        "trident_sync-1.0.4-py3-none-any.whl": [
+          "sNjxKg0AJreX40ZKOmUnuUBOEWfqCs1z63Y8oe9VhZI=",
           "py3"
         ]
       }

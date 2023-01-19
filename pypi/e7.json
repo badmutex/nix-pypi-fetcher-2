@@ -9557,6 +9557,18 @@
           "py3"
         ]
       }
+    },
+    "0.6.3b20230119": {
+      "sdist": [
+        "bQ4KRk+/k+H1Im+URP68DGzdIHk+0ry9hWRfdc86LCE=",
+        "autogluon.multimodal-0.6.3b20230119.tar.gz"
+      ],
+      "wheels": {
+        "autogluon.multimodal-0.6.3b20230119-py3-none-any.whl": [
+          "IMIaWi/B2qVmzqEydPNTqMFPBdnMTs1n5Mv4UKyDgLc=",
+          "py3"
+        ]
+      }
     }
   },
   "autograder-vives": {
@@ -15768,6 +15780,22 @@
         ],
         "bodo-2023.1rc2-cp39-cp39-manylinux2014_x86_64.manylinux_2_17_x86_64.whl": [
           "s+qM0URfL2qe5fHdexMMQandTwLhkexKESBYci+IL4w=",
+          "cp39"
+        ]
+      }
+    },
+    "2023.1rc3": {
+      "wheels": {
+        "bodo-2023.1rc3-cp310-cp310-manylinux2014_x86_64.manylinux_2_17_x86_64.whl": [
+          "JMI/3NuDHq9PSqg8euYhzvmnk7lDRRu5uFmwQ6pUw/c=",
+          "cp310"
+        ],
+        "bodo-2023.1rc3-cp38-cp38-manylinux2014_x86_64.manylinux_2_17_x86_64.whl": [
+          "FJn8cJSnM6IiLeYU3y1/F4ls1uSvQghxXBDvX3arDhk=",
+          "cp38"
+        ],
+        "bodo-2023.1rc3-cp39-cp39-manylinux2014_x86_64.manylinux_2_17_x86_64.whl": [
+          "FUUBTlNmv5BeqV7nSpZkB/19JLnBNludtnmT2eGNxQc=",
           "cp39"
         ]
       }
@@ -68897,6 +68925,20 @@
       }
     }
   },
+  "meson-ninja-vs": {
+    "0.1.0": {
+      "sdist": [
+        "/M/gcMmK8y9tsg8FphA57PsSYlTJKaG3pc7qaZAH4sc=",
+        "meson-ninja-vs-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "meson_ninja_vs-0.1.0-py3-none-any.whl": [
+          "qg3rhXDNyDHXNw7+3eQw0bYybiLRW05gRHf1e56i7SU=",
+          "py3"
+        ]
+      }
+    }
+  },
   "message-loader": {
     "0.0.1": {
       "sdist": [
@@ -71510,70 +71552,14 @@
     }
   },
   "mnist-dnn": {
-    "0.1.0a1": {
+    "0.0.1": {
       "sdist": [
-        "tVoYa7q0/CD7/qqH1lSbh3mDdA5PgPfLraQK2D9oBjs=",
-        "mnist-dnn-0.1.0a1.tar.gz"
+        "/tVt/tgOioKmQvKUVsVm9P9B1zr7+aGUHCSxAV+StMk=",
+        "mnist-dnn-0.0.1.tar.gz"
       ],
       "wheels": {
-        "mnist_dnn-0.1.0a1-py3-none-any.whl": [
-          "Khen7LJ3idszhPbwSEL6VTixHRYn6qrM2sPCq7DQuPQ=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.1a1": {
-      "wheels": {
-        "mnist_dnn-0.1.1a1-py3-none-any.whl": [
-          "z7MYolKlZTO2nYu0ZWIluwlgDAdewAs7bkyl5Y4v3kQ=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.1a2": {
-      "sdist": [
-        "BgUzDN80ksvWYb5ES27cQuXTQcUnMeeGaJBS4AnbE7Q=",
-        "mnist-dnn-0.1.1a2.tar.gz"
-      ],
-      "wheels": {
-        "mnist_dnn-0.1.1a2-py3-none-any.whl": [
-          "JqDewEJbVjHPW03tvYMaWLY9bOHJ9iVWWdaahuj6RF4=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.1a3": {
-      "sdist": [
-        "RqD2IRGzOqn8ilvZiQk87iHcfHODdCB8YjWphnfW8cQ=",
-        "mnist-dnn-0.1.1a3.tar.gz"
-      ],
-      "wheels": {
-        "mnist_dnn-0.1.1a3-py3-none-any.whl": [
-          "j1kA3P9NUJ6S9ceKgEzGqO1GDx2gVah/eS9Jl5yK0XU=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.1a4": {
-      "sdist": [
-        "p1ooUvGMXRFwxpdziNJRRur4vBVzhW9xG94GDo6FfRQ=",
-        "mnist-dnn-0.1.1a4.tar.gz"
-      ],
-      "wheels": {
-        "mnist_dnn-0.1.1a4-py3-none-any.whl": [
-          "A3K1FriRZM+m8pYD/MWFeuw3SpiSyarCbMzIIfouTmw=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.1a5": {
-      "sdist": [
-        "GqXgQlfALyl3twRIMeaPWlJHb6Hk+mnP3Slg24kVT3I=",
-        "mnist-dnn-0.1.1a5.tar.gz"
-      ],
-      "wheels": {
-        "mnist_dnn-0.1.1a5-py3-none-any.whl": [
-          "BQQDDuDDmTYag454B4MmTe91CKradWegp5euTTgiVFk=",
+        "mnist_dnn-0.0.1-py3-none-any.whl": [
+          "jFueukVZpGfk//3sHmDIlIeVQ+RHhg9lhNcBmD4mJtc=",
           "py3"
         ]
       }
@@ -93365,6 +93351,14 @@
           "py3"
         ]
       }
+    },
+    "14.0.1.0.2.dev5": {
+      "wheels": {
+        "odoo14_addon_stock_picking_sale_order_link-14.0.1.0.2.dev5-py3-none-any.whl": [
+          "D6S5bEybrI5XPKJlfIWM3L+BkhOgFOknHun6cZFEL6U=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo14-addon-stock-request-picking-type": {
@@ -104092,6 +104086,18 @@
         ]
       }
     },
+    "0.0.327": {
+      "sdist": [
+        "0cJIEK3/VQUR/M934QSx5H+g13SNmpcm0c9VsB7c0Bw=",
+        "pepperize.cdk-security-group-0.0.327.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.cdk_security_group-0.0.327-py3-none-any.whl": [
+          "0UP/DQ8Dku01XG3K6EaGZLUU2VDSSkv/Ekh+3QGK7BQ=",
+          "py3"
+        ]
+      }
+    },
     "0.0.33": {
       "sdist": [
         "Bb5rk0x+capDtdrNLN5JUi0Ip/cJ4MwM/q1xy6NffyM=",
@@ -113538,6 +113544,56 @@
       "wheels": {
         "pymcfunction-0.1.6-py3-none-any.whl": [
           "hUsYIg8ro2bL9WsCskJx4JBi6PLuj92Nmnmh5OV9dMU=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "pymeddra": {
+    "0.0.0": {
+      "sdist": [
+        "RHWNFhjIqveEoeuZZk1YTN9GWgHJeTiJOSuCUItWRaU=",
+        "pymeddra-0.0.0.tar.gz"
+      ],
+      "wheels": {
+        "pymeddra-0.0.0-py3-none-any.whl": [
+          "bANlBakH3rqJykIZXu1utt1A83DwkPMaUImRk33Jg7E=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.1": {
+      "sdist": [
+        "vXtDwwFrvVmCdvVap9iTAfNQN0IiBtwXeixu0MlX3zI=",
+        "pymeddra-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "pymeddra-0.0.1-py3-none-any.whl": [
+          "HQYErVMAf/8BES2ftCGPp/bvUImfW9AbNaYw7XsDYQs=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "cR7ecE9ypUOr3OuD9Zl6QjXB5tIMdeLIvYLC8Y4vUKY=",
+        "pymeddra-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "pymeddra-0.0.2-py3-none-any.whl": [
+          "MxsIQpnCM9yqJavNvfJBvkGH3VMpk1xL2lHnyI/MNwg=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "TRmjqOgwZs/Kgj3ouNf3ZHq4MH5phsENr4v4UnTPVRI=",
+        "pymeddra-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "pymeddra-0.0.3-py3-none-any.whl": [
+          "Pf95eM6UQilY33ZJfoDRGqyBF1G7rs8GbTXr4/eBxho=",
           "py3"
         ]
       }

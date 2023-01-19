@@ -10533,6 +10533,18 @@
           "py3"
         ]
       }
+    },
+    "0.6.3b20230119": {
+      "sdist": [
+        "OVyXF2oe/UUtHopRLMDVzSbleBu2/XSVj8SmAgXkUUk=",
+        "autogluon.timeseries-0.6.3b20230119.tar.gz"
+      ],
+      "wheels": {
+        "autogluon.timeseries-0.6.3b20230119-py3-none-any.whl": [
+          "LT0uKkzQbV+l3GAQKWzyKu/Cc6DyJFftNdi4+EHXEl0=",
+          "py3"
+        ]
+      }
     }
   },
   "autohooks-plugin-pytest": {
@@ -10888,6 +10900,18 @@
         ],
         "autond-0.2.2-py3-none-any.whl": [
           "sC44dplcOTB9sapdbs5wlRtuq16Vg04wR2drgTWT444=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.22": {
+      "wheels": {
+        "autond-0.2.22-py2-none-any.whl": [
+          "IEQ2OSByRBvWhNM83ZMrdNskwCwVTdSDJ5F9/vuvqBU=",
+          "py2"
+        ],
+        "autond-0.2.22-py3-none-any.whl": [
+          "qIopDKhvTlEb1wu7E2kSpJUXJrHJzLPVijNklf9PVJU=",
           "py3"
         ]
       }
@@ -26405,6 +26429,52 @@
         "cubicweb_bootstrap-1.9.0-py3-none-any.whl": [
           "awTEA81DPBa0k2SdBHaOXQNwawFZPcw761yY6MtgVug=",
           "py3"
+        ]
+      }
+    }
+  },
+  "cupy-cuda12x": {
+    "11.5.0": {
+      "wheels": {
+        "cupy_cuda12x-11.5.0-cp310-cp310-manylinux1_x86_64.whl": [
+          "iIjoPqkzKV5zIZwaklz6ipEkJ034vr2gyHWW7GRfheQ=",
+          "cp310"
+        ],
+        "cupy_cuda12x-11.5.0-cp310-cp310-win_amd64.whl": [
+          "1IZPt1w6Slgk8HZGEgCgnLG0BLHYLDKe1R/rZDyHgEQ=",
+          "cp310"
+        ],
+        "cupy_cuda12x-11.5.0-cp311-cp311-manylinux1_x86_64.whl": [
+          "npX1nw8Xg9AQbqhGU1366aCdNUwz1trPhBLxEGLJ/R4=",
+          "cp311"
+        ],
+        "cupy_cuda12x-11.5.0-cp311-cp311-win_amd64.whl": [
+          "5QlH+ZyHdAoc5CEP3/LzLChKjNH+c9QrjWsOwrQIgDM=",
+          "cp311"
+        ],
+        "cupy_cuda12x-11.5.0-cp37-cp37m-manylinux1_x86_64.whl": [
+          "bpzteb0oErbfiXeJ9oNIwWNJj2/rZfExkmE+nYWj4HY=",
+          "cp37"
+        ],
+        "cupy_cuda12x-11.5.0-cp37-cp37m-win_amd64.whl": [
+          "GaxHmr03Z3hK5QBBjLf/cIBvkyRuCvWekV4PiMZFxjo=",
+          "cp37"
+        ],
+        "cupy_cuda12x-11.5.0-cp38-cp38-manylinux1_x86_64.whl": [
+          "KVlUQHXM2iMI58lGQ4opdF5QvFIfao7cVdonz9qHT64=",
+          "cp38"
+        ],
+        "cupy_cuda12x-11.5.0-cp38-cp38-win_amd64.whl": [
+          "hxghffN8ByNLwIFUXizLmCKll2dp+ArcgPE5LPu1XjI=",
+          "cp38"
+        ],
+        "cupy_cuda12x-11.5.0-cp39-cp39-manylinux1_x86_64.whl": [
+          "IBtf566oOiYkGEBDgHm7iNBO2u/ndSpTbk24+YTGvgo=",
+          "cp39"
+        ],
+        "cupy_cuda12x-11.5.0-cp39-cp39-win_amd64.whl": [
+          "akqYN7z3cwZN0fwkrpgpyNubE2SxvLKfeG5j0iSn8Kg=",
+          "cp39"
         ]
       }
     }
@@ -55484,6 +55554,20 @@
       "wheels": {
         "idiary-0.0.1-py3-none-any.whl": [
           "zQoE5quE1VVheck1WrAG1PEBFLjqmow8bmroSEfr/wM=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "idun-guardian-client-beta-test": {
+    "0.1b5": {
+      "sdist": [
+        "t0laW1TCpY5Vc+CVIji8MBmyQ4K1AdrbsOI68ghJp4s=",
+        "idun_guardian_client_beta_test-0.1b5.tar.gz"
+      ],
+      "wheels": {
+        "idun_guardian_client_beta_test-0.1b5-py3-none-any.whl": [
+          "1CH97DMWrEOtEuliliYVOhYpHH/AjuNR5zQAP+Rkk5k=",
           "py3"
         ]
       }
@@ -86588,6 +86672,14 @@
       "wheels": {
         "odoo13_addon_stock_picking_invoice_link-13.0.2.0.4-py3-none-any.whl": [
           "EyA2vBoKJW4ZOHVTZUORMKVLrG7ij0ncbMWwox7/WXY=",
+          "py3"
+        ]
+      }
+    },
+    "13.0.2.0.5.dev1": {
+      "wheels": {
+        "odoo13_addon_stock_picking_invoice_link-13.0.2.0.5.dev1-py3-none-any.whl": [
+          "LgrXs5bBk/hgLpOu+DsDXn+67p+StdwLcRJ/DNuLc4s=",
           "py3"
         ]
       }

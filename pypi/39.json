@@ -15457,6 +15457,22 @@
           "py3"
         ]
       }
+    },
+    "2.3.0b20230119": {
+      "sdist": [
+        "2vhIVv1/XjPEISbVOyp+Qts9fRbco/rc5rx+7U1SMbc=",
+        "bigdl-dllib-2.3.0b20230119.tar.gz"
+      ],
+      "wheels": {
+        "bigdl_dllib-2.3.0b20230119-py3-none-macosx_10_11_x86_64.whl": [
+          "8Fs5FMD5RjQ0UnjI/r4iZBnxBUsshh23wN/2Bciq9KY=",
+          "py3"
+        ],
+        "bigdl_dllib-2.3.0b20230119-py3-none-manylinux1_x86_64.whl": [
+          "7KHbGYrGc0lJobhwZl+otZPhZGGy65nycJNZhHHUGgo=",
+          "py3"
+        ]
+      }
     }
   },
   "biggan": {
@@ -25824,6 +25840,50 @@
         ],
         "cupy_cuda11x-11.4.0-cp39-cp39-win_amd64.whl": [
           "UPDyKF5oqv6xuWz8WB1lK29F+h3Wl2GFTfE1nAgkcoU=",
+          "cp39"
+        ]
+      }
+    },
+    "11.5.0": {
+      "wheels": {
+        "cupy_cuda11x-11.5.0-cp310-cp310-manylinux1_x86_64.whl": [
+          "+AEVJBU5Pdz7OBhwfIyTBY5jQhdVJZWEQy90FCcOiII=",
+          "cp310"
+        ],
+        "cupy_cuda11x-11.5.0-cp310-cp310-win_amd64.whl": [
+          "als2PDaBWle7LvVdqpnQeokD1Dr29ZW41iVS8oosRAE=",
+          "cp310"
+        ],
+        "cupy_cuda11x-11.5.0-cp311-cp311-manylinux1_x86_64.whl": [
+          "X9IeXYudLpxZzcBG1PkF+pMfKj2z8IQqrTD5jXfGu/k=",
+          "cp311"
+        ],
+        "cupy_cuda11x-11.5.0-cp311-cp311-win_amd64.whl": [
+          "TkTyq5uWDZ37+bt7b+GI1kc9MsyTIvwnHV+bbyr6rfM=",
+          "cp311"
+        ],
+        "cupy_cuda11x-11.5.0-cp37-cp37m-manylinux1_x86_64.whl": [
+          "5J7HZHmwueX4mCtMyS4tp1kM7XPw0t42iLYf+i5mghk=",
+          "cp37"
+        ],
+        "cupy_cuda11x-11.5.0-cp37-cp37m-win_amd64.whl": [
+          "un/P/b9oig3payv5O3sZ9SiMpqAqzKwyNQEL7qTDWz8=",
+          "cp37"
+        ],
+        "cupy_cuda11x-11.5.0-cp38-cp38-manylinux1_x86_64.whl": [
+          "jlm3KKRDI0elBipbLYlBZX8EjJdxhp7YwNUK1PwSBIU=",
+          "cp38"
+        ],
+        "cupy_cuda11x-11.5.0-cp38-cp38-win_amd64.whl": [
+          "SjCKb9X0gdiU61YwVu9vzndgJ9tKc5zAxHl2MR1plts=",
+          "cp38"
+        ],
+        "cupy_cuda11x-11.5.0-cp39-cp39-manylinux1_x86_64.whl": [
+          "ym/Msp9fO1+0gWibFwZ1V/rsj5NYRIkQoFCo6A5e3fc=",
+          "cp39"
+        ],
+        "cupy_cuda11x-11.5.0-cp39-cp39-win_amd64.whl": [
+          "jaYW+rvrQQ3SZL2nJMOi0rKJ9LLzLt6WvJH2sPBY9y4=",
           "cp39"
         ]
       }
@@ -58613,6 +58673,30 @@
           "py3"
         ]
       }
+    },
+    "2.0.1": {
+      "wheels": {
+        "libsrg-2.0.1-py3-none-any.whl": [
+          "/lSf6K2bpaHmbza+26AyKXhhnoIQ/5DOP1VCKhfO7gM=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.2": {
+      "wheels": {
+        "libsrg-2.0.2-py3-none-any.whl": [
+          "hMIKlRzcAAJet8oelO9epaJAeD2zNBkJdwYd+rz+Fmc=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.3": {
+      "wheels": {
+        "libsrg-2.0.3-py3-none-any.whl": [
+          "aBR8DAOF1OXKdL5CmI2uneo2yOtClp5wDjKi7wNjIoo=",
+          "py3"
+        ]
+      }
     }
   },
   "libumccr": {
@@ -82197,6 +82281,14 @@
           "py3"
         ]
       }
+    },
+    "14.0.1.0.1.dev6": {
+      "wheels": {
+        "odoo14_addon_procurement_batch_generator-14.0.1.0.1.dev6-py3-none-any.whl": [
+          "PPAv6X8OM6HWbCXqK11pY1T7zRdOwE41VrBvwFcNKUo=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo14-addon-product-route-profile": {
@@ -89432,6 +89524,18 @@
       "wheels": {
         "phiterm-1.0.2-py3-none-any.whl": [
           "KQ+xw2RZ90+ZMY7xEm4xV+RTdN9j4a4G0aMkrJ/GE7A=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.3": {
+      "sdist": [
+        "zblVWpERBl9ciaqA3mJEbhc6E8IHPevE4q1li+8LoOY=",
+        "phiterm-1.0.3.tar.gz"
+      ],
+      "wheels": {
+        "phiterm-1.0.3-py3-none-any.whl": [
+          "ReGcjFFKpJOOjVO8O7kVjD1vl/UNf+z64JbMO9mEu7k=",
           "py3"
         ]
       }
@@ -97250,6 +97354,54 @@
       "wheels": {
         "pycassodicom-0.4.4-py3-none-any.whl": [
           "ldq3FaQqBYw85Dlaiytgw23G3lTjbRHd/nN/TxrBig8=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.5": {
+      "sdist": [
+        "W7e6nnr+shF6o8KnLnFv3Kj7+We2GNUvXD2dMMy6vWA=",
+        "pycassodicom-0.4.5.tar.gz"
+      ],
+      "wheels": {
+        "pycassodicom-0.4.5-py3-none-any.whl": [
+          "F6fM3uEdu4HMit7zBCVSl+JcewA03o6H5wYGkar3Tig=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.6": {
+      "sdist": [
+        "jIk+xQC/fmsiZzeH9a3pBMmfeNCTc/t29cJRaj2kwQk=",
+        "pycassodicom-0.4.6.tar.gz"
+      ],
+      "wheels": {
+        "pycassodicom-0.4.6-py3-none-any.whl": [
+          "0b82Ngttz8RH/x6NTS0Wvqe6KBUV8MZyk85HYZN4Glw=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.7": {
+      "sdist": [
+        "21hZI5UTd17nEB/iZsfuXN031aHdIMsDsuXsWGE0CPs=",
+        "pycassodicom-0.4.7.tar.gz"
+      ],
+      "wheels": {
+        "pycassodicom-0.4.7-py3-none-any.whl": [
+          "Mr69khcA33YXDlEAQEjXvrbvc0naaoyAY7ewJfcQFbo=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.8": {
+      "sdist": [
+        "MPWueDop8ifa0I2sBU9Z63Whi8mOY1+tmiD/qVNmBkU=",
+        "pycassodicom-0.4.8.tar.gz"
+      ],
+      "wheels": {
+        "pycassodicom-0.4.8-py3-none-any.whl": [
+          "IDUotI5Vsfdqf3K2JVqECN3wBaZH1tvy9tM4BBoF6is=",
           "py3"
         ]
       }
@@ -107656,6 +107808,18 @@
       "wheels": {
         "pytest_sbase-4.11.5-py3-none-any.whl": [
           "1r44QSDzJXTtoXhZW4OkcK4LKaCWetHhEg8dSn7MXwM=",
+          "py3"
+        ]
+      }
+    },
+    "4.11.6": {
+      "sdist": [
+        "7FKJNOwKEKCEsg+u+lMG2jbnA+bmO3N+B+boTMa1EfY=",
+        "pytest-sbase-4.11.6.tar.gz"
+      ],
+      "wheels": {
+        "pytest_sbase-4.11.6-py3-none-any.whl": [
+          "Htr+rFu1aiIeGNA/AcKQhnAYiZHDKenDAZFi1Soe/7A=",
           "py3"
         ]
       }
@@ -143590,6 +143754,22 @@
         ],
         "tf_nightly_intel-2.12.0.dev20230118-cp39-cp39-win_amd64.whl": [
           "eD9W+IKfubbhBxxSsBMBy41ZgQNQTYGUXdiqyUq6qk8=",
+          "cp39"
+        ]
+      }
+    },
+    "2.12.0.dev20230119": {
+      "wheels": {
+        "tf_nightly_intel-2.12.0.dev20230119-cp310-cp310-win_amd64.whl": [
+          "SZDkvfEEd+Qnx2KznRtRsmpLle/Rfmcbtrl7XbqfKaM=",
+          "cp310"
+        ],
+        "tf_nightly_intel-2.12.0.dev20230119-cp38-cp38-win_amd64.whl": [
+          "u6ZAL9a6JFHLF4/QjNa+c9PFiy/ndIphJO8o5FHWB1A=",
+          "cp38"
+        ],
+        "tf_nightly_intel-2.12.0.dev20230119-cp39-cp39-win_amd64.whl": [
+          "bYNUsmMzGAzjxuE+WF35i+mPQq06Kotqrafe32dJXTE=",
           "cp39"
         ]
       }

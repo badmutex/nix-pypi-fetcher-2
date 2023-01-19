@@ -4482,6 +4482,30 @@
         ]
       }
     },
+    "1.4.50": {
+      "sdist": [
+        "PubGeZbsRmJnLli2EXJ+TfF0IEnD6E1/A3zIvgRGy/w=",
+        "algora-sdk-1.4.50.tar.gz"
+      ],
+      "wheels": {
+        "algora_sdk-1.4.50-py3-none-any.whl": [
+          "oBk05llhb4NgbM/6Fdgr0D9tdC0de+3+0ma6fox+YiQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.4.52": {
+      "sdist": [
+        "5W0QSc6owZVOUeC57SDa2VNTGQl9cbGMHrBf8HKHtcI=",
+        "algora-sdk-1.4.52.tar.gz"
+      ],
+      "wheels": {
+        "algora_sdk-1.4.52-py3-none-any.whl": [
+          "FFejYy+MTfiJ52W7KAxZcESlt0xRlmS6jX0AF4anL4Y=",
+          "py3"
+        ]
+      }
+    },
     "1.4.6": {
       "sdist": [
         "HrYISvHpG5pLa/1SzN3eRL/2kqHZhHM6KaI8dzJlu8s=",
@@ -40892,6 +40916,14 @@
         ]
       }
     },
+    "0.0.14b0": {
+      "wheels": {
+        "devcontainer_contrib-0.0.14b0-py3-none-any.whl": [
+          "UWwg6QLPV8nxQkzM6cqtefxfH9x+pgWDWB2bmfCvmRc=",
+          "py3"
+        ]
+      }
+    },
     "0.0.2": {
       "wheels": {
         "devcontainer_contrib-0.0.2-py3-none-any.whl": [
@@ -53276,6 +53308,18 @@
       "sdist": [
         "55fasyzYX63yR5umbNQ+5pLkXv065TXMtcA6lswVn2M=",
         "Finance-Seleya-1.0.9.tar.gz"
+      ]
+    },
+    "1.1.0": {
+      "sdist": [
+        "niw8z9IlQzefH1IMpBsTz03kvYpuEuPWqirnJRCANNs=",
+        "Finance-Seleya-1.1.0.tar.gz"
+      ]
+    },
+    "1.1.1": {
+      "sdist": [
+        "MpogzroeQAT2ku6KbD/FmIe5+ore9uUPu8/KKLtuVu0=",
+        "Finance-Seleya-1.1.1.tar.gz"
       ]
     }
   },
@@ -71352,6 +71396,10 @@
           "MNxV7DkNXr+UmoJDNGzJXAegzndsDaAbPSXOfvr4/60=",
           "cp38"
         ],
+        "kornia_rs-0.0.8-cp38-cp38-macosx_11_0_arm64.whl": [
+          "irjl3h+IObabOrZ11emiUNJArmVAvFHK+iyk/FMWn70=",
+          "cp38"
+        ],
         "kornia_rs-0.0.8-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
           "4tHr7nhLM7fSevv0c/sPtPl+UocrPdeBTp4MHB6X8Wk=",
           "cp38"
@@ -71366,6 +71414,10 @@
         ],
         "kornia_rs-0.0.8-cp39-cp39-macosx_10_7_x86_64.whl": [
           "LvGOcOPvmk10bJwfrh5hmSvTMoahk35nzBA5NXksEiA=",
+          "cp39"
+        ],
+        "kornia_rs-0.0.8-cp39-cp39-macosx_11_0_arm64.whl": [
+          "G2G3VonBKMl6sKDWr2yuGrS1ngXjPf2xh5D1V1R61Es=",
           "cp39"
         ],
         "kornia_rs-0.0.8-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
@@ -90723,6 +90775,14 @@
           "py3"
         ]
       }
+    },
+    "16.0.1.0.0.2": {
+      "wheels": {
+        "odoo_addon_stock_analytic-16.0.1.0.0.2-py3-none-any.whl": [
+          "HjgvMKtC9C0ZRR0aVl826NYHADXB+NiPwFGEfIBErPI=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo-addon-stock-move-value-report": {
@@ -92926,6 +92986,16 @@
       "wheels": {
         "odoo14_addon_document_url-14.0.1.1.1.dev1-py3-none-any.whl": [
           "o6SD9e6yiwQdKz9MPAQ020xrQetivtoETT3Psp3bq58=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "odoo14-addon-invader-payment-adyen": {
+    "14.0.1.0.1": {
+      "wheels": {
+        "odoo14_addon_invader_payment_adyen-14.0.1.0.1-py3-none-any.whl": [
+          "b4KOyy2eDibp+KYkaWJbGbKrRFzylFPRZ7CGJhVkxb4=",
           "py3"
         ]
       }
@@ -119524,6 +119594,18 @@
       "wheels": {
         "robomeshcat-1.1.0-py3-none-any.whl": [
           "+kLQ+P28NvNs2XObReb6JKcVyiODirPm7qassJ5WUBI=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.1": {
+      "sdist": [
+        "iZfagmHt6aZxiP2m+vqwRnhCe3+h4s8rjfAERhBLkhM=",
+        "robomeshcat-1.1.1.tar.gz"
+      ],
+      "wheels": {
+        "robomeshcat-1.1.1-py3-none-any.whl": [
+          "oWg/+tpao1v0f15E6nzuVVFzl6pBOFVGYrX+7vSCrc8=",
           "py3"
         ]
       }
@@ -146686,6 +146768,30 @@
       "wheels": {
         "test_tscai_1-0.0.22-py3-none-any.whl": [
           "2poBVVXM5xOOuIkZKyxzRVCcW2y14DqlYkCvicOouKU=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.23": {
+      "wheels": {
+        "test_tscai_1-0.0.23-py3-none-any.whl": [
+          "4ipkWS6zporL4HhHxTP4qHYLZFrR5Qc/S9kd/sHz8Jg=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.24": {
+      "wheels": {
+        "test_tscai_1-0.0.24-py3-none-any.whl": [
+          "V/DAQ//BcXX3yWH8c3q4JFDO3lZN8RomcelvFyP7+lY=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.25": {
+      "wheels": {
+        "test_tscai_1-0.0.25-py3-none-any.whl": [
+          "J/SeJu6d6/6il2t0zquggpdlu9DkuQ7SnTW3EFIcT9o=",
           "py3"
         ]
       }

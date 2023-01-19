@@ -3597,6 +3597,18 @@
           "py3"
         ]
       }
+    },
+    "0.6.2": {
+      "sdist": [
+        "NAqtANjKb0F4GxLsnB0S7TWaiIwA05Op9cfhmcNp3i0=",
+        "apibara-0.6.2.tar.gz"
+      ],
+      "wheels": {
+        "apibara-0.6.2-py3-none-any.whl": [
+          "B1cPsub9DxbXVAder21+lZ4VfXBtRjwLoI5Qp13Fkv8=",
+          "py3"
+        ]
+      }
     }
   },
   "apiscout": {
@@ -26561,6 +26573,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.1": {
+      "sdist": [
+        "pvJqZEE+58J00T3akkGdereZw0Zwr82ghPnDx2GCgcA=",
+        "CryptographyMethods-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "CryptographyMethods-0.1.1-py3-none-any.whl": [
+          "3KgzCW+/NATBCxo5S0TwvSY3IvrGJYZk9azuUH97ebg=",
+          "py3"
+        ]
+      }
     }
   },
   "cryptowatch-sdk": {
@@ -30495,6 +30519,20 @@
         "deadman-0.1.10-py2.py3-none-any.whl": [
           "PV43O0q+EjRbCXusKjkpaLSYvY4Sd2Xw5hCnic+fgHs=",
           "py2.py3"
+        ]
+      }
+    }
+  },
+  "deckhouse-sdk": {
+    "0.2.1": {
+      "sdist": [
+        "VPdfQtZKHvB201sE8LHYqPJz4RiT/9alYOKCeiQaCL8=",
+        "deckhouse_sdk-0.2.1.tar.gz"
+      ],
+      "wheels": {
+        "deckhouse_sdk-0.2.1-py3-none-any.whl": [
+          "YkXjdvnzuNputtTwgawzeQsdGgpcptr0I46fO2MoOoM=",
+          "py3"
         ]
       }
     }
@@ -86675,6 +86713,14 @@
           "py3"
         ]
       }
+    },
+    "15.0.3.3.0": {
+      "wheels": {
+        "odoo_addon_l10n_ro_fiscal_validation-15.0.3.3.0-py3-none-any.whl": [
+          "ukn18dDCJNhDNwamDvj1/JiaWWTpXr9+MgxRxu9xOIQ=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo-addon-sale-report-margin": {
@@ -86708,6 +86754,14 @@
       "wheels": {
         "odoo_addon_stock_move_location-15.0.1.0.2-py3-none-any.whl": [
           "3Jv3MPeQ89rf3Y9ovgjuRpkvPaUu8xEL/t+nZxcCcjw=",
+          "py3"
+        ]
+      }
+    },
+    "15.0.1.1.0": {
+      "wheels": {
+        "odoo_addon_stock_move_location-15.0.1.1.0-py3-none-any.whl": [
+          "TF+Muq+NvL/IxZ7RzxwzHGwBej3zGhnwLj0vw1xN3KQ=",
           "py3"
         ]
       }
@@ -87190,6 +87244,14 @@
       "wheels": {
         "odoo11_addon_pos_margin-11.0.1.0.1-py2.py3-none-any.whl": [
           "H2Qw1aDrCsAXop8j7MgTK9n+FMyeZ5fMMFpse3ALQZ4=",
+          "py2.py3"
+        ]
+      }
+    },
+    "11.0.1.0.1.99.dev1": {
+      "wheels": {
+        "odoo11_addon_pos_margin-11.0.1.0.1.99.dev1-py2.py3-none-any.whl": [
+          "RryRefAn9FM7fSQetmBmM6Y7efWfht7d27unYB+OOBY=",
           "py2.py3"
         ]
       }
@@ -117954,6 +118016,58 @@
         ]
       }
     },
+    "1.11.1": {
+      "wheels": {
+        "pytket-1.11.1-cp310-cp310-macosx_11_0_arm64.whl": [
+          "c51mU+sEneX5ftSMIh9CeAYXUR8oRi1wY36YqO7tLKE=",
+          "cp310"
+        ],
+        "pytket-1.11.1-cp310-cp310-macosx_11_0_x86_64.whl": [
+          "AHrMOnFyI/VrMtyVZH8FiBGXLWFSmxNEdmQwKGsCsdM=",
+          "cp310"
+        ],
+        "pytket-1.11.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "mh14m5zqhz5hBcW4Gi14FexAW4BQmrIq4FYSbMBpI3Y=",
+          "cp310"
+        ],
+        "pytket-1.11.1-cp310-cp310-win_amd64.whl": [
+          "YcEAydyzIvjRI6zHNe3E7mSK6AD3QTOSIl9awb1p6Gc=",
+          "cp310"
+        ],
+        "pytket-1.11.1-cp311-cp311-macosx_11_0_arm64.whl": [
+          "7EqAIEnbaoB1z4MTw86erLayIsxyDp693Iot85Y+L6Q=",
+          "cp311"
+        ],
+        "pytket-1.11.1-cp311-cp311-macosx_11_0_x86_64.whl": [
+          "c5T7cf8Qlb2brMbb8lsY8+HsPZiy/4uBe4YCxhUxcww=",
+          "cp311"
+        ],
+        "pytket-1.11.1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "+nnhT5ydS+onUjTrZ7vd8YadC7F/7iHGyBkeg3dQCI4=",
+          "cp311"
+        ],
+        "pytket-1.11.1-cp311-cp311-win_amd64.whl": [
+          "fEKaFXDLkGcKstbQwOUPu1MJGDkfuSavkMLg0E1XJvc=",
+          "cp311"
+        ],
+        "pytket-1.11.1-cp39-cp39-macosx_11_0_arm64.whl": [
+          "+U0ZBv1/KyaQHCMwnD5s5eZHlwBGO65ELQejIcK6eYo=",
+          "cp39"
+        ],
+        "pytket-1.11.1-cp39-cp39-macosx_11_0_x86_64.whl": [
+          "hP+BSSgwECUORhRWbykaV7tB1DW709vvTMFZv54I9P8=",
+          "cp39"
+        ],
+        "pytket-1.11.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ba01Q2oJuXsvBhHsFHvLMnCOJ27/XdmdbDxgsBG1gcI=",
+          "cp39"
+        ],
+        "pytket-1.11.1-cp39-cp39-win_amd64.whl": [
+          "JnICzDuYaWj+d54V4zVk00FDMU7oZGxah7po6VmOTow=",
+          "cp39"
+        ]
+      }
+    },
     "1.2.1": {
       "wheels": {
         "pytket-1.2.1-cp310-cp310-macosx_10_14_x86_64.whl": [
@@ -122940,6 +123054,30 @@
       "sdist": [
         "LKrP32VjUkyPQ9VFEDaSI1Asa2dTnQJjYs8uduUi7SE=",
         "rand-uniswap-yield-2.2.2.tar.gz"
+      ]
+    },
+    "2.3.0": {
+      "sdist": [
+        "HzmxF+IN9qo2Nb+nwWxlEmT0zOeiLg7lWTV9joitQ+w=",
+        "rand-uniswap-yield-2.3.0.tar.gz"
+      ]
+    },
+    "2.3.1": {
+      "sdist": [
+        "0dE9AsXJ7pI92R4Yp6tNn+dhtvwWA7kVkQT3noOrmQQ=",
+        "rand-uniswap-yield-2.3.1.tar.gz"
+      ]
+    },
+    "2.3.2": {
+      "sdist": [
+        "eY2adzGg6alR+r5+4aMG7cECl1Y9RH5SbAOersYx6jQ=",
+        "rand-uniswap-yield-2.3.2.tar.gz"
+      ]
+    },
+    "2.3.3": {
+      "sdist": [
+        "eyWeOktFgpPOAfiPOKRziaHifuaD+ewZDAimsrnti0M=",
+        "rand-uniswap-yield-2.3.3.tar.gz"
       ]
     }
   },

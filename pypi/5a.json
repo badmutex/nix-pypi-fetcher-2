@@ -1499,6 +1499,26 @@
       ]
     }
   },
+  "acunetix": {
+    "0.0.1": {
+      "sdist": [
+        "DcZBbRu3lqElicJ6Y+6BrNtRsYIbmSp5n0J1V6p/Vig=",
+        "acunetix-0.0.1.tar.gz"
+      ]
+    },
+    "0.0.2": {
+      "sdist": [
+        "HEhfyk2tWr0HqUlZbiak2O+NQq9I3ftstSvO+fR4EQw=",
+        "acunetix-0.0.2.tar.gz"
+      ]
+    },
+    "0.0.3": {
+      "sdist": [
+        "2LdHy0q+uUHVe4IHwBgbKsTGLzLBeTanQN2eyD91Lck=",
+        "acunetix-0.0.3.tar.gz"
+      ]
+    }
+  },
   "adamant": {
     "0.0.0": {
       "wheels": {
@@ -8408,6 +8428,14 @@
         ]
       }
     },
+    "0.9.16.post2": {
+      "wheels": {
+        "azureml_pipeline_wrapper-0.9.16.post2-py3-none-any.whl": [
+          "pkOte88jXBY774RFPRuKR2CTbdbEvC0F3GV0Zbm9PJk=",
+          "py3"
+        ]
+      }
+    },
     "0.9.2": {
       "wheels": {
         "azureml_pipeline_wrapper-0.9.2-py3-none-any.whl": [
@@ -11038,6 +11066,22 @@
         ],
         "bigdl_dllib_spark3-2.3.0b20230119-py3-none-manylinux1_x86_64.whl": [
           "uP7pKp3PigKmSpqT+E4V7UejmNJLJUcBB8ysqdTr1xc=",
+          "py3"
+        ]
+      }
+    },
+    "2.3.0b20230120": {
+      "sdist": [
+        "YJ3KwUtYN7sCBUUHePqYkU0yYTZe/ytTCoCvMAu9xIc=",
+        "bigdl-dllib-spark3-2.3.0b20230120.tar.gz"
+      ],
+      "wheels": {
+        "bigdl_dllib_spark3-2.3.0b20230120-py3-none-macosx_10_11_x86_64.whl": [
+          "95fZlWKtnQkXIcdfCF9fJdbLBT3d/5AlI9cGQIpVB58=",
+          "py3"
+        ],
+        "bigdl_dllib_spark3-2.3.0b20230120-py3-none-manylinux1_x86_64.whl": [
+          "h4mOgNYOfPp+7L2md/tGy5I3LHBWQJ+7V9Mc7D5HWe4=",
           "py3"
         ]
       }
@@ -47717,6 +47761,20 @@
       }
     }
   },
+  "green-energy": {
+    "0.1.0": {
+      "sdist": [
+        "N0Y2bbhRt4FIsK0qEDcpByA+JMYDGqOwnqDPDu0XVTU=",
+        "green_energy-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "green_energy-0.1.0-py3-none-any.whl": [
+          "Qod05xj/psRXj0JbsWELs8RpLMo5rhw8A+yBpn8boo8=",
+          "py3"
+        ]
+      }
+    }
+  },
   "gribnormalize": {
     "0.0.1dev": {
       "sdist": [
@@ -63514,6 +63572,18 @@
       "wheels": {
         "LoginRadius_v2-11.4.0-py3-none-any.whl": [
           "N6Wasin0jUAaWdrIBOcLSfECagicGkEhCdRIoR2U1sk=",
+          "py3"
+        ]
+      }
+    },
+    "11.5.0": {
+      "sdist": [
+        "zLBHwY/nXRCuF2N89oBYD/Cljgv/jr87U5lMRo11ZIk=",
+        "LoginRadius-v2-11.5.0.tar.gz"
+      ],
+      "wheels": {
+        "LoginRadius_v2-11.5.0-py3-none-any.whl": [
+          "pN5fB9e3gE7dA191OSV70HvXVaKsT0GlObVuRywsfXY=",
           "py3"
         ]
       }

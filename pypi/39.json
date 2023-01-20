@@ -15473,6 +15473,22 @@
           "py3"
         ]
       }
+    },
+    "2.3.0b20230120": {
+      "sdist": [
+        "EmuNI/utxv4bEhrMp34+JVbBlt4R0jz+sbtD0e62WN8=",
+        "bigdl-dllib-2.3.0b20230120.tar.gz"
+      ],
+      "wheels": {
+        "bigdl_dllib-2.3.0b20230120-py3-none-macosx_10_11_x86_64.whl": [
+          "32jGnepqW1n7AEgfQKBKcy648mRSOLe758uS4vqhhwk=",
+          "py3"
+        ],
+        "bigdl_dllib-2.3.0b20230120-py3-none-manylinux1_x86_64.whl": [
+          "fqgxpuSnK6/TwC6RtsbHZ7jJSQ46aoboVgy+m8qmUkc=",
+          "py3"
+        ]
+      }
     }
   },
   "biggan": {
@@ -36248,6 +36264,14 @@
       "wheels": {
         "dynatrace_opentelemetry_gcf-1.255.2-py3-none-any.whl": [
           "PFtteoebGz4qXpYZxYe2o6CSuwUEYQO1vz/AsqOAvgM=",
+          "py3"
+        ]
+      }
+    },
+    "1.257.1": {
+      "wheels": {
+        "dynatrace_opentelemetry_gcf-1.257.1-py3-none-any.whl": [
+          "Ws6zvzva8dDevxMg6ZSd0bIPSQNVtQQIOi+4k9JPB9o=",
           "py3"
         ]
       }
@@ -97551,6 +97575,18 @@
           "py3"
         ]
       }
+    },
+    "0.4.9": {
+      "sdist": [
+        "x+WOO70rVDvYvCFcOHkgVk+GDeLmYu39HkvYnYtoUt0=",
+        "pycassodicom-0.4.9.tar.gz"
+      ],
+      "wheels": {
+        "pycassodicom-0.4.9-py3-none-any.whl": [
+          "JoSiQiPlqyf3bcrrFxOzx515v0+FHwLcb63mdVZRMSw=",
+          "py3"
+        ]
+      }
     }
   },
   "pyccuweather": {
@@ -143928,6 +143964,26 @@
         ],
         "tf_nightly_intel-2.12.0.dev20230119-cp39-cp39-win_amd64.whl": [
           "bYNUsmMzGAzjxuE+WF35i+mPQq06Kotqrafe32dJXTE=",
+          "cp39"
+        ]
+      }
+    },
+    "2.12.0.dev20230120": {
+      "wheels": {
+        "tf_nightly_intel-2.12.0.dev20230120-cp310-cp310-win_amd64.whl": [
+          "xlmJ10u//6EAaklFa8Wa7qRax3tpCMsNCYB4G4tJbYs=",
+          "cp310"
+        ],
+        "tf_nightly_intel-2.12.0.dev20230120-cp311-cp311-win_amd64.whl": [
+          "7dvigI9e3Q35dMZ2CxeVkS93f4aZrZojwhTMuYKyWWM=",
+          "cp311"
+        ],
+        "tf_nightly_intel-2.12.0.dev20230120-cp38-cp38-win_amd64.whl": [
+          "9Yyz1TJarKG4G7d8PFAyW8lxAhmvDVI+49zisYqllmY=",
+          "cp38"
+        ],
+        "tf_nightly_intel-2.12.0.dev20230120-cp39-cp39-win_amd64.whl": [
+          "gPkJrMdsk+iF2Yw+aPYyKHFOiOREOXQ0vP11W8YgfAc=",
           "cp39"
         ]
       }

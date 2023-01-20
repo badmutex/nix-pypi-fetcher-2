@@ -30363,6 +30363,50 @@
           "cp39"
         ]
       }
+    },
+    "0.4.5": {
+      "wheels": {
+        "cumm_cu118-0.4.5-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "pKv/YDVobr/BwFZKV/oMrB51ObhC5oyBnjd+rUfLuu0=",
+          "cp310"
+        ],
+        "cumm_cu118-0.4.5-cp310-cp310-win_amd64.whl": [
+          "kp9Rx2DAUqp+3tbsh/qSlLOCDwDJN7GH1ZvPY/wM7cs=",
+          "cp310"
+        ],
+        "cumm_cu118-0.4.5-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "0q5A7HAySmp+AHzxlvuGgwzAqFIj0EUokvVpHIqNK4A=",
+          "cp311"
+        ],
+        "cumm_cu118-0.4.5-cp311-cp311-win_amd64.whl": [
+          "o/K+HHrsb23eR1IQoWhVed5156pZfxB33ur0JbFVlF8=",
+          "cp311"
+        ],
+        "cumm_cu118-0.4.5-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "RTsVFKSt9MJPuMjwbZJaW5Kklr/CZGQ9t9SFkVx6RVs=",
+          "cp37"
+        ],
+        "cumm_cu118-0.4.5-cp37-cp37m-win_amd64.whl": [
+          "vZni2OIiBCJlPuFE4Yo8b1OQ5J4vsUBDQrwxzvTFy0E=",
+          "cp37"
+        ],
+        "cumm_cu118-0.4.5-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "+LOK36ZfAzkp1Hik9wy+m9XDWi6zJiFl4F5OeadEcKo=",
+          "cp38"
+        ],
+        "cumm_cu118-0.4.5-cp38-cp38-win_amd64.whl": [
+          "XipC1CLS3+RVclRXNP+o0fYPPrQEOksQsk0uAlx4770=",
+          "cp38"
+        ],
+        "cumm_cu118-0.4.5-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "XO+JzY2d7RRzelYmFFSjaZ6e9DQn8wUUhQAiEbQPTJI=",
+          "cp39"
+        ],
+        "cumm_cu118-0.4.5-cp39-cp39-win_amd64.whl": [
+          "cI9dKj7W9QfHBvA/sVugIJ4tiHH1fP+WxgN+5qBBQX0=",
+          "cp39"
+        ]
+      }
     }
   },
   "custom-actions": {
@@ -78197,6 +78241,14 @@
           "py3"
         ]
       }
+    },
+    "12.0.1.1.1": {
+      "wheels": {
+        "odoo12_addon_account_invoice_consolidated-12.0.1.1.1-py3-none-any.whl": [
+          "Gxpi64YCKkUp1SN2voOQ1qy3Gpkd9L4GGQbc01yxp00=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo12-addon-account-promissory-note-santander": {
@@ -89736,6 +89788,18 @@
       "wheels": {
         "polars_lts_cpu-0.15.15-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "yx8bhX5iiwaN39R7/z1heoTc+H71yF00UUOcBibZNhI=",
+          "cp37"
+        ]
+      }
+    },
+    "0.15.16": {
+      "sdist": [
+        "/cnB22TkMv4oBod5OuS7tztJazUJteNMPvc2v8PY/ro=",
+        "polars_lts_cpu-0.15.16.tar.gz"
+      ],
+      "wheels": {
+        "polars_lts_cpu-0.15.16-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "l7SusW/RFdwyqpumIp8FvvFBSTDlQJ9J1gQDk11GXFM=",
           "cp37"
         ]
       }

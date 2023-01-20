@@ -6419,6 +6419,18 @@
           "py3"
         ]
       }
+    },
+    "7.3.0": {
+      "sdist": [
+        "i9fQ9hxkYy+FiXvVKSelwllgKfZx9V9ZuE45t9bRCN4=",
+        "arches-7.3.0.tar.gz"
+      ],
+      "wheels": {
+        "arches-7.3.0-py3-none-any.whl": [
+          "QbXMoz+XwsVavJ/+hIsTX8iwTCH29XskZy7n4oufyh8=",
+          "py3"
+        ]
+      }
     }
   },
   "archfx-cloud": {
@@ -14943,6 +14955,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.53": {
+      "sdist": [
+        "SE95wSaYdCcs3jzsI4uwJRfiOLV3G+Zj48bwI104avY=",
+        "botocore-a-la-carte-amplify-1.29.53.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_amplify-1.29.53-py3-none-any.whl": [
+          "8C0sq94lCuHECB2LjL8ok0VMJKYbSE/v0+NPvLilQRA=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-cloudformation": {
@@ -15077,6 +15101,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.53": {
+      "sdist": [
+        "bmBLefdrlFbTTuLjE6knmQwhhmMzc6qGPIjRWOPFsec=",
+        "botocore-a-la-carte-cloudformation-1.29.53.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_cloudformation-1.29.53-py3-none-any.whl": [
+          "m5EMZ7uuW+wJm+f4sYshRCEKVOdYxA+CVHPi5CpcOdY=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-eks": {
@@ -15208,6 +15244,18 @@
       "wheels": {
         "botocore_a_la_carte_eks-1.29.52-py3-none-any.whl": [
           "Xt3Hv1Mxuk4G6Pzx1rQw4zt7lI2/QruqNn1mr6i09hU=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.53": {
+      "sdist": [
+        "HsBSvIwGUTmeIDl2dtypK2MQzW9NonjyYivJWxXakMo=",
+        "botocore-a-la-carte-eks-1.29.53.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_eks-1.29.53-py3-none-any.whl": [
+          "uHHDWKXopW1q92cpzA51FXrnMHeSNkNFdJeTauWHU+Y=",
           "py3"
         ]
       }
@@ -17638,6 +17686,18 @@
       "wheels": {
         "cdklabs.ecs_codedeploy-0.0.4-py3-none-any.whl": [
           "AVRDUhvagkNOvpQ/PEzIq7WE+HTMS9aM8k4dNTCPFz4=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.40": {
+      "sdist": [
+        "OoWxIrhY6lvOGjfhuQ8Q/e/tTMEFYSWxzwiKQ1gm9pI=",
+        "cdklabs.ecs-codedeploy-0.0.40.tar.gz"
+      ],
+      "wheels": {
+        "cdklabs.ecs_codedeploy-0.0.40-py3-none-any.whl": [
+          "Kmp38zVpZAavT4Dt8ENk9W8x0meR0dtBeaYc8T/ZEuk=",
           "py3"
         ]
       }
@@ -31710,6 +31770,30 @@
       "wheels": {
         "dagster_celery_docker-0.17.10-py3-none-any.whl": [
           "dY+b1EGyv2gh6HNcOgkX/Cc+7V3cdCldLJtprD6+mBw=",
+          "py3"
+        ]
+      }
+    },
+    "0.17.11": {
+      "sdist": [
+        "iC/y/Azd2sMxWMcl42euv53aKadbjcfzlQkdVVMvh6o=",
+        "dagster-celery-docker-0.17.11.tar.gz"
+      ],
+      "wheels": {
+        "dagster_celery_docker-0.17.11-py3-none-any.whl": [
+          "4BI+yEiw2lYsXVCGYoMYdDiWQVBMF+sBvYpUHytvqQs=",
+          "py3"
+        ]
+      }
+    },
+    "0.17.12": {
+      "sdist": [
+        "Xjw9AfDEZwIpunHkH2dq2eJBF/kJ0d17vCzaXArRlD4=",
+        "dagster-celery-docker-0.17.12.tar.gz"
+      ],
+      "wheels": {
+        "dagster_celery_docker-0.17.12-py3-none-any.whl": [
+          "IZpgANV3ow9XyDPBbEkXgTiOTzDmf2xTC9lVXs8xhJU=",
           "py3"
         ]
       }
@@ -67662,6 +67746,14 @@
       "wheels": {
         "KolejkaClient-0.1.202211131825-py3-none-any.whl": [
           "uAKiiiRgCDJjH11cDjfULn8hJ8Pi5LFwHxPva/uiaRg=",
+          "3.8"
+        ]
+      }
+    },
+    "0.1.202301191731": {
+      "wheels": {
+        "KolejkaClient-0.1.202301191731-py3-none-any.whl": [
+          "kho8gSBZ1oNLCrZ4LD4EMuq2pAVbzzum80xLPPlMFKA=",
           "3.8"
         ]
       }
@@ -135830,6 +135922,30 @@
       "wheels": {
         "stabledefaults-0.1.2-py3-none-any.whl": [
           "NVz4YljOAmkf+f2+tMVSGUqCKqXlfK50qIBy154ZjtI=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.3": {
+      "sdist": [
+        "DGVlV86Jrr/Wf6xkRTtCiCmSemzP5fJ0tzu6idFWXx0=",
+        "stabledefaults-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "stabledefaults-0.1.3-py3-none-any.whl": [
+          "s0pCpOsurVRVQtpuSe/jU4tlTU0izVXt6py1IqPtQvM=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.4": {
+      "sdist": [
+        "JRgiXyED6oAdAUj7oHvEFMefRVLzinGLDMCjwiThRDI=",
+        "stabledefaults-0.1.4.tar.gz"
+      ],
+      "wheels": {
+        "stabledefaults-0.1.4-py3-none-any.whl": [
+          "qADVjeGGRagDbStPZzq8RUkQXTNavkFPqkmNzbYQS74=",
           "py3"
         ]
       }

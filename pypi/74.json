@@ -19025,6 +19025,64 @@
       ]
     }
   },
+  "broccoli-mwaa-fix": {
+    "0.1": {
+      "wheels": {
+        "broccoli_mwaa_fix-0.1-py3-none-any.whl": [
+          "wu4P00mUwFlGbsRQMJIECG46wP7R1LgSmIPLg348/hs=",
+          "py3"
+        ]
+      }
+    },
+    "0.2": {
+      "sdist": [
+        "RiejToiI6XZiVyc4Ah3jLhNVz/+GylrBVyby0ZQsOeI=",
+        "broccoli_mwaa_fix-0.2.tar.gz"
+      ],
+      "wheels": {
+        "broccoli_mwaa_fix-0.2-py3-none-any.whl": [
+          "HZ6pK3JkJ29dlgVDGlMdcmT0ffl0/MBJF4nK0JiLfsA=",
+          "py3"
+        ]
+      }
+    },
+    "0.3": {
+      "sdist": [
+        "Kb15sqeVteoq9mglm8KWYsnvGaZp/8iiNQBbFpgdvPY=",
+        "broccoli_mwaa_fix-0.3.tar.gz"
+      ],
+      "wheels": {
+        "broccoli_mwaa_fix-0.3-py3-none-any.whl": [
+          "NshFGzJ956Oq/FpENxn/Ghu4rxfAqRKjzFwh8PB/4gw=",
+          "py3"
+        ]
+      }
+    },
+    "0.4": {
+      "sdist": [
+        "ra2PsbhyCogTGucODkcezA861AsJ6BWMkvu6KPLwNww=",
+        "broccoli_mwaa_fix-0.4.tar.gz"
+      ],
+      "wheels": {
+        "broccoli_mwaa_fix-0.4-py3-none-any.whl": [
+          "Xbg5q4luWIXQiZD057SUwJzu7vENseqi027Fv3YFr+o=",
+          "py3"
+        ]
+      }
+    },
+    "0.5": {
+      "sdist": [
+        "82ajJny62+Ps3TB4jnL9LOJ57ozqLVM65ds58hPuvQA=",
+        "broccoli_mwaa_fix-0.5.tar.gz"
+      ],
+      "wheels": {
+        "broccoli_mwaa_fix-0.5-py3-none-any.whl": [
+          "Zx7AnkZVqiX0DZeP1/G1k27QXkYyTnaCZEA+V82EVmQ=",
+          "py3"
+        ]
+      }
+    }
+  },
   "broto": {
     "0.1.0": {
       "sdist": [
@@ -28030,6 +28088,30 @@
       "wheels": {
         "dagster_duckdb_pandas-0.17.10-py3-none-any.whl": [
           "+oSWrPa0ZYBSgrUuH10b7I/2RDqvc5eo+HAI3BM7+wI=",
+          "py3"
+        ]
+      }
+    },
+    "0.17.11": {
+      "sdist": [
+        "Ve2c2PYLfDIVEJGhWlrGS70d0M7jEPxXnbMMm6o3Lb0=",
+        "dagster-duckdb-pandas-0.17.11.tar.gz"
+      ],
+      "wheels": {
+        "dagster_duckdb_pandas-0.17.11-py3-none-any.whl": [
+          "qZK6ByD71bWUfHwwN4wfrgSHYGCgVclpRZ+haJWbneI=",
+          "py3"
+        ]
+      }
+    },
+    "0.17.12": {
+      "sdist": [
+        "+ZlghE1aw7S5lcVb+KdTIxYbl7Hwn+3goOBtlg/ND0c=",
+        "dagster-duckdb-pandas-0.17.12.tar.gz"
+      ],
+      "wheels": {
+        "dagster_duckdb_pandas-0.17.12-py3-none-any.whl": [
+          "67nNYh9771xo+g0uQxwRv+tMgFKtzh/ZAR7W5yhjOTo=",
           "py3"
         ]
       }
@@ -37344,6 +37426,18 @@
       "wheels": {
         "dvc_data-0.34.1-py3-none-any.whl": [
           "Lk2vIl7ZFMcxTivDrti47zqPnbuprJXnhmsLhmbx564=",
+          "py3"
+        ]
+      }
+    },
+    "0.35.0": {
+      "sdist": [
+        "bzOUhExQPNiyHoqgoHsFaSmNT44B/es6xAaXTWfI45U=",
+        "dvc-data-0.35.0.tar.gz"
+      ],
+      "wheels": {
+        "dvc_data-0.35.0-py3-none-any.whl": [
+          "b8kQ3RoEAUlDDzm/7vTA3AnXsH2Tgo/o7EnBXEoRJTw=",
           "py3"
         ]
       }
@@ -57416,6 +57510,18 @@
         ]
       }
     },
+    "2.4.4": {
+      "sdist": [
+        "CybYgeN5mLAoblrcNWFDqeUnWQ6UnHfiyu4M2nlvJUY=",
+        "jupyterlab_pachyderm-2.4.4.tar.gz"
+      ],
+      "wheels": {
+        "jupyterlab_pachyderm-2.4.4-py3-none-any.whl": [
+          "Tegb/mNJm4QJGwwNXWj2TjmKcV8w61/V4asKF5HdxRA=",
+          "py3"
+        ]
+      }
+    },
     "2.5.0a1": {
       "sdist": [
         "vJsjFNL2wjAP+xqSTKGRUgnXXTcWAln2VBGvKL1J92o=",
@@ -65350,6 +65456,12 @@
       "sdist": [
         "LmLKhBy/Yf0IhQKXMYdrPHjD/ENUt59/KYMuNHELIPc=",
         "lts-mpsmqutils-2.0.1.tar.gz"
+      ]
+    },
+    "2.0.2": {
+      "sdist": [
+        "tjxl0L+8ghrwC/nntRiSxDFUUP9CXEdmGztInT9C2Q4=",
+        "lts-mpsmqutils-2.0.2.tar.gz"
       ]
     },
     "2.0.2a0": {
@@ -96158,6 +96270,30 @@
       "wheels": {
         "patent_client-3.0.6.dev55-py3-none-any.whl": [
           "8JVq97KYcJMbmHDsEEtooXPgcH2omL89MhQuMMAe/oo=",
+          "py3"
+        ]
+      }
+    },
+    "3.1.0": {
+      "sdist": [
+        "AqXZ+vcsXagyWmvSuz3624+4UH8A6u/MA9tH5yPXSbg=",
+        "patent_client-3.1.0.tar.gz"
+      ],
+      "wheels": {
+        "patent_client-3.1.0-py3-none-any.whl": [
+          "Wp9B3GUTEjVkWT4rAbdWhs5ddQixg0wEGm/cd9F9wo8=",
+          "py3"
+        ]
+      }
+    },
+    "3.1.0.dev59": {
+      "sdist": [
+        "bp4CMuYIpdhe6v3CSH6wEuZmzwsufb9QsiKp4Ot2O5k=",
+        "patent_client-3.1.0.dev59.tar.gz"
+      ],
+      "wheels": {
+        "patent_client-3.1.0.dev59-py3-none-any.whl": [
+          "kBGAJWxsKkFRvBrnVKAQHa3nSVYWYsKD8LIlerkKT3k=",
           "py3"
         ]
       }

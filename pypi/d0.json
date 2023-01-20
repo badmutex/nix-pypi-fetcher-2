@@ -15035,6 +15035,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.53": {
+      "sdist": [
+        "NBAuzYCwbYyuYKOEzSlSk41PVF2tiph25xZS1eGX+ao=",
+        "botocore-a-la-carte-chime-sdk-voice-1.29.53.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_chime_sdk_voice-1.29.53-py3-none-any.whl": [
+          "jHIPv+On/86ev1y/K06aT3KXQVeLRdqIptQfPgEzGZo=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-mwaa": {
@@ -15166,6 +15178,18 @@
       "wheels": {
         "botocore_a_la_carte_mwaa-1.29.52-py3-none-any.whl": [
           "AmkCHM9CjV4jzmspw6OuTJ4yCVkKPTnQGx/EOW2wRtQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.53": {
+      "sdist": [
+        "nrCKHXhA0echudHx/HZ+6DzaqmZxpIafGc+/2cLbV64=",
+        "botocore-a-la-carte-mwaa-1.29.53.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_mwaa-1.29.53-py3-none-any.whl": [
+          "z2riu6uYnZEs1PtnqfC6v+GKBvFylOWclR3TAHKOGD8=",
           "py3"
         ]
       }
@@ -26363,6 +26387,44 @@
         "DCSPrivtestPack-1.0.21-cp39-cp39-win_amd64.whl": [
           "y1UD3EcnVrqUmwYf67wyaV4ja6qac4w4AuNVnKa2Go8=",
           "cp39"
+        ]
+      }
+    }
+  },
+  "decipherment": {
+    "0.1.0": {
+      "sdist": [
+        "CA+sh2AvTnRZsRRjaG9p8SSfPVoeOoT+wZZTNPw5JGk=",
+        "decipherment-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "decipherment-0.1.0-py3-none-any.whl": [
+          "MmW6O4ISPh4E64PHvg2wnfrKE4SvIQ+apEQ4sPjf0vs=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "ymbRBHHTPzd0h+nZzvN5GE2t1ysaYUymqlDACd0wrDU=",
+        "decipherment-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "decipherment-0.1.1-py3-none-any.whl": [
+          "SJwoL0RxgTCbQbUuNtgJ5vguSzvMoYKSC4+YlD5Yanw=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "Cqxgn+ZMZ/Lh1wY7mvTu/KIC6BFMSHiOxlSLBCZlxLc=",
+        "decipherment-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "decipherment-0.1.2-py3-none-any.whl": [
+          "bLG6Daa8Z14AkOclVFwm0SZIViVFDrsul8OjxKIFVL8=",
+          "py3"
         ]
       }
     }
@@ -55889,6 +55951,18 @@
           "py3"
         ]
       }
+    },
+    "1.7.0": {
+      "sdist": [
+        "wAO/l8XhnEoXPm0rnUxC/QYcUwMv91aTglnemA/KbLE=",
+        "loggate-1.7.0.tar.gz"
+      ],
+      "wheels": {
+        "loggate-1.7.0-py3-none-any.whl": [
+          "JpcmxQWwocv+x7I405+JDvzzYbpyQah+e/U+DW+7VWs=",
+          "py3"
+        ]
+      }
     }
   },
   "loggingexamples": {
@@ -63049,6 +63123,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.5": {
+      "sdist": [
+        "FccX6/o/lI7GOf/5Bt0Sb+CQa/Kz+LW64OOvEB1KlQA=",
+        "nonebot_plugin_code-0.0.5.tar.gz"
+      ],
+      "wheels": {
+        "nonebot_plugin_code-0.0.5-py3-none-any.whl": [
+          "rD2TTkTK/5Ibgb1btjiuPFTrmFPu48+XH+E1cn6JQBo=",
+          "py3"
+        ]
+      }
     }
   },
   "nonmockobjects": {
@@ -69248,6 +69334,14 @@
       "wheels": {
         "odoo14_addons_oca_bank_statement_import-14.0.20220929.0-py3-none-any.whl": [
           "2f0fF24ak5YR/qXKSIsVygiVXww2qV1TuigdlVJ0Dzk=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.20230119.0": {
+      "wheels": {
+        "odoo14_addons_oca_bank_statement_import-14.0.20230119.0-py3-none-any.whl": [
+          "Q44Rw6quQP56jkIMw1v6z2c/nBmFSpkJIqKv6cyYukI=",
           "py3"
         ]
       }
@@ -93734,10 +93828,10 @@
     }
   },
   "senstreamlib": {
-    "0.6": {
+    "0.7": {
       "sdist": [
-        "u4GXtLCHClkyyQ/SGz137KWHakOlfNZD71IaZEKZIJo=",
-        "senstreamlib-0.6.tar.gz"
+        "C+Ldfipi3fGU6X6tTiqKspUSh8UNZTdqoQ2I12Po4oo=",
+        "senstreamlib-0.7.tar.gz"
       ]
     }
   },
@@ -125904,6 +125998,18 @@
       "wheels": {
         "trill_proteins-0.2.3-py3-none-any.whl": [
           "hyPFRgje40cQVibmGgBHuAHOLHtM/Sxmhtl3MwL8KUg=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.4": {
+      "sdist": [
+        "9GHWuHZz4i/btP6wCFe5wAwY13OhnxgJ4bm4LCLEu9w=",
+        "trill-proteins-0.2.4.tar.gz"
+      ],
+      "wheels": {
+        "trill_proteins-0.2.4-py3-none-any.whl": [
+          "FpKp7sktNIxafjxpLQI5XnPH/kJ4UQcSY7lSBSLw2Hs=",
           "py3"
         ]
       }

@@ -17433,6 +17433,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.53": {
+      "sdist": [
+        "Q+NwzJF8+1ioQXasz2Mi4s4zdigkzoAbkvEUmXLA0Fo=",
+        "botocore-a-la-carte-customer-profiles-1.29.53.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_customer_profiles-1.29.53-py3-none-any.whl": [
+          "oiOL442ldALc0rpEtdkYCOkIsettXZMai52qFccZgDY=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-route53": {
@@ -17567,6 +17579,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.53": {
+      "sdist": [
+        "bfQKVPZeScXlMn/u/U1wB508NmCk8xVv1zOJ7+T8sN0=",
+        "botocore-a-la-carte-route53-1.29.53.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_route53-1.29.53-py3-none-any.whl": [
+          "IurfRUMfApj65uBEp8+CLOAo6fY8JQFHJ9kQFDWNahM=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-timestream-query": {
@@ -17698,6 +17722,18 @@
       "wheels": {
         "botocore_a_la_carte_timestream_query-1.29.52-py3-none-any.whl": [
           "B1e45fUmuuM7Zuwkl8DeR8yWcK4XkAJ0gkzlBC7M9KA=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.53": {
+      "sdist": [
+        "JEpUglhFOEwRQgb+Q7o9tudZncCt2kUO1GQkxXsL+W8=",
+        "botocore-a-la-carte-timestream-query-1.29.53.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_timestream_query-1.29.53-py3-none-any.whl": [
+          "Wkkj/DRwlH+7KYQHa7n6MAF+xX5hvkMhsNo4oHl4JJg=",
           "py3"
         ]
       }
@@ -47634,6 +47670,18 @@
         ]
       }
     },
+    "1.4.2": {
+      "sdist": [
+        "LOJbFKNJqxndJv9r2JNVuU+8teIjkkhlBCuOgRh0K68=",
+        "fabric-orchestrator-client-1.4.2.tar.gz"
+      ],
+      "wheels": {
+        "fabric_orchestrator_client-1.4.2-py3-none-any.whl": [
+          "paxXA0a5U+KNd847CIYXSt2gToHQC2I0Vu4Ojs2DWuk=",
+          "py3"
+        ]
+      }
+    },
     "1.4.2rc0": {
       "sdist": [
         "7DgOrrs+2WtxElCaygrBXvf0utijuvTIA755hdTmRD4=",
@@ -47642,6 +47690,18 @@
       "wheels": {
         "fabric_orchestrator_client-1.4.2rc0-py3-none-any.whl": [
           "XTJkZ4Rb3Sq/Xs/SLxRYo+2K0Gs6GTQJcqPxXlVXcmA=",
+          "py3"
+        ]
+      }
+    },
+    "1.4.3": {
+      "sdist": [
+        "kcuaIv19FgWy9GOIdYZrEp9knkESdSjVW32xgX9bYBk=",
+        "fabric-orchestrator-client-1.4.3.tar.gz"
+      ],
+      "wheels": {
+        "fabric_orchestrator_client-1.4.3-py3-none-any.whl": [
+          "6TznRcd+qXTwNcSRRLd///eo7jWtmvJkQ6hEHLpW3Es=",
           "py3"
         ]
       }
@@ -57170,6 +57230,30 @@
       "wheels": {
         "geemap-0.19.3-py2.py3-none-any.whl": [
           "6Xp1z1fzaF7rIz11glPDKO4eRgQOa6VVc3imVjpLrok=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.19.4": {
+      "sdist": [
+        "+P+pMJrqvSdGMCT7+phUiCzk1RP92pHNTK7it4pcot0=",
+        "geemap-0.19.4.tar.gz"
+      ],
+      "wheels": {
+        "geemap-0.19.4-py2.py3-none-any.whl": [
+          "WT2bXp/p07lSXzslBCuOWDjemnHZWLcEBzmquXU5mK0=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.19.5": {
+      "sdist": [
+        "d01avXn/pGOV66hCHf7NAJ7c7/YAgUmPafdiwcJJuBY=",
+        "geemap-0.19.5.tar.gz"
+      ],
+      "wheels": {
+        "geemap-0.19.5-py2.py3-none-any.whl": [
+          "IJch+sbUjILKqqQn+sL/h5I1o7i7EbHW1gZGa4hrtE8=",
           "py2.py3"
         ]
       }
@@ -118834,6 +118918,30 @@
         ],
         "spconv-2.3.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "lXBSdirxkrc8Wz4ioq/Op9SYqrNsp3tMubdzvAYEziU=",
+          "cp39"
+        ]
+      }
+    },
+    "2.3.1": {
+      "wheels": {
+        "spconv-2.3.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "wxELkuD2eLemI94sHZWYC7ast9f0sfXC/fdWY4xxPlU=",
+          "cp310"
+        ],
+        "spconv-2.3.1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "hpzX6UJ+injdm/PPbZuTzRcZksFyH/w+34mugG7zuK4=",
+          "cp311"
+        ],
+        "spconv-2.3.1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "/qAxTdJ0MrGLND6iB+4EPg/AIVrNvnGARKtjnO5weuE=",
+          "cp37"
+        ],
+        "spconv-2.3.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "pfyZ2QEv8h3V/+9HHoBRZZoyZjZiqRB05J3+VwYf0HQ=",
+          "cp38"
+        ],
+        "spconv-2.3.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "R7OLukk3Pnc9jPRgYHuuEJEfA7nwFqj+tVAMgc2ky4c=",
           "cp39"
         ]
       }

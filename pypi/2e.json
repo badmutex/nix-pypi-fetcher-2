@@ -10671,6 +10671,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.54": {
+      "sdist": [
+        "DPzFClzYVv33YgSskTWFsZS9jVOuxn0TH/CgRmrb8TU=",
+        "botocore-a-la-carte-amplifyuibuilder-1.29.54.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_amplifyuibuilder-1.29.54-py3-none-any.whl": [
+          "HpQeVtSFNWQEuEq4CpCNhLeWUCKCzknpZFTon6K9YeI=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-rekognition": {
@@ -10814,6 +10826,18 @@
       "wheels": {
         "botocore_a_la_carte_rekognition-1.29.53-py3-none-any.whl": [
           "bkypjvMVhg7fj8vpfsJ5P+EQbA/AGac44MkY+p48/bo=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.54": {
+      "sdist": [
+        "/ZWwY5/lGAy4RdpOTzGugqAvTWolizHv3WWPVs8SL50=",
+        "botocore-a-la-carte-rekognition-1.29.54.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_rekognition-1.29.54-py3-none-any.whl": [
+          "TkcrF5dGvQ82hVLLDjZ0fly147A/OeKocptkFOiZJyk=",
           "py3"
         ]
       }
@@ -15738,6 +15762,18 @@
         ]
       }
     },
+    "0.1.56": {
+      "sdist": [
+        "R3AVJbmvZ2Hj3r2Q7+On9tnX0k+yHUhWwDo0HOmxMRo=",
+        "cdk8s-operator-0.1.56.tar.gz"
+      ],
+      "wheels": {
+        "cdk8s_operator-0.1.56-py3-none-any.whl": [
+          "TQAP9vlUeCs6A3xh461CmSnKTu9hpMQT3gBq/B9po5M=",
+          "py3"
+        ]
+      }
+    },
     "0.1.6": {
       "sdist": [
         "sLpotja7VrFpU22J66bvp/Mpcqhhca2F9wIjXjZH7EE=",
@@ -15820,6 +15856,18 @@
       "wheels": {
         "cdktf_github_actions-0.0.3-py3-none-any.whl": [
           "dOPlMYIBkKn4Z2PJZL/8nvOAU5n/SYRdVeltIbdyemQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4": {
+      "sdist": [
+        "dZsYMQvmq4/HPE9StZvAKUorJA1rYQNeoBOUF20Z8Ek=",
+        "cdktf-github-actions-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "cdktf_github_actions-0.0.4-py3-none-any.whl": [
+          "YlUiSeFbm1ZThcJPzqNvYY4zuhUR/XXqYzyvlD07i/E=",
           "py3"
         ]
       }
@@ -77019,6 +77067,14 @@
           "py3"
         ]
       }
+    },
+    "6.4.7": {
+      "wheels": {
+        "netron-6.4.7-py3-none-any.whl": [
+          "fsCVyI0JSIc+7R8bFLP9SG6xXDZSq1Sre6MVzYlUxm8=",
+          "py3"
+        ]
+      }
     }
   },
   "neuralforecast": {
@@ -109688,6 +109744,30 @@
         ],
         "scikit_digital_health-0.11.2-cp39-cp39-macosx_10_16_x86_64.whl": [
           "r+8E4tmQ3RbcI1W2RLMYlFN+DwGwFY1VL1i82hZIcFI=",
+          "cp39"
+        ]
+      }
+    },
+    "0.11.3": {
+      "sdist": [
+        "z4qsjayH/95HfasEQMRppfpV0O0rdu7+jUZE9fr+6KA=",
+        "scikit_digital_health-0.11.3.tar.gz"
+      ],
+      "wheels": {
+        "scikit_digital_health-0.11.3-cp310-cp310-macosx_12_0_x86_64.whl": [
+          "EBbCgI9JYjBtD2TIFnEQwwCRTzDpYc3o2vafYy+6ZKo=",
+          "cp310"
+        ],
+        "scikit_digital_health-0.11.3-cp37-cp37m-macosx_10_16_x86_64.whl": [
+          "xTRqSCaFYLe0pMCqdhnQzkgmzdOfKOPJ2xvwTgpsMuc=",
+          "cp37"
+        ],
+        "scikit_digital_health-0.11.3-cp38-cp38-macosx_10_16_x86_64.whl": [
+          "6ttflY4Y3w24UD/WghNzL2ABB6R3tMCfxeheo8QvR2U=",
+          "cp38"
+        ],
+        "scikit_digital_health-0.11.3-cp39-cp39-macosx_12_0_x86_64.whl": [
+          "1tnmxD8BGrXf15HIUK46YH6LdC8647eR0T68HUwIQ0U=",
           "cp39"
         ]
       }

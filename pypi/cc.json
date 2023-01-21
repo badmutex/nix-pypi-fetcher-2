@@ -15249,6 +15249,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.54": {
+      "sdist": [
+        "aeiRrvj1+mGysRt9bK8U0dEDoVPzqL0jU4hEfg5SWgo=",
+        "botocore-a-la-carte-forecastquery-1.29.54.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_forecastquery-1.29.54-py3-none-any.whl": [
+          "O45TnJYk2D5DhjiJnj5CwbiUMMLhAtVGnLIiRWn70Cg=",
+          "py3"
+        ]
+      }
     }
   },
   "braket-daq": {
@@ -19770,6 +19782,30 @@
       "wheels": {
         "colors_format-1.0.2-py3-none-any.whl": [
           "67I5VARbetYDM7I4BtLxwUoy+VK5OCnbDeYdc9qJPWA=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.3": {
+      "sdist": [
+        "gRwfi7YU06ivJVHR9CiSwjbXyM/+05aq8EtqPWCU2fQ=",
+        "colors_format-1.0.3.tar.gz"
+      ],
+      "wheels": {
+        "colors_format-1.0.3-py3-none-any.whl": [
+          "HqgEeFTW0Y5PfdeMVCJlMdIAoaRfKDTkigaFM6wT2Vs=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.4": {
+      "sdist": [
+        "u6Ro+VaJINriCwLxAwO63vs+pNAZtvFH3r30gQZo+mc=",
+        "colors_format-1.0.4.tar.gz"
+      ],
+      "wheels": {
+        "colors_format-1.0.4-py3-none-any.whl": [
+          "S/KPMegkRw+MLAVgTMQxe7SH7bh58U99NdaSIkAVc/0=",
           "py3"
         ]
       }
@@ -135308,6 +135344,22 @@
         ],
         "tf_nightly_cpu_aws-2.12.0.dev20230119-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
           "8bJh3jXwcT47jGTjjornfS4iGKqgakjrABPr3A+D2HQ=",
+          "cp39"
+        ]
+      }
+    },
+    "2.12.0.dev20230120": {
+      "wheels": {
+        "tf_nightly_cpu_aws-2.12.0.dev20230120-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "fz+d+mA2F+b/o2WXnTm7MTSOYHUTXGo2VBycC0qU0Ck=",
+          "cp310"
+        ],
+        "tf_nightly_cpu_aws-2.12.0.dev20230120-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "O+tTN+3bi6wwyJl3SSrMRgUB4oWAdjWvxnr273uMGaU=",
+          "cp38"
+        ],
+        "tf_nightly_cpu_aws-2.12.0.dev20230120-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "eGUAL9u9g9pUN66dbvPODP6k8T8PE/52j6fJ5pnLlAw=",
           "cp39"
         ]
       }

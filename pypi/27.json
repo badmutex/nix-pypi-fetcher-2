@@ -13435,6 +13435,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.54": {
+      "sdist": [
+        "iF0rWURMuZh94RoYC6XQ0R6F+LeIzgkaS9rkbxjJ5hQ=",
+        "botocore-a-la-carte-lexv2-models-1.29.54.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_lexv2_models-1.29.54-py3-none-any.whl": [
+          "gdp5hAa7hIjSi18HV38xUIJ92AheGuYfnxe/PUESWLI=",
+          "py3"
+        ]
+      }
     }
   },
   "botterino": {
@@ -66132,6 +66144,30 @@
         ]
       }
     },
+    "1.19.3.dev2": {
+      "sdist": [
+        "NM19OI3x11t56Rss2iBu1JPIbChdS6sgRZlwVfhEAwg=",
+        "large-image-source-openjpeg-1.19.3.dev2.tar.gz"
+      ],
+      "wheels": {
+        "large_image_source_openjpeg-1.19.3.dev2-py3-none-any.whl": [
+          "Wte9YWayRVQc3cPWzKt1QJBLdQcEBByN/5F6X5Wte4I=",
+          "py3"
+        ]
+      }
+    },
+    "1.19.3.dev4": {
+      "sdist": [
+        "1/UwBVpeGq8ULPHfwlqHhGwGfE/xFEoL1DuLonfT53w=",
+        "large-image-source-openjpeg-1.19.3.dev4.tar.gz"
+      ],
+      "wheels": {
+        "large_image_source_openjpeg-1.19.3.dev4-py3-none-any.whl": [
+          "D3Sq7gfvxGsoNeLLFY2kXM/U9col0G9KjThBrpIfRCY=",
+          "py3"
+        ]
+      }
+    },
     "1.2.0": {
       "sdist": [
         "GcyqEBXexbk7lXpRQ9dZof6+iPfq8UwQCg3heohVfX4=",
@@ -72930,6 +72966,398 @@
         ],
         "mapel_elections-2.0.1-pp39-pypy39_pp73-win_amd64.whl": [
           "pLrTelTVBhshSxGGSvRqy+i4zSYR+ByOHoP0wF65eOc=",
+          "pp39"
+        ]
+      }
+    },
+    "2.0.2": {
+      "sdist": [
+        "u4+sL5XuDZyGba1uqv6GTc4LJVrZ4rOqZZoXqbK7R+I=",
+        "mapel-elections-2.0.2.tar.gz"
+      ],
+      "wheels": {
+        "mapel_elections-2.0.2-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "qz6VUf4pL7t+sCh+z3/sIWfJV0SYO/0cESp58OXys4c=",
+          "cp310"
+        ],
+        "mapel_elections-2.0.2-cp310-cp310-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "Gp9onZWekC2Gk9u2evFzJ2V4QxyvSNhLG6nQ5/dQ3Qs=",
+          "cp310"
+        ],
+        "mapel_elections-2.0.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "9+JrlauuYLoi3jXBZL3MU326TTRn63wgbe3uqKQTFAA=",
+          "cp310"
+        ],
+        "mapel_elections-2.0.2-cp310-cp310-musllinux_1_1_i686.whl": [
+          "cc3iFWlpKFJmlZvjjqA96KyUUvGNojKal/FCHQjtSwY=",
+          "cp310"
+        ],
+        "mapel_elections-2.0.2-cp310-cp310-musllinux_1_1_x86_64.whl": [
+          "UrBXlB7f6VgdvPsNCGqpaAA8xBN8cx5LWYpRBMuUQXE=",
+          "cp310"
+        ],
+        "mapel_elections-2.0.2-cp310-cp310-win32.whl": [
+          "V/5lwPGUXAKPD8HUY/HTi4+Gs4k+B3e6PI3GmmF2r/s=",
+          "cp310"
+        ],
+        "mapel_elections-2.0.2-cp310-cp310-win_amd64.whl": [
+          "Ge2W6+zMrvWfAEjZOHgdlRgtQuHXK7zQKUfpYLQ4U7c=",
+          "cp310"
+        ],
+        "mapel_elections-2.0.2-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "+r77wlQDBzEsUU3nrDYF+/wTYi+O9XdIYFOddzDNOj4=",
+          "cp311"
+        ],
+        "mapel_elections-2.0.2-cp311-cp311-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "kEHwl7f3PFv+/rKdTsQryD8bxyT/Ek0duw7C1leSZ6o=",
+          "cp311"
+        ],
+        "mapel_elections-2.0.2-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "uY3gLWLlBSi1hNOtpwKOiavcm1vpTIpgRtTRUdbuwgE=",
+          "cp311"
+        ],
+        "mapel_elections-2.0.2-cp311-cp311-musllinux_1_1_i686.whl": [
+          "wT6Mh8cLsPJQ4c0VGwchtUHm0OfmTXJhPAo3oxdXfOU=",
+          "cp311"
+        ],
+        "mapel_elections-2.0.2-cp311-cp311-musllinux_1_1_x86_64.whl": [
+          "sTDHC4EVRSIiGess9j0fP33XNNDN7pPcQEK8EaN8e4g=",
+          "cp311"
+        ],
+        "mapel_elections-2.0.2-cp311-cp311-win32.whl": [
+          "TiPerk+l2YSVxyJ/XK7UiscEFdGLbCNpbecWRH5/1/A=",
+          "cp311"
+        ],
+        "mapel_elections-2.0.2-cp311-cp311-win_amd64.whl": [
+          "wPoA+0GqnVLenQMMFR8g8q5LuTQzaL8JbeVl2UZPFQE=",
+          "cp311"
+        ],
+        "mapel_elections-2.0.2-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "pLgayDuK9MWlkGwDTAAUhejaIjMrb2Qh5ctETieHRIc=",
+          "cp37"
+        ],
+        "mapel_elections-2.0.2-cp37-cp37m-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "YukTaFnEDZ3BikFIPXwcq/cd1pd2pcu1W6K4ebqG/FI=",
+          "cp37"
+        ],
+        "mapel_elections-2.0.2-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "qMHFJlkJtCQl0wZyuIaI9anaW/AT8w96Pyk4j+J+1Zo=",
+          "cp37"
+        ],
+        "mapel_elections-2.0.2-cp37-cp37m-musllinux_1_1_i686.whl": [
+          "SZkr+xhjghpTLZ22CmekAkzt0govISYLZYeiDIcpZo8=",
+          "cp37"
+        ],
+        "mapel_elections-2.0.2-cp37-cp37m-musllinux_1_1_x86_64.whl": [
+          "j4426xzNRInUMGvBK/3+TduPYKWBfE6aQVEHtVvLJks=",
+          "cp37"
+        ],
+        "mapel_elections-2.0.2-cp37-cp37m-win32.whl": [
+          "zNs7yRtJt3qJEVU9SRtNt+5R825QpGP8c/qrjjK+7k0=",
+          "cp37"
+        ],
+        "mapel_elections-2.0.2-cp37-cp37m-win_amd64.whl": [
+          "VcVnMbS3pE74qgL5gtz0UUsK7SQmioNwX6G0H3Nmm2Q=",
+          "cp37"
+        ],
+        "mapel_elections-2.0.2-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "scCApmDRRYqHAC7yYUI647LnmbpbvUrAITlGAHJzM8c=",
+          "cp38"
+        ],
+        "mapel_elections-2.0.2-cp38-cp38-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "65OmKH8m+DGcVW7QVXbdRl4jqs/kxihFj5j6n+2tLvM=",
+          "cp38"
+        ],
+        "mapel_elections-2.0.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "YB2exkCER4ASo+4LCrGRzLNUel98nTvME72+kDlKIKM=",
+          "cp38"
+        ],
+        "mapel_elections-2.0.2-cp38-cp38-musllinux_1_1_i686.whl": [
+          "d2DPA+kHptUiw7nxlQHyGDo0yZu7SnAPLFSbbrQbGH8=",
+          "cp38"
+        ],
+        "mapel_elections-2.0.2-cp38-cp38-musllinux_1_1_x86_64.whl": [
+          "5ZKHj2AKcalxf5DRiEuxdHUiGN6ONgU0cLjsq5hCkEQ=",
+          "cp38"
+        ],
+        "mapel_elections-2.0.2-cp38-cp38-win32.whl": [
+          "VAV4c6iWJQdyHSu21Yzgz3axWbEDJ+IduCtThDysC+U=",
+          "cp38"
+        ],
+        "mapel_elections-2.0.2-cp38-cp38-win_amd64.whl": [
+          "ZDAv0ltP2pBfK0JUggY29dZ9R+A2hWWQUdIWYDMkXZ0=",
+          "cp38"
+        ],
+        "mapel_elections-2.0.2-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "9VsSYryWfyuy9A+IX4xWUV8pBYyYX12VC0Adg8aAOW0=",
+          "cp39"
+        ],
+        "mapel_elections-2.0.2-cp39-cp39-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "Rno1CyqAfcgoS8NnFGIh0WNo+9m4xDo0Qw4MDg24pzg=",
+          "cp39"
+        ],
+        "mapel_elections-2.0.2-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "jQSzL+NLYSQem7KLPJQf4kM74lokjbzIDfcz3XEHB2M=",
+          "cp39"
+        ],
+        "mapel_elections-2.0.2-cp39-cp39-musllinux_1_1_i686.whl": [
+          "kmswedaJQhz/eHXZCdV1CvVTZ82UKcn1BYmlkvuXvbY=",
+          "cp39"
+        ],
+        "mapel_elections-2.0.2-cp39-cp39-musllinux_1_1_x86_64.whl": [
+          "AzT72yIS+QgNffo54bhlTmeIpuS2sgf276adTuJbkDQ=",
+          "cp39"
+        ],
+        "mapel_elections-2.0.2-cp39-cp39-win32.whl": [
+          "dEWRpCB/g9LxjpNzjCOlN5qO4PH/k5L2SsBBhBZgVC4=",
+          "cp39"
+        ],
+        "mapel_elections-2.0.2-cp39-cp39-win_amd64.whl": [
+          "9Q2G7V6ShqzDzD9VFI5zli6QYePkfZAD3PVSr/0BHnY=",
+          "cp39"
+        ],
+        "mapel_elections-2.0.2-pp37-pypy37_pp73-macosx_10_9_x86_64.whl": [
+          "5mRsiMsFaC9b29kAhQKiSqxgLY6OsEQ0PEwd9Tdw14I=",
+          "pp37"
+        ],
+        "mapel_elections-2.0.2-pp37-pypy37_pp73-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "dpJi7RSBjrAd19QZ/vFFYiZJpOYmLpjiqJ4u+FHZLUI=",
+          "pp37"
+        ],
+        "mapel_elections-2.0.2-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Z92oKDOp04xY5iycx/8PvUxMm7NdUF7InfZonLU7X2w=",
+          "pp37"
+        ],
+        "mapel_elections-2.0.2-pp37-pypy37_pp73-win_amd64.whl": [
+          "jR5hbExVJJal3vdwOoHul/ko4/XtKMN1tgcvQ3RQoqg=",
+          "pp37"
+        ],
+        "mapel_elections-2.0.2-pp38-pypy38_pp73-macosx_10_9_x86_64.whl": [
+          "nFOWCfKdjcytDFpd5meXXFoCVZuN+OWmpTdWqb+CWgE=",
+          "pp38"
+        ],
+        "mapel_elections-2.0.2-pp38-pypy38_pp73-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "2coEydgnNgCjzYcqMYn92emgqUkJySRRB1PhCjXJcXg=",
+          "pp38"
+        ],
+        "mapel_elections-2.0.2-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "lrL4ISz4aeIby26kQGmMgtD0EYgTJJHU/WHlXLIxxfA=",
+          "pp38"
+        ],
+        "mapel_elections-2.0.2-pp38-pypy38_pp73-win_amd64.whl": [
+          "i/GciyuEA9V7zJAbKugPQtfdsSYMXYSUlXEuIyex43k=",
+          "pp38"
+        ],
+        "mapel_elections-2.0.2-pp39-pypy39_pp73-macosx_10_9_x86_64.whl": [
+          "TCk9rVgNWBHQlxtu/IusFwQLfJ7g8rbPrv6oQC15RNM=",
+          "pp39"
+        ],
+        "mapel_elections-2.0.2-pp39-pypy39_pp73-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "uwwwitSFxCUXseJr8AMoOfSKzeF6WPAqLMhfU5cruj4=",
+          "pp39"
+        ],
+        "mapel_elections-2.0.2-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "UaOgWZ133ATv1SJOpdl0Gjd8vO1d1Vz9HJ8/PRd0gfw=",
+          "pp39"
+        ],
+        "mapel_elections-2.0.2-pp39-pypy39_pp73-win_amd64.whl": [
+          "ywSFSdFe0b0UCvZNOhwV+XLR+EBWDvfg7v0IFoGcAQk=",
+          "pp39"
+        ]
+      }
+    },
+    "2.0.2.dev1": {
+      "sdist": [
+        "V/LE1gWeU7xYM//zY7nBuvi7BRQWaK32xXMDaf6HHzg=",
+        "mapel-elections-2.0.2.dev1.tar.gz"
+      ],
+      "wheels": {
+        "mapel_elections-2.0.2.dev1-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "meQe+WyiIFG9i//7DEeMameAAMW7fQw4EvjyH7WJsrU=",
+          "cp310"
+        ],
+        "mapel_elections-2.0.2.dev1-cp310-cp310-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "gUdCknCiTAkOt8AOfgbeQD4ZhsSHjhUQkLbLpJ64CvM=",
+          "cp310"
+        ],
+        "mapel_elections-2.0.2.dev1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "9KiXc2iXplRAyw4Pt4dISyAouC54JXhPhUWusCPmCqc=",
+          "cp310"
+        ],
+        "mapel_elections-2.0.2.dev1-cp310-cp310-musllinux_1_1_i686.whl": [
+          "60pWo5luwIaX473fN6mtXoMdBsIgr8mVHdme3t7ykMc=",
+          "cp310"
+        ],
+        "mapel_elections-2.0.2.dev1-cp310-cp310-musllinux_1_1_x86_64.whl": [
+          "hvlyjS+Mwtolf1JaELVieUtpeUMPdeXZv/IHdzhpnIk=",
+          "cp310"
+        ],
+        "mapel_elections-2.0.2.dev1-cp310-cp310-win32.whl": [
+          "lOEAe8e4PM9L78p50qG2Imht/UQH/3hywnZP706U/qg=",
+          "cp310"
+        ],
+        "mapel_elections-2.0.2.dev1-cp310-cp310-win_amd64.whl": [
+          "ZMyA1dgsOUOvADW/8L4nuN+tSFDbpbVncItbn2MoPlc=",
+          "cp310"
+        ],
+        "mapel_elections-2.0.2.dev1-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "OvEHOJ0h0oMCXINr7eUytD9dOyIUN/cVpRMV3ahAzN8=",
+          "cp311"
+        ],
+        "mapel_elections-2.0.2.dev1-cp311-cp311-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "znCu2L5B4MPOpislyOQTwL5owTwwfFhzodJTfwqkG4M=",
+          "cp311"
+        ],
+        "mapel_elections-2.0.2.dev1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "7xw1cvVnFt4JC+DvitO8oQxMyZoWf2pd6A+2zV4nVYo=",
+          "cp311"
+        ],
+        "mapel_elections-2.0.2.dev1-cp311-cp311-musllinux_1_1_i686.whl": [
+          "/iTEyAPkT+0oufZ1IvnQ5+Y7RoSD5sqKNEvh3OsldZs=",
+          "cp311"
+        ],
+        "mapel_elections-2.0.2.dev1-cp311-cp311-musllinux_1_1_x86_64.whl": [
+          "RdPeb1yqzkVLWNSfWamolWJ7b2wfVXzN4Ahbb4N96UQ=",
+          "cp311"
+        ],
+        "mapel_elections-2.0.2.dev1-cp311-cp311-win32.whl": [
+          "jHC16yloXV9XKlrBoAX9zShqWFLQ6WOOYf32wEQs7zM=",
+          "cp311"
+        ],
+        "mapel_elections-2.0.2.dev1-cp311-cp311-win_amd64.whl": [
+          "6jY7UmPt25fJtOB1lP1VsOmd1uqX6f9jlEpLnW8ynDU=",
+          "cp311"
+        ],
+        "mapel_elections-2.0.2.dev1-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "xESApIG9G/xGG7HvEKHoOCQm9YB1/kgdHYvlCua8BgY=",
+          "cp37"
+        ],
+        "mapel_elections-2.0.2.dev1-cp37-cp37m-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "BKiB6tOBfYM2oUBH2yCT1awEOgZJ5SHjOfLIT9LyKno=",
+          "cp37"
+        ],
+        "mapel_elections-2.0.2.dev1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "/7puWoLlhzMtNXtVxtpuPymSHut3oUPgyfG/eqoQZTc=",
+          "cp37"
+        ],
+        "mapel_elections-2.0.2.dev1-cp37-cp37m-musllinux_1_1_i686.whl": [
+          "Zb4BUAz0JGasjevdfKJsbw1uhDBGmnH2D8wISQzh+Mg=",
+          "cp37"
+        ],
+        "mapel_elections-2.0.2.dev1-cp37-cp37m-musllinux_1_1_x86_64.whl": [
+          "oL8kD6qgvFHmZ63DbDdtx8HSb/abSgJ0qVR5pBQlJpk=",
+          "cp37"
+        ],
+        "mapel_elections-2.0.2.dev1-cp37-cp37m-win32.whl": [
+          "mQNfZueLgxL0nUUqpGVuXaDQvOjCFviB3FPug7hU+SM=",
+          "cp37"
+        ],
+        "mapel_elections-2.0.2.dev1-cp37-cp37m-win_amd64.whl": [
+          "5DLg+QvC/TFkrfLXcvMET71SQ7/VsXilrniWtiHgtTs=",
+          "cp37"
+        ],
+        "mapel_elections-2.0.2.dev1-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "5nfno5KhIogIuhFJde1jKKvA8mDEBUIyZdEQvVE3gfw=",
+          "cp38"
+        ],
+        "mapel_elections-2.0.2.dev1-cp38-cp38-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "eeZuGTzP+I3JbUSS1uolav1lNY7O/dY333tyYOB/6JA=",
+          "cp38"
+        ],
+        "mapel_elections-2.0.2.dev1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "B1EZMIgnVciy0MxdNeGHbTNKvJxGjji9K01AFdAMBgo=",
+          "cp38"
+        ],
+        "mapel_elections-2.0.2.dev1-cp38-cp38-musllinux_1_1_i686.whl": [
+          "K7gfxaOlD3Wkgl5P1AyGy/n9w837qJhyE54wd/FWQBU=",
+          "cp38"
+        ],
+        "mapel_elections-2.0.2.dev1-cp38-cp38-musllinux_1_1_x86_64.whl": [
+          "Er8v6WCV3/UxGiJVNcpvXNhUDOUPVvFmJMbhOB3bdVY=",
+          "cp38"
+        ],
+        "mapel_elections-2.0.2.dev1-cp38-cp38-win32.whl": [
+          "HuT7ie0e89eAwcUftayK/yL436TAAzojznCQIA5Y0as=",
+          "cp38"
+        ],
+        "mapel_elections-2.0.2.dev1-cp38-cp38-win_amd64.whl": [
+          "D79JcYuo2iAbfnkbt4+9BurniDhTOlyA1Dw74KEdx14=",
+          "cp38"
+        ],
+        "mapel_elections-2.0.2.dev1-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "8ih4DY49BXUc2jRKu6yChNT2e9wyeFTKvKsJ9sR+YrU=",
+          "cp39"
+        ],
+        "mapel_elections-2.0.2.dev1-cp39-cp39-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "txZF783TmEKtKpvhhcWQ56PTIY+aS3+Vrm3T1ZEYqkg=",
+          "cp39"
+        ],
+        "mapel_elections-2.0.2.dev1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "B7F/DH5cSW8H2JD+cgR1HQ30sHn5Y277AN6Wf+tzH3g=",
+          "cp39"
+        ],
+        "mapel_elections-2.0.2.dev1-cp39-cp39-musllinux_1_1_i686.whl": [
+          "6K8B2MQFb8w68MIvvDHvV0Gp62wsMaL9xHIpx9KRsS8=",
+          "cp39"
+        ],
+        "mapel_elections-2.0.2.dev1-cp39-cp39-musllinux_1_1_x86_64.whl": [
+          "iOyPemoj141R8PHq8nyRsyBsFPPZbpYAM/K7D6+AcgU=",
+          "cp39"
+        ],
+        "mapel_elections-2.0.2.dev1-cp39-cp39-win32.whl": [
+          "NQ4qlqqrVyZvGj/LJy4acb15nZ1KeYlcPK3p5GA6MCU=",
+          "cp39"
+        ],
+        "mapel_elections-2.0.2.dev1-cp39-cp39-win_amd64.whl": [
+          "m8Q+Soq6XW0rS2wf3uo75vFJcyGBCBuBkE/kPw5Jnyk=",
+          "cp39"
+        ],
+        "mapel_elections-2.0.2.dev1-pp37-pypy37_pp73-macosx_10_9_x86_64.whl": [
+          "5Wguf9kYxGsvCi8askO0KxbhTP0lCqoSufuQ/tX7s3k=",
+          "pp37"
+        ],
+        "mapel_elections-2.0.2.dev1-pp37-pypy37_pp73-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "b435WufTb2fAcAKJ/Pwyg1kfGH/BAMcGHtwGBCgkMiE=",
+          "pp37"
+        ],
+        "mapel_elections-2.0.2.dev1-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "qJJkhZQ2X0R9U7fAju/SoMZCGyDVjejUehS+8/tsMTY=",
+          "pp37"
+        ],
+        "mapel_elections-2.0.2.dev1-pp37-pypy37_pp73-win_amd64.whl": [
+          "V8nv7i3zsI6pEiCTEeudyOBBsQreQrrF0S1OGu7P5bY=",
+          "pp37"
+        ],
+        "mapel_elections-2.0.2.dev1-pp38-pypy38_pp73-macosx_10_9_x86_64.whl": [
+          "h04Upmy3RxSWmuCqaer3j0eMgDsxB9SJNHmryIIm510=",
+          "pp38"
+        ],
+        "mapel_elections-2.0.2.dev1-pp38-pypy38_pp73-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "luKjvCoaVyVpQN2luN3VHGvGb2a0SfkBVzKM0wFHwqU=",
+          "pp38"
+        ],
+        "mapel_elections-2.0.2.dev1-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "plviiee0kKa2BXEfYX+8M3n+tVfg8P6oEIrndb2n98A=",
+          "pp38"
+        ],
+        "mapel_elections-2.0.2.dev1-pp38-pypy38_pp73-win_amd64.whl": [
+          "EvVo8wDCEHsj/q28KEHa67XH7Bs3kf52iqRC6hyfcKI=",
+          "pp38"
+        ],
+        "mapel_elections-2.0.2.dev1-pp39-pypy39_pp73-macosx_10_9_x86_64.whl": [
+          "29gnu3g3MtTCT/kSM37KaR/Dm0TwclRkRMcADQNbZAU=",
+          "pp39"
+        ],
+        "mapel_elections-2.0.2.dev1-pp39-pypy39_pp73-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "r0f0OQe6Vp1+EIrOOFLu/PvGNDgYquQDl0GkUNU9Mlk=",
+          "pp39"
+        ],
+        "mapel_elections-2.0.2.dev1-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "XJTUy5IkNUrcN9ZwGIWucivq3nc1fYmsY6+o2f9QAX8=",
+          "pp39"
+        ],
+        "mapel_elections-2.0.2.dev1-pp39-pypy39_pp73-win_amd64.whl": [
+          "KXkaALayc6qeS3r/o9M0Z/b2R06WLF73jdb3BxEpYDQ=",
           "pp39"
         ]
       }

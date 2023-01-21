@@ -15249,6 +15249,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.54": {
+      "sdist": [
+        "f3MnjHn4CsIfH85Suq8ruIky67y5BP1t1cCXuU+E+tE=",
+        "botocore-a-la-carte-chime-sdk-media-pipelines-1.29.54.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_chime_sdk_media_pipelines-1.29.54-py3-none-any.whl": [
+          "IT5PWR5Ove9XdTHSrYCtORitiHWM4IgL/iYaBYQTleM=",
+          "py3"
+        ]
+      }
     }
   },
   "bottle-tools": {
@@ -62229,6 +62241,14 @@
           "py3"
         ]
       }
+    },
+    "1.6.0.post2": {
+      "wheels": {
+        "ioddcomcheckergui-1.6.0.post2-py3-none-any.whl": [
+          "U8VvURFMX82ftEnG/mGkqHAKXtJSfOpwUvms1GjYzKk=",
+          "py3"
+        ]
+      }
     }
   },
   "iotile-support-lib-controller-4": {
@@ -67523,6 +67543,16 @@
         "iypcVmX0PbZdSqU2VQ3GBg3ZEkxEmSxGB+BxocFgTSc=",
         "kage-genotyper-0.1.9.tar.gz"
       ]
+    }
+  },
+  "kaiju-auth": {
+    "2.0.1": {
+      "wheels": {
+        "kaiju_auth-2.0.1-py3-none-any.whl": [
+          "d2MYv5QuM4oh+jYVwg2wZy2COUDBHG98bu7OFfv5f5U=",
+          "py3"
+        ]
+      }
     }
   },
   "kaptain": {
@@ -97094,6 +97124,12 @@
       "sdist": [
         "fmQ0uhwU6wdxarF+iNCe5eih28Jvz8LTQC7okgO2KCY=",
         "proactive-13.1.0.2301200237.dev0.zip"
+      ]
+    },
+    "13.1.0.2301210241.dev0": {
+      "sdist": [
+        "6OPpVmSonx8+0EVXDCrNL07I+g7fnJS7dreslNsAldA=",
+        "proactive-13.1.0.2301210241.dev0.zip"
       ]
     },
     "13.1.1.2212182207.dev0": {
@@ -134983,6 +135019,20 @@
       ]
     }
   },
+  "topsis-aviral-102016049": {
+    "1.0.1": {
+      "sdist": [
+        "LslT1qUyh6pQYMOOuXMWeItE7TsU9aNHrEkkAhjfvGA=",
+        "Topsis_AVIRAL_102016049-1.0.1.tar.gz"
+      ]
+    },
+    "1.0.2": {
+      "sdist": [
+        "AynxA5cg7sxKgONBSOSq5w1vR9dzUhW5WXJ+RYl6yC0=",
+        "Topsis_AVIRAL_102016049-1.0.2.tar.gz"
+      ]
+    }
+  },
   "topsis-ramandeep2-101803225": {
     "0.0.1": {
       "wheels": {
@@ -135092,6 +135142,34 @@
     }
   },
   "torch-directml": {
+    "0.1.13.1.dev230119": {
+      "wheels": {
+        "torch_directml-0.1.13.1.dev230119-cp310-cp310-manylinux2010_x86_64.whl": [
+          "IWdcXmQJSy2AWFOgcz3l5zzNroUBeTYGk7p5k+jJ30g=",
+          "cp310"
+        ],
+        "torch_directml-0.1.13.1.dev230119-cp310-cp310-win_amd64.whl": [
+          "A+W7tu2cXmaE+byOTW0N8KBtRS96WHZG0aQn5Y4wGrw=",
+          "cp310"
+        ],
+        "torch_directml-0.1.13.1.dev230119-cp38-cp38-manylinux2010_x86_64.whl": [
+          "xbg6Zh+35u2cyM06/DO/R91yUQJ4dN+jCBPWpCDU29Q=",
+          "cp38"
+        ],
+        "torch_directml-0.1.13.1.dev230119-cp38-cp38-win_amd64.whl": [
+          "bQuCYshXvTsBFw8y4pxcW7VReOFHoanEm5IORhtFM3Y=",
+          "cp38"
+        ],
+        "torch_directml-0.1.13.1.dev230119-cp39-cp39-manylinux2010_x86_64.whl": [
+          "4L/6lnJbI3Nfua3cviX7FgTKbmMIQS2+a9Bye2Q4flA=",
+          "cp39"
+        ],
+        "torch_directml-0.1.13.1.dev230119-cp39-cp39-win_amd64.whl": [
+          "eUz8neF8ZFotGB1cZQJsdQsCFT0LuoYefudd0kQzB38=",
+          "cp39"
+        ]
+      }
+    },
     "0.1.13.dev221206": {
       "wheels": {
         "torch_directml-0.1.13.dev221206-cp310-cp310-manylinux2014_x86_64.whl": [

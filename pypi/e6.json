@@ -12791,6 +12791,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.54": {
+      "sdist": [
+        "or8SJ5BIh+OgEEYLUrnq03EWJ2R/hFigd6a9s+mxSxk=",
+        "botocore-a-la-carte-codeartifact-1.29.54.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_codeartifact-1.29.54-py3-none-any.whl": [
+          "9Se2/tJutvBaO8+piTkevcglJGB9mV9oyQ6SEV2qVN4=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-sagemaker-edge": {
@@ -12934,6 +12946,18 @@
       "wheels": {
         "botocore_a_la_carte_sagemaker_edge-1.29.53-py3-none-any.whl": [
           "6fMpfP70QhF7FiJM6e0/guxF/Nni8XldGoW31qAbktQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.54": {
+      "sdist": [
+        "gqnN4n1buh/P/l3B43NUY534E/I1XWhYWc9HPTVNtqc=",
+        "botocore-a-la-carte-sagemaker-edge-1.29.54.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_sagemaker_edge-1.29.54-py3-none-any.whl": [
+          "++Pn4XisQCsbz0Uan0rFoReAazgCHYRcl3YC6eIYKrs=",
           "py3"
         ]
       }
@@ -22863,6 +22887,32 @@
       }
     }
   },
+  "convopyro": {
+    "0.4": {
+      "sdist": [
+        "JoYl2XlShEVcg06oOdfGhlJa1218dgg92slYZPpImwE=",
+        "convopyro-0.4.tar.gz"
+      ],
+      "wheels": {
+        "convopyro-0.4-py3-none-any.whl": [
+          "PNH+YxiEj68n5rdL7IRBDzv80Z6OREM2A8UP4j5AFxs=",
+          "py3"
+        ]
+      }
+    },
+    "0.5": {
+      "sdist": [
+        "JrvryQ1IuPlto3HfkkbNY1RSc8L5rwvYNbHhEZ1OX5A=",
+        "convopyro-0.5.tar.gz"
+      ],
+      "wheels": {
+        "convopyro-0.5-py3-none-any.whl": [
+          "LbXJnkYMR3eSQamodsvFJU+oOOMtR3cKuvwIb+iDU4M=",
+          "py3"
+        ]
+      }
+    }
+  },
   "coolcalci": {
     "0.0.13": {
       "sdist": [
@@ -27580,10 +27630,10 @@
         ]
       }
     },
-    "2.0.2": {
+    "2.0.3": {
       "sdist": [
-        "4pgXV5mPF7nIC4Vf7a5xzaMzXITqOk3m8TBTeyiohTk=",
-        "datalake_utils-2.0.2.tar.gz"
+        "rBqOerebXF/feyaAWw6lEmczTvy0jcZuWlUUaZSAelY=",
+        "datalake_utils-2.0.3.tar.gz"
       ]
     }
   },
@@ -41294,6 +41344,12 @@
       "sdist": [
         "OIOUkNk8EAwOglSebWwiRc+u7ATpW1GiVb4ps5Jwuk8=",
         "django-admin-extra-buttons-1.5.5.tar.gz"
+      ]
+    },
+    "1.5.6": {
+      "sdist": [
+        "lhauluUcvdYEKL1eHSgDrgdgonTtd3pWwsOy8j/7hyo=",
+        "django-admin-extra-buttons-1.5.6.tar.gz"
       ]
     }
   },

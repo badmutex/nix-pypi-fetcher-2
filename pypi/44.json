@@ -16541,6 +16541,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.54": {
+      "sdist": [
+        "gQuB8TEaJBnYnRSBLD30vArTzCob5T4/eBuTnkO//mY=",
+        "botocore-a-la-carte-iotthingsgraph-1.29.54.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_iotthingsgraph-1.29.54-py3-none-any.whl": [
+          "zgtB183i4Ec9YT97oO7oC6DaBzLZIyDV9vzlonmUa2A=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-xray": {
@@ -16684,6 +16696,18 @@
       "wheels": {
         "botocore_a_la_carte_xray-1.29.53-py3-none-any.whl": [
           "pRr9ayHHl+sCUtkiynsxPs+Uugap5Ewi5FF3xA5Y/wI=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.54": {
+      "sdist": [
+        "jrbhxVskvng7GUbUf1MZZAZRgvZiaX9N6GISQVC/+m8=",
+        "botocore-a-la-carte-xray-1.29.54.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_xray-1.29.54-py3-none-any.whl": [
+          "bBczLsyiLqtgf7MX/KLLbxsJuUO4H6UjlKXSZ1FHl5k=",
           "py3"
         ]
       }
@@ -57342,6 +57366,30 @@
         ]
       }
     },
+    "9.25.1": {
+      "sdist": [
+        "LOJeBGr+ZpTLvImEL0JkAz4E6CiPJ4QtHTVyKw++epg=",
+        "hamlet-9.25.1.tar.gz"
+      ],
+      "wheels": {
+        "hamlet-9.25.1-py2.py3-none-any.whl": [
+          "wfzSilHZEQoQFmvVugisPhAjggCSHHY6g1A6rrMPWZs=",
+          "py2.py3"
+        ]
+      }
+    },
+    "9.25.1.dev6": {
+      "sdist": [
+        "9tw/UfiX5DqWDZUV4w0Nb06WYcFBG1Xfysp+DUk4he4=",
+        "hamlet-9.25.1.dev6.tar.gz"
+      ],
+      "wheels": {
+        "hamlet-9.25.1.dev6-py2.py3-none-any.whl": [
+          "IQdMYMH2xH+1zKp6Mm0lxSJsSYpNR5IG2RPTbV+pN4g=",
+          "py2.py3"
+        ]
+      }
+    },
     "9.3.0": {
       "sdist": [
         "yDLR5ciKb2eD5HuDypQRtRhBS+oAA0lQJrKRnuwkeUU=",
@@ -58638,6 +58686,18 @@
       "wheels": {
         "hi_ml_cpath-0.2.11-py3-none-any.whl": [
           "X2oR9i0aXd0qohXighM8IRMu8H2Zil63slAioowFeeE=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.12": {
+      "sdist": [
+        "vWPwIarrfp5xCFeE/i9IFhwmDag4j/D1pYXKaNj1GpE=",
+        "hi-ml-cpath-0.2.12.tar.gz"
+      ],
+      "wheels": {
+        "hi_ml_cpath-0.2.12-py3-none-any.whl": [
+          "MehLh9OfVNfKCqF+vnbCkANwgFDbo40uxh0IwbLTP/A=",
           "py3"
         ]
       }
@@ -111217,6 +111277,12 @@
         "Geds/6+2CTMCrS7cwWXoE+A0IgEDTCZzLG6SLRB/tbM=",
         "pytest_cmake-0.1.0.tar.gz"
       ]
+    },
+    "0.2.1": {
+      "sdist": [
+        "9rXg48b6ikmqNySqyYcfx5FO7jmYyDWjdnaZ/34Cn5c=",
+        "pytest_cmake-0.2.1.tar.gz"
+      ]
     }
   },
   "pytest-inmanta": {
@@ -125094,6 +125160,38 @@
         ]
       }
     },
+    "0.0.10": {
+      "wheels": {
+        "sklearnfast-0.0.10-py3-none-any.whl": [
+          "Ta9WhkdIJDfMWU8AEQZxYF9314zpcqNuX4brkXweC+U=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.11": {
+      "wheels": {
+        "sklearnfast-0.0.11-py3-none-any.whl": [
+          "0vE7tJndfUduWW7fWZ/pyI7u9mb0GFOFAgK8iXVuxQo=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.12": {
+      "wheels": {
+        "sklearnfast-0.0.12-py3-none-any.whl": [
+          "dwPtEvZ5H+IE6YvoKWybDtolpsiDzqMx5QZb8Oe5frE=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.13": {
+      "wheels": {
+        "sklearnfast-0.0.13-py3-none-any.whl": [
+          "momxQC4Hn8wO6ihCdocTvVtHGzVT+/tKlLX5B3XUJM4=",
+          "py3"
+        ]
+      }
+    },
     "0.0.2": {
       "wheels": {
         "sklearnfast-0.0.2-py3-none-any.whl": [
@@ -125106,6 +125204,62 @@
       "wheels": {
         "sklearnfast-0.0.3-py3-none-any.whl": [
           "1/n6B1sZc0kuzYP5RpLgbzTROXBBNLZBBh0jSOxxBnM=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4": {
+      "wheels": {
+        "sklearnfast-0.0.4-py3-none-any.whl": [
+          "FxZ7vtcB8Qu7ucXwKJdJQAp9Si1i1J+Lyjkay4bzNj0=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4.dev1": {
+      "wheels": {
+        "sklearnfast-0.0.4.dev1-py3-none-any.whl": [
+          "j3Yz4vBrNBClnjqviTUz7iDe9DimVmjH3C4Ud0dWmbM=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.5": {
+      "wheels": {
+        "sklearnfast-0.0.5-py3-none-any.whl": [
+          "EGCTDgp3x2BHplGbORVwGu6s2LLMz90atLrcHjNKirA=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.6": {
+      "wheels": {
+        "sklearnfast-0.0.6-py3-none-any.whl": [
+          "VmS0mcO1psPAbRBcbs+TZKQdzoUwcm39CfSgVcmO1AQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.7": {
+      "wheels": {
+        "sklearnfast-0.0.7-py3-none-any.whl": [
+          "+pZ+wywMSnGAQmw9033dpuo0x4itoJnaRJGcaKQuGwg=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.8": {
+      "wheels": {
+        "sklearnfast-0.0.8-py3-none-any.whl": [
+          "/ABIYV6jgChELbWdUANp+Vd/ainMqR+2IofBcjgwynA=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.9": {
+      "wheels": {
+        "sklearnfast-0.0.9-py3-none-any.whl": [
+          "ZNV+OjejnIsLP2DrqRdmhWf11UkiAYpRoDFb6RiTzWk=",
           "py3"
         ]
       }

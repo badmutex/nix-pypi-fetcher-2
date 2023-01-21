@@ -14199,6 +14199,18 @@
           "py3"
         ]
       }
+    },
+    "1.4.0": {
+      "sdist": [
+        "T5cHwGRuUQPXun1zqNcVqdln4TmrIxJnXVY8zWbYZHM=",
+        "bookserver-1.4.0.tar.gz"
+      ],
+      "wheels": {
+        "bookserver-1.4.0-py3-none-any.whl": [
+          "x6OGJnCq4R66my7sd9gk7DYpKSD9r49tgvhlWXysJ4U=",
+          "py3"
+        ]
+      }
     }
   },
   "bootstrapme": {
@@ -67242,6 +67254,20 @@
       "wheels": {
         "lokrez-4.2.0-py3-none-any.whl": [
           "+4EMIRRhu0rsHQavESRcc3pEpxi9/4VxDJGumN7d6Zo=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "longalpha-utils": {
+    "0.1": {
+      "sdist": [
+        "BO/TIwDkfuF705RrDamgRPvLYLMiTjmhb879nKjtamY=",
+        "longalpha_utils-0.1.tar.gz"
+      ],
+      "wheels": {
+        "longalpha_utils-0.1-py3-none-any.whl": [
+          "a1NA2YwvwBDYVfqiu2iPQh4LmVS1KUuTzu2n/UK7CY4=",
           "py3"
         ]
       }
@@ -141025,6 +141051,14 @@
           "py2.py3"
         ]
       }
+    },
+    "0.7.3.dev20230121": {
+      "wheels": {
+        "tf_model_optimization_nightly-0.7.3.dev20230121-py2.py3-none-any.whl": [
+          "GipBTG6zvMAvBM5D1QkmsHsKYuYrmf5I89k0xexLzYA=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tg-pubsub": {
@@ -144838,6 +144872,12 @@
       "sdist": [
         "32d/Cluh9unczHDCUZP96lZgf2KlaMcI0Dk8OSot83w=",
         "torchyolo-0.3.7.tar.gz"
+      ]
+    },
+    "0.3.8": {
+      "sdist": [
+        "YQMOIIHCrU7q0+iNZokApfQGT9TZfO1n5tlqhs11/5M=",
+        "torchyolo-0.3.8.tar.gz"
       ]
     }
   },

@@ -841,6 +841,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.1": {
+      "sdist": [
+        "zg792kIigPC9mljwxB1CXDOpVZWodOGnI7YqdPhdOTo=",
+        "aes_pkcs5-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "aes_pkcs5-1.0.1-py3-none-any.whl": [
+          "zAMHNVoq/j01JxVTyctDVsAEmm0WNFJs2+YrbqNBSig=",
+          "py3"
+        ]
+      }
     }
   },
   "afanimation": {
@@ -16106,6 +16118,82 @@
         ],
         "cmtj-1.2.0-cp39-cp39-win_amd64.whl": [
           "XAL9sIjrShl3bYq+bNAzsdSMDFPtKqyv9uqmTkAd2dg=",
+          "cp39"
+        ]
+      }
+    },
+    "1.3.0": {
+      "wheels": {
+        "cmtj-1.3.0-cp310-cp310-macosx_11_0_x86_64.whl": [
+          "zk5ptecXJT5w/R8RHv+qMG9hYjptUjM5OB5lbE5FCgw=",
+          "cp310"
+        ],
+        "cmtj-1.3.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "MIlYHX4cEitHT/CEpUDqdBvyffd2I3xymjE5rKiSXG8=",
+          "cp310"
+        ],
+        "cmtj-1.3.0-cp310-cp310-win_amd64.whl": [
+          "7GVi6wdvFkD+b0y9kMG+t2nmp6dAqz6IoiuspoEG4Sk=",
+          "cp310"
+        ],
+        "cmtj-1.3.0-cp311-cp311-macosx_10_9_universal2.whl": [
+          "5jOujlnDtzZo88dTo3lE4/b/GUkYiqFLoBeZNsSVyBE=",
+          "cp311"
+        ],
+        "cmtj-1.3.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "P418bNLObc66DGNp6OTb2G9c9oIsIpr3hvpq1V2rAHE=",
+          "cp311"
+        ],
+        "cmtj-1.3.0-cp311-cp311-win_amd64.whl": [
+          "U7U7jT4j+ljVEkzkpT1Sdfdo/itzneyFerdiXcttgZM=",
+          "cp311"
+        ],
+        "cmtj-1.3.0-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "oZvO8k1LIs9f6VYM1GE3UcWj1CxDAstvMy+Cdqo+dxs=",
+          "cp36"
+        ],
+        "cmtj-1.3.0-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "0nL3eISS136Q7fnJpFlyLcF5RN3/f79I5+KgmNb4I0U=",
+          "cp36"
+        ],
+        "cmtj-1.3.0-cp36-cp36m-win_amd64.whl": [
+          "kMI0pJe3wVkPZ/ZtoJ0RadGbt00ELjhoXn43gBTxdHk=",
+          "cp36"
+        ],
+        "cmtj-1.3.0-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "KY8c7LTz0+lcMitGel4S+u4CNgMRjGPwWz3oOkCuNBU=",
+          "cp37"
+        ],
+        "cmtj-1.3.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "D1lrgYGZiAU3zZ2R4CKKrDokuT/wi5aeCov0kANSKVE=",
+          "cp37"
+        ],
+        "cmtj-1.3.0-cp37-cp37m-win_amd64.whl": [
+          "xIjl84s/qpPZH3DuUwBh4JT35d67S8wWLKk5cHmY9lM=",
+          "cp37"
+        ],
+        "cmtj-1.3.0-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "MSIL7dgHFteGpII8JZRRZZbMDZoODMCZr/gTmMzp2Kw=",
+          "cp38"
+        ],
+        "cmtj-1.3.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "T5oUkYZasQLFLL5xdcahk0enLhns0NnPI3fd+Ay57PY=",
+          "cp38"
+        ],
+        "cmtj-1.3.0-cp38-cp38-win_amd64.whl": [
+          "F3C8yutbj1IN75MpPjCP9pbKZGLPEXsn0fFhRye/FoQ=",
+          "cp38"
+        ],
+        "cmtj-1.3.0-cp39-cp39-macosx_11_0_x86_64.whl": [
+          "rAub3AKTHrLohaAAp93EJiGwuU4QFgsQaOWwf6Kgqtw=",
+          "cp39"
+        ],
+        "cmtj-1.3.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "5YcsXUsfsXp8ew8xW+Jtmt0se5A0OF44cuJFifkYHy4=",
+          "cp39"
+        ],
+        "cmtj-1.3.0-cp39-cp39-win_amd64.whl": [
+          "cJ6pUX0f1F7XwaieTTud7lQCyI3E6oQ7MTCRIgwFcJc=",
           "cp39"
         ]
       }
@@ -127388,6 +127476,14 @@
       "wheels": {
         "symbolicai-0.2.2-py3-none-any.whl": [
           "O2NO1gnwI1tBh10YxiStTJ5JO7CX5lGHKE0L+I61R9k=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.4": {
+      "wheels": {
+        "symbolicai-0.2.4-py3-none-any.whl": [
+          "gKGhNfcmlQYl5rCyMH+SlcsEXl102pI/bvyfSVAlCpw=",
           "py3"
         ]
       }

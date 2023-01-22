@@ -16430,6 +16430,18 @@
         "botd-20.tar.gz"
       ]
     },
+    "200": {
+      "sdist": [
+        "FpVs+QLI/myGmZcQ11SSJC4jIG7n/6rjPcAbVUK6TpU=",
+        "botd-200.tar.gz"
+      ],
+      "wheels": {
+        "botd-200-py3-none-any.whl": [
+          "SybaHKhDcFJzpFgBjeEoL+a0i8W83DmpzDFgwJqElGk=",
+          "py3"
+        ]
+      }
+    },
     "21": {
       "sdist": [
         "JVa4MzRKDGhkxsA0CX6amUdB3EAaQgzNkAq5v9prwUA=",
@@ -51674,14 +51686,38 @@
     }
   },
   "hiddifypanel": {
-    "0.1.0": {
+    "0.0.1": {
       "sdist": [
-        "WxUPfo9b8PRqj7IoYnElderGC0ypUHs4atXgE2pEsJ8=",
-        "hiddifypanel-0.1.0.tar.gz"
+        "A69H5cYvKCRKIGblhhub2LSkFU7ePPMVKWQK+D3zREo=",
+        "hiddifypanel-0.0.1.tar.gz"
       ],
       "wheels": {
-        "hiddifypanel-0.1.0-py3-none-any.whl": [
-          "clf6HTUfeHZZJcFGzaTjcX/j8RgNKswm3dhtlcRPGmQ=",
+        "hiddifypanel-0.0.1-py3-none-any.whl": [
+          "JttvbMEqUTJ/nzbJjm/m6TGrVlSIW5H3PtMtIBeZeCg=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "qXnrVJ+rbUDprGycwd15y66RSgLFgjqqT1SVScPFTqo=",
+        "hiddifypanel-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "hiddifypanel-0.0.2-py3-none-any.whl": [
+          "CZqZRgEyun4xrK797uRUxzpd8WeKQPG1D8rR59cF4bE=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.0": {
+      "sdist": [
+        "Lx7D2GBRc3PZjQgr+iyGRJBEJBDQOuGq5pT4odFdAKU=",
+        "hiddifypanel-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "hiddifypanel-0.2.0-py3-none-any.whl": [
+          "DBujKy4OAqB+OybwMzA+cHXRzjSEz1yRQa6S9Fme+xI=",
           "py3"
         ]
       }
@@ -144068,6 +144104,16 @@
       "wheels": {
         "Topsis_102017182_sandhya_goyal-1.0.0-py3-none-any.whl": [
           "w5U2012enk4eWlZLm0mZSUcmS6Ou+tuGoEa2ofeQ2l8=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "topsis-avneetkaur-102003487": {
+    "1.0": {
+      "wheels": {
+        "Topsis_AvneetKaur_102003487-1.0-py3-none-any.whl": [
+          "w2uOBu7juEwz2yQiw8tS3D0XL9bc2amS2eR+YHQBPS8=",
           "py3"
         ]
       }

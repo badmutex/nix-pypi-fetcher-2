@@ -25781,6 +25781,12 @@
         "tF+t/N+sH2oDJJuyIVEZ54pjKtRY+8/94Ok/FGM3ceE=",
         "decentra_network_remote_app-0.41.1.tar.gz"
       ]
+    },
+    "0.42.0": {
+      "sdist": [
+        "T8n+2FRJOVEL6YakQ1YSuHDWWzUSWMsb6g8vIrb6qwg=",
+        "decentra_network_remote_app-0.42.0.tar.gz"
+      ]
     }
   },
   "deeg": {
@@ -81703,6 +81709,20 @@
       }
     }
   },
+  "pigauth": {
+    "0.1.0": {
+      "sdist": [
+        "8u4D2ZuXqpvxmFZ9+KI8giydAdlazJi/5WS647AAqko=",
+        "pigauth-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "pigauth-0.1.0-py2.py3-none-any.whl": [
+          "7/J78ysUxW+l7WhyjUh5lZOTxrLJdCAopcHKVVu84Eg=",
+          "py2.py3"
+        ]
+      }
+    }
+  },
   "pines": {
     "1.0": {
       "wheels": {
@@ -133330,50 +133350,14 @@
     }
   },
   "swani": {
-    "0.1.10": {
+    "0.1.12": {
       "sdist": [
-        "1E2SaWoJeR7G0bp4tQoSg1KRvvETxLneW5AFaMSW0mw=",
-        "SWANi-0.1.10.tar.gz"
+        "9rnNHqH8TvblrFPWRt37zXQlxlyXTgBivIm3k65Iadc=",
+        "SWANi-0.1.12.tar.gz"
       ],
       "wheels": {
-        "SWANi-0.1.10-py3-none-any.whl": [
-          "efn7S9virYbub9QALzIHO9vBMsZdF9BnnKbJQZQdhFE=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.7": {
-      "sdist": [
-        "TJ2jv76y29YOW9tS9o9C2Spj4qLqmao7+v0UkY2VeYw=",
-        "SWANi-0.1.7.tar.gz"
-      ],
-      "wheels": {
-        "SWANi-0.1.7-py3-none-any.whl": [
-          "RFeN1Fg/Hwo/Dj3Y1H8SVHoY1JbCG9BcQ0g8V9WpTcs=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.8": {
-      "sdist": [
-        "/CDtBOMd/j5d6jLrsJd1CXowgwChv0ttTjiXnRUPM8c=",
-        "SWANi-0.1.8.tar.gz"
-      ],
-      "wheels": {
-        "SWANi-0.1.8-py3-none-any.whl": [
-          "4rv61ySGBgeE4l7I/oOeiW1IkwNcEuV0sleobKP66QM=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.9": {
-      "sdist": [
-        "j8pI56WGhmJo+OP5rnrLPQepFhbUyKTQtF/OHmQvPf4=",
-        "SWANi-0.1.9.tar.gz"
-      ],
-      "wheels": {
-        "SWANi-0.1.9-py3-none-any.whl": [
-          "maHZl9vhK6MnawaLZt8ughdDwhbu4tMsVQTNOUZHDL8=",
+        "SWANi-0.1.12-py3-none-any.whl": [
+          "eKFaZvjLMojSQVsLzGXtLmaQyypicpWWbS+fqi4J5Z0=",
           "py3"
         ]
       }
@@ -138855,6 +138839,20 @@
       ]
     }
   },
+  "topsis-102003452": {
+    "0.1": {
+      "sdist": [
+        "4l3ua7gixrXD9/grGZyFigUF3fErNcClgOef1y984YQ=",
+        "topsis-102003452-0.1.tar.gz"
+      ],
+      "wheels": {
+        "topsis_102003452-0.1-py3-none-any.whl": [
+          "gy6MLFgajpXKB67wLep48Qh0Q8NI1cZCM8ICSDCRnnk=",
+          "py3"
+        ]
+      }
+    }
+  },
   "topsis-sanidhiya-101917126": {
     "0.1": {
       "sdist": [
@@ -138900,6 +138898,30 @@
       "wheels": {
         "Topsis_Yuvraj_102017081-0.1-py3-none-any.whl": [
           "hNu2OO2EUBRmNEwAmj6tN076KGPB9O/YSf7v2Zgcy9c=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.0": {
+      "wheels": {
+        "Topsis_Yuvraj_102017081-1.0.0-py3-none-any.whl": [
+          "1qYMPvsJ5hX9g0mfNwCmhs81hfrGb1//zktBY/2yfuA=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.1": {
+      "wheels": {
+        "Topsis_Yuvraj_102017081-1.0.1-py3-none-any.whl": [
+          "yuyZcsF3XvFdzL9M4n9SIwQCUDKw8exLLH8ob4J4+fY=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.2": {
+      "wheels": {
+        "Topsis_Yuvraj_102017081-1.1.2-py3-none-any.whl": [
+          "p/hcYBRdd79BZJGeKnEhzhoRfBdD83Jba/0O2OpvknA=",
           "py3"
         ]
       }

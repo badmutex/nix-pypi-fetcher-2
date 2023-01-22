@@ -15505,6 +15505,18 @@
           "py3"
         ]
       }
+    },
+    "2.3.0b20230122": {
+      "sdist": [
+        "mgWu/RNvIxSr7oZ1Cum6uuAelDplmgbWUF3ocwOgzHo=",
+        "bigdl-dllib-2.3.0b20230122.tar.gz"
+      ],
+      "wheels": {
+        "bigdl_dllib-2.3.0b20230122-py3-none-manylinux1_x86_64.whl": [
+          "OxtOUHjbw8XlrkwFTixXRbHs1Cs51Dowhk0Usqnx3+s=",
+          "py3"
+        ]
+      }
     }
   },
   "biggan": {
@@ -127532,6 +127544,18 @@
         ]
       }
     },
+    "1.50.0": {
+      "sdist": [
+        "bthXIlLLtgz3CQnPsWchwMxZ2Vyfter4pLDH6M/WgxM=",
+        "starlite-1.50.0.tar.gz"
+      ],
+      "wheels": {
+        "starlite-1.50.0-py3-none-any.whl": [
+          "nTN53skf36D7Siy3dhnkFFW4nygCWPJT3jYfL5RGQxM=",
+          "py3"
+        ]
+      }
+    },
     "1.6.0": {
       "sdist": [
         "6ycbSZT8aSzWafzRnqW6ZpCxZZ9R18acyFeNSWevBpA=",
@@ -144165,6 +144189,42 @@
           "cp39"
         ]
       }
+    },
+    "2.12.0.dev20230121": {
+      "wheels": {
+        "tf_nightly_intel-2.12.0.dev20230121-cp310-cp310-win_amd64.whl": [
+          "nEBrDvMjEAuWsLbYJT6LbDBfzQn5N9FBr4FPNpWeeFw=",
+          "cp310"
+        ],
+        "tf_nightly_intel-2.12.0.dev20230121-cp38-cp38-win_amd64.whl": [
+          "K7AOKiQNvqK8O0Yzxd0afaqfM5FPZApHMSRyvtxJIMc=",
+          "cp38"
+        ],
+        "tf_nightly_intel-2.12.0.dev20230121-cp39-cp39-win_amd64.whl": [
+          "qQIJ18BUF4X1138TT84m2fhikaKwXTMvkPMEPPavLpk=",
+          "cp39"
+        ]
+      }
+    },
+    "2.12.0.dev20230122": {
+      "wheels": {
+        "tf_nightly_intel-2.12.0.dev20230122-cp310-cp310-win_amd64.whl": [
+          "07qMwcriMwdH6nyKi/l5B5ufDl+jfbn9MWQOb2HDinw=",
+          "cp310"
+        ],
+        "tf_nightly_intel-2.12.0.dev20230122-cp311-cp311-win_amd64.whl": [
+          "xeIEcd+IHU7WXwh+DyqozwR0TnZezZ6NOhSgRDzRFVc=",
+          "cp311"
+        ],
+        "tf_nightly_intel-2.12.0.dev20230122-cp38-cp38-win_amd64.whl": [
+          "MUlx3r5g/8k6Iu1nZMRXL/Ga0QCzEHwH8DaoaOdMdf4=",
+          "cp38"
+        ],
+        "tf_nightly_intel-2.12.0.dev20230122-cp39-cp39-win_amd64.whl": [
+          "7QN6lWrZbmu9b0rQaJ1YUR7aZTJV3Erm+tNxV+fjmOw=",
+          "cp39"
+        ]
+      }
     }
   },
   "tfparse": {
@@ -144794,6 +144854,18 @@
       "wheels": {
         "tkdesigner-1.0.6-py3-none-any.whl": [
           "QL3jbiSgolK3faMYFfE8JSaVxaF3EaDB6SkvjarIhT0=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.7": {
+      "sdist": [
+        "+DfLBQg3exPY+B/AwAzjQeo2+cbrixG4OT26HJjq3yI=",
+        "tkdesigner-1.0.7.tar.gz"
+      ],
+      "wheels": {
+        "tkdesigner-1.0.7-py3-none-any.whl": [
+          "EtCsi2S7Oaey9gjbZNv3Y7CymaAQlYp1TYLBthE4aVg=",
           "py3"
         ]
       }
@@ -156486,6 +156558,18 @@
       "wheels": {
         "wordcab-0.4.0-py3-none-any.whl": [
           "3tKEWYxIBHs3yAKDrRS8UhJlN87cAKeiFSjU3Z+FVBk=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.1": {
+      "sdist": [
+        "610l7juUb/v5ljsCZPP1vWKxXk/1veqINgfuMbT9TXQ=",
+        "wordcab-0.4.1.tar.gz"
+      ],
+      "wheels": {
+        "wordcab-0.4.1-py3-none-any.whl": [
+          "T/PfMvXJ8tST4gpwXO6zQBR9632UzjwYkKxrcQO9QFY=",
           "py3"
         ]
       }

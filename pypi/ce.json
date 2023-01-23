@@ -10260,6 +10260,38 @@
         ]
       }
     },
+    "0.16.0": {
+      "wheels": {
+        "cargo_lambda-0.16.0-py3-none-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "albH8zWL7kVQ/eKlP8TU4mQf5yWCtInfMgZUBWvff88=",
+          "py3"
+        ],
+        "cargo_lambda-0.16.0-py3-none-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "ut6MhPzzkUrjoNYcNVYSSVortmpUV2aVHz9qZuKm9fQ=",
+          "py3"
+        ],
+        "cargo_lambda-0.16.0-py3-none-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "vl2uutOyQPSoIE/m2CmVe7x3BFIpdS3mDR/e4bUAACs=",
+          "py3"
+        ],
+        "cargo_lambda-0.16.0-py3-none-manylinux_2_5_i686.manylinux1_i686.whl": [
+          "8v9fu0V0jif+Fi4LCq3Pk8sTMaRSZZVDhKwJD18YpxA=",
+          "py3"
+        ],
+        "cargo_lambda-0.16.0-py3-none-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "+I9M1Xmaafy5Y+WMlnTe1W3How5almg7bSWS4PjxqZE=",
+          "py3"
+        ],
+        "cargo_lambda-0.16.0-py3-none-win32.whl": [
+          "uZVzsjGDsaamROi5ow5A0Chi4V+X6Hl/ATt7PSNJOrc=",
+          "py3"
+        ],
+        "cargo_lambda-0.16.0-py3-none-win_amd64.whl": [
+          "mNQ2g05ZxFpc9+aDGYVs8830G9Xz8qBDTY0zRicw/LQ=",
+          "py3"
+        ]
+      }
+    },
     "0.8.0": {
       "wheels": {
         "cargo_lambda-0.8.0-py3-none-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
@@ -41722,7 +41754,81 @@
       "sdist": [
         "hglYbxqx88SNUGSeXq5/iLjajpuN6t1xNPqKNE4CPOc=",
         "g2o-python-0.0.4.tar.gz"
-      ]
+      ],
+      "wheels": {
+        "g2o_python-0.0.4-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "Kpu1yv5qSl1L/MBzOPqlTaV8HT/5t8Ht3rhwxLr/zb0=",
+          "cp310"
+        ],
+        "g2o_python-0.0.4-cp310-cp310-macosx_11_0_arm64.whl": [
+          "2RFmzW/p+k5OOvGxXnZ2VVs9QFnUJO540SzoZJpu09s=",
+          "cp310"
+        ],
+        "g2o_python-0.0.4-cp310-cp310-win_amd64.whl": [
+          "W/rYGEP1Kyq5Q62TwFug0n6+9SeOhwBonuIfL97NoNU=",
+          "cp310"
+        ],
+        "g2o_python-0.0.4-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "/IMMAjZdzUGh3HbpYtkcYk/91NTmeAzjCLuA+bauSPY=",
+          "cp311"
+        ],
+        "g2o_python-0.0.4-cp311-cp311-macosx_11_0_arm64.whl": [
+          "SKfjePXvKQ935IA17tnWC3q5Y0rmsqw9s5YXgw3Mxbg=",
+          "cp311"
+        ],
+        "g2o_python-0.0.4-cp311-cp311-win_amd64.whl": [
+          "rwX/tVKzv1qMeGYHMlllUKWPjq1EX5GjfoQRLRaFGvM=",
+          "cp311"
+        ],
+        "g2o_python-0.0.4-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "dZhUXvAsAmS8E4oGoGEGZuYK6kTrx7bY7CTcIm6MjlY=",
+          "cp36"
+        ],
+        "g2o_python-0.0.4-cp36-cp36m-win32.whl": [
+          "BDUc6wCeuM05McB5LJdEPu+Zyhg4XaHrmy9QXfFciG8=",
+          "cp36"
+        ],
+        "g2o_python-0.0.4-cp36-cp36m-win_amd64.whl": [
+          "7Q7XxenP+0TqrlQcrPCzMQXHn/qhA5I2THkMNE6243s=",
+          "cp36"
+        ],
+        "g2o_python-0.0.4-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "kTGzqvLjTkx+8/1TOF5TKJTXAErdoWE0UyJKL/lRabg=",
+          "cp37"
+        ],
+        "g2o_python-0.0.4-cp37-cp37m-win32.whl": [
+          "CXzp0ZN7i5y6KO0Sj61SshYX/AiIHORlACBj4PX0wJc=",
+          "cp37"
+        ],
+        "g2o_python-0.0.4-cp37-cp37m-win_amd64.whl": [
+          "22TL7vCQAN0o1Ye/STPQ1dB5/bJEeU8F33Bp1thch8c=",
+          "cp37"
+        ],
+        "g2o_python-0.0.4-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "nJgnqdHZoJuCFlwSYdlq/boDj7d7iQhh3JHb+LgUDWQ=",
+          "cp38"
+        ],
+        "g2o_python-0.0.4-cp38-cp38-macosx_11_0_arm64.whl": [
+          "PZLJeFVDMHDHZ1tjC7p6JheI1FxuZRNNrBDT4JSxMw4=",
+          "cp38"
+        ],
+        "g2o_python-0.0.4-cp38-cp38-win_amd64.whl": [
+          "TdLzs9vJ8ISJpM350TKjPOwclmV9vT9sWdADuQ78kT4=",
+          "cp38"
+        ],
+        "g2o_python-0.0.4-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "a7jMxSnqhfmfYcrQFB5BU9PRCDw6EhGJElVANIiPhBI=",
+          "cp39"
+        ],
+        "g2o_python-0.0.4-cp39-cp39-macosx_11_0_arm64.whl": [
+          "r9v6WDQEkcAkU/HrZwGNTIolFc+ycLIq1KPBoYK8+AA=",
+          "cp39"
+        ],
+        "g2o_python-0.0.4-cp39-cp39-win_amd64.whl": [
+          "2U6K/bC2OdW3r45Og89ML52PYWVSyS28qY/5UzXmGEE=",
+          "cp39"
+        ]
+      }
     }
   },
   "gaddlemaps": {
@@ -82920,6 +83026,16 @@
       "wheels": {
         "nimbler_api-0.0.0-py3-none-any.whl": [
           "aXr7walRLfUIEHD5IooBoEwJ6BQnMIGqnok9hWKztXY=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "nimish-102017084-topsis": {
+    "1.0.1": {
+      "wheels": {
+        "Nimish_102017084_Topsis-1.0.1-py3-none-any.whl": [
+          "8TIN1xXfOBZoBICezC4QVIDAzKdq3tMGtr0/hm7Lqlg=",
           "py3"
         ]
       }

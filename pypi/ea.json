@@ -73572,6 +73572,30 @@
         ]
       }
     },
+    "1.12.203": {
+      "sdist": [
+        "kT7n/sZQeMmV3FkHCSBaGRWs2jpPzQfNqOL+sO5X/C0=",
+        "luminesce-sdk-preview-1.12.203.tar.gz"
+      ],
+      "wheels": {
+        "luminesce_sdk_preview-1.12.203-py3-none-any.whl": [
+          "YbZo/V+d7lXuTLQLpOt8ywzmR//ESWRdbLrTp6xY6EM=",
+          "py3"
+        ]
+      }
+    },
+    "1.12.207": {
+      "sdist": [
+        "VwNdyKPrNYkGyLPI3obRBq0AVSzEe0gO497eeTpRKmI=",
+        "luminesce-sdk-preview-1.12.207.tar.gz"
+      ],
+      "wheels": {
+        "luminesce_sdk_preview-1.12.207-py3-none-any.whl": [
+          "FGLNdGB6AGd4m6cnKwdi9LkB6kTeB4Xq5xduraVEScE=",
+          "py3"
+        ]
+      }
+    },
     "1.12.28": {
       "sdist": [
         "T1le/QIXHLn/j5ACZNqvk5P6fRzjFSiN81ij0YbdyYQ=",
@@ -103456,6 +103480,14 @@
         ]
       }
     },
+    "1.4.18": {
+      "wheels": {
+        "pkr-1.4.18-py3-none-any.whl": [
+          "xY+rG9zWE52akbDg+d/rdV1YrOONOoFNfv0xfMZLd/M=",
+          "py3"
+        ]
+      }
+    },
     "1.4.2": {
       "wheels": {
         "pkr-1.4.2-py3-none-any.whl": [
@@ -111191,6 +111223,14 @@
       }
     }
   },
+  "pymicrocode": {
+    "7.0.0": {
+      "sdist": [
+        "BWYAGCjcup9Ld5cyBCInOG8i5KSva8gsC/Yarf/GBYs=",
+        "pyMicroCode-7.0.0.tar.gz"
+      ]
+    }
+  },
   "pyminhaufop": {
     "0.0.1": {
       "sdist": [
@@ -116126,6 +116166,102 @@
         ],
         "python_ucto-0.6.2-cp39-cp39-manylinux_2_28_x86_64.whl": [
           "6fg0kcdX1L7g7JeMI1V1P9hGWki8fNIx1ti0u5Zz7mg=",
+          "cp39"
+        ]
+      }
+    },
+    "0.6.3": {
+      "sdist": [
+        "to4fj+J24F18Gb8PVPxb2/aLXFZojuhUU5fTYmvTB7g=",
+        "python-ucto-0.6.3.tar.gz"
+      ],
+      "wheels": {
+        "python_ucto-0.6.3-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "OdP6FIpY9OlFlOVh7hA+vYoEzMqIwV8EQRjb+p3t0Nk=",
+          "cp310"
+        ],
+        "python_ucto-0.6.3-cp310-cp310-macosx_11_0_arm64.whl": [
+          "VA9rHXt4XV9RNKhYTFziUaDZ9k55a+vydW7cS3qo7jI=",
+          "cp310"
+        ],
+        "python_ucto-0.6.3-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "HzfnrsphCJfhpNyEccEMF33iJaJpsoLo5+OjA2N6TEk=",
+          "cp310"
+        ],
+        "python_ucto-0.6.3-cp310-cp310-musllinux_1_1_x86_64.whl": [
+          "72kZddw7c9FoI0gcXA4SMAYn1OfeBh1SuUohizCFZ2k=",
+          "cp310"
+        ],
+        "python_ucto-0.6.3-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "NgSV3ScGlMO42JQ3u3uteCzg26r0VWloMVNaxKuodSU=",
+          "cp311"
+        ],
+        "python_ucto-0.6.3-cp311-cp311-macosx_11_0_arm64.whl": [
+          "nIWWhkh5FTI2U8zsu3jFyRG9kGwsbvug6PkboC861lM=",
+          "cp311"
+        ],
+        "python_ucto-0.6.3-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "rfAc/7z/rBWsmsJl+7HIJtkgyeICFBeWRsvYNJ2vO6E=",
+          "cp311"
+        ],
+        "python_ucto-0.6.3-cp311-cp311-musllinux_1_1_x86_64.whl": [
+          "8720VG+cGpSnoogFPPTIjfBBf4sFRVXKBMkh9av4E48=",
+          "cp311"
+        ],
+        "python_ucto-0.6.3-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "o30Ni4T3ABfC/8e2sIymEGRDgyv4RnWY4zHLOB12fIQ=",
+          "cp36"
+        ],
+        "python_ucto-0.6.3-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "PRX30jfMku6VHTOqfi2ZjCkemKk+pZh5cWWGSY+pO8o=",
+          "cp36"
+        ],
+        "python_ucto-0.6.3-cp36-cp36m-musllinux_1_1_x86_64.whl": [
+          "MFIe7DOYauyIVCW4Z6dPFSBdfLRaPQgIUwf9SUyjvb0=",
+          "cp36"
+        ],
+        "python_ucto-0.6.3-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "DVxz/SfjpVOywiuCnKAKUIIRE2cKLQOTmlhDYuh7q58=",
+          "cp37"
+        ],
+        "python_ucto-0.6.3-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "X5LRfs9NAV0s3KSLxjCz7LpsphFyNU7JbkXV1X3S3cc=",
+          "cp37"
+        ],
+        "python_ucto-0.6.3-cp37-cp37m-musllinux_1_1_x86_64.whl": [
+          "YQoENyntP2iheoYmMArc32MiWSb8xmdkvQ1EJnr4WR4=",
+          "cp37"
+        ],
+        "python_ucto-0.6.3-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "qPrFv5zmHlBKcbqcq+HmxmqyTSKdGpeL0W1XpV6g+I8=",
+          "cp38"
+        ],
+        "python_ucto-0.6.3-cp38-cp38-macosx_11_0_arm64.whl": [
+          "5Ay7+ryctK1esDTGNutwmTvmmmPas4ibUJhSF1ZW88A=",
+          "cp38"
+        ],
+        "python_ucto-0.6.3-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "0OZ6yF0clfhd7d8WmOI6xO0CLv0Md/YXsQC39xr79zw=",
+          "cp38"
+        ],
+        "python_ucto-0.6.3-cp38-cp38-musllinux_1_1_x86_64.whl": [
+          "ZEKa7Q6BbcTh8ESIuc+107dDYWxo4QpAD+yFSAs2aKA=",
+          "cp38"
+        ],
+        "python_ucto-0.6.3-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "1Smeg60GJ3dYoYl1LmryDCnl2gXmoo2pe5pWD4pEP1k=",
+          "cp39"
+        ],
+        "python_ucto-0.6.3-cp39-cp39-macosx_11_0_arm64.whl": [
+          "TfDY8/yimjMF48by3N/pnYYIEPA7zTfs1JvLLSN3kqc=",
+          "cp39"
+        ],
+        "python_ucto-0.6.3-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "OyrIqcC8cfn2yaow8UgWnuSPQMukWdEsS5g/fWhJ6SM=",
+          "cp39"
+        ],
+        "python_ucto-0.6.3-cp39-cp39-musllinux_1_1_x86_64.whl": [
+          "B+67toSeHYWg5pFeTKED5TWlpY04dgiT8X+I+A3yr0E=",
           "cp39"
         ]
       }

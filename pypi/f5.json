@@ -31078,6 +31078,18 @@
         ]
       }
     },
+    "2.18.1": {
+      "sdist": [
+        "9BbWUETVpVfF+7pLzDKirkCd4VSDdjh5n8l1tf2zrwQ=",
+        "dhlab-2.18.1.tar.gz"
+      ],
+      "wheels": {
+        "dhlab-2.18.1-py3-none-any.whl": [
+          "rqz4M9xgEJaSA/McfkF62OTlKg/fwi/ac9iDWF76O28=",
+          "py3"
+        ]
+      }
+    },
     "2.2.0": {
       "sdist": [
         "CYyCCGkJ0YiecOUw/t0R8QJa5PPCU6NTp6ZzgOk+E8k=",
@@ -49992,6 +50004,18 @@
       "wheels": {
         "gemato-17.0-py3-none-any.whl": [
           "eMOjJqLEeblYEEHWgvmxZuHq47BwAAfA1WPQk1r6tmo=",
+          "py3"
+        ]
+      }
+    },
+    "18.0": {
+      "sdist": [
+        "UW7Au8CeX7iZMv6AAMcFdZHWabzk6sq6Sd+7OytnVDw=",
+        "gemato-18.0.tar.gz"
+      ],
+      "wheels": {
+        "gemato-18.0-py3-none-any.whl": [
+          "PyTBzx7RgVPsESuv/mwHzBjvr7Ysrb0eDBfgjcApOTE=",
           "py3"
         ]
       }
@@ -96175,6 +96199,48 @@
         "vDj+/SxbOIbwNqNpSRT4xPed+ooAdtxd07iupLO4xTQ=",
         "nonebot_plugin_pvz-1.0.4.tar.gz"
       ]
+    },
+    "1.0.5": {
+      "sdist": [
+        "r29sZZBSW+w5FesCTCEz0iOJvtQiLMXlgSnV9O1lz94=",
+        "nonebot_plugin_pvz-1.0.5.tar.gz"
+      ]
+    },
+    "1.0.6": {
+      "sdist": [
+        "6xxU424aP8jfeNNMqU5qXC7wny2w5OM4DamXWJVpKSA=",
+        "nonebot_plugin_pvz-1.0.6.tar.gz"
+      ]
+    },
+    "1.0.7": {
+      "sdist": [
+        "UTihC2j5d41Ni1sCReV4G1oMThvwoy7R6nB/aGBccfw=",
+        "nonebot_plugin_pvz-1.0.7.tar.gz"
+      ]
+    },
+    "1.0.8": {
+      "sdist": [
+        "4f+1NeM2ingI2IwZNkaeQ59wDOX8bWQZFP1cQzcxz2M=",
+        "nonebot_plugin_pvz-1.0.8.tar.gz"
+      ]
+    },
+    "1.0.9": {
+      "sdist": [
+        "zmdLCp1PNaCx/5OjYEJLdfildAvY4GZaR3BMaPkgP1w=",
+        "nonebot_plugin_pvz-1.0.9.tar.gz"
+      ]
+    },
+    "1.1.0": {
+      "sdist": [
+        "DXP1qIxrkkP17BgTBVccWbn6aOjDDFhOgL7VLXfF3Jw=",
+        "nonebot_plugin_pvz-1.1.0.tar.gz"
+      ]
+    },
+    "1.1.1": {
+      "sdist": [
+        "bos+fWEgxEsU1c5fHEmhmHz6W4SIh9m/v7pcRxeiIAg=",
+        "nonebot_plugin_pvz-1.1.1.tar.gz"
+      ]
     }
   },
   "nordic": {
@@ -100250,6 +100316,14 @@
       "wheels": {
         "odoo12_addon_pos_order_return-12.0.1.0.4-py3-none-any.whl": [
           "gQpmFz3poXrMS+Ow/gyYNjMjNUWmXpYlJNxHFnmfowQ=",
+          "py3"
+        ]
+      }
+    },
+    "12.0.1.1.0": {
+      "wheels": {
+        "odoo12_addon_pos_order_return-12.0.1.1.0-py3-none-any.whl": [
+          "4Tks0ztrtmFpPnEaMZyps/th1NF5EiX2Sme4cD55OG4=",
           "py3"
         ]
       }
@@ -116461,6 +116535,18 @@
         "PyGaia-2.2-py2.py3-none-any.whl": [
           "nJNQ/OVEyriEiFiERqQAMy6ktbkhu4Yvu6u0SznjvUY=",
           "py2.py3"
+        ]
+      }
+    },
+    "3.0.2": {
+      "sdist": [
+        "vrkHvxGgtfRCq/q13euE9PP8jYd6Q+A6KyStXLxoqWg=",
+        "pygaia-3.0.2.tar.gz"
+      ],
+      "wheels": {
+        "pygaia-3.0.2-py3-none-any.whl": [
+          "RRkCy4AyIPZCiGElwOa4jJhNIJuGOti3Ez+AlcuySi0=",
+          "py3"
         ]
       }
     }
@@ -144552,6 +144638,20 @@
       "wheels": {
         "toxine-1.0.9-py3-none-any.whl": [
           "ct/35aen10k3WYg6Gs6+S3uDY04RmILfMSF74BHcJqU=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "trabalho-gces-denys": {
+    "0.1.0": {
+      "sdist": [
+        "3OHPEsJDKr4Ye5qlbEwaYl8MhJtH7iXT9E2p67JtH4g=",
+        "trabalho_gces_denys-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "trabalho_gces_denys-0.1.0-py3-none-any.whl": [
+          "DctiVzyw6HI8/ICvqqBOgTKI9gsCOG5yHEsds/6HpIU=",
           "py3"
         ]
       }

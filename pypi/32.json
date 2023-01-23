@@ -3317,6 +3317,14 @@
           "py3"
         ]
       }
+    },
+    "3.5.0rc1": {
+      "wheels": {
+        "apache_airflow_providers_docker-3.5.0rc1-py3-none-any.whl": [
+          "3Fxx5DBSgjVAz3Tjm54Dk29AKaFOBWdf4tkTFob1xSU=",
+          "py3"
+        ]
+      }
     }
   },
   "app-confetti": {
@@ -6280,6 +6288,142 @@
         ],
         "avaframe-1.3-cp39-cp39-win_amd64.whl": [
           "Gg/8OCWosc/cghTuEnTFS4iEgqMfCH8ThE1oUBpGhJ4=",
+          "cp39"
+        ]
+      }
+    },
+    "1.4": {
+      "sdist": [
+        "nxp/+WLVQfaA+aX37TI5PnzEqfCcFgNchgW/e/ERawI=",
+        "avaframe-1.4.tar.gz"
+      ],
+      "wheels": {
+        "avaframe-1.4-cp310-cp310-macosx_11_0_x86_64.whl": [
+          "IjSo6xWMdJ25h2HfCXAMMyDlyWqo83mQp0wzIQK7f8c=",
+          "cp310"
+        ],
+        "avaframe-1.4-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "wvET1qKzVN6djLiTZM+xg3VUVVyjg0H1pPCTXfA8Nck=",
+          "cp310"
+        ],
+        "avaframe-1.4-cp310-cp310-win_amd64.whl": [
+          "1WA5oVVJvjPoJnuGyxzkemDxnTEhprnO1guTgAzX6mA=",
+          "cp310"
+        ],
+        "avaframe-1.4-cp311-cp311-macosx_10_9_universal2.whl": [
+          "8P6IIbvq//G6hvBt31/ShLqf5j3jYcUKRGe77F1qOYA=",
+          "cp311"
+        ],
+        "avaframe-1.4-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "aY0RI6jwuEAUCxP3mZQ21kX3YHp9emIq/gvap4EdBTk=",
+          "cp311"
+        ],
+        "avaframe-1.4-cp311-cp311-win_amd64.whl": [
+          "q+k74S0Br6/5ZktoGKTWge98PEFjsnu6dTeGdzxWEkc=",
+          "cp311"
+        ],
+        "avaframe-1.4-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "9pelJOr+4E1zVhqeHHLM0XVQmbfk/wSyOgxRiWwu1fM=",
+          "cp37"
+        ],
+        "avaframe-1.4-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "6B+fEwKYiyeDcJdrgPXxXQp1TIzNfxJ6z4hgkkheEok=",
+          "cp37"
+        ],
+        "avaframe-1.4-cp37-cp37m-win_amd64.whl": [
+          "ZaWbMJh2n07ZHuMCakaGpDNBOgQqf0kvalNFDDyaJRs=",
+          "cp37"
+        ],
+        "avaframe-1.4-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "dGMTRpHPSdxjJFmc/7+1W0ue9YN2Kjv2KL0WHktk9pk=",
+          "cp38"
+        ],
+        "avaframe-1.4-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "/dIEYDH7/UpVoRKa4mQjVQw2Ub3ONQxaYL9eSOvv/Ss=",
+          "cp38"
+        ],
+        "avaframe-1.4-cp38-cp38-win_amd64.whl": [
+          "Ju61dQJiGjK3D27A5IAdkRLP/fPF79LXNfUHG8ifhC0=",
+          "cp38"
+        ],
+        "avaframe-1.4-cp39-cp39-macosx_11_0_x86_64.whl": [
+          "qN4PCJUoOm7B5te1TsZ9pzMHyYo+vKKq41Wlu1YFsoo=",
+          "cp39"
+        ],
+        "avaframe-1.4-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "cC76DFNk9C39aVASKGJQajUtPHCgLk7eIJINa5PobV8=",
+          "cp39"
+        ],
+        "avaframe-1.4-cp39-cp39-win_amd64.whl": [
+          "uMpkIOID1zXKAI0EFvpl0TimmSgel9ddpUSyRFPMqxs=",
+          "cp39"
+        ]
+      }
+    },
+    "1.4.1": {
+      "sdist": [
+        "tvZDb8ESILjGwSWZVifVlU12hH7gf2C3I95kRe3dd5w=",
+        "avaframe-1.4.1.tar.gz"
+      ],
+      "wheels": {
+        "avaframe-1.4.1-cp310-cp310-macosx_11_0_x86_64.whl": [
+          "4fDy3YQ1VoyX9ZYFbQcG+jyFdndwRWcuPy/tV61Iwic=",
+          "cp310"
+        ],
+        "avaframe-1.4.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "UA9EitU8OrxPCes3+ETLciDeS17hPzpidvDIR/zOUuo=",
+          "cp310"
+        ],
+        "avaframe-1.4.1-cp310-cp310-win_amd64.whl": [
+          "FWu/FjsK9VfuXWqx4/XVlvS72js23MPU8X01k3RL31k=",
+          "cp310"
+        ],
+        "avaframe-1.4.1-cp311-cp311-macosx_10_9_universal2.whl": [
+          "91ol4WZ3FrrYCWXqoUBxeanfRo/KhbPKmR4/URTaGhM=",
+          "cp311"
+        ],
+        "avaframe-1.4.1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "EEx6hW9qgPhud/CwMme9HXDhzdQFRBu24fq6iiD0I1M=",
+          "cp311"
+        ],
+        "avaframe-1.4.1-cp311-cp311-win_amd64.whl": [
+          "3KoIT6ylDl42ykkcqv3CDMpOKtt6P6Ijwz87AalPzVI=",
+          "cp311"
+        ],
+        "avaframe-1.4.1-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "aBxlcNBYECsB1CtUCnJKy8pr0TXKS2rr+7aEcJsToGU=",
+          "cp37"
+        ],
+        "avaframe-1.4.1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "q8Vx+FI7lYOyTsK62lgwDE/8nJd0bXfyAhNISqqJg3k=",
+          "cp37"
+        ],
+        "avaframe-1.4.1-cp37-cp37m-win_amd64.whl": [
+          "I/tdl2rlatGFUEx2rAA2XBMGadM3ICfqf1fG+Gt01O4=",
+          "cp37"
+        ],
+        "avaframe-1.4.1-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "J5NwxV+XqFwwrMw9Ahx3cVxCb/EtciLz+c2khhKL7A0=",
+          "cp38"
+        ],
+        "avaframe-1.4.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "GRIusiYVgaVSYJUgVNV/g2MpoDDqz4e8g3AzaNFfCo4=",
+          "cp38"
+        ],
+        "avaframe-1.4.1-cp38-cp38-win_amd64.whl": [
+          "sKlVKoyv5oIS460uFskUBv1Cs3THKyoikeT9O0wYMBM=",
+          "cp38"
+        ],
+        "avaframe-1.4.1-cp39-cp39-macosx_11_0_x86_64.whl": [
+          "IcqiAj1iZ3udDhiwWo6o7KEI61or8/DeO/xQBQBWS5E=",
+          "cp39"
+        ],
+        "avaframe-1.4.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "QDKfMUMYqzfE7gZdwCjYfzdC62vAOajhsZuFEcc4tEA=",
+          "cp39"
+        ],
+        "avaframe-1.4.1-cp39-cp39-win_amd64.whl": [
+          "drnKrCXoCNO0dqnYepw8g5vMjv1QDoVb5phz2dtw35Y=",
           "cp39"
         ]
       }
@@ -27657,6 +27801,18 @@
           "py3"
         ]
       }
+    },
+    "1.7.2": {
+      "sdist": [
+        "JQ6JHC+UwdjrHKCvaHzeMi8dqv375FrxXm7kdtofwXI=",
+        "data-science-common-core-1.7.2.tar.gz"
+      ],
+      "wheels": {
+        "data_science_common_core-1.7.2-py3-none-any.whl": [
+          "2wD9PfFTNL6gsjkPDRCrRDn4MGWpUxivf0WoKJOeZDo=",
+          "py3"
+        ]
+      }
     }
   },
   "dataclassframe": {
@@ -46473,6 +46629,18 @@
           "py2.py3"
         ]
       }
+    },
+    "1.7.1": {
+      "sdist": [
+        "DUFWQjBlGUh2yOMX4XDni06FfERoLmD1hPOo6yi8kEY=",
+        "google-cloud-game-servers-1.7.1.tar.gz"
+      ],
+      "wheels": {
+        "google_cloud_game_servers-1.7.1-py2.py3-none-any.whl": [
+          "yzDH1qWMKDTGCMg4Nq+QBAlTy9BeHBt5eOuOnNoYqdo=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "google-ldap3": {
@@ -50849,6 +51017,18 @@
           "py3"
         ]
       }
+    },
+    "0.26.0": {
+      "sdist": [
+        "3AnVlAHMPk+S7tw7RqAw9r/IPacIfeE0R6EbDpqRdFw=",
+        "incqueryserver-api-python-client-0.26.0.tar.gz"
+      ],
+      "wheels": {
+        "incqueryserver_api_python_client-0.26.0-py3-none-any.whl": [
+          "WmhquFrHGPLHrh0YlLEJuaGYaTkcN6aImAJWUP05GJg=",
+          "py3"
+        ]
+      }
     }
   },
   "index2rc": {
@@ -53388,6 +53568,12 @@
       "sdist": [
         "lvAE07tkCLTt3n5irer2My5BJjDV4D6whqpriIffWE4=",
         "ixpeobssim-30.0.1.tar.gz"
+      ]
+    },
+    "30.1.0": {
+      "sdist": [
+        "KENaJavTV16Qi+5MZWfEYR3TsZYTABBs0BYwGc70DaQ=",
+        "ixpeobssim-30.1.0.tar.gz"
       ]
     }
   },
@@ -105916,6 +106102,18 @@
       "wheels": {
         "pycpil-1.0.1-py3-none-any.whl": [
           "KuUCiHJdDaBbpMG7/csR26mpIJc/YU/3IawK7W+3Iis=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.2": {
+      "sdist": [
+        "qUiB2RlAcqVuycMcvqOUkAQRiZ320MToEMg/agSUGa0=",
+        "pycpil-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "pycpil-1.0.2-py3-none-any.whl": [
+          "glJQlEJd8ujXPdgrDqnuGrqLBfAFPju41Ig4zZIeKOo=",
           "py3"
         ]
       }

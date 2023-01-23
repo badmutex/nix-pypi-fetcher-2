@@ -21815,6 +21815,20 @@
       }
     }
   },
+  "coldwavebook": {
+    "1.0.0": {
+      "sdist": [
+        "QM3BkR4J59obK5Zr5jxIf+uuM5eNrNsskuNaQ5Qj2pI=",
+        "coldwavebook-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "coldwavebook-1.0.0-py3-none-any.whl": [
+          "dKZyc8KV6dDcKJ7+Tixy2kiJlTmYACyJStmy+DEQ2CA=",
+          "py3"
+        ]
+      }
+    }
+  },
   "collageradiomicscli": {
     "1.0.0": {
       "sdist": [
@@ -81863,6 +81877,42 @@
           "cp39"
         ]
       }
+    },
+    "1.33.0": {
+      "wheels": {
+        "nnabla_ext_cuda114-1.33.0-cp310-cp310-manylinux_2_17_x86_64.whl": [
+          "KnjVgnoBomzpqvtYhlmtWbr2TWd2aSuFH89e/tyEM2E=",
+          "cp310"
+        ],
+        "nnabla_ext_cuda114-1.33.0-cp310-cp310-win_amd64.whl": [
+          "MfCgoZxfSAE2FJczczSFRmuFN/AH77lIJLbxErk+wOk=",
+          "cp310"
+        ],
+        "nnabla_ext_cuda114-1.33.0-cp37-cp37m-manylinux_2_17_x86_64.whl": [
+          "tQGpvHrHUHofKusGQymVJT/N7Ns/pCnK+hnWzMBxC3s=",
+          "cp37"
+        ],
+        "nnabla_ext_cuda114-1.33.0-cp37-cp37m-win_amd64.whl": [
+          "f5euy7Zhwv+NoZf8vG3WwqRriPrBSzA36i+x26xkFX4=",
+          "cp37"
+        ],
+        "nnabla_ext_cuda114-1.33.0-cp38-cp38-manylinux_2_17_x86_64.whl": [
+          "h3Fn05ud2/mBbyHOTZHzBGLkkkxz5d8vmmTWTug4Ssc=",
+          "cp38"
+        ],
+        "nnabla_ext_cuda114-1.33.0-cp38-cp38-win_amd64.whl": [
+          "yWqmEBz+b6cM/ePvKuCySnQghmNgmWd29RBduv5gQHU=",
+          "cp38"
+        ],
+        "nnabla_ext_cuda114-1.33.0-cp39-cp39-manylinux_2_17_x86_64.whl": [
+          "uXy7E20FP5H2L3A3MgdNS7hpXj1IkxsdQB4FhpR0fzI=",
+          "cp39"
+        ],
+        "nnabla_ext_cuda114-1.33.0-cp39-cp39-win_amd64.whl": [
+          "tRcKYgmcf6bf5hJax6w1EnbHbWeh2JKL+ovZ7+GUYWo=",
+          "cp39"
+        ]
+      }
     }
   },
   "no-cache-dir": {
@@ -110874,6 +110924,12 @@
       "sdist": [
         "cqUWSjCxYIxdcGomMkbJBnQBLR9tTEs6Na3xfMIJP/0=",
         "quantizeml-0.2.0.tar.gz"
+      ]
+    },
+    "0.2.1": {
+      "sdist": [
+        "eb4SG5L/+sS7W56rGvG7W1NzqJGNaMpqkXI0QiXEHeI=",
+        "quantizeml-0.2.1.tar.gz"
       ]
     }
   },

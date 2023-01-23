@@ -3895,6 +3895,44 @@
       ]
     }
   },
+  "aoc-cli-python": {
+    "0.0.1": {
+      "sdist": [
+        "Rsk6G49MgLJpZZu6nA3Z4Wom0fBGSDlZFvTtAdaVtzk=",
+        "aoc-cli-python-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "aoc_cli_python-0.0.1-py3-none-any.whl": [
+          "KrQ9xfV7GjJaqERBy6R/LC7KEbeclIuYeuIEyHbn1n4=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "7ROCcC9BmiAR8kd4WrmoVgATk1twoxs14CLYhUarbZ8=",
+        "aoc-cli-python-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "aoc_cli_python-0.0.2-py3-none-any.whl": [
+          "/MJlXxmZ++6YryvF8RH/TWmIGf9Or7s0+SP+0rNwoxA=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "Pzc7fzYjSUVl/I+XDCqXd2BlGLQpwsmt5+I2AmCpHzA=",
+        "aoc-cli-python-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "aoc_cli_python-0.0.3-py3-none-any.whl": [
+          "fK/VQhkxvhLR2cdUy8PJZwj0Ozzx8nmQOAxBWTD4TRg=",
+          "py3"
+        ]
+      }
+    }
+  },
   "apache-airflow-backport-providers-amazon": {
     "2020.10.29": {
       "sdist": [
@@ -22627,6 +22665,12 @@
         "ZKpxB0oPOJLT4MmX3V/mRojqfU+uVlgEMatE6P8zcAI=",
         "converter_package-1.4.tar.gz"
       ]
+    },
+    "1.5": {
+      "sdist": [
+        "9od695l8j/oQUtGbBBK5m94RJWNwjQXN1Tum3z0Xg1M=",
+        "converter_package-1.5.tar.gz"
+      ]
     }
   },
   "convolution-overlap-add": {
@@ -40522,6 +40566,18 @@
       "wheels": {
         "flake8_docstring_checker-1.1-py3-none-any.whl": [
           "kxqftuc3jCJK3+roAaQRaBrTiUeTF0hk+jf9mFVs6TA=",
+          "py3"
+        ]
+      }
+    },
+    "1.2": {
+      "sdist": [
+        "p3udG+R59T6SkDZjEGli4TZ+k82uCtPggG8bLbSkIOU=",
+        "flake8-docstring-checker-1.2.tar.gz"
+      ],
+      "wheels": {
+        "flake8_docstring_checker-1.2-py3-none-any.whl": [
+          "rVJ9q/oJgYwMs86irpiu29kPYv2ofyGF7WeFDDoSDLE=",
           "py3"
         ]
       }
@@ -67098,6 +67154,18 @@
         ]
       }
     },
+    "3.27.0": {
+      "sdist": [
+        "RVC/77QzD5IXbE/DpAICrPpXtbX6H+SlAplGxwr5Qac=",
+        "metacat-3.27.0.tar.gz"
+      ],
+      "wheels": {
+        "metacat-3.27.0-py3-none-any.whl": [
+          "5BosG7esZIXZKMNtgU5c+lACcUQrsvn5VjWKCNTo68w=",
+          "py3"
+        ]
+      }
+    },
     "3.4.1": {
       "sdist": [
         "JZEwo6dXeLbB5EB+LQZU4eybWizo1T/xCQE71k1f0fE=",
@@ -82064,6 +82132,54 @@
       "wheels": {
         "NinjaTools-0.23.92-py3-none-any.whl": [
           "/iFJpwVJ9YXFcjSuWN3RhgUxMWWChNohlx0P0atYoj8=",
+          "py3"
+        ]
+      }
+    },
+    "0.24.0": {
+      "sdist": [
+        "eGn271d1gShMgjMGmNbMBKTdLeer1p+93Z3qPayr7pQ=",
+        "NinjaTools-0.24.0.tar.gz"
+      ],
+      "wheels": {
+        "NinjaTools-0.24.0-py3-none-any.whl": [
+          "W+TKinChZiKiSJDZFe0PRU395ix1xoxwZKGrYVgnFFs=",
+          "py3"
+        ]
+      }
+    },
+    "0.25.0": {
+      "sdist": [
+        "PQ7rtzVRDuU9WqN3Fdv3F90Uu76VEzTyYqZJpnZk6eU=",
+        "NinjaTools-0.25.0.tar.gz"
+      ],
+      "wheels": {
+        "NinjaTools-0.25.0-py3-none-any.whl": [
+          "cbRkKIr9nO4keXKVrN3qjFZeQnSQAtOday2U5IRT5k8=",
+          "py3"
+        ]
+      }
+    },
+    "0.26.0": {
+      "sdist": [
+        "kC2SIMRrYAwRm2hvmQNi3pxotLrtzeIXeuDByGjCdSY=",
+        "NinjaTools-0.26.0.tar.gz"
+      ],
+      "wheels": {
+        "NinjaTools-0.26.0-py3-none-any.whl": [
+          "miseoEM7TU8IY+nFNCXD2r5fZW0TW2zXuV4yzsuK9x8=",
+          "py3"
+        ]
+      }
+    },
+    "0.27.0": {
+      "sdist": [
+        "g52ZaFgh86d5KCravp+z2wH/HYxCgcLu79BnJn3ZqK0=",
+        "NinjaTools-0.27.0.tar.gz"
+      ],
+      "wheels": {
+        "NinjaTools-0.27.0-py3-none-any.whl": [
+          "A65Mj+dUbnmfbReGWM/PuIov6kcrXmGBP40Pvke2KRE=",
           "py3"
         ]
       }

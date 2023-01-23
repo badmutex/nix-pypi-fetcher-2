@@ -5602,6 +5602,18 @@
         ]
       }
     },
+    "0.3.10": {
+      "sdist": [
+        "zeukBBR38OCHcf3AkKGJoqTcmVhs6yS3KE/VId5OeJ4=",
+        "automationkit-0.3.10.tar.gz"
+      ],
+      "wheels": {
+        "automationkit-0.3.10-py3-none-any.whl": [
+          "UQHW6qjBCO/pYXqp76/SILNBZ0Ee5oF18EY1cmFYug4=",
+          "py3"
+        ]
+      }
+    },
     "0.3.4": {
       "sdist": [
         "9dWt+ZxSjpQntuNaQR7S4ft7xieh6rtFr6/EXrc0y1Y=",
@@ -43997,6 +44009,18 @@
           "py2.py3"
         ]
       }
+    },
+    "0.5.1": {
+      "sdist": [
+        "TZ0RdKtcDZhL0GyMy9C1umF04mhJcAJD/gpsmgqeJy0=",
+        "google-cloud-gke-multicloud-0.5.1.tar.gz"
+      ],
+      "wheels": {
+        "google_cloud_gke_multicloud-0.5.1-py2.py3-none-any.whl": [
+          "mS84s0KOWmwo8ymFYnAmfc7qCdjR2JR9kFOlRyKeTv0=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "google-gax": {
@@ -68258,6 +68282,14 @@
       "wheels": {
         "nnabla_converter-1.32.1-py3-none-any.whl": [
           "w9K3WtQly1EZOfQRKk2+0CRP3ZhBUXYcG5+MEnKNOM8=",
+          "py3"
+        ]
+      }
+    },
+    "1.33.0": {
+      "wheels": {
+        "nnabla_converter-1.33.0-py3-none-any.whl": [
+          "i9I6BRVqlkYNRykLLtr7AwTKV2w2mmJ5SEpijX1kikc=",
           "py3"
         ]
       }
@@ -92900,6 +92932,18 @@
       "sdist": [
         "EkegIvLITZ31Dmk4ThQe/gGPkJmtf2FZZoHmjyg5b9w=",
         "pulumi_aws-5.27.0a1673039490.tar.gz"
+      ]
+    },
+    "5.28.0": {
+      "sdist": [
+        "7nkg+Dik1p2+VPCFeBZnam1Y1l1i4jiZXn8iXb7IzxM=",
+        "pulumi_aws-5.28.0.tar.gz"
+      ]
+    },
+    "5.28.0a1674464044": {
+      "sdist": [
+        "78AuS4qm1kuxiKDHafWQvlWIQ2IPho0qhgDw3a2e4ks=",
+        "pulumi_aws-5.28.0a1674464044.tar.gz"
       ]
     },
     "5.3.0": {
@@ -134367,6 +134411,32 @@
         "1AWgr0yGio2+rm0D4pfiHH7mJp4R4u04EOFVRKugJZE=",
         "telegram-0.0.1.tar.gz"
       ]
+    }
+  },
+  "temprary-cloud-governance": {
+    "1.1.64": {
+      "sdist": [
+        "hipNbIUoHn3daIUhuxDMH9mwuU9t229iuprkVmAtoTI=",
+        "temprary-cloud-governance-1.1.64.tar.gz"
+      ],
+      "wheels": {
+        "temprary_cloud_governance-1.1.64-py3-none-any.whl": [
+          "7FWefDZqUdezDsVZl4NOMSKp1ekXFjS4Gdb8WxeFBpk=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.65": {
+      "sdist": [
+        "CKSRnA300L6UVYNUrhZXr+QFQi8e01JbdIY1Srhrez0=",
+        "temprary-cloud-governance-1.1.65.tar.gz"
+      ],
+      "wheels": {
+        "temprary_cloud_governance-1.1.65-py3-none-any.whl": [
+          "kEr/4njGhQJPh40QpJEtkBIGZ+w/b/GbXgTEZxBfEjI=",
+          "py3"
+        ]
+      }
     }
   },
   "tensorgraph": {

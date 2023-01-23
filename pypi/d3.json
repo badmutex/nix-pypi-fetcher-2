@@ -29150,6 +29150,18 @@
         ]
       }
     },
+    "0.3.109": {
+      "sdist": [
+        "+QS0eEyfKpaTp5cMc6nNUMjY25HvYh8CTq+TtFocr2k=",
+        "cortex-data-product-sdk-0.3.109.tar.gz"
+      ],
+      "wheels": {
+        "cortex_data_product_sdk-0.3.109-py3-none-any.whl": [
+          "MJGVNSHxVCDvtp0z0DmAPIw9MbQmjTNLGOnT747Vwgs=",
+          "py3"
+        ]
+      }
+    },
     "0.3.11": {
       "sdist": [
         "BLg5gdefJ1LX4zPXbyDkIPGv/WntZ6RaJ0Nhtr4AUuM=",
@@ -31144,6 +31156,18 @@
       "wheels": {
         "crx_hslayers-2.1.1-py3-none-any.whl": [
           "UrRTlNuMxCffQvZfAF5jSVU6qpiviFe9XBwvCSwfiCw=",
+          "py3"
+        ]
+      }
+    },
+    "2.1.2": {
+      "sdist": [
+        "o6qKvrStQy3Ym4pm8vLDrHnO7IbVFOb9OCss33AlBmk=",
+        "crx_hslayers-2.1.2.tar.gz"
+      ],
+      "wheels": {
+        "crx_hslayers-2.1.2-py3-none-any.whl": [
+          "ozjBeQnlnmFcK+j/XiqIooJ9gz7jC3vBKoWDkwYF92w=",
           "py3"
         ]
       }
@@ -59535,6 +59559,14 @@
           "py3"
         ]
       }
+    },
+    "2.2.0": {
+      "wheels": {
+        "gcip-2.2.0-py3-none-any.whl": [
+          "+WkJmFqiD0sWDuwhDJdV2AhiPcT9/hod4JEM9b/hTLE=",
+          "py3"
+        ]
+      }
     }
   },
   "gdrivecli": {
@@ -60781,6 +60813,12 @@
         "YiGowGke+10wlU0bF/Xw0TdSPEp3LMQZXJ3fMZLSj30=",
         "goldpirate-1.5.4.tar.gz"
       ]
+    },
+    "1.5.5": {
+      "sdist": [
+        "1AWwhjR6vI7dctY/DW6jeB7x/0sOLNsb7qm2d7vfrX4=",
+        "goldpirate-1.5.5.tar.gz"
+      ]
     }
   },
   "google-cloud-beyondcorp-appconnectors": {
@@ -60864,6 +60902,18 @@
       "wheels": {
         "google_cloud_beyondcorp_appconnectors-0.4.0-py2.py3-none-any.whl": [
           "rjF/QQBTTw89CaP+9AuHxU8sAWcHoEEKjYV+6Y+euhA=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.4.1": {
+      "sdist": [
+        "MUd7NZAWt73PqRWWcHNmygEv+THFuSK4Lf6NJ4cBtQY=",
+        "google-cloud-beyondcorp-appconnectors-0.4.1.tar.gz"
+      ],
+      "wheels": {
+        "google_cloud_beyondcorp_appconnectors-0.4.1-py2.py3-none-any.whl": [
+          "cQyKqcmfBcWlnrsH8x/8ROJ2eacRTWMEhChlC5j39b8=",
           "py2.py3"
         ]
       }
@@ -64328,6 +64378,18 @@
       "wheels": {
         "humlab_westac-0.5.33-py3-none-any.whl": [
           "v37J0om5rABLm46lJW/rnGxwkAKW2do8F/HMYkLlpMc=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.34": {
+      "sdist": [
+        "266EN8ogyiFMJGcesDgUtrBzCIc7xfyIxGvqutLXuQA=",
+        "humlab_westac-0.5.34.tar.gz"
+      ],
+      "wheels": {
+        "humlab_westac-0.5.34-py3-none-any.whl": [
+          "+qaPZiuWCBxAi6pqHkrvZNxcRR1jFkBlOaYOGmsojcg=",
           "py3"
         ]
       }
@@ -92742,6 +92804,18 @@
       "wheels": {
         "natasha-1.4.0-py3-none-any.whl": [
           "6ZaYZasYabRKZeJlTtNrSUB9W3KFqTciewXNrOHRP3w=",
+          "py3"
+        ]
+      }
+    },
+    "1.5.0": {
+      "sdist": [
+        "Z6/bPwb9bIe/7pDGkGruGf5m8UAzzYiP8eHKNpDQeKc=",
+        "natasha-1.5.0.tar.gz"
+      ],
+      "wheels": {
+        "natasha-1.5.0-py3-none-any.whl": [
+          "ak9I0Gx0wA7HMQrI9SG5E9ATV/i4xvBvjd6i0x5olBs=",
           "py3"
         ]
       }
@@ -126085,6 +126159,18 @@
           "py2.py3"
         ]
       }
+    },
+    "1.4.1": {
+      "sdist": [
+        "EK1LKYw9XI8wU/KWRfYBpwcud7WXk93xSTso+tr+188=",
+        "roslibpy-1.4.1.tar.gz"
+      ],
+      "wheels": {
+        "roslibpy-1.4.1-py2.py3-none-any.whl": [
+          "6JwwjrmVIuVZzSEfMA8Qe/RTVhxujOGR/986HMZf/jc=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "rpiserial": {
@@ -136446,6 +136532,20 @@
       "wheels": {
         "statuscake_py-1.0.1b1-py3-none-any.whl": [
           "ZmOdlhdT0xeIP9fOpnUDwJcEq2rvLn8eteBCLCOcFA8=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "steampy-fixed": {
+    "2.2": {
+      "sdist": [
+        "CD36L3qa9/DSMILcqrTCqnNTZ8JyUL2dHwp06CMjEwA=",
+        "steampy-fixed-2.2.tar.gz"
+      ],
+      "wheels": {
+        "steampy_fixed-2.2-py3-none-any.whl": [
+          "TdncG5cTqHWwdmvWhzA5psGSBiAL8psw1mYTq4voB+Y=",
           "py3"
         ]
       }

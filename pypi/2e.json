@@ -10683,6 +10683,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.55": {
+      "sdist": [
+        "hOz6CEunPYQf5/6PDE+OeRfhIBllQlW1//sueO/GezQ=",
+        "botocore-a-la-carte-amplifyuibuilder-1.29.55.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_amplifyuibuilder-1.29.55-py3-none-any.whl": [
+          "H87W8KEf0SQY94Qs0y1zCGhLq+7ar9mPcXPbnMoJq04=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-rekognition": {
@@ -10838,6 +10850,18 @@
       "wheels": {
         "botocore_a_la_carte_rekognition-1.29.54-py3-none-any.whl": [
           "TkcrF5dGvQ82hVLLDjZ0fly147A/OeKocptkFOiZJyk=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.55": {
+      "sdist": [
+        "r93dGu1NX+com0H9u7tHTneE3YbyoeYOBknyPnXS6zk=",
+        "botocore-a-la-carte-rekognition-1.29.55.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_rekognition-1.29.55-py3-none-any.whl": [
+          "Wv0OC5I35Evigt344SHyrUH1yGGOzYHHhKtZ+es4AVc=",
           "py3"
         ]
       }
@@ -15916,6 +15940,18 @@
       "wheels": {
         "cdktf_github_actions-0.0.7-py3-none-any.whl": [
           "3RXYbQ3MUaq7ikT1v+DuiiUvC59upGbMa9LRc4rGHKo=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.8": {
+      "sdist": [
+        "S848KexDNHG/ZPrxi5Bs9+X34E1mFRK56GzTNqDm6eQ=",
+        "cdktf-github-actions-0.0.8.tar.gz"
+      ],
+      "wheels": {
+        "cdktf_github_actions-0.0.8-py3-none-any.whl": [
+          "9D6Ter+anrlmRgyKmOKag3xr3GaOT3M8JAp4FH+x5qw=",
           "py3"
         ]
       }
@@ -22130,6 +22166,18 @@
       "wheels": {
         "cooler-0.9.0-py2.py3-none-any.whl": [
           "aN5fZw4E9nJfrL0Krg2RYeeo3ejg/WJKkB4LHWcufWs=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.9.1": {
+      "sdist": [
+        "4p7lR5fHHF469SB3LjLWZOf9CTGPFcMYd33WISWxVzE=",
+        "cooler-0.9.1.tar.gz"
+      ],
+      "wheels": {
+        "cooler-0.9.1-py2.py3-none-any.whl": [
+          "Y0HSpn/uZrssTuwP6gSc7f4WxSA3N+H41d/ag3l7nJ0=",
           "py2.py3"
         ]
       }
@@ -38673,6 +38721,38 @@
           "cp39"
         ]
       }
+    },
+    "1.5.6": {
+      "sdist": [
+        "Qpjw9bBVgq+I7vEeyHNgOCuUZEPnG1gF+WHSv6Xb9VQ=",
+        "EvoMSA-1.5.6.tar.gz"
+      ],
+      "wheels": {
+        "EvoMSA-1.5.6-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "He/ExGYRIrIfCg5dLsVo6LBuKI9HN8/sjPXTmxtsjjE=",
+          "cp37"
+        ],
+        "EvoMSA-1.5.6-cp37-cp37m-win_amd64.whl": [
+          "pU0Fu/KL/BTud/sEFceBzRqNKAfmfTUxzxbGpAlSOro=",
+          "cp37"
+        ],
+        "EvoMSA-1.5.6-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "I1/x5vP1hXmqXYc/GDYJz1uQf0o/eTrQ622ceTR0nis=",
+          "cp38"
+        ],
+        "EvoMSA-1.5.6-cp38-cp38-win_amd64.whl": [
+          "aCN3kVXzx1Ne78ZBeZUBFKNbwA7TzxzRCngAIVKrWzc=",
+          "cp38"
+        ],
+        "EvoMSA-1.5.6-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "BrOp+oDnMTyv+axpy6ffWbrkRMnsKxTsPDlP6CzVlHQ=",
+          "cp39"
+        ],
+        "EvoMSA-1.5.6-cp39-cp39-win_amd64.whl": [
+          "XerGiy9Cxzu69lNbLgxjghDPu+UROy2VJKa01wTksFc=",
+          "cp39"
+        ]
+      }
     }
   },
   "example-pkg-liudongbo": {
@@ -51621,6 +51701,14 @@
         "Ubkz4bRjlEzcpVjp9bKGT93D1tliaRKGYcWufsSNwkE=",
         "hdx-python-scraper-2.1.0.tar.gz"
       ]
+    },
+    "2.1.1": {
+      "wheels": {
+        "hdx_python_scraper-2.1.1-py2.py3-none-any.whl": [
+          "QF5cB4pGuEJlX2ZJRnC3XTPIU4pOe/MjCIinpF3VVT8=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "hearhourmail": {
@@ -69644,6 +69732,24 @@
       "sdist": [
         "c0oH2tjj0lB7KOKGc/J4iu8pQb3LcNtxCDCAyD4Ui8s=",
         "meteomoris-2.3.3.tar.gz"
+      ]
+    },
+    "2.4.0": {
+      "sdist": [
+        "nagyehdcuqDW7s9kp9hgtyeuUYo7CymjmI/lkxXS11E=",
+        "meteomoris-2.4.0.tar.gz"
+      ]
+    },
+    "2.4.1": {
+      "sdist": [
+        "lqYXHIpg5ztPgXlj/0xOEe2RGXJThY2C9SZpfZCtX9I=",
+        "meteomoris-2.4.1.tar.gz"
+      ]
+    },
+    "2.4.2": {
+      "sdist": [
+        "zXpJ0sDtyGBqZFtWMu73x7B5uHvzvR+qDk/EqBp9Mr4=",
+        "meteomoris-2.4.2.tar.gz"
       ]
     }
   },

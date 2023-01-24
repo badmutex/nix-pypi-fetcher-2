@@ -12353,6 +12353,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.55": {
+      "sdist": [
+        "R1OhMiwaMW+sCEwUElMv5zvT7PBfDXZZucicMG/Yp/w=",
+        "botocore-a-la-carte-codestar-notifications-1.29.55.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_codestar_notifications-1.29.55-py3-none-any.whl": [
+          "jOE6F4Qf5LmSWdNLtvtsg3/m9YZw3fLiDmDlDtAaUpo=",
+          "py3"
+        ]
+      }
     }
   },
   "botol4": {
@@ -19578,6 +19590,18 @@
       "wheels": {
         "cdk_tweet_queue-2.0.218-py3-none-any.whl": [
           "9NMk06SSV7XHNK11GA+TUqhjYjJ9PV7cMeMC2ZzOZqA=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.219": {
+      "sdist": [
+        "hJ54OLcX6ENIT5Er/xf7jmyZPqtdsWejZYFYc2FRSSs=",
+        "cdk-tweet-queue-2.0.219.tar.gz"
+      ],
+      "wheels": {
+        "cdk_tweet_queue-2.0.219-py3-none-any.whl": [
+          "9QM5kIL3/LKT7qr+eif58/UtJNdqQk1x+T8GVwYCBrA=",
           "py3"
         ]
       }
@@ -49976,6 +50000,50 @@
         ]
       }
     },
+    "0.19.0a20230123": {
+      "wheels": {
+        "graphscope_client-0.19.0a20230123-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "oUCBSENQsYl0XGUhPm5KaSa5aN0KBVr03CCPWV5rKc8=",
+          "cp310"
+        ],
+        "graphscope_client-0.19.0a20230123-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "xh7T9sVX8YpmNoILEJY9txDppw+1DY22GVALq29Z3Zw=",
+          "cp310"
+        ],
+        "graphscope_client-0.19.0a20230123-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "fay/3svkQ4nzEVbdpp/FwqfOOkSSGgVtUY8Wv9e/Dec=",
+          "cp311"
+        ],
+        "graphscope_client-0.19.0a20230123-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "9+b031tL0ED90Xym9HzeWt4TKYYYAIgvFyStXf75Ioc=",
+          "cp311"
+        ],
+        "graphscope_client-0.19.0a20230123-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "Kr7PcgJtB7PMNZnbZ40wVvJmoGq1c1Mzu/+73G5Bt4c=",
+          "cp37"
+        ],
+        "graphscope_client-0.19.0a20230123-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "qu8ampdMnfxvuX608E8rATerFyyV11PxsTibVfVPlUU=",
+          "cp37"
+        ],
+        "graphscope_client-0.19.0a20230123-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "5CgjcXmUIXCqRyDJBlZTspaYY6LCQ+cr4xaJsolgdq4=",
+          "cp38"
+        ],
+        "graphscope_client-0.19.0a20230123-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "gyT+tB1BFLjPfszDoDg1kneMI1ClsRfqdDwG8xzX9CU=",
+          "cp38"
+        ],
+        "graphscope_client-0.19.0a20230123-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "kSjjZo2GznWQhF7v/RDzzSPkpRLIfZp8g1mkKFlY3C4=",
+          "cp39"
+        ],
+        "graphscope_client-0.19.0a20230123-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "c+hqh2uPVthDCIHOeFSQtGVDMF5w1FlbTesVw/c4Cgs=",
+          "cp39"
+        ]
+      }
+    },
     "0.8.0": {
       "wheels": {
         "graphscope_client-0.8.0-2-cp36-cp36m-macosx_10_9_x86_64.whl": [
@@ -64768,6 +64836,18 @@
         ]
       }
     },
+    "1.19.3": {
+      "sdist": [
+        "V7Td7YBBzpMlAUHZEFVmeckLrWADSIM+LW6VdW3IMKw=",
+        "large-image-source-dicom-1.19.3.tar.gz"
+      ],
+      "wheels": {
+        "large_image_source_dicom-1.19.3-py3-none-any.whl": [
+          "OIGrBU9PNIHOOFRpD4CSprIN8hpenT5h6b2p7VHbUI0=",
+          "py3"
+        ]
+      }
+    },
     "1.19.3.dev2": {
       "sdist": [
         "SfTgrUz/mlWoPzt1/K86Ybw3jV9toHHDo246TduIeic=",
@@ -64788,6 +64868,30 @@
       "wheels": {
         "large_image_source_dicom-1.19.3.dev4-py3-none-any.whl": [
           "bGbWioXA0caqI3YpuDWKXXQjcdCRt1MtxMbt40fgWt4=",
+          "py3"
+        ]
+      }
+    },
+    "1.19.3.dev6": {
+      "sdist": [
+        "whoo19XF6iajFYREG6X6En2ax/etKSxIg8syzO8Rb28=",
+        "large-image-source-dicom-1.19.3.dev6.tar.gz"
+      ],
+      "wheels": {
+        "large_image_source_dicom-1.19.3.dev6-py3-none-any.whl": [
+          "RoQn3dHyqK4prD9q1dXGH86ZPr7pVVlwOlYRCMySeOk=",
+          "py3"
+        ]
+      }
+    },
+    "1.19.3.dev8": {
+      "sdist": [
+        "dsyEZqY/63KUCS5tnIMPVlnM6cLWMA2TUuF4r8Z2Jmo=",
+        "large-image-source-dicom-1.19.3.dev8.tar.gz"
+      ],
+      "wheels": {
+        "large_image_source_dicom-1.19.3.dev8-py3-none-any.whl": [
+          "9rcP3E/3e/UHcGh2AjBi8KegM1u8wwdTihHF7d2zWeI=",
           "py3"
         ]
       }
@@ -119977,6 +120081,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.5": {
+      "sdist": [
+        "fvP0Wp4JfVQUSiI6N8vyDZu1zUOmiskIzzQEnYsqA4s=",
+        "smoloki-0.0.5.tar.gz"
+      ],
+      "wheels": {
+        "smoloki-0.0.5-py3-none-any.whl": [
+          "rFZz8KAlng2Fp9wDjG6d14c58OHF9sNvJkYu0udOOqI=",
+          "py3"
+        ]
+      }
     }
   },
   "sms4": {
@@ -121841,6 +121957,18 @@
           "py3"
         ]
       }
+    },
+    "0.9.2": {
+      "sdist": [
+        "vGy78W64mG4UgsXX5zVSdwEiD9XpWGWtZjVP4lfssZc=",
+        "splitAxes-0.9.2.tar.gz"
+      ],
+      "wheels": {
+        "splitAxes-0.9.2-py3-none-any.whl": [
+          "P4SAqCxshlSAT/cCPivB+fiUUHwoGHT8GlnL+Nll+KQ=",
+          "py3"
+        ]
+      }
     }
   },
   "spotipie": {
@@ -123649,6 +123777,14 @@
           "py2.py3"
         ]
       }
+    },
+    "5.0.0.dev752": {
+      "wheels": {
+        "stix_shifter_modules_crowdstrike-5.0.0.dev752-py2.py3-none-any.whl": [
+          "BrCtZiNHaI+lJHaxVw2oL2scEgc437qvlu953q3/gC8=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "stix-shifter-modules-reversinglabs": {
@@ -124040,6 +124176,14 @@
       "wheels": {
         "stix_shifter_modules_reversinglabs-5.0.0.dev751-py2.py3-none-any.whl": [
           "vMtbCNpsRkXyAeXFzfCR7PsJP4r0zpsYk8+smPVm5Ks=",
+          "py2.py3"
+        ]
+      }
+    },
+    "5.0.0.dev752": {
+      "wheels": {
+        "stix_shifter_modules_reversinglabs-5.0.0.dev752-py2.py3-none-any.whl": [
+          "v6md7mQ4YCf1XvDBNG1isT6EHlj/R+4hYjIBeVCe6IQ=",
           "py2.py3"
         ]
       }
@@ -151406,6 +151550,18 @@
       "wheels": {
         "ugrc_palletjack-2.7.2-py3-none-any.whl": [
           "ReVnIh0OXWVx/XUQEPjq/7hyaMvrJsn09JRkmiBGtSw=",
+          "py3"
+        ]
+      }
+    },
+    "2.7.3": {
+      "sdist": [
+        "MFA9fUN86q/T0qkMSGqWm06kuJuPUs8dbLXcXnEkomE=",
+        "ugrc-palletjack-2.7.3.tar.gz"
+      ],
+      "wheels": {
+        "ugrc_palletjack-2.7.3-py3-none-any.whl": [
+          "VgEHYIqSCkXb7hiItwkdA4OvwQ3DgkomG/nOtEWU11w=",
           "py3"
         ]
       }

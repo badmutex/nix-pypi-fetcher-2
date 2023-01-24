@@ -16347,6 +16347,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.55": {
+      "sdist": [
+        "kbGSMqKSSI9IE3iCYyTf4zib9uV9BJJHMpApd1W+q0U=",
+        "botocore-a-la-carte-lexv2-runtime-1.29.55.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_lexv2_runtime-1.29.55-py3-none-any.whl": [
+          "6/ZBRYUXeOiCE8zZh/P3uC0T2tuLYJBcEqsmN6GM5Fo=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-refreshable-credentials": {
@@ -47902,6 +47914,12 @@
       "sdist": [
         "dVlHeApcXoK6K8Y/hWI0tKeNKnLAe557YZLjfvMq7D4=",
         "GridCal-4.6.3.tar.gz"
+      ]
+    },
+    "4.6.4": {
+      "sdist": [
+        "GYrWFb5by33SPUW0HvaOSPbgsvQFmUJB+1tk2lr5al8=",
+        "GridCal-4.6.4.tar.gz"
       ]
     }
   },
@@ -92563,6 +92581,44 @@
       }
     }
   },
+  "promptcap": {
+    "1.0.1": {
+      "sdist": [
+        "fTmYYTZ+uhhfC7K20eoS8cSrgunjCC34lsMHwfI7+aY=",
+        "promptcap-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "promptcap-1.0.1-py3-none-any.whl": [
+          "lHWXdYmdiU3EYcrbif8A820r9rZu7DqZfRzF7L8tgNc=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.2": {
+      "sdist": [
+        "ipSEPYIaQYPbQf5mpxBJZ4Id+Qp5TfVTpSD9P/eUe4s=",
+        "promptcap-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "promptcap-1.0.2-py3-none-any.whl": [
+          "w3qUHAnIrTemyS6SBDy6P2g8eVCrQycpHEKvL1cyu08=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.3": {
+      "sdist": [
+        "/NmvCZRDj3oTR29PT/5oeoyyY7Ybxp8l+2f+0EfpHC4=",
+        "promptcap-1.0.3.tar.gz"
+      ],
+      "wheels": {
+        "promptcap-1.0.3-py3-none-any.whl": [
+          "BhlDiXQj1jBPKv8GlVrXW6Cb4LDYqMwgoK7nFox6wEc=",
+          "py3"
+        ]
+      }
+    }
+  },
   "propose": {
     "0.1.0a0": {
       "sdist": [
@@ -107575,6 +107631,18 @@
         "rabbitmq_consume-0.7.3-py2.py3-none-any.whl": [
           "+T1RwyRZpc64UJ+up7Mra1n9SnLzG91s3zuyjfgjrJU=",
           "py2.py3"
+        ]
+      }
+    },
+    "1.0.0.dev6": {
+      "sdist": [
+        "1NQT/NyOjTbEV/KeR1mQOlj0Cwk3zXppIVXuzAUitzg=",
+        "rabbitmq_consume-1.0.0.dev6.tar.gz"
+      ],
+      "wheels": {
+        "rabbitmq_consume-1.0.0.dev6-py3-none-any.whl": [
+          "5kgL31R23hG1Dp3tPuJtbMzosNhD+ZsvUAAwSr2TnZY=",
+          "py3"
         ]
       }
     }
@@ -126107,6 +126175,18 @@
           "py3"
         ]
       }
+    },
+    "0.3.0": {
+      "sdist": [
+        "y+Rfm/+2ilErtVGdB3cY89TaAcVqbcRKfJuVaWKbkTk=",
+        "syntaxedit-0.3.0.tar.gz"
+      ],
+      "wheels": {
+        "syntaxedit-0.3.0-py3-none-any.whl": [
+          "tJVk8JF6s/PBl31fFZwDmu7/hbueQz1vMGB/QIFj5XM=",
+          "py3"
+        ]
+      }
     }
   },
   "sysl": {
@@ -136548,6 +136628,56 @@
       "wheels": {
         "test2_pass_admin_Smarv-0.0.1-py3-none-any.whl": [
           "MA62MEb/kPd2xWB3gjs+JWxxVZ79LSGVqD3USvIe9vc=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "testcsg": {
+    "0.1.2": {
+      "sdist": [
+        "ECdsR2Vi6nubgjaOmnChU1y/uMwXmkgrsFzo8EsEy3o=",
+        "testcsg-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "testcsg-0.1.2-py3-none-any.whl": [
+          "JVKfTTAqRjMb1Iv2fFNqIVmfnpwtUKgaYbTTYFFrAwA=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.3": {
+      "sdist": [
+        "djBtoJxWjk1GeYSPB9Ebk2wJbqDwhpagHr0FuW4Ilvg=",
+        "testcsg-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "testcsg-0.1.3-py3-none-any.whl": [
+          "+2swrnlOTrheDZn6adjM+d3nyCZ/CCPQNzSEx4dPdss=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.4": {
+      "sdist": [
+        "gcV7Z6bmk/mVDyB8nCNMyVNOLLFh5BQJTdHlcmzcc78=",
+        "testcsg-0.1.4.tar.gz"
+      ],
+      "wheels": {
+        "testcsg-0.1.4-py3-none-any.whl": [
+          "nuWjqmB4cRMsVE/akNbYMxaoa90hcdNEJ/uqOXhoCDw=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.5": {
+      "sdist": [
+        "blarxflz4sz5vpvbXiRDRknDTOVS0deDA612dNpA6Zs=",
+        "testcsg-0.1.5.tar.gz"
+      ],
+      "wheels": {
+        "testcsg-0.1.5-py3-none-any.whl": [
+          "eofV3tfiC0X0UGpD7C8IMVTklH0kDZmx2aHD4ZNNHMk=",
           "py3"
         ]
       }

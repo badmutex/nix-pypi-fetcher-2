@@ -13461,6 +13461,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.55": {
+      "sdist": [
+        "qGV+6gvdFvUDYrLBY3x6nNTnflY6EJ0PL7QW/bJlS0s=",
+        "botocore-a-la-carte-lexv2-models-1.29.55.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_lexv2_models-1.29.55-py3-none-any.whl": [
+          "NK1//kNXXqrv6ectJp5dfw75Q/K0vvegPQNjU0W5SoM=",
+          "py3"
+        ]
+      }
     }
   },
   "botterino": {
@@ -14732,6 +14744,18 @@
       "wheels": {
         "camino-1.5.0-py3-none-any.whl": [
           "zS76SX4cEqAUCNM/IEgxcxrGzATaOVi2TET5Ru8PcBg=",
+          "py3"
+        ]
+      }
+    },
+    "1.5.1": {
+      "sdist": [
+        "oH/QLfypLb/HhA+5VE5STMvRbsA0nucTB9qo8Xo9u/s=",
+        "camino-1.5.1.tar.gz"
+      ],
+      "wheels": {
+        "camino-1.5.1-py3-none-any.whl": [
+          "czgukuHfDO2UcUll2NIwwIuZOqnCRXM+vSf8IkjCLCA=",
           "py3"
         ]
       }
@@ -26738,86 +26762,26 @@
     }
   },
   "django-oasis4-auth": {
-    "1.0.0a3": {
+    "1.0.0": {
       "sdist": [
-        "PXsB7EFszZL6uSd0DIRNqfFmeqHWw2LC+1Hifdhom8Q=",
-        "django-oasis4-auth-1.0.0a3.tar.gz"
+        "MAmuXVjGNR72qThC6gUiUR6rMHp9lcko+W2cSIMzaoY=",
+        "django-oasis4-auth-1.0.0.tar.gz"
       ],
       "wheels": {
-        "django_oasis4_auth-1.0.0a3-py3-none-any.whl": [
-          "jEZIqf3n7zw//gmPyFTtkZcMU54KFdoaxPs6eV0C7n0=",
+        "django_oasis4_auth-1.0.0-py3-none-any.whl": [
+          "5Nac6USdKmZO0TaAH3unXU1jYNqLjnRenNMNQQIMTXQ=",
           "py3"
         ]
       }
     },
-    "1.0.0a4": {
+    "1.0.1": {
       "sdist": [
-        "9ZSBTyH60iQSLVoxicSxTtn+sDLoV7ZOvDS+WHBHPe0=",
-        "django-oasis4-auth-1.0.0a4.tar.gz"
+        "oge7BnyTyKp4TCmFKy1RLBOhZn8mkly+R1tj0meTUNo=",
+        "django-oasis4-auth-1.0.1.tar.gz"
       ],
       "wheels": {
-        "django_oasis4_auth-1.0.0a4-py3-none-any.whl": [
-          "iH4BufJDpSXxq0RfUpDpX+p7PE0T5vfKpaXG28lugXU=",
-          "py3"
-        ]
-      }
-    },
-    "1.0.0a5": {
-      "sdist": [
-        "KhXjxffIART+ChN/EwtblEBIbaloqK3QxC945GXOorA=",
-        "django-oasis4-auth-1.0.0a5.tar.gz"
-      ],
-      "wheels": {
-        "django_oasis4_auth-1.0.0a5-py3-none-any.whl": [
-          "2fyGqPGfqLG8j16k1lmqyx6D49F9XxebPLulf40LRHE=",
-          "py3"
-        ]
-      }
-    },
-    "1.0.0a6": {
-      "sdist": [
-        "qEKZsKycYpjMNUCGpPt0CLZgV5pQccohZ2gMbLsLbS0=",
-        "django-oasis4-auth-1.0.0a6.tar.gz"
-      ],
-      "wheels": {
-        "django_oasis4_auth-1.0.0a6-py3-none-any.whl": [
-          "7knEp9WIV0FEkZl0Y2w2Vl2fjJ7HTdSr4YoPMGe+zSQ=",
-          "py3"
-        ]
-      }
-    },
-    "1.0.0a7": {
-      "sdist": [
-        "cAw7SnmHcuZ84ov17d3D/G7gBXc9lX2zAEPUH9GiyJ8=",
-        "django-oasis4-auth-1.0.0a7.tar.gz"
-      ],
-      "wheels": {
-        "django_oasis4_auth-1.0.0a7-py3-none-any.whl": [
-          "X1HTsU7GnGCHY5++mH6dB3ifrv8FCxtvrT/KJp672Hc=",
-          "py3"
-        ]
-      }
-    },
-    "1.0.0a8": {
-      "sdist": [
-        "lD0Obv0DqXDnwtRocXa7vD5Usrpk9aw4fZ5ON2DlqBw=",
-        "django-oasis4-auth-1.0.0a8.tar.gz"
-      ],
-      "wheels": {
-        "django_oasis4_auth-1.0.0a8-py3-none-any.whl": [
-          "IlemyJx9dbFlXoIe7ElNfdcHXL9749eCQwMrm9oJVPw=",
-          "py3"
-        ]
-      }
-    },
-    "1.0.0b1": {
-      "sdist": [
-        "G0JGUK891dTTTy+bw5G4xEc/5l/S9ezqY8+//cv4RSM=",
-        "django-oasis4-auth-1.0.0b1.tar.gz"
-      ],
-      "wheels": {
-        "django_oasis4_auth-1.0.0b1-py3-none-any.whl": [
-          "mqChn68+8oM3aA+D6AdhJxHMLPAxqK3u1+89dkViVgI=",
+        "django_oasis4_auth-1.0.1-py3-none-any.whl": [
+          "jnHcrPDi9XlqpCJ0pPnejT2Ro9tFPThv9N1SMPPLc8U=",
           "py3"
         ]
       }
@@ -66170,6 +66134,18 @@
         ]
       }
     },
+    "1.19.3": {
+      "sdist": [
+        "pEvB7OhAHC3oa8S7YbKVSBOrTWVZpuDi3/7qFGjRzqQ=",
+        "large-image-source-openjpeg-1.19.3.tar.gz"
+      ],
+      "wheels": {
+        "large_image_source_openjpeg-1.19.3-py3-none-any.whl": [
+          "7dgaG3hV0e5y1aOQ9iLAtVlKBHZNQztgXI1HY25YHI0=",
+          "py3"
+        ]
+      }
+    },
     "1.19.3.dev2": {
       "sdist": [
         "NM19OI3x11t56Rss2iBu1JPIbChdS6sgRZlwVfhEAwg=",
@@ -66190,6 +66166,30 @@
       "wheels": {
         "large_image_source_openjpeg-1.19.3.dev4-py3-none-any.whl": [
           "D3Sq7gfvxGsoNeLLFY2kXM/U9col0G9KjThBrpIfRCY=",
+          "py3"
+        ]
+      }
+    },
+    "1.19.3.dev6": {
+      "sdist": [
+        "8Lcwt4HT05kFaBXOpXWc5JQRmt4YAwwKsuE58VdEyUk=",
+        "large-image-source-openjpeg-1.19.3.dev6.tar.gz"
+      ],
+      "wheels": {
+        "large_image_source_openjpeg-1.19.3.dev6-py3-none-any.whl": [
+          "blTb7cPdIV5coFHolZT8nr78fukXSQDllMWy1YkvxK4=",
+          "py3"
+        ]
+      }
+    },
+    "1.19.3.dev8": {
+      "sdist": [
+        "YmZaIBvVM/N/e9cEsPq3mckmfCuoDVejp/seOkme1zY=",
+        "large-image-source-openjpeg-1.19.3.dev8.tar.gz"
+      ],
+      "wheels": {
+        "large_image_source_openjpeg-1.19.3.dev8-py3-none-any.whl": [
+          "PCYPAIvKjRebKXiS/L6j8Kuu2KdAN4ICU7EG6fedpOk=",
           "py3"
         ]
       }
@@ -129060,6 +129060,30 @@
       "wheels": {
         "theseptatimes-0.2.2-py3-none-any.whl": [
           "9PdsT68emPq/tlBYXchZrMOBc5vxekFsH2p1juOpDTc=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.3": {
+      "sdist": [
+        "I3YfFJle7sY36P0qyS2MQQqTS+UoQpatYVdcX1CeUqU=",
+        "theseptatimes-0.2.3.tar.gz"
+      ],
+      "wheels": {
+        "theseptatimes-0.2.3-py3-none-any.whl": [
+          "DgvsAhJA/gebDZKHNM5rmEgEmXpn1FGW8acOOgG+k+A=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.4": {
+      "sdist": [
+        "sNyYO1hBoS7VOJvB8S8C94HeVdLTI3o37zKGLgy6EZo=",
+        "theseptatimes-0.2.4.tar.gz"
+      ],
+      "wheels": {
+        "theseptatimes-0.2.4-py3-none-any.whl": [
+          "Y4JDbQd7MACJ8UKjX9eVlXhfY5TpFC68MPFGbzEx8ek=",
           "py3"
         ]
       }

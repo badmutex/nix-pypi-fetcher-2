@@ -89751,6 +89751,18 @@
           "py3"
         ]
       }
+    },
+    "0.12.1": {
+      "sdist": [
+        "7T3PWijSJx0kyp7GOSlPGKDAh3xIGVsGZjyN+/meZ3g=",
+        "ni_measurementlink_generator-0.12.1.tar.gz"
+      ],
+      "wheels": {
+        "ni_measurementlink_generator-0.12.1-py3-none-any.whl": [
+          "h3hOVj5xF+Mpe8tKF9QTy+HFBzbOy0fRTf5BrHIqwlI=",
+          "py3"
+        ]
+      }
     }
   },
   "nidhigpdf": {
@@ -99124,6 +99136,20 @@
       "sdist": [
         "FW5ILBUn4BJAe8CZSLDEBEeVQVJ7d7KBeKPV3IQD/5U=",
         "pdcopyist_updater-0.3.0.tar.gz"
+      ]
+    }
+  },
+  "pde-rk": {
+    "0.1.0": {
+      "sdist": [
+        "vrA/9Q4fCd5EOxl8Bb4HGY/KWfaMDrKMRPdNSkW+nHc=",
+        "pde-rk-0.1.0.tar.gz"
+      ]
+    },
+    "0.1.1": {
+      "sdist": [
+        "r//DZttIVrBIjxaYnagAAxFjydpfnhW0gUmVsPKeTGQ=",
+        "pde-rk-0.1.1.tar.gz"
       ]
     }
   },
@@ -114597,6 +114623,20 @@
       }
     }
   },
+  "pytest-expectdir": {
+    "1.0": {
+      "sdist": [
+        "Te/vOPaBofjYtGYl61WA6R9c9PsdDcSIAPpGYmDdPD0=",
+        "pytest-expectdir-1.0.tar.gz"
+      ],
+      "wheels": {
+        "pytest_expectdir-1.0-py3-none-any.whl": [
+          "KJEmFKWKkUKQwoha2f2WuJC45DE1kxSrPYBuS63SK2k=",
+          "py3"
+        ]
+      }
+    }
+  },
   "pytest-pyqatouch": {
     "0.1.0": {
       "sdist": [
@@ -121796,6 +121836,90 @@
       "wheels": {
         "robin_sd_upload-0.1.11-py3-none-any.whl": [
           "YnrAq8IQbgIFgV2n1vcu9PJx/xbzeyLs2E+dR86r1p0=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.12": {
+      "sdist": [
+        "CTV7WFDZVmGFZGTrUgSARuPL+3m+Y7dWEqYWj9dTCHg=",
+        "robin_sd_upload-0.1.12.tar.gz"
+      ],
+      "wheels": {
+        "robin_sd_upload-0.1.12-py3-none-any.whl": [
+          "1kFuw0lVTYfhPM8Y44Yn7WbD0xrvwMAR5UE6G/G9sKU=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.13": {
+      "sdist": [
+        "qP7vx4vbBfozsZFiNPhzyczZKM2RpuPzZ4sHSRejvgU=",
+        "robin_sd_upload-0.1.13.tar.gz"
+      ],
+      "wheels": {
+        "robin_sd_upload-0.1.13-py3-none-any.whl": [
+          "DhL8vlWQhQ/LSMzyYhojqeTB1+jXuk+ngVo1QSPThX0=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.14": {
+      "sdist": [
+        "LhYBAKLoRpmjLMO3jg6fuUKW2HS9UtahD4if2/C2OE4=",
+        "robin_sd_upload-0.1.14.tar.gz"
+      ],
+      "wheels": {
+        "robin_sd_upload-0.1.14-py3-none-any.whl": [
+          "EsrdBs3bIX1ZGNOwtdFJFF7fp/6tz/oJVb58K6GA+eA=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.15": {
+      "sdist": [
+        "ytiaxHTn9OLxIFZZPgGX0NVnSGOhoZigU21KIfGHhQU=",
+        "robin_sd_upload-0.1.15.tar.gz"
+      ],
+      "wheels": {
+        "robin_sd_upload-0.1.15-py3-none-any.whl": [
+          "cAZQdFQex8dzPDRuT8b2Ti79V1eTl9p0B1NZYWZKwJs=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.16": {
+      "sdist": [
+        "UxMuSgBKC42Sqleo/B6UhOQwYGejiMXL5EfMMOlrXgU=",
+        "robin_sd_upload-0.1.16.tar.gz"
+      ],
+      "wheels": {
+        "robin_sd_upload-0.1.16-py3-none-any.whl": [
+          "ll8GZ+HNnB6Xn/iR/83Z1dLaFfJiL92is8p4fXjLtfQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.17": {
+      "sdist": [
+        "PGZGUzVNC8VZZmEW4cxB7xbUcW/8iyWbpFCfnDsL8UA=",
+        "robin_sd_upload-0.1.17.tar.gz"
+      ],
+      "wheels": {
+        "robin_sd_upload-0.1.17-py3-none-any.whl": [
+          "KSxWErVZBXFULcGQbEA3Csktgenh4IRpsd64mOZ03kI=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.18": {
+      "sdist": [
+        "lPQr+f4HxsL3e+aCsaTRh3p1s6ieQul+CPH0TMqNBsM=",
+        "robin_sd_upload-0.1.18.tar.gz"
+      ],
+      "wheels": {
+        "robin_sd_upload-0.1.18-py3-none-any.whl": [
+          "5CEzmegeHwDZjKh9Q062U6Whtr+KSoOadp6JVxW+g0U=",
           "py3"
         ]
       }
@@ -131714,6 +131838,18 @@
       "wheels": {
         "setenvironment-1.0.8-py2.py3-none-any.whl": [
           "a2v+kAM/zLf3RJT6W00giwEDycCgNd9UwHTGrQENRlQ=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.0.9": {
+      "sdist": [
+        "/E03Z+CVOWXqHo3PCTL/IlH6MWI+8g940AY+Xukdflo=",
+        "setenvironment-1.0.9.tar.gz"
+      ],
+      "wheels": {
+        "setenvironment-1.0.9-py2.py3-none-any.whl": [
+          "m7EwX0HlxkjM2qX3PSHJHaDv1uA7BpTO42Pm1YGTMcY=",
           "py2.py3"
         ]
       }

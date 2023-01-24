@@ -15949,6 +15949,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.55": {
+      "sdist": [
+        "4DUNrlpdLru2Ah5H7U5w6fIG0tL7dfBPBCOqxmxzJl4=",
+        "botocore-a-la-carte-backup-1.29.55.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_backup-1.29.55-py3-none-any.whl": [
+          "9e84vRdnJbHPTPtKQtNfizRq905NtZFD7ABWHB+FPXA=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-devicefarm": {
@@ -16107,6 +16119,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.55": {
+      "sdist": [
+        "B5kkS/5JZHAwBsIBHs66obNW9dqav5QRFN/T8SnPrHo=",
+        "botocore-a-la-carte-devicefarm-1.29.55.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_devicefarm-1.29.55-py3-none-any.whl": [
+          "tdiGIUPT+QgJ+6RazNgZsRXolp48idAtvUgwPN4RmoE=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-fis": {
@@ -16262,6 +16286,18 @@
       "wheels": {
         "botocore_a_la_carte_fis-1.29.54-py3-none-any.whl": [
           "Jy0oFg/HBM9jc0n45zl0cIksiK4gjjAydkXJgrHCHdc=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.55": {
+      "sdist": [
+        "cALmmRCW4DPFqmvVHI6/ZAijMtchbnNKzUQB+C5i4Vs=",
+        "botocore-a-la-carte-fis-1.29.55.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_fis-1.29.55-py3-none-any.whl": [
+          "3OFHkDOW4It5sKsOpQwbTppovT/OWqyloe+tpWRTBvs=",
           "py3"
         ]
       }
@@ -21824,6 +21860,18 @@
       "wheels": {
         "coldwavebook-1.0.0-py3-none-any.whl": [
           "dKZyc8KV6dDcKJ7+Tixy2kiJlTmYACyJStmy+DEQ2CA=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.1": {
+      "sdist": [
+        "UeaPZJrlkK39qf1Ug8emoLMY1CxbGOxXMXPO/jbZJs0=",
+        "coldwavebook-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "coldwavebook-1.0.1-py3-none-any.whl": [
+          "ZGm9du6SwK7nrUw4Cukknff3FFYGjQojsUNXIuwiXTc=",
           "py3"
         ]
       }
@@ -43496,6 +43544,18 @@
       "wheels": {
         "fantasy_hockey_notifier_cdk-2.0.7-py3-none-any.whl": [
           "hljRJgBNACJ6kr090fW934OcDPzK2FFDCaVMdfSYEaE=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.8": {
+      "sdist": [
+        "gEjcHV/Zf8FsCGjqf4luPMmhlTd8MnS5yFUP/q00LuE=",
+        "fantasy-hockey-notifier-cdk-2.0.8.tar.gz"
+      ],
+      "wheels": {
+        "fantasy_hockey_notifier_cdk-2.0.8-py3-none-any.whl": [
+          "4tAU2JXzeVaxoZb57lkaH+YyiJUhBxlNTRdgaBGvkcE=",
           "py3"
         ]
       }
@@ -84478,6 +84538,34 @@
         ],
         "OctoBot_Trading-2.3.10-cp38-cp38-win_amd64.whl": [
           "JrzR1/iZBT82KSzx66vyndedWWKVTm8KddeIt70I1Jc=",
+          "cp38"
+        ]
+      }
+    },
+    "2.3.11": {
+      "sdist": [
+        "NNrXJxCr0zv9I+2JPvsM+piiN2OmY/l0yK4TIEMHf6I=",
+        "OctoBot-Trading-2.3.11.tar.gz"
+      ],
+      "wheels": {
+        "OctoBot_Trading-2.3.11-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "6A1GX5mOqYNJxefWpDGqBfg8z1HPXevwnEfpHjnY6oU=",
+          "cp38"
+        ],
+        "OctoBot_Trading-2.3.11-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "ZCqADzVaQtq4IKrPKyL9CDo/ALa3dg1B70wym196dy0=",
+          "cp38"
+        ],
+        "OctoBot_Trading-2.3.11-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "BRCU+Cr9VQm1GjCWRuuP/9UmIaIRmHLRcFaXVCUSnF4=",
+          "cp38"
+        ],
+        "OctoBot_Trading-2.3.11-cp38-cp38-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "TbMzWHowZex4/z2NoTaUdPtAcmsZVfmJvvT8XDjtEJA=",
+          "cp38"
+        ],
+        "OctoBot_Trading-2.3.11-cp38-cp38-win_amd64.whl": [
+          "6ShEm+VxKUrRsPisLTo3J5QKY95BN5RxWsg7ucwZWwc=",
           "cp38"
         ]
       }
@@ -139752,6 +139840,18 @@
       "wheels": {
         "umnet_pyncs-0.1.18-py3-none-any.whl": [
           "afl0G3svHEYrsrTeudYIy+URF2hL6HSvcUcGr6fNEx4=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.19": {
+      "sdist": [
+        "iJgecsl65XUOZ8EIJpLMcrNiA9y2jSlWvCvKNk5heDw=",
+        "umnet_pyncs-0.1.19.tar.gz"
+      ],
+      "wheels": {
+        "umnet_pyncs-0.1.19-py3-none-any.whl": [
+          "TZ6eYRrMUTJb5LESfN7nQGU4Eid4AM0nBRTWeaLyxYo=",
           "py3"
         ]
       }

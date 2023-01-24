@@ -12529,6 +12529,18 @@
           "py3"
         ]
       }
+    },
+    "0.1b20230124": {
+      "sdist": [
+        "dwrqIBne2qrzKwlNMbAS4QI69AESEiWwXlSR9TDwmlA=",
+        "autogluon.cloud-0.1b20230124.tar.gz"
+      ],
+      "wheels": {
+        "autogluon.cloud-0.1b20230124-py3-none-any.whl": [
+          "5zwR0VfdCgmjosbivM/0gDlbKlsvcjeIw+TGBp3zSNQ=",
+          "py3"
+        ]
+      }
     }
   },
   "automagic-rest": {
@@ -37632,6 +37644,18 @@
         ]
       }
     },
+    "0.35.2": {
+      "sdist": [
+        "4+tvpRPQJWHxc/EnHej1EQuiC1NmV558zKYA9+IMNjM=",
+        "dvc-data-0.35.2.tar.gz"
+      ],
+      "wheels": {
+        "dvc_data-0.35.2-py3-none-any.whl": [
+          "An4gSgZPPHSR/Pqdve9yOVg9RPe8RQtA6JZi8Mi/Fr0=",
+          "py3"
+        ]
+      }
+    },
     "0.4.0": {
       "sdist": [
         "lCK3/oLb0nrQsJhYhx9Yr6+gZticJY9D/sgsO0AjNew=",
@@ -44144,6 +44168,54 @@
         ]
       }
     },
+    "0.12.4rc1": {
+      "wheels": {
+        "finetuner_stubs-0.12.4rc1-py3-none-any.whl": [
+          "YINIZCLuVUdrmrY1J48HWZOlW+a3p2B472pEgidIqqM=",
+          "py3"
+        ]
+      }
+    },
+    "0.12.4rc2": {
+      "wheels": {
+        "finetuner_stubs-0.12.4rc2-py3-none-any.whl": [
+          "UMxktYWR2VT2BYorYartDCEqx8cwchtiDz6pPWeY+z4=",
+          "py3"
+        ]
+      }
+    },
+    "0.12.4rc3": {
+      "wheels": {
+        "finetuner_stubs-0.12.4rc3-py3-none-any.whl": [
+          "uQPFFBExRL343Z9cF1JeAeOp9vic/9m6mHeEZx+czoA=",
+          "py3"
+        ]
+      }
+    },
+    "0.12.4rc4": {
+      "wheels": {
+        "finetuner_stubs-0.12.4rc4-py3-none-any.whl": [
+          "7as+bSZSRwyPhVCkoraPhFqE75DUPCabFA8muRjVwV4=",
+          "py3"
+        ]
+      }
+    },
+    "0.12.4rc5": {
+      "wheels": {
+        "finetuner_stubs-0.12.4rc5-py3-none-any.whl": [
+          "w7RHlqm0i7lofk9V0zErWFXqw6Q+SaUa4oxfX8R6uYY=",
+          "py3"
+        ]
+      }
+    },
+    "0.12.4rc6": {
+      "wheels": {
+        "finetuner_stubs-0.12.4rc6-py3-none-any.whl": [
+          "7djr5NkkOz2tu+TEKyIYFjWN8/yR9UGXMfug6imqJAg=",
+          "py3"
+        ]
+      }
+    },
     "0.9.3": {
       "sdist": [
         "Hwfk1EZnzqy+W6c4tWNy8NUs8XcOhw3Ipf9ixKItE3c=",
@@ -49148,6 +49220,66 @@
       "wheels": {
         "generalpy-1.0.0-py3-none-any.whl": [
           "9qYZPDVNxHqmvY+YT23wIrnJfclQenvaXhfwcDF2uz8=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.0": {
+      "sdist": [
+        "ogZ0AfcEkYxdnip7WwYBPiIf77DIfVc8gi1mjquah20=",
+        "generalpy-1.1.0.tar.gz"
+      ],
+      "wheels": {
+        "generalpy-1.1.0-py3-none-any.whl": [
+          "0dvVc2QLEA4Ngw7E9ygTIgAsQ+kAWAW+wTUEyz9bTd8=",
+          "py3"
+        ]
+      }
+    },
+    "1.2.0": {
+      "sdist": [
+        "/PSapYrYaBe/6fDPVAHV3pxCRDBVDzPPjQJyaNsZF6c=",
+        "generalpy-1.2.0.tar.gz"
+      ],
+      "wheels": {
+        "generalpy-1.2.0-py3-none-any.whl": [
+          "AUfE0MQ3sfiXYjmY1Y//RJsQoDnkEs2OwvhEYA70Xb0=",
+          "py3"
+        ]
+      }
+    },
+    "1.2.1": {
+      "sdist": [
+        "h9GFLE2gf/rr+RZV2Be7DhxQfKyJeQi+wh6fqw05uP4=",
+        "generalpy-1.2.1.tar.gz"
+      ],
+      "wheels": {
+        "generalpy-1.2.1-py3-none-any.whl": [
+          "VDrueJYtuj3f/uVVv+OJWUI6IX5ecKi3yPUXbndla+U=",
+          "py3"
+        ]
+      }
+    },
+    "1.2.2": {
+      "sdist": [
+        "MZARWKh9bksUOKk/5D2e7lmo6tsvxSyYFb2X5lhVZq8=",
+        "generalpy-1.2.2.tar.gz"
+      ],
+      "wheels": {
+        "generalpy-1.2.2-py3-none-any.whl": [
+          "bz80UwLl/G/Qn/nz5LbtNXt6/xo/7K0ySCJGH15juQE=",
+          "py3"
+        ]
+      }
+    },
+    "1.2.3": {
+      "sdist": [
+        "mDzLBnB02P4CXPRXZN+VsVRWZU1Jmvv33EME8qw5fgg=",
+        "generalpy-1.2.3.tar.gz"
+      ],
+      "wheels": {
+        "generalpy-1.2.3-py3-none-any.whl": [
+          "e8Luw4FujR9EE+cmVCzjQA+p5XTTl+aWPc8OdYqjI2I=",
           "py3"
         ]
       }
@@ -121518,6 +121650,18 @@
       "wheels": {
         "resotocore-3.0.3-py2.py3-none-any.whl": [
           "mXSjq23aqQb3J0+9n/39UbxOnXtFnz1LUlmydoNb6sA=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.4": {
+      "sdist": [
+        "aWZQqZaikZfHXH5FEUhiudb9ieg0egQe691/xo82prI=",
+        "resotocore-3.0.4.tar.gz"
+      ],
+      "wheels": {
+        "resotocore-3.0.4-py2.py3-none-any.whl": [
+          "DICqKIIqx39NGjDW9s6Q4lX/vCjtbYRk8H8iQjoDntQ=",
           "py2.py3"
         ]
       }

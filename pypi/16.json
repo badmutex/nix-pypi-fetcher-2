@@ -2565,6 +2565,30 @@
           "py3"
         ]
       }
+    },
+    "1.2.0": {
+      "sdist": [
+        "KLX7ww/DMayAtyibUue0HCCBxVHzp0wGKFG96dInIHo=",
+        "Akatosh-1.2.0.tar.gz"
+      ],
+      "wheels": {
+        "Akatosh-1.2.0-py3-none-any.whl": [
+          "MN3SbbZ0nnmvPp7DRu01Isq20KWRhWzCBiNLngiU21c=",
+          "py3"
+        ]
+      }
+    },
+    "1.2.1": {
+      "sdist": [
+        "zp5JRUJ1dpAwW3iobwGdd8oBDuEMzNwCNWo2MO/xjik=",
+        "Akatosh-1.2.1.tar.gz"
+      ],
+      "wheels": {
+        "Akatosh-1.2.1-py3-none-any.whl": [
+          "a1VxQGfbb8UoJqOHdcJIrwJSJflM12qy7jbYpZMnS5A=",
+          "py3"
+        ]
+      }
     }
   },
   "alacritty-color-switcher": {
@@ -41424,6 +41448,74 @@
         ]
       }
     },
+    "0.10.2": {
+      "sdist": [
+        "fpS01xYfd90qJG1ble3a5rlWOJu8NzEhOx9IK1yeaGQ=",
+        "faust-streaming-0.10.2.tar.gz"
+      ],
+      "wheels": {
+        "faust_streaming-0.10.2-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "J6LvfXmGe7lQJ9xIc5Gxs3tFD3FRx5pGENjmN3fXg2g=",
+          "cp310"
+        ],
+        "faust_streaming-0.10.2-cp310-cp310-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "e/46uXkQxHZjjmUORuE1GnIQYpxlvr8LtAD/J5c9Xxg=",
+          "cp310"
+        ],
+        "faust_streaming-0.10.2-cp310-cp310-musllinux_1_1_x86_64.whl": [
+          "2JTgjHOfl+edvJth/9PT4iY5Od4AOJ4aR/aKNqY9tos=",
+          "cp310"
+        ],
+        "faust_streaming-0.10.2-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "JriHbT3XHtMBQVlIfz5rgt/IZM64DyW57heIzxRirNs=",
+          "cp311"
+        ],
+        "faust_streaming-0.10.2-cp311-cp311-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "qRUWaJn+hq3M2tgeDGxHLt1gJBg4KVBCmu0h2rjFCUs=",
+          "cp311"
+        ],
+        "faust_streaming-0.10.2-cp311-cp311-musllinux_1_1_x86_64.whl": [
+          "/hgcz0wpTHk4MA2ton7cHBWqKH6XlC6H+rn+5+Z9dwU=",
+          "cp311"
+        ],
+        "faust_streaming-0.10.2-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "rXFuWkbo+yJnISiBHMeX1uj1Bruw3ddQ0mjUMhahxFA=",
+          "cp37"
+        ],
+        "faust_streaming-0.10.2-cp37-cp37m-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "UHmNxAt5/LRghzP8daQIhrH/3SARaJ4EE3blxlQ+MzI=",
+          "cp37"
+        ],
+        "faust_streaming-0.10.2-cp37-cp37m-musllinux_1_1_x86_64.whl": [
+          "DSRFUXsi84gLmcx2/RYDpW8wzpODX4jlt9+SucGz+qE=",
+          "cp37"
+        ],
+        "faust_streaming-0.10.2-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "ayWHHlexnJckmEmUFS0dgOTtsr8vvVypZM08jVPmnDI=",
+          "cp38"
+        ],
+        "faust_streaming-0.10.2-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "LYJgNODfth/+HH5AeQ7fx5FbhTHy41KM19Xr6VgP6hs=",
+          "cp38"
+        ],
+        "faust_streaming-0.10.2-cp38-cp38-musllinux_1_1_x86_64.whl": [
+          "3L8EnHxZg8/Yf4VwOB/Phulg4dm654BoQ3c05/F5cDU=",
+          "cp38"
+        ],
+        "faust_streaming-0.10.2-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "1fBY7zn2rKbl0vlXvuQW4G9W0+UFkfAIl7HeRNHFmtc=",
+          "cp39"
+        ],
+        "faust_streaming-0.10.2-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "EyBvMzhKlZgK3NakNfn/AO+o2rnRc17umrUZXhD/Dm0=",
+          "cp39"
+        ],
+        "faust_streaming-0.10.2-cp39-cp39-musllinux_1_1_x86_64.whl": [
+          "xiNOrtNkrvwkJJafWjX02qGUw1v02nPPMR+mIkA+YHE=",
+          "cp39"
+        ]
+      }
+    },
     "0.2.0": {
       "sdist": [
         "ccyvKHuPo+Zw00igBhKcCGKzdNYvA3h/UQSqQDGxw0c=",
@@ -62866,6 +62958,18 @@
       "wheels": {
         "invenio_files_rest-1.3.3-py2.py3-none-any.whl": [
           "QoIcDPXW7ZeUFMcVUizpQEeGHNl5jZgZWLY72d5tOGs=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.4.0": {
+      "sdist": [
+        "bMFacnhBUXlAK/R//1jhSk6/igmuJX9tN75Lu2O3ptI=",
+        "invenio-files-rest-1.4.0.tar.gz"
+      ],
+      "wheels": {
+        "invenio_files_rest-1.4.0-py2.py3-none-any.whl": [
+          "RYTkj6QR3uPQ/Lr7mmu7RXf79ydr7j5hDuAXjB+PygQ=",
           "py2.py3"
         ]
       }
@@ -112716,6 +112820,70 @@
         ],
         "reloadium-0.9.7-py3-none-any.whl": [
           "i0azJu2+9MjFWrY0skAN+3PX/1/oBcdJjNHQXC0mFmY=",
+          "py3"
+        ]
+      }
+    },
+    "0.9.8": {
+      "wheels": {
+        "reloadium-0.9.8-cp310-cp310-macosx_10_15_x86_64.whl": [
+          "2RdXzf6PYq1gJCpe5pO/VYOL4tSlEztLiSXx62WazUE=",
+          "cp310"
+        ],
+        "reloadium-0.9.8-cp310-cp310-macosx_12_0_arm64.whl": [
+          "jx55L+pQnEf1EOwkCavrab5WukJfaeJqV9QInwOm24w=",
+          "cp310"
+        ],
+        "reloadium-0.9.8-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "VGVfN+gxZIZ+Fvbql+wJd8jiWME/kTDoViBntheJMPE=",
+          "cp310"
+        ],
+        "reloadium-0.9.8-cp310-cp310-win_amd64.whl": [
+          "his5wlPOomTQhe+wtIc7svAlxY4W7GQx9gwse37Id+U=",
+          "cp310"
+        ],
+        "reloadium-0.9.8-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "Bgp0Q4xLU50U705jSIJfHXJhhge8SA4Atu+t9l5moOk=",
+          "cp37"
+        ],
+        "reloadium-0.9.8-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "rJ6dP6AVX9OstD62sxu/zxClwm4DW5YIc9QRzuErJAQ=",
+          "cp37"
+        ],
+        "reloadium-0.9.8-cp37-cp37m-win_amd64.whl": [
+          "WP0+0asuG7S8wBM6OKjhH0tR2VYjosax09OMeBTOjmA=",
+          "cp37"
+        ],
+        "reloadium-0.9.8-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "6qGjMxGPwHgGGrx9XQk5cIcUydbrk5FrGU2i8SdlK3Q=",
+          "cp38"
+        ],
+        "reloadium-0.9.8-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "K6ngoDZKOHISq6xRY+dn8+6njNZfX/nwjv9Gv4MZ2T4=",
+          "cp38"
+        ],
+        "reloadium-0.9.8-cp38-cp38-win_amd64.whl": [
+          "C5XuokLtmIjhjck4MTTt8QjEpqkmcs1xx1NMLLfo8Tc=",
+          "cp38"
+        ],
+        "reloadium-0.9.8-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "JEJz1MlxvfpbJwEsGg0TKjNYqCGONYHvqCQLjoNFZr0=",
+          "cp39"
+        ],
+        "reloadium-0.9.8-cp39-cp39-macosx_12_0_arm64.whl": [
+          "VJfm1uocWdye+CxEtkbt6stVGKCqFRUa/WoE8sY+HRI=",
+          "cp39"
+        ],
+        "reloadium-0.9.8-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "RusoMYdZsw/7UIbIPKVX+aYDeK9pGXyIEQhJVTsOZ+0=",
+          "cp39"
+        ],
+        "reloadium-0.9.8-cp39-cp39-win_amd64.whl": [
+          "EIgWfhq81ikquI5qtfX+ORnqmPo2sM/YECL02+wv70Q=",
+          "cp39"
+        ],
+        "reloadium-0.9.8-py3-none-any.whl": [
+          "w/yKwpmn9AAXy29ej2UGkEt2aFB/GODev2prihXdgXE=",
           "py3"
         ]
       }

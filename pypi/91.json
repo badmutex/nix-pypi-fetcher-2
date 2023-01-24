@@ -5811,6 +5811,18 @@
           "py3"
         ]
       }
+    },
+    "0.5.4": {
+      "sdist": [
+        "j4Axgm2IWVVt9VaCkDKs0wS2IRwAzP/aqlk7NACSFCM=",
+        "autoutils-0.5.4.tar.gz"
+      ],
+      "wheels": {
+        "autoutils-0.5.4-py3-none-any.whl": [
+          "3+9AATqsppihAXSNqjrrbksg2Uxys2tq3l/aHLVETc4=",
+          "py3"
+        ]
+      }
     }
   },
   "avideo-dl": {
@@ -49903,6 +49915,12 @@
         "16Z7vu6jSpRnysH5/Rm41cfPzMg48fafcGX0GVu0wVI=",
         "gqrxHamlib-3.2.1.tar.gz"
       ]
+    },
+    "3.2.2": {
+      "sdist": [
+        "q+onSED2y6oERx+akhrQ0toRpWDqWXSeuqD3H2HO9q8=",
+        "gqrxHamlib-3.2.2.tar.gz"
+      ]
     }
   },
   "gqylpy-exception": {
@@ -52280,6 +52298,94 @@
         ],
         "html_parsing_tools-0.11.0-cp39-cp39-manylinux_2_31_x86_64.whl": [
           "dMK+bV7Y0VwUB7GQ8PgntghqNmFDqja7D5CDjNkxwRQ=",
+          "cp39"
+        ]
+      }
+    },
+    "0.12.0": {
+      "sdist": [
+        "gOqGC3eRzQt7SnfibVByzxyypR9476iPz8nSOVgTfjc=",
+        "html_parsing_tools-0.12.0.tar.gz"
+      ],
+      "wheels": {
+        "html_parsing_tools-0.12.0-cp310-cp310-macosx_10_7_x86_64.whl": [
+          "wRMtWRVVQakk+ahZNb02B/R8SDmyCvnycVvxXGG9a8U=",
+          "cp310"
+        ],
+        "html_parsing_tools-0.12.0-cp310-cp310-manylinux_2_34_x86_64.whl": [
+          "ooUoDw8KEIHu8tp5WV1uZ/4PyEVnOfny66WpZHFrG6I=",
+          "cp310"
+        ],
+        "html_parsing_tools-0.12.0-cp311-cp311-macosx_10_7_x86_64.whl": [
+          "Wjw267IX/x2sJaaRLq41/P+9acJhZguNsGdSAytqAfo=",
+          "cp311"
+        ],
+        "html_parsing_tools-0.12.0-cp311-cp311-manylinux_2_34_x86_64.whl": [
+          "IWzagGsIuwNmU1ldz6pdvv7GQeR/vWq+lE+tODFyTpI=",
+          "cp311"
+        ],
+        "html_parsing_tools-0.12.0-cp311-none-win_amd64.whl": [
+          "3DczC2ETGfQGHVoy3RlUZcRZ/e1zTOCoqyFdvATFz6M=",
+          "cp311"
+        ],
+        "html_parsing_tools-0.12.0-cp38-cp38-macosx_10_7_x86_64.whl": [
+          "MLGih1buGCL627+LHeAoR7NzbuyLG3BGhcpE8U3ykeg=",
+          "cp38"
+        ],
+        "html_parsing_tools-0.12.0-cp38-cp38-manylinux_2_34_x86_64.whl": [
+          "1o5QGccKJvn8Pu4yQM9nHPdDN3ozl8MBaitGWWZ5/TY=",
+          "cp38"
+        ],
+        "html_parsing_tools-0.12.0-cp39-cp39-macosx_10_7_x86_64.whl": [
+          "lsOnAWEsZ6/rEP1MDsIrEoHPeYzq1T+X46KCNEJ7vzw=",
+          "cp39"
+        ],
+        "html_parsing_tools-0.12.0-cp39-cp39-manylinux_2_34_x86_64.whl": [
+          "f3DwWkeZNZFPp8uMqF7RBVMNzbwSuQbGbFxZpTir5lA=",
+          "cp39"
+        ]
+      }
+    },
+    "0.13.0": {
+      "sdist": [
+        "dULd2g2wjILrC3IK13XxRyqolc27Yx1vxQ+DKhBvQcc=",
+        "html_parsing_tools-0.13.0.tar.gz"
+      ],
+      "wheels": {
+        "html_parsing_tools-0.13.0-cp310-cp310-macosx_10_7_x86_64.whl": [
+          "r33PwhLX/5LfaXIOfQJoqxqak9zNPlsYoyRsD1ifGJA=",
+          "cp310"
+        ],
+        "html_parsing_tools-0.13.0-cp310-cp310-manylinux_2_34_x86_64.whl": [
+          "ZRF7FCvlMb0eM+DLBiBrazm0R6etjzadhSEcYyUBdeQ=",
+          "cp310"
+        ],
+        "html_parsing_tools-0.13.0-cp311-cp311-macosx_10_7_x86_64.whl": [
+          "BG2YsuIAe+ZASRgINVSBPvLfe9o4jJtYaTS6Nds/SCI=",
+          "cp311"
+        ],
+        "html_parsing_tools-0.13.0-cp311-cp311-manylinux_2_34_x86_64.whl": [
+          "+zjchWDQlCHIOyxJ7N0hFcEED9lAgodAUrXWdVNSwkU=",
+          "cp311"
+        ],
+        "html_parsing_tools-0.13.0-cp311-none-win_amd64.whl": [
+          "EC+0hdxG+eVHuizCQXVGGcfnHnAEfBY5BSqga/0M0wI=",
+          "cp311"
+        ],
+        "html_parsing_tools-0.13.0-cp38-cp38-macosx_10_7_x86_64.whl": [
+          "jcAWdXbTIunKAg0fKuh/X2HTLYOx+JQkfJY/MPTIWu0=",
+          "cp38"
+        ],
+        "html_parsing_tools-0.13.0-cp38-cp38-manylinux_2_34_x86_64.whl": [
+          "3uNRWNS4eHidbifi0ujYh96tnalFXgUWODJKidDic3A=",
+          "cp38"
+        ],
+        "html_parsing_tools-0.13.0-cp39-cp39-macosx_10_7_x86_64.whl": [
+          "hbrhyADco2K67tzU+4Ho+anlyu/XOuP31CB/v+SlDgI=",
+          "cp39"
+        ],
+        "html_parsing_tools-0.13.0-cp39-cp39-manylinux_2_34_x86_64.whl": [
+          "yb+tZgn95Ujn4AkWME4R5Go2d9p4zMm/At/e6SwppE4=",
           "cp39"
         ]
       }
@@ -60772,6 +60878,18 @@
       "wheels": {
         "koios_python-1.2.0-py3-none-any.whl": [
           "cmHzKBF4RJBPF20B86r8cSZuEhR9noxEs4qYIN/Jxto=",
+          "py3"
+        ]
+      }
+    },
+    "1.2.1": {
+      "sdist": [
+        "61/0aVNFqRLyyfqcugDOOILa8tLf3BgaILu2SKW8WFE=",
+        "koios-python-1.2.1.tar.gz"
+      ],
+      "wheels": {
+        "koios_python-1.2.1-py3-none-any.whl": [
+          "iH0OYRsnODNS0JOsZMdx2y3JVHN6A8VmXethYyXr6Rg=",
           "py3"
         ]
       }
@@ -95815,6 +95933,18 @@
         "pciw.py-0.9.1-py3-none-any.whl": [
           "OQOnRtwTWcu27yTv9kczHfKnPvK0h5t0P0NitgVg800=",
           "py3"
+        ]
+      }
+    },
+    "0.9.2": {
+      "wheels": {
+        "pciw.py-0.9.2-cpy39-none-manylinux1_x86_64.whl": [
+          "P4ZB3DQPw86ZfCc78EIjFj5WJ8HULfh+yfvW5cAYSpY=",
+          "cpy39"
+        ],
+        "pciw.py-0.9.2-py39-none-win_amd64.whl": [
+          "Ey84UnhM8pTufeTuXFPnBQcASRjyrlFuiVnRX3gPrto=",
+          "py39"
         ]
       }
     }

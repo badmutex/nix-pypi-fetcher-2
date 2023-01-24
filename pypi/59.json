@@ -1405,6 +1405,18 @@
           "py3"
         ]
       }
+    },
+    "1.1.2": {
+      "sdist": [
+        "Lz9lqKabJsB+9LE4yPiXDu0C59L33jsTiq0nFdgIQSE=",
+        "aea-ledger-ethereum-1.1.2.tar.gz"
+      ],
+      "wheels": {
+        "aea_ledger_ethereum-1.1.2-py3-none-any.whl": [
+          "XkS8yl3O97p0t5faV8y82i7KTrX14eYgt4MDYGJF/3s=",
+          "py3"
+        ]
+      }
     }
   },
   "aegis": {
@@ -19250,6 +19262,18 @@
       "wheels": {
         "codercore-1.2.0-py3-none-any.whl": [
           "3DsJoiW0h7IgN9EjFrW/UjvvcrlpwF72jZMYiv0PTj0=",
+          "py3"
+        ]
+      }
+    },
+    "1.3.0": {
+      "sdist": [
+        "n5eRxXfQCwW5zlrLKQ2S+xjI35MC+EfQz89dh5W5H18=",
+        "codercore-1.3.0.tar.gz"
+      ],
+      "wheels": {
+        "codercore-1.3.0-py3-none-any.whl": [
+          "udW63LaoVvJ0uzKmG9cNATDRaBjK3/D9UMFfygkf4Gk=",
           "py3"
         ]
       }
@@ -78341,6 +78365,50 @@
           "cp39"
         ]
       }
+    },
+    "0.5": {
+      "wheels": {
+        "NMODL-0.5-cp310-cp310-macosx_10_15_x86_64.whl": [
+          "ZScMKrs2ZqoB9tmcMddD3v35YJkHZZqPy61aLOKhuBM=",
+          "cp310"
+        ],
+        "NMODL-0.5-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "2vfvn1fakQqAGVkY0l4PF4eM3XJuw6TPBlca5T6HRq0=",
+          "cp310"
+        ],
+        "NMODL-0.5-cp311-cp311-macosx_10_15_x86_64.whl": [
+          "V+io4NKCqvxDHoWvRzpKqX/m2zxZ70Fx9uqc5RaycN8=",
+          "cp311"
+        ],
+        "NMODL-0.5-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "JDZQMqLsp/BU/WN5/jUX+50GerjR5aWoiA5vh1oOEcU=",
+          "cp311"
+        ],
+        "NMODL-0.5-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "dcDEEHPuBe7EwCRoRn72Ee7ZsN8GUDK7rjJwXpYO50Q=",
+          "cp37"
+        ],
+        "NMODL-0.5-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "T5DyWzMvN/aJXqpHFG3e/UOYRFDx0E7AGpb6SKW0hU8=",
+          "cp37"
+        ],
+        "NMODL-0.5-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "qLViEQkmaAyiL9RGwJewmY0pePBXsBA2U7s1nF0ry0g=",
+          "cp38"
+        ],
+        "NMODL-0.5-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "h+2J5ROxZ0PjvEHxgUFT+/iV8Uafyz7yLmOx2vpy6CM=",
+          "cp38"
+        ],
+        "NMODL-0.5-cp39-cp39-macosx_10_15_x86_64.whl": [
+          "a9idMLE72YrruldJ7flVTDivdTdsMK5deuSJki6LHcc=",
+          "cp39"
+        ],
+        "NMODL-0.5-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "szpMaeQUbuPPI9uPk134RJVScEztAUEWou9sfGSgI0A=",
+          "cp39"
+        ]
+      }
     }
   },
   "nonebot-plugin-alias": {
@@ -80436,6 +80504,14 @@
       "wheels": {
         "odoo_addon_mail_quoted_reply-15.0.1.0.0.11-py3-none-any.whl": [
           "vOMld9YMuoPW/Wulw3cWiD95hFfyA1sA7XSjwW8ZkJw=",
+          "py3"
+        ]
+      }
+    },
+    "15.0.1.0.1": {
+      "wheels": {
+        "odoo_addon_mail_quoted_reply-15.0.1.0.1-py3-none-any.whl": [
+          "Omt6826d3IrVMZBQJ50rwpHd3/9EQIqzJO2mURUGX1k=",
           "py3"
         ]
       }

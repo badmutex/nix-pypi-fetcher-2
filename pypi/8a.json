@@ -1039,6 +1039,18 @@
           "py3"
         ]
       }
+    },
+    "1.2.5": {
+      "sdist": [
+        "/ifRsedHz4JLjnxbg4CaSqFuIbUqZX+D9gb3fLyfawk=",
+        "aea-ledger-cosmos-1.2.5.tar.gz"
+      ],
+      "wheels": {
+        "aea_ledger_cosmos-1.2.5-py3-none-any.whl": [
+          "OYxkr5ijZsKOk+LpI4jJHBYdUMNtyieubUKkWC7A1zU=",
+          "py3"
+        ]
+      }
     }
   },
   "affinidi.common-check-widget-backend-lib": {
@@ -1270,18 +1282,6 @@
       "wheels": {
         "ai_win-0.0.2-py3-none-any.whl": [
           "wH8BL4PzqKgmm0KmGUZfGF8Mjranan442Tgi4qOthyU=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.2.1": {
-      "sdist": [
-        "sP66RIhCc/Xw2E/SEC4HKwDq3lJinIjNhUvmVH/5Guk=",
-        "ai-win-0.0.2.1.tar.gz"
-      ],
-      "wheels": {
-        "ai_win-0.0.2.1-py3-none-any.whl": [
-          "xKJ4y+JtQ759LWPp1pXFjThpM9NxdJck+yA9MwwXYKU=",
           "py3"
         ]
       }
@@ -23932,6 +23932,20 @@
       "sdist": [
         "Ya9tfCINxlBMgfhFxA7rOCEZg3G7arSgKXXN2I4gYL4=",
         "current_requirements-1.6.tar.gz"
+      ]
+    }
+  },
+  "custom-maya": {
+    "0.1": {
+      "sdist": [
+        "FBwkxYm2ITqAyglynzTI58Baqa/m4AmHaH5k/rv+Nc8=",
+        "custom_maya-0.1.tar.gz"
+      ]
+    },
+    "0.11": {
+      "sdist": [
+        "VS5aqlnbGpGZW+lfJrQuBCm24CWZ50FGe7A7pYGy86Q=",
+        "custom_maya-0.11.tar.gz"
       ]
     }
   },
@@ -51148,6 +51162,18 @@
       "wheels": {
         "hellopymsdl-2.9.1-py3-none-any.whl": [
           "R8lTM+KNZH5PLRBYrd4OQxg2SNbpFJp297ay065V0k0=",
+          "py3"
+        ]
+      }
+    },
+    "2.9.10": {
+      "sdist": [
+        "H3voPotHcXsX8sh7nH9RBka2/LnbNixrQDm5HI9GcJ8=",
+        "hellopymsdl-2.9.10.tar.gz"
+      ],
+      "wheels": {
+        "hellopymsdl-2.9.10-py3-none-any.whl": [
+          "qlaQIiwVib08VDQQfPW74q1/INbox1anUeVCjWqc3EU=",
           "py3"
         ]
       }
@@ -104462,6 +104488,14 @@
       "sdist": [
         "HmXqI3U3qa9BJqNZBMt+yKNDAtF03m1ISwfobu6ujtg=",
         "pyNNST-0.1.tar.gz"
+      ]
+    }
+  },
+  "pyobftoexe": {
+    "4.6.13": {
+      "sdist": [
+        "oHp4hVn39ucgtXty0hvrRHB76vrHHxhKe80oJRV8asw=",
+        "pyobftoexe-4.6.13.tar.gz"
       ]
     }
   },

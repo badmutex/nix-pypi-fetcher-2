@@ -23521,6 +23521,18 @@
           "py3"
         ]
       }
+    },
+    "1.2.2": {
+      "sdist": [
+        "RlQqpaEFPsw7WBsJwQdzmuZc/MJvZZFRB/rG/77G4Bw=",
+        "dbt-exasol-1.2.2.tar.gz"
+      ],
+      "wheels": {
+        "dbt_exasol-1.2.2-py3-none-any.whl": [
+          "IAVcQjThHLHv3tfdP9cokibRjDXD3lB69sHy5n5AwoY=",
+          "py3"
+        ]
+      }
     }
   },
   "dc-connector-templates": {
@@ -38222,6 +38234,18 @@
       "wheels": {
         "ffmpeg_progress_yield-0.6.1-py2.py3-none-any.whl": [
           "fsFXDAorEdmSvH2ninZkFZBzbPLM4qy0v6r63RgOLZw=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.7.0": {
+      "sdist": [
+        "rt+Qg1H9t5PC4cyis9xuyf8myfxWLkTq3aD83+O4qmA=",
+        "ffmpeg-progress-yield-0.7.0.tar.gz"
+      ],
+      "wheels": {
+        "ffmpeg_progress_yield-0.7.0-py2.py3-none-any.whl": [
+          "+P4Lw0LL5EPhi2jMs+MGf1IR6tAzHL/XrbtQp6nwDVc=",
           "py2.py3"
         ]
       }
@@ -76779,6 +76803,14 @@
           "py3"
         ]
       }
+    },
+    "16.0.1.0.0.2": {
+      "wheels": {
+        "odoo_addon_account_invoice_triple_discount-16.0.1.0.0.2-py3-none-any.whl": [
+          "khbi8mko5R8bkSX/I5jBwIz/BlSGAqkdCx3pusfOqf8=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo-addon-auto-backup": {
@@ -114942,6 +114974,18 @@
         ]
       }
     },
+    "1.24.1": {
+      "sdist": [
+        "apXAcARQEPQTDUdQ3i9+LT/4BvIeCcN1f8kmkHvfiQI=",
+        "sertit-1.24.1.tar.gz"
+      ],
+      "wheels": {
+        "sertit-1.24.1-py3-none-any.whl": [
+          "bdOPFAaNpCe6LJqnEIShi2AZBqbylry0WNKkB1YEJfY=",
+          "py3"
+        ]
+      }
+    },
     "1.3.0": {
       "sdist": [
         "hzWtO4LyBXmOt3QE0J6eLeM1IkPuYhpWEJ5+8hfDRQ4=",
@@ -120968,6 +121012,12 @@
       "sdist": [
         "ijvmFdNWlSZEcTpTx00Iqm6aazSeHmstp2IQu9U//vg=",
         "spt_factory-0.0.23.tar.gz"
+      ]
+    },
+    "0.0.24": {
+      "sdist": [
+        "fz4OwLrt1IdjfLEY7vDWSmGhfMTY5xetEFfHivkfjvQ=",
+        "spt_factory-0.0.24.tar.gz"
       ]
     },
     "0.0.3": {
@@ -159950,6 +160000,34 @@
         ],
         "xia_fields-0.2.27-cp39-none-win_amd64.whl": [
           "YimKHdSAlAGvXXYdHeU5yShdTXWnKyb8GQYEQ34vnWQ=",
+          "cp39"
+        ]
+      }
+    },
+    "0.2.28": {
+      "wheels": {
+        "xia_fields-0.2.28-cp310-none-macosx_11_0_x86_64.whl": [
+          "iXeW0HAKiQ9n8sYpvbSYYPfZzId1ZzBlMY0JaYF7EJU=",
+          "cp310"
+        ],
+        "xia_fields-0.2.28-cp310-none-manylinux1_x86_64.whl": [
+          "6hu57YIOcYE2A570Orvn8KvvV7oDxjrUWVxGEeMtaRI=",
+          "cp310"
+        ],
+        "xia_fields-0.2.28-cp310-none-win_amd64.whl": [
+          "XumtCsxE2X6Fmp0hRIm3M+b79DZjbhBwFWuvyKjLonc=",
+          "cp310"
+        ],
+        "xia_fields-0.2.28-cp39-none-macosx_11_0_x86_64.whl": [
+          "bth8yP0LTMTZPpgu+zeSKW8nKANx/E6nSZZFG480W40=",
+          "cp39"
+        ],
+        "xia_fields-0.2.28-cp39-none-manylinux1_x86_64.whl": [
+          "4dyl6tbKq8psQZEdMW+q6HebbLZONqWRcuf84u8jOVI=",
+          "cp39"
+        ],
+        "xia_fields-0.2.28-cp39-none-win_amd64.whl": [
+          "l7knplcykuwWUE78kFzEpXQD/f0ELu00XI5DjBCNtmQ=",
           "cp39"
         ]
       }

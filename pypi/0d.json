@@ -26441,6 +26441,12 @@
         "Qo1YaGRafw4SG1wl8Wdqbq4mh9GzxKoZyqszSrtLjjE=",
         "canonical-0.3.0.tar.gz"
       ]
+    },
+    "0.4.0": {
+      "sdist": [
+        "12ZFnpnfoAd1kD3NDfVvsdKGn9CMtLRZdi2CjN3Xr3A=",
+        "canonical-0.4.0.tar.gz"
+      ]
     }
   },
   "captcha2uploadcasesensitive": {
@@ -67878,6 +67884,12 @@
         "imio.email.dms-0.2.tar.gz"
       ]
     },
+    "0.20": {
+      "sdist": [
+        "GN4QDuc6jHNrjhTdWuqwJIy19lZEfhi5o0mZjw7N8e4=",
+        "imio.email.dms-0.20.tar.gz"
+      ]
+    },
     "0.3": {
       "sdist": [
         "geyJlC1twM3ujfF/a7XVUrcW5tp9YWvKG4kb71df+uw=",
@@ -85082,6 +85094,18 @@
         ]
       }
     },
+    "1.0.12": {
+      "wheels": {
+        "navconfig-1.0.12-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "jRiMG0mAD6EKq2yox4lC1Mid2nq9UW7Pw2XhVRBOURM=",
+          "cp38"
+        ],
+        "navconfig-1.0.12-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Z7raWmzchmzyL6yIDe1XeGtifuBLHcQgVPKvFMFROhA=",
+          "cp39"
+        ]
+      }
+    },
     "1.0.2": {
       "wheels": {
         "navconfig-1.0.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
@@ -96445,6 +96469,14 @@
           "py3"
         ]
       }
+    }
+  },
+  "ossxe": {
+    "1.0": {
+      "sdist": [
+        "X2ppWZGHegkNL5ygqM2cqMUTj0QkciXFE2YYRcnIpLw=",
+        "ossxe-1.0.tar.gz"
+      ]
     }
   },
   "ost-kyc-sdk-python": {
@@ -136916,6 +136948,18 @@
       "wheels": {
         "TheSilent-0.0.200-py3-none-any.whl": [
           "d3tM4VNkRI6x/HwUWhkfycfKBcTcRjhJ6gSAp2PhqpU=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.201": {
+      "sdist": [
+        "SreUesmAAVS10teZAWBcwLivNczJlQR9FpU5vBJE0Iw=",
+        "TheSilent-0.0.201.tar.gz"
+      ],
+      "wheels": {
+        "TheSilent-0.0.201-py3-none-any.whl": [
+          "aUW41s9/qvevhgWVsPLRF/A9IUlYHVUn7650v3SnR+8=",
           "py3"
         ]
       }

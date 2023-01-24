@@ -3384,6 +3384,18 @@
         ]
       }
     },
+    "103.0": {
+      "sdist": [
+        "ujWtJkTFHOgIkODPvjJHCtht551SkbsCpmAF1NLd1EQ=",
+        "always_updates-103.0.tar.gz"
+      ],
+      "wheels": {
+        "always_updates-103.0-py3-none-any.whl": [
+          "gO/vv5v2KKBk/hRTXDHzPXEiVYw+1QJ5J2mP4Qdxx8A=",
+          "py3"
+        ]
+      }
+    },
     "11.0": {
       "sdist": [
         "l6XDuC9RiMDpTxFY0u1h9XkWF99c5tV29e2rN/lpvdo=",
@@ -18406,6 +18418,18 @@
       "wheels": {
         "autorandr-1.13.2.post1-py3-none-any.whl": [
           "87hf2u+D5RkHFKqYtYhOxV0cwRx17+mGARPuf0KdyDU=",
+          "py3"
+        ]
+      }
+    },
+    "1.13.3.post1": {
+      "sdist": [
+        "ZYLg9A2tMvHBFW9EcAqkeCHKWg2D6RurzFWlNEm/YUk=",
+        "autorandr-1.13.3.post1.tar.gz"
+      ],
+      "wheels": {
+        "autorandr-1.13.3.post1-py3-none-any.whl": [
+          "0VIuBz5iMFFp4md9c2ay2/TWfgz3w7lydfPrcDDkBoQ=",
           "py3"
         ]
       }
@@ -35851,6 +35875,20 @@
       }
     }
   },
+  "dbt-gloss": {
+    "1.0.0": {
+      "sdist": [
+        "9JtntnXachVu/mMAf5OAXti7Xph4VR2e4o2guxqbn0c=",
+        "dbt-gloss-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "dbt_gloss-1.0.0-py2.py3-none-any.whl": [
+          "mKrfbXF652m0NIWAvHt2IPWvc2VyZeY6xRyKoMIKLnU=",
+          "py2.py3"
+        ]
+      }
+    }
+  },
   "dbus-signature-pyparsing": {
     "0.2": {
       "sdist": [
@@ -48345,6 +48383,10 @@
         "enot_autodl_yandex-3.1.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "oUVsmlW7GYryQwGjnrxG8Dom1v44ElxY2nXzxayfPyA=",
           "cp38"
+        ],
+        "enot_autodl_yandex-3.1.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "AEmgfwSdT7yGg8zrMyKrXojvh2yfSG3h4jDt4eTKh3o=",
+          "cp39"
         ]
       }
     }
@@ -49426,6 +49468,12 @@
       "sdist": [
         "OhDAMQgNZGjsS8fmaMmjSum+FFPW6oN+ah9dpwFZGjU=",
         "exma-0.5.8.tar.gz"
+      ]
+    },
+    "0.5.9": {
+      "sdist": [
+        "URHabI8xrndgkyeDocIa5aLXhoPaQ7fj0rtlcl0bLYQ=",
+        "exma-0.5.9.tar.gz"
       ]
     }
   },
@@ -112636,6 +112684,12 @@
       "sdist": [
         "1jpCRhLFktHFCNQL7jbkDIUq+Yo6AXGxoJu0jm6ry+s=",
         "python-kacl-0.3.3.tar.gz"
+      ]
+    },
+    "0.3.4": {
+      "sdist": [
+        "hjZ3/lmYAfg/etXxBYW9F6GBJg6Po9vH+X0WB7kDYyg=",
+        "python-kacl-0.3.4.tar.gz"
       ]
     }
   },

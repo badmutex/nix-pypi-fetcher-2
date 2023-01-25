@@ -12841,6 +12841,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.56": {
+      "sdist": [
+        "LQ4HHVnnSXtjw62+QV8wKqZ4wCewfTJeoFbJEvBBd+Y=",
+        "botocore-a-la-carte-codeartifact-1.29.56.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_codeartifact-1.29.56-py3-none-any.whl": [
+          "bpjNOsVt9pE5YLZCEAJX7qlIF4gI6ixzNunTXxP9eRs=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-sagemaker-edge": {
@@ -13008,6 +13020,18 @@
       "wheels": {
         "botocore_a_la_carte_sagemaker_edge-1.29.55-py3-none-any.whl": [
           "2KWlc1PeximfhZ4jc01MX42ZajFk8hc8mKEVrVaIem8=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.56": {
+      "sdist": [
+        "ajBj1GjytyqAPvkfgxiFVD8S3IxnuOXaj9jaS5V9Mek=",
+        "botocore-a-la-carte-sagemaker-edge-1.29.56.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_sagemaker_edge-1.29.56-py3-none-any.whl": [
+          "C9tbMVE2QEjuT2E9ZCRJBDi4lzRaM3s5HUoVatJdbxw=",
           "py3"
         ]
       }
@@ -151082,6 +151106,12 @@
       "sdist": [
         "IKmAl7rssfwnn/2fZFW1oxLkmNQogshNCqAvcirfd7k=",
         "voicegain-speech-1.74.1.tar.gz"
+      ]
+    },
+    "1.75.0": {
+      "sdist": [
+        "WzSGs6mllUdzuCzepysxU51JzH8Npx0yxnKk/CUSc7I=",
+        "voicegain-speech-1.75.0.tar.gz"
       ]
     }
   },

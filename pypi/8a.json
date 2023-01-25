@@ -23972,20 +23972,14 @@
     }
   },
   "custom-maya": {
-    "0.1": {
+    "0.0.2": {
       "sdist": [
-        "FBwkxYm2ITqAyglynzTI58Baqa/m4AmHaH5k/rv+Nc8=",
-        "custom_maya-0.1.tar.gz"
-      ]
-    },
-    "0.2": {
-      "sdist": [
-        "nxF59qYipVnGbGWBweO99azKfhUsbE1H0LB+IqrUjAo=",
-        "custom_maya-0.2.tar.gz"
+        "iFcBV8xciGKf6+QwEAL+ub8ANQlQKC3w8+NquKYxyxM=",
+        "custom_maya-0.0.2.tar.gz"
       ],
       "wheels": {
-        "custom_maya-0.2-py3-none-any.whl": [
-          "g8Kk4jOHRk1HUJYVkppQuk8UZkE+TTGuz+sdiRKKoK0=",
+        "custom_maya-0.0.2-py3-none-any.whl": [
+          "IPtyGMpoloBDqFf/FTVLKRO3XiPUb2JNFPICDQV4MMI=",
           "py3"
         ]
       }
@@ -75828,6 +75822,14 @@
         ]
       }
     },
+    "1.8.15": {
+      "wheels": {
+        "mbed_host_tests-1.8.15-py2.py3-none-any.whl": [
+          "r8g7JjzeO8J3nXrFU43hQFwGpy9Tdq00gFCj6j9eE9I=",
+          "py2.py3"
+        ]
+      }
+    },
     "1.8.2": {
       "wheels": {
         "mbed_host_tests-1.8.2-py2.py3-none-any.whl": [
@@ -84670,6 +84672,34 @@
         ],
         "OctoBot_Trading-2.3.11-cp38-cp38-win_amd64.whl": [
           "6ShEm+VxKUrRsPisLTo3J5QKY95BN5RxWsg7ucwZWwc=",
+          "cp38"
+        ]
+      }
+    },
+    "2.3.12": {
+      "sdist": [
+        "evSWay/ln3JDll5v3zFw/WloKpq1V/7KkyXIJbAQeeo=",
+        "OctoBot-Trading-2.3.12.tar.gz"
+      ],
+      "wheels": {
+        "OctoBot_Trading-2.3.12-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "FKl0N2Lf/HZvdSyakN5MGkjAZePtopMfj8TAQ2a+N3o=",
+          "cp38"
+        ],
+        "OctoBot_Trading-2.3.12-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "ilXMJZRVZECKQhUB9TVdHpRuDjuiZ2JLSOyc10+dc2o=",
+          "cp38"
+        ],
+        "OctoBot_Trading-2.3.12-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "6xRBEHVTBp6nFn7NadFZ61ty3MYLfM08Mou0s72IMno=",
+          "cp38"
+        ],
+        "OctoBot_Trading-2.3.12-cp38-cp38-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "6iJUZTgbBsZG9lqizUzuUL/TPjVRnIE50tyIvtgG9Co=",
+          "cp38"
+        ],
+        "OctoBot_Trading-2.3.12-cp38-cp38-win_amd64.whl": [
+          "7oMD4BZLQOCvcI/AnTEPNHXJYBnsuk233lX3CTej/xE=",
           "cp38"
         ]
       }
@@ -110042,20 +110072,88 @@
     },
     "0.0.0.2.post1": {
       "wheels": {
+        "pytoulbar2-0.0.0.2.post1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "IR88A9WbYZnh8JxZJ2UT1f4gW8fndwu9vefgvoQ8wFU=",
+          "cp310"
+        ],
+        "pytoulbar2-0.0.0.2.post1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Rr83vd7S4uj6gp6sj1MFX3sJAP20aY9pzEy1bzW9aKc=",
+          "cp311"
+        ],
         "pytoulbar2-0.0.0.2.post1-cp36-cp36m-macosx_10_9_x86_64.whl": [
           "eZCwfF01B4357f8EfldrQKcU6IIKtRNv29pCrl6UijY=",
+          "cp36"
+        ],
+        "pytoulbar2-0.0.0.2.post1-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "hvRWCIPXNwZAYj/PYUByTFJGu34SaZAlNDvXPNFybbM=",
           "cp36"
         ],
         "pytoulbar2-0.0.0.2.post1-cp37-cp37m-macosx_10_9_x86_64.whl": [
           "21yty9JKXtVE8x9YSuHATpAlE2AedQwfM1CfEz3Wgbo=",
           "cp37"
         ],
+        "pytoulbar2-0.0.0.2.post1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "r6atLAAnDgh50yfGW7HgS6QNvvqVYEuLag/TBwIzwGI=",
+          "cp37"
+        ],
         "pytoulbar2-0.0.0.2.post1-cp38-cp38-macosx_10_9_x86_64.whl": [
           "R3c/q2DYpz3TMBfNBVEXMe89pVOXJDTz8CRQm6nVpQk=",
           "cp38"
         ],
+        "pytoulbar2-0.0.0.2.post1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "UFJVA8cJteeF322/MKkVvzvZE+vBpQwXJhSCcITlv5w=",
+          "cp38"
+        ],
         "pytoulbar2-0.0.0.2.post1-cp39-cp39-macosx_10_9_x86_64.whl": [
           "GMnS9gQk9b0Knc3QuydFsoWdGcKieRsNjXwkd7td+n0=",
+          "cp39"
+        ],
+        "pytoulbar2-0.0.0.2.post1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Bx7coMnZ7roiI8CIaNgAKof51MtKWa6HCm6ZCkCFSZ8=",
+          "cp39"
+        ]
+      }
+    },
+    "0.0.0.3": {
+      "wheels": {
+        "pytoulbar2-0.0.0.3-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "aDX/Y5XCFbDvLzrGcwpKyfBGnp3k9woDtTiyo/f1JtA=",
+          "cp310"
+        ],
+        "pytoulbar2-0.0.0.3-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "4sC/G2rVweLtpApYnYN9HYmW1eK2xwnOujVi1TB7ouo=",
+          "cp311"
+        ],
+        "pytoulbar2-0.0.0.3-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "TnMIyVpRKsv7oGqmGzvUU9bxsKjtF9FcOfCJpJVifo4=",
+          "cp36"
+        ],
+        "pytoulbar2-0.0.0.3-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "8QqITXryZ1DkC28u5MzCzAteDaCHx8Wy9ajX0hq1QoI=",
+          "cp36"
+        ],
+        "pytoulbar2-0.0.0.3-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "z6f3kZwMOMYBUOSzeaPKf9vcJP+PwEOeVCb5MVLmYt8=",
+          "cp37"
+        ],
+        "pytoulbar2-0.0.0.3-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "3KeU/yP34quv9V2R3Ri24gEoAChERALEPT2RKlUVe68=",
+          "cp37"
+        ],
+        "pytoulbar2-0.0.0.3-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "tCuXZZXwWXOWvb954cHC3C+mI7B7yky4cJuuySkrhkI=",
+          "cp38"
+        ],
+        "pytoulbar2-0.0.0.3-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "YLke+cEV+WKjgeMXOskM/2Zk6T83DS3crf/z3w9hkIw=",
+          "cp38"
+        ],
+        "pytoulbar2-0.0.0.3-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "jT727/c1sfPYH9C5tP7/bXcYNUDguCJRoPJlQDQcZSk=",
+          "cp39"
+        ],
+        "pytoulbar2-0.0.0.3-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "tP+qSH1yDkCppqze9/MUW34LqH5iaZ8WWPo4sVkut+w=",
           "cp39"
         ]
       }
@@ -142594,6 +142692,30 @@
       "wheels": {
         "vulnerablecode-31.1.1-py3-none-any.whl": [
           "AJaAVb5K/0yIvis0GYCLOlLUfT0iFLq+tuZLr8pP6K8=",
+          "py3"
+        ]
+      }
+    },
+    "32.0.0rc1": {
+      "sdist": [
+        "W0+fMPvOvWxxsvx9shXuxBWI6ySokHe3nxnvTH73DZc=",
+        "vulnerablecode-32.0.0rc1.tar.gz"
+      ],
+      "wheels": {
+        "vulnerablecode-32.0.0rc1-py3-none-any.whl": [
+          "HDPge5ZskJegFEynmELANk8sgd0wLJbWK2j39MRKyMA=",
+          "py3"
+        ]
+      }
+    },
+    "32.0.0rc2": {
+      "sdist": [
+        "caneriD5LZs1jYYr1Y6t4OXcCASiXrw3SRc5jl2DsTg=",
+        "vulnerablecode-32.0.0rc2.tar.gz"
+      ],
+      "wheels": {
+        "vulnerablecode-32.0.0rc2-py3-none-any.whl": [
+          "fKa56+vAcpaOy9cYAOLomvKW3VgYhtr3pEDUR0SS72M=",
           "py3"
         ]
       }

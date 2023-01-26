@@ -8279,6 +8279,18 @@
           "py3"
         ]
       }
+    },
+    "2.62.1a0": {
+      "sdist": [
+        "K/JANHU3/d4ZUj0/Quudoxyll7otEvIdvBopVBOx5wU=",
+        "aws-cdk.aws-s3objectlambda-alpha-2.62.1a0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_s3objectlambda_alpha-2.62.1a0-py3-none-any.whl": [
+          "eDpHzR7pR0ZD89cbyxZPqfO8bjoDQ5hhYD3IK7ym1YA=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-cdkaws-sns-subscriptions": {
@@ -39112,6 +39124,18 @@
       "wheels": {
         "edilkamin-1.2.0-py3-none-any.whl": [
           "GzDGJRj70My1M7HCUgvxCRSi3irpbjH5UrDe74NS1kE=",
+          "py3"
+        ]
+      }
+    },
+    "1.3.0": {
+      "sdist": [
+        "YktgyRJ26DX0RBbXhNAn5rp1MP0j0xQcqm0K11/ti18=",
+        "edilkamin-1.3.0.tar.gz"
+      ],
+      "wheels": {
+        "edilkamin-1.3.0-py3-none-any.whl": [
+          "YGeOjNYhSx/WUSCzy65ypepIep1wNBt6YaAJ7kMrESg=",
           "py3"
         ]
       }
@@ -76325,6 +76349,14 @@
           "py3"
         ]
       }
+    }
+  },
+  "my-example": {
+    "1.0": {
+      "sdist": [
+        "FbIeGDICyS8KuGdqI8+mf0Wf+H41ByA7c0pGWo+bXfs=",
+        "my_example-1.0.tar.gz"
+      ]
     }
   },
   "my-plugin": {

@@ -7987,6 +7987,18 @@
           "py3"
         ]
       }
+    },
+    "2.62.1a0": {
+      "sdist": [
+        "VzQ/S6htVjwHMSqiw/oN8XeSK2KqQWE6xxsVmyUqtlA=",
+        "aws-cdk.aws-sagemaker-alpha-2.62.1a0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_sagemaker_alpha-2.62.1a0-py3-none-any.whl": [
+          "Kfdf0h2k+p4S5lNMTuIGSDgF6QmUTsu4Rh4cqZD+Wk8=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-cdk.aws-workspaces": {
@@ -50237,6 +50249,30 @@
           "py3"
         ]
       }
+    },
+    "1.0.8": {
+      "sdist": [
+        "pj7BYWYYwUG1IuMPwBgjEbtIcPP6focnsqC3aGHrZeM=",
+        "ezcode-1.0.8.tar.gz"
+      ],
+      "wheels": {
+        "ezcode-1.0.8-py3-none-any.whl": [
+          "Ja2JEqE5bSxdNneZtQsGmslY1kH0pam3iPAzOGFlKwM=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.9": {
+      "sdist": [
+        "bBUHg2biGjX00M+kkekvh24XTr1Y1e41x6TxsIXHfFM=",
+        "ezcode-1.0.9.tar.gz"
+      ],
+      "wheels": {
+        "ezcode-1.0.9-py3-none-any.whl": [
+          "2Smqj0oEMkHwF03FG6p6ZhClEVQyHmvbtD8izINYqos=",
+          "py3"
+        ]
+      }
     }
   },
   "ezobject2xml": {
@@ -76555,6 +76591,30 @@
           "py3"
         ]
       }
+    },
+    "0.0.5": {
+      "sdist": [
+        "LwuXiY/NhfKct1RxAFuMd7qZuaaZbiD7gVbsGda2PGA=",
+        "magicsoup-0.0.5.tar.gz"
+      ],
+      "wheels": {
+        "magicsoup-0.0.5-py3-none-any.whl": [
+          "BDm9b9PF/83l0TUZOndY9+1KPLm8nA1RXYJ0eJd2uTk=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.6": {
+      "sdist": [
+        "ppmUSBCZf3HIFOfGR/SIXO3qdakE/VuTRZesn2l4oEI=",
+        "magicsoup-0.0.6.tar.gz"
+      ],
+      "wheels": {
+        "magicsoup-0.0.6-py3-none-any.whl": [
+          "xfkBAiPoOIMCmcjIBKYer3wbyoOwMZfvejK9VkcWBUk=",
+          "py3"
+        ]
+      }
     }
   },
   "mahsanul-distributions": {
@@ -81294,6 +81354,18 @@
       "wheels": {
         "ml_indie_tools-0.4.3-py3-none-any.whl": [
           "UyUFbFvlPw9o4OV+1BkWd1qluy/5IbtzaaEpAmYmdXA=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.4": {
+      "sdist": [
+        "bA1k6/AcFf9E7wDTajQ3pDTYHbQ2/oiTRS8Wt5m7YMw=",
+        "ml-indie-tools-0.4.4.tar.gz"
+      ],
+      "wheels": {
+        "ml_indie_tools-0.4.4-py3-none-any.whl": [
+          "uxGgBohXn9JpGfDXn2Uq+yucC/R++W8XKDsDwwhsj1A=",
           "py3"
         ]
       }
@@ -93700,77 +93772,17 @@
     }
   },
   "oceansoundscape": {
-    "1.0.0": {
+    "2.0.0": {
       "sdist": [
-        "mG4xPVhm643ckSl7zK0DrGYzRc4OZBKVW3OWNdUwwMs=",
-        "oceansoundscape-1.0.0.tar.gz"
+        "jb3gfwBtSW4L2b3/3gylfvwEPTVnxASu4Jekz7e5GjA=",
+        "oceansoundscape-2.0.0.tar.gz"
       ],
       "wheels": {
-        "oceansoundscape-1.0.0-py3-none-any.whl": [
-          "A4sP+vqN3VCne3xGiYfSfBAbCgO4nWDYu0vVu8t+JNc=",
+        "oceansoundscape-2.0.0-py3-none-any.whl": [
+          "c1oBVcUmJadzw5XcR/vh+k7TTfLPaJkarnpBAMplfsA=",
           "py3"
         ]
       }
-    },
-    "1.0.1": {
-      "sdist": [
-        "QcS1nxp3WmuHlOWD3te6Oxchep4M5MSs/6hNg6K0I2c=",
-        "oceansoundscape-1.0.1.tar.gz"
-      ],
-      "wheels": {
-        "oceansoundscape-1.0.1-py3-none-any.whl": [
-          "wqB75fvKUgIGFn6tN7c9YFxJIW7SfeC/2B6x416VE4g=",
-          "py3"
-        ]
-      }
-    },
-    "1.0.2": {
-      "sdist": [
-        "IU8zwH4Epe69MP8ulDQbb8Yvt7/8kqS5rfR4vv6obDQ=",
-        "oceansoundscape-1.0.2.tar.gz"
-      ]
-    },
-    "1.0.3": {
-      "sdist": [
-        "DB1YG7K6fzcf0llUN6SZu+ee0cCwqIg/FoteIr29i5c=",
-        "oceansoundscape-1.0.3.tar.gz"
-      ]
-    },
-    "1.0.4": {
-      "sdist": [
-        "4B6yXL/mKZQz16yCjTXGWiFNz4vI6qZbT5cz5opZw8Y=",
-        "oceansoundscape-1.0.4.tar.gz"
-      ]
-    },
-    "1.0.5": {
-      "sdist": [
-        "6UGpmfuDFNsomnGDWxi2Yifg4kC6bjE9974K186xoW8=",
-        "oceansoundscape-1.0.5.tar.gz"
-      ]
-    },
-    "1.0.6": {
-      "sdist": [
-        "BWrXjPzJU7fCkji/rDAyaylpkOGQgLpGUhGZtsZFQ78=",
-        "oceansoundscape-1.0.6.tar.gz"
-      ]
-    },
-    "1.1.0": {
-      "sdist": [
-        "yFB+LSoFz/gzhhWvqyEYIU0c4c/6afy0UWHw3ztezTQ=",
-        "oceansoundscape-1.1.0.tar.gz"
-      ]
-    },
-    "1.1.1": {
-      "sdist": [
-        "PCHAwuA7VocTwdybMhsll6D3K2cKaXcIMSDkNN+XSiw=",
-        "oceansoundscape-1.1.1.tar.gz"
-      ]
-    },
-    "1.1.2": {
-      "sdist": [
-        "PFevZv31IMg4izs37wMByZa4AfyfsPdhUfuhEqOwYwA=",
-        "oceansoundscape-1.1.2.tar.gz"
-      ]
     }
   },
   "oceantide": {
@@ -113960,6 +113972,142 @@
     }
   },
   "pyqbdi": {
+    "0.10.0": {
+      "sdist": [
+        "cZY6KgmX+u1BmMldcXvLNcQc0qO3kOzssQWlC2QpxXA=",
+        "PyQBDI-0.10.0.tar.gz"
+      ],
+      "wheels": {
+        "PyQBDI-0.10.0-cp310-cp310-linux_armv7l.whl": [
+          "ZctE8jlbf9PTBQg+rcy8X23Dp/Ms/tazJLkm8aW4TcE=",
+          "cp310"
+        ],
+        "PyQBDI-0.10.0-cp310-cp310-macosx_10_14_x86_64.whl": [
+          "nRbyIsBLdINlA2MQ9+Iqr6PObLm0A/qiRDOXRJNwOfg=",
+          "cp310"
+        ],
+        "PyQBDI-0.10.0-cp310-cp310-macosx_11_0_arm64.whl": [
+          "93ighdpvdo/UTyDUCwGcWZYd/gepvy7NoGmszNFeIfo=",
+          "cp310"
+        ],
+        "PyQBDI-0.10.0-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "enMYdTjXrnC16uSWcFTM55B3cQqw6RsGiMikqiZ9Xt4=",
+          "cp310"
+        ],
+        "PyQBDI-0.10.0-cp310-cp310-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "ttekFzSKQkh54QBb/hEbF0Luy8CwpYk8JT+K+F6aGZc=",
+          "cp310"
+        ],
+        "PyQBDI-0.10.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "yQ6KvJUurq4FtZJ/HcTTGwmCGxSnx+Kb4fv1P7iPH6M=",
+          "cp310"
+        ],
+        "PyQBDI-0.10.0-cp310-cp310-win32.whl": [
+          "J6J4EElFn9K5mA55BvYWrgH9QaJTvOXd0wWVfrryYpc=",
+          "cp310"
+        ],
+        "PyQBDI-0.10.0-cp310-cp310-win_amd64.whl": [
+          "jH6fRRn7FKlW9i5shc0K4Lb32cghikRmtzV+3OuEZ0w=",
+          "cp310"
+        ],
+        "PyQBDI-0.10.0-cp311-cp311-linux_armv7l.whl": [
+          "74vftlAWCIo+lwokT+4M+7Q7otI2r9QubPd7JaT9Quw=",
+          "cp311"
+        ],
+        "PyQBDI-0.10.0-cp311-cp311-macosx_10_14_x86_64.whl": [
+          "Cd93AqoRxTPjE79L6z53ERNUy2WzqPcDYL9iub/IUEU=",
+          "cp311"
+        ],
+        "PyQBDI-0.10.0-cp311-cp311-macosx_11_0_arm64.whl": [
+          "7SYGueGOYd2viR96cAJ32oIh+INIM5rnRsqFPz1mX7o=",
+          "cp311"
+        ],
+        "PyQBDI-0.10.0-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "t8MXdnQKv3S8LFWTda/X5xJ5xexsYP1ouWSnNVS2a7I=",
+          "cp311"
+        ],
+        "PyQBDI-0.10.0-cp311-cp311-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "bRkV73/nirCBl+5mACqlw+nlMANw1hq1w/6GaS/xsWI=",
+          "cp311"
+        ],
+        "PyQBDI-0.10.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "5OqpaWJq6yPNhxOH3EC9LC7UArpFrFDWAZLc+IbkoY4=",
+          "cp311"
+        ],
+        "PyQBDI-0.10.0-cp311-cp311-win32.whl": [
+          "mQm6Hh2GrzjOaH7xl2y7Z6IJHmTLBvP9xVpMb+TcQjU=",
+          "cp311"
+        ],
+        "PyQBDI-0.10.0-cp311-cp311-win_amd64.whl": [
+          "76WG5BNLraZQDgnc3C00/hP8YIkVuYO7T7anyKO0c1s=",
+          "cp311"
+        ],
+        "PyQBDI-0.10.0-cp38-cp38-linux_armv7l.whl": [
+          "/6LK+1qFl36tij14EQ6Fs690SFL2TumI01+bd7uUc4c=",
+          "cp38"
+        ],
+        "PyQBDI-0.10.0-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "i7PqovKBVdWDmjhBLrcAFn6MghluuGgJ7OqvAi0VkOI=",
+          "cp38"
+        ],
+        "PyQBDI-0.10.0-cp38-cp38-macosx_11_0_arm64.whl": [
+          "I38ZS80eaprLhokz+3ZgHxBfD0msm9P9jCoCiM2uyqE=",
+          "cp38"
+        ],
+        "PyQBDI-0.10.0-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "j6VCehAYSpyYAvA494k9N76Lxrt5KsZTH/pOWMh0iQo=",
+          "cp38"
+        ],
+        "PyQBDI-0.10.0-cp38-cp38-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "130vSFRnnBnnyiRZ7IMggT22t8pp21EAiEu/aRsrOU4=",
+          "cp38"
+        ],
+        "PyQBDI-0.10.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "nxEVaLJk3o9Tzr8E9ImmSYIqpAo09fRAsn+oxVyOwEg=",
+          "cp38"
+        ],
+        "PyQBDI-0.10.0-cp38-cp38-win32.whl": [
+          "++uryXlifDOU6ggVVyo1p24z0Ij79bmoiFGWiFCIpk0=",
+          "cp38"
+        ],
+        "PyQBDI-0.10.0-cp38-cp38-win_amd64.whl": [
+          "Me6SkEncOwZa3oLpRUJGG4dVySlmmo4rX9RsPs6Fa18=",
+          "cp38"
+        ],
+        "PyQBDI-0.10.0-cp39-cp39-linux_armv7l.whl": [
+          "CdL0BxRPbwtjLmsdMpzfIYPbT8Lz8f/OiqRU7G7L+c8=",
+          "cp39"
+        ],
+        "PyQBDI-0.10.0-cp39-cp39-macosx_10_14_x86_64.whl": [
+          "S1QSqiA7XsWYwaqALEx+my/a2SMpHSORZp5GDe6IBCs=",
+          "cp39"
+        ],
+        "PyQBDI-0.10.0-cp39-cp39-macosx_11_0_arm64.whl": [
+          "2VBVYZ05KFuP9cZEuoZvaTtnlsz56ByWYg4+07ooZ78=",
+          "cp39"
+        ],
+        "PyQBDI-0.10.0-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "5ADZuHJriRv50HRm+5VJSRiaQNWT5+KUFwEHEvRUSAI=",
+          "cp39"
+        ],
+        "PyQBDI-0.10.0-cp39-cp39-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "QIvJrLGSHqui6WowwXBvnm3cdiIQptnvn9KkCxbRgLQ=",
+          "cp39"
+        ],
+        "PyQBDI-0.10.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "fL6dYHAdw1YinQc0bpm+BiU655QzDPlRWvNIR3j1rJI=",
+          "cp39"
+        ],
+        "PyQBDI-0.10.0-cp39-cp39-win32.whl": [
+          "uWZmm83u0F4CpCmFRSRz+mgD5+exu12DnaJg26Lso4o=",
+          "cp39"
+        ],
+        "PyQBDI-0.10.0-cp39-cp39-win_amd64.whl": [
+          "ERo7249WhUGRw9TPjnrnLgwKwSlaHSc+/bDJgQsfOgw=",
+          "cp39"
+        ]
+      }
+    },
     "0.7.1": {
       "wheels": {
         "PyQBDI-0.7.1-cp35-cp35m-manylinux2010_i686.whl": [

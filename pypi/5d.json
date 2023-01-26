@@ -63477,6 +63477,18 @@
           "py3"
         ]
       }
+    },
+    "26.0.0a20230400": {
+      "sdist": [
+        "hJtt6cR/pEE01G2sPWqA/tzjNu5/dVnwSKI1kHSU0Qc=",
+        "lsst-ctrl-bps-26.0.0a20230400.tar.gz"
+      ],
+      "wheels": {
+        "lsst_ctrl_bps-26.0.0a20230400-py3-none-any.whl": [
+          "AAtoWsnd+tyh2L2dhxHvQwTE0SFSQNbAuq4Fba8PkV8=",
+          "py3"
+        ]
+      }
     }
   },
   "lsst-rsp": {
@@ -160146,6 +160158,34 @@
         ],
         "xia_fields-0.2.3-cp39-none-win_amd64.whl": [
           "nbhVs1Nt0NB9gKhH63v9CkpZcKRC7/4voxo2QMl6LbU=",
+          "cp39"
+        ]
+      }
+    },
+    "0.2.30": {
+      "wheels": {
+        "xia_fields-0.2.30-cp310-none-macosx_11_0_x86_64.whl": [
+          "uHtLxpvKChjWbLtLuKUk9VtT+oWFHV8L92Sl+RnbuWA=",
+          "cp310"
+        ],
+        "xia_fields-0.2.30-cp310-none-manylinux1_x86_64.whl": [
+          "dyWd8uruwxY9X5iUR7XLvNZZ6WiPN5CMoK6XYfFqZDg=",
+          "cp310"
+        ],
+        "xia_fields-0.2.30-cp310-none-win_amd64.whl": [
+          "ZrPYD5E/JNiqQfpLNm8CzmwUYxwA2GNpzcWkLUXo5pA=",
+          "cp310"
+        ],
+        "xia_fields-0.2.30-cp39-none-macosx_11_0_x86_64.whl": [
+          "rPFprfCe3eCd2U52SDTn8chlmHCMWJkYAa+6JdYg5+4=",
+          "cp39"
+        ],
+        "xia_fields-0.2.30-cp39-none-manylinux1_x86_64.whl": [
+          "rJ0d336k+HEG91wrnGG+rwcQ9LixWR/EKntg6MW+kM0=",
+          "cp39"
+        ],
+        "xia_fields-0.2.30-cp39-none-win_amd64.whl": [
+          "iLsEUvptF+TbWQwlHrcsCg0JU+6t5JzMwCHbEVWs5xo=",
           "cp39"
         ]
       }

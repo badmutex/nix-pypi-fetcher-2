@@ -22725,6 +22725,30 @@
         "/1Tsn8a4oNx9Iu6ukRIwoAt33CZnxW/dtliSU02l2js=",
         "converter_package-1.6.tar.gz"
       ]
+    },
+    "1.7": {
+      "sdist": [
+        "RX7loHGk3Jj2Jb3Gs0Jgb2BDFj0gQXQEHaAq/Ko8y0k=",
+        "converter_package-1.7.tar.gz"
+      ]
+    },
+    "1.8": {
+      "sdist": [
+        "MXOsf86Z4j6NinCUlP2e/TxQ8XvfaWz2BiPFIZZlhTI=",
+        "converter_package-1.8.tar.gz"
+      ]
+    },
+    "1.9": {
+      "sdist": [
+        "pNpM3r2e+sHNOBZMkdDogsgKe3naciS0B/4+Z45JXqE=",
+        "converter_package-1.9.tar.gz"
+      ]
+    },
+    "2.0": {
+      "sdist": [
+        "T+Yz2XctOjYPk6miT7CGhZV6wnf73Lo3DoZxMK5e1B4=",
+        "converter_package-2.0.tar.gz"
+      ]
     }
   },
   "convolution-overlap-add": {
@@ -62476,6 +62500,12 @@
         "libsgfdata-0.0.17.tar.gz"
       ]
     },
+    "0.0.18": {
+      "sdist": [
+        "6E8wpNI/hzPAeljFMKICq2gPSCjTdWayGvQ3NM70Nzw=",
+        "libsgfdata-0.0.18.tar.gz"
+      ]
+    },
     "0.0.2": {
       "sdist": [
         "Bpv5a0EZSElk5ssIzJHZKM9uxMaDOKgXKEOoGPwCbN0=",
@@ -64322,6 +64352,18 @@
     }
   },
   "lodgea-python": {
+    "0.0.0": {
+      "sdist": [
+        "pcstKjczBUaDz7Vb9STfdbRNf5k5ITxLXSY6ec7uiqM=",
+        "lodgea-python-0.0.0.tar.gz"
+      ],
+      "wheels": {
+        "lodgea_python-0.0.0-py3-none-any.whl": [
+          "6/HdyKIyfSS7A3ph/ufEgR1hOhZzekB76sqsZkp01zw=",
+          "py3"
+        ]
+      }
+    },
     "1.0.0": {
       "sdist": [
         "MiZaB9uKSRdXQwUjV9ev53z8UwVGCygiHRT/qIUURko=",
@@ -82366,6 +82408,114 @@
         ]
       }
     },
+    "0.31.0": {
+      "sdist": [
+        "zwAV5I0FTPZNCa9JYehhPNIfhtyVrOJOZRjVPBo7HYg=",
+        "NinjaTools-0.31.0.tar.gz"
+      ],
+      "wheels": {
+        "NinjaTools-0.31.0-py3-none-any.whl": [
+          "OjEJr78QuGp0KoJXTBbf3qPKku0KQ9ifD69ZUo115kQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.32.0": {
+      "sdist": [
+        "p/ajxzKHd28GROh2HNzp5cZ+6/BDJNVEkip6F5P9bLk=",
+        "NinjaTools-0.32.0.tar.gz"
+      ],
+      "wheels": {
+        "NinjaTools-0.32.0-py3-none-any.whl": [
+          "e1wl8rJNO8+Wsh3Ds7IpwySjPizley7F7pX4Sdz50xg=",
+          "py3"
+        ]
+      }
+    },
+    "0.33.0": {
+      "sdist": [
+        "tX4AcpdRFsBxzhmoAShW6X11KQCl720eD5dZ5wvp8es=",
+        "NinjaTools-0.33.0.tar.gz"
+      ],
+      "wheels": {
+        "NinjaTools-0.33.0-py3-none-any.whl": [
+          "oBNSESAeI9QynasHv2J8dDa+5b94s0V8sIFfj22aIDw=",
+          "py3"
+        ]
+      }
+    },
+    "0.34.0": {
+      "sdist": [
+        "05T9DOV+ST+Wp2GCIwAp5Oe18XJj5PzJ6dIDssDnKxk=",
+        "NinjaTools-0.34.0.tar.gz"
+      ],
+      "wheels": {
+        "NinjaTools-0.34.0-py3-none-any.whl": [
+          "ImfOEhhptSDn7UG35wM1X4QUmG73omWvf2qQu8NbFYU=",
+          "py3"
+        ]
+      }
+    },
+    "0.35.0": {
+      "sdist": [
+        "P+HvGxYbmeC+bGNAlpXog39olsmf6Ca5WBpLVs9aCcY=",
+        "NinjaTools-0.35.0.tar.gz"
+      ],
+      "wheels": {
+        "NinjaTools-0.35.0-py3-none-any.whl": [
+          "53etxSKXbc69YqTO331Ama9zpJdPsIyJVx/0dEA19zY=",
+          "py3"
+        ]
+      }
+    },
+    "0.36.0": {
+      "sdist": [
+        "LojSMPbQ8UBi54iQBfYbyarIFzloY5KOCm6xVjRXDJQ=",
+        "NinjaTools-0.36.0.tar.gz"
+      ],
+      "wheels": {
+        "NinjaTools-0.36.0-py3-none-any.whl": [
+          "DD4sjPDRGEM88lme8vqQdf2IPQwyeF02W1th5TL9LDs=",
+          "py3"
+        ]
+      }
+    },
+    "0.37.0": {
+      "sdist": [
+        "kh1flYQd1Pk/vGUbgvmND9HgMV985vec8q4GYxZdlgE=",
+        "NinjaTools-0.37.0.tar.gz"
+      ],
+      "wheels": {
+        "NinjaTools-0.37.0-py3-none-any.whl": [
+          "IzcCFn1C1ZsGQP4cwC8tQuv9KoFK/pBCCOrXEdomC58=",
+          "py3"
+        ]
+      }
+    },
+    "0.38.0": {
+      "sdist": [
+        "M6yxyXAzMxyDPROwaHV3ZtWJN8pTYscZ3YQJADbaQzU=",
+        "NinjaTools-0.38.0.tar.gz"
+      ],
+      "wheels": {
+        "NinjaTools-0.38.0-py3-none-any.whl": [
+          "S6eZCVPXevLW6L2ZuURBMFSgyApOz4YB1EyI+6S4FUA=",
+          "py3"
+        ]
+      }
+    },
+    "0.39.0": {
+      "sdist": [
+        "FZBCJV+Sr+vUWLvPKaxFY3U2JCZPBPFMVNiHKp1OL9w=",
+        "NinjaTools-0.39.0.tar.gz"
+      ],
+      "wheels": {
+        "NinjaTools-0.39.0-py3-none-any.whl": [
+          "ajyjYJHnxF0XnZ38/nhSuSQy88lgK4CmCt5Ocr0iE4M=",
+          "py3"
+        ]
+      }
+    },
     "0.4.0": {
       "sdist": [
         "gOs6RLUtI91+Kn9O89GaNfOXFEOT/tDKGDfG5a+SQMs=",
@@ -85691,6 +85841,14 @@
           "py3"
         ]
       }
+    },
+    "16.0.1.0.0.2": {
+      "wheels": {
+        "odoo_addon_base_rest_pydantic-16.0.1.0.0.2-py3-none-any.whl": [
+          "DAJOB0ZcEIZ1S84aGV0kyXYA9e+YJoo3UrsumQg661Q=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo-addon-fetchmail-notify-error-to-sender": {
@@ -86172,6 +86330,14 @@
       "wheels": {
         "odoo_addon_stock_request-15.0.1.1.0.1-py3-none-any.whl": [
           "cN5MTIynuqWgVmzUoutXcJt+v6gJQYwZ7c9IRUQvhAk=",
+          "py3"
+        ]
+      }
+    },
+    "15.0.1.2.0": {
+      "wheels": {
+        "odoo_addon_stock_request-15.0.1.2.0-py3-none-any.whl": [
+          "Lqo9lCe+LF24KQ+oHgf1EwR29Dd0HHw3/p49ohPC0b0=",
           "py3"
         ]
       }
@@ -131814,6 +131980,12 @@
       "sdist": [
         "9ubhbYOZw/lNGH2p1L/fyhYN5Q69p9Y/b6jvQXWX6bQ=",
         "slepc-3.18.1.tar.gz"
+      ]
+    },
+    "3.18.2": {
+      "sdist": [
+        "W9kKdVk05wKrH9szILn+datfwoyT02QkjqhqNy++amI=",
+        "slepc-3.18.2.tar.gz"
       ]
     },
     "3.8.0": {

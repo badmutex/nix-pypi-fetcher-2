@@ -3318,6 +3318,18 @@
         ]
       }
     },
+    "3.5.0": {
+      "sdist": [
+        "yQ03nMO8TS9UK++4pvePEr6PFjRymO0rio7HZeFr85I=",
+        "apache-airflow-providers-docker-3.5.0.tar.gz"
+      ],
+      "wheels": {
+        "apache_airflow_providers_docker-3.5.0-py3-none-any.whl": [
+          "K7CThYQnDDqnqPTT1wh2L8NpCrxMNwkn6HuMwbgJlSc=",
+          "py3"
+        ]
+      }
+    },
     "3.5.0rc1": {
       "sdist": [
         "SgqNQ7YbeoRZeCm+LOSoMycXAvVMt9ECKcAVMQnEeUA=",
@@ -16524,6 +16536,12 @@
       "sdist": [
         "cK9ui7FO8Dw+VpFjMTk5LhdKgJ89tf+9w1eZ/X3R/js=",
         "bobtemplates.plone-6.2.tar.gz"
+      ]
+    },
+    "6.2.1": {
+      "sdist": [
+        "g7OCYkCFZJOM5WGG0PVKVYDmTav6xI6b7wG2XQt31Zc=",
+        "bobtemplates.plone-6.2.1.tar.gz"
       ]
     }
   },
@@ -53710,6 +53728,18 @@
       "sdist": [
         "ODrnUBaGhau1YDD5xn5JyOScAbukBLTixF6aClVTEsI=",
         "ixpeobssim-30.1.1.tar.gz"
+      ]
+    },
+    "30.2.0": {
+      "sdist": [
+        "NB82SZmMvxYDVoO/YpkRUa/ZeOWhJJR9iLdVC2/UaZo=",
+        "ixpeobssim-30.2.0.tar.gz"
+      ]
+    },
+    "30.2.1": {
+      "sdist": [
+        "TQAvSIOzR3XiwA/ekzVuHLlLZJdCqEUqJS2aAvZ1eSM=",
+        "ixpeobssim-30.2.1.tar.gz"
       ]
     }
   },
@@ -114058,6 +114088,18 @@
         ]
       }
     },
+    "1.0.10": {
+      "sdist": [
+        "IQI1VxhrayjHBu0Jmuk44wHu9IAB1yrRxsKUAz0kZVk=",
+        "qiplot-1.0.10.tar.gz"
+      ],
+      "wheels": {
+        "qiplot-1.0.10-py3-none-any.whl": [
+          "rzHj2lMM0jAp0HPPOABUWzd3OMq42thyBFysJdzGqbo=",
+          "py3"
+        ]
+      }
+    },
     "1.0.2": {
       "sdist": [
         "MDnV53Bz9R9rhE1aD+i+Wy4lniESkL1mHt8Db66UtTs=",
@@ -146842,6 +146884,42 @@
       "wheels": {
         "wp_socket-0.0.12-py3-none-any.whl": [
           "zyPHOQModQDOyA7nP9qy1IkXZfIiNYJPXl2FSJkYuvY=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.13": {
+      "sdist": [
+        "hNwehhCeEJcqHG0E/LSsRAmZqqFjpPoyKQx/Kj69zlo=",
+        "wp-socket-0.0.13.tar.gz"
+      ],
+      "wheels": {
+        "wp_socket-0.0.13-py3-none-any.whl": [
+          "VOEth3pCepwoZRs/BJ8gHYqjt8e0p1GT9TjD3J/OdJ8=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.14": {
+      "sdist": [
+        "VH5biRZ8GEDu8QzSeDHSbYIStjw5AHP4FVrnpTM/40I=",
+        "wp-socket-0.0.14.tar.gz"
+      ],
+      "wheels": {
+        "wp_socket-0.0.14-py3-none-any.whl": [
+          "D2FmXzLkk4XMQejndX1lTgVRiERhA4LT//h1u97qVVw=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.15": {
+      "sdist": [
+        "TfTZeFDDzVaWXsa2n9WliVRCjFc2vwbMSILWaZGvEOQ=",
+        "wp-socket-0.0.15.tar.gz"
+      ],
+      "wheels": {
+        "wp_socket-0.0.15-py3-none-any.whl": [
+          "XoAOW9toSWhzl/c4V+SH45FOMxiMyazOM29ECzpRItk=",
           "py3"
         ]
       }

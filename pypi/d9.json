@@ -7767,6 +7767,18 @@
           "py3"
         ]
       }
+    },
+    "2.62.1a0": {
+      "sdist": [
+        "YbsCjZ8Fp0PFF1mLjVLrMmdtu4+4dLRDMYrnjOZJsR0=",
+        "aws-cdk.aws-location-alpha-2.62.1a0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_location_alpha-2.62.1a0-py3-none-any.whl": [
+          "h9bM1GO71nPbV18C8HlRBlTw5kH0pzkwFB9NPHjEB80=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-glue-sessions": {
@@ -51858,6 +51870,18 @@
         ]
       }
     },
+    "0.3.13": {
+      "sdist": [
+        "JGqYpj5h9UoV0WEFyxVIjFZwc030HobHrw1dnAryQLk=",
+        "jenkinsapi-0.3.13.tar.gz"
+      ],
+      "wheels": {
+        "jenkinsapi-0.3.13-py2.py3-none-any.whl": [
+          "wWM/mdBACQP5Lolirf7HuuCfXtnZhMazeDGwFN5u+kI=",
+          "py2.py3"
+        ]
+      }
+    },
     "0.3.2": {
       "sdist": [
         "uD7KmyI8qQdeDQldszLW00e2mi4bKaHIgfspb3jcf1s=",
@@ -79815,6 +79839,18 @@
           "py3"
         ]
       }
+    },
+    "2.5.2": {
+      "sdist": [
+        "bp/RrRS3VVYaGDnJd/ZKxTJEa8hsz6KbKJvx9nUhsbA=",
+        "ofunctions-2.5.2.tar.gz"
+      ],
+      "wheels": {
+        "ofunctions-2.5.2-py3-none-any.whl": [
+          "lR5rujSi+t9WiCfutOm89nxot5nL3C67jjnShV0hiS8=",
+          "py3"
+        ]
+      }
     }
   },
   "og-utils": {
@@ -84268,6 +84304,18 @@
       "wheels": {
         "policyengine_canada-0.25.0-py3-none-any.whl": [
           "U4+o6ONOTfhKSmMfvONTkXAV0BWvEStAH4OP4l3m+uI=",
+          "py3"
+        ]
+      }
+    },
+    "0.26.0": {
+      "sdist": [
+        "BntmYc8Y7NmgtISrar0SI2gEu5qAWKz0R/lVb7uWkko=",
+        "policyengine-canada-0.26.0.tar.gz"
+      ],
+      "wheels": {
+        "policyengine_canada-0.26.0-py3-none-any.whl": [
+          "+SsrEuTyf/EeFIIIFHyRVY0xD5UJ4gwV18m8pVbUrrQ=",
           "py3"
         ]
       }
@@ -115021,6 +115069,44 @@
       ]
     }
   },
+  "salesforce-lavis": {
+    "1.0.0.dev1": {
+      "sdist": [
+        "cpnYXkobDajneedmqIESoWbbvQ0TdkjaHqvFoxS0zrI=",
+        "salesforce-lavis-1.0.0.dev1.tar.gz"
+      ],
+      "wheels": {
+        "salesforce_lavis-1.0.0.dev1-py3-none-any.whl": [
+          "rGQDlMbexJW2HNdtHSLInJcKfPuFsd4hF5I8QcHZyyo=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.0.dev2": {
+      "sdist": [
+        "Ye8NW2/z3VkPvi3XN1UnH+It/TWT4Bmhow2QwqzZUYQ=",
+        "salesforce-lavis-1.0.0.dev2.tar.gz"
+      ],
+      "wheels": {
+        "salesforce_lavis-1.0.0.dev2-py3-none-any.whl": [
+          "Dbr8EZnwSchMEWqwP5qzsZOovZLkZozPg99UNSQjJMI=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.0rc1": {
+      "sdist": [
+        "bSlk1JI4dYVKDhKsCt+8bO0inNKAvDZ52jUSzR1cgtI=",
+        "salesforce-lavis-1.0.0rc1.tar.gz"
+      ],
+      "wheels": {
+        "salesforce_lavis-1.0.0rc1-py3-none-any.whl": [
+          "Ej0Mvjt0hSfi4RgERPD62PjfHJ+J4pBcRP59ogJHp3g=",
+          "py3"
+        ]
+      }
+    }
+  },
   "sample-kd": {
     "0.1.1": {
       "sdist": [
@@ -120986,6 +121072,36 @@
       "sdist": [
         "CSwBny7Efj4QN57WiquzV3wKOlT39BzdOSxAA5PWLWU=",
         "ssj-2.0.0.tar.gz"
+      ]
+    },
+    "3.1.0": {
+      "sdist": [
+        "6WRSqqeFWNUdZraj8IPisAPjUh6Baq+tKCRmv9VVTQY=",
+        "ssj-3.1.0.tar.gz"
+      ]
+    },
+    "3.1.1": {
+      "sdist": [
+        "yke0qjZmtyM5DU/Wlt1a3PJhWeV0SFBu+Hai0LFUllA=",
+        "ssj-3.1.1.tar.gz"
+      ]
+    },
+    "3.1.2": {
+      "sdist": [
+        "EmTGVDg8y4fLB/hjoHwW0YflZjyBKIP0blPKDWwQJwY=",
+        "ssj-3.1.2.tar.gz"
+      ]
+    },
+    "3.3.1": {
+      "sdist": [
+        "sduXhWgNGKq6czNE6lpMt7+c1tWWTT+i/ZV7ASBxf5E=",
+        "ssj-3.3.1.tar.gz"
+      ]
+    },
+    "3.3.2": {
+      "sdist": [
+        "z/swQpw4HnylFOb4SxGbEUQT9MbO4sg6QjbTTfheZ1o=",
+        "ssj-3.3.2.tar.gz"
       ]
     }
   },

@@ -12254,6 +12254,18 @@
         ]
       }
     },
+    "1.190.0": {
+      "sdist": [
+        "smWQJT1vmlQENFwb4uWhKKREWahCotYnXq0jZDcm9tE=",
+        "aws-cdk.aws-servicecatalogappregistry-1.190.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_servicecatalogappregistry-1.190.0-py3-none-any.whl": [
+          "gRoeYwO6Rh0jFZ7w8hxMIYr009trRGy6wbQlZyFRDmk=",
+          "py3"
+        ]
+      }
+    },
     "1.86.0": {
       "sdist": [
         "DGaSR0ZIdUdSgAZgWvnwrqHug49lVXq7AzsIEJe8JWY=",
@@ -17066,6 +17078,18 @@
       "wheels": {
         "botocore_a_la_carte_s3-1.29.56-py3-none-any.whl": [
           "gyzogMmpYf3IdQ+VFRF9+gBjM7Vbc2dfPP6wj06PJ74=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.57": {
+      "sdist": [
+        "8k9q4zX24nkfLmDNTaWvrcJdu3mXKaCC9iEUP2Kde74=",
+        "botocore-a-la-carte-s3-1.29.57.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_s3-1.29.57-py3-none-any.whl": [
+          "3NiGBgI738o/9cZDQMCrGu7qnq9H47QbWIaUrn1Zdzo=",
           "py3"
         ]
       }
@@ -28160,6 +28184,18 @@
       "wheels": {
         "crazy_thursday-2023.1.25.1-py3-none-any.whl": [
           "+Av48i985R5a5bcSeqGkKGNobmu9fS3mmUSQ4isEVN4=",
+          "py3"
+        ]
+      }
+    },
+    "2023.1.26.0": {
+      "sdist": [
+        "WHlAYa7WRmllNiuqL4JdV+bSFL840/Y92tFdZkml8/4=",
+        "crazy-thursday-2023.1.26.0.tar.gz"
+      ],
+      "wheels": {
+        "crazy_thursday-2023.1.26.0-py3-none-any.whl": [
+          "8SoT3TORXthjUwRAMOM7n5o/BboiuN6PQRC8k/QpzBk=",
           "py3"
         ]
       }
@@ -88185,6 +88221,44 @@
       }
     }
   },
+  "nbmachine": {
+    "0.0.1": {
+      "sdist": [
+        "8P1sM4cKetzzEbrIDUfKGvV8Z5Cl2IXki5lOGHXhNNc=",
+        "nbmachine-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "nbmachine-0.0.1-py3-none-any.whl": [
+          "m/WPp34OYg3HEQ3lJd1yulGlFvmETvA3ZdKPOJJqmhY=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "WxCmXTxfstxGb386izv5FLD5OaxAly/Vbf5fko7ouLM=",
+        "nbmachine-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "nbmachine-0.0.2-py3-none-any.whl": [
+          "svWAxlz8KxO004Xcj3esXEEkA5LCKsu4uCYpCeGZ/P0=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "k1W6+vNTXnFcEP8rpON14wlk7fs1U0VLdr59DBe9yuA=",
+        "nbmachine-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "nbmachine-0.0.3-py3-none-any.whl": [
+          "mRCr+DsK2a50IZFyeQBXO/4AQlfS9CSnKJ80/q80qIU=",
+          "py3"
+        ]
+      }
+    }
+  },
   "nbqa": {
     "0.1.10": {
       "sdist": [
@@ -108108,6 +108182,30 @@
       "wheels": {
         "proactive_jupyter_kernel-13.1.0.2301251538.dev0-py3-none-any.whl": [
           "W4ID5QYz415wYxK9K/0m9QWjLbypB4qzb5yKxLrlumA=",
+          "py3"
+        ]
+      }
+    },
+    "13.1.0.2301251839.dev0": {
+      "sdist": [
+        "czrKE0uJp/RBtIkIxKXON2KzW7mSGHLYWJjbPisnbK4=",
+        "proactive-jupyter-kernel-13.1.0.2301251839.dev0.zip"
+      ],
+      "wheels": {
+        "proactive_jupyter_kernel-13.1.0.2301251839.dev0-py3-none-any.whl": [
+          "zsO2pDcKPBXv6GIhsRpLewp+1j/7UYPSvuyhwM8piwo=",
+          "py3"
+        ]
+      }
+    },
+    "13.1.0.2301260240.dev0": {
+      "sdist": [
+        "5MbIeg9auDuQKkxpXj8eXxk4pUJy5fvvojzr7CefEuE=",
+        "proactive-jupyter-kernel-13.1.0.2301260240.dev0.zip"
+      ],
+      "wheels": {
+        "proactive_jupyter_kernel-13.1.0.2301260240.dev0-py3-none-any.whl": [
+          "zUxcPdKHcqiFeEAgfAXYqjonAlhXUq/wtIKmhoGiNqM=",
           "py3"
         ]
       }

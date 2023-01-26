@@ -15973,6 +15973,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.57": {
+      "sdist": [
+        "vF+MBHUr+HP5V1j8aYaxDWks+7/BU+wsnQcTXikPF4g=",
+        "botocore-a-la-carte-backup-1.29.57.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_backup-1.29.57-py3-none-any.whl": [
+          "k3AerTYe5RXRT6P5UGuhunN3ht89MWlchMVnESlAsrY=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-devicefarm": {
@@ -16155,6 +16167,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.57": {
+      "sdist": [
+        "o5Zu1iCrRcDnoD7iWIr/7o2N641u+CQA2EfX1jB4OIE=",
+        "botocore-a-la-carte-devicefarm-1.29.57.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_devicefarm-1.29.57-py3-none-any.whl": [
+          "Cj9ydKOQifEPpR+URX6yZiiGCc9pJVs8BagiwRR1WiQ=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-fis": {
@@ -16334,6 +16358,18 @@
       "wheels": {
         "botocore_a_la_carte_fis-1.29.56-py3-none-any.whl": [
           "3WlcFQJS+CRNitDmTtJ12r2U+jby0n7omywRaYhsdPU=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.57": {
+      "sdist": [
+        "WYre+SO0IUYB9LQ9Wr16ONUV4LUJRcLuevUPtVEj0ME=",
+        "botocore-a-la-carte-fis-1.29.57.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_fis-1.29.57-py3-none-any.whl": [
+          "Qgdl+4PeFPL0CAkmIEmECzaoL5pZDF/puYTrEecm21c=",
           "py3"
         ]
       }
@@ -63665,6 +63701,80 @@
         "nispOFK+PnrcdxUwOxVImT7ndXqYlJp2n3384FQ/hgE=",
         "lambda-cron-0.2.1.tar.gz"
       ]
+    }
+  },
+  "lambdamoo-db": {
+    "0.1.0": {
+      "sdist": [
+        "KjrEq9wF5xicGyO5wlajuK2LiNFsqRxVMeTs37LOdoM=",
+        "lambdamoo_db-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "lambdamoo_db-0.1.0-py3-none-any.whl": [
+          "RisIJV2iW26uY+8hhNYRCc3IbboWCDGjFk7Kfsrz65c=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "qd0Qpnnqoylm6zOpobLY78o2VVC0pbqM68q6xf9o0a0=",
+        "lambdamoo_db-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "lambdamoo_db-0.1.1-py3-none-any.whl": [
+          "3h8nhST2x8gEnwCkQv095SJuKRj9RWHKTEnAlCagRWw=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "qXhW3dlRgYUntIFVpzsVhReZbY6b5VTAxCVTZlpMayU=",
+        "lambdamoo_db-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "lambdamoo_db-0.1.2-py3-none-any.whl": [
+          "12W583SLl8wh010AKuF02OScRU7tf9O0oMD/1c+gzKI=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.3": {
+      "sdist": [
+        "trZwwMgDMQdKoIKjcXH7qWuH3QT6zO9Pz4/S2QWWI9w=",
+        "lambdamoo_db-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "lambdamoo_db-0.1.3-py3-none-any.whl": [
+          "lXkeuAytS/4GIfsc3YenHZMzgiQ/j0ZCKGa0bLsjp+Y=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.4": {
+      "sdist": [
+        "96JANCznlX+6yhyTH5VH8AfpK1B7XMjhnupca2RtwRw=",
+        "lambdamoo_db-0.1.4.tar.gz"
+      ],
+      "wheels": {
+        "lambdamoo_db-0.1.4-py3-none-any.whl": [
+          "hgXQyOfVtxFygKrr1YVr7FrjI4iuDz4Ns4LlPMO2n0g=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.5": {
+      "sdist": [
+        "X8LL/JehtX6HuNCLgj/Li2ubZW7K7d8DgysjepT1hW0=",
+        "lambdamoo_db-0.1.5.tar.gz"
+      ],
+      "wheels": {
+        "lambdamoo_db-0.1.5-py3-none-any.whl": [
+          "VVaPW2fbPbubgrf5oMh8dMLsukxc+jA78mXWMU/+0bY=",
+          "py3"
+        ]
+      }
     }
   },
   "lantern-cli": {
@@ -116440,6 +116550,62 @@
         ]
       }
     },
+    "1.3.5": {
+      "sdist": [
+        "kjWMPU1dbzx80oEsiDLVF1q84CsRvBAayVSP8HFj6OI=",
+        "rasterio-1.3.5.tar.gz"
+      ],
+      "wheels": {
+        "rasterio-1.3.5-cp310-cp310-macosx_10_15_x86_64.whl": [
+          "I2MGKp6RGCTyAm5Cu4Z9wvVMc/D/Y2nLR2HUVx0zjlY=",
+          "cp310"
+        ],
+        "rasterio-1.3.5-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "myFiCg7Tx7REjmORszBi6k5rFfqgWm10a7rwThkv05U=",
+          "cp310"
+        ],
+        "rasterio-1.3.5-cp310-cp310-win_amd64.whl": [
+          "JKLi5bM4Q4huIaqPL/R8xslC2YFlns0uegOad8cmnWs=",
+          "cp310"
+        ],
+        "rasterio-1.3.5-cp311-cp311-macosx_10_15_x86_64.whl": [
+          "rpladrKYybukkGp8lMF2eHyglUYG4lJ01te2EkqTfuY=",
+          "cp311"
+        ],
+        "rasterio-1.3.5-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "jy+giJbePhvUZUkcVUTekIg6KpZBjrGge9g4mb5+u3I=",
+          "cp311"
+        ],
+        "rasterio-1.3.5-cp311-cp311-win_amd64.whl": [
+          "uiPGFTb2avi/rovd5WnNvVMHt62enXozvSfBAk8mPiU=",
+          "cp311"
+        ],
+        "rasterio-1.3.5-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "smcdfJOSnEJSoqLmQsA7OpjxUdKIQPxIGFGDksfdGMo=",
+          "cp38"
+        ],
+        "rasterio-1.3.5-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "i5FcStRkFiqmron3DlyEmN4/uA2+2yHpsbKN84Zzlvw=",
+          "cp38"
+        ],
+        "rasterio-1.3.5-cp38-cp38-win_amd64.whl": [
+          "WCYQIi/l0NySB7da0WOXPZqaSUvMyGeMJfWGvMpxdPs=",
+          "cp38"
+        ],
+        "rasterio-1.3.5-cp39-cp39-macosx_10_15_x86_64.whl": [
+          "2h0L2pkniJ1aLBLUau7lLu1jzk6N2HVTLibEGQIsBLE=",
+          "cp39"
+        ],
+        "rasterio-1.3.5-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "5z1N7AqyO55b41PgdZTy8qytVtxQwkK5XDdFLXiAZ50=",
+          "cp39"
+        ],
+        "rasterio-1.3.5-cp39-cp39-win_amd64.whl": [
+          "RP2iTSodoO6gkMyRB9MnmeliQropFrWa8+7CGb4lnlI=",
+          "cp39"
+        ]
+      }
+    },
     "1.3a1": {
       "sdist": [
         "AoC0sAMLeoKI4Fu5mHe81VWntnPjLpP27dRhzM+b/48=",
@@ -144612,6 +144778,34 @@
         ],
         "xia_engine_bigquery-0.0.10-cp39-none-win_amd64.whl": [
           "RMALTcX3xpFY5FUcctFxnXSIDQcufll6gtN0dd1le+k=",
+          "cp39"
+        ]
+      }
+    },
+    "0.0.11": {
+      "wheels": {
+        "xia_engine_bigquery-0.0.11-cp310-none-macosx_11_0_x86_64.whl": [
+          "soyt0d0xtZaMqPAxicCSeN1t23/CvQeAZsn/kjQnbSs=",
+          "cp310"
+        ],
+        "xia_engine_bigquery-0.0.11-cp310-none-manylinux1_x86_64.whl": [
+          "lf6SIKsN4vFdJyXOXUUVa2X/+KFwHhZ0d7L+WmRLZGk=",
+          "cp310"
+        ],
+        "xia_engine_bigquery-0.0.11-cp310-none-win_amd64.whl": [
+          "7/bzpcCczlRCHUp+pRSLliGGRqVRgPAoyKJUheQi/rQ=",
+          "cp310"
+        ],
+        "xia_engine_bigquery-0.0.11-cp39-none-macosx_11_0_x86_64.whl": [
+          "mm5Ele6Ay91snspKiudYLDJplwbzTco7iKFLwVOmTd4=",
+          "cp39"
+        ],
+        "xia_engine_bigquery-0.0.11-cp39-none-manylinux1_x86_64.whl": [
+          "Baz9KDoLnHxc3lNkZsecyBDpzq49sZ7Sw7gsj07DefU=",
+          "cp39"
+        ],
+        "xia_engine_bigquery-0.0.11-cp39-none-win_amd64.whl": [
+          "was/DNsCsS45l7T5TmEYrGdLa+lp1ClEpN44pjiEBTg=",
           "cp39"
         ]
       }

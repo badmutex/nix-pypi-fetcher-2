@@ -8747,6 +8747,18 @@
           "py3"
         ]
       }
+    },
+    "1.190.0": {
+      "sdist": [
+        "Spu8fNlEOpPeSgKvhM7YXESxx5luqIMvbN2GxHOs6a0=",
+        "aws-cdk.aws-opensearchserverless-1.190.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_opensearchserverless-1.190.0-py3-none-any.whl": [
+          "sLHFIukvG4vdmpHEnW9g5aI/e/1zfX9HSXsmZ9TpcZ4=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-cloudtrail-events-schema": {
@@ -10336,6 +10348,34 @@
         ],
         "azure_cognitiveservices_speech-1.24.2-py3-none-win_amd64.whl": [
           "syLcorteawgIKr0axVMSNDKCJZXdc8jtHqrsnUg2Ob0=",
+          "py3"
+        ]
+      }
+    },
+    "1.25.0": {
+      "wheels": {
+        "azure_cognitiveservices_speech-1.25.0-py3-none-macosx_10_14_x86_64.whl": [
+          "hcqAQ4HwaDVZLF8fhMZWrDFNU9Gm3fTlA/Nzp5olUYA=",
+          "py3"
+        ],
+        "azure_cognitiveservices_speech-1.25.0-py3-none-macosx_11_0_arm64.whl": [
+          "JnN2eeulu77C7A6bZjQRWB5FjTllmNZN9BuH8rxBWUc=",
+          "py3"
+        ],
+        "azure_cognitiveservices_speech-1.25.0-py3-none-manylinux1_x86_64.whl": [
+          "9bgMSLX9C0a6nKTwkkmGGZIVLBVIE3cNoYKfzUZO5M0=",
+          "py3"
+        ],
+        "azure_cognitiveservices_speech-1.25.0-py3-none-manylinux2014_aarch64.whl": [
+          "dfctiYJ4PSTVmTnt2YLe7Sur/ASamsDWXe01rZN9St0=",
+          "py3"
+        ],
+        "azure_cognitiveservices_speech-1.25.0-py3-none-win32.whl": [
+          "G+eaBxE3lkQwfgtvNlgg69Cl5VQwDZ/40kP3EpIv9b4=",
+          "py3"
+        ],
+        "azure_cognitiveservices_speech-1.25.0-py3-none-win_amd64.whl": [
+          "25/LJtLoeMqW0sepKtcLePKwPLflB0AvKveO4Hfjsv4=",
           "py3"
         ]
       }
@@ -13608,14 +13648,14 @@
         ]
       }
     },
-    "0.0.7": {
+    "0.0.9": {
       "sdist": [
-        "yzk0kXwZv50R5fF67NjBGiuIsReNXkdMiCOXx1eIU5M=",
-        "brdocvalidator-0.0.7.tar.gz"
+        "XB8BCeASz2RnG37knhdSFdbGiSBZU0hlX4uaqdPBU6M=",
+        "brdocvalidator-0.0.9.tar.gz"
       ],
       "wheels": {
-        "brdocvalidator-0.0.7-py3-none-any.whl": [
-          "i8PCVcgVdRrqnKaEXX0wVddS8mLXCnuX6rp+Pw7SEss=",
+        "brdocvalidator-0.0.9-py3-none-any.whl": [
+          "ehvFRSAFLb93Ic32xInIo8ZZPdkMi8TJLPMP4fzua44=",
           "py3"
         ]
       }
@@ -88397,6 +88437,18 @@
           "py3"
         ]
       }
+    },
+    "0.6.3": {
+      "sdist": [
+        "mAgm9lKdJXbCZ8ofVk1b7wRstH5UIVu1mO1sS5stCig=",
+        "patatt-0.6.3.tar.gz"
+      ],
+      "wheels": {
+        "patatt-0.6.3-py3-none-any.whl": [
+          "/XY2YMuEeqtiPLuYkSQLbBDDnMm/ynPNOwPUCl6xxVI=",
+          "py3"
+        ]
+      }
     }
   },
   "patch-based-inpainting": {
@@ -90928,6 +90980,18 @@
       "wheels": {
         "poetry_to_requirements-1.0.0-py3-none-any.whl": [
           "YAJWdk8m3236xnxGevnQDe06HwUoSqC1CN4lNxcV0is=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.1": {
+      "sdist": [
+        "k2pAqg3rpK3L4pa+Zlj83EYNc0VfoSy0uGCOELvDz0E=",
+        "poetry_to_requirements-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "poetry_to_requirements-1.0.1-py3-none-any.whl": [
+          "tE5Zz9oQ5G57Ieh+uuXg/W0MHaxwZdtpO800kNEg6nE=",
           "py3"
         ]
       }
@@ -151718,6 +151782,18 @@
       "wheels": {
         "ycm_cmake_modules-0.15.1.dev1-py3-none-any.whl": [
           "RtaDj4aGOMJ9PhxUwqtyH6kVTkaT4DC3+i0FW9Wv8x0=",
+          "py3"
+        ]
+      }
+    },
+    "0.15.2.dev2": {
+      "sdist": [
+        "EOR+uS2Gm0P2IGOdvJb0zCQcGeZQ2kztMZ1KHIJuN+M=",
+        "ycm_cmake_modules-0.15.2.dev2.tar.gz"
+      ],
+      "wheels": {
+        "ycm_cmake_modules-0.15.2.dev2-py3-none-any.whl": [
+          "gdKPMgFj7MK/GP1nSdcBHhxmuN+ZxF0sF+E8+18J+5Q=",
           "py3"
         ]
       }

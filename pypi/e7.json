@@ -892,6 +892,54 @@
         ]
       }
     },
+    "1.2.18": {
+      "wheels": {
+        "accera_gpu-1.2.18-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "QpzZAYqHzIbAJTD2F5mJ95qts/hBGkBhJN1XOQpel9A=",
+          "cp310"
+        ],
+        "accera_gpu-1.2.18-cp310-cp310-win_amd64.whl": [
+          "uvnhlzc5upajmsOZ91dbvoymLtjpseN1MGJiGcPSu30=",
+          "cp310"
+        ],
+        "accera_gpu-1.2.18-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "CARqYzBD5D+g7Y1j/mpeIyBjwwIUWvWy5D4tgV1f7aA=",
+          "cp37"
+        ],
+        "accera_gpu-1.2.18-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "zjjY1iIBt47q9dg1k272icyogg2wOgQ7WCh7wNmfQTg=",
+          "cp37"
+        ],
+        "accera_gpu-1.2.18-cp37-cp37m-win_amd64.whl": [
+          "tpmcMZEieoR/dbMhleSm5aX0fIpRUWu9PfL8aqP2nnM=",
+          "cp37"
+        ],
+        "accera_gpu-1.2.18-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "/3g81A4RbTj/Orosp5fGCnB87hLBw89s4yrgOwNKd6M=",
+          "cp38"
+        ],
+        "accera_gpu-1.2.18-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ok8qcN1qE7sGLxIY7wasKlLdycUhFrKrUHFDpwOnQVg=",
+          "cp38"
+        ],
+        "accera_gpu-1.2.18-cp38-cp38-win_amd64.whl": [
+          "tETAO7jf/pqEdV+9v2UQlVxn3C35n1z7iz1S2QcAXWk=",
+          "cp38"
+        ],
+        "accera_gpu-1.2.18-cp39-cp39-macosx_11_0_x86_64.whl": [
+          "2m9z1/YOFSICpBJJNJDQHdsaHePfzO36yolw2I/2pjA=",
+          "cp39"
+        ],
+        "accera_gpu-1.2.18-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "2eqBYTGZkFO7gzJ5kryEsxZEE3H9h5w4uOj++XloNmE=",
+          "cp39"
+        ],
+        "accera_gpu-1.2.18-cp39-cp39-win_amd64.whl": [
+          "dkpK7ezCE/Dp5P+dEMgZ1hQNGFk/4TiQ5HnuuCf/EuU=",
+          "cp39"
+        ]
+      }
+    },
     "1.2.3": {
       "wheels": {
         "accera_gpu-1.2.3-cp310-cp310-macosx_10_15_x86_64.whl": [
@@ -2266,6 +2314,12 @@
       "sdist": [
         "LN5+srKeegWpM/dKh/Rp7PbtSLGZZRTw+GtrfjwbC/A=",
         "aeppl-nightly-0.1.0.dev20230125.tar.gz"
+      ]
+    },
+    "0.1.1.dev20230126": {
+      "sdist": [
+        "uuqBeQsrq8M4zFg+NAsGwHhJ8DOb4SmtOqwQ46kyEgQ=",
+        "aeppl-nightly-0.1.1.dev20230126.tar.gz"
       ]
     }
   },
@@ -11560,6 +11614,18 @@
         ]
       }
     },
+    "1.190.0": {
+      "sdist": [
+        "ibM+saT4OxiJgSuPsqpQrV+VkjWBjIzz7QTaMybFaf4=",
+        "aws-cdk.aws-batch-1.190.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_batch-1.190.0-py3-none-any.whl": [
+          "vd3YM8wPjBsNgS8H9bNYm3Bci+HMiqJ9GC2Agp02hUA=",
+          "py3"
+        ]
+      }
+    },
     "1.2.0": {
       "sdist": [
         "FYfRMo/gXeNlWuDCrPr+dsLj1adzMYNBvSyKOn9bC3I=",
@@ -16485,6 +16551,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.57": {
+      "sdist": [
+        "9FQUbayH4weWcm0W3/jf/jPpIdDWEQXG9AxGSQzr264=",
+        "botocore-a-la-carte-cloudhsm-1.29.57.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_cloudhsm-1.29.57-py3-none-any.whl": [
+          "idWE3fPOieheK7wheIZlpRQk0tYN9/76N2L6t2F0M+s=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-qldb": {
@@ -16664,6 +16742,18 @@
       "wheels": {
         "botocore_a_la_carte_qldb-1.29.56-py3-none-any.whl": [
           "+qTghXbboO14wM2AX3ubTtUvJku5AbPvGumQUjKLgkk=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.57": {
+      "sdist": [
+        "XmcUzIPmxejmi91rpc8Oz2kPIg2frZoBninfUjOtMDA=",
+        "botocore-a-la-carte-qldb-1.29.57.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_qldb-1.29.57-py3-none-any.whl": [
+          "eukg+xMPBpFM/0GWFHp8ACvGXxnpILstafTk210COO4=",
           "py3"
         ]
       }

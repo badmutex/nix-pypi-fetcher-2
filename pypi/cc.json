@@ -10010,6 +10010,18 @@
         ]
       }
     },
+    "2.2.52": {
+      "sdist": [
+        "qwS+7I4mfjY5Md8sr0iiQQDLV5nX/Y21Hv6IHRF++no=",
+        "aws-cdk.asset-awscli-v1-2.2.52.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.asset_awscli_v1-2.2.52-py3-none-any.whl": [
+          "bp1oa7CwAkLoaekdV7ZbYZ/7QumavkgkNuOmaSSF2/4=",
+          "py3"
+        ]
+      }
+    },
     "2.2.6": {
       "sdist": [
         "2PtRykkrdionNwRI9ee39ziDa0ZIWfAaQ6jJa0Pc2dg=",
@@ -10500,6 +10512,18 @@
       "wheels": {
         "aws_cdk.asset_node_proxy_agent_v5-2.0.41-py3-none-any.whl": [
           "iXjxeuiA23rpAtuBB+5FrHUtNAXNmdx+5NhDEEINbIA=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.42": {
+      "sdist": [
+        "rhthW+QueGgeBbFFRgYD8XHAa2caLRyqBgoVm5SwY2Y=",
+        "aws-cdk.asset-node-proxy-agent-v5-2.0.42.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.asset_node_proxy_agent_v5-2.0.42-py3-none-any.whl": [
+          "bgF0gCCX1Vjaob5cTm5/MJ7rpiY5KVXllr+WfuN4ZdM=",
           "py3"
         ]
       }
@@ -15374,6 +15398,18 @@
       "wheels": {
         "botocore_a_la_carte_forecastquery-1.29.56-py3-none-any.whl": [
           "9ADDyNkv2WK0+W9aZU27RJLDA8KjdeZSWcsPSWW92YQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.57": {
+      "sdist": [
+        "D7HRcht8P4++aE8qCoq5GEvr22QWCK7FKaFVZWNJLyw=",
+        "botocore-a-la-carte-forecastquery-1.29.57.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_forecastquery-1.29.57-py3-none-any.whl": [
+          "DRxTbXGx/tx7ILMYBTTswZIIEZBGB8aVYM9rFdK3uH0=",
           "py3"
         ]
       }
@@ -54727,9 +54763,25 @@
       }
     },
     "0.1.3": {
+      "sdist": [
+        "hz9DhzZjHxFw8eHocL3JLaghjtpYcK5gJGmvSFBMnv0=",
+        "homelypy-0.1.3.tar.gz"
+      ],
       "wheels": {
         "homelypy-0.1.3-py3-none-any.whl": [
           "ImeU3G+xw5WfYHVZvkuHjOctgwQp88oZiSoqeaZsKgA=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.4": {
+      "sdist": [
+        "vkInNRXtrrXC6S7O1iVR45kU3i7407gQj31Vkhd420M=",
+        "homelypy-0.1.4.tar.gz"
+      ],
+      "wheels": {
+        "homelypy-0.1.4-py3-none-any.whl": [
+          "kgPzhIR3E1kG5M9LbYCctdfaJKRzDVMnV7rlC87M2ec=",
           "py3"
         ]
       }
@@ -56026,6 +56078,114 @@
         ],
         "imsy_htc-0.0.6-cp39-cp39-win_amd64.whl": [
           "H1sv38s/1oHyzKAg4v3cNhoaJbj6H1XPaLt9r5NAjvU=",
+          "cp39"
+        ]
+      }
+    },
+    "0.0.7": {
+      "wheels": {
+        "imsy_htc-0.0.7-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "jkXW+H9Aw8fJ8OAUAkkJ+nQHwq5j1ZNBJF0+efDHz5s=",
+          "cp310"
+        ],
+        "imsy_htc-0.0.7-cp310-cp310-macosx_11_0_arm64.whl": [
+          "eGLizbaUBtX9Q1/1MY1wZyjfSGaXvPGg1c4SzeEf86E=",
+          "cp310"
+        ],
+        "imsy_htc-0.0.7-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "D329JLzDAo+1deFVn99SRnjM3BfU9ZKpBmBw/oTlfsw=",
+          "cp310"
+        ],
+        "imsy_htc-0.0.7-cp310-cp310-win_amd64.whl": [
+          "jKMGfLH+ZghkRdVFqbmZ2kXL2VYuxQN0Rx0meG1PK/k=",
+          "cp310"
+        ],
+        "imsy_htc-0.0.7-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "79UcMapcCs7HH6cIEqqb7oNUguTf0+Fc5YPjcFbvEhM=",
+          "cp39"
+        ],
+        "imsy_htc-0.0.7-cp39-cp39-macosx_11_0_arm64.whl": [
+          "buSzp8P/8G+bJ9UiJPvjq9yg80hkpBCU3vBww8x+Ppg=",
+          "cp39"
+        ],
+        "imsy_htc-0.0.7-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Uk5jxjYQQ9R2DqHssckN/F5Y2QuSJVzDAmYDVRjuycU=",
+          "cp39"
+        ],
+        "imsy_htc-0.0.7-cp39-cp39-win_amd64.whl": [
+          "nWKfKCul/e5EMFcqUtFLJIqRQp4FVe54+Bdz5MEREws=",
+          "cp39"
+        ]
+      }
+    },
+    "0.0.8": {
+      "wheels": {
+        "imsy_htc-0.0.8-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "tr5w2tNHvmjsLTcPlR/5V2KapIDRW+/uWDavmgC8CTI=",
+          "cp310"
+        ],
+        "imsy_htc-0.0.8-cp310-cp310-macosx_11_0_arm64.whl": [
+          "8wclMWogX8WAIawB20AHV0lbIkPEoeWv8VWsPgfDbM4=",
+          "cp310"
+        ],
+        "imsy_htc-0.0.8-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "eneUquJO05SFW3/SdKFnB1xXviMnkhF1WP2bLgyO6i8=",
+          "cp310"
+        ],
+        "imsy_htc-0.0.8-cp310-cp310-win_amd64.whl": [
+          "Tw00FYmS7tvREwBrttUQJKzPfySS0KzIZxdXLA8kPPQ=",
+          "cp310"
+        ],
+        "imsy_htc-0.0.8-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "bt7sZcfyxIb6vk6q+yzufsIQKUTjwO+/UDHIKMxHAqU=",
+          "cp39"
+        ],
+        "imsy_htc-0.0.8-cp39-cp39-macosx_11_0_arm64.whl": [
+          "Hbb4GnncqIsHBawvv3KiHONmk3sBkT5U0qjlKJEr41E=",
+          "cp39"
+        ],
+        "imsy_htc-0.0.8-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Y02XkUnvOZpmjhODQXFt4/Vz85UhMRLUrlrTVFbQGso=",
+          "cp39"
+        ],
+        "imsy_htc-0.0.8-cp39-cp39-win_amd64.whl": [
+          "Ioa3W3o34UrHuprkwTxBw1ztoQZxiR+atOceF3c6LV4=",
+          "cp39"
+        ]
+      }
+    },
+    "0.0.9": {
+      "wheels": {
+        "imsy_htc-0.0.9-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "E7yp9+FSKbjvsHKKbgXpOfvuoUuYKL9o4VhtPr9GXTQ=",
+          "cp310"
+        ],
+        "imsy_htc-0.0.9-cp310-cp310-macosx_11_0_arm64.whl": [
+          "hngBWkvRn8ViBglkQuW4PUMesdOxZSyALH7traD/ejk=",
+          "cp310"
+        ],
+        "imsy_htc-0.0.9-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "9/Nnn3iBhfGocrRZrZjfwFti0Kc9e/uydUHcuikYzR0=",
+          "cp310"
+        ],
+        "imsy_htc-0.0.9-cp310-cp310-win_amd64.whl": [
+          "AyCfYjvVCrfhXbt4wEBk+TY9FbnAEMHxIjW2Wo72mZw=",
+          "cp310"
+        ],
+        "imsy_htc-0.0.9-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "1+GXm3DK/eujFe4Dbo7Ue67OQ1jBkSaPHwo9BhfJ0Wc=",
+          "cp39"
+        ],
+        "imsy_htc-0.0.9-cp39-cp39-macosx_11_0_arm64.whl": [
+          "58O+9CTf9YbOJ/2W6IQx2SZlPXwjGRB/FsEqdSqFQXY=",
+          "cp39"
+        ],
+        "imsy_htc-0.0.9-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Nof2A9aegiJTaxpAZY2FjUw5fAM0Rf9h2QhND19xR+Q=",
+          "cp39"
+        ],
+        "imsy_htc-0.0.9-cp39-cp39-win_amd64.whl": [
+          "tKw1l88upcjCnk3N11YGCtp8F6xi62OBk9P520NXijw=",
           "cp39"
         ]
       }
@@ -87857,6 +88017,24 @@
       }
     }
   },
+  "ovos-skill-volume": {
+    "0.0.1": {
+      "wheels": {
+        "ovos_skill_volume-0.0.1-py3-none-any.whl": [
+          "PxvMZ4vnxrLS2GG0xj6U9EVaiO+H2PMt3XhBRFA3RY0=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.1a1": {
+      "wheels": {
+        "ovos_skill_volume-0.0.1a1-py3-none-any.whl": [
+          "gwJxtayhXJ/jIkn8goZE4EduN8gMLARuQS9AJ+99+vc=",
+          "py3"
+        ]
+      }
+    }
+  },
   "oxdork": {
     "2021.2.1.0": {
       "sdist": [
@@ -104222,6 +104400,18 @@
       "wheels": {
         "pythclient-0.1.3-py3-none-any.whl": [
           "bdlNIrb1cxv8DlZ4msBAnS5M/zvX71fs3I2j0nBe1gA=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.4": {
+      "sdist": [
+        "jR3YGALaFlWhkjYM+mbsjsaVUl4c4n8qJ7Yh73hZutc=",
+        "pythclient-0.1.4.tar.gz"
+      ],
+      "wheels": {
+        "pythclient-0.1.4-py3-none-any.whl": [
+          "l8m4jJoYa/MMdDLeYZTxQ+M0A/a7wqeG2yJDDK+avO4=",
           "py3"
         ]
       }

@@ -574,6 +574,54 @@
         ]
       }
     },
+    "1.2.18": {
+      "wheels": {
+        "accera_compilers-1.2.18-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "e6KhF4lWjZApOIfjqNcyEgC5kZ3jn0HSdOV2m06Thb0=",
+          "cp310"
+        ],
+        "accera_compilers-1.2.18-cp310-cp310-win_amd64.whl": [
+          "itGml2EI1dGKzWIbxYxVcc2qUvJIPgHRmsQhOy26qqA=",
+          "cp310"
+        ],
+        "accera_compilers-1.2.18-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "BvJHX0T3A5jj7HY+/BEyzoC9zBoxIJrAebmfDCPpTJk=",
+          "cp37"
+        ],
+        "accera_compilers-1.2.18-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "eVJ44OeyQGv4mxDHRJ+DaF+zK61LpXI0F/wV/eoNtno=",
+          "cp37"
+        ],
+        "accera_compilers-1.2.18-cp37-cp37m-win_amd64.whl": [
+          "vAROd0o7q7Sn2HGtVj/TZgaVwBEP+sJi5HWsoCHaIy0=",
+          "cp37"
+        ],
+        "accera_compilers-1.2.18-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "4ZwdpW9WHTfPmFY9Pn4GR3mMBDy9aPApIkzAY2NPTpc=",
+          "cp38"
+        ],
+        "accera_compilers-1.2.18-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Jd80/c14Zdk1F0kWb1sAuGDzHdHQtYVqVBMJeR1RIzU=",
+          "cp38"
+        ],
+        "accera_compilers-1.2.18-cp38-cp38-win_amd64.whl": [
+          "hUDnBQC1N1BIlPP74LNyEfTLVOLxIJhh2Ihhk435syU=",
+          "cp38"
+        ],
+        "accera_compilers-1.2.18-cp39-cp39-macosx_11_0_x86_64.whl": [
+          "2jF+pkJZSOAgN9r0J8RsvDRBTgUKe2lc9TF0jKJmC50=",
+          "cp39"
+        ],
+        "accera_compilers-1.2.18-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "eQWtIPjmbX3llKgkrp4cEOXyLqNuazLm6fcZB9uX6eo=",
+          "cp39"
+        ],
+        "accera_compilers-1.2.18-cp39-cp39-win_amd64.whl": [
+          "1FV+pyE0JdYkva6iSzpBeaTAudPaMgGIGNr1IYzR0uc=",
+          "cp39"
+        ]
+      }
+    },
     "1.2.3": {
       "wheels": {
         "accera_compilers-1.2.3-cp310-cp310-macosx_10_15_x86_64.whl": [
@@ -43051,6 +43099,30 @@
           "py3"
         ]
       }
+    },
+    "0.4.0.dev1106": {
+      "sdist": [
+        "tTYC8AQip/a5oM0/NpIgSV1PwRffu7VhXd/bdzGl6qs=",
+        "flet_core-0.4.0.dev1106.tar.gz"
+      ],
+      "wheels": {
+        "flet_core-0.4.0.dev1106-py3-none-any.whl": [
+          "HGHqE6kNBrEdzYTn8IAK5oFxg6AZqKD4SqB8S8muX48=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.0.dev1117": {
+      "sdist": [
+        "y/zRBmDr16h9deZHWP4eZbjjNd2bCJ6/Qe1rMRTIwRY=",
+        "flet_core-0.4.0.dev1117.tar.gz"
+      ],
+      "wheels": {
+        "flet_core-0.4.0.dev1117-py3-none-any.whl": [
+          "/hH79EPIwbXF3xe7WKmytYekG+EapJFEx2X3xw1EWJ8=",
+          "py3"
+        ]
+      }
     }
   },
   "flockdoc": {
@@ -82872,6 +82944,18 @@
       "wheels": {
         "nardini-1.1.0-py3-none-any.whl": [
           "u2NKk1mB6H9Z43LSh+XNjp0j4hJ9f6w3hst+cNzMMvI=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.1": {
+      "sdist": [
+        "ptYUeZCqfWMKp1kGbAFEuWSWjzIGtlOaYUuM88HYVm8=",
+        "nardini-1.1.1.tar.gz"
+      ],
+      "wheels": {
+        "nardini-1.1.1-py3-none-any.whl": [
+          "We5FW8zWLLoU15fL8FLSfG9OQjBdNIssGRkjXBaENg8=",
           "py3"
         ]
       }

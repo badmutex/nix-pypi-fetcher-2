@@ -5310,6 +5310,78 @@
         ]
       }
     },
+    "1.14.4": {
+      "sdist": [
+        "9nCSFQuRMCpQcgDYyO48a4HMFWjSmmiRnhovSl/r25I=",
+        "arm_pyart-1.14.4.tar.gz"
+      ],
+      "wheels": {
+        "arm_pyart-1.14.4-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "OzhVDt17w4emh+hxBIR7OPd78eajZihVw8G1LNsdtxY=",
+          "cp310"
+        ],
+        "arm_pyart-1.14.4-cp310-cp310-macosx_11_0_arm64.whl": [
+          "/7x7gE/xtCXzJ0MJZ0bYPWfi1dqcL/HBVtGoVbwAu7I=",
+          "cp310"
+        ],
+        "arm_pyart-1.14.4-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "SHGWDm3zbfWL34xqxcltKV3NsqjFaCMT4YOARzFHeIA=",
+          "cp310"
+        ],
+        "arm_pyart-1.14.4-cp310-cp310-win_amd64.whl": [
+          "lB4uTj3bm+xCDggjKcsF+T5biEITBjZ7cjR7JNTrtgU=",
+          "cp310"
+        ],
+        "arm_pyart-1.14.4-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "JKlfbaOx8kLnHiNzGAkRlcjC2r3OBqDHRW6qMjd/FG0=",
+          "cp311"
+        ],
+        "arm_pyart-1.14.4-cp311-cp311-macosx_11_0_arm64.whl": [
+          "j+7ZQL7h01R0Idi8U0BISHQLwE4OW/D2awBk9NqQtmI=",
+          "cp311"
+        ],
+        "arm_pyart-1.14.4-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "4PR20LMdQwbClLiDHV+Nhmb25UM03HCalDNAoYKyEP4=",
+          "cp311"
+        ],
+        "arm_pyart-1.14.4-cp311-cp311-win_amd64.whl": [
+          "3ma2uqUe/i8qwbdCoSzS/n8o+lHAKtPJIwMw46nc9KE=",
+          "cp311"
+        ],
+        "arm_pyart-1.14.4-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "z6JMKcawBaGaSsvMeS97Gdd6DLFhFfULtEDNv/d75N0=",
+          "cp38"
+        ],
+        "arm_pyart-1.14.4-cp38-cp38-macosx_11_0_arm64.whl": [
+          "lfekEGoKbEUYqxNVXdVqb4z/Jh6wJuzf4Ml5KJlEmzI=",
+          "cp38"
+        ],
+        "arm_pyart-1.14.4-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "2D3gk1T+xvUh6QX1OZVl6FawY4AWpFOtzLdr3QcJXrQ=",
+          "cp38"
+        ],
+        "arm_pyart-1.14.4-cp38-cp38-win_amd64.whl": [
+          "itCXT2wdRiU0BZgxcZk45JxLA6JU4yvxLfPIr48mfAQ=",
+          "cp38"
+        ],
+        "arm_pyart-1.14.4-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "czwYbYPF+E05LmczVKxZakJ/eelnIiOtC7M0wMX/bCU=",
+          "cp39"
+        ],
+        "arm_pyart-1.14.4-cp39-cp39-macosx_11_0_arm64.whl": [
+          "q0zHEEqWfzwnCiOzj4+aZof67brVZFOw6XbFYfaTa5A=",
+          "cp39"
+        ],
+        "arm_pyart-1.14.4-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "LrmGbpMmRjO466XncQ7594wka8H2cl5TjePMTQDXS0U=",
+          "cp39"
+        ],
+        "arm_pyart-1.14.4-cp39-cp39-win_amd64.whl": [
+          "HrYfz7gzWAdxpJAMHQgqNuM2/F+j19InoHkgBxaIwJ0=",
+          "cp39"
+        ]
+      }
+    },
     "1.2.0": {
       "sdist": [
         "2e2IxqEOu/RhOR2/YCe+Kz+IgMYLqniipGzahe0pw6g=",
@@ -15644,6 +15716,18 @@
       "wheels": {
         "aws_cdk.aws_servicecatalogappregistry_alpha-2.61.1a0-py3-none-any.whl": [
           "oi1TU15Ei0+s8jwWYyTZvL9UBt7qXVWwF7jk48A429o=",
+          "py3"
+        ]
+      }
+    },
+    "2.62.0a0": {
+      "sdist": [
+        "v+gsKW3kFaABp4PN/2/dFq+++886Gi9Wn6ryLHsLJ2o=",
+        "aws-cdk.aws-servicecatalogappregistry-alpha-2.62.0a0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_servicecatalogappregistry_alpha-2.62.0a0-py3-none-any.whl": [
+          "c9pt2bTJCeEsrbQJY68/r3dPCydb/cxo8To/BViRX3Y=",
           "py3"
         ]
       }
@@ -103981,6 +104065,18 @@
           "py3"
         ]
       }
+    },
+    "0.2.0": {
+      "sdist": [
+        "uyerjHxhqNKVHllx1g/tllHRm7GExpF5ynzidHkrbFc=",
+        "pyRVtest-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "pyRVtest-0.2.0-py3-none-any.whl": [
+          "bCubXip7XwZ+59qqs3hJdaQHMMMFC0mOFTEPjrwdshg=",
+          "py3"
+        ]
+      }
     }
   },
   "pysalad": {
@@ -141950,6 +142046,18 @@
       "wheels": {
         "ultralytics-8.0.2-py3-none-any.whl": [
           "M5DXJ5FdlrcKhQ+BxRMf5ia3KgaJyGH94yfLu5ejbW0=",
+          "py3"
+        ]
+      }
+    },
+    "8.0.20": {
+      "sdist": [
+        "sPgXsZa+S+WgKOx5Vov5QMDlagybpWc49knENCBgmXM=",
+        "ultralytics-8.0.20.tar.gz"
+      ],
+      "wheels": {
+        "ultralytics-8.0.20-py3-none-any.whl": [
+          "lhuFLJCjGDEnZJPg5z8pOg9XaeJzuTsTpPbbbkCvZEY=",
           "py3"
         ]
       }

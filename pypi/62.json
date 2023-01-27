@@ -17553,6 +17553,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.58": {
+      "sdist": [
+        "c6MLb0HMmMUEVZtdxZ2KzklETsP2BAQAVxgkPZYz/qw=",
+        "botocore-a-la-carte-customer-profiles-1.29.58.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_customer_profiles-1.29.58-py3-none-any.whl": [
+          "jtE2AE756FPZZy8J5NHTc65b7khfEDlwllE1pA5thag=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-route53": {
@@ -17747,6 +17759,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.58": {
+      "sdist": [
+        "r2+5DfulNeeAcYbfKR6xkzy7kWPDVtKmYrYGT6JEGGM=",
+        "botocore-a-la-carte-route53-1.29.58.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_route53-1.29.58-py3-none-any.whl": [
+          "7ESr356AOgNoTTzFOUbWrMHBSXy95Vzyq5Z4LEaA6Z8=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-timestream-query": {
@@ -17938,6 +17962,18 @@
       "wheels": {
         "botocore_a_la_carte_timestream_query-1.29.57-py3-none-any.whl": [
           "x0ZHlLo1OagdBPJpwgWBiD1Fm6rhQMeYg5Zyjn78RRc=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.58": {
+      "sdist": [
+        "zCSrBALpB28EQVA1/NzbgEUSIadva5CwvhJSVVU6D1g=",
+        "botocore-a-la-carte-timestream-query-1.29.58.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_timestream_query-1.29.58-py3-none-any.whl": [
+          "bj3HXN04M/QOZ3XJNk+8QxZCJfhE/mSfvSl1QvImzqw=",
           "py3"
         ]
       }
@@ -28404,6 +28440,18 @@
       "wheels": {
         "cursesplus-1.3.0-py3-none-any.whl": [
           "j/JbM6BRnsi67L4vGM3UQfwYdbljeCYtAsov33tFEGQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.3.1": {
+      "sdist": [
+        "B30+7bR9wkL1OY4ATEA+ZjHL166m0WE6bB4sZMNo4VY=",
+        "cursesplus-1.3.1.tar.gz"
+      ],
+      "wheels": {
+        "cursesplus-1.3.1-py3-none-any.whl": [
+          "7zJfYAdizV31EvlSmeoS7OOU2+cA2x4EDLrEgwy3WJ8=",
           "py3"
         ]
       }
@@ -88477,6 +88525,14 @@
           "py3"
         ]
       }
+    },
+    "12.0.2.0.0.99.dev4": {
+      "wheels": {
+        "odoo12_addon_account_payment_term_partner_holiday-12.0.2.0.0.99.dev4-py3-none-any.whl": [
+          "FJasFfVSNnE9Hs5M7/FoFGrMeJqGAPk1FnfIjl3lUgM=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo12-addon-contract-variable-qty-prorated": {
@@ -140362,6 +140418,110 @@
         ],
         "volmdlr-0.7.0-pp39-pypy39_pp73-win_amd64.whl": [
           "SKsimQ+VNPPUogrV799uH8QyJFi3O8clvbNa5Hqeor0=",
+          "pp39"
+        ]
+      }
+    },
+    "0.8.0": {
+      "sdist": [
+        "5Oz46JerZxUZB7mYyFkuq4o9XU9oHhq44lG/gMxPUjk=",
+        "volmdlr-0.8.0.tar.gz"
+      ],
+      "wheels": {
+        "volmdlr-0.8.0-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "dKNzeMBz+yAMtJQN2k/xnaVz9tywNTMGDQSpkgOPCw4=",
+          "cp310"
+        ],
+        "volmdlr-0.8.0-cp310-cp310-win32.whl": [
+          "PKUpkZX2IBsijEy4DgbvTsYqSDLL/tpnfVbBNB87K6w=",
+          "cp310"
+        ],
+        "volmdlr-0.8.0-cp310-cp310-win_amd64.whl": [
+          "QqC0BA5NjsB6hTUBTVEJWcgFhi0p9+TQSU/vhr2P3LM=",
+          "cp310"
+        ],
+        "volmdlr-0.8.0-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "MoCR9dHlxzBooxGq8ryAEwjdWHrg9jN+AJW7TDCaax4=",
+          "cp311"
+        ],
+        "volmdlr-0.8.0-cp311-cp311-win32.whl": [
+          "/0mEA74bVKLw7+vLF1OCwd+h2nJ+0HOwxuIRnzPcc/w=",
+          "cp311"
+        ],
+        "volmdlr-0.8.0-cp311-cp311-win_amd64.whl": [
+          "REffejlBmz4dsfD7C5SOduBnRHdldfiqjdJ6FZaCHnw=",
+          "cp311"
+        ],
+        "volmdlr-0.8.0-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "s1Rcs+1Y60KJ2JI/B6JGaIBJXWhOAZ24PlfZqVALzBg=",
+          "cp36"
+        ],
+        "volmdlr-0.8.0-cp36-cp36m-win32.whl": [
+          "B7F4lHb71cq1BwxcXj1qm5JHF1CdEGysoSLCnY7vEMU=",
+          "cp36"
+        ],
+        "volmdlr-0.8.0-cp36-cp36m-win_amd64.whl": [
+          "D1xsRZ9IjGS2M0o3VzaDe5IZUI8NMmjEKry/0i9cx90=",
+          "cp36"
+        ],
+        "volmdlr-0.8.0-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "4vcuxummPwSVokGVwTKKj0m8yIVtftcyWXt/AP/YB/c=",
+          "cp37"
+        ],
+        "volmdlr-0.8.0-cp37-cp37m-win32.whl": [
+          "EUGkGAdzrkkroChiMVDJ+X5hpucSdD8gpS5Y3PiAMHY=",
+          "cp37"
+        ],
+        "volmdlr-0.8.0-cp37-cp37m-win_amd64.whl": [
+          "EryLMZP3NhqdLGnYdDagCXZgHxrhGCoQ6TQePSEA7UA=",
+          "cp37"
+        ],
+        "volmdlr-0.8.0-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "qBwdohrESuWhxeqvZAwT0nzZnMXm1P6BX4OctI7hnJE=",
+          "cp38"
+        ],
+        "volmdlr-0.8.0-cp38-cp38-win32.whl": [
+          "XQEjPhxA4xBULNdBGoEWWlwMqozX/E6/EWD8qngWiec=",
+          "cp38"
+        ],
+        "volmdlr-0.8.0-cp38-cp38-win_amd64.whl": [
+          "KVB6icleFAQl4Ir5ULESdAJke82vWV8KnyyLIXT4tEY=",
+          "cp38"
+        ],
+        "volmdlr-0.8.0-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "75fUHfrDVFfMJ8zG1LRTAnDnSHXKfk6yPdfXdMg731o=",
+          "cp39"
+        ],
+        "volmdlr-0.8.0-cp39-cp39-win32.whl": [
+          "IRt7jjgHlJYghPbpcY4Lcpyzz62ghAFAAEgaMDBMlZY=",
+          "cp39"
+        ],
+        "volmdlr-0.8.0-cp39-cp39-win_amd64.whl": [
+          "zAPFQu9UDKlzhbm/HBA07jGGqX9eGx2Ctqhh+VpErlE=",
+          "cp39"
+        ],
+        "volmdlr-0.8.0-pp37-pypy37_pp73-macosx_10_9_x86_64.whl": [
+          "EkoxWWSn/80FfxBvEkh3MoMn6bEMhkPq98N+q25090o=",
+          "pp37"
+        ],
+        "volmdlr-0.8.0-pp37-pypy37_pp73-win_amd64.whl": [
+          "jJk60nDq//Be+nOxA24n1yUWDT6cUMjkF0wzlMYLY+U=",
+          "pp37"
+        ],
+        "volmdlr-0.8.0-pp38-pypy38_pp73-macosx_10_9_x86_64.whl": [
+          "HR/kQs5kEGQu2yGzw5TV23Hynu4stSS2pQshOKoHJq0=",
+          "pp38"
+        ],
+        "volmdlr-0.8.0-pp38-pypy38_pp73-win_amd64.whl": [
+          "tqBAT++H2fqS01D2xsKMk/Wf/xNEanv5kqAR/koDmQ0=",
+          "pp38"
+        ],
+        "volmdlr-0.8.0-pp39-pypy39_pp73-macosx_10_9_x86_64.whl": [
+          "UaDgfzACBIxF5nkV+zKR2PPk67n4lNc/SGta1pe5B8Q=",
+          "pp39"
+        ],
+        "volmdlr-0.8.0-pp39-pypy39_pp73-win_amd64.whl": [
+          "HtbCADrPzS5kIl6uo9g/YVL2+2aEsCL6WysDT6HESj0=",
           "pp39"
         ]
       }

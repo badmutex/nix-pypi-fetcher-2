@@ -7999,6 +7999,12 @@
         "deD9AuspRfslX685oFB7AbqtfTKWqCdcGmqla+WVKac=",
         "attune-project-api-0.8.5.tar.gz"
       ]
+    },
+    "0.8.6": {
+      "sdist": [
+        "JA+29jVjcMGZcAmSWOslxsz5QimXZvlzi0sVmOBxM7s=",
+        "attune-project-api-0.8.6.tar.gz"
+      ]
     }
   },
   "audalign": {
@@ -61501,6 +61507,32 @@
         "PnliiRrz3LaToUsTMdXFUA2LzT+TvuJbZwcAzwuffoQ=",
         "mathdistributions-0.1.tar.gz"
       ]
+    }
+  },
+  "matrix-rdn-det": {
+    "0.0.1": {
+      "sdist": [
+        "Z23G3RtQor33cZD/iKwC/u+NpkTPAKSW4yyqq+/59yY=",
+        "matrix_rdn_det-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "matrix_rdn_det-0.0.1-py3-none-any.whl": [
+          "PLq2E0pMSAgmzbKVbG/fCs79VFXApPiuxHffZsPmJB4=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "iCRgiIUhH8L85Sv+dIkA1fiUsLYZDQIlQ7AAmV2J5sE=",
+        "matrix_rdn_det-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "matrix_rdn_det-0.0.2-py3-none-any.whl": [
+          "vrYV6MB/T2eCkY+aQlBSIk6fSgu9Z7sZBj3YKG9M3q8=",
+          "py3"
+        ]
+      }
     }
   },
   "matrix-synapse-saml-mozilla": {
@@ -128956,6 +128988,14 @@
       "wheels": {
         "stix_shifter_modules_carbonblack-5.0.0.dev752-py2.py3-none-any.whl": [
           "0OgfMl2lOSnLMHtJabbs9JqFOgbbNDICNk6Ftd5+wkw=",
+          "py2.py3"
+        ]
+      }
+    },
+    "5.0.1": {
+      "wheels": {
+        "stix_shifter_modules_carbonblack-5.0.1-py2.py3-none-any.whl": [
+          "fvT6tT8TIKtM0BaWHUYvhuKm/cxLHZ6rba2iOGbinV4=",
           "py2.py3"
         ]
       }

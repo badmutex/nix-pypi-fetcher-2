@@ -15701,6 +15701,18 @@
           "py2.py3"
         ]
       }
+    },
+    "1.0.4": {
+      "sdist": [
+        "HmYSns18fUkfN35vgwnhSa+rl3iLkERz1ijW0qJhfQQ=",
+        "clearblade-cloud-iot-1.0.4.tar.gz"
+      ],
+      "wheels": {
+        "clearblade_cloud_iot-1.0.4-py2.py3-none-any.whl": [
+          "Cc/gJ8md9jeq5aH4vXLJYMpoUCX7l1ta/eG4CmhCNcc=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "clicksend-client": {
@@ -18523,6 +18535,20 @@
         "U6hGJLzxY+lAeKd/OQt2Mdf4dB1+R/IxP7ZxZGEt4Co=",
         "configcat-flag-reference-validator-2.0.1.tar.gz"
       ]
+    }
+  },
+  "congling-kaishi-xueweifuwu": {
+    "2023.1.27.0": {
+      "sdist": [
+        "DPnt/eYhXJ4R6VDA3VLeB7dP37WIjJIPjWLOKmpjd00=",
+        "congling-kaishi-xueweifuwu-2023.1.27.0.tar.gz"
+      ],
+      "wheels": {
+        "congling_kaishi_xueweifuwu-2023.1.27.0-py3-none-any.whl": [
+          "T2fKTazupQp1LjOHIU/bpJWMnYTN5yfvmQAuiYKFSEU=",
+          "py3"
+        ]
+      }
     }
   },
   "connexion-compose": {
@@ -95136,10 +95162,34 @@
         ]
       }
     },
+    "0.1.1": {
+      "sdist": [
+        "y0ME8UKhOLWMaYZtxWdUpDjsx8JVFwxfXvghhCv7WMs=",
+        "ovos-ww-plugin-vosk-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "ovos_ww_plugin_vosk-0.1.1-py3-none-any.whl": [
+          "fxR3C4PS2CuqfEcMJVISNKTlShxyc2jAozaV4iY1o4M=",
+          "py3"
+        ]
+      }
+    },
     "0.1.1a1": {
       "wheels": {
         "ovos_ww_plugin_vosk-0.1.1a1-py3-none-any.whl": [
           "RzQ8HmkNUPVf8yiNpOM8FgeECmrbR7CINUsvOf6oEFU=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1a2": {
+      "sdist": [
+        "qGzHyU/7O0R/p19iDO2BL3PMirlw7QwySVodLkxJcB4=",
+        "ovos-ww-plugin-vosk-0.1.1a2.tar.gz"
+      ],
+      "wheels": {
+        "ovos_ww_plugin_vosk-0.1.1a2-py3-none-any.whl": [
+          "qhgY1a+np+1Ch6sni1KNgLQARBM1kNmfxjp0/Z6KbjA=",
           "py3"
         ]
       }
@@ -108664,6 +108714,78 @@
         ],
         "pyogrio-0.5.0-cp39-cp39-win_amd64.whl": [
           "vfhvLMpBL636fov5EHnVL+AmkHX4p9/xVoTumfGVxDc=",
+          "cp39"
+        ]
+      }
+    },
+    "0.5.1": {
+      "sdist": [
+        "w0zaIXcbIa15ibYacvhg4bUFzRYCIh341h0Wf9v2njM=",
+        "pyogrio-0.5.1.tar.gz"
+      ],
+      "wheels": {
+        "pyogrio-0.5.1-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "+zUJaTV89yIwRWsHnkjOMzRA9pi30rLLR0Z3ONyC8Qc=",
+          "cp310"
+        ],
+        "pyogrio-0.5.1-cp310-cp310-macosx_11_0_arm64.whl": [
+          "HViL/gl9xDjdOcd5GKpIB5RbMPVSfpQLeyDmytTHoOM=",
+          "cp310"
+        ],
+        "pyogrio-0.5.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "B809NXTTte7XFabTD3SMCpPAPpddqqCvRNcEc3dc/X4=",
+          "cp310"
+        ],
+        "pyogrio-0.5.1-cp310-cp310-win_amd64.whl": [
+          "C2t4LKUxFYX+l/0vC/UKWlp1y/VdO7594SEC4fSfDqg=",
+          "cp310"
+        ],
+        "pyogrio-0.5.1-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "6RKNoSdxUN55OCJXViNv5PVDU9JFb2wdc7hu3X5ql5g=",
+          "cp311"
+        ],
+        "pyogrio-0.5.1-cp311-cp311-macosx_11_0_arm64.whl": [
+          "lVrffSNaEK3QwvDbeOWuWtBYp4o4+NHp+j9uiGjhkcM=",
+          "cp311"
+        ],
+        "pyogrio-0.5.1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "v48EO+INmjy6g3XgNRCBi2OKcVQzuFG0OuIPrFeWTT8=",
+          "cp311"
+        ],
+        "pyogrio-0.5.1-cp311-cp311-win_amd64.whl": [
+          "BTgDVmBQBfW+PIfvJEEuSoxmlyUwOkkwEcciGdbO9GM=",
+          "cp311"
+        ],
+        "pyogrio-0.5.1-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "B+tJrpPhGcySPytWxQi/N78z1XxdyaiDAql132/f5Rw=",
+          "cp38"
+        ],
+        "pyogrio-0.5.1-cp38-cp38-macosx_11_0_arm64.whl": [
+          "cpPxb85t1ze+ZAXXIMC78hz57pntK2QoY819ICKY2ts=",
+          "cp38"
+        ],
+        "pyogrio-0.5.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Qc1z7quIe1DWyAMixiZWVMRdi8adWUWAyZhmFDuYER8=",
+          "cp38"
+        ],
+        "pyogrio-0.5.1-cp38-cp38-win_amd64.whl": [
+          "sw0ggxWii5lytVt3j0+BCgAPbdv4uPgsubbN6pyEFFA=",
+          "cp38"
+        ],
+        "pyogrio-0.5.1-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "JIkF1HatSvMxRBWHVIa7P5sKAEs2hYpv/bN/NtNjOzQ=",
+          "cp39"
+        ],
+        "pyogrio-0.5.1-cp39-cp39-macosx_11_0_arm64.whl": [
+          "WVB+D17IfKaRShD4Jf2yA2KmtGx3nX9a+PtsaBT1VPI=",
+          "cp39"
+        ],
+        "pyogrio-0.5.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "LUuLi5f9M+1kZxMqwSS00XYAhwL6mLtr3Eec/8vf4yc=",
+          "cp39"
+        ],
+        "pyogrio-0.5.1-cp39-cp39-win_amd64.whl": [
+          "0v16CO9rY8KtM4YFUjAdVsY41kYFvar8dD7A59+Qmng=",
           "cp39"
         ]
       }

@@ -12585,6 +12585,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.58": {
+      "sdist": [
+        "xfEv/r0Ox2wBZ+z1F0HOjEYZd59YCN5UG6hLwxLv3VY=",
+        "botocore-a-la-carte-healthlake-1.29.58.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_healthlake-1.29.58-py3-none-any.whl": [
+          "6s/xBGJOWfApkUrmLysKFrItR/sds/DjqvQ3nc+fAWQ=",
+          "py3"
+        ]
+      }
     }
   },
   "bowl": {
@@ -14841,6 +14853,20 @@
         "+F1XcJSDQQAF3hAvSkO4PVngpDBnwzPWQw5u8RZzxG4=",
         "cielo24cli-1.0.9.tar.gz"
       ]
+    }
+  },
+  "circadian": {
+    "0.0.1": {
+      "sdist": [
+        "5NOGRAuNQBEf0KfINbpqfpJ1IOgw8rkeewrMGW5808Q=",
+        "circadian-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "circadian-0.0.1-py3-none-any.whl": [
+          "S2m7JinmolSqe47U7jzVesOpb+xVPK7TYGqBTJsm1/8=",
+          "py3"
+        ]
+      }
     }
   },
   "circuitgraph": {
@@ -31416,6 +31442,18 @@
       "wheels": {
         "edge_srt_to_speech-0.0.2-py3-none-any.whl": [
           "wo0lWPvO+sKLqO7P6QSn0CHAalQ00MMua5yktWbe97s=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.20": {
+      "sdist": [
+        "iMj3cvRis+8ZXb6U9ZhT3+ZPZVoTK5omXp5jZhW7XKI=",
+        "edge-srt-to-speech-0.0.20.tar.gz"
+      ],
+      "wheels": {
+        "edge_srt_to_speech-0.0.20-py3-none-any.whl": [
+          "sAn5GV+xJJ3bNX5kX2VMcHdWhEXEX8kiCYv9YH5ScEs=",
           "py3"
         ]
       }
@@ -84320,6 +84358,18 @@
         ]
       }
     },
+    "0.27.0": {
+      "sdist": [
+        "cz/12ftHnR/B8EfRNA6ipQwwPxIuowjiM6mlRO3DJYE=",
+        "policyengine-canada-0.27.0.tar.gz"
+      ],
+      "wheels": {
+        "policyengine_canada-0.27.0-py3-none-any.whl": [
+          "JFKezNHf+dXNDYbr64O5QRnVFhkmMwGsJ18DlNyku58=",
+          "py3"
+        ]
+      }
+    },
     "0.3.0": {
       "sdist": [
         "J6a33/T/CYNK8yCEmlzLVVkrI+8Jn1lLDNagAAuz6Fw=",
@@ -115070,18 +115120,6 @@
     }
   },
   "salesforce-lavis": {
-    "1.0.0.dev1": {
-      "sdist": [
-        "cpnYXkobDajneedmqIESoWbbvQ0TdkjaHqvFoxS0zrI=",
-        "salesforce-lavis-1.0.0.dev1.tar.gz"
-      ],
-      "wheels": {
-        "salesforce_lavis-1.0.0.dev1-py3-none-any.whl": [
-          "rGQDlMbexJW2HNdtHSLInJcKfPuFsd4hF5I8QcHZyyo=",
-          "py3"
-        ]
-      }
-    },
     "1.0.0.dev2": {
       "sdist": [
         "Ye8NW2/z3VkPvi3XN1UnH+It/TWT4Bmhow2QwqzZUYQ=",
@@ -115102,6 +115140,30 @@
       "wheels": {
         "salesforce_lavis-1.0.0rc1-py3-none-any.whl": [
           "Ej0Mvjt0hSfi4RgERPD62PjfHJ+J4pBcRP59ogJHp3g=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.0rc2": {
+      "sdist": [
+        "HpzcfmbfKyvpyjqcyC+oxvP15hjP74eLLGLGs6zG1hM=",
+        "salesforce-lavis-1.0.0rc2.tar.gz"
+      ],
+      "wheels": {
+        "salesforce_lavis-1.0.0rc2-py3-none-any.whl": [
+          "tAM9bTlK87RmqYVFkKSvSbnYMtpnXjlvXyBnNxCCXoI=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.0rc3": {
+      "sdist": [
+        "NHH6yKTpe0Ew0dPXfmSA0CE0+EWeHmDG6JyAOAUWtsA=",
+        "salesforce-lavis-1.0.0rc3.tar.gz"
+      ],
+      "wheels": {
+        "salesforce_lavis-1.0.0rc3-py3-none-any.whl": [
+          "hcM+n+MkdQQc2FtnEgdJXaL9RBwSkp+9CA3IRpv/Ts0=",
           "py3"
         ]
       }
@@ -121102,6 +121164,12 @@
       "sdist": [
         "z/swQpw4HnylFOb4SxGbEUQT9MbO4sg6QjbTTfheZ1o=",
         "ssj-3.3.2.tar.gz"
+      ]
+    },
+    "3.3.3": {
+      "sdist": [
+        "07FS1naBFZQT05GLXi/1mSVEnkHTus++/Zv8y5yYcxo=",
+        "ssj-3.3.3.tar.gz"
       ]
     }
   },

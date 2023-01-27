@@ -10743,6 +10743,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.58": {
+      "sdist": [
+        "EWaQEpU76gp+/6IznBGLRQrdJFPAGVe7pbSjHz7JAs0=",
+        "botocore-a-la-carte-amplifyuibuilder-1.29.58.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_amplifyuibuilder-1.29.58-py3-none-any.whl": [
+          "VfUEQ2ARbqv6MojqEjfK400CYJ70MYChwNLVpLtqRy4=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-rekognition": {
@@ -10934,6 +10946,18 @@
       "wheels": {
         "botocore_a_la_carte_rekognition-1.29.57-py3-none-any.whl": [
           "YC0Gzmg+IrHY36fZlVWTNwBSrofJa2sswBUODlJKy3o=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.58": {
+      "sdist": [
+        "8RsUWWa9QZkTL5grBQyv4yAsiXumNCRgFoJVjJrmJL0=",
+        "botocore-a-la-carte-rekognition-1.29.58.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_rekognition-1.29.58-py3-none-any.whl": [
+          "WmMnaKfYY1+v2u3gCs3lqKYYgc4IspfgHnWyCv0lG9k=",
           "py3"
         ]
       }
@@ -15964,6 +15988,18 @@
       "wheels": {
         "cdktf_github_actions-0.0.10-py3-none-any.whl": [
           "i2D+9AwgrxkMLLIB9u0nMRh14iB5IIjvci9f01+0snE=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.11": {
+      "sdist": [
+        "BtwW1e8wU7vUkgzjEy/TZchV7/y8+MynwkXrdUydLh8=",
+        "cdktf-github-actions-0.0.11.tar.gz"
+      ],
+      "wheels": {
+        "cdktf_github_actions-0.0.11-py3-none-any.whl": [
+          "TgbRUC4/G/3zp2k66nNyxiJzvpqJM3KaXUXcus7RGGg=",
           "py3"
         ]
       }
@@ -112603,6 +112639,20 @@
       }
     }
   },
+  "sjtu-econmgt-mid-microecon-qianjunhui": {
+    "2023.1.27.0": {
+      "sdist": [
+        "OoXTR8PtUhU1hax6i5D1F7gC3hguoJ5LqPWAqftk6b8=",
+        "sjtu-econmgt-mid-microecon-qianjunhui-2023.1.27.0.tar.gz"
+      ],
+      "wheels": {
+        "sjtu_econmgt_mid_microecon_qianjunhui-2023.1.27.0-py3-none-any.whl": [
+          "OCvR4/hp1vxRTMQUaRnsY2VqFIZgKPlyGFr3v6zQIdE=",
+          "py3"
+        ]
+      }
+    }
+  },
   "skale-hmt-escrow": {
     "0.9.2": {
       "sdist": [
@@ -134911,6 +134961,14 @@
         "UIcvXpfM7bIS1OB7BVMNPrxghSC0XHWpbi8ujzEwt6k=",
         "ucla_geotech_tools-auto_fchp-0.0.6.tar.gz"
       ]
+    },
+    "0.0.7": {
+      "wheels": {
+        "ucla_geotech_tools_auto_fchp-0.0.7-cp39-cp39-win_amd64.whl": [
+          "ePmyLbEK+PkJFOJoEQr7v7Pn9zgGRErma/5ZkQIn2KM=",
+          "cp39"
+        ]
+      }
     }
   },
   "ufs-tools": {

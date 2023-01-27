@@ -11761,6 +11761,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.58": {
+      "sdist": [
+        "QiwSo9ksBXyuHomVg5uY0GELHVm4fU4Nbgm1O48rC/Q=",
+        "botocore-a-la-carte-ec2-1.29.58.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_ec2-1.29.58-py3-none-any.whl": [
+          "E+PbGv6/RS7YzqdgoHj7gO6KnVrHKlyd6e/M7MFxlaA=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-kinesis-video-webrtc-storage": {
@@ -11952,6 +11964,18 @@
       "wheels": {
         "botocore_a_la_carte_kinesis_video_webrtc_storage-1.29.57-py3-none-any.whl": [
           "t4Pti2BQqeRr3SzmHKrjpp2FHhgTp8cLJ9KYeTj9H0o=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.58": {
+      "sdist": [
+        "3fbHShxgUUmWLzqM1m4qg6khPsCa0tG4Fs4ykroscYE=",
+        "botocore-a-la-carte-kinesis-video-webrtc-storage-1.29.58.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_kinesis_video_webrtc_storage-1.29.58-py3-none-any.whl": [
+          "qTsLi2x7l/obo6EuGQfPx89eKUz9sDXp2JqaA0hnOZ4=",
           "py3"
         ]
       }
@@ -66775,6 +66799,12 @@
         "ieWEKkBTtY2M3+PMOsfileg2iLSqxeGBUEZhQVeLnMA=",
         "localstack-ext-1.3.2.dev20230126121541.tar.gz"
       ]
+    },
+    "1.3.2.dev20230126204144": {
+      "sdist": [
+        "cBeytGjKVh/cmb3RZnuB3PbST1E4PTOAlRBmqdocrBE=",
+        "localstack-ext-1.3.2.dev20230126204144.tar.gz"
+      ]
     }
   },
   "lodash": {
@@ -102729,6 +102759,18 @@
           "py3"
         ]
       }
+    },
+    "0.3.1": {
+      "sdist": [
+        "PsVmnFf7kIKNz/Zfa7L35TvTCbFuey6FfSpkvqQDhM0=",
+        "pyq3serverlist-0.3.1.tar.gz"
+      ],
+      "wheels": {
+        "pyq3serverlist-0.3.1-py3-none-any.whl": [
+          "57+tnVC0QKYFz0fowbceARNUuE5SjzowoqloSu5njfw=",
+          "py3"
+        ]
+      }
     }
   },
   "pyqalx": {
@@ -126166,6 +126208,14 @@
       "wheels": {
         "stix_shifter_modules_sentinelone-5.0.0.dev752-py2.py3-none-any.whl": [
           "R64hFJMrBu58Ddw5z5GMdLn+g2e4hO6HEMmJlaSSwdA=",
+          "py2.py3"
+        ]
+      }
+    },
+    "5.0.1": {
+      "wheels": {
+        "stix_shifter_modules_sentinelone-5.0.1-py2.py3-none-any.whl": [
+          "IKictDmeJaLIuP3T8yhTNxFlnQTa67IPKPZ+evN1/l4=",
           "py2.py3"
         ]
       }

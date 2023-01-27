@@ -9529,6 +9529,30 @@
         "kQ7zxxae5IqWAZezLOietvOc110665pkixied/WMXOY=",
         "AutoCarver-2.0.5.tar.gz"
       ]
+    },
+    "2.0.6": {
+      "sdist": [
+        "3s85UxTXwdvJhY2Q/ipMTBn++daUQryb+UbTq2rfEwE=",
+        "AutoCarver-2.0.6.tar.gz"
+      ]
+    },
+    "2.0.7": {
+      "sdist": [
+        "tzbJYKvcTted2Aixc0nGYq4/KPCfgSDy2hBTVlAzwdc=",
+        "AutoCarver-2.0.7.tar.gz"
+      ]
+    },
+    "2.0.8": {
+      "sdist": [
+        "0bqz1ZnWp0LjtWlrBTo9jw0ZZYRzurpXaeBVp7wHb5Q=",
+        "AutoCarver-2.0.8.tar.gz"
+      ]
+    },
+    "2.1.0": {
+      "sdist": [
+        "61DZ09SRH3khk/gNuXG/TdwV04vGi/PtXPtpAVD0Bvs=",
+        "AutoCarver-2.1.0.tar.gz"
+      ]
     }
   },
   "autogamess": {
@@ -45883,6 +45907,32 @@
       }
     }
   },
+  "exmlrd": {
+    "0.0.1": {
+      "sdist": [
+        "eb55WRUxqklWc3f/ggygcQTEmx/OSHQG5JrOapjlJ/g=",
+        "exmlrd-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "exmlrd-0.0.1-py3-none-any.whl": [
+          "kcDGFMUEgXCh/qwQaVKwNpAUY68aApbLk91Bk8rUSyE=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.1": {
+      "sdist": [
+        "5dMs6vN6ViigDUwst7K5bMz4sOqt8KTs0LPgSPFgNf8=",
+        "exmlrd-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "exmlrd-1.0.1-py3-none-any.whl": [
+          "tcwyVB2pcEYHGTRVfPl8OPZccxHlFWzEcnODn+IV7QY=",
+          "py3"
+        ]
+      }
+    }
+  },
   "exon": {
     "0.0.2": {
       "sdist": [
@@ -77266,6 +77316,14 @@
     }
   },
   "odoo13-addon-report-qweb-operating-unit": {
+    "13.0.1.0.1": {
+      "wheels": {
+        "odoo13_addon_report_qweb_operating_unit-13.0.1.0.1-py3-none-any.whl": [
+          "vnWFd+rGp6L10LzhJm/UeDU7F1gP1XmbZ4/TyfCsClw=",
+          "py3"
+        ]
+      }
+    },
     "13.0.1.0.1.dev2": {
       "wheels": {
         "odoo13_addon_report_qweb_operating_unit-13.0.1.0.1.dev2-py3-none-any.whl": [
@@ -78176,6 +78234,14 @@
       "wheels": {
         "odoo14_addons_oca_multi_company-14.0.20221226.0-py3-none-any.whl": [
           "R7M2wqK8E4Oz9lbwkENp43EMgCNlZ6d55cFl8iC4yOQ=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.20230126.0": {
+      "wheels": {
+        "odoo14_addons_oca_multi_company-14.0.20230126.0-py3-none-any.whl": [
+          "QOZehD1tT49x/twUJS0bB/EsA+Mcp9TdwcepJzM35H4=",
           "py3"
         ]
       }
@@ -88294,6 +88360,18 @@
       "wheels": {
         "pepperize.projen_awscdk_app_ts-0.0.345-py3-none-any.whl": [
           "qTLpdTFM8bFMQKFXZoZUjX0y6QfLtnjutREhr1KFwUc=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.346": {
+      "sdist": [
+        "GLZVM+PXS7UP5fmxASrX1WxyOljvFNNtgPIlr8n7HLw=",
+        "pepperize.projen-awscdk-app-ts-0.0.346.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.projen_awscdk_app_ts-0.0.346-py3-none-any.whl": [
+          "IpVlMqlKhlOCMdjPSiUH59hHbRfnrR/EQGWC1vtc9Og=",
           "py3"
         ]
       }
@@ -137190,6 +137268,14 @@
       "sdist": [
         "fQ+aAzc7LnDRH8ls+YdJnpJmiX/xoUGpvGLCQgtNvw8=",
         "yandex_cloud_tools-1.0.0.tar.gz"
+      ]
+    }
+  },
+  "yandex-passport-vault-client": {
+    "66.1.0": {
+      "sdist": [
+        "fNI7+QOvmeOuMEaJxpU29GErMitj0RvmpieADotFGHA=",
+        "yandex-passport-vault-client-66.1.0.tar.gz"
       ]
     }
   },

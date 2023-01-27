@@ -18001,6 +18001,12 @@
         "wgacoYdApFWwY1tHOrrzEtzVy/aBbytQoIgpxOshGjs=",
         "cltoolbox-1.3.3.tar.gz"
       ]
+    },
+    "2.0.0": {
+      "sdist": [
+        "s23A63fd1D2aOTnfz/QcpKwg9JfgBtASpudeGhYW3Jg=",
+        "cltoolbox-2.0.0.tar.gz"
+      ]
     }
   },
   "cm-cluster-on-demand-azure": {
@@ -66400,6 +66406,30 @@
         ]
       }
     },
+    "1.19.4.dev10": {
+      "sdist": [
+        "DGJvumGccyjINzV9kZcG054xYp85unoqeskO5hUC2JA=",
+        "large-image-source-openjpeg-1.19.4.dev10.tar.gz"
+      ],
+      "wheels": {
+        "large_image_source_openjpeg-1.19.4.dev10-py3-none-any.whl": [
+          "uCw+h9SVEY25j/iNh06gBPpqdPspNyPppwhY/AxP8ls=",
+          "py3"
+        ]
+      }
+    },
+    "1.19.4.dev12": {
+      "sdist": [
+        "G/sFkVIqfdYrVBVKFtcz1c5yAynI+jHve5a/ybiovzM=",
+        "large-image-source-openjpeg-1.19.4.dev12.tar.gz"
+      ],
+      "wheels": {
+        "large_image_source_openjpeg-1.19.4.dev12-py3-none-any.whl": [
+          "rvFOQsfX3p2GoGx24cdUd3OuABa7U+5u4m4w+VQpApc=",
+          "py3"
+        ]
+      }
+    },
     "1.19.4.dev2": {
       "sdist": [
         "xK5AfX4k+cwtR3LaLOxJLNTrMa3MWosUgtKabnqp/XM=",
@@ -104742,6 +104772,18 @@
         "pyhtcc-0.1.12.tar.gz"
       ]
     },
+    "0.1.14": {
+      "sdist": [
+        "CH3k9wPDi3Ey+ZcjrOaGm+rUS+AtoSMsI3gxxJM93cc=",
+        "pyhtcc-0.1.14.tar.gz"
+      ],
+      "wheels": {
+        "pyhtcc-0.1.14-py3-none-any.whl": [
+          "LZ1CFdVY2kgn4YmmXdePmgIUvHd0pETvhwAHDsXUFy0=",
+          "py3"
+        ]
+      }
+    },
     "0.1.2": {
       "sdist": [
         "GJlo6iOKUpJoF85rvsLjtk1mGFANqbGhLaVmaNtEu+Y=",
@@ -129787,6 +129829,14 @@
           "py3"
         ]
       }
+    }
+  },
+  "ticket-parser2-py3": {
+    "66.1.0": {
+      "sdist": [
+        "PqTSXANcqHN5UUOxO+xfiB1afmbzfBGZBY/lQgMs3E0=",
+        "ticket-parser2-py3-66.1.0.tar.gz"
+      ]
     }
   },
   "time-decode": {

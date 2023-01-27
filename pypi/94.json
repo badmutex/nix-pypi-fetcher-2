@@ -2034,6 +2034,30 @@
         ]
       }
     },
+    "0.15.22": {
+      "sdist": [
+        "m+cNJlv4pIf7yf3d1FjzC9dDvvrM6sYU5ZxUl0x81x0=",
+        "alvin_integration-0.15.22.tar.gz"
+      ],
+      "wheels": {
+        "alvin_integration-0.15.22-py3-none-any.whl": [
+          "xfhmI8JFns+uZr8cs2JmHaQeVUP3DQ4GL1TIlbobrts=",
+          "py3"
+        ]
+      }
+    },
+    "0.15.22rc0": {
+      "sdist": [
+        "yF/7cJDIdBC0iob1TaQT5OTTgI1PsMvLIE/33jLIsdA=",
+        "alvin_integration-0.15.22rc0.tar.gz"
+      ],
+      "wheels": {
+        "alvin_integration-0.15.22rc0-py3-none-any.whl": [
+          "ZqeLk6RdLF1eY4pyW+wr7sdCAPt3tH96wT7juyBc8Yo=",
+          "py3"
+        ]
+      }
+    },
     "0.15.2rc0": {
       "sdist": [
         "IywlhpzVbyvelhYF6K25G4pam/dUSPF3ZfZ98s5jRa0=",
@@ -13822,6 +13846,14 @@
       "sdist": [
         "jr7DjLjO2A6KHe+aflywekoqX8pyPiYAj/XOzAMMGrU=",
         "casuarius-1.1.tar.gz"
+      ]
+    }
+  },
+  "catapulse": {
+    "66.1.0": {
+      "sdist": [
+        "b20LRMdNdgcI0omr6Y1jfQH0wyIbeXorV0ILM32yDgI=",
+        "catapulse-66.1.0.tar.gz"
       ]
     }
   },
@@ -66805,6 +66837,12 @@
         "cBeytGjKVh/cmb3RZnuB3PbST1E4PTOAlRBmqdocrBE=",
         "localstack-ext-1.3.2.dev20230126204144.tar.gz"
       ]
+    },
+    "1.3.2.dev20230127152217": {
+      "sdist": [
+        "f9lb+NtMzGTYJZWim5Bq2oRz8TWwd0uhsvhQRCsTWUA=",
+        "localstack-ext-1.3.2.dev20230127152217.tar.gz"
+      ]
     }
   },
   "lodash": {
@@ -80722,6 +80760,14 @@
       "wheels": {
         "odoo12_addon_hr_timesheet_sheet_attendance-12.0.1.0.2-py3-none-any.whl": [
           "h2vsB3VinZbENv4ZaRdAYhDwpN30nBzgQe9T0LmhBgg=",
+          "py3"
+        ]
+      }
+    },
+    "12.0.1.0.2.99.dev2": {
+      "wheels": {
+        "odoo12_addon_hr_timesheet_sheet_attendance-12.0.1.0.2.99.dev2-py3-none-any.whl": [
+          "rkLgUJm/kEEZ0CH0JCXzNEXXny+5HgyoZTFIpinOyhE=",
           "py3"
         ]
       }

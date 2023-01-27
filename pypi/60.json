@@ -14321,6 +14321,18 @@
           "py3"
         ]
       }
+    },
+    "2.3.0b20230127": {
+      "wheels": {
+        "bigdl_friesian_spark3-2.3.0b20230127-py3-none-macosx_10_11_x86_64.whl": [
+          "KBJp5BUnFDX6eNLMfcggXLkL33iXQGBDAApK/ryLfvQ=",
+          "py3"
+        ],
+        "bigdl_friesian_spark3-2.3.0b20230127-py3-none-manylinux1_x86_64.whl": [
+          "pd0/v5AQ2sdou6qVkTG1WRoDkYyS696S4OECTvrnckI=",
+          "py3"
+        ]
+      }
     }
   },
   "binsinfo": {
@@ -90403,6 +90415,14 @@
           "py3"
         ]
       }
+    },
+    "12.0.1.0.1": {
+      "wheels": {
+        "odoo12_addon_report_qweb_element_page_visibility-12.0.1.0.1-py3-none-any.whl": [
+          "bmk1xnDk1ksyBKpvZA71cUXOMsYalryfq2tr7hk4+OI=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo12-addon-stock-picking-quick": {
@@ -112600,6 +112620,18 @@
       "wheels": {
         "python_statemachine-1.0.2-py2.py3-none-any.whl": [
           "imm1t5K1gC3d50m1+4V0cgtm+HmJjAddUmgFh0EkEqk=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.0.3": {
+      "sdist": [
+        "XhkrRy+2+lwtv0go4La7sxPsVf0hu22CPZTOuSvpVHY=",
+        "python-statemachine-1.0.3.tar.gz"
+      ],
+      "wheels": {
+        "python_statemachine-1.0.3-py2.py3-none-any.whl": [
+          "YTSYTSUWutuEqTSw8HyYh5j+4nLa0hg5oOSrXmJqEEA=",
           "py2.py3"
         ]
       }

@@ -28667,6 +28667,38 @@
           "cp39"
         ]
       }
+    },
+    "1.3.4": {
+      "sdist": [
+        "DHw1xScBt81DLIDlZsdUlAY9hN4Lcl6xNo1MYDN5TZo=",
+        "configparserc-1.3.4.tar.gz"
+      ],
+      "wheels": {
+        "configparserc-1.3.4-cp310-cp310-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "53cnMf0OWoO4uy4t1NMNUOYo7A2b5G88cMNEhcsgco4=",
+          "cp310"
+        ],
+        "configparserc-1.3.4-cp311-cp311-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "ROstYdKOkzHsMNDu0r/bWOsSZVzs3ouWdXPhbL7qOKQ=",
+          "cp311"
+        ],
+        "configparserc-1.3.4-cp36-cp36m-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "XatlAnvvzUXSOvwA56tdug21H/0uezWzG6w5dt3bv94=",
+          "cp36"
+        ],
+        "configparserc-1.3.4-cp37-cp37m-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "V4cchWULrIeQiPq0+M/buoWAzUCcv2ydI7qLFJiyRoU=",
+          "cp37"
+        ],
+        "configparserc-1.3.4-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "ViwyrPuNMWsgIT7X21FQzBayYduFzt4wppeusQu89KM=",
+          "cp38"
+        ],
+        "configparserc-1.3.4-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "ptIqdnineOgg4bXlggVJZYcnN8OEBEJGGi7l36oQef0=",
+          "cp39"
+        ]
+      }
     }
   },
   "configy": {
@@ -61605,6 +61637,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.8": {
+      "sdist": [
+        "0G5zrCMLj6XqE0sciOrdkK5c34xs4+uQMlK1pZaJcmg=",
+        "grai_source_snowflake-0.0.8.tar.gz"
+      ],
+      "wheels": {
+        "grai_source_snowflake-0.0.8-py3-none-any.whl": [
+          "MWWnvQCxtQgxACHR9rjFZAPs+khzPQ82Xnx3fSgtx+U=",
+          "py3"
+        ]
+      }
     }
   },
   "graiax-text2img-playwright": {
@@ -75630,6 +75674,18 @@
       "wheels": {
         "kubeflow_katib-0.14.0rc0-py3-none-any.whl": [
           "kUAPpTLNdU8crWVVH53vz83Vy6lf3JoJY338mfuAMGk=",
+          "py3"
+        ]
+      }
+    },
+    "0.15.0rc0": {
+      "sdist": [
+        "dof7z4nGMuECAteptvBxSQdiGxK5g+yCbUWM7BGFYkE=",
+        "kubeflow-katib-0.15.0rc0.tar.gz"
+      ],
+      "wheels": {
+        "kubeflow_katib-0.15.0rc0-py3-none-any.whl": [
+          "et+9dcRhUE0saiVZcF1slKxAvKBQsuAthzlLwVZvpOg=",
           "py3"
         ]
       }
@@ -101557,6 +101613,14 @@
           "py3"
         ]
       }
+    },
+    "14.0.3.4.1.dev1": {
+      "wheels": {
+        "odoo14_addon_l10n_es_aeat_mod303-14.0.3.4.1.dev1-py3-none-any.whl": [
+          "q+/szWTvAfa9EbT/RLmX66cHNffDPKcc8eEnrn0sJZk=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo14-addon-l10n-ir-hr-contract": {
@@ -106583,6 +106647,44 @@
         "Q861BbmT91340yJxrWumbzERtMhMUWI4FgyFj1bukEM=",
         "partysig-0.0.1.tar.gz"
       ]
+    }
+  },
+  "pascal-voc-toolkit": {
+    "1.0.0": {
+      "sdist": [
+        "Zr2VMPRoTbXyZgyCW7U3Z3dEHG7OoUAasDDFQQt0xVg=",
+        "pascal-voc-toolkit-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "pascal_voc_toolkit-1.0.0-py3-none-any.whl": [
+          "WzkefKFwEFmh4Ct/z1iI47eoXiToiKQyimk3z9jijWM=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.1": {
+      "sdist": [
+        "N6AUNSzV9jgp3/Uu2iTDbJiCVkxOzRpGnuwhU8Ka7nA=",
+        "pascal-voc-toolkit-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "pascal_voc_toolkit-1.0.1-py3-none-any.whl": [
+          "EK4VyUZ3AHPDfffyqXso8LYDiaJuHDvRtcfZuPkGEHY=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.2": {
+      "sdist": [
+        "M3nDnmMosiMpItKLVfEb6x9IcQU9GOmeTdput5t6bYc=",
+        "pascal-voc-toolkit-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "pascal_voc_toolkit-1.0.2-py3-none-any.whl": [
+          "Z1pxjkdRI0/T7PB+BBXibf6NHbRoTB3ENgjne9vYMF0=",
+          "py3"
+        ]
+      }
     }
   },
   "password-validitychecker": {
@@ -124668,10 +124770,10 @@
     }
   },
   "relatorio-ensalamento": {
-    "2.0.2": {
+    "2.1.0": {
       "sdist": [
-        "HmMyKEtP8IvD2gWWfWwPedOXi900LY0tfNXl6xwk080=",
-        "Relatorio_Ensalamento-2.0.2.tar.gz"
+        "XIUGwKLcOWK2njFmhTZxj7mbpDVGskEJWKS5B8XnjfM=",
+        "Relatorio_Ensalamento-2.1.0.tar.gz"
       ]
     }
   },
@@ -132564,6 +132666,14 @@
       "wheels": {
         "sitreps_client-1.0.3-py2.py3-none-any.whl": [
           "OsOKMzUJVrVadGwiajXo5t0PECIN9QII6oZ7+18LtpY=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.0.4": {
+      "wheels": {
+        "sitreps_client-1.0.4-py2.py3-none-any.whl": [
+          "VH079XxMrrUQMAruVRBAKMiyvyMSQZ9SqoxNV98eWPg=",
           "py2.py3"
         ]
       }
@@ -147262,6 +147372,18 @@
       "wheels": {
         "tidy3d_beta-1.8.2-py3-none-any.whl": [
           "3gxhB5n6T53GQcZL2lyX65x8AROexOnUiNy4vvXsBdU=",
+          "py3"
+        ]
+      }
+    },
+    "1.8.3": {
+      "sdist": [
+        "wPNkTOHWK6ZZNzpthKcgOdwARZ4Cv6dplZi0p7Pl5u0=",
+        "tidy3d-beta-1.8.3.tar.gz"
+      ],
+      "wheels": {
+        "tidy3d_beta-1.8.3-py3-none-any.whl": [
+          "UF2Y9HTX9EhpE49YnOmAHgO8Lg3mA1i0Elph0DzmsK4=",
           "py3"
         ]
       }

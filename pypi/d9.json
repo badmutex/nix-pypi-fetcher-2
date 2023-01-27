@@ -7779,6 +7779,18 @@
           "py3"
         ]
       }
+    },
+    "2.62.2a0": {
+      "sdist": [
+        "Qm2CgDYkxvqP/AIiLooL3Anwhl3sLFGRQmEWETFs1Hk=",
+        "aws-cdk.aws-location-alpha-2.62.2a0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_location_alpha-2.62.2a0-py3-none-any.whl": [
+          "L+HsCRahZAxYAm7O60/90KelidHqwlpfADkj/DVg1go=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-glue-sessions": {
@@ -17639,6 +17651,18 @@
         "KjO96OvJ4HTQ6c1JY/uOFW8yl14gK+/X1Y0dGPClfEI=",
         "cohere-sagemaker-0.3.0.tar.gz"
       ]
+    },
+    "0.4.0": {
+      "sdist": [
+        "ulWH6EZYbGnMq2Z6edXAQ/1qWlOHuYxF7F8xeGXSgAQ=",
+        "cohere-sagemaker-0.4.0.tar.gz"
+      ],
+      "wheels": {
+        "cohere_sagemaker-0.4.0-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "iC8NxCVoBjKsTM2AuFsUygD6FOjkCVVz9HEB1TQqiHE=",
+          "cp39"
+        ]
+      }
     }
   },
   "coingecko-py": {
@@ -77292,6 +77316,14 @@
         ]
       }
     },
+    "15.0.1.0.0.22": {
+      "wheels": {
+        "odoo_addon_hotel-15.0.1.0.0.22-py3-none-any.whl": [
+          "mgtzI33aYmVjagDe6rSl94Q68ekSA20PqPHeMI6hiTs=",
+          "py3"
+        ]
+      }
+    },
     "15.0.1.0.0.7": {
       "wheels": {
         "odoo_addon_hotel-15.0.1.0.0.7-py3-none-any.whl": [
@@ -78368,6 +78400,14 @@
       "wheels": {
         "odoo12_addon_report_py3o-12.0.2.1.1.99.dev3-py3-none-any.whl": [
           "w9HTABO5bwOSDEHjl2mbrNiQ/Qgtc9c5cjzXlUXoFP8=",
+          "py3"
+        ]
+      }
+    },
+    "12.0.2.1.2": {
+      "wheels": {
+        "odoo12_addon_report_py3o-12.0.2.1.2-py3-none-any.whl": [
+          "jE04Rp/81j5JgNgOIqkAWRecQ38RzAmQgHkGQbADnkY=",
           "py3"
         ]
       }
@@ -113772,6 +113812,18 @@
         ]
       }
     },
+    "0.15.2": {
+      "sdist": [
+        "GkxLgzLgJC3bDa5DcW9mehIWK9aZTKCJu5F50HDNneM=",
+        "roadlib-0.15.2.tar.gz"
+      ],
+      "wheels": {
+        "roadlib-0.15.2-py3-none-any.whl": [
+          "WUfDfMXyDZoasDoSoRnp/Hk4mFs505mosGeq/Rptp9c=",
+          "py3"
+        ]
+      }
+    },
     "0.8.0": {
       "sdist": [
         "nsOm882D2Gvm3IlyBQsxLfJrR0GbpaoC3sKREbtD3vE=",
@@ -115164,6 +115216,18 @@
       "wheels": {
         "salesforce_lavis-1.0.0rc3-py3-none-any.whl": [
           "hcM+n+MkdQQc2FtnEgdJXaL9RBwSkp+9CA3IRpv/Ts0=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.0rc4": {
+      "sdist": [
+        "k9O7VurF7cyDzGuP/5jQnKkBE2oZ+PI8JO0wrqTnm1Y=",
+        "salesforce-lavis-1.0.0rc4.tar.gz"
+      ],
+      "wheels": {
+        "salesforce_lavis-1.0.0rc4-py3-none-any.whl": [
+          "scQDhnrQMkCcLqX8W27azAd1UOVQOReFzyEmLv0kzIY=",
           "py3"
         ]
       }
@@ -120817,6 +120881,32 @@
         "S+MhdDU7Ww5jcmj9pvSPv+wEXyplRIpdt9OlccDOKlM=",
         "sqla-taskq-0.1.tar.gz"
       ]
+    }
+  },
+  "sqlalchemy-pytest": {
+    "0.0.1": {
+      "sdist": [
+        "7erGAjT5FinM0NUeg8Unmse/alriOKsAHPJcCBc02kk=",
+        "sqlalchemy-pytest-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "sqlalchemy_pytest-0.0.1-py3-none-any.whl": [
+          "ph9FAzq3RE8gB5R82RamGAEuerXcWIOmPyzXzPlYSZo=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "fRZ3CmDSxu5f2YKGR9gfy5XJ4CdKgx52uxd0S89MVIk=",
+        "sqlalchemy-pytest-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "sqlalchemy_pytest-0.0.2-py3-none-any.whl": [
+          "TXEMqoIY46ZeV1U/C2aG9UHpIQEsqq+SkkbD99jnRvQ=",
+          "py3"
+        ]
+      }
     }
   },
   "sqlite-session": {
@@ -139679,6 +139769,14 @@
           "py3"
         ]
       }
+    }
+  },
+  "yb-trust-butils": {
+    "66.1.0": {
+      "sdist": [
+        "Y5G+Ar251YD0jHGzeQZnqCDmqoRJUnwXdzNF1qhBJAw=",
+        "yb-trust-butils-66.1.0.tar.gz"
+      ]
     }
   },
   "yihan-helper": {

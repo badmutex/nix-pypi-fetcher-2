@@ -11175,6 +11175,22 @@
           "py3"
         ]
       }
+    },
+    "2.3.0b20230128": {
+      "sdist": [
+        "qldJHjm5JnTCtsz6g3Kl37P1pvY5oVY/kvnUkbfpLcs=",
+        "bigdl-dllib-spark3-2.3.0b20230128.tar.gz"
+      ],
+      "wheels": {
+        "bigdl_dllib_spark3-2.3.0b20230128-py3-none-macosx_10_11_x86_64.whl": [
+          "t7MkY1IicN+QHzZdTNCMSh4a1LBsuEZFX1+NxT+Ep8Y=",
+          "py3"
+        ],
+        "bigdl_dllib_spark3-2.3.0b20230128-py3-none-manylinux1_x86_64.whl": [
+          "FH9rSsl0gA0aPNhlR2brYOGDsTkSyaWWgwRW1jirvec=",
+          "py3"
+        ]
+      }
     }
   },
   "bigos": {
@@ -48188,6 +48204,18 @@
       "wheels": {
         "grayskull-2.1.0-py3-none-any.whl": [
           "HWqPObUtGr/0tQpwV2dm65gauyeTH4JpDg0XIjCSR68=",
+          "py3"
+        ]
+      }
+    },
+    "2.2.0": {
+      "sdist": [
+        "qPHJjcziu8PKZh753uDqwsUxg+1ThQZs5eYjAYJomWE=",
+        "grayskull-2.2.0.tar.gz"
+      ],
+      "wheels": {
+        "grayskull-2.2.0-py3-none-any.whl": [
+          "odt4cbeS8DEDY34WB1xeGTZ5Lt4woh7/aFgMJZ6oVrw=",
           "py3"
         ]
       }

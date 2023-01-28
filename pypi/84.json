@@ -52687,6 +52687,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.0a88": {
+      "sdist": [
+        "3Th5TOYNujQRzFBLEUZoUTbcLjgy9moQIdG9t73Zi64=",
+        "heaserver-1.0.0a88.tar.gz"
+      ],
+      "wheels": {
+        "heaserver-1.0.0a88-py3-none-any.whl": [
+          "6MJCNrcSyvI+i+518l3r432NRZtlS7aW12oEhrUdU2Y=",
+          "py3"
+        ]
+      }
     }
   },
   "hedgedata": {
@@ -138234,6 +138246,14 @@
         ]
       }
     },
+    "2.12.0a20230128": {
+      "wheels": {
+        "tb_nightly-2.12.0a20230128-py3-none-any.whl": [
+          "a6zr2uQPSwMn7CDr64wfOhsfS3LGKDEA8O3JRo/wiLc=",
+          "py3"
+        ]
+      }
+    },
     "2.2.0a20191207": {
       "wheels": {
         "tb_nightly-2.2.0a20191207-py2-none-any.whl": [
@@ -161686,14 +161706,62 @@
     }
   },
   "zdt": {
-    "0.0.13": {
+    "1.6": {
       "sdist": [
-        "kJIfCBEcRRAt7kYi2+HGDmE3hLBsXcI+OY1bNdOAzA8=",
-        "zdt-0.0.13.tar.gz"
+        "pmI6DN8yvGoAUwCoAhnjP2Mrug3xPBREfPMNV4pSj38=",
+        "zdt-1.6.tar.gz"
       ],
       "wheels": {
-        "zdt-0.0.13-py3-none-any.whl": [
-          "4jHxy9Gewf89Y/pyIQ9zeH7GTILtJLsKqxgUx0sX2Qw=",
+        "zdt-1.6-py3-none-any.whl": [
+          "NE6+y4VnbnwQFoHfoXm4FTzEGq0zK4qEy0thkigU9xA=",
+          "py3"
+        ]
+      }
+    },
+    "1.7": {
+      "sdist": [
+        "tb8u8FI1r7N5qvVEf8BnDtvgLtgMsohDkBkhnn98fa0=",
+        "zdt-1.7.tar.gz"
+      ],
+      "wheels": {
+        "zdt-1.7-py3-none-any.whl": [
+          "MFjCJMeXUDvQOoT+PiMcSoK2CXdf6AJkQZmJ7UJab8E=",
+          "py3"
+        ]
+      }
+    },
+    "1.8": {
+      "sdist": [
+        "AQqzPo1xHXd2WN84lpw8/5x4DmzIn/cm4EirjOt+1hQ=",
+        "zdt-1.8.tar.gz"
+      ],
+      "wheels": {
+        "zdt-1.8-py3-none-any.whl": [
+          "ga2ggcTw1hmZQQ4zjKXkmT5xYBK4enzZCYJcifj3NuE=",
+          "py3"
+        ]
+      }
+    },
+    "1.9": {
+      "sdist": [
+        "OdHq/R94ppDeUTSN8Jdm4/8kxvFx8pow+3XKUrGK8JQ=",
+        "zdt-1.9.tar.gz"
+      ],
+      "wheels": {
+        "zdt-1.9-py3-none-any.whl": [
+          "aOMyqi+qcg/IKcTrdlaF7l7TEFMfc6ihwjJFAsroDv8=",
+          "py3"
+        ]
+      }
+    },
+    "2.0": {
+      "sdist": [
+        "nCccKR06D8dRK4uJAGJbcLC/2jvdLWaV3nXqF7o42NY=",
+        "zdt-2.0.tar.gz"
+      ],
+      "wheels": {
+        "zdt-2.0-py3-none-any.whl": [
+          "E2qWdGMWm+TzM4NbjYf+J2GB0rUdeDRx8m5vZ2WqOlI=",
           "py3"
         ]
       }

@@ -27356,6 +27356,30 @@
         ]
       }
     },
+    "0.0.10": {
+      "sdist": [
+        "yUy7xQZHeKeOvwWDooBYTBGubuxXQBrn6emM7caHe4Q=",
+        "cpagym-0.0.10.tar.gz"
+      ],
+      "wheels": {
+        "cpagym-0.0.10-py3-none-any.whl": [
+          "b8NeFO85PEDMX9TNIlAD4DuVmX7ykCMFIj8RMk0c/sw=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.11": {
+      "sdist": [
+        "g8XrC0P0PQ+/LqmSZId5gG85lfUZFpgx5n2ZxT4PgdE=",
+        "cpagym-0.0.11.tar.gz"
+      ],
+      "wheels": {
+        "cpagym-0.0.11-py3-none-any.whl": [
+          "xBe7n7xR9XH/4sUvEydSwiOV1pKqAc9DDiAW4sTmHJM=",
+          "py3"
+        ]
+      }
+    },
     "0.0.2": {
       "sdist": [
         "ZNpxhFsLWjLvjfVFt/vCEp+ZaiKe7mUmriRNgsQeLmQ=",
@@ -27388,6 +27412,66 @@
       "wheels": {
         "cpagym-0.0.4-py3-none-any.whl": [
           "Y+lhLmdScQCb8m5Oe4HFlv9/nL4j35QetvKrXPWBRio=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.5": {
+      "sdist": [
+        "C6FVKzYMQ5SSDfbrwpLU1AFrT0DSDryEOVqeoZe6yUU=",
+        "cpagym-0.0.5.tar.gz"
+      ],
+      "wheels": {
+        "cpagym-0.0.5-py3-none-any.whl": [
+          "vjG+l7DqY3SyMUFG4J6aLlTGt/nIyw8S/3+sGJJ2+ds=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.6": {
+      "sdist": [
+        "nH348ePDB1PgwQiwzrDvWgoFP8JLyAMZVrlJY2s9+5A=",
+        "cpagym-0.0.6.tar.gz"
+      ],
+      "wheels": {
+        "cpagym-0.0.6-py3-none-any.whl": [
+          "tOBpx623LbAlUYSP6zCl5aw4Wun8HMfIAto9XHZtzTw=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.7": {
+      "sdist": [
+        "62DkouTD1I6QkNuSIAQUTky4WmcG3mZlueH6CjYZi64=",
+        "cpagym-0.0.7.tar.gz"
+      ],
+      "wheels": {
+        "cpagym-0.0.7-py3-none-any.whl": [
+          "GdJUzD0xfeXp4XScm7PovOSs3MU7l+7w/W4rfFXG984=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.8": {
+      "sdist": [
+        "ejMGO0p9bvdP5isZjBYRgUJbp2S7Ygj3+MrnPD9DW+Y=",
+        "cpagym-0.0.8.tar.gz"
+      ],
+      "wheels": {
+        "cpagym-0.0.8-py3-none-any.whl": [
+          "APP6eqTRrOHOelQc0tFcakD2ssKjjtk6r1Wm1uQ3790=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.9": {
+      "sdist": [
+        "0ErdRAh+mGe0RPCBXZ6WSpXyNNDCHk3HDq84oVUjdhc=",
+        "cpagym-0.0.9.tar.gz"
+      ],
+      "wheels": {
+        "cpagym-0.0.9-py3-none-any.whl": [
+          "P2cW0Fbh2wJIJU7aSPBcfwfhNgoUVS+becaVnnsk0Ik=",
           "py3"
         ]
       }
@@ -81214,94 +81298,6 @@
     }
   },
   "nautilus-trader": {
-    "1.150.0": {
-      "sdist": [
-        "I734oR9h4WLjuiZ+Y/u9GnwYLe3idVnZTXG2rJIfj/4=",
-        "nautilus_trader-1.150.0.tar.gz"
-      ],
-      "wheels": {
-        "nautilus_trader-1.150.0-cp310-cp310-macosx_10_16_x86_64.whl": [
-          "HExIZEuoCs6OkKbXwDPyCoMLSi1zw3OQW5xJzAoCZ5I=",
-          "cp310"
-        ],
-        "nautilus_trader-1.150.0-cp310-cp310-manylinux_2_31_x86_64.whl": [
-          "t7qrrN9pDWRlT5qyeGvTkuTx2Uato47B72MSdaghRGc=",
-          "cp310"
-        ],
-        "nautilus_trader-1.150.0-cp310-cp310-win_amd64.whl": [
-          "1gmefKak+Hya7eqiDuXMOsgb//fOA16wu+4zQNpUsus=",
-          "cp310"
-        ],
-        "nautilus_trader-1.150.0-cp38-cp38-macosx_10_16_x86_64.whl": [
-          "A5olF4bYURMUakW2CSxoT9X3I19cJ95pn0/SwJvt9sE=",
-          "cp38"
-        ],
-        "nautilus_trader-1.150.0-cp38-cp38-manylinux_2_31_x86_64.whl": [
-          "YnEwPupvwTYnU3kRpBfjl8HB19cZhBNYYniPkwE+MjM=",
-          "cp38"
-        ],
-        "nautilus_trader-1.150.0-cp38-cp38-win_amd64.whl": [
-          "HrxfOPJjdPmL9QTZFHiOD1AYkb1sBEbKpXpY+6CcIxM=",
-          "cp38"
-        ],
-        "nautilus_trader-1.150.0-cp39-cp39-macosx_10_16_x86_64.whl": [
-          "kKRHGOCp+igFB2Y0j4iOqyTruFpwM9m0Ap2Ns/mhSnw=",
-          "cp39"
-        ],
-        "nautilus_trader-1.150.0-cp39-cp39-manylinux_2_31_x86_64.whl": [
-          "b2d0X7eFf+AgeHiDy49s+wKij6UtqzhcUyAZZDjQf6g=",
-          "cp39"
-        ],
-        "nautilus_trader-1.150.0-cp39-cp39-win_amd64.whl": [
-          "vsCLoQYsPXNNhT3DhCAu8YVTFZYq+aoNLltZ3vPUUn8=",
-          "cp39"
-        ]
-      }
-    },
-    "1.151.0": {
-      "sdist": [
-        "axKwh+gkkbur1gD1j929A39eMqX9kd3HVhKjfwOsASc=",
-        "nautilus_trader-1.151.0.tar.gz"
-      ],
-      "wheels": {
-        "nautilus_trader-1.151.0-cp310-cp310-macosx_10_16_x86_64.whl": [
-          "+kUGeLaMqPmjHtpS0oByZfPhIR3QtQ8uJcDRoyH0eC8=",
-          "cp310"
-        ],
-        "nautilus_trader-1.151.0-cp310-cp310-manylinux_2_31_x86_64.whl": [
-          "ppfIf/e40JX0cF/aWds+elQSxA/OBjriE6wt+5uWq2I=",
-          "cp310"
-        ],
-        "nautilus_trader-1.151.0-cp310-cp310-win_amd64.whl": [
-          "wk2o5oOW+MshUGNFBb/SvbVb+05w8h36bX/5mJdMzlo=",
-          "cp310"
-        ],
-        "nautilus_trader-1.151.0-cp38-cp38-macosx_10_16_x86_64.whl": [
-          "UJ+FUnS4QGrf9LZV/khHiYDGmbOKL4gHKBHq8RUVbt0=",
-          "cp38"
-        ],
-        "nautilus_trader-1.151.0-cp38-cp38-manylinux_2_31_x86_64.whl": [
-          "jq7XKXpfGejdQvgqlK5bAeT5mtgZX0hUmLH9aYOhBbs=",
-          "cp38"
-        ],
-        "nautilus_trader-1.151.0-cp38-cp38-win_amd64.whl": [
-          "Jrq39+17+G8Kie1JeyJQ3kyiYg9/yPFDiGp2aHAWDYk=",
-          "cp38"
-        ],
-        "nautilus_trader-1.151.0-cp39-cp39-macosx_10_16_x86_64.whl": [
-          "eLvkURpQJCLvNGO37legHFvTm6+utLzBtve28Q7XLDQ=",
-          "cp39"
-        ],
-        "nautilus_trader-1.151.0-cp39-cp39-manylinux_2_31_x86_64.whl": [
-          "+jROg12FjKDDHtrDA3ey+X/cT72W5TEQM9QdrHCLvng=",
-          "cp39"
-        ],
-        "nautilus_trader-1.151.0-cp39-cp39-win_amd64.whl": [
-          "5XNvEBsuAuH6nSa4k1DfTejqApQBorH0lFFyBAhPt2s=",
-          "cp39"
-        ]
-      }
-    },
     "1.152.0": {
       "sdist": [
         "4RcWL8gxFrFzq4Qg3eHm7lux3VowUMOqJHt0udFCF6g=",
@@ -81974,6 +81970,62 @@
         ],
         "nautilus_trader-1.166.0-cp39-cp39-win_amd64.whl": [
           "zs+xItzyX1GE7Tn0QALZ9SapmlEWYas2lhnM/1Z2GRE=",
+          "cp39"
+        ]
+      }
+    },
+    "1.167.0": {
+      "sdist": [
+        "IidiLuMQ87Gld8eFIXYMhsSCRocf28Pu5ToFF0MVLEA=",
+        "nautilus_trader-1.167.0.tar.gz"
+      ],
+      "wheels": {
+        "nautilus_trader-1.167.0-cp310-cp310-macosx_12_0_x86_64.whl": [
+          "u7V480SEJUcG0+I2nqLUJI3D0aBEhmF0AWbFDzhGLOE=",
+          "cp310"
+        ],
+        "nautilus_trader-1.167.0-cp310-cp310-macosx_13_0_arm64.whl": [
+          "/7b0JqEwuoi5ASvPcozy56SnIrhdD83IUWDhnJxV8dw=",
+          "cp310"
+        ],
+        "nautilus_trader-1.167.0-cp310-cp310-manylinux_2_35_x86_64.whl": [
+          "Xvk1MnZXM0War385riQboDjbex7Y+oxe2SWup6l/UtU=",
+          "cp310"
+        ],
+        "nautilus_trader-1.167.0-cp310-cp310-win_amd64.whl": [
+          "b6Y5HqK0Dclo0E4L8QO8kDRV12UJ+BkrfT4n3ntRVws=",
+          "cp310"
+        ],
+        "nautilus_trader-1.167.0-cp311-cp311-macosx_12_0_x86_64.whl": [
+          "SWhqCQwFitkQm9pbAlmFOXU7tQo7vkR/8Y543MLZAow=",
+          "cp311"
+        ],
+        "nautilus_trader-1.167.0-cp311-cp311-macosx_13_0_arm64.whl": [
+          "AlSN2HqoobEU8oKnQYBT8Z4N2oM0puueSE8krdPGqqM=",
+          "cp311"
+        ],
+        "nautilus_trader-1.167.0-cp311-cp311-manylinux_2_35_x86_64.whl": [
+          "/wvXtvcLupJhU7whpb24mvtYz9Fngh4fiDGX2T42Rbs=",
+          "cp311"
+        ],
+        "nautilus_trader-1.167.0-cp311-cp311-win_amd64.whl": [
+          "8r6H5csVo6IYeYGPChHLukwoVHtQpI1Pq3bcrFSNUIo=",
+          "cp311"
+        ],
+        "nautilus_trader-1.167.0-cp39-cp39-macosx_12_0_x86_64.whl": [
+          "DiCS2Vd/jq3QPh//HpehTRUpKARge/ztCpY+eoRYU2U=",
+          "cp39"
+        ],
+        "nautilus_trader-1.167.0-cp39-cp39-macosx_13_0_arm64.whl": [
+          "NonE3Xg574r0DHnnnn3WuWMjNtSo2V09FVKMzBC5WV4=",
+          "cp39"
+        ],
+        "nautilus_trader-1.167.0-cp39-cp39-manylinux_2_35_x86_64.whl": [
+          "SfYyN3s06Or50DwiRAGbbOPYF4JhsE28KMehcj240rQ=",
+          "cp39"
+        ],
+        "nautilus_trader-1.167.0-cp39-cp39-win_amd64.whl": [
+          "1LPXvYNe+vdNCJ4XB+zmiikFaKQ16iVsu/bOAHO2oH4=",
           "cp39"
         ]
       }

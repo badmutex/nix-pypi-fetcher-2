@@ -38139,6 +38139,18 @@
           "py3"
         ]
       }
+    },
+    "0.3.8": {
+      "sdist": [
+        "JoKZ/8rhBlKKnAsLdNvWx1p1QOPFfgiEoWVh3RqYoJ4=",
+        "datalad-metadata-model-0.3.8.tar.gz"
+      ],
+      "wheels": {
+        "datalad_metadata_model-0.3.8-py3-none-any.whl": [
+          "HpQ5QzgkWR1dms3TrDyLXFObAba6WPLKYLxBod/d8jc=",
+          "py3"
+        ]
+      }
     }
   },
   "dataobjtools": {
@@ -50904,6 +50916,66 @@
       "wheels": {
         "django_multitenancy_manager-0.0.2a10-py2.py3-none-any.whl": [
           "495l4RGw00XX/vDXJcoQgCN0eAP4P7KYGGykojg/Vlw=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.2a11": {
+      "sdist": [
+        "YCgKiNBVG+ZMH/uovF1QrzabzkLejXwoyQGwXa5eHcg=",
+        "django-multitenancy-manager-0.0.2a11.tar.gz"
+      ],
+      "wheels": {
+        "django_multitenancy_manager-0.0.2a11-py2.py3-none-any.whl": [
+          "Ur17r/BOq/3cDlEWtmHX7Ba9ZWBRVRik7h8iae+coBM=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.2a12": {
+      "sdist": [
+        "56w9lh397q5tbbsSMUeU7HhsK7KPzDpxbGXBijr954A=",
+        "django-multitenancy-manager-0.0.2a12.tar.gz"
+      ],
+      "wheels": {
+        "django_multitenancy_manager-0.0.2a12-py2.py3-none-any.whl": [
+          "6LXohmCVz8jdFkJdplBIeb5hg+E8PqkGhcPWx0lMbkY=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.2a13": {
+      "sdist": [
+        "tNKMSfxqaSx9rcRb9G/0ZbrZurVxCkd0J6LmlRZCPHs=",
+        "django-multitenancy-manager-0.0.2a13.tar.gz"
+      ],
+      "wheels": {
+        "django_multitenancy_manager-0.0.2a13-py2.py3-none-any.whl": [
+          "tbmu5QGZ+jS89Df7crL7NoQKKs8P1jA3+L0Zps14598=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.2a14": {
+      "sdist": [
+        "0ilxaVCvH3vamQuNIrIvTKAuBlLZpImU5fcGOQE04FM=",
+        "django-multitenancy-manager-0.0.2a14.tar.gz"
+      ],
+      "wheels": {
+        "django_multitenancy_manager-0.0.2a14-py2.py3-none-any.whl": [
+          "vsB/gJIWkMoNrHNtgO8DRa2K1kIB8UXdx2aTON8u5zE=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.2a15": {
+      "sdist": [
+        "7wUrRvE7ECPlDATkK7IqfVHWkUVChH0RngWgLvec3MQ=",
+        "django-multitenancy-manager-0.0.2a15.tar.gz"
+      ],
+      "wheels": {
+        "django_multitenancy_manager-0.0.2a15-py2.py3-none-any.whl": [
+          "W4PpGfRKp5NZAW4mtSNeSnfg40sDwR0BIQqptMCHifg=",
           "py2.py3"
         ]
       }
@@ -106980,6 +107052,62 @@
         ],
         "pyeoskit-1.0.9-cp39-cp39-win_amd64.whl": [
           "ctIDxWcZ+j1q0zVNnnVSNIW+PVonLOqkG7j1YP2FyNE=",
+          "cp39"
+        ]
+      }
+    },
+    "1.1.10": {
+      "sdist": [
+        "cM8kMzwUMkKEFur5esDcO+YnO8E60/GUwRG3B1emveY=",
+        "pyeoskit-1.1.10.tar.gz"
+      ],
+      "wheels": {
+        "pyeoskit-1.1.10-cp310-cp310-macosx_10_15_x86_64.whl": [
+          "2i+KYwlyiVNW0LC2cyABQWFAsqIkHFF3EAAMv9j1cok=",
+          "cp310"
+        ],
+        "pyeoskit-1.1.10-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "cJYaPnHb/ZM5wCT2PVdOvekMgOh/QlcWxr84bvY72hI=",
+          "cp310"
+        ],
+        "pyeoskit-1.1.10-cp310-cp310-win_amd64.whl": [
+          "3bSnEvVsOx5u+RGUQWhSV2+0yg1vUTxxJXPsoH6F6/M=",
+          "cp310"
+        ],
+        "pyeoskit-1.1.10-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "j1/3Ik6xUWSrEAJ/0thSmJ/C+x+QRKE24xBTFRTozc8=",
+          "cp37"
+        ],
+        "pyeoskit-1.1.10-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ypJ9demUTRSaZ8GWvnEoGmkPgjyc+fZJeR4DOk5WGSE=",
+          "cp37"
+        ],
+        "pyeoskit-1.1.10-cp37-cp37m-win_amd64.whl": [
+          "Xz+6Lj9+GbCUaehOzPqz4unXvBdB0kFSZLITZdJrvkc=",
+          "cp37"
+        ],
+        "pyeoskit-1.1.10-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "v+Yurx5MiMUv3PAAlnnKc2T/G+KhQADTNVtkrWegagk=",
+          "cp38"
+        ],
+        "pyeoskit-1.1.10-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "/ZEF6Pszaso81u89L9dJuAuJBkF/QSeC85mA5rffNhE=",
+          "cp38"
+        ],
+        "pyeoskit-1.1.10-cp38-cp38-win_amd64.whl": [
+          "p0TESyel6as+xhdm8ICB2tlUKr5VTkzZWbxm0VbV/14=",
+          "cp38"
+        ],
+        "pyeoskit-1.1.10-cp39-cp39-macosx_10_15_x86_64.whl": [
+          "dG7PbZgosg0vU59p3OjDyoHzLUzwwLGZK7NVN7HocjE=",
+          "cp39"
+        ],
+        "pyeoskit-1.1.10-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "5Kel2z/kjjeK/+zoTfhAhqtFKr+Ns0nRk15X10bpTrM=",
+          "cp39"
+        ],
+        "pyeoskit-1.1.10-cp39-cp39-win_amd64.whl": [
+          "iKYHn82qAK9Ufc/RKzCiVZa3Lyq7qdTfpKpn8eQa6zo=",
           "cp39"
         ]
       }

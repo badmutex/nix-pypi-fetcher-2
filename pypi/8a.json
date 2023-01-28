@@ -15997,6 +15997,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.59": {
+      "sdist": [
+        "7I+dJJF6pXyVzpU6TSSKeAPUmsXcAYAQOAeNBS5LEew=",
+        "botocore-a-la-carte-backup-1.29.59.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_backup-1.29.59-py3-none-any.whl": [
+          "JiEKKEnXBPgEXbHah3a9ATBJzp1fMj+x2dwYfswwKvc=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-devicefarm": {
@@ -16203,6 +16215,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.59": {
+      "sdist": [
+        "cU80csbd/DChNIizvv1yOD899sLjbnscl6kRtA9w2hY=",
+        "botocore-a-la-carte-devicefarm-1.29.59.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_devicefarm-1.29.59-py3-none-any.whl": [
+          "mv9iqMHDa3AdzMsKOrgsyixoXCuoMXXBtfZBOMG2RiY=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-fis": {
@@ -16406,6 +16430,18 @@
       "wheels": {
         "botocore_a_la_carte_fis-1.29.58-py3-none-any.whl": [
           "IJJCFjjDoeo/1yoxM6GihjafQXql/S2TprbRx7BhfbI=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.59": {
+      "sdist": [
+        "sHC9PCB59TN/SrEeL6P5Fix7zaZHrImhf80ok7uRhjA=",
+        "botocore-a-la-carte-fis-1.29.59.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_fis-1.29.59-py3-none-any.whl": [
+          "E7QMq/NGaKGZbsGYiA1AWdh+6tVYjuz6jqbDJsKwkuY=",
           "py3"
         ]
       }
@@ -43622,6 +43658,18 @@
         ]
       }
     },
+    "2.0.11": {
+      "sdist": [
+        "CO/I6mqpQZirBK7dsoc1Zv3HKwX4nwQTIytBKHOPVoo=",
+        "fantasy-hockey-notifier-cdk-2.0.11.tar.gz"
+      ],
+      "wheels": {
+        "fantasy_hockey_notifier_cdk-2.0.11-py3-none-any.whl": [
+          "SKcJNzW5CZXl0hiKuLCzmdwXeMmi522+BE+O/GUqJQw=",
+          "py3"
+        ]
+      }
+    },
     "2.0.2": {
       "sdist": [
         "iuHiP5xXk0uoksfGbODuR8K9JsYR5wvj22ZTAzqgRPM=",
@@ -62816,6 +62864,18 @@
       "wheels": {
         "lager_cli-0.1.166-py3-none-any.whl": [
           "j+laMoC2dwPMoerUbcuzYbJMNKGAueoWPMTGN2jGsMk=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.167": {
+      "sdist": [
+        "SPwKAJv4MdtS19aipRNHOyjIhpEW+l0+6gL1QfoUrQ4=",
+        "lager-cli-0.1.167.tar.gz"
+      ],
+      "wheels": {
+        "lager_cli-0.1.167-py3-none-any.whl": [
+          "DYS0sQZo8Tvr69BT+MokFSdeXGlJn7SEB+wjrLZSLsU=",
           "py3"
         ]
       }
@@ -84932,6 +84992,34 @@
         ],
         "OctoBot_Trading-2.3.12-cp38-cp38-win_amd64.whl": [
           "7oMD4BZLQOCvcI/AnTEPNHXJYBnsuk233lX3CTej/xE=",
+          "cp38"
+        ]
+      }
+    },
+    "2.3.13": {
+      "sdist": [
+        "6Wst1mZWcmMUigqubcUhUaMQpsaeJxZ2dNAds5BrIFE=",
+        "OctoBot-Trading-2.3.13.tar.gz"
+      ],
+      "wheels": {
+        "OctoBot_Trading-2.3.13-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "ehHDVlAnpCvDEwsDIOLH/6HBqNOMejQvF5W6g09cFpY=",
+          "cp38"
+        ],
+        "OctoBot_Trading-2.3.13-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "9LEQoYhgf60k+mC6Lh/R2WKtshX5rDM2apCOP4nwzfs=",
+          "cp38"
+        ],
+        "OctoBot_Trading-2.3.13-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "SrND6eH3DY5oEp5p32LeyqO4Stk7WbA+hUcnXl5hl98=",
+          "cp38"
+        ],
+        "OctoBot_Trading-2.3.13-cp38-cp38-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "J7zMkkt+LeuFiFkjOCneG5RezO7kiBzzomb9PgYGw5U=",
+          "cp38"
+        ],
+        "OctoBot_Trading-2.3.13-cp38-cp38-win_amd64.whl": [
+          "rQ1KCzZbyk2MHECveQyAqdoy1BkKnaCup0cdgiQJVUE=",
           "cp38"
         ]
       }

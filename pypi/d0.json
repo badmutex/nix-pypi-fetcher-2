@@ -15191,6 +15191,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.59": {
+      "sdist": [
+        "R9vp4/OZB8oFWZjzr//o0/6wPlQclptHaonGHI5vt4o=",
+        "botocore-a-la-carte-chime-sdk-voice-1.29.59.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_chime_sdk_voice-1.29.59-py3-none-any.whl": [
+          "Qe6+WqM6tc+BovnNRpYqlCkxXRt8L89wq8tbB5WYs3c=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-mwaa": {
@@ -15394,6 +15406,18 @@
       "wheels": {
         "botocore_a_la_carte_mwaa-1.29.58-py3-none-any.whl": [
           "n0/KIZITzu1bkU8Gcfq6o0riiDqlpvDBs0cjxgg2VQ8=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.59": {
+      "sdist": [
+        "1eK6fZL29A4e4Dad9u0+s+x+jTS3Mw965H/kXZd2fwE=",
+        "botocore-a-la-carte-mwaa-1.29.59.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_mwaa-1.29.59-py3-none-any.whl": [
+          "cMZOWaQ4IvogpCPAF01c6mDcUwL98S9ZLJMFfBWNa8A=",
           "py3"
         ]
       }
@@ -59625,6 +59649,32 @@
         "RJ1L12UN+v1ivI/sZRh5snw8QNzKTLp8sJiKcafYSXY=",
         "microsip_api-3.4.9.tar.gz"
       ]
+    }
+  },
+  "microt-prompt": {
+    "0.1.0": {
+      "sdist": [
+        "hHlFTcZz0TxqoWrVKi+zCbL1UKYqTcChTnB/EYB39fo=",
+        "microt_prompt-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "microt_prompt-0.1.0-py3-none-any.whl": [
+          "/unWOxpr0ezGHGT6q5hvhJ4eJjKIfkDVyueeWgQiXiM=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "hWbHUD+Yqd9KvblrqUB5If78RksdjMQgEhAlDMxN4NM=",
+        "microt_prompt-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "microt_prompt-0.1.1-py3-none-any.whl": [
+          "BIN9wa0w7FGgbQ8u1OCAKwQOIqCzQ3mxbopF9+meARk=",
+          "py3"
+        ]
+      }
     }
   },
   "migrations-ml": {

@@ -9686,18 +9686,6 @@
     }
   },
   "bauplan": {
-    "0.0.2": {
-      "sdist": [
-        "TdmRUmNrXKHKbbySp70jhoZe7P6/vXYNKpE6LSkJbVE=",
-        "bauplan-0.0.2.tar.gz"
-      ],
-      "wheels": {
-        "bauplan-0.0.2-py3-none-any.whl": [
-          "skSwUN4DDN3hN+B63FGxLxudZvmtAI+xkQLkiBkA5ww=",
-          "py3"
-        ]
-      }
-    },
     "0.0.3a1": {
       "sdist": [
         "y4xSqflg0hBLQIVmsQSxfWoEtXu0Cz94KsaUKIXF4kw=",
@@ -13089,6 +13077,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.59": {
+      "sdist": [
+        "a7KyhcK4obWj8r4lU0MlGfNzZEJ2ESHEl4T7mjt5Dh8=",
+        "botocore-a-la-carte-ssm-incidents-1.29.59.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_ssm_incidents-1.29.59-py3-none-any.whl": [
+          "CampEG/aTj2GyGLLusEzf0jaU/MdocZawy/8QtJw4vg=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-voice-id": {
@@ -13292,6 +13292,18 @@
       "wheels": {
         "botocore_a_la_carte_voice_id-1.29.58-py3-none-any.whl": [
           "pYn5odgkRuTQmbNXRc0snzZ2tdb+bEKMhRH/BKvkzKE=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.59": {
+      "sdist": [
+        "DKRqxzpOFtlY0ohn1u9D3xyivuqO87L6DWM1q2G1atM=",
+        "botocore-a-la-carte-voice-id-1.29.59.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_voice_id-1.29.59-py3-none-any.whl": [
+          "6+OG6NmG6C6cz5TiHAIw8fxOdWGTZbC52bCVVyFvCrc=",
           "py3"
         ]
       }
@@ -80679,6 +80691,18 @@
           "py3"
         ]
       }
+    },
+    "1.26.59": {
+      "sdist": [
+        "MES234wZ1WfibT0gu6iOow0itO4YxRAZNErjDDYIRaA=",
+        "mypy-boto3-application-autoscaling-1.26.59.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_application_autoscaling-1.26.59-py3-none-any.whl": [
+          "FLnUfx5/9k4eZlNUI2oa701upUpmxmAz6KcborgRYTQ=",
+          "py3"
+        ]
+      }
     }
   },
   "mypy-boto3-backup": {
@@ -138246,6 +138270,18 @@
       "wheels": {
         "sparrow_tool-0.8.3-py2.py3-none-any.whl": [
           "4oAltTUCFB8/GZHRRo8erEVlfpgB7GfS5UiAwhccBMM=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.8.5": {
+      "sdist": [
+        "BqN86gjRcVX/5So8SuMvdRjBiMnhRIzfE28Nsv4s9d4=",
+        "sparrow_tool-0.8.5.tar.gz"
+      ],
+      "wheels": {
+        "sparrow_tool-0.8.5-py2.py3-none-any.whl": [
+          "mKgWYqU2QYgp+CDb8maFAeVUARMsUKXCKYrsHTW6Qyc=",
           "py2.py3"
         ]
       }

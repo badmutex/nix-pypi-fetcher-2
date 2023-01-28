@@ -12649,6 +12649,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.59": {
+      "sdist": [
+        "8mTh9N0ItnVcqYPR9RpOuXtoMF78nqwoRAf1L1LkJro=",
+        "botocore-a-la-carte-gamesparks-1.29.59.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_gamesparks-1.29.59-py3-none-any.whl": [
+          "PfZZr2t6Oryg2vTQAijF094ieWm1SqzUmxa7Q/L9rk4=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-ssm": {
@@ -12852,6 +12864,18 @@
       "wheels": {
         "botocore_a_la_carte_ssm-1.29.58-py3-none-any.whl": [
           "u88fx4H0DJg7zBcPGpnWbCIb1dnxnEs/y1M12iHJ0/0=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.59": {
+      "sdist": [
+        "XYi6udhEkLwFwml2I4+xndc47uUVJGvQqqBWF0z7Ci8=",
+        "botocore-a-la-carte-ssm-1.29.59.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_ssm-1.29.59-py3-none-any.whl": [
+          "Dn9oLY/pDFRAZIv27N6rE7V9EUcBvoVhm3j/WyS7ny8=",
           "py3"
         ]
       }
@@ -112828,6 +112852,74 @@
         ]
       }
     },
+    "0.0.15": {
+      "sdist": [
+        "90LTOedTU0m0TtPN1a2p6ezL4JbhBHiCAGKHfBybRy0=",
+        "pyvroom-0.0.15.tar.gz"
+      ],
+      "wheels": {
+        "pyvroom-0.0.15-cp310-cp310-macosx_10_14_x86_64.whl": [
+          "Ma9MPO2B46ebwjo5PCFdAosUPxo6E++vJCQIYOAkLro=",
+          "cp310"
+        ],
+        "pyvroom-0.0.15-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "hegQUbngkBTs3IzDDOGFxmMpGCxGJkNcfsH/buVvA80=",
+          "cp310"
+        ],
+        "pyvroom-0.0.15-cp310-cp310-win_amd64.whl": [
+          "KfLaiCy1He+HD5E0/52zMqCnP7sbto5d3LEJrLEsH0U=",
+          "cp310"
+        ],
+        "pyvroom-0.0.15-cp311-cp311-macosx_10_14_x86_64.whl": [
+          "VG8iFw4Vu7duS/wB7VMnolsTBWCqAFV9qYp676BW8kI=",
+          "cp311"
+        ],
+        "pyvroom-0.0.15-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "rIdg8TiN3QLKMMBy1JwotG6vx7r8lxpxSakOieyyo70=",
+          "cp311"
+        ],
+        "pyvroom-0.0.15-cp311-cp311-win_amd64.whl": [
+          "xf691uRaNlhnkRyICbScAqJ0aoYJ2dswSn5CrYnK8vs=",
+          "cp311"
+        ],
+        "pyvroom-0.0.15-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "/1w1ku71tHC1g1JQBQXNnM1o8eLsbhHgUwWUzgYT11s=",
+          "cp37"
+        ],
+        "pyvroom-0.0.15-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "fR9Zjl0V6bCbywLuTiCLsYeiB8KTqQxJBEWZB/1IkRM=",
+          "cp37"
+        ],
+        "pyvroom-0.0.15-cp37-cp37m-win_amd64.whl": [
+          "2/X0TgxA4cBdHXGb8MdULIoRzsBeQnIfkKPDdnjvACE=",
+          "cp37"
+        ],
+        "pyvroom-0.0.15-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "EGNSloqbS7VwZXcgSnyb9nhWFgd5jMcW6LLFfK64y4Q=",
+          "cp38"
+        ],
+        "pyvroom-0.0.15-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "1CBIdO++KcCgfaRdbewfolvOe9uz0O176z4ggS6H1Z8=",
+          "cp38"
+        ],
+        "pyvroom-0.0.15-cp38-cp38-win_amd64.whl": [
+          "A+V44QJp9FpTA7UXNzmS0yGn0hYmF5AkDxZ8ryclPAU=",
+          "cp38"
+        ],
+        "pyvroom-0.0.15-cp39-cp39-macosx_10_14_x86_64.whl": [
+          "41H+8og7wIsFbg2R416zUcOq5Ozwxk5DUGteLgDl5K4=",
+          "cp39"
+        ],
+        "pyvroom-0.0.15-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "FpfakiX7IvzYyjQi7qHjF5LLU2XsY/UA8wiPmDwXn4s=",
+          "cp39"
+        ],
+        "pyvroom-0.0.15-cp39-cp39-win_amd64.whl": [
+          "JTbiyMQ8JapgOr9ESIdJxIFs7K2ww85UJYS7NQNXprc=",
+          "cp39"
+        ]
+      }
+    },
     "0.0.2": {
       "wheels": {
         "pyvroom-0.0.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
@@ -119392,6 +119484,18 @@
       "wheels": {
         "resoto_plugin_digitalocean-3.0.4-py3-none-any.whl": [
           "KQlEIYHQKEWTR1tbLkp2a89HX/cWIyn//uKHPHk1d2k=",
+          "py3"
+        ]
+      }
+    },
+    "3.1.0": {
+      "sdist": [
+        "9bG0AiMrX1WDJCbbHeaI1qtSOJlnE5FbRNbv8f/Alig=",
+        "resoto-plugin-digitalocean-3.1.0.tar.gz"
+      ],
+      "wheels": {
+        "resoto_plugin_digitalocean-3.1.0-py3-none-any.whl": [
+          "CPlUrWsY7pRsVfEzdwVXuGRyPS9bIgvYEih497Bal30=",
           "py3"
         ]
       }
@@ -142962,6 +143066,18 @@
       "wheels": {
         "ufss-0.1.0-py3-none-any.whl": [
           "6hwGOM8/maZpQeX1s/1s4WzyvPMUS1te0OqXjNgXo9U=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "3vZ0xuQBAjlxvqQ70uSRatQJorzBjWIcpFgPcl2xpug=",
+        "ufss-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "ufss-0.1.2-py3-none-any.whl": [
+          "JYaEA1KTRGJFClXPP+QKFvSVNJtgTSqoBSe2vnlT/14=",
           "py3"
         ]
       }

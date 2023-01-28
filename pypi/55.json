@@ -25418,6 +25418,12 @@
         "colossalai-nightly-2023.1.21.tar.gz"
       ]
     },
+    "2023.1.28": {
+      "sdist": [
+        "FzPIV5Hpc9IBLNiqc0eLGJ/N5ed/3CkAA5vQCLVkB/g=",
+        "colossalai-nightly-2023.1.28.tar.gz"
+      ]
+    },
     "2023.1.9": {
       "sdist": [
         "kYRsCVbaWgz4Hejwrx4QnF9D4yxihyCpqDqhE7FSQNw=",
@@ -111823,6 +111829,62 @@
           "cp37"
         ]
       }
+    },
+    "1.0.5": {
+      "sdist": [
+        "wa6DNWJqHaUppc2RKtxcrqgg0voYyfhEHlrW7UMAGJM=",
+        "rbloom-1.0.5.tar.gz"
+      ],
+      "wheels": {
+        "rbloom-1.0.5-cp37-abi3-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "llN5jA7b7Ce5YqUO/enIHPHLqilU3Gcejn88hcMcHzY=",
+          "cp37"
+        ],
+        "rbloom-1.0.5-cp37-abi3-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "k6M0ej/Ae2IjHSWhpzG0DzVXNxhu2GlnR7ZRu7yjPEk=",
+          "cp37"
+        ],
+        "rbloom-1.0.5-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "bu42Mj8hrty2kK+KnHx4M7hxClPyVV+HtMNT1QNJjHg=",
+          "cp37"
+        ],
+        "rbloom-1.0.5-cp37-abi3-manylinux_2_5_i686.manylinux1_i686.whl": [
+          "bAOu2zAyfPtoTcJ7ZkhoXK7o+QAFXYIrOiygm3J2gOU=",
+          "cp37"
+        ],
+        "rbloom-1.0.5-cp37-abi3-win_amd64.whl": [
+          "NGmGJRvutTW7Whse5wg+mMw+4cH8WUbK/hKqiIZUv4E=",
+          "cp37"
+        ]
+      }
+    },
+    "1.1.0": {
+      "sdist": [
+        "ue7zvhYsS61EuzxkcjTfNH0kuRjzmcIHI86LBMwRmYI=",
+        "rbloom-1.1.0.tar.gz"
+      ],
+      "wheels": {
+        "rbloom-1.1.0-cp37-abi3-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "IT1UlmGEx2lC8dsaxf3/hh0VJ81MrKS/OATemedHTGs=",
+          "cp37"
+        ],
+        "rbloom-1.1.0-cp37-abi3-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "RhH20YYd852Q7q/RtpOB7SbVSchAAcUePKKJmxe+U9I=",
+          "cp37"
+        ],
+        "rbloom-1.1.0-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Z40Q5i67GOIIRviH3ZjCEl2Js6/sjFM5Pz8HwfFEwXE=",
+          "cp37"
+        ],
+        "rbloom-1.1.0-cp37-abi3-manylinux_2_5_i686.manylinux1_i686.whl": [
+          "Uaw9pOfQshKmtQYwuOeE1ioIaRK9r0pH3JXm+1QTjlo=",
+          "cp37"
+        ],
+        "rbloom-1.1.0-cp37-abi3-win_amd64.whl": [
+          "/39u/hq7aBj0X5eC6h2Ok8DupqyvwRiXbgTqFEFh+ZA=",
+          "cp37"
+        ]
+      }
     }
   },
   "rdflib-sqlalchemy": {
@@ -119126,6 +119188,14 @@
       "sdist": [
         "+bmhKtTgwHCbHMVzuqxdbJ5P+30JeOaQ8BAwS8e6L5Q=",
         "scrapyd-team-0.1.2.tar.gz"
+      ]
+    }
+  },
+  "scratches-algorithms": {
+    "0.0.1": {
+      "sdist": [
+        "75F1WjM0JoXZ87/BbjlMP2nGnK/cEce+X3Oa+YXXxto=",
+        "scratches-algorithms-0.0.1.tar.gz"
       ]
     }
   },
@@ -142206,6 +142276,18 @@
       "wheels": {
         "ultralytics-8.0.21-py3-none-any.whl": [
           "84XRfnpw+OPlMeKGFqvMnkewVq6z5xmjSq5p5svlXlE=",
+          "py3"
+        ]
+      }
+    },
+    "8.0.22": {
+      "sdist": [
+        "HvQ0ix6jx1aKVbdQJwm8rFllIlx0rKls4mrTeu49j20=",
+        "ultralytics-8.0.22.tar.gz"
+      ],
+      "wheels": {
+        "ultralytics-8.0.22-py3-none-any.whl": [
+          "oqIbPovuuuyVUwAw+PtFcVOpn5ieFVqnWQk83f3O77I=",
           "py3"
         ]
       }

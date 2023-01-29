@@ -28296,6 +28296,18 @@
         ]
       }
     },
+    "2023.1.29.1": {
+      "sdist": [
+        "nKNhv9+Dnot1C7IppUL7GQPDYPMO29YLZnQ26ID3eZA=",
+        "crazy-thursday-2023.1.29.1.tar.gz"
+      ],
+      "wheels": {
+        "crazy_thursday-2023.1.29.1-py3-none-any.whl": [
+          "MXpqEL6V9BvxwD2/zbb0SzJAC4zhTjHePcZvLPTa4s4=",
+          "py3"
+        ]
+      }
+    },
     "2023.1.3.0": {
       "sdist": [
         "fHDys0TC3ZKTxOGCIErmlEtnHsxXfGBpVcJOFGqUQfU=",
@@ -76785,6 +76797,54 @@
           "cp39"
         ]
       }
+    },
+    "4.5.0.1": {
+      "sdist": [
+        "5V7kYZmrV1rBcK5YgWmPCDITicEY86suPLUgrFuZ/Bg=",
+        "mfem-4.5.0.1.tar.gz"
+      ],
+      "wheels": {
+        "mfem-4.5.0.1-cp310-cp310-manylinux_2_24_x86_64.whl": [
+          "smDHdKMrtvDUDkKNgyQO6GWkqABOOFxNS6GxQqXoCnw=",
+          "cp310"
+        ],
+        "mfem-4.5.0.1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "8hc2jeHFirhLI3ZFRSX+XX7Xit/mxzkiTF5+uvIkZbk=",
+          "cp37"
+        ],
+        "mfem-4.5.0.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "vEC0ondmyg6/aeDO/HesHRmnTekGaWhKXHcxV5yak0I=",
+          "cp38"
+        ],
+        "mfem-4.5.0.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "OKh6Ul2FSUpDa4EB17R57Kf+4dXtj7x4hhED3IjKDFw=",
+          "cp39"
+        ]
+      }
+    },
+    "4.5.0.1rc11": {
+      "sdist": [
+        "Vw2ZuUfoaQmxg6fuNC20Qe73U+M3Isc+ShmnF9B+s/A=",
+        "mfem-4.5.0.1rc11.tar.gz"
+      ],
+      "wheels": {
+        "mfem-4.5.0.1rc11-cp310-cp310-manylinux_2_24_x86_64.whl": [
+          "67ttOD0QbzRG9mA+wOpcgrkPShx5ik1eIVI53cqm4zI=",
+          "cp310"
+        ],
+        "mfem-4.5.0.1rc11-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "pCXIKAQn5sHFMsjDU1xM2B118fOqzrc7swBHnZs0/Ss=",
+          "cp37"
+        ],
+        "mfem-4.5.0.1rc11-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "e+C5fK65ZvV95GRe3sHKTWxspL/Jn7aTUA6IXwY+1XY=",
+          "cp38"
+        ],
+        "mfem-4.5.0.1rc11-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "u8qmLCtQ4tR8nKC2Tj6aK6MMDkj+zt494jL616YnZ74=",
+          "cp39"
+        ]
+      }
     }
   },
   "micropython-urllib.urequest": {
@@ -91597,6 +91657,30 @@
           "py3"
         ]
       }
+    },
+    "1.4.5": {
+      "sdist": [
+        "zKKmAKMRz95iA8/6+afUMow8BC7nzvLFLBEGxeMn1kE=",
+        "nonebot_plugin_searchbiliinfo-1.4.5.tar.gz"
+      ],
+      "wheels": {
+        "nonebot_plugin_searchbiliinfo-1.4.5-py3-none-any.whl": [
+          "xBJ/hZgLqIUYEptiCB6ChvuFS/SfJfQGF+etWzfJdTk=",
+          "py3"
+        ]
+      }
+    },
+    "1.4.6": {
+      "sdist": [
+        "736OKlK/sUW8r17eaKPGkyUZxVfndmZaWChgwchwRAY=",
+        "nonebot_plugin_searchbiliinfo-1.4.6.tar.gz"
+      ],
+      "wheels": {
+        "nonebot_plugin_searchbiliinfo-1.4.6-py3-none-any.whl": [
+          "oYmqEUtX40AQP6DD41EGBW7rEjlBtVL0qrAdoVuFKec=",
+          "py3"
+        ]
+      }
     }
   },
   "nosql2django": {
@@ -92481,6 +92565,20 @@
         "observattr-21.6.1-py2.py3-none-any.whl": [
           "MuNVCzmi87Fx2S9OySuY41do+BBq0qBN9eFM6nC/Fmo=",
           "py2.py3"
+        ]
+      }
+    }
+  },
+  "ocp-tessellate": {
+    "1.0.0rc1": {
+      "sdist": [
+        "BdNk6qlEoWvbk3J/A10YY2SDYQuvbGwABZh6wJf/xPE=",
+        "ocp_tessellate-1.0.0rc1.tar.gz"
+      ],
+      "wheels": {
+        "ocp_tessellate-1.0.0rc1-py3-none-any.whl": [
+          "37SUFWGqNNT89MmAfb5p0J1Oyfm1Qd9t7B4Dftrg1qs=",
+          "py3"
         ]
       }
     }
@@ -98184,6 +98282,18 @@
         ]
       }
     },
+    "0.12.1": {
+      "sdist": [
+        "0XKwA5j8Jyrh3eNzse6XdPUud+/r61eVbwsDrtO8FU8=",
+        "ormar-0.12.1.tar.gz"
+      ],
+      "wheels": {
+        "ormar-0.12.1-py3-none-any.whl": [
+          "5EAGIxQIYdqOCk1SC9r138u/Sz5pwN1BB/PH+qFsd4k=",
+          "py3"
+        ]
+      }
+    },
     "0.2.1": {
       "sdist": [
         "2sgAwdDs1NMhPLauHxYc+EI45MZHuZa/3LZe3l9GUlc=",
@@ -100990,6 +101100,12 @@
       "sdist": [
         "ptFMWpMhAbz4uoVSfUbYnvcVqTIM+KjJZ1Hnk8ZH99k=",
         "PeakDetective-0.1.2.tar.gz"
+      ]
+    },
+    "0.1.3": {
+      "sdist": [
+        "3VAy9mP520rd9gMtfSKhOoahXGDGMlou+6hhqnsY9Ls=",
+        "PeakDetective-0.1.3.tar.gz"
       ]
     }
   },

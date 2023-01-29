@@ -1443,6 +1443,18 @@
           "py3"
         ]
       }
+    },
+    "0.3.5": {
+      "sdist": [
+        "6n47BGz5uYiqM5z6STq6D4rxaPEVNi3snmlBeBLfcvY=",
+        "aeroot-0.3.5.tar.gz"
+      ],
+      "wheels": {
+        "aeroot-0.3.5-py3-none-any.whl": [
+          "79pYCU/+NRdkP3Empow5i4A8rBZOkSbt5jYgQzoDGbs=",
+          "py3"
+        ]
+      }
     }
   },
   "aether-helm-generator": {
@@ -65640,12 +65652,20 @@
           "xpKlnJAMLwmYMzOH+Nv75HbITYiaLqsSkk+LRB7GtmU=",
           "cp37"
         ],
+        "igraph-0.10.4-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "l+z6OTtMJN9wZItjAuBH6i7gXYfI1kmHg14Q8J6UfnE=",
+          "cp37"
+        ],
         "igraph-0.10.4-cp37-cp37m-manylinux_2_17_i686.manylinux2014_i686.whl": [
           "bIqH28+dVWKXJnQrVqWIq3/TJ35jZHldnUsdiKrIspI=",
           "cp37"
         ],
         "igraph-0.10.4-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "PZU+Bvsze3QJZDVr6FfKKAKfTF4aB/H+u/lT1ggtG8I=",
+          "cp37"
+        ],
+        "igraph-0.10.4-cp37-cp37m-musllinux_1_1_aarch64.whl": [
+          "SAXXCO8Y2OMkOy0Hf7PnqQqKGjlkvap/rSECCR3pC+s=",
           "cp37"
         ],
         "igraph-0.10.4-cp37-cp37m-musllinux_1_1_i686.whl": [
@@ -65672,12 +65692,20 @@
           "+cEZuzTPv19xNMungqNXLBATZqzMIDigrnGfObai6sw=",
           "cp38"
         ],
+        "igraph-0.10.4-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "pPZKJkr1vCb332m+8T0tvULQlHI6fowCeTt7qHiANOw=",
+          "cp38"
+        ],
         "igraph-0.10.4-cp38-cp38-manylinux_2_17_i686.manylinux2014_i686.whl": [
           "+S1kG7RJneJkksi4CSdPvUsA+y8RQk1NIWCFLYm6m08=",
           "cp38"
         ],
         "igraph-0.10.4-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "LA0DHQyvby3wosxjVz3tTJJZhQwmRtwr559XRqxRxTk=",
+          "cp38"
+        ],
+        "igraph-0.10.4-cp38-cp38-musllinux_1_1_aarch64.whl": [
+          "u7uWX7+Rov38zhM8wpkOxGfjedxQO1DtsJovpDeVn1Y=",
           "cp38"
         ],
         "igraph-0.10.4-cp38-cp38-musllinux_1_1_i686.whl": [
@@ -65704,12 +65732,20 @@
           "IiYYjuyUDulhzwxXHgdYT52Ltdf1n6cs1TmVpwo70FI=",
           "cp39"
         ],
+        "igraph-0.10.4-cp39-abi3-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "AFm/zk0q5HpjQp/bTT/t7NJAqL8fqdv4mpxtDELH+l8=",
+          "cp39"
+        ],
         "igraph-0.10.4-cp39-abi3-manylinux_2_17_i686.manylinux2014_i686.whl": [
           "9SIZXVR49m6W+lSHwbpHMM67rFlF/ly1A1BQRmM49BI=",
           "cp39"
         ],
         "igraph-0.10.4-cp39-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "vArYB1kiimjxwhJQ/A/AQ7/y8NHWbJlE5FqSB7ooBbs=",
+          "cp39"
+        ],
+        "igraph-0.10.4-cp39-abi3-musllinux_1_1_aarch64.whl": [
+          "11coCh/LXwKAQGwQTdJHYuSE/DQRZLzuTb/mDD+Gwjc=",
           "cp39"
         ],
         "igraph-0.10.4-cp39-abi3-musllinux_1_1_i686.whl": [
@@ -65732,6 +65768,10 @@
           "TmDuZWtPwynJQ+n+bGUFa+HzqozmIW3eTK3BbbTwnkQ=",
           "pp37"
         ],
+        "igraph-0.10.4-pp37-pypy37_pp73-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "Ce1o8UbOrc1rusLmLKY1J8xyn6wYHCr041d49wxGo34=",
+          "pp37"
+        ],
         "igraph-0.10.4-pp37-pypy37_pp73-manylinux_2_17_i686.manylinux2014_i686.whl": [
           "KgXIjcEMDu+FoSRHGw8gBe1RK6burKEpSN4MiY5+66g=",
           "pp37"
@@ -65748,6 +65788,10 @@
           "L4XrkMb2DiBxuzwrTC3+1s2faoULCABybxppmN2ZYJ0=",
           "pp38"
         ],
+        "igraph-0.10.4-pp38-pypy38_pp73-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "/xo3WSBc3SwDdUH93gKlOLRP8LoAz/rcdvSz10W2Jzs=",
+          "pp38"
+        ],
         "igraph-0.10.4-pp38-pypy38_pp73-manylinux_2_17_i686.manylinux2014_i686.whl": [
           "yr2YR7XLYE47AdffRkFAMynWudqIv2eLL6oKVR6Ovh4=",
           "pp38"
@@ -65762,6 +65806,10 @@
         ],
         "igraph-0.10.4-pp39-pypy39_pp73-macosx_10_9_x86_64.whl": [
           "oLkKUnlbL/l4iH/r+mZQXqhifWkpOp8g0UOOgprDxjo=",
+          "pp39"
+        ],
+        "igraph-0.10.4-pp39-pypy39_pp73-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "4sNb3EVhe3usRa60+gw8kLp7n2uopDsA8hNx+TMls+w=",
           "pp39"
         ],
         "igraph-0.10.4-pp39-pypy39_pp73-manylinux_2_17_i686.manylinux2014_i686.whl": [

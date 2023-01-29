@@ -91985,6 +91985,30 @@
           "py3"
         ]
       }
+    },
+    "0.5.0": {
+      "sdist": [
+        "ejX34BOeLsgOgN8QGSONIb1HxD+Xdfeqr/B3bKEZI9U=",
+        "nmk-proto-0.5.0.tar.gz"
+      ],
+      "wheels": {
+        "nmk_proto-0.5.0-py3-none-any.whl": [
+          "RxMnSBTxnfqdtDwZ5jXCoFzKuTqOCRF2EDAFdW6fAQc=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.1": {
+      "sdist": [
+        "BDrXz/j4SA79ic5ieq9BAtKIwDURJMtPiLrdCq9IJAY=",
+        "nmk-proto-0.5.1.tar.gz"
+      ],
+      "wheels": {
+        "nmk_proto-0.5.1-py3-none-any.whl": [
+          "0r7Bm59TIqOfPJLDA7Juvy5gy8VArfxy0a/o/XpjgYI=",
+          "py3"
+        ]
+      }
     }
   },
   "nmstools": {
@@ -113874,10 +113898,28 @@
     }
   },
   "python-owasp-zap": {
+    "10.0.0": {
+      "sdist": [
+        "4L7BcZJePQEIOdoLN5s7nZo+6nOzTFrtwdXbKvdMIDY=",
+        "python-owasp-zap-10.0.0.tar.gz"
+      ],
+      "wheels": {
+        "python_owasp_zap-10.0.0-py3-none-any.whl": [
+          "xQqHqC6VWw94uPa1FoULr9DDEPl0vTr21JlRGvS5bes=",
+          "py3"
+        ]
+      }
+    },
     "9.0.0": {
       "sdist": [
         "+XoSYiRw2SOlBVGmrftP6Fa9NFsEGSPmyz6EFA+/d+k=",
         "python-owasp-zap-9.0.0.tar.gz"
+      ]
+    },
+    "9.0.1": {
+      "sdist": [
+        "705ojrMpMG7wF/OSyXILfhw9nORXSJYzYvmyGmNHfdI=",
+        "python_owasp_zap-9.0.1.tar.gz"
       ]
     }
   },

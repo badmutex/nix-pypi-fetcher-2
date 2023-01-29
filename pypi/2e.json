@@ -16040,6 +16040,18 @@
         ]
       }
     },
+    "0.0.13": {
+      "sdist": [
+        "5rv0LFvjGfadRuTgFeUO6O9IMZYFguzdIO7w5pFKxPw=",
+        "cdktf-github-actions-0.0.13.tar.gz"
+      ],
+      "wheels": {
+        "cdktf_github_actions-0.0.13-py3-none-any.whl": [
+          "OjOZAqgUHybwUtG4IqjfW3SEhBItUm58mYuoyNoTob0=",
+          "py3"
+        ]
+      }
+    },
     "0.0.2": {
       "sdist": [
         "oyDVAWDfWrPI2LFFI81Uz/JdEZYMMeEsX6/bwReJovs=",
@@ -50178,6 +50190,12 @@
       "sdist": [
         "aUYur1kwDQrhEoJ8T1AfG2KRvt33PL/oYg0bp+xXZoQ=",
         "gpt_index-0.2.16.tar.gz"
+      ]
+    },
+    "0.2.17": {
+      "sdist": [
+        "wH9bI3AmBuey3xGeFgf9InaZV+UDmbS89FUk//9Vp/A=",
+        "gpt_index-0.2.17.tar.gz"
       ]
     },
     "0.2.2": {
@@ -141224,6 +141242,78 @@
         ],
         "zipline_reloaded-2.3-cp39-cp39-win_amd64.whl": [
           "8cqJ7vJ2LfVG8ORdk84brSZmeNS8pF8Svc33T/U9B7k=",
+          "cp39"
+        ]
+      }
+    },
+    "2.4": {
+      "sdist": [
+        "jFM8HM9QaXFb8um9XofqOaP3yD9e8sANdNcxHI8x7Pg=",
+        "zipline-reloaded-2.4.tar.gz"
+      ],
+      "wheels": {
+        "zipline_reloaded-2.4-cp310-cp310-macosx_10_15_x86_64.whl": [
+          "K+f2l5iWMPkKdcH8hKa3ESux89fI81NPVpbMp6yibTM=",
+          "cp310"
+        ],
+        "zipline_reloaded-2.4-cp310-cp310-macosx_11_0_arm64.whl": [
+          "90TWIg3mQ7iUnpqbS3Iz9OF/JMkx/PJg9wJJ9cTd9HU=",
+          "cp310"
+        ],
+        "zipline_reloaded-2.4-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "zZxktmBCDiJhisLJ0mCXht7uH32VDV9q3Jb0Qi4ZNNM=",
+          "cp310"
+        ],
+        "zipline_reloaded-2.4-cp310-cp310-win_amd64.whl": [
+          "BXsVksQKa2d9cwW+RoxqeugNv5GqWiBeLIZ8CV0/f2M=",
+          "cp310"
+        ],
+        "zipline_reloaded-2.4-cp311-cp311-macosx_10_15_x86_64.whl": [
+          "yBcubz/iZOyNUaf357nde8eLiI6xmiGPhqHvUFO16UI=",
+          "cp311"
+        ],
+        "zipline_reloaded-2.4-cp311-cp311-macosx_11_0_arm64.whl": [
+          "rHwnIhdOEy0NXn9AY4ViYnaNX4TWUgkKh+o9vGeqfTo=",
+          "cp311"
+        ],
+        "zipline_reloaded-2.4-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "c7+AMzWuPJRX75XBHukXjoo+9XwrYjtUqFofNnLBQ5Y=",
+          "cp311"
+        ],
+        "zipline_reloaded-2.4-cp311-cp311-win_amd64.whl": [
+          "2pLQ6Xblr7gHq+n6KSfsGwZzYA+gXtLWEJElY+KwOUI=",
+          "cp311"
+        ],
+        "zipline_reloaded-2.4-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "6wOjIUbw2mSvpWQCHA+fyjgPR+nRdwYopF/Dwspv8Es=",
+          "cp38"
+        ],
+        "zipline_reloaded-2.4-cp38-cp38-macosx_11_0_arm64.whl": [
+          "XhHO4O54mQXvOn7Wh+LoeDJpQDlOrfylCDIqG/ITSz8=",
+          "cp38"
+        ],
+        "zipline_reloaded-2.4-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "QYJjZrSqRJ+WQoT3eDBTfq4torde0MqQalqyyiCaVVI=",
+          "cp38"
+        ],
+        "zipline_reloaded-2.4-cp38-cp38-win_amd64.whl": [
+          "3MrkHGH/T5z7Mxt17do68qdtQDu4LwQaBM3Ax9h8xUE=",
+          "cp38"
+        ],
+        "zipline_reloaded-2.4-cp39-cp39-macosx_10_15_x86_64.whl": [
+          "OHEPGt03AGqrgl9AKnd4AsMPjGmBFXfRdlLtyJc2vEM=",
+          "cp39"
+        ],
+        "zipline_reloaded-2.4-cp39-cp39-macosx_11_0_arm64.whl": [
+          "SHQYUE5np7nVpsZ7pCqzom68ljldTsmED1WftqQ/0jw=",
+          "cp39"
+        ],
+        "zipline_reloaded-2.4-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "MAy3wcbobBpVpqiC1RgYzKATUFPVZZ7uc81kcuH9Bog=",
+          "cp39"
+        ],
+        "zipline_reloaded-2.4-cp39-cp39-win_amd64.whl": [
+          "hHVJsiZxG148aLApVQSLI37A4T0o0k2qaLaPTuooI6w=",
           "cp39"
         ]
       }

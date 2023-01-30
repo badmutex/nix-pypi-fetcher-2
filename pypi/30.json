@@ -4023,6 +4023,30 @@
           "cp39"
         ]
       }
+    },
+    "0.4.1": {
+      "wheels": {
+        "artefactlink-0.4.1-cp310-cp310-macosx_10_7_x86_64.whl": [
+          "8hda8+OXtGHCdVrKf5VqlkHZgKfAtOOzMJ0nDU/KJhE=",
+          "cp310"
+        ],
+        "artefactlink-0.4.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "OnbbnUYb6vpTqPpgj3fYQSbGKmuBtiqIsWT4HmcAET8=",
+          "cp310"
+        ],
+        "artefactlink-0.4.1-cp310-none-win_amd64.whl": [
+          "ULVjZ596hdBn0uQRRAp2ltEDzvUK/XdDO32fugtSVJE=",
+          "cp310"
+        ],
+        "artefactlink-0.4.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "e4bjfAnOiBaf7OjoudIWcEkEftqXgh7M6WGEZ9+X1tw=",
+          "cp38"
+        ],
+        "artefactlink-0.4.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "9X9ayd+M2QZQgy2jpBsj9Dd99SUlN9OlnkVk2k1yve4=",
+          "cp39"
+        ]
+      }
     }
   },
   "asgi-prometheus": {
@@ -27688,6 +27712,30 @@
       "wheels": {
         "cpagym-0.0.9-py3-none-any.whl": [
           "P2cW0Fbh2wJIJU7aSPBcfwfhNgoUVS+becaVnnsk0Ik=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.0": {
+      "sdist": [
+        "EwiLtg+M6uPZRWARSlYRU90Fu5z7M/1Rt0YbZXjR5Ds=",
+        "cpagym-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "cpagym-0.1.0-py3-none-any.whl": [
+          "6t3In6r7izCAc3x5ssd4LermxJTtesLTs7g25XTHdiw=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "bjiUkK0iwv2amAyqHlrVHzVz4/4ct4zFYWryLG5J8U0=",
+        "cpagym-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "cpagym-0.1.1-py3-none-any.whl": [
+          "SARsRHAFrEr5cbDZFMnLkhdIh1mIOUoK5LA3g98uC9Q=",
           "py3"
         ]
       }
@@ -68709,6 +68757,18 @@
           "py3"
         ]
       }
+    },
+    "0.7.2": {
+      "sdist": [
+        "zI9N7r7cAL/ceD7ZQdxJrM4uKTr6997AvhvefofLXhE=",
+        "metacatalog-0.7.2.tar.gz"
+      ],
+      "wheels": {
+        "metacatalog-0.7.2-py3-none-any.whl": [
+          "PcFlix+SkAjGaJFFMXdDdVJmP6ctojp69Qt6NtM+u/4=",
+          "py3"
+        ]
+      }
     }
   },
   "metdig": {
@@ -71192,6 +71252,12 @@
       "sdist": [
         "VzCB+FVZT8MM9jp6keJAgZmgMgszKY+8SN9TNG1NEMg=",
         "miniworldmaker-2.17.0.4.tar.gz"
+      ]
+    },
+    "2.17.0.5": {
+      "sdist": [
+        "I2l6/qhWnqnyOyne9MnkP218RH3fzqZw8coxeD6eAJI=",
+        "miniworldmaker-2.17.0.5.tar.gz"
       ]
     },
     "2.2.0.0": {
@@ -90437,6 +90503,20 @@
       ]
     }
   },
+  "opentaskpy": {
+    "0.1.0": {
+      "sdist": [
+        "a1UNTrgP6TgxfUQkDHGCnGTKXW5/iOKLFRMbiqFd1AA=",
+        "opentaskpy-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "opentaskpy-0.1.0-py3-none-any.whl": [
+          "P0FiY+x6IGkdYH4scfXOT+vOyN/OzP6BHISv18K6rhg=",
+          "py3"
+        ]
+      }
+    }
+  },
   "opentf-toolkit": {
     "0.35.0": {
       "wheels": {
@@ -106395,6 +106475,18 @@
           "py3"
         ]
       }
+    },
+    "0.6.0": {
+      "sdist": [
+        "La9gKgBtJYroGNfy10Z8m014ymHXJJ1KhcUU3nsZtC8=",
+        "pycircleci-0.6.0.tar.gz"
+      ],
+      "wheels": {
+        "pycircleci-0.6.0-py3-none-any.whl": [
+          "Ed1Py452k6WGYPqIsBjdNLFaJnOU+Bug0tjBdmpctLc=",
+          "py3"
+        ]
+      }
     }
   },
   "pyclips": {
@@ -106946,6 +107038,18 @@
       "wheels": {
         "pydevmgr_ua-0.6a4-py3-none-any.whl": [
           "vWZfLAGIX1NNdFKUOKr+dlYd/lr1VJ9ncmVRkZTvnzw=",
+          "py3"
+        ]
+      }
+    },
+    "0.6a5": {
+      "sdist": [
+        "5hol9PdC8SndgDh3nJZI6LV5wJQKYd7jKC8IZss9+q0=",
+        "pydevmgr_ua-0.6a5.tar.gz"
+      ],
+      "wheels": {
+        "pydevmgr_ua-0.6a5-py3-none-any.whl": [
+          "3fLbsNh+fmD869yEYcb9LcGR6JOGxhgbzjyRbcl7ajE=",
           "py3"
         ]
       }
@@ -116489,6 +116593,20 @@
         "Q8AdrTH/QHzD7DJ7kJyTdeA8JyeIPRtTyOQJ27C6fZA=",
         "quantzbrapi-0.0.9.tar.gz"
       ]
+    }
+  },
+  "quasiqueue": {
+    "0.1.0": {
+      "sdist": [
+        "QUrOLBmW9dSD5o6VMxuy6SKqwOCNa7MzY6nSkIwmAIU=",
+        "quasiqueue-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "quasiqueue-0.1.0-py3-none-any.whl": [
+          "w8LQ6QEQ3hS6xEKq2Uz3eRIxPt29DdHSOtIEPKx9yeU=",
+          "py3"
+        ]
+      }
     }
   },
   "quick-dag": {
@@ -156810,6 +156928,22 @@
       "wheels": {
         "yxspkg-6.14.4-py3-none-any.whl": [
           "1g/ZNAx/aVCSJXCqexqMq8NvL+Q6rJ6DziGWFPM8Rx8=",
+          "py3"
+        ]
+      }
+    },
+    "6.14.5": {
+      "wheels": {
+        "yxspkg-6.14.5-py3-none-any.whl": [
+          "Qdh80uZ9WZotZ4kKAZCC72cJg4XnnNu4LN3uD4Oi6sc=",
+          "py3"
+        ]
+      }
+    },
+    "6.14.6": {
+      "wheels": {
+        "yxspkg-6.14.6-py3-none-any.whl": [
+          "/WgBRt0iLhPTFXr28H0dhTktm5yCSx0NbrP3hy4LLDg=",
           "py3"
         ]
       }

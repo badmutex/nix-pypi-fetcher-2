@@ -96380,12 +96380,28 @@
     },
     "0.9.2": {
       "wheels": {
-        "pciw.py-0.9.2-cpy39-none-manylinux1_x86_64.whl": [
-          "P4ZB3DQPw86ZfCc78EIjFj5WJ8HULfh+yfvW5cAYSpY=",
-          "cpy39"
-        ],
         "pciw.py-0.9.2-py39-none-win_amd64.whl": [
           "Ey84UnhM8pTufeTuXFPnBQcASRjyrlFuiVnRX3gPrto=",
+          "py39"
+        ]
+      }
+    },
+    "0.9.3": {
+      "wheels": {
+        "pciw.py-0.9.3-cp310-none-manylinux1_x86_64.whl": [
+          "fPXymThFNL6vFIhBfQMPyRJLRt9S8KPcoSmqrFhPc1E=",
+          "cp310"
+        ],
+        "pciw.py-0.9.3-cp39-none-manylinux1_x86_64.whl": [
+          "0jq1HpCv+RTOpggkOE3lkGokUnAGwQZmja6MFm05w9c=",
+          "cp39"
+        ],
+        "pciw.py-0.9.3-py310-none-win_amd64.whl": [
+          "WW17AfTpwKm8Pf17/gXqDv1k3de7mLO1Cl1M8P4wI8c=",
+          "py310"
+        ],
+        "pciw.py-0.9.3-py39-none-win_amd64.whl": [
+          "aPZA27zYx3lxCyZwpHjUfH9JHt+ZwB/Uk/IB9+Mad0I=",
           "py39"
         ]
       }
@@ -113680,6 +113696,12 @@
         "pytest-girder-3.1.15.dev8.tar.gz"
       ]
     },
+    "3.1.16": {
+      "sdist": [
+        "lZ787pnmMw8IFf/GNzxdIlUeW2iqurQAeZC1NkbQbTA=",
+        "pytest-girder-3.1.16.tar.gz"
+      ]
+    },
     "3.1.16.dev10": {
       "sdist": [
         "L+Up2jpgkNQppTd6RfF6OvKC17uvL40RgLuZLuYqL8g=",
@@ -113708,6 +113730,12 @@
       "sdist": [
         "s/uUNX6Zk3s3UtLi0BnZA2kcAA3SHhBf5BtLIwxNx94=",
         "pytest-girder-3.1.16.dev2.tar.gz"
+      ]
+    },
+    "3.1.16.dev26": {
+      "sdist": [
+        "MfVgcV8ryJQaNyQR6VGi54h5cYnKXN9rQeS9sv/joeg=",
+        "pytest-girder-3.1.16.dev26.tar.gz"
       ]
     },
     "3.1.16.dev4": {
@@ -117337,6 +117365,32 @@
       }
     }
   },
+  "rapids-singlecell": {
+    "0.4.0": {
+      "sdist": [
+        "KVP6dfe5PLAqe1cJqN2KClL29RmY70KD0iQNSWuP90g=",
+        "rapids_singlecell-0.4.0.tar.gz"
+      ],
+      "wheels": {
+        "rapids_singlecell-0.4.0-py3-none-any.whl": [
+          "cmap/S6NfG7jUTxIWiLFAMOgbONsDR1XyLgUOtfjWuM=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.1": {
+      "sdist": [
+        "3LiNYcCAB/6GNYr6txl604Fj7rcb0V9AAfiwFeTA58g=",
+        "rapids_singlecell-0.4.1.tar.gz"
+      ],
+      "wheels": {
+        "rapids_singlecell-0.4.1-py3-none-any.whl": [
+          "enwOErrZH4QuS3Gs2quj2aaE8bynGUxlbN9U2+Z7lxs=",
+          "py3"
+        ]
+      }
+    }
+  },
   "rayvision-houdini": {
     "0.3.3": {
       "sdist": [
@@ -118414,6 +118468,30 @@
         ]
       }
     },
+    "4.0.11": {
+      "sdist": [
+        "XrYkACTOulSqTjBzNbyAL248+RvhraFJ0C64QjeH5SA=",
+        "redis-extensions-4.0.11.tar.gz"
+      ],
+      "wheels": {
+        "redis_extensions-4.0.11-py2.py3-none-any.whl": [
+          "m66QQGIoACzAxiX3YZWknGZQxhUFZbLsfRYlWMJYKJU=",
+          "py2.py3"
+        ]
+      }
+    },
+    "4.0.12": {
+      "sdist": [
+        "dKH3Yu/joEErom41IqTxXga+/IJ4CZlebT42uosfOMM=",
+        "redis-extensions-4.0.12.tar.gz"
+      ],
+      "wheels": {
+        "redis_extensions-4.0.12-py2.py3-none-any.whl": [
+          "+cp2DGmIjZo/g8l+BHDAux4x1tI/amHdMA0GVrLUbtg=",
+          "py2.py3"
+        ]
+      }
+    },
     "4.0.2": {
       "sdist": [
         "WVp8WAYeRIPVu1z1ZCt/L1HCn6tSnbZjUJbsp2i7qc8=",
@@ -118530,6 +118608,30 @@
       "wheels": {
         "redis_extensions-4.1.3-py2.py3-none-any.whl": [
           "/77gGYEe4wv+qEbym5k4j3acPlGTdJ9/LRLW0eigjwM=",
+          "py2.py3"
+        ]
+      }
+    },
+    "4.1.4": {
+      "sdist": [
+        "9SQGU7xqWhVutFLbneOrpJvMUoR8gnngGk3M9RFsHHQ=",
+        "redis-extensions-4.1.4.tar.gz"
+      ],
+      "wheels": {
+        "redis_extensions-4.1.4-py2.py3-none-any.whl": [
+          "7Jn3WCHiCLHVnsscbifUNmTh83jRsHws19ExWllUuBs=",
+          "py2.py3"
+        ]
+      }
+    },
+    "4.1.5": {
+      "sdist": [
+        "5GSvOTejxueJr0EgzWiAJ1QniczNSAv9eDFgGb37BZY=",
+        "redis-extensions-4.1.5.tar.gz"
+      ],
+      "wheels": {
+        "redis_extensions-4.1.5-py2.py3-none-any.whl": [
+          "iHJGJ5odaVVBeZyt+E3+fHp2/WtS1lcr2IevQYUkYEY=",
           "py2.py3"
         ]
       }

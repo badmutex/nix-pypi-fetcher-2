@@ -14123,6 +14123,18 @@
           "py3"
         ]
       }
+    },
+    "2023.1.30.0": {
+      "sdist": [
+        "AxDjItWHWvP3OyPRnAdkDnmb1DV/RxUPJiRytW2/NW8=",
+        "BookerDownloadTool-2023.1.30.0.tar.gz"
+      ],
+      "wheels": {
+        "BookerDownloadTool-2023.1.30.0-py3-none-any.whl": [
+          "fsXEA6Cs2/YL1/PiD6miVEaDizIMZi8Me31SDi0ky7o=",
+          "py3"
+        ]
+      }
     }
   },
   "both-probability": {
@@ -27523,6 +27535,10 @@
   },
   "diro-py": {
     "0.1.1": {
+      "sdist": [
+        "MMb6aD8prkETGe8IPZ7iA7rXn3K6+2IVRiLVvVniwDw=",
+        "diro_py-0.1.1.tar.gz"
+      ],
       "wheels": {
         "diro_py-0.1.1-cp310-cp310-manylinux_2_28_x86_64.whl": [
           "YtXYkVDmUXjcBuDafJNnWC+7puF73LI9J7NmiIWFE/Y=",
@@ -27531,6 +27547,26 @@
         "diro_py-0.1.1-cp310-none-win_amd64.whl": [
           "bZdEIKiMjhGdkZtYOa7YJdWlnw5DjDEqsrRko210VDA=",
           "cp310"
+        ],
+        "diro_py-0.1.1-cp37-abi3-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "7gIWGdk9J25udO0+ETvpttTLUFCEjiwHgDAsHoQ12k0=",
+          "cp37"
+        ],
+        "diro_py-0.1.1-cp37-abi3-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "M9D3QjiVqCDYgUxALLVppe74pmz0G1NQ+0Yt2bKgFT4=",
+          "cp37"
+        ],
+        "diro_py-0.1.1-cp37-abi3-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "8wTzpcSIrDyGajZ+wSTMAOIHc3kmpx+PbjVg7e1fy7k=",
+          "cp37"
+        ],
+        "diro_py-0.1.1-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "BvCLzVIgBYMtUXVeaqkaJsSi8l+QsDFWhabkR7mn+go=",
+          "cp37"
+        ],
+        "diro_py-0.1.1-cp37-abi3-win_amd64.whl": [
+          "IXRO0UkL9SHeWgQcg2MFDjAqcKzDJpd54TdyyagVRRQ=",
+          "cp37"
         ],
         "diro_py-0.1.1-cp37-cp37m-manylinux_2_28_x86_64.whl": [
           "IxlROBZ/vViupJs1pXtnT7WUNtY0TQw+1Vn9i6jShKM=",
@@ -37362,6 +37398,12 @@
       "sdist": [
         "qW5dsVDCM8O053S6FqIdndW5d94wuhk+dQkf+eilnK8=",
         "EnsembleParticleSwarmOptimization-0.0.9.tar.gz"
+      ]
+    },
+    "0.1.0": {
+      "sdist": [
+        "aYiqbDiQ0ixmwBp02+K2r01Pl0zyttHkRHE5+y54hqU=",
+        "EnsembleParticleSwarmOptimization-0.1.0.tar.gz"
       ]
     }
   },
@@ -107267,6 +107309,30 @@
           "py3"
         ]
       }
+    },
+    "0.7.0": {
+      "sdist": [
+        "HQq3PCaulqMtbglehghx7j/1Ro/CYKe0ehDnaGH/Y4o=",
+        "pyaidoop-0.7.0.tar.gz"
+      ],
+      "wheels": {
+        "pyaidoop-0.7.0-py3-none-any.whl": [
+          "SiDNHuEPPrHAW5/Jn1rzfluMj45kgAEmFmAHO24Vkmg=",
+          "py3"
+        ]
+      }
+    },
+    "0.7.1": {
+      "sdist": [
+        "mIWQtpaZQfshQsiWCT4HR6s2hL5R3J0X034eAl0FONg=",
+        "pyaidoop-0.7.1.tar.gz"
+      ],
+      "wheels": {
+        "pyaidoop-0.7.1-py3-none-any.whl": [
+          "lFpJCx8Br5kYRRhTpqS3anKrVl991qf89yZ4cYKGU0s=",
+          "py3"
+        ]
+      }
     }
   },
   "pyannote.db.repere": {
@@ -133762,6 +133828,18 @@
       "wheels": {
         "swh.objstorage-2.0.1-py3-none-any.whl": [
           "C5U/lR6u3xf+eHTbZ+NgAMNQTMS6PBXGv0BrVqR8sj0=",
+          "py3"
+        ]
+      }
+    },
+    "2.1.0": {
+      "sdist": [
+        "dTlG5FDTUJq3bMqGBs9Dm6GAvW5QfNqKDSnHoKmPxJA=",
+        "swh.objstorage-2.1.0.tar.gz"
+      ],
+      "wheels": {
+        "swh.objstorage-2.1.0-py3-none-any.whl": [
+          "40amPOUkZ3/q6Y+SpyeMqxDkBs2Dy/itLs9x/uQMPTo=",
           "py3"
         ]
       }

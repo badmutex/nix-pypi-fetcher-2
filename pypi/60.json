@@ -14369,6 +14369,18 @@
           "py3"
         ]
       }
+    },
+    "2.3.0b20230130": {
+      "wheels": {
+        "bigdl_friesian_spark3-2.3.0b20230130-py3-none-macosx_10_11_x86_64.whl": [
+          "ll7t89T6Jma6xoKyq98yaYY+vglv4I4U4wH+FWELjUM=",
+          "py3"
+        ],
+        "bigdl_friesian_spark3-2.3.0b20230130-py3-none-manylinux1_x86_64.whl": [
+          "/jAmu+eDVfeqvE3fXdfF08LN3x6KerU+deq2Q3ig/RY=",
+          "py3"
+        ]
+      }
     }
   },
   "binsinfo": {
@@ -22108,6 +22120,18 @@
       "wheels": {
         "cli_commander-0.2.0-py3-none-any.whl": [
           "nmmLl929XusA6+V3xxuvExDVdhsC3zPEMyHSnoVQWtA=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.2": {
+      "sdist": [
+        "I3J5U2Tds14gZe3xyD1Wo1ANInX+Ns+7VnWMy+yRonc=",
+        "cli_commander-0.2.2.tar.gz"
+      ],
+      "wheels": {
+        "cli_commander-0.2.2-py3-none-any.whl": [
+          "QycVacNiT0fYTKV8yhjDS+C77b3G3GofzdeLljWTOvI=",
           "py3"
         ]
       }
@@ -85639,6 +85663,18 @@
           "py2.py3"
         ]
       }
+    },
+    "0.4.8.dev1399": {
+      "sdist": [
+        "4epOl0BqulLMnikKClg2pp6IOryb9xZ0ZYB3M7bbqHY=",
+        "nanopb-0.4.8.dev1399.tar.gz"
+      ],
+      "wheels": {
+        "nanopb-0.4.8.dev1399-py2.py3-none-any.whl": [
+          "SeREgZQaIcGxFnnbC3vG4EIpSU9nT4AIbsmw+SGSPu8=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "napari-lattice": {
@@ -123508,6 +123544,12 @@
       "sdist": [
         "pLS7v8gPhH3whoW0+EhdSIn/kwnwnkvds1GRNaInoMg=",
         "returnn-1.20230123.63706.tar.gz"
+      ]
+    },
+    "1.20230130.124628": {
+      "sdist": [
+        "27kgdOthOz47ZWvv6wAUgIMGX89EKGCqD+0AlSZek8s=",
+        "returnn-1.20230130.124628.tar.gz"
       ]
     }
   },

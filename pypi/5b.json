@@ -47194,6 +47194,34 @@
         ]
       }
     },
+    "1.9.0": {
+      "wheels": {
+        "epam.indigo-1.9.0-py3-none-macosx_10_7_intel.whl": [
+          "etKeMKEEjnGbltM8uekocaL2NRo16iPC4nY+oGjf39c=",
+          "py3"
+        ],
+        "epam.indigo-1.9.0-py3-none-macosx_11_0_arm64.whl": [
+          "nO/1+R71ykjOifCtKryaDNCVo8zxfm3ta7SBLghFVY0=",
+          "py3"
+        ],
+        "epam.indigo-1.9.0-py3-none-manylinux1_x86_64.whl": [
+          "WBUOgp0KcRLm19dyfJlwsQjI9zWDZBTrM4XGxojg9b4=",
+          "py3"
+        ],
+        "epam.indigo-1.9.0-py3-none-manylinux2014_aarch64.whl": [
+          "8XgMwXzFxlArEXTP2XVrKO+4D0+3KmpOPXHrCQgEoq0=",
+          "py3"
+        ],
+        "epam.indigo-1.9.0-py3-none-win32.whl": [
+          "Xz2kQgCjIkD5IZ24EdNdkiMHVTBcPy5HUozRTgC0yr0=",
+          "py3"
+        ],
+        "epam.indigo-1.9.0-py3-none-win_amd64.whl": [
+          "bS3QY5GfFt+Oxvc6ty5MOLffbQlEiNG1cYGw8e5g89c=",
+          "py3"
+        ]
+      }
+    },
     "1.9.0rc1": {
       "wheels": {
         "epam.indigo-1.9.0rc1-py3-none-macosx_10_7_intel.whl": [
@@ -52001,6 +52029,18 @@
           "py3"
         ]
       }
+    },
+    "22.5.0.dev1": {
+      "sdist": [
+        "6dw7n3i1WXJpJE36CXU9ghTCUFco6CMwB0IW4zfe02M=",
+        "galaxy-util-22.5.0.dev1.tar.gz"
+      ],
+      "wheels": {
+        "galaxy_util-22.5.0.dev1-py3-none-any.whl": [
+          "3axS68uGCuSIc4UtFipg0H64+Ib6To+WamPwEg2hVq0=",
+          "py3"
+        ]
+      }
     }
   },
   "galaxylearning": {
@@ -53868,6 +53908,12 @@
       "sdist": [
         "MNqNgeJ3tqw72bkl+dLD0Bwuut6T+hRLHOAXpbf0iU4=",
         "golfing-shortcuts-0.1.tar.gz"
+      ]
+    },
+    "1.0": {
+      "sdist": [
+        "9IdPl/GbAXJRE1RId4UhoSywWTu/rOZEN8wh3ET2HGE=",
+        "golfing-shortcuts-1.0.tar.gz"
       ]
     }
   },
@@ -56660,6 +56706,12 @@
       "sdist": [
         "4mnPl09HX2aMcDq/Rk3gONI4F3du8vM9kBwGrdjd4Ak=",
         "hdijupyterutils-0.20.3.tar.gz"
+      ]
+    },
+    "0.20.4": {
+      "sdist": [
+        "RdGR9oqQDqUGRlhgOm6U9K2ljzmLFbBCEnoma7kzNnU=",
+        "hdijupyterutils-0.20.4.tar.gz"
       ]
     },
     "0.4.0": {
@@ -119262,6 +119314,18 @@
       "wheels": {
         "starwhale-0.3.5-py3-none-any.whl": [
           "oKPxWH3b6TR/qEAOroCmv0KXpIKua/sgK+nswNWegpk=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.6": {
+      "sdist": [
+        "YBoBqIO7tCKqzpa/VC50vE9CN3NoB1BEr++WXeNR7a0=",
+        "starwhale-0.3.6.tar.gz"
+      ],
+      "wheels": {
+        "starwhale-0.3.6-py3-none-any.whl": [
+          "KYvDyvxzhDm+PRTs90yGxQzernMVlRGMkMJFcpR8TCA=",
           "py3"
         ]
       }

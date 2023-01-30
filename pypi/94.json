@@ -59311,6 +59311,32 @@
       }
     }
   },
+  "layerx-sdk-beta": {
+    "0.0.21b0": {
+      "sdist": [
+        "+ZDI3bm4HoMTRZ1PBLdY2T9e7HV54QVdJsdhYDS5z88=",
+        "layerx-sdk-beta-0.0.21b0.tar.gz"
+      ],
+      "wheels": {
+        "layerx_sdk_beta-0.0.21b0-py3-none-any.whl": [
+          "jTouxvz/AFPbgcm2gwHRaAzpR8H+rIpdSZrE9CwCyew=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.21b1": {
+      "sdist": [
+        "PJBBTPrpQjNMlRtc5zPWtAK3CXnhtkrhDeIuHNQ0JfY=",
+        "layerx-sdk-beta-0.0.21b1.tar.gz"
+      ],
+      "wheels": {
+        "layerx_sdk_beta-0.0.21b1-py3-none-any.whl": [
+          "HVAlctsS80CuihIl7bMjBwVh5QtipcIhpD8VBAUG4H0=",
+          "py3"
+        ]
+      }
+    }
+  },
   "laziter": {
     "0.0.4": {
       "sdist": [
@@ -66920,6 +66946,12 @@
       "sdist": [
         "AkfK0rwW3rLH8o5ZDutpzPXb504OSi6cqMps3z9cE4s=",
         "localstack-ext-1.3.2.dev20230127185158.tar.gz"
+      ]
+    },
+    "1.3.2.dev20230130150656": {
+      "sdist": [
+        "+y0EP+Tdo7t/euK3wQ3aWooAMFAk8LPOWFa2jJ1Rz5U=",
+        "localstack-ext-1.3.2.dev20230130150656.tar.gz"
       ]
     }
   },
@@ -86263,6 +86295,18 @@
           "py3"
         ]
       }
+    },
+    "0.3.0": {
+      "sdist": [
+        "hgHLOWU6UBM6wgntlZrYwgskKg7GD+5ldt7iBKeLVD8=",
+        "order-matching-0.3.0.tar.gz"
+      ],
+      "wheels": {
+        "order_matching-0.3.0-py3-none-any.whl": [
+          "tQ/5VJr9b2APRpcZJlps4UqAMkP+RfgolOOtDWqj+S0=",
+          "py3"
+        ]
+      }
     }
   },
   "osensapy": {
@@ -101943,6 +101987,40 @@
         "3XTKGnF4wv/6a7Ck0Wwu2l6l5C/gRt0guRAXMv/FT5E=",
         "pymktorrent-0.3.tar.gz"
       ]
+    }
+  },
+  "pymosarix": {
+    "1.0": {
+      "wheels": {
+        "pymosarix-1.0-py2.py3-none-any.whl": [
+          "QBJ4d8gsrdNjeVY4GDRISFE7SvbI2FMCxlSIHhMtlVI=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.1": {
+      "wheels": {
+        "pymosarix-1.1-py2.py3-none-any.whl": [
+          "d2sCCBUuWqd7QO4GByzu45fvCiKXhyfXq8uC7iKhZT0=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.11": {
+      "wheels": {
+        "pymosarix-1.11-py2.py3-none-any.whl": [
+          "FBkGJNStcj8IkWvGega0I1UN0m0+miNsr3pDxOtUsmI=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.12": {
+      "wheels": {
+        "pymosarix-1.12-py2.py3-none-any.whl": [
+          "RC0ATXt9fxZXP+Fa7U8khZAVYRekgbKq/VjoPzWlA4k=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "pymsteams": {

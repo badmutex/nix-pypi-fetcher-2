@@ -10967,6 +10967,22 @@
           "py3"
         ]
       }
+    },
+    "2.3.0b20230130": {
+      "sdist": [
+        "nZ4QZTgM3gPbBRslyP42i7c8v11yhwIA0Vspp+tWdes=",
+        "bigdl-dllib-spark3-2.3.0b20230130.tar.gz"
+      ],
+      "wheels": {
+        "bigdl_dllib_spark3-2.3.0b20230130-py3-none-macosx_10_11_x86_64.whl": [
+          "MSKLKjuH8rjooFv5B9AnjE+oemrpa8B9C5i0Nw7zZA0=",
+          "py3"
+        ],
+        "bigdl_dllib_spark3-2.3.0b20230130-py3-none-manylinux1_x86_64.whl": [
+          "wTxgCVWda0vi9KrS/NdZMvprso+TWV9IqwZHgOBSARQ=",
+          "py3"
+        ]
+      }
     }
   },
   "bigos": {
@@ -20218,6 +20234,18 @@
       "wheels": {
         "conviso_flowcli-1.12.0rc0-py3-none-any.whl": [
           "/rdNbbJKpFAcAhJEc1Y37taWdOzihLk6WmuOeJGUa48=",
+          "py3"
+        ]
+      }
+    },
+    "1.12.0rc1": {
+      "sdist": [
+        "996uOpAY/5D2wFcResO35YmfRy8craHH0i9DJzyxlrQ=",
+        "conviso-flowcli-1.12.0rc1.tar.gz"
+      ],
+      "wheels": {
+        "conviso_flowcli-1.12.0rc1-py3-none-any.whl": [
+          "pIcWkhdknqx8Z526Zhpr5+0VZ5RqyAACsChBrBthJes=",
           "py3"
         ]
       }
@@ -72356,10 +72384,10 @@
     }
   },
   "molalignlib": {
-    "0.9.1": {
+    "0.9.2": {
       "sdist": [
-        "pnQoa0VugSaeykVnExAvIuXgZZcFaaE5mofk1iYn3rw=",
-        "molalignlib-0.9.1.tar.gz"
+        "07hOO1M8860s0zfsebtCfHEXZQHeY7JYdWwaEPflIkA=",
+        "molalignlib-0.9.2.tar.gz"
       ]
     }
   },
@@ -104862,6 +104890,18 @@
         ]
       }
     },
+    "1.25.18": {
+      "sdist": [
+        "3cODH8lZTfUe8D5bjSqmKH2EWhteMx0MEOOa+hpvXfE=",
+        "perseus_restful_api_framework-1.25.18.tar.gz"
+      ],
+      "wheels": {
+        "perseus_restful_api_framework-1.25.18-py3-none-any.whl": [
+          "CpmV7kIlQsgrCeIR06E8wzYsL6fmmOzxozxI2TID09Y=",
+          "py3"
+        ]
+      }
+    },
     "1.25.2": {
       "sdist": [
         "KY5lceApUR36heyz7t7SRDyViWUErKy582/nMsitxEk=",
@@ -113165,6 +113205,30 @@
           "py3"
         ]
       }
+    },
+    "1.3.4": {
+      "sdist": [
+        "FvPjypAwH7DNG+SBRPTZxshabJgIp5dM59vRAFCZIqQ=",
+        "py_lav-1.3.4.tar.gz"
+      ],
+      "wheels": {
+        "py_lav-1.3.4-py3-none-any.whl": [
+          "OU8vOCJz9IsPqsFi2FLS33nKCWklxGTd3HDUnruMojw=",
+          "py3"
+        ]
+      }
+    },
+    "1.3.5": {
+      "sdist": [
+        "cL5VoX94V26n4ZyeN+MhFk1+RlsdoWiXvhUZR38NG6g=",
+        "py_lav-1.3.5.tar.gz"
+      ],
+      "wheels": {
+        "py_lav-1.3.5-py3-none-any.whl": [
+          "6VqJG8k+64z0YKAu3tjGd4GBZfvtR2oEMiROs9Vpagg=",
+          "py3"
+        ]
+      }
     }
   },
   "py-lets-be-rational": {
@@ -120782,6 +120846,18 @@
       "wheels": {
         "PySide6_Fluent_Widgets-0.0.1-py3-none-any.whl": [
           "80YyRk4/og+iQIMvSksb1e78nmUHCEboZrCcUNQyFNY=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "p1FyMN4/j6t72zgAyEzYkPbvwfRyWiWItgvD8WnVuZ4=",
+        "PySide6-Fluent-Widgets-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "PySide6_Fluent_Widgets-0.0.2-py3-none-any.whl": [
+          "r3qwoJFvs1GvHzKAVV8Tt7e9nnB/hd4zyOSRfR2mlg4=",
           "py3"
         ]
       }
@@ -143453,6 +143529,20 @@
         "82cK3spACQLl14OQMECC1b+sE8bdH/zODiAfonHLHfk=",
         "telegram_menu-2.0.1.tar.gz"
       ]
+    }
+  },
+  "templates-service-client": {
+    "0.0.1": {
+      "sdist": [
+        "8EwE95lbRKsnHI+K7Mj0WJmz1b6w1tW1NIOrp3YI+u0=",
+        "templates_service_client-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "templates_service_client-0.0.1-py3-none-any.whl": [
+          "SVt7rb1AKZc1wlyg4DM78GK/YQ5Ebl5iXsuXaTwR67I=",
+          "py3"
+        ]
+      }
     }
   },
   "tencentcloud-sdk-python-tcbr": {

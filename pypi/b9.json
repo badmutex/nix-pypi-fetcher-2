@@ -16619,6 +16619,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.60": {
+      "sdist": [
+        "9rJG4+bGYqoGeW1DVgVwy/7RwFSgvfZ6zKhvzxl+KUY=",
+        "botocore-a-la-carte-securityhub-1.29.60.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_securityhub-1.29.60-py3-none-any.whl": [
+          "ZpWeWcyrTHq2FFAQpRx8mBmHMxPPu/O3bWp6TPu1QJ4=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-translate": {
@@ -16834,6 +16846,18 @@
       "wheels": {
         "botocore_a_la_carte_translate-1.29.59-py3-none-any.whl": [
           "G2U+aqBRtxpjBbphMDkuRQbV79dXknF6FiQgTSN+1EU=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.60": {
+      "sdist": [
+        "PR1lpuScwEhO4uYEpNYgR0Xxkd+rpvZOwZmElWaCQ4s=",
+        "botocore-a-la-carte-translate-1.29.60.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_translate-1.29.60-py3-none-any.whl": [
+          "WCLc/it4o1Y6t6umJlWLMzMdLfWmS4EKZkXg9tQRP3w=",
           "py3"
         ]
       }
@@ -51652,6 +51676,18 @@
       "wheels": {
         "jaxkern_nightly-0.0.5.dev20230130-py3-none-any.whl": [
           "HDgBmonU3UcZZ7v38dAQlil9BfWuIz66mNOHfGDS7Kc=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.5.dev20230131": {
+      "sdist": [
+        "XImrHFTxS2XHb91Vz+NE+d/QYdE9cP+mm902afB4L0A=",
+        "jaxkern-nightly-0.0.5.dev20230131.tar.gz"
+      ],
+      "wheels": {
+        "jaxkern_nightly-0.0.5.dev20230131-py3-none-any.whl": [
+          "t/880/9bzyhscO45LV8scZBjU2ceoOahlXiSzM+XmQA=",
           "py3"
         ]
       }
@@ -94244,6 +94280,14 @@
         ]
       }
     },
+    "2.0.27a0": {
+      "wheels": {
+        "pyabsa-2.0.27a0-py3-none-any.whl": [
+          "LbuUBov4LygQpTeUQxj7YJ4+OqZ/bsv5R/FERa7Gmr0=",
+          "py3"
+        ]
+      }
+    },
     "2.0.3": {
       "wheels": {
         "pyabsa-2.0.3-py3-none-any.whl": [
@@ -126031,6 +126075,20 @@
       ]
     }
   },
+  "sparc.client": {
+    "0.0.1": {
+      "sdist": [
+        "qG8F0pU+6gWBreH9rOIkWUjSNAAkyrpkMgH2xMJV7sc=",
+        "sparc.client-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "sparc.client-0.0.1-py3-none-any.whl": [
+          "XQwMlbFJ2grXgagko/xmAfPxkV7W6QVwGsSrwsO9b2A=",
+          "py3"
+        ]
+      }
+    }
+  },
   "sparklytics": {
     "0.0.1": {
       "sdist": [
@@ -131572,6 +131630,18 @@
       "wheels": {
         "tcsctl-0.1.1-py3-none-any.whl": [
           "NISs6n/xZytZm7NjvwHjHo3L/9s1+pfJAz+VDUlOttI=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "ouNQnvnB0NJ0D0hwwcJIVYqrk8oQhfYFs0acc+FiGPo=",
+        "tcsctl-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "tcsctl-0.1.2-py3-none-any.whl": [
+          "wTFVq6UZvsCqkxWWbhJLj1caRfDHhOjAGCuAuy9pTd8=",
           "py3"
         ]
       }
@@ -138295,6 +138365,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.819": {
+      "sdist": [
+        "Yu9xUPy7/EYX5ra5MFliC3M/8qgXiY7C0SSOMY9wi0s=",
+        "tencentcloud-sdk-python-aai-3.0.819.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_aai-3.0.819-py2.py3-none-any.whl": [
+          "/EQbmW1PKEyAxM4E979Gl6SbKYbKHQKPVPo/yOnlq2A=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tencentcloud-sdk-python-cloudstudio": {
@@ -139218,6 +139300,18 @@
       "wheels": {
         "tencentcloud_sdk_python_cloudstudio-3.0.818-py2.py3-none-any.whl": [
           "zUp4IAi5B3Vh0VBxXMhlkgeDzWCGjUsWhmirTDYCXQ4=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.819": {
+      "sdist": [
+        "jA8hUGPbACfvFwAZW1oPJgxOuvVqSQTys3yIt+5WC3M=",
+        "tencentcloud-sdk-python-cloudstudio-3.0.819.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_cloudstudio-3.0.819-py2.py3-none-any.whl": [
+          "jFyoI3qPD4T640+XFyh4nciatIVh33RGw/IiS4fLWvM=",
           "py2.py3"
         ]
       }
@@ -145760,6 +145854,18 @@
       "wheels": {
         "tencentcloud_sdk_python_nlp-3.0.818-py2.py3-none-any.whl": [
           "cLhVWo5sM86PdEXIqSeARxnerNBqRhXZG3comDkicZw=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.819": {
+      "sdist": [
+        "hBq3GXBg5vsDJB/4JpPiqjYS96Y8q4vhMvxZHXwtDK4=",
+        "tencentcloud-sdk-python-nlp-3.0.819.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_nlp-3.0.819-py2.py3-none-any.whl": [
+          "Gw8kTCSbCYs0z8q0B4G3VcmqR0xzC74cb0Oz+6w4h54=",
           "py2.py3"
         ]
       }

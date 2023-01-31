@@ -1351,6 +1351,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.1": {
+      "sdist": [
+        "Liu6eKi0SjDcfdljLmrRhES9Qu7K6OTYrJfDlKzVRwk=",
+        "alibabacloud_outboundbot20191226-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "alibabacloud_outboundbot20191226-1.0.1-py3-none-any.whl": [
+          "vOmomKPKpnsxfgr6lEfAvzrvmWC8jww7rhI2V1jt6l8=",
+          "py3"
+        ]
+      }
     }
   },
   "aliyun-python-sdk-cas": {
@@ -11833,6 +11845,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.60": {
+      "sdist": [
+        "dgWySHg0cpYZpuxUAFmC6tIhRP9Hkj5wduZBCLujS/w=",
+        "botocore-a-la-carte-ec2-1.29.60.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_ec2-1.29.60-py3-none-any.whl": [
+          "O+owuw460Y9754KdovAW2T0DT138hCYWnY3cWYVaNpE=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-kinesis-video-webrtc-storage": {
@@ -12048,6 +12072,18 @@
       "wheels": {
         "botocore_a_la_carte_kinesis_video_webrtc_storage-1.29.59-py3-none-any.whl": [
           "YZTRES3eDEA100RH5xaxZIqkdmbWu6fMSH5EQSKc8b0=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.60": {
+      "sdist": [
+        "/Puz3WU5qe92DRsW1KWorFPe+7afJW5wa6El18dQuYo=",
+        "botocore-a-la-carte-kinesis-video-webrtc-storage-1.29.60.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_kinesis_video_webrtc_storage-1.29.60-py3-none-any.whl": [
+          "uiobbRgcZoLpYXk5GHGbbY+Rd6JQ3cHl2o8F7TZnAKU=",
           "py3"
         ]
       }
@@ -59335,6 +59371,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.21b2": {
+      "sdist": [
+        "RWK00N0hZV/WVSL6o0RntvAOr89AnRsIU+98seGYA2g=",
+        "layerx-sdk-beta-0.0.21b2.tar.gz"
+      ],
+      "wheels": {
+        "layerx_sdk_beta-0.0.21b2-py3-none-any.whl": [
+          "BW98vBs7njBkMIak+GpYrhyHl1ExBJjSGH3WBQ+H4iw=",
+          "py3"
+        ]
+      }
     }
   },
   "laziter": {
@@ -66952,6 +67000,12 @@
       "sdist": [
         "+y0EP+Tdo7t/euK3wQ3aWooAMFAk8LPOWFa2jJ1Rz5U=",
         "localstack-ext-1.3.2.dev20230130150656.tar.gz"
+      ]
+    },
+    "1.3.2.dev20230131023541": {
+      "sdist": [
+        "RdcuqUnvSu61obPRMr1S4k9NCsane/E4lOzh7ZHQ+zg=",
+        "localstack-ext-1.3.2.dev20230131023541.tar.gz"
       ]
     }
   },
@@ -122327,6 +122381,18 @@
         "/DIx+dAYPSifM78D+yYBDuLpb6GxPqwcv+lR08Qnd9o=",
         "simplepyai-1.2.2.tar.gz"
       ]
+    },
+    "2.0.1a0": {
+      "sdist": [
+        "an24XIhw9LuFZFe6cONlTUQCNbc3VROU67nBynJ0k4E=",
+        "simplepyai-2.0.1.alpha.tar.gz"
+      ]
+    },
+    "2.0a0": {
+      "sdist": [
+        "GOEoeR79SLwFGRed/w3hdll7k48yP3EOjVEaF4gVOGY=",
+        "simplepyai-2.0.alpha.tar.gz"
+      ]
     }
   },
   "simpletweetlib": {
@@ -135993,6 +136059,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.819": {
+      "sdist": [
+        "ts62vt6uKekYOzhLpFFYajsp15+Vj9MPbP7ZXVyRDjU=",
+        "tencentcloud-sdk-python-tms-3.0.819.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_tms-3.0.819-py2.py3-none-any.whl": [
+          "FpXbbQULEKG797C5hWcLNlN/KEVJHVBMymvabvLpSQk=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tencentserverhackedd": {
@@ -146340,6 +146418,34 @@
         ],
         "xia_api_flask-0.0.9-cp39-none-win_amd64.whl": [
           "XuWDSDdTQRbyfRgWzWqjXDBO9fdSLhRMfnkYQdQrvng=",
+          "cp39"
+        ]
+      }
+    },
+    "0.1.0": {
+      "wheels": {
+        "xia_api_flask-0.1.0-cp310-none-macosx_11_0_x86_64.whl": [
+          "7Si8B7MoMqD3AgmJlp1+GF6g/VDVxw/5DCYAvWaBkNU=",
+          "cp310"
+        ],
+        "xia_api_flask-0.1.0-cp310-none-manylinux1_x86_64.whl": [
+          "CjlCSkwMu1O8W3Un1QlmJOYYaCssdLu2wb9WdSaI7ZY=",
+          "cp310"
+        ],
+        "xia_api_flask-0.1.0-cp310-none-win_amd64.whl": [
+          "r/2c6UlpqtsgGiPz8LvUJwZIyF6kf+AhNgF5lz6mJtg=",
+          "cp310"
+        ],
+        "xia_api_flask-0.1.0-cp39-none-macosx_11_0_x86_64.whl": [
+          "Gykyvr07R6kjZYUAS7ZGmiX3g5AFfK4xYtT5sxJEovo=",
+          "cp39"
+        ],
+        "xia_api_flask-0.1.0-cp39-none-manylinux1_x86_64.whl": [
+          "CmA9PzF3E+jkjlt/BEVDASlIaE/Ljlf+WkSHATxj2q0=",
+          "cp39"
+        ],
+        "xia_api_flask-0.1.0-cp39-none-win_amd64.whl": [
+          "uZh8jZFQ9jBHlm9/o87hTDWxxjx2L9T0otANofqj4Is=",
           "cp39"
         ]
       }

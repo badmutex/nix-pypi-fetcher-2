@@ -15773,6 +15773,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.60": {
+      "sdist": [
+        "4nfzX/oBLyyYAkMdRUFtcTC1FrzLZAeus8EeyFdZ1O8=",
+        "botocore-a-la-carte-dlm-1.29.60.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_dlm-1.29.60-py3-none-any.whl": [
+          "35aeQMEwpnWaLZBXe8yCDAVDXSa+Qak8IzCxq/sgeBs=",
+          "py3"
+        ]
+      }
     }
   },
   "bottle-session": {
@@ -24808,6 +24820,18 @@
       "wheels": {
         "cdk_iam_floyd-0.476.0-py3-none-any.whl": [
           "4IFKZuwnVmm5DbmNO6M7ylZyTuyWANaQCIBIGCaTCCo=",
+          "py3"
+        ]
+      }
+    },
+    "0.477.0": {
+      "sdist": [
+        "7D/zu0Qn+1GAUD44sfIN+PQSRVoKZQCMM0HcJBkm+28=",
+        "cdk-iam-floyd-0.477.0.tar.gz"
+      ],
+      "wheels": {
+        "cdk_iam_floyd-0.477.0-py3-none-any.whl": [
+          "5UnazVu0gfC9jBp9ojwNtyr3n8Ihob7JbphjLy8XCj0=",
           "py3"
         ]
       }
@@ -79663,6 +79687,14 @@
           "py3"
         ]
       }
+    },
+    "0.3.1a0": {
+      "wheels": {
+        "neon_skill_launcher-0.3.1a0-py3-none-any.whl": [
+          "ZUmBQMLLCFV5i6qU4Xr2EBmG9LHd+icGoMIUPvsKfB8=",
+          "py3"
+        ]
+      }
     }
   },
   "nester-axin": {
@@ -88738,6 +88770,12 @@
         "openiap-0.0.12.tar.gz"
       ]
     },
+    "0.0.13": {
+      "sdist": [
+        "+bEarHuii6eTAq0hk5/ee2TPQP92Dw1l/wtARqXS32k=",
+        "openiap-0.0.13.tar.gz"
+      ]
+    },
     "0.0.3": {
       "wheels": {
         "openiap-0.0.3-py3-none-any.whl": [
@@ -97364,6 +97402,20 @@
       "wheels": {
         "poetry_plugin_use_pip_global_index_url-0.1.1-py3-none-any.whl": [
           "JRRBLyXP3NiljCWKEN9I08OF62eQRvbGNZGavJ2FXKE=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "poissonfc": {
+    "0.0.1": {
+      "sdist": [
+        "syUcwRQEgWI/kStYuG54/nvUDAcsA0wnad65XkRxa50=",
+        "PoissonFC-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "PoissonFC-0.0.1-py3-none-any.whl": [
+          "rCFGttJb18ux4S3mnySX3b4AEZBO+tNIQB0uGXMVPPY=",
           "py3"
         ]
       }
@@ -117984,6 +118036,18 @@
       "wheels": {
         "rbo-0.1.2-py3-none-any.whl": [
           "WI9yDpKJMKAeRjHDNiO4D3qJKzDhrEbXpctSVuJ6Xb4=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.3": {
+      "sdist": [
+        "FEEKONHVsmxuKEEJj4HTdx8yTSfZyz3BrlP0Z9hF0w8=",
+        "rbo-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "rbo-0.1.3-py3-none-any.whl": [
+          "n1uQvcpskeBRJhEtX/NiWyeDWYH32mjlFDvwESAXWh8=",
           "py3"
         ]
       }
@@ -142005,6 +142069,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.819": {
+      "sdist": [
+        "B9Qd4GGpREqFv5dXJkkrpwMDFVBGHWCH48DiSSbCV7Q=",
+        "tencentcloud-sdk-python-ckafka-3.0.819.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_ckafka-3.0.819-py2.py3-none-any.whl": [
+          "9QuBO5/Ysq9G4xZWasBzTZpNE26ebUuEG16X7A4oyrE=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tensorflow-datavalidation": {
@@ -146694,6 +146770,30 @@
       "wheels": {
         "uintel-0.3.1-py3-none-any.whl": [
           "qu7F7INfiMI4aRCx09xCFwcanMmAhBHai4Vl4aMUWPY=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.2": {
+      "sdist": [
+        "RFnkvguqAbSss0z4zV7P5HaAMvkd64B+0ES+wYCStXk=",
+        "uintel-0.3.2.tar.gz"
+      ],
+      "wheels": {
+        "uintel-0.3.2-py3-none-any.whl": [
+          "afrCCCiczDmyUco7sJ17tcnmOgFcK+Whe19gQ7+0MO8=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.3": {
+      "sdist": [
+        "XYeBtnwxg/uGumsf73PQ/lEJb5iWVE1IBFnR2FKE0v4=",
+        "uintel-0.3.3.tar.gz"
+      ],
+      "wheels": {
+        "uintel-0.3.3-py3-none-any.whl": [
+          "L8aW7O9yc0H1j6UQ7ukqDy2DqkorAA+ygxLGLHFYnXc=",
           "py3"
         ]
       }

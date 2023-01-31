@@ -14869,6 +14869,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.60": {
+      "sdist": [
+        "w1YXOGGZhbwN+IoyNh68tdBiIRCBQseXjIgnAn76Y90=",
+        "botocore-a-la-carte-chime-sdk-identity-1.29.60.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_chime_sdk_identity-1.29.60-py3-none-any.whl": [
+          "pyqY0TGEfTOOq5IdMAWAZIaNWdIFUhZnXZeoLdNm1TI=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-controltower": {
@@ -15084,6 +15096,18 @@
       "wheels": {
         "botocore_a_la_carte_controltower-1.29.59-py3-none-any.whl": [
           "G14Yvup71m6kVy0jrBnJS3XWpzRq1Vieb6GR+UTjf9U=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.60": {
+      "sdist": [
+        "CyUXKwcUIpVNc2I+7Kl+WUdF5L73LpKC/MoiWoGRGEI=",
+        "botocore-a-la-carte-controltower-1.29.60.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_controltower-1.29.60-py3-none-any.whl": [
+          "Bshz7lyjqZqDs/fxmPAygZQZPe9ri+rCfhtR9XG7eI8=",
           "py3"
         ]
       }
@@ -15305,6 +15329,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.60": {
+      "sdist": [
+        "CvF0bb8BTxUyqSCQL20L5gnZ6amP99fnOdV3Wqj+suA=",
+        "botocore-a-la-carte-mgn-1.29.60.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_mgn-1.29.60-py3-none-any.whl": [
+          "PmuyxUghCiPwScXW5q1hGGOIhPnAbR1SjlW6ouvRJgw=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-sesv2": {
@@ -15520,6 +15556,18 @@
       "wheels": {
         "botocore_a_la_carte_sesv2-1.29.59-py3-none-any.whl": [
           "gaKEGYDQZGjCfRJzO7F184/JgFz7UHx+pu90N8/f40k=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.60": {
+      "sdist": [
+        "0TuHPcDZVGXZm/gMFT6IQXp8vG9F+2XJYa71c6z/COI=",
+        "botocore-a-la-carte-sesv2-1.29.60.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_sesv2-1.29.60-py3-none-any.whl": [
+          "rrPuCodCLlDpFYKaPaZXGMmif3t9ymWYAxc8Kp974f4=",
           "py3"
         ]
       }
@@ -52299,6 +52347,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.8": {
+      "sdist": [
+        "JsbyrrirKWC7e9/LEAivIfjm72EoBkkcB0m66DbgOj0=",
+        "grai_schemas-0.1.8.tar.gz"
+      ],
+      "wheels": {
+        "grai_schemas-0.1.8-py3-none-any.whl": [
+          "IF85IS3H+F/q1lIJ0cBneU/mFWhEu7Cvvf7UJs1NTVw=",
+          "py3"
+        ]
+      }
     }
   },
   "graphene-django-sentry": {
@@ -78032,6 +78092,14 @@
       "wheels": {
         "odoo14_addon_account_banking_pain_base-14.0.2.0.1.dev2-py3-none-any.whl": [
           "IDI5rgnPoeY5s4fK6lxO2ce3GTzbY+XfiL5WLU3d5jY=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.2.0.1.dev3": {
+      "wheels": {
+        "odoo14_addon_account_banking_pain_base-14.0.2.0.1.dev3-py3-none-any.whl": [
+          "vRYGbdh4dhAIKb0Hd2tQajj6qnjqBZKBu6ylHyACBGM=",
           "py3"
         ]
       }
@@ -108874,6 +108942,18 @@
         ]
       }
     },
+    "5.0.11.89720.0": {
+      "sdist": [
+        "x4+tt3Tt9qz7TprSFy9GdtPzqroJ2k4+88y4NVx8qog=",
+        "s2protocol-5.0.11.89720.0.tar.gz"
+      ],
+      "wheels": {
+        "s2protocol-5.0.11.89720.0-py2-none-any.whl": [
+          "OlUztzZQ00htQYxMSnxsrXjiR8nH9bFxSPzDrigAPSE=",
+          "py2"
+        ]
+      }
+    },
     "5.0.3.81433.0": {
       "sdist": [
         "tS7rkPz45RR0hwWUM347g9613s4OWdbnbvlUuLnyj7E=",
@@ -111287,6 +111367,44 @@
         "KjO9UlKOF/pDUvEQWc7AyciUTOn/ee53ihAcZ+v3qoI=",
         "simple_descriptive_analysis-0.1.tar.gz"
       ]
+    }
+  },
+  "simple-features": {
+    "1.0.0": {
+      "sdist": [
+        "GUTBoVFnKSAVUmtAQzAoeFo00DdlHbvtE1kyx3UU+Yg=",
+        "simple_features-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "simple_features-1.0.0-py3-none-any.whl": [
+          "jqVO+8OLiyGj1g4JR/6A2ADPBvjXmcUlAnJhyzLBRao=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.1": {
+      "sdist": [
+        "YTv5qtWSB5NSmzNqyRV69g1DkMXKKSBw92wGRFiUUnA=",
+        "simple_features-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "simple_features-1.0.1-py3-none-any.whl": [
+          "EUVYuB+fck3ulbH3cDgvLt98v8ohA8PVA1UgQLhe33A=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.2": {
+      "sdist": [
+        "kl0/Xi1ivvF/eJw0TPbBKP0rlNUTcObblFwIqmIUcZE=",
+        "simple_features-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "simple_features-1.0.2-py3-none-any.whl": [
+          "0hs0oZRu46dBkDgQNPNwENQ+VIUPErof3C4CGkZVbOw=",
+          "py3"
+        ]
+      }
     }
   },
   "simple-youtube-video-commenter": {
@@ -122752,6 +122870,18 @@
       "wheels": {
         "tencentcloud_sdk_python_cii-3.0.818-py2.py3-none-any.whl": [
           "alVQvU+bYUThlVK3t3chGyX/IUdNfOY5uO7SoYFagMw=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.819": {
+      "sdist": [
+        "xfvQmeA3n6VRnkRcqVYUwsTk5JvDBHLD8LKsgv+765A=",
+        "tencentcloud-sdk-python-cii-3.0.819.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_cii-3.0.819-py2.py3-none-any.whl": [
+          "oVj7wd5xWrQJETyGDvSHkbOoBZy0GuD/JVcGXDXEtkA=",
           "py2.py3"
         ]
       }

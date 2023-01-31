@@ -10381,6 +10381,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.60": {
+      "sdist": [
+        "4Wq010VByJBIUrtSUKhe1SGO29pQ9FyeR4GVeGQzVt8=",
+        "botocore-a-la-carte-firehose-1.29.60.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_firehose-1.29.60-py3-none-any.whl": [
+          "MCSnIepDwTG44Vgb7on4AbVnnnuJKzRh/qcj5D0bMyI=",
+          "py3"
+        ]
+      }
     }
   },
   "botway.py": {
@@ -36726,10 +36738,10 @@
         "experiment-launcher-1.3.tar.gz"
       ]
     },
-    "2.0": {
+    "2.1": {
       "sdist": [
-        "QeKgupuN7nqiBbLU8v8XyW2mnJPbhkwPkYyTGQOCJVM=",
-        "experiment-launcher-2.0.tar.gz"
+        "l466RdpceU0WISFMfYwQ++osa7HKXyYSlvi94zxReco=",
+        "experiment-launcher-2.1.tar.gz"
       ]
     }
   },
@@ -70060,6 +70072,62 @@
         ],
         "maturin-0.14.10-py3-none-win_arm64.whl": [
           "bMmvuJ8ovVkbYvjzwpc2yBwyLP/oj5q46xdJN3u8NSE=",
+          "py3"
+        ]
+      }
+    },
+    "0.14.11": {
+      "sdist": [
+        "xXSQ39G8fWlYCN0WEpA1pWW0zHWhjJ7gFPBzjJkfP18=",
+        "maturin-0.14.11.tar.gz"
+      ],
+      "wheels": {
+        "maturin-0.14.11-py3-none-linux_armv6l.whl": [
+          "qHfzuXNCfUYiKEhCHK17e8YD64+pDeNrK3S4/S1eq4c=",
+          "py3"
+        ],
+        "maturin-0.14.11-py3-none-macosx_10_7_x86_64.whl": [
+          "q9ccMP46WsKPi0LCF0PI97SWjQXeDtijxLLZ7tv47VA=",
+          "py3"
+        ],
+        "maturin-0.14.11-py3-none-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "s8VKTB0UUu5S8f4t6ENfffGrFxJwX34Tlarz8TiK5S4=",
+          "py3"
+        ],
+        "maturin-0.14.11-py3-none-manylinux_2_12_i686.manylinux2010_i686.musllinux_1_1_i686.whl": [
+          "AP0wK6uAnsghZCW9ta/O+ToOOryIqf17c/kM3v030Eg=",
+          "py3"
+        ],
+        "maturin-0.14.11-py3-none-manylinux_2_12_x86_64.manylinux2010_x86_64.musllinux_1_1_x86_64.whl": [
+          "js/xs7hflJ78NUNqrPJ2ZBrG4oyBzP+wDHBpySxKamc=",
+          "py3"
+        ],
+        "maturin-0.14.11-py3-none-manylinux_2_17_aarch64.manylinux2014_aarch64.musllinux_1_1_aarch64.whl": [
+          "DTp+fkjPAZ/43i9VWlXZFdbduSChr9fvFUQuNlKBz3A=",
+          "py3"
+        ],
+        "maturin-0.14.11-py3-none-manylinux_2_17_armv7l.manylinux2014_armv7l.musllinux_1_1_armv7l.whl": [
+          "/9MavzK3YSzvYpQUTDFp0FNLbEA2kD8xr0uI0vrhytg=",
+          "py3"
+        ],
+        "maturin-0.14.11-py3-none-manylinux_2_17_ppc64le.manylinux2014_ppc64le.musllinux_1_1_ppc64le.whl": [
+          "0Chg9UWFXGbkYDws6yRDcoGa6MszejIAzymQszS/0fo=",
+          "py3"
+        ],
+        "maturin-0.14.11-py3-none-manylinux_2_17_s390x.manylinux2014_s390x.whl": [
+          "Dy2tlH3ujEYu/zhjY3cVMGqatD0DF6S2oj9RrTZ0daU=",
+          "py3"
+        ],
+        "maturin-0.14.11-py3-none-win32.whl": [
+          "jTZ6erFrEk2aA1kZZnduQhykwZfbLPWYe3ZBrk9fR8M=",
+          "py3"
+        ],
+        "maturin-0.14.11-py3-none-win_amd64.whl": [
+          "vQRPFxna1vG4MM4lQZH7hBpN3+0rige+hmwwlfeS8Dw=",
+          "py3"
+        ],
+        "maturin-0.14.11-py3-none-win_arm64.whl": [
+          "6QQah/8Dw4Q/+GZ8yyqIqDCnELN0cLinYxcs4+lQPk8=",
           "py3"
         ]
       }

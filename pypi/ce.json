@@ -9163,6 +9163,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.60": {
+      "sdist": [
+        "2XlQAtusZaLd1ltCx+kkIpqUAr18vDCkv5rzuqJIhBk=",
+        "botocore-a-la-carte-savingsplans-1.29.60.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_savingsplans-1.29.60-py3-none-any.whl": [
+          "w7xcQD4auMfOMWZ3Bs+1RJnRvsk/k58UXn18mAvU07w=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-sso-admin": {
@@ -9378,6 +9390,18 @@
       "wheels": {
         "botocore_a_la_carte_sso_admin-1.29.59-py3-none-any.whl": [
           "Mkf7wM6yd/vHOdQN5MjFTZvUQHOi2Qyi+iNxJG00QTQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.60": {
+      "sdist": [
+        "3i9KL7Kiw2ba+DOK6CYvLFTHqEqgp5YV3OtLIS9fS84=",
+        "botocore-a-la-carte-sso-admin-1.29.60.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_sso_admin-1.29.60-py3-none-any.whl": [
+          "JlD7iDGmsMoyIeTN/mmbrpJ+47iJjGcPr0Kwx46LUsQ=",
           "py3"
         ]
       }
@@ -10566,6 +10590,38 @@
         ],
         "cargo_lambda-0.16.1-py3-none-win_amd64.whl": [
           "lk+MWleyioKjPHZztzabeH7yG/1d1TAmoK/OxMVCvq4=",
+          "py3"
+        ]
+      }
+    },
+    "0.17.0": {
+      "wheels": {
+        "cargo_lambda-0.17.0-py3-none-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "G9EPMMaHhZF+FPx3IqmRVy/XRFsPbNqPbWB8Df2qA3U=",
+          "py3"
+        ],
+        "cargo_lambda-0.17.0-py3-none-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "2Je5p7yES6/CCCVvbVPryAh8hLy67aiZu0te+qsYC/4=",
+          "py3"
+        ],
+        "cargo_lambda-0.17.0-py3-none-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "k6RjNNrDEMwKWtJJ59r76EylfuNe4+r1tXawWbgaP3M=",
+          "py3"
+        ],
+        "cargo_lambda-0.17.0-py3-none-manylinux_2_5_i686.manylinux1_i686.whl": [
+          "k4RLL91nlAZxjEKgTHivH2OaEOt7mrOvzMkZ9T9uQ0I=",
+          "py3"
+        ],
+        "cargo_lambda-0.17.0-py3-none-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "Ug4DrrIJJX58/MbZFQfh/fMCwThyA2gdz2LZjZXugIU=",
+          "py3"
+        ],
+        "cargo_lambda-0.17.0-py3-none-win32.whl": [
+          "Mv4w83UJDgyF8TJdiGLxiNplvIaUewqjNU+8NIL9GxE=",
+          "py3"
+        ],
+        "cargo_lambda-0.17.0-py3-none-win_amd64.whl": [
+          "GSXaN4kZCio7rygs01LZWS+uQbZrfUWRUq/ruBgU3VU=",
           "py3"
         ]
       }
@@ -16944,6 +17000,32 @@
       "wheels": {
         "colorwheel-1.0.0-py3-none-any.whl": [
           "QWuTNwqJ7zPoPYBkgsCk85Gv7KaWgYVcVxuLRzzrMjE=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "com.castsoftware.uc.oneclick": {
+    "0.1.0": {
+      "sdist": [
+        "xZge+5Kikr6p7YUgAFVhhsEeYBHxpcedZYhOEh+N9Mo=",
+        "com.castsoftware.uc.oneclick-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "com.castsoftware.uc.oneclick-0.1.0-py3-none-any.whl": [
+          "CNNmy0Rk1fALJGk/Q+jV+ZOhMRsxVl/RAhJbbt4cB7c=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "1lNmsRadQR/81Qtv3W/eYsh6dZfhZ2BPb9ZSVESE/9M=",
+        "com.castsoftware.uc.oneclick-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "com.castsoftware.uc.oneclick-0.1.1-py3-none-any.whl": [
+          "Hep9/4yVKFyz3XSRyBnxQXJhzgjXl6qf4PFrOG2R9iw=",
           "py3"
         ]
       }
@@ -97439,6 +97521,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.4": {
+      "sdist": [
+        "Eq+yNcq6ILY6/no0kyCoMuNsyv1lVVM7fAub4FqpUsE=",
+        "post_orm-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "post_orm-0.0.4-py3-none-any.whl": [
+          "+N33hO54BHXXiXmwjqVeaaiaAg00WJ98lq9sJPYZ3JY=",
+          "py3"
+        ]
+      }
     }
   },
   "postgres-database-utils": {
@@ -125617,6 +125711,26 @@
           "py36"
         ]
       }
+    },
+    "1.4.1": {
+      "wheels": {
+        "solace_pubsubplus-1.4.1-py36-none-macosx_10_15_x86_64.whl": [
+          "CYydeW3+VM71XmnC35RQ38a+45iJszALIdR9xSsq2g0=",
+          "py36"
+        ],
+        "solace_pubsubplus-1.4.1-py36-none-manylinux_2_12_x86_64.whl": [
+          "GxlcVlpy5rVLaT8kwAst9My4eWWHhErgfmUxmdn1vkw=",
+          "py36"
+        ],
+        "solace_pubsubplus-1.4.1-py36-none-win32.whl": [
+          "Sg/X7IF4zRSOpeJkqbgvGuzpNA8CDs+2ruvsKDvlMk4=",
+          "py36"
+        ],
+        "solace_pubsubplus-1.4.1-py36-none-win_amd64.whl": [
+          "PPly+ZBKUmefb9+Jo2SWULyI0VDZtvkvkq2zgoUGBB4=",
+          "py36"
+        ]
+      }
     }
   },
   "solcast": {
@@ -151488,6 +151602,18 @@
       "wheels": {
         "weather_provider_api-2.34.16-py3-none-any.whl": [
           "gSlYmJkdlBqKkZmkdOHALAKG3dC7c0/vgFqs8A9CKN0=",
+          "py3"
+        ]
+      }
+    },
+    "2.35.17": {
+      "sdist": [
+        "gnitzKKUE1toyjvyvtk/1a20PApnFX3jw6pJhKA802I=",
+        "weather_provider_api-2.35.17.tar.gz"
+      ],
+      "wheels": {
+        "weather_provider_api-2.35.17-py3-none-any.whl": [
+          "oAqtH4nzHQsekyr/KmuPwb35XlSBHAQwklC6He4jrlI=",
           "py3"
         ]
       }

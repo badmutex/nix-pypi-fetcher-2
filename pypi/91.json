@@ -58337,6 +58337,18 @@
         "ct03siINOi1IFvE45YzUtbT64JvaXomGqTbdgRJ0urg=",
         "jetson-stats-4.1.0.tar.gz"
       ]
+    },
+    "4.1.1": {
+      "sdist": [
+        "NXdSTBoJZ/Evo9JHWIsae0TpK+E6uH4oqNLdb7MbWgE=",
+        "jetson-stats-4.1.1.tar.gz"
+      ]
+    },
+    "4.1.2": {
+      "sdist": [
+        "86t9PvIxtBHhJu6X9+jLhT7sNm7YEvTNwJ1NiZLPeq8=",
+        "jetson-stats-4.1.2.tar.gz"
+      ]
     }
   },
   "jgf": {
@@ -96392,8 +96404,16 @@
           "fPXymThFNL6vFIhBfQMPyRJLRt9S8KPcoSmqrFhPc1E=",
           "cp310"
         ],
+        "pciw.py-0.9.3-cp310-none-win_amd64.whl": [
+          "cfthpSqSogpvHvDxPSgNfCWPGVJq1a1LS+Ci29iTrDQ=",
+          "cp310"
+        ],
         "pciw.py-0.9.3-cp39-none-manylinux1_x86_64.whl": [
           "0jq1HpCv+RTOpggkOE3lkGokUnAGwQZmja6MFm05w9c=",
+          "cp39"
+        ],
+        "pciw.py-0.9.3-cp39-none-win_amd64.whl": [
+          "MpHja0NqTrUml9Uk3AWtpfOiUFkRGaWR2DlVkbyV8Jw=",
           "cp39"
         ],
         "pciw.py-0.9.3-py310-none-win_amd64.whl": [
@@ -139346,6 +139366,18 @@
       "wheels": {
         "tencentcloud_sdk_python_mps-3.0.818-py2.py3-none-any.whl": [
           "pPIssZkOoPrG6Rfy8syXbq5hUD+mAqeI94DxjXN4KsY=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.819": {
+      "sdist": [
+        "BeM6bizcQYPfePXGnX9BPobZ7V28VSCwGOGcEVe0khc=",
+        "tencentcloud-sdk-python-mps-3.0.819.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_mps-3.0.819-py2.py3-none-any.whl": [
+          "ydcuOikeUYtifRdKOJUNzASifM1tpXhNc2jTpBo26f8=",
           "py2.py3"
         ]
       }

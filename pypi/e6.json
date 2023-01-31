@@ -10332,6 +10332,18 @@
         ]
       }
     },
+    "2.0.84": {
+      "sdist": [
+        "2zJ/n/AmIqGQqzjDFkNeHzO1eTRSCzTgiO76Iqg5Shg=",
+        "aws-cdk.lambda-layer-kubectl-v24-2.0.84.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.lambda_layer_kubectl_v24-2.0.84-py3-none-any.whl": [
+          "obldvDpSZTYD7mYgIuzKoKsrFZYafDfrX3iWQTU/jVw=",
+          "py3"
+        ]
+      }
+    },
     "2.0.9": {
       "sdist": [
         "bq3LOtbhBLIHqSJB4YVb1Y9A9XNQDEMHmrRocWXsSjg=",
@@ -12983,6 +12995,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.60": {
+      "sdist": [
+        "ARtqCpZyQnvkoCBRbMrwxml1Ek8vbkdpyuJeMtqxDHY=",
+        "botocore-a-la-carte-codeartifact-1.29.60.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_codeartifact-1.29.60-py3-none-any.whl": [
+          "RlLXpVBYmGiTF/BN23J3uur07I5J5t6oxMheVEopHMc=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-sagemaker-edge": {
@@ -13198,6 +13222,18 @@
       "wheels": {
         "botocore_a_la_carte_sagemaker_edge-1.29.59-py3-none-any.whl": [
           "APB2QdC+pCK59dxaLrBgAeQo+rg4t3XIbpBqRC+1hMg=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.60": {
+      "sdist": [
+        "+pRQPPM5Yt1t/lGKEgpcDvMVjPm3Slj6GQGMCukck9w=",
+        "botocore-a-la-carte-sagemaker-edge-1.29.60.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_sagemaker_edge-1.29.60-py3-none-any.whl": [
+          "VK7e6VxM/I5t5zE2SnepYZdkY8lm5U6Qr+SMkvRjXv4=",
           "py3"
         ]
       }
@@ -72005,6 +72041,18 @@
           "py3"
         ]
       }
+    },
+    "0.8.0": {
+      "sdist": [
+        "uPUdwnZ0N6PuRkjMZbue3HqogW5N5I5Dp4wJbAtMyow=",
+        "kpops-0.8.0.tar.gz"
+      ],
+      "wheels": {
+        "kpops-0.8.0-py3-none-any.whl": [
+          "N6kMDz4cjn6RFmMJ8RTncn9HpYGkU5OTnHm2WWjw3vU=",
+          "py3"
+        ]
+      }
     }
   },
   "krunker-free-kr-50-no-human-verification-2022-v-4343": {
@@ -79400,6 +79448,18 @@
       "wheels": {
         "metaerg-2.3.14-py3-none-any.whl": [
           "p9ULRmxAGqwtvDrPfJkrEnuFNZVkEP8/8EWQK1sYtvA=",
+          "py3"
+        ]
+      }
+    },
+    "2.3.15": {
+      "sdist": [
+        "Yxt7jqm3eQWQYQNSzd1rWT3zhIW6wzb/XJS8cKjY+Vg=",
+        "metaerg-2.3.15.tar.gz"
+      ],
+      "wheels": {
+        "metaerg-2.3.15-py3-none-any.whl": [
+          "ktWSa33xrZr1+v7T/EV+qXPar1AbmlncQGgdDU8aCdw=",
           "py3"
         ]
       }
@@ -89996,6 +90056,14 @@
       "sdist": [
         "fQbnRmLVSBX+Q1gmmjqSwIEo1W7pDuozwDCaqHdXAZg=",
         "neatmartinet-0.2.6.tar.gz"
+      ]
+    }
+  },
+  "nengo-edge": {
+    "23.1.31": {
+      "sdist": [
+        "ILpmKP82P2ynFvytSboTxvMuhpoY1RawdqZwQ47H7eM=",
+        "nengo-edge-23.1.31.tar.gz"
       ]
     }
   },
@@ -151600,6 +151668,12 @@
       "sdist": [
         "B3pRc1gDqQAoR25I0A9ocgTH2zvyWv/VTYD6NIfGVZw=",
         "voicegain-speech-1.75.2.tar.gz"
+      ]
+    },
+    "1.76.0": {
+      "sdist": [
+        "l1ZgKsmx+VatepZLrN73p15492wZqMiefLjnVTdSD4g=",
+        "voicegain-speech-1.76.0.tar.gz"
       ]
     }
   },

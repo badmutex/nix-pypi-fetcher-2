@@ -4211,6 +4211,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.1": {
+      "sdist": [
+        "YnubpHbFmAbtJ8Rd7XHhAIsNJOUmbwdzOyC8WaFs0yo=",
+        "ambition-utils-3.0.1.tar.gz"
+      ],
+      "wheels": {
+        "ambition_utils-3.0.1-py2.py3-none-any.whl": [
+          "SyVxVH5meq1wB293/Kf6CwBEe8hEv3IJrm2kHFSS1lc=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "amount-in-words": {
@@ -16908,6 +16920,18 @@
         ]
       }
     },
+    "0.11.0": {
+      "sdist": [
+        "NQpK01R3fhTkeS0mGoqZ6C66aDaWBIMU+MMIQ7dOEeo=",
+        "biomass-0.11.0.tar.gz"
+      ],
+      "wheels": {
+        "biomass-0.11.0-py3-none-any.whl": [
+          "fhYLU0S5MaPnAFkeVpe+aLUB/hd5hgWMU3cwKspKCy0=",
+          "py3"
+        ]
+      }
+    },
     "0.2.2": {
       "sdist": [
         "oyK0hhLnYuSYDkK/EI1t2qkRzRSqGjGvktaJHyke8E8=",
@@ -20561,6 +20585,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.60": {
+      "sdist": [
+        "da9optb7c8faw9uZTETpsCsu6iy1CntG5H1A/evyr0k=",
+        "botocore-a-la-carte-dms-1.29.60.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_dms-1.29.60-py3-none-any.whl": [
+          "njNLxydO39DSkdgu9O9aTNq06ZNpznGVHfjFt8bzrLM=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-efs": {
@@ -20776,6 +20812,18 @@
       "wheels": {
         "botocore_a_la_carte_efs-1.29.59-py3-none-any.whl": [
           "9DdI7s3DVO+GPMsfhHwYqNPhvgOYR3JeJ8oXAD/hSGs=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.60": {
+      "sdist": [
+        "KaS9Uh4E4scYs9OY5mJwpVjctN1RWqIPYVHtPfspNFs=",
+        "botocore-a-la-carte-efs-1.29.60.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_efs-1.29.60-py3-none-any.whl": [
+          "Y1KfEgYzZeXeXGGhzqSD8x6Z8huO+xLjvYV6pY4zTwA=",
           "py3"
         ]
       }
@@ -30664,6 +30712,50 @@
         ],
         "cumm_cu118-0.4.5-cp39-cp39-win_amd64.whl": [
           "cI9dKj7W9QfHBvA/sVugIJ4tiHH1fP+WxgN+5qBBQX0=",
+          "cp39"
+        ]
+      }
+    },
+    "0.4.6": {
+      "wheels": {
+        "cumm_cu118-0.4.6-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "HQg/SNtfeX6220O8oFldCSTzVLqAnAQCs5iSN8GYpl4=",
+          "cp310"
+        ],
+        "cumm_cu118-0.4.6-cp310-cp310-win_amd64.whl": [
+          "wxTXOviv6Of5bAgkdMWJb53P1875eUFQqS9eVmWMI6Q=",
+          "cp310"
+        ],
+        "cumm_cu118-0.4.6-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "6kbB22eKr+vm6ntZYi/zlUaVJiejO86kAsLSgr1402c=",
+          "cp311"
+        ],
+        "cumm_cu118-0.4.6-cp311-cp311-win_amd64.whl": [
+          "wMsAabenbAFKKe914CHfYHycNRtfyCZVy594EyJ3YtA=",
+          "cp311"
+        ],
+        "cumm_cu118-0.4.6-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "pdz0kzBxnIigJZnlCKkHtNo+MfLXGfOqk+RxTvODFvk=",
+          "cp37"
+        ],
+        "cumm_cu118-0.4.6-cp37-cp37m-win_amd64.whl": [
+          "501+TzOXpHPO8MbsIsmlJyhg620V5kFpTKnnkzQ44F0=",
+          "cp37"
+        ],
+        "cumm_cu118-0.4.6-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "0tWrVS36m58A/7W8B/Y4//cl26Oumb8vvuhafW97VOc=",
+          "cp38"
+        ],
+        "cumm_cu118-0.4.6-cp38-cp38-win_amd64.whl": [
+          "K++eCrrTuDOsGXDsWX1LUjw2OB/wT5Hx+NGeMEREyHU=",
+          "cp38"
+        ],
+        "cumm_cu118-0.4.6-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "WspWNb9x+i3RezDPxbV3llJ36vAN8bWC09PPNcpbg6s=",
+          "cp39"
+        ],
+        "cumm_cu118-0.4.6-cp39-cp39-win_amd64.whl": [
+          "aQVyhffx36oUn1fn9npmVzzaGyxMyzeCHjETRMACFWU=",
           "cp39"
         ]
       }
@@ -78447,6 +78539,14 @@
           "py3"
         ]
       }
+    },
+    "15.0.1.0.3.1": {
+      "wheels": {
+        "odoo_addon_account_banking_pain_base-15.0.1.0.3.1-py3-none-any.whl": [
+          "YAeNDBjF8fii1uwJ3Zaz3STU9K8fFlwqaQk0lOt0eAc=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo-addon-l10n-ro-account-anaf-sync": {
@@ -78828,6 +78928,14 @@
       "wheels": {
         "odoo11_addon_currency_rate_update-11.0.1.0.1.99.dev2-py2.py3-none-any.whl": [
           "pGP0vaA+HRltuMTNnq1vwJNbMqiAJqqTZIS9DLCe1cU=",
+          "py2.py3"
+        ]
+      }
+    },
+    "11.0.1.0.1.99.dev3": {
+      "wheels": {
+        "odoo11_addon_currency_rate_update-11.0.1.0.1.99.dev3-py2.py3-none-any.whl": [
+          "6Od4PMdCf8kwTNxHNpZ1xuHlQeW6xh/K7Wt1X0kUm2U=",
           "py2.py3"
         ]
       }
@@ -79704,6 +79812,14 @@
       "wheels": {
         "odoo14_addon_account_fiscal_month-14.0.1.0.1.dev2-py3-none-any.whl": [
           "Xr9qtn9sgz2Pv88PNTQANFuBD0pVN/HBMWhwlRG3p4Q=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.1.0.1.dev3": {
+      "wheels": {
+        "odoo14_addon_account_fiscal_month-14.0.1.0.1.dev3-py3-none-any.whl": [
+          "18HA55eZvDqC+bX/Jt9FYeTUPOhzFqCa3FWORh8T6vg=",
           "py3"
         ]
       }
@@ -125319,6 +125435,12 @@
         "TJDBHkPY7Nq1f4QzByTDO1JnK/J7xmAZb6IVS5JIkxg=",
         "svgcheck-0.6.2.tar.gz"
       ]
+    },
+    "0.7.0": {
+      "sdist": [
+        "X1SFESaNsHZh60k0xxZq9EuPSvtvXH7VI4d4XxyLU3M=",
+        "svgcheck-0.7.0.tar.gz"
+      ]
     }
   },
   "swat-em": {
@@ -126636,6 +126758,14 @@
       "wheels": {
         "telelog-0.1.1-py3-none-any.whl": [
           "7mqvE88gI2ScD4ll1o5uvhD3I2oehpAsq32RRS8LWE8=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "wheels": {
+        "telelog-0.1.2-py3-none-any.whl": [
+          "gkJAqiAuLnxhvxtJrHXGCk/sRIu3PSjYPlAP8XPU3Ow=",
           "py3"
         ]
       }

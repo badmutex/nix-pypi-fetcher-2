@@ -10983,6 +10983,22 @@
           "py3"
         ]
       }
+    },
+    "2.3.0b20230131": {
+      "sdist": [
+        "KvxUXchO7edyNxZVzAWxV/TCSZnGzqX7+ok+v0Xe07w=",
+        "bigdl-dllib-spark3-2.3.0b20230131.tar.gz"
+      ],
+      "wheels": {
+        "bigdl_dllib_spark3-2.3.0b20230131-py3-none-macosx_10_11_x86_64.whl": [
+          "IhUk7tQa0hNhQ4EnHly+y6hK8MiDGrVrgX9UrHN3M64=",
+          "py3"
+        ],
+        "bigdl_dllib_spark3-2.3.0b20230131-py3-none-manylinux1_x86_64.whl": [
+          "GTvMY6CHNfRU+OCEvym5TKxOvUP0DI02HtaPp+lL6As=",
+          "py3"
+        ]
+      }
     }
   },
   "bigos": {
@@ -18184,6 +18200,42 @@
       "wheels": {
         "ckanext_query_dois-2.4.0-py3-none-any.whl": [
           "TeEnGoXniH5/02sXf5Ca+ZqnszJkf1yM5Wwnyowoe5A=",
+          "py3"
+        ]
+      }
+    },
+    "3.0.0": {
+      "sdist": [
+        "lUijmesVjByP8JG+oyEPjjqrVOY+YNSNruvAP5XlShs=",
+        "ckanext-query-dois-3.0.0.tar.gz"
+      ],
+      "wheels": {
+        "ckanext_query_dois-3.0.0-py3-none-any.whl": [
+          "wbpzLjI4IQCIFZwjm8A0smQfv6pmjYDAh+ML7lcpehw=",
+          "py3"
+        ]
+      }
+    },
+    "3.0.1": {
+      "sdist": [
+        "CNNlIfyNSvtBQHUe0t8BGiy3oO22naprPiq1Z7rLE/I=",
+        "ckanext-query-dois-3.0.1.tar.gz"
+      ],
+      "wheels": {
+        "ckanext_query_dois-3.0.1-py3-none-any.whl": [
+          "ebL73gKQM8sDueq/VjVi8tvGp9hdAwwPT88BWdX4ov8=",
+          "py3"
+        ]
+      }
+    },
+    "3.0.2": {
+      "sdist": [
+        "JwSntall80E0Leb9TGW9N5Su4PJNXpi/G0s/TF5WA+0=",
+        "ckanext-query-dois-3.0.2.tar.gz"
+      ],
+      "wheels": {
+        "ckanext_query_dois-3.0.2-py3-none-any.whl": [
+          "vMwRl8GjoAnM6fxbck79WzPKo7RAcdcKAG00jQDMoYE=",
           "py3"
         ]
       }
@@ -94251,6 +94303,18 @@
           "py3"
         ]
       }
+    },
+    "0.2.0": {
+      "sdist": [
+        "YQzeuwqHz5QjpmJOqDUIkjn2TQGGoL6A10x+d9vApGM=",
+        "nonebot_plugin_boardgame-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "nonebot_plugin_boardgame-0.2.0-py3-none-any.whl": [
+          "y11c4+dmJfw5MK63EwZdCfLBsL+k1uPPwLDm+ByHYHQ=",
+          "py3"
+        ]
+      }
     }
   },
   "nonebot-plugin-openai": {
@@ -95298,6 +95362,18 @@
       "wheels": {
         "ob_metaflow-2.7.19.7-py2.py3-none-any.whl": [
           "P18cSywfwT6qlnbIzgYgrXCcLaATVLAky9EWHAd4aEc=",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.7.21.1": {
+      "sdist": [
+        "FpTwHZXWLy5qVfRK64v1h3tHeqrnph6tgRLbsbzgULs=",
+        "ob-metaflow-2.7.21.1.tar.gz"
+      ],
+      "wheels": {
+        "ob_metaflow-2.7.21.1-py2.py3-none-any.whl": [
+          "QaXixV+krXKdKH7WKsXhfmdDehGLEQj6cqXj7Y5Il10=",
           "py2.py3"
         ]
       }
@@ -99392,6 +99468,18 @@
         ]
       }
     },
+    "0.13.2.0": {
+      "sdist": [
+        "PVIyRhc/s2/dRXOLU/481CbKbNSdhB6O5gkbz6BJg0M=",
+        "openmetadata-ingestion-0.13.2.0.tar.gz"
+      ],
+      "wheels": {
+        "openmetadata_ingestion-0.13.2.0-py3-none-any.whl": [
+          "rcoN1OZwE4cJKBYLiMCAQFW7V2Mqz9ibkLzHw6b0vSA=",
+          "py3"
+        ]
+      }
+    },
     "0.13.2.0b0": {
       "sdist": [
         "7aNlUnmMTkBV8RZ5jCwf7ib5xBxMBghWGyu173Jc1jQ=",
@@ -99400,6 +99488,18 @@
       "wheels": {
         "openmetadata_ingestion-0.13.2.0b0-py3-none-any.whl": [
           "Fo9Fcq0lXyP7+HVixMYMk6DjCruG2469IEZJXRnPgA8=",
+          "py3"
+        ]
+      }
+    },
+    "0.13.2.1": {
+      "sdist": [
+        "oOity2Ez09uBYq42LPqsASzNwU8dKN+QOwz57IL0iUQ=",
+        "openmetadata-ingestion-0.13.2.1.tar.gz"
+      ],
+      "wheels": {
+        "openmetadata_ingestion-0.13.2.1-py3-none-any.whl": [
+          "RGj9GeoFMg5+omEts2pMTaU6zSGQzWwcbjUsqbAutQ0=",
           "py3"
         ]
       }
@@ -102318,6 +102418,12 @@
       "sdist": [
         "7auQYUglRbkBUQ+LxT8VBJ34HZgSa2TJyZ970X0ZEBk=",
         "pandora-1.2.2.tar.gz"
+      ]
+    },
+    "1.3.0": {
+      "sdist": [
+        "o6zinp1evbhNTqsGK/F9y5hBEwzBn0ybVMF2BwlQGwo=",
+        "pandora-1.3.0.tar.gz"
       ]
     }
   },
@@ -113310,6 +113416,18 @@
       "wheels": {
         "py_lav-1.3.7-py3-none-any.whl": [
           "94GJ7oxFU/Kl4JJPw2HSrf9XSN8tVNJ0w97wa3+HbpI=",
+          "py3"
+        ]
+      }
+    },
+    "1.3.8": {
+      "sdist": [
+        "7mNnlAeh0za2Pn5lp4BvpYYqySxiLPBtclWwYM53qJk=",
+        "py_lav-1.3.8.tar.gz"
+      ],
+      "wheels": {
+        "py_lav-1.3.8-py3-none-any.whl": [
+          "nd/bqb3NBtVP7sL2KE0ziSk9c3HQoGiwmQrVdXlEZcA=",
           "py3"
         ]
       }
@@ -142490,6 +142608,18 @@
         ]
       }
     },
+    "0.0.66": {
+      "sdist": [
+        "zxJJIM76ULXNAJ1HSFyakYtl9syEvnnTLp2zj/nu1UE=",
+        "syngen-0.0.66.tar.gz"
+      ],
+      "wheels": {
+        "syngen-0.0.66-py3-none-any.whl": [
+          "wo4nzGlVGzwmx3XLR8ikrgtoiJ3rPMm5CzCcFXv9DR0=",
+          "py3"
+        ]
+      }
+    },
     "0.0.7": {
       "sdist": [
         "iBFnfgQ6YLMrJQoFeLxno17Ll9BDXzxpGTxWnXB1FqM=",
@@ -142808,6 +142938,18 @@
       "wheels": {
         "taipy_rest-2.0.0-py3-none-any.whl": [
           "RUjGCJs7BOd6XtW/YdtGNGBEf0kIKUPpJaCoUE3eDUI=",
+          "py3"
+        ]
+      }
+    },
+    "2.1.0": {
+      "sdist": [
+        "RJjHmcz+xtsysm+JhUMJQtWmWEOWS7py0VZvPTR072Y=",
+        "taipy-rest-2.1.0.tar.gz"
+      ],
+      "wheels": {
+        "taipy_rest-2.1.0-py3-none-any.whl": [
+          "J/kAuz1XVaJjgco8xOvkRxyYw2P/mpNkoIoqY8U1OEc=",
           "py3"
         ]
       }

@@ -1885,6 +1885,12 @@
         "f/KmgiEa3PbYXe2FtHXrKQF20W63m80XhMMWr1K10MU=",
         "AEMET-OpenData-0.2.1.tar.gz"
       ]
+    },
+    "0.2.2": {
+      "sdist": [
+        "Ip/jHEAvCRSoBSSZ+magxHSVMy9kigAtaOUSrdoonkU=",
+        "AEMET-OpenData-0.2.2.tar.gz"
+      ]
     }
   },
   "affnine-client": {
@@ -28180,6 +28186,18 @@
       "wheels": {
         "dassana-0.7.2-py3-none-any.whl": [
           "hSdpaMIo0OeeytxAhHgjP0F5nyQzgebqYvhrpJH042o=",
+          "py3"
+        ]
+      }
+    },
+    "0.7.20": {
+      "sdist": [
+        "ZLZSJtZ0lJSqWCBsLIiycNd+bOXJNGja6y4Mx8Kle2I=",
+        "dassana-0.7.20.tar.gz"
+      ],
+      "wheels": {
+        "dassana-0.7.20-py3-none-any.whl": [
+          "kwM5hxQ6YI5LuswM7SzHSL+tzMMTt9JxGw3QyPr0OL0=",
           "py3"
         ]
       }
@@ -56808,6 +56826,90 @@
         ],
         "gurobipy-10.0.0b1-cp39-cp39-win_amd64.whl": [
           "kyXUrEgtfGaVjVHu27tAX6djhUxR+Na6J+qkK59OwAg=",
+          "cp39"
+        ]
+      }
+    },
+    "10.0.1": {
+      "wheels": {
+        "gurobipy-10.0.1-cp310-cp310-macosx_10_9_universal2.whl": [
+          "Hd+z40Cll5rqJ8O9fX/U8IckvRZ/euHbjzK6Woy8bus=",
+          "cp310"
+        ],
+        "gurobipy-10.0.1-cp310-cp310-manylinux2014_aarch64.whl": [
+          "Yj8ksdCb8sGCm4Fnafy1odCAEaLN3Ob2DzoiYb6lm6Y=",
+          "cp310"
+        ],
+        "gurobipy-10.0.1-cp310-cp310-manylinux2014_x86_64.whl": [
+          "rA2prgnGge9ZUote/yimDIWIJcWXbawvpqH1wLejJK0=",
+          "cp310"
+        ],
+        "gurobipy-10.0.1-cp310-cp310-win_amd64.whl": [
+          "aY/A2gOwp8oWTuwI6ITI4KrWZ5swUo/3ClzskWygULo=",
+          "cp310"
+        ],
+        "gurobipy-10.0.1-cp311-cp311-macosx_10_9_universal2.whl": [
+          "fQ+8rj+cyxUpZ5Fj0tLzHslA1ZN1EyIwdaLF5dhD1cQ=",
+          "cp311"
+        ],
+        "gurobipy-10.0.1-cp311-cp311-manylinux2014_aarch64.whl": [
+          "gj/xGSBWBb0FlMxgY0gBA8GAJsajfQb8JjeRFQB1g0k=",
+          "cp311"
+        ],
+        "gurobipy-10.0.1-cp311-cp311-manylinux2014_x86_64.whl": [
+          "bh5mlb5Dyswz/ago41+TFBicJtLIo46ZDYdCVEHKJJk=",
+          "cp311"
+        ],
+        "gurobipy-10.0.1-cp311-cp311-win_amd64.whl": [
+          "S4AgQPoNtYX0GJPtG9QiB4jM+gPlmyd6oe52yvrfwkk=",
+          "cp311"
+        ],
+        "gurobipy-10.0.1-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "geDLNPbV+bOvos3xc2uXdPzk1u4mAkP2Zfel7C/YHTM=",
+          "cp37"
+        ],
+        "gurobipy-10.0.1-cp37-cp37m-manylinux2014_aarch64.whl": [
+          "+Z3X4xpq2FUS6u2erZ98As7KOaLm0fQOplo58TNfocw=",
+          "cp37"
+        ],
+        "gurobipy-10.0.1-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "XAmKB2NxUqbrle7PBQzLdXWRmaF/Hz2oXLFxjtWbO/k=",
+          "cp37"
+        ],
+        "gurobipy-10.0.1-cp37-cp37m-win_amd64.whl": [
+          "LAHW/5u5LUCX6EHbYxj9UxmuCV9lOPfZsAZ8r/8XaYw=",
+          "cp37"
+        ],
+        "gurobipy-10.0.1-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "VkJiiQLFi5YKXxZxrr9refpgq8Q+AqXnUPs8pBzap30=",
+          "cp38"
+        ],
+        "gurobipy-10.0.1-cp38-cp38-manylinux2014_aarch64.whl": [
+          "HmJJm50FeYlmfkjPJ+T3WzOsgekKFwH59hK+gHIT2fs=",
+          "cp38"
+        ],
+        "gurobipy-10.0.1-cp38-cp38-manylinux2014_x86_64.whl": [
+          "jmawVk2fqHLaHcYFxkY6wLDd884QsOBS/pslbhbrVsg=",
+          "cp38"
+        ],
+        "gurobipy-10.0.1-cp38-cp38-win_amd64.whl": [
+          "wiZTQW9qfSClXl6HxTipf+jv79OzUBLJEavFTOv0p5Y=",
+          "cp38"
+        ],
+        "gurobipy-10.0.1-cp39-cp39-macosx_10_9_universal2.whl": [
+          "Kx19QrZ+mymgQF18PYU81b9B+hiE8WTpIe6RCY41KIc=",
+          "cp39"
+        ],
+        "gurobipy-10.0.1-cp39-cp39-manylinux2014_aarch64.whl": [
+          "ppqRWZzoxFfHj6h3Aq1mN1ZFkIhhEjqGZStT6pT78JA=",
+          "cp39"
+        ],
+        "gurobipy-10.0.1-cp39-cp39-manylinux2014_x86_64.whl": [
+          "0fkG6CehkKk05ODYS9jLhKevKMW8orfHZWGJnlDy9UE=",
+          "cp39"
+        ],
+        "gurobipy-10.0.1-cp39-cp39-win_amd64.whl": [
+          "jLcrtVenCmjclhnHMUHfxG9rYGCCUZoOuUBMjp6sBac=",
           "cp39"
         ]
       }
@@ -147525,6 +147627,18 @@
           "py3"
         ]
       }
+    },
+    "0.8.0rc1": {
+      "sdist": [
+        "RqHGwUy/70OvKNYSmEh4Rlsv3Aukcz5YgtpxbN00HqM=",
+        "turing-sdk-0.8.0rc1.tar.gz"
+      ],
+      "wheels": {
+        "turing_sdk-0.8.0rc1-py3-none-any.whl": [
+          "P4vHbxjk02UNrPap4lbd8pTeOTU3R1HBGm+9eZcnS5g=",
+          "py3"
+        ]
+      }
     }
   },
   "turkishfullnamegenerator": {
@@ -153318,6 +153432,18 @@
       "wheels": {
         "yang.connector-22.9-py3-none-any.whl": [
           "mbjCE0uvb4RTfTG8VWOipCFJ5+Pjnau2Pi07fBV8ztc=",
+          "py3"
+        ]
+      }
+    },
+    "23.1": {
+      "sdist": [
+        "CvYZXb7EUy87krTij2kqkSEgQ3mxFCwgb+C7sTKO3OQ=",
+        "yang.connector-23.1.tar.gz"
+      ],
+      "wheels": {
+        "yang.connector-23.1-py3-none-any.whl": [
+          "vklqzCVCLD4SSZSGnCCc+7+jE2XdBgeZhE2hzJMUkVg=",
           "py3"
         ]
       }

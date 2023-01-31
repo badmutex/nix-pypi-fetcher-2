@@ -14381,6 +14381,18 @@
           "py3"
         ]
       }
+    },
+    "2.3.0b20230131": {
+      "wheels": {
+        "bigdl_friesian_spark3-2.3.0b20230131-py3-none-macosx_10_11_x86_64.whl": [
+          "v4qnRIyySDFc3LOPSIK06v2iGrLOrlXKza0uvFwv6Gs=",
+          "py3"
+        ],
+        "bigdl_friesian_spark3-2.3.0b20230131-py3-none-manylinux1_x86_64.whl": [
+          "sXiqHIKSMPKGvX4C4bAkmfqT6xVCvjNI3az0Yd/oVWU=",
+          "py3"
+        ]
+      }
     }
   },
   "binsinfo": {
@@ -14923,6 +14935,18 @@
         "bioscrape-1.2.0-cp310-cp310-win_amd64.whl": [
           "+8APVjomDZNHklb7ugaMZ/LUZ3VXl6fQNNdgDVM4laQ=",
           "cp310"
+        ]
+      }
+    },
+    "1.2.1": {
+      "sdist": [
+        "SDX5R+Rid+kWyZU4wF07ki6EB2ukgjOEaMdmEfj89lY=",
+        "bioscrape-1.2.1.tar.gz"
+      ],
+      "wheels": {
+        "bioscrape-1.2.1-cp37-cp37m-win_amd64.whl": [
+          "mMW/J9iDD678aNafPDkDu/8jnkj5DhaZYhY3ITTHDDE=",
+          "cp37"
         ]
       }
     }
@@ -26110,6 +26134,12 @@
       "sdist": [
         "78rEfr8iMkg9NgFGZERWVMhlENH/6HecwIPam21OydE=",
         "dbt-flink-adapter-1.3.5.tar.gz"
+      ]
+    },
+    "1.3.6": {
+      "sdist": [
+        "l8uMye94jAmHE8QdA0p4L/oCa2SlU3magjmJo13c99A=",
+        "dbt-flink-adapter-1.3.6.tar.gz"
       ]
     }
   },
@@ -48212,6 +48242,18 @@
       "wheels": {
         "gardener_cicd_libs-1.1975.0-py3-none-any.whl": [
           "dcqH+r8gPTotH8rHJAhsxLDQefk7a4bA4m7FvV5OF6w=",
+          "py3"
+        ]
+      }
+    },
+    "1.1976.0": {
+      "sdist": [
+        "3euub2Q/a9qZU+oAoMayinU773Po5dU1JVeFPhWh+14=",
+        "gardener-cicd-libs-1.1976.0.tar.gz"
+      ],
+      "wheels": {
+        "gardener_cicd_libs-1.1976.0-py3-none-any.whl": [
+          "yXmzNUKM2pie/g6P/O4HBMl1hiMaSPid5XOrGHKbddw=",
           "py3"
         ]
       }
@@ -123607,6 +123649,12 @@
         "27kgdOthOz47ZWvv6wAUgIMGX89EKGCqD+0AlSZek8s=",
         "returnn-1.20230130.124628.tar.gz"
       ]
+    },
+    "1.20230131.163630": {
+      "sdist": [
+        "g4XsG9LpC5m3SnlnnLCw2WniSzp2Wxaj67uNOV7YwVM=",
+        "returnn-1.20230131.163630.tar.gz"
+      ]
     }
   },
   "reunion": {
@@ -135514,6 +135562,18 @@
       "wheels": {
         "tasksource-0.0.12-py3-none-any.whl": [
           "0pyL3amQauzCexBP8tb0zQiOHN0FfsYsehEYj4XV0y4=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.13": {
+      "sdist": [
+        "9Qz9n/wmQf9XtUPfGtDqiKtsDecnDNKIedYR68JosSI=",
+        "tasksource-0.0.13.tar.gz"
+      ],
+      "wheels": {
+        "tasksource-0.0.13-py3-none-any.whl": [
+          "mVRpLhGo1jC3rxRR/3v87pr7WDqZcolfbcKSko4iivM=",
           "py3"
         ]
       }

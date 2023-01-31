@@ -3880,30 +3880,42 @@
         ]
       }
     },
-    "2.6.2": {
+    "2.7.2": {
       "wheels": {
-        "anyon-2.6.2-cp310-cp310-macosx_10_9_universal2.whl": [
-          "pAPwf1BxdlQDrChHGh33/s681bhaneNoRk7yh+PvSKE=",
+        "anyon-2.7.2-cp310-cp310-macosx_10_9_universal2.whl": [
+          "/TauxACUdVsjTz12PugV4RjLiZfj33ezMeAZvInChHk=",
           "cp310"
         ],
-        "anyon-2.6.2-cp310-cp310-manylinux1_x86_64.whl": [
-          "fs6wky8/f/XW+j/fYdTSHZ+rb5XoOkTvRmWpRGvKmBQ=",
+        "anyon-2.7.2-cp310-cp310-manylinux1_x86_64.whl": [
+          "cw+kVFCEVpPetSp8Kbf4TU8WMPoUMPvDCnv+pl1DcHE=",
           "cp310"
         ],
-        "anyon-2.6.2-cp310-cp310-win_amd64.whl": [
-          "RcY2lJSMeG+oOSyOgAlXU7l9xcDF7g3L5Q5CJuRV7LE=",
+        "anyon-2.7.2-cp310-cp310-win_amd64.whl": [
+          "aIhUMJcmkqzNmMnnuEULsFf8FlBfmeMhO6cAJVY5fM4=",
           "cp310"
         ],
-        "anyon-2.6.2-cp39-cp39-macosx_10_9_universal2.whl": [
-          "FraY7mBYOYIyUYSgPOZka7MFGVrhOddD7pJPJBfDqzk=",
+        "anyon-2.7.2-cp311-cp311-macosx_10_9_universal2.whl": [
+          "uqKCVs9RxaRKvKuZAQtUk2Qc7izhgk21i4RZR6hTjY0=",
+          "cp311"
+        ],
+        "anyon-2.7.2-cp311-cp311-manylinux1_x86_64.whl": [
+          "QATxhCRg6n9TpxYSsO3AKLFdSELZLC6sxWsbIkR0oT8=",
+          "cp311"
+        ],
+        "anyon-2.7.2-cp311-cp311-win_amd64.whl": [
+          "vrofsSW/h6G0ab+G4KSQwBVeSXCubE/pfGFvJhCcl74=",
+          "cp311"
+        ],
+        "anyon-2.7.2-cp39-cp39-macosx_10_9_universal2.whl": [
+          "SRTIQSyKIUm9jhRmbs8fD7PNFjd+/YW5aNizRebgQNI=",
           "cp39"
         ],
-        "anyon-2.6.2-cp39-cp39-manylinux1_x86_64.whl": [
-          "iacXsrXP9jkqB3JcRRCu/5m9sEnMpimQS4LGbzYEU5M=",
+        "anyon-2.7.2-cp39-cp39-manylinux1_x86_64.whl": [
+          "P8GPXJmo6z6ILD4qxGTzIm4hfNBphfc5fTbqGPDxCtU=",
           "cp39"
         ],
-        "anyon-2.6.2-cp39-cp39-win_amd64.whl": [
-          "0bpB6DgGKyLl53W1Fw2fJk/3+WNxhBcJwYfBpsOkQVM=",
+        "anyon-2.7.2-cp39-cp39-win_amd64.whl": [
+          "tvGLnAsdSJiqB+SwQH1FqpOz4/NOo4oK7PSyHCINjH4=",
           "cp39"
         ]
       }
@@ -70128,6 +70140,62 @@
         ],
         "maturin-0.14.11-py3-none-win_arm64.whl": [
           "6QQah/8Dw4Q/+GZ8yyqIqDCnELN0cLinYxcs4+lQPk8=",
+          "py3"
+        ]
+      }
+    },
+    "0.14.12": {
+      "sdist": [
+        "uPajnVOT+Dtfu5C8TZm0W2LpdJKTUYZAq6kQyEAxHFc=",
+        "maturin-0.14.12.tar.gz"
+      ],
+      "wheels": {
+        "maturin-0.14.12-py3-none-linux_armv6l.whl": [
+          "2viVyYcXC+6L84cG0wZ0O3sLulTwhwoAuj3Etmdzlv4=",
+          "py3"
+        ],
+        "maturin-0.14.12-py3-none-macosx_10_7_x86_64.whl": [
+          "orol/OkTJxy3ZdZW4s9GQKNVGQEwwZzuhWcq+ab5aDk=",
+          "py3"
+        ],
+        "maturin-0.14.12-py3-none-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "5cUZLsjrufjk5fJtLwIXH8+rP2ZrZikv4GgJgME3BrM=",
+          "py3"
+        ],
+        "maturin-0.14.12-py3-none-manylinux_2_12_i686.manylinux2010_i686.musllinux_1_1_i686.whl": [
+          "/UrAxVkfMHMqPdqxP50qbzLQ/kQk4/DDYSNWrZWsteU=",
+          "py3"
+        ],
+        "maturin-0.14.12-py3-none-manylinux_2_12_x86_64.manylinux2010_x86_64.musllinux_1_1_x86_64.whl": [
+          "P1VfsEK5T3SZXmczpkBvta/WYEgoYIlorr1KoZEYCi0=",
+          "py3"
+        ],
+        "maturin-0.14.12-py3-none-manylinux_2_17_aarch64.manylinux2014_aarch64.musllinux_1_1_aarch64.whl": [
+          "/Mdfp7+YMm75s+ZIuRB75q/bsMrE3YYfAECtaj1BCmk=",
+          "py3"
+        ],
+        "maturin-0.14.12-py3-none-manylinux_2_17_armv7l.manylinux2014_armv7l.musllinux_1_1_armv7l.whl": [
+          "v+mFQ7D3LBDcRq3RagnFVh1wKIeKG4RAqogN4KFvPrw=",
+          "py3"
+        ],
+        "maturin-0.14.12-py3-none-manylinux_2_17_ppc64le.manylinux2014_ppc64le.musllinux_1_1_ppc64le.whl": [
+          "WYmpKQPoajdCi06/HfRLCAI+jvtpX7VJ+dqwrJzFuuM=",
+          "py3"
+        ],
+        "maturin-0.14.12-py3-none-manylinux_2_17_s390x.manylinux2014_s390x.whl": [
+          "FqgRlq2pS8S27h32pPouLdOitRyd1B41YfWfeW/a2S8=",
+          "py3"
+        ],
+        "maturin-0.14.12-py3-none-win32.whl": [
+          "WvOoVFtmeT7QTbi7R1DnJy8XJDaa15KRLA576Cn54Is=",
+          "py3"
+        ],
+        "maturin-0.14.12-py3-none-win_amd64.whl": [
+          "eVwoSx7OfmvnIFFsoLDNrw7Io5nbV0L8n0XdTC5zL7o=",
+          "py3"
+        ],
+        "maturin-0.14.12-py3-none-win_arm64.whl": [
+          "vGOqW0cX8es3zqOdRQ6QvEBQBh3vjhWSKOxefANkgew=",
           "py3"
         ]
       }
@@ -143056,6 +143124,18 @@
       "wheels": {
         "weni_rp_apps-2.1.2a11-py3-none-any.whl": [
           "gZqBrhhQ0DCD/yUCcpDcxf0ETRZmQ0mCcbzo76b5TlM=",
+          "py3"
+        ]
+      }
+    },
+    "2.1.2a12": {
+      "sdist": [
+        "2z2UTmvyc7iVKz8YyWYRV+xoEzsgqouTkRop4WiYhyY=",
+        "weni_rp_apps-2.1.2a12.tar.gz"
+      ],
+      "wheels": {
+        "weni_rp_apps-2.1.2a12-py3-none-any.whl": [
+          "WxT4S3Ueu8vGRiJfnMoc2MzM7e1FQ28JP5cejlJnJQ4=",
           "py3"
         ]
       }

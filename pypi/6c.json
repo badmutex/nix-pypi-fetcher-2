@@ -3408,6 +3408,18 @@
         ]
       }
     },
+    "103.10": {
+      "sdist": [
+        "+S98EqQU3OF1PmXTQ1XyDHy7JPEqGiAE0cUafNwFVMA=",
+        "always_updates-103.10.tar.gz"
+      ],
+      "wheels": {
+        "always_updates-103.10-py3-none-any.whl": [
+          "OHJc35dLrqGWp5mwfawC9/lSqUGBf9VN2fmhAA45bck=",
+          "py3"
+        ]
+      }
+    },
     "103.2": {
       "sdist": [
         "BJdE+JoFTM1/oRSxVvtB9vosZbaQLSAfz0uLTv1yf7E=",
@@ -3464,6 +3476,42 @@
       "wheels": {
         "always_updates-103.6-py3-none-any.whl": [
           "bAe/gvM8X8f8pWrwZLMUNpVu4trCTOQz5fkIAjToFKk=",
+          "py3"
+        ]
+      }
+    },
+    "103.7": {
+      "sdist": [
+        "yc09K2OGnfLqLPzk1wfFF5gV3oxnLo0U9Y3fxKIuPZA=",
+        "always_updates-103.7.tar.gz"
+      ],
+      "wheels": {
+        "always_updates-103.7-py3-none-any.whl": [
+          "E8x8IRErtiwpmnvsZzelorOkOVFLQZ0F6CDDhZiel1w=",
+          "py3"
+        ]
+      }
+    },
+    "103.8": {
+      "sdist": [
+        "6fDufr3nPmhPHi/xwMO8Zt28M2ByPxR0r1HUEa3V3jY=",
+        "always_updates-103.8.tar.gz"
+      ],
+      "wheels": {
+        "always_updates-103.8-py3-none-any.whl": [
+          "oNKI+ciSINIDOcdTwVqYasHloX5rZ1M07Rk2bdGTT1c=",
+          "py3"
+        ]
+      }
+    },
+    "103.9": {
+      "sdist": [
+        "dUGyxlq/GYrJa+hMVMH1bLDQfcL8IzET3d6uBv7hjdo=",
+        "always_updates-103.9.tar.gz"
+      ],
+      "wheels": {
+        "always_updates-103.9-py3-none-any.whl": [
+          "0pwT8gH7i0y7oV0ouu99MgGJQqUtv6AqfUZ+Sqn5n8c=",
           "py3"
         ]
       }
@@ -58810,6 +58858,54 @@
         ]
       }
     },
+    "0.12.0": {
+      "sdist": [
+        "b7NqnY0+ffNQ7Hd/KobHqE0/aqoxVNIB/oQHrAUN81E=",
+        "heatshrink2-0.12.0.tar.gz"
+      ],
+      "wheels": {
+        "heatshrink2-0.12.0-cp310-cp310-win32.whl": [
+          "G25zW+H89CLBFCc34eSW4kTrtpX+GHCl6lxFe2diDbM=",
+          "cp310"
+        ],
+        "heatshrink2-0.12.0-cp310-cp310-win_amd64.whl": [
+          "p4cCIO3yMFP/lMw8AgdEmJ957Y40kdlXG2WRW9DDWrU=",
+          "cp310"
+        ],
+        "heatshrink2-0.12.0-cp311-cp311-win32.whl": [
+          "8D+e5xZ4L/P8KCuAk6kvkgjYnGRy7Ag3KzfOegY+rf4=",
+          "cp311"
+        ],
+        "heatshrink2-0.12.0-cp311-cp311-win_amd64.whl": [
+          "mjclKBsBHPgPFixczw7B+GUxAPTxhjuJvmqRGZTZQOA=",
+          "cp311"
+        ],
+        "heatshrink2-0.12.0-cp37-cp37m-win32.whl": [
+          "pautoZBqWWR9g+VyIMCbRROpvSvgCkY069UxEu2nNY0=",
+          "cp37"
+        ],
+        "heatshrink2-0.12.0-cp37-cp37m-win_amd64.whl": [
+          "zyJzhMVA91J7f3uPwVE3SMt0eEe/jnTMjuwGRU0VRgo=",
+          "cp37"
+        ],
+        "heatshrink2-0.12.0-cp38-cp38-win32.whl": [
+          "2VjwcSFH2CJNhpI/ZbeGehxepnzsW2pL3/SvS3JTbBs=",
+          "cp38"
+        ],
+        "heatshrink2-0.12.0-cp38-cp38-win_amd64.whl": [
+          "283CwJz+MKApwejmrKwuTofGvI+oBfcvCpSFaJzQQfM=",
+          "cp38"
+        ],
+        "heatshrink2-0.12.0-cp39-cp39-win32.whl": [
+          "uhnzrCMVu/ysdmN3AfriFFMV8TfKruQQuivY0ZIJ2/Y=",
+          "cp39"
+        ],
+        "heatshrink2-0.12.0-cp39-cp39-win_amd64.whl": [
+          "Cw9NCGwqzDyRclNyJTXklTGxqJIyRGrnxcNstTmN5Cc=",
+          "cp39"
+        ]
+      }
+    },
     "0.2.0": {
       "sdist": [
         "WFUE00x2UFn4P4VQ34UMjDYPNKhes7TxvM76UzbvZXg=",
@@ -113015,6 +113111,14 @@
       ]
     }
   },
+  "python-cryptapi": {
+    "1.0.1": {
+      "sdist": [
+        "c333+cC/1lZ7y56PEOfGXYmOak4u+e0HHmy10hUspT0=",
+        "python-cryptapi-1.0.1.tar.gz"
+      ]
+    }
+  },
   "python-ecore": {
     "0.1.0": {
       "sdist": [
@@ -116300,6 +116404,18 @@
       "sdist": [
         "5ouPex8+U6fzwyyjmzyOKdaKThJJ5xZa7POXa3eiSgc=",
         "qasem-0.1.10.tar.gz"
+      ]
+    },
+    "0.1.11": {
+      "sdist": [
+        "6LBe2TsJI3kalbbMLlE/yiAf/grbyURQ3HxNYGH/d3A=",
+        "qasem-0.1.11.tar.gz"
+      ]
+    },
+    "0.1.12": {
+      "sdist": [
+        "EN6+s0vWxh62c39MkrwApnQctj4HiPDB0DgFuLIZBDs=",
+        "qasem-0.1.12.tar.gz"
       ]
     },
     "0.1.2": {
@@ -149082,6 +149198,12 @@
       "sdist": [
         "l6mF4Azxc+7C0ITpDHvOIx2/IB5qZTPGrwmEAFYEOTU=",
         "volsite_postgres_common-0.1.1.tar.gz"
+      ]
+    },
+    "0.1.10": {
+      "sdist": [
+        "NS/xDi3GhNr2zkUpOuMPJU8PDBfNlnkrAlLeh6J8B4Q=",
+        "volsite_postgres_common-0.1.10.tar.gz"
       ]
     },
     "0.1.2": {

@@ -97699,6 +97699,20 @@
       }
     }
   },
+  "observable-variable": {
+    "0.0.0": {
+      "sdist": [
+        "v1ikLOhjzfrEPNrbnIuT2/63EnKcaYDRiuRx/ZW1IOQ=",
+        "observable_variable-0.0.0.tar.gz"
+      ],
+      "wheels": {
+        "observable_variable-0.0.0-py3-none-any.whl": [
+          "u7qpvSHJcFN3jqBAINQBIeTq6LCK+q/HuPXbl4SERks=",
+          "py3"
+        ]
+      }
+    }
+  },
   "oceanspy": {
     "0.0.1": {
       "sdist": [
@@ -97954,6 +97968,14 @@
       "wheels": {
         "odoo_addon_base_unece-16.0.1.0.0.5-py3-none-any.whl": [
           "JeCQ1VpiiLPxXhn/+TIerR+biXWg3vQR6LFj4N/RA8U=",
+          "py3"
+        ]
+      }
+    },
+    "16.0.1.0.0.6": {
+      "wheels": {
+        "odoo_addon_base_unece-16.0.1.0.0.6-py3-none-any.whl": [
+          "VwQrjSJagju8s2x9aWfrZTyaMgDHgUhnC+mq9LykvmE=",
           "py3"
         ]
       }
@@ -130969,6 +130991,38 @@
         "rollnw-0.1.dev0-cp39-cp39-win_amd64.whl": [
           "JEIdyr/c/GKVyk8sWAoj0T5cIWAKLA/OnOawc+zpXek=",
           "cp39"
+        ]
+      }
+    },
+    "0.11.dev0": {
+      "sdist": [
+        "vFFL4U//OqOGhYljrerZKhWVDazVunPNpoYNhz7ou7o=",
+        "rollnw-0.11.dev0.tar.gz"
+      ],
+      "wheels": {
+        "rollnw-0.11.dev0-cp310-cp310-macosx_10_15_x86_64.whl": [
+          "ft2WVESkWa5uGKd7K8yNvU5PErYMRY/nQV1V5ywXmXs=",
+          "cp310"
+        ],
+        "rollnw-0.11.dev0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Y/ZcltgmmBxjPto9LofV8L04BNrSCcwAmS9aZ7vwoDY=",
+          "cp310"
+        ],
+        "rollnw-0.11.dev0-cp310-cp310-win_amd64.whl": [
+          "Pp9QE4u2qaS1FiV6NOnxyHiOXQpmg20aySOGtDIpuzA=",
+          "cp310"
+        ],
+        "rollnw-0.11.dev0-cp311-cp311-macosx_10_15_x86_64.whl": [
+          "IdYVBowSGbCV5ai+/lGwPhMdZHfv6qEVOQZxFJuPF5Q=",
+          "cp311"
+        ],
+        "rollnw-0.11.dev0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "4xF+kyG2hoA8B5zgzvhu/Th4ro54bWUrx/idbggHd5A=",
+          "cp311"
+        ],
+        "rollnw-0.11.dev0-cp311-cp311-win_amd64.whl": [
+          "ccMA/sdZP4fMdJvi5Ujc9L4Wiq9vRTQVfLE+ZjeYJOk=",
+          "cp311"
         ]
       }
     },

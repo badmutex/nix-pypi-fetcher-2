@@ -11857,6 +11857,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.61": {
+      "sdist": [
+        "X0QW5bPd+YEzPCNs5LNpSiMz/0ERfn5NJ6afeLTlzlk=",
+        "botocore-a-la-carte-ec2-1.29.61.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_ec2-1.29.61-py3-none-any.whl": [
+          "1EYZqtRFPSGdJk6V97+vND1YkBaaDnqa8Sbi3LdgQtE=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-kinesis-video-webrtc-storage": {
@@ -12084,6 +12096,18 @@
       "wheels": {
         "botocore_a_la_carte_kinesis_video_webrtc_storage-1.29.60-py3-none-any.whl": [
           "uiobbRgcZoLpYXk5GHGbbY+Rd6JQ3cHl2o8F7TZnAKU=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.61": {
+      "sdist": [
+        "fPjZrSAS04lmF8AkxwJODxMT7NmIJAapojaLzdkRKW0=",
+        "botocore-a-la-carte-kinesis-video-webrtc-storage-1.29.61.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_kinesis_video_webrtc_storage-1.29.61-py3-none-any.whl": [
+          "vXk/2nwWdSATqGVkqL0BOS+hS1+dfauEV5Df1B72H78=",
           "py3"
         ]
       }
@@ -58196,6 +58220,18 @@
         ]
       }
     },
+    "26.1.0b1": {
+      "sdist": [
+        "xOEbF+ha62639tpD0q3kFnz6goRPtKp7ztW6dFA5nqQ=",
+        "kubernetes-26.1.0b1.tar.gz"
+      ],
+      "wheels": {
+        "kubernetes-26.1.0b1-py2.py3-none-any.whl": [
+          "qkpUek3jo9x0NI+F5Wsj/NQ7629v9UIa2/qVwv1oarc=",
+          "py2.py3"
+        ]
+      }
+    },
     "3.0.0": {
       "sdist": [
         "Cjb5d33yGMlZ6NdcDNg36j87Z9htltkHWclyorA7VjM=",
@@ -67030,6 +67066,12 @@
       "sdist": [
         "p67NTB6804r37UzJ7UPWtEPmCbgjo6pCjPLVv2DeKTo=",
         "localstack-ext-1.3.2.dev20230131154312.tar.gz"
+      ]
+    },
+    "1.3.2.dev20230131172947": {
+      "sdist": [
+        "Py1ebwIVsybMuBeVdOV1aO7xFylOfxMdvtLzUoaWIeo=",
+        "localstack-ext-1.3.2.dev20230131172947.tar.gz"
       ]
     }
   },
@@ -110849,6 +110891,18 @@
           "py3"
         ]
       }
+    },
+    "3.0.1": {
+      "sdist": [
+        "xq1zgGsr1S/6wepPWTaSNjtEOIkcFF8GFz8/naulaQA=",
+        "qctrl_client-3.0.1.tar.gz"
+      ],
+      "wheels": {
+        "qctrl_client-3.0.1-py3-none-any.whl": [
+          "q+q5apch0vrbHZxIRdiHt9gzolKhbP0dqfCYyyP9Yy0=",
+          "py3"
+        ]
+      }
     }
   },
   "qdafile": {
@@ -126540,6 +126594,14 @@
         ]
       }
     },
+    "5.0.0.dev757": {
+      "wheels": {
+        "stix_shifter_modules_sentinelone-5.0.0.dev757-py2.py3-none-any.whl": [
+          "IHwhRM970l8j37j9MgUXFdaMGlYmGl+wVgYUeQky//E=",
+          "py2.py3"
+        ]
+      }
+    },
     "5.0.1": {
       "wheels": {
         "stix_shifter_modules_sentinelone-5.0.1-py2.py3-none-any.whl": [
@@ -136104,6 +136166,18 @@
       "wheels": {
         "tencentcloud_sdk_python_tms-3.0.819-py2.py3-none-any.whl": [
           "FpXbbQULEKG797C5hWcLNlN/KEVJHVBMymvabvLpSQk=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.820": {
+      "sdist": [
+        "eAZuA55KwaaxSgXwN/jVI179UEUDjaJMZjGY7x2Eeww=",
+        "tencentcloud-sdk-python-tms-3.0.820.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_tms-3.0.820-py2.py3-none-any.whl": [
+          "Ei+xNpRc+yblmfMrgMQQX+lhYSMW2DAcHDu7Rtl46hE=",
           "py2.py3"
         ]
       }
@@ -146522,6 +146596,62 @@
         ],
         "xia_api_flask-0.1.1-cp39-none-win_amd64.whl": [
           "7QpCYPlOU4qDi07UU87CEhqVkm7vF9BLOU9JATwQbUI=",
+          "cp39"
+        ]
+      }
+    },
+    "0.1.2": {
+      "wheels": {
+        "xia_api_flask-0.1.2-cp310-none-macosx_11_0_x86_64.whl": [
+          "dT8E3MueC0WUwKbaLUt7l+rRP6SAFdyWJn+CxJyBapk=",
+          "cp310"
+        ],
+        "xia_api_flask-0.1.2-cp310-none-manylinux1_x86_64.whl": [
+          "LJyxOXggdZvNLPCvWUg6I4yHVL9C+aVfruKA4v7Gddo=",
+          "cp310"
+        ],
+        "xia_api_flask-0.1.2-cp310-none-win_amd64.whl": [
+          "Rq8ZXnfN7y7IcDViRY5G4s9dh/vpqobpnL9QfKdDyoM=",
+          "cp310"
+        ],
+        "xia_api_flask-0.1.2-cp39-none-macosx_11_0_x86_64.whl": [
+          "ep3TIGJP3WKTmNLCBUDPkgjuUUllH+4fFqhpPUT2K0E=",
+          "cp39"
+        ],
+        "xia_api_flask-0.1.2-cp39-none-manylinux1_x86_64.whl": [
+          "luCCT2ZeCKtERWSPPiJAIOtvM1OFI1rGf8n5P2XG6xQ=",
+          "cp39"
+        ],
+        "xia_api_flask-0.1.2-cp39-none-win_amd64.whl": [
+          "EtMJhj6ElS6zegLVmwDRgKnAcYJWHRzwyA+/35EEsFI=",
+          "cp39"
+        ]
+      }
+    },
+    "0.1.3": {
+      "wheels": {
+        "xia_api_flask-0.1.3-cp310-none-macosx_11_0_x86_64.whl": [
+          "FEeQnW9G7nctFYtGMTD2wQ4j6sWz3D+DymYBN+wDe/U=",
+          "cp310"
+        ],
+        "xia_api_flask-0.1.3-cp310-none-manylinux1_x86_64.whl": [
+          "stsjIu+UjwKB+Vvf9LnU3bs77lEJlnWVHy7HMeXaTSQ=",
+          "cp310"
+        ],
+        "xia_api_flask-0.1.3-cp310-none-win_amd64.whl": [
+          "SSJPJkQaBbUa4nmYqoNGr6wjHlpL6B09yP5Xofh6LBg=",
+          "cp310"
+        ],
+        "xia_api_flask-0.1.3-cp39-none-macosx_11_0_x86_64.whl": [
+          "xaoGz1uPelC93mKswz2SwNBWyaXGcyfdI3LKaxMAWIE=",
+          "cp39"
+        ],
+        "xia_api_flask-0.1.3-cp39-none-manylinux1_x86_64.whl": [
+          "wxB2q+RPe1qE0L+FilnH5OVavazt0bwvX/hNL0tJpwU=",
+          "cp39"
+        ],
+        "xia_api_flask-0.1.3-cp39-none-win_amd64.whl": [
+          "lgfbMDTubnUqdWYEGFlcBiw/dqLUxwgQqc4isVv3k9U=",
           "cp39"
         ]
       }

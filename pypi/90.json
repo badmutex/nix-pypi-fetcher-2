@@ -13007,6 +13007,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.61": {
+      "sdist": [
+        "W3NSQbtrNTJMGE2Ih49whOBbPNHDoLWIxWkQ4bNi+gU=",
+        "botocore-a-la-carte-cloudtrail-1.29.61.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_cloudtrail-1.29.61-py3-none-any.whl": [
+          "8hkewvQ+X0qIyCrl6eWCD0PGKuldhy8Rmytlx7bsJhQ=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-schemas": {
@@ -13234,6 +13246,18 @@
       "wheels": {
         "botocore_a_la_carte_schemas-1.29.60-py3-none-any.whl": [
           "Xi9FCz9pR648MNXFNy2/ENiJ2S/EQcusQTQVC6GG4hU=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.61": {
+      "sdist": [
+        "ulLin54/0W0Z/Z14CeFD29mVnF1vWElEmNiB4Aai3mE=",
+        "botocore-a-la-carte-schemas-1.29.61.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_schemas-1.29.61-py3-none-any.whl": [
+          "//QULCKIqfGJ1ZRqFiRDJE8An8jO9bfu6zl+sPnVpg4=",
           "py3"
         ]
       }
@@ -14738,6 +14762,18 @@
       "wheels": {
         "carbon_simulator-2.3-py3-none-any.whl": [
           "7SIIARIGBwfOw7jCbsdVhbmTDDX7GMkgCiBkpBJQo5U=",
+          "py3"
+        ]
+      }
+    },
+    "2.3.1": {
+      "sdist": [
+        "VEdmUN2p7pLmcSg4ukqXGYlD7zRzY4VdVvk1Ii+ZqHM=",
+        "carbon-simulator-2.3.1.tar.gz"
+      ],
+      "wheels": {
+        "carbon_simulator-2.3.1-py3-none-any.whl": [
+          "oO2Nrxi/948TgeAwuicD31W51YDgq2+4ATuwFbaCvSA=",
           "py3"
         ]
       }
@@ -27512,6 +27548,12 @@
       "sdist": [
         "umYt9IzyxTrrxw6MiewmufZgaDJunox6HXnxf9PwA6w=",
         "d-igloo-0.2.tar.gz"
+      ]
+    },
+    "1.0": {
+      "sdist": [
+        "wogS4UyYyTS8hASPi1LtkiYqCXtz92XEF3DeV3mD/OI=",
+        "d-igloo-1.0.tar.gz"
       ]
     }
   },
@@ -55715,6 +55757,20 @@
       }
     }
   },
+  "iniitu": {
+    "0.0.1": {
+      "sdist": [
+        "dGSB1OZgNTND3IMsEFCa75jPQSIjbpZhqTGmFdkB9Do=",
+        "iniitu-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "iniitu-0.0.1-py3-none-any.whl": [
+          "HjNPHpVN/H8f+bmvlfkAFL2M1up4iXCS5mQkz/V8ook=",
+          "py3"
+        ]
+      }
+    }
+  },
   "instantapi": {
     "1.0.1": {
       "sdist": [
@@ -68246,6 +68302,18 @@
       "wheels": {
         "large_image-1.19.4.dev22-py3-none-any.whl": [
           "B/ZW0h3QYe+3UBB1vfLe89c1WwAbfJxY+XxYrtP0N7g=",
+          "py3"
+        ]
+      }
+    },
+    "1.19.4.dev24": {
+      "sdist": [
+        "kioBinmPj3SJdINN7chQ0vmKRP+a0C48BwbfAmyv7Bk=",
+        "large-image-1.19.4.dev24.tar.gz"
+      ],
+      "wheels": {
+        "large_image-1.19.4.dev24-py3-none-any.whl": [
+          "fzy6a+2z8CBct/LlwVQIbfXAKd4LsfKI56aCYortzq4=",
           "py3"
         ]
       }
@@ -122877,6 +122945,14 @@
           "py3"
         ]
       }
+    },
+    "0.4.3": {
+      "wheels": {
+        "pyfvm-0.4.3-py3-none-any.whl": [
+          "y+CSbPJHWDMhyroJ6WG8PncLX6Norxjvcs3H9twnH1M=",
+          "py3"
+        ]
+      }
     }
   },
   "pygameguilib": {
@@ -126582,6 +126658,42 @@
         ],
         "pysimulators-1.2.2-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "Hd3nfOUYA9DuIy8L1atlOT/iozYq7hBh8I60WpRLat4=",
+          "cp39"
+        ]
+      }
+    },
+    "1.2.3": {
+      "sdist": [
+        "f3hz28j0QIlce2WY6gMDakdR9gM4utrqU2+daszcJCo=",
+        "pysimulators-1.2.3.tar.gz"
+      ],
+      "wheels": {
+        "pysimulators-1.2.3-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "bPNADyVgpeZe9GjHS33OD7dXpHQnT0mBEld9UVlu95Y=",
+          "cp310"
+        ],
+        "pysimulators-1.2.3-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "5UArnxte9Am5TvMPyBmlEbuFVGZGznxE5u6fISeMTRA=",
+          "cp310"
+        ],
+        "pysimulators-1.2.3-cp311-cp311-macosx_12_0_arm64.whl": [
+          "DECKxNzDaxq2DVwerRqzyRIXubZ/WZDqGZcA5POmaaA=",
+          "cp311"
+        ],
+        "pysimulators-1.2.3-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "8CtkjRuZY7c/VY6rUWUbXVgwTzvju9Wwix4WS6dzrow=",
+          "cp38"
+        ],
+        "pysimulators-1.2.3-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "6Zm4Sgh67L6PK0EjAbVET6GxEWn/DAIQpDyzzTq/lew=",
+          "cp38"
+        ],
+        "pysimulators-1.2.3-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "O/8kTeJ2rs/tY7Cw006Jn4xOnPVQwIl7L+6bCEYkvKI=",
+          "cp39"
+        ],
+        "pysimulators-1.2.3-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "+bs6tSOdt+N6Ef2h1MO7WNJ4Qm+lmdvHRxlGJ3ai53Q=",
           "cp39"
         ]
       }
@@ -160240,6 +160352,12 @@
       "sdist": [
         "YR3NPxHbDLEP0PAOeqtVdcORJQ/zNnJtyGRMDOm4JzE=",
         "wrfplot-0.3.0.tar.gz"
+      ]
+    },
+    "0.6.0": {
+      "sdist": [
+        "6aqWmAYBk/2ZxPgaEmxcESMdfn1Oybg46U9rLUkdyI8=",
+        "wrfplot-0.6.0.tar.gz"
       ]
     }
   },

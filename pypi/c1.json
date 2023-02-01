@@ -12711,6 +12711,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.61": {
+      "sdist": [
+        "j8N0a/ihbKzyZWhRl3BXI8+FxHhmlqPCw6IpDkMdIKk=",
+        "botocore-a-la-carte-gamesparks-1.29.61.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_gamesparks-1.29.61-py3-none-any.whl": [
+          "MAcsBLeR3LOc+/Ech1COaqo6hSYIEvGhAx9Muc8jiKk=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-ssm": {
@@ -12938,6 +12950,18 @@
       "wheels": {
         "botocore_a_la_carte_ssm-1.29.60-py3-none-any.whl": [
           "l+s9RwsHNYfnLSNtBrZy8mM4rJ8Y1pitY97vAg68q/Q=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.61": {
+      "sdist": [
+        "0xa0IuPvTMdLEWDEia1zgTb/rAxSHxHGursINvRQgAE=",
+        "botocore-a-la-carte-ssm-1.29.61.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_ssm-1.29.61-py3-none-any.whl": [
+          "x6dnk4emJ0CRW4vbjhKVKC9XOrlCHRQ/4rOU0xafMA8=",
           "py3"
         ]
       }
@@ -124703,6 +124727,20 @@
       }
     }
   },
+  "sealteamtest": {
+    "1.0": {
+      "sdist": [
+        "273+sK+HJIGMKvlLffq2hCOPlemcyifzqHKmdPQhxnc=",
+        "sealteamtest-1.0.tar.gz"
+      ],
+      "wheels": {
+        "sealteamtest-1.0-py3-none-any.whl": [
+          "wGxGeCgEO+HB5EaDBwWkFymXTKjeKjN+C57SiB1ACs8=",
+          "py3"
+        ]
+      }
+    }
+  },
   "searchlights": {
     "0.1.0": {
       "sdist": [
@@ -134126,6 +134164,14 @@
       "wheels": {
         "stix_shifter_utils-5.0.0.dev752-py2.py3-none-any.whl": [
           "Dlsvg53ax054iOYIQFgxOGcrqDuQr+kMWEF91xaXtsw=",
+          "py2.py3"
+        ]
+      }
+    },
+    "5.0.0.dev757": {
+      "wheels": {
+        "stix_shifter_utils-5.0.0.dev757-py2.py3-none-any.whl": [
+          "ncIcMZu+4njfTHcDfeQ9DubhiCDzGC8Rh+0ZqY5dBwc=",
           "py2.py3"
         ]
       }

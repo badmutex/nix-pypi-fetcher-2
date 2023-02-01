@@ -11624,6 +11624,18 @@
         ]
       }
     },
+    "1.191.0": {
+      "sdist": [
+        "BKzhzKSdWiaOhZkE/7qsDs6t8/F4MvcontXt8ftcwyI=",
+        "aws-cdk.aws-kinesis-1.191.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_kinesis-1.191.0-py3-none-any.whl": [
+          "kT3YWuyDAf+Lm89jQK3t5y0cGgzgQ9TKe3MNPSfFN6w=",
+          "py3"
+        ]
+      }
+    },
     "1.2.0": {
       "sdist": [
         "mL8YMiL4SZbp1e1G4T+3mmb7rnjE4v+L8bt4yj9gDVA=",
@@ -15794,6 +15806,18 @@
       "wheels": {
         "botocore_a_la_carte_dlm-1.29.60-py3-none-any.whl": [
           "35aeQMEwpnWaLZBXe8yCDAVDXSa+Qak8IzCxq/sgeBs=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.61": {
+      "sdist": [
+        "rEio9QmMRO6xEVx6uCx+tvyg2P+MAaQjBiAhCFgkHgQ=",
+        "botocore-a-la-carte-dlm-1.29.61.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_dlm-1.29.61-py3-none-any.whl": [
+          "8kysMObwQnjx4MH0OTnESe1TDAE7ILO13HUPl/7R0OU=",
           "py3"
         ]
       }
@@ -49651,6 +49675,18 @@
           "py3"
         ]
       }
+    },
+    "1.3.0.post2302": {
+      "sdist": [
+        "pBwvgHcnT5Xjh7SHvW77JvfFeW96VgtY35bMf2qZiBc=",
+        "ezyrb-1.3.0.post2302.tar.gz"
+      ],
+      "wheels": {
+        "ezyrb-1.3.0.post2302-py3-none-any.whl": [
+          "3rEMZ7Wycc60hrR6LbhuYdWo3tUQl2yy30AVQlbQG0s=",
+          "py3"
+        ]
+      }
     }
   },
   "f4ratk": {
@@ -68254,6 +68290,30 @@
         ]
       }
     },
+    "2.1.53": {
+      "sdist": [
+        "Px3sYmBo1RrbZ34qwXZTu0BWy3ARuqaxBlu0HFUbSnk=",
+        "kBmc-2.1.53.tar.gz"
+      ],
+      "wheels": {
+        "kBmc-2.1.53-py3-none-any.whl": [
+          "WivyJcFx1TCzX8L3pBaoFSkV9cC/Um7Jd9wjydF/bwI=",
+          "py3"
+        ]
+      }
+    },
+    "2.1.54": {
+      "sdist": [
+        "gzvm64wGZIpaS/zEgxsOwsadot7mB7It56nvFF3vPo8=",
+        "kBmc-2.1.54.tar.gz"
+      ],
+      "wheels": {
+        "kBmc-2.1.54-py3-none-any.whl": [
+          "9kvW1WbFQwnaxFLQlIKHLdjcdZ2vT+wfpwu+Q3nyLFg=",
+          "py3"
+        ]
+      }
+    },
     "2.1.6": {
       "sdist": [
         "X260WPtlUve3cbReWbqOv/D6Fam4D3iQU0RDADLxrrg=",
@@ -70942,6 +71002,18 @@
       "wheels": {
         "lbt_recipes-0.23.2-py2.py3-none-any.whl": [
           "mfoGnBIL/gIUG6PwzS1xuzJtsOaHmveVVNg6z08c5oM=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.23.3": {
+      "sdist": [
+        "49nxDbRuFXmvesxB9Eg5C2hIUyF/6QIatJfFxTEUqMs=",
+        "lbt-recipes-0.23.3.tar.gz"
+      ],
+      "wheels": {
+        "lbt_recipes-0.23.3-py2.py3-none-any.whl": [
+          "g3Wb6fgeJuIBtaI/5UhPNweyl9hxe/cAJIkYBMtRzno=",
           "py2.py3"
         ]
       }
@@ -79708,6 +79780,14 @@
       "wheels": {
         "neon_skill_launcher-0.3.0-py3-none-any.whl": [
           "C91Hp9lm7mh2aHniHbCzTPaSdIB3PE5k8O8Z+nR7cfM=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.1": {
+      "wheels": {
+        "neon_skill_launcher-0.3.1-py3-none-any.whl": [
+          "E79IJJiuoD1I2JORFA5ylnREQ63fJUTDvglMsdnUUQI=",
           "py3"
         ]
       }
@@ -133153,6 +133233,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.8": {
+      "sdist": [
+        "rx6T7cOgzNeTrtHtuMGRF4UePK6GuS7dqhJ32QaI1lg=",
+        "swibots-1.0.8.tar.gz"
+      ],
+      "wheels": {
+        "swibots-1.0.8-py3-none-any.whl": [
+          "Vuh7HbWZ24ACoNr+LnmeTybdPcuBOqj12IIxPFqqKY4=",
+          "py3"
+        ]
+      }
     }
   },
   "swisslandstats-geopy": {
@@ -142126,6 +142218,18 @@
       "wheels": {
         "tencentcloud_sdk_python_ckafka-3.0.819-py2.py3-none-any.whl": [
           "9QuBO5/Ysq9G4xZWasBzTZpNE26ebUuEG16X7A4oyrE=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.820": {
+      "sdist": [
+        "WDgpRmrooSDumiecxy1eRaewLho8tpn2UBqj9X/+trM=",
+        "tencentcloud-sdk-python-ckafka-3.0.820.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_ckafka-3.0.820-py2.py3-none-any.whl": [
+          "9OSS6XEGxBH5LDKxjOsHcl0/3MWgcbgkENQrd7MPxvE=",
           "py2.py3"
         ]
       }

@@ -8596,6 +8596,18 @@
         ]
       }
     },
+    "1.191.0": {
+      "sdist": [
+        "vIdJN9LhHc/arLDKRyDRZB+uNBy4cywKgEfctDO91lk=",
+        "aws-cdk.aws-ce-1.191.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_ce-1.191.0-py3-none-any.whl": [
+          "GXylaBTqqTizT8dY4sqPgHVglr9siUGjVWZ54t/6VVc=",
+          "py3"
+        ]
+      }
+    },
     "1.36.1": {
       "sdist": [
         "/mSjT9CLHoSTSpJ7v14G4C3BXJWcfJLoyRzdN6Aw+8o=",
@@ -10622,6 +10634,18 @@
       "wheels": {
         "aws_cdk.aws_kinesisanalytics_flink_alpha-2.62.2a0-py3-none-any.whl": [
           "dXkSZtpaIh+oWd6CAdK6g9AVK8xEK+nc8avJ5fmavZg=",
+          "py3"
+        ]
+      }
+    },
+    "2.63.0a0": {
+      "sdist": [
+        "o08ddFC6zyk44UZpB1DlRo9I+5nsyUdu4hBBByYwCuQ=",
+        "aws-cdk.aws-kinesisanalytics-flink-alpha-2.63.0a0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_kinesisanalytics_flink_alpha-2.63.0a0-py3-none-any.whl": [
+          "O94RhNx7v6Vb1UV3qGMGGHiyhRuW6M7upHhIFH8hmQg=",
           "py3"
         ]
       }
@@ -16721,6 +16745,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.61": {
+      "sdist": [
+        "Vm/Xj0/IMqeNsFoWj4z4jTqn/qTtWDXaiExmZTYD3us=",
+        "botocore-a-la-carte-iotthingsgraph-1.29.61.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_iotthingsgraph-1.29.61-py3-none-any.whl": [
+          "o8E0I1C1vRRu6YrF0RSpRQ8uU+wxmKjfCAYmpGGLN3E=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-xray": {
@@ -16948,6 +16984,18 @@
       "wheels": {
         "botocore_a_la_carte_xray-1.29.60-py3-none-any.whl": [
           "ZvMjJF3b1VYrhybzGsiXl97NODePGRi77MQgMx7ZFjM=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.61": {
+      "sdist": [
+        "pIuMSI17IxbEgiLe6qzrUjrhYkXuPAMI2gxDL203XH0=",
+        "botocore-a-la-carte-xray-1.29.61.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_xray-1.29.61-py3-none-any.whl": [
+          "yVxWWpFqD2+l64JGWUJuUI63fY3iJW7oHzNbX+YIdDM=",
           "py3"
         ]
       }
@@ -48494,6 +48542,12 @@
       "sdist": [
         "dsF64VsPwWJxpUw1T0QY1o0NwQavUK7r/Uiw1Oljy0w=",
         "emr-notebooks-magics-0.2.2.tar.gz"
+      ]
+    },
+    "0.2.3": {
+      "sdist": [
+        "AC/x7txatuhlsLdoHODBLZig+k8OCXFhzJFMu9Zzk0I=",
+        "emr-notebooks-magics-0.2.3.tar.gz"
       ]
     }
   },
@@ -125044,6 +125098,18 @@
         ]
       }
     },
+    "1.0.180": {
+      "sdist": [
+        "H9loRj0y+jSPo034i90F6qJSEMCGfpEY93Cu787uCEU=",
+        "simpleiot-cli-1.0.180.tar.gz"
+      ],
+      "wheels": {
+        "simpleiot_cli-1.0.180-py3-none-any.whl": [
+          "KVceuyJFzpwrF2aWwM/2m2Lzn8vjH7h+8nfgbAf/F+k=",
+          "py3"
+        ]
+      }
+    },
     "1.0.61": {
       "sdist": [
         "Z/q0F6lr5jCZcTnSoV9SNpFwk2tKBQg/CTW16b46FaA=",
@@ -137074,6 +137140,18 @@
       "wheels": {
         "tencentcloud_sdk_python_mna-3.0.819-py2.py3-none-any.whl": [
           "SMVbMDxdWHQvNqN1LuMPyClprsGaYAdLdfIYQS7SKxA=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.820": {
+      "sdist": [
+        "bsyPBM4NNH1rtFy8RDTNlMK97Tow8jaMkxAmr/QMAzg=",
+        "tencentcloud-sdk-python-mna-3.0.820.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_mna-3.0.820-py2.py3-none-any.whl": [
+          "q+foIhSxBwKpi6RelHIzwiv2x0LL9dOqmrxicMzM3Vg=",
           "py2.py3"
         ]
       }

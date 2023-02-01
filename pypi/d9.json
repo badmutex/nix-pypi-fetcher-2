@@ -6566,6 +6566,18 @@
         ]
       }
     },
+    "1.191.0": {
+      "sdist": [
+        "MiaxhZn/bOnLMB5tqIA/xW40jNAq+C54Pk8mojHq9fc=",
+        "aws-cdk.aws-codestarconnections-1.191.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_codestarconnections-1.191.0-py3-none-any.whl": [
+          "lNcBW3NbHvrYIwbtPIuVKsHUkEulw6YBF9Ed9hiyxbY=",
+          "py3"
+        ]
+      }
+    },
     "1.28.0": {
       "sdist": [
         "TLEtmU16JgCCPZa9Rz9vWlb6s5O6deR/2+BWqGEc9wY=",
@@ -7788,6 +7800,18 @@
       "wheels": {
         "aws_cdk.aws_location_alpha-2.62.2a0-py3-none-any.whl": [
           "L+HsCRahZAxYAm7O60/90KelidHqwlpfADkj/DVg1go=",
+          "py3"
+        ]
+      }
+    },
+    "2.63.0a0": {
+      "sdist": [
+        "Rwk5pP+pa0r9c6r7BR32oeIG5nVjWifRF+sfPVtXLK8=",
+        "aws-cdk.aws-location-alpha-2.63.0a0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_location_alpha-2.63.0a0-py3-none-any.whl": [
+          "zVt9bmnnw1M9Z/p+fgzi1Tq0H6lexooebPB3hA4I9uw=",
           "py3"
         ]
       }
@@ -12633,6 +12657,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.61": {
+      "sdist": [
+        "dlPM5YMzUZ6qXKbASjs6PbbBuUFyjcc9QAu7rBNbnfE=",
+        "botocore-a-la-carte-healthlake-1.29.61.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_healthlake-1.29.61-py3-none-any.whl": [
+          "FEoFdnYduIdRODvYuEJw0dx7yjk1fHMGFJXAGBmGsN4=",
+          "py3"
+        ]
+      }
     }
   },
   "bowl": {
@@ -14768,6 +14804,14 @@
       "wheels": {
         "chiakilisp-1.2.2-py3-none-any.whl": [
           "A835Wj5bCLizeFBIxcpCEz1ur2DfNJSYfD29aS5en78=",
+          "py3"
+        ]
+      }
+    },
+    "1.3.0": {
+      "wheels": {
+        "chiakilisp-1.3.0-py3-none-any.whl": [
+          "9+jS4yD7gyw+rBl5PT+Vdh96qyWWaV2N6La+4PNetgw=",
           "py3"
         ]
       }
@@ -82584,6 +82628,18 @@
         ]
       }
     },
+    "0.30.0": {
+      "sdist": [
+        "5iYXpCdoNnG4CJQHfd+bYRpJcAyOEjHPIsj2Gzg6bEY=",
+        "policyengine-canada-0.30.0.tar.gz"
+      ],
+      "wheels": {
+        "policyengine_canada-0.30.0-py3-none-any.whl": [
+          "u/r3Q2jEMZ5fEE2dlto4B5pl1sMIOnQQnIVaP2gbduM=",
+          "py3"
+        ]
+      }
+    },
     "0.5.0": {
       "sdist": [
         "j/yVlomzD5S63KBWo6Of2PivDznVDEqjJ855Nfp6+kc=",
@@ -86816,6 +86872,12 @@
         "pulumi_kafka-3.3.0a1652710564.tar.gz"
       ]
     },
+    "3.4.0": {
+      "sdist": [
+        "pKf5Eyrczub3wEgsvOcfEmxLX4LmJDypwNbkhHJe/b4=",
+        "pulumi_kafka-3.4.0.tar.gz"
+      ]
+    },
     "3.4.0a1654086496": {
       "sdist": [
         "CGpyaYRprF5iE9/5oKdqfKm4s3508P0DsZr5fGfxdis=",
@@ -86832,6 +86894,12 @@
       "sdist": [
         "pjGYmFVboknqsQ7Z/znnptNNw5/gdxbSLcGmUEVmKhY=",
         "pulumi_kafka-3.4.0a1673556106.tar.gz"
+      ]
+    },
+    "3.4.0a1675204945": {
+      "sdist": [
+        "LAgKz0utJSP3qpQQIMzP8CT270YtZe10uPsWwzgB3Rk=",
+        "pulumi_kafka-3.4.0a1675204945.tar.gz"
       ]
     }
   },
@@ -90932,6 +91000,18 @@
       "wheels": {
         "pybrokk-0.0.0-py3-none-any.whl": [
           "ihjE5Syp9rLwmSORjkd5ChyZPBg3hXJaK5vNarOIB4o=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.10": {
+      "sdist": [
+        "G153dYQkPgpj82VoJXNw9ksx3VC81wxU4LjVYFjmhD0=",
+        "pybrokk-0.0.10.tar.gz"
+      ],
+      "wheels": {
+        "pybrokk-0.0.10-py3-none-any.whl": [
+          "YaZp/pd+nlVVqgU5G7gg0l+MoRegVLSNWFCi23wlylc=",
           "py3"
         ]
       }
@@ -100294,9 +100374,25 @@
         "radfil-1.1.4.tar.gz"
       ],
       "wheels": {
+        "radfil-1.1.4-py2.py3-none-any.whl": [
+          "fwdjfDJgWvt2PpR7s3r1A5xKCkZ0U0IqWHYIyeelhU0=",
+          "py2.py3"
+        ],
         "radfil-1.1.4-py3-none-any.whl": [
           "wMY9IbxjcwyFqi4agWv3iTTDcc8UW+P7YItA91nmvRk=",
           "py3"
+        ]
+      }
+    },
+    "1.1.5": {
+      "sdist": [
+        "SDPFXGEITyNPWjhIC4yebwsGsRaoXgtJJBELALnONL8=",
+        "radfil-1.1.5.tar.gz"
+      ],
+      "wheels": {
+        "radfil-1.1.5-py2.py3-none-any.whl": [
+          "dp/CQMvm5sd4ad3kFdn5EIprIwjLb3ByI4UItaW7JXw=",
+          "py2.py3"
         ]
       }
     }
@@ -113351,6 +113447,12 @@
         "nLLRCySss4ADksTpVRbjBtN8qsu7kyb2eRKkYHAKeyo=",
         "sagemaker_inference-1.8.0.tar.gz"
       ]
+    },
+    "1.8.1": {
+      "sdist": [
+        "xHO8i+JeXx7AjrKUzhxkwSkESFkskGTaW7yjM8bfn4k=",
+        "sagemaker_inference-1.8.1.tar.gz"
+      ]
     }
   },
   "sahara-plugin-vanilla": {
@@ -113580,6 +113682,18 @@
     }
   },
   "salesforce-lavis": {
+    "1.0.0": {
+      "sdist": [
+        "HWXhF6nPjbWXmGePC2ZquWFvA0gFrKo50zWXfdYBusA=",
+        "salesforce-lavis-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "salesforce_lavis-1.0.0-py3-none-any.whl": [
+          "wHG2vsdiUnC08OCGYm0TWed1sAllSJfyt6EcaLNCFfI=",
+          "py3"
+        ]
+      }
+    },
     "1.0.0.dev2": {
       "sdist": [
         "Ye8NW2/z3VkPvi3XN1UnH+It/TWT4Bmhow2QwqzZUYQ=",
@@ -128247,6 +128361,30 @@
           "py3"
         ]
       }
+    },
+    "0.3.5": {
+      "sdist": [
+        "8VYwzWq5L6S8JC4fveBPEvP/R7v8hy9ZNbQ67nYa/IY=",
+        "twitterpersona-0.3.5.tar.gz"
+      ],
+      "wheels": {
+        "twitterpersona-0.3.5-py3-none-any.whl": [
+          "IXoMS/1nYrTQpDtLEVuYwYhmR9VaWQTsY1D6SNt4X3g=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.6": {
+      "sdist": [
+        "KoUa8bXdxP7hHTi0x+fAjtjCDusHt+b/pIcEKtY1UIs=",
+        "twitterpersona-0.3.6.tar.gz"
+      ],
+      "wheels": {
+        "twitterpersona-0.3.6-py3-none-any.whl": [
+          "aBYzYqEBZXqQo65UWtS9UxO/nClmCzUgOe7HSLApXlw=",
+          "py3"
+        ]
+      }
     }
   },
   "types-pep8-naming": {
@@ -128344,6 +128482,18 @@
       "wheels": {
         "types_PyScreeze-0.1.0.2-py3-none-any.whl": [
           "CqwtLlosaI5L8b5NTmBxO6NbvPy6AnQERjLkrrPFsBU=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.0.3": {
+      "sdist": [
+        "MiG0yMtjmtEW4KL4Lp/sL6kgUUpP358zL/i3RYYZdeM=",
+        "types-PyScreeze-0.1.0.3.tar.gz"
+      ],
+      "wheels": {
+        "types_PyScreeze-0.1.0.3-py3-none-any.whl": [
+          "/4xe7aFuafEJS2rcG31T0JseTeeLX4xsT2G0kJSTtVM=",
           "py3"
         ]
       }

@@ -45582,6 +45582,18 @@
         "graphql-api-1.2.17.tar.gz"
       ]
     },
+    "1.2.18": {
+      "sdist": [
+        "GF67a5uhpONpJ+RAJ9zts0YcX8UMQLJKicr1jeCbzas=",
+        "graphql-api-1.2.18.tar.gz"
+      ]
+    },
+    "1.2.19": {
+      "sdist": [
+        "LPgPCY/M3U+mvw52svsToe56OBIw3o9Kpbni5tFuNnQ=",
+        "graphql-api-1.2.19.tar.gz"
+      ]
+    },
     "1.2.2": {
       "sdist": [
         "jSI/a9AGyUIHdRhXUQrfoYz2d4QZAvHzHtmLezwAEOY=",
@@ -60758,6 +60770,18 @@
       "sdist": [
         "oef8qpvVkC3xCgErmkfHFDfOkJoMAqML6OvKXZIpKlM=",
         "libs3tl-0.1.42.tar.gz"
+      ]
+    },
+    "0.1.43": {
+      "sdist": [
+        "EZVwFNL6/2HPsGYjjQiPTpbK4BIo8q2NJGgaptg2FLI=",
+        "libs3tl-0.1.43.tar.gz"
+      ]
+    },
+    "0.1.44": {
+      "sdist": [
+        "j/lzmyOsX189pgRlz4pYRahOFguh1yFyw3ednH74XiE=",
+        "libs3tl-0.1.44.tar.gz"
       ]
     },
     "0.1.5": {
@@ -125069,6 +125093,18 @@
           "py3"
         ]
       }
+    },
+    "0.2.0": {
+      "sdist": [
+        "btUdmAYwuO/v75mzIip0K2zIFEWCvF+l8Q9yib0mrz0=",
+        "snakedoc-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "snakedoc-0.2.0-py3-none-any.whl": [
+          "CNypwQNIv9LXGEvJwzvch5muKNESvDYopvttUwzxWEs=",
+          "py3"
+        ]
+      }
     }
   },
   "snapwell": {
@@ -136264,6 +136300,70 @@
         ],
         "testghacookiecutter-0.0.88-cp39-cp39-win_amd64.whl": [
           "hhVAEyaQeUFnanHyrZZ1jRhgb2/2hdkltAd5X3ZetbY=",
+          "cp39"
+        ]
+      }
+    },
+    "0.0.89": {
+      "wheels": {
+        "testghacookiecutter-0.0.89-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "QBW0VvZvG9bHYJweHeFV3QudTNOx7pQiiF0AQyl2Fes=",
+          "cp310"
+        ],
+        "testghacookiecutter-0.0.89-cp310-cp310-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "oG/Y4TwuQ7ifpho56d9vFRHfb3d3R2q7LFIS8rxjtTo=",
+          "cp310"
+        ],
+        "testghacookiecutter-0.0.89-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "jJ0l6cD+JpKgksI9EP1fc2HQ3dyxkcyFmMnTpKxH/6Q=",
+          "cp310"
+        ],
+        "testghacookiecutter-0.0.89-cp310-cp310-win32.whl": [
+          "+ICV48VwHJucprhWwXnkHUD8JRaXbBITw+gpkW8j5ao=",
+          "cp310"
+        ],
+        "testghacookiecutter-0.0.89-cp310-cp310-win_amd64.whl": [
+          "PC/Nh++VqdeSiX7ntOL4dFVbsffVibOvlwF8y49FxnI=",
+          "cp310"
+        ],
+        "testghacookiecutter-0.0.89-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "oSjMjCkqDYU4ptn5GKGJkP4/8VN9BUBXtjOO6nMuf4o=",
+          "cp38"
+        ],
+        "testghacookiecutter-0.0.89-cp38-cp38-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "TjwyPFabQcE5Uzzwi2cLz9rdufqKWvbBUuZwbQ2Uxz8=",
+          "cp38"
+        ],
+        "testghacookiecutter-0.0.89-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "eTLm87RlquyKpD0deG+l2o8bV+Syws3/9D04fMZAMZ0=",
+          "cp38"
+        ],
+        "testghacookiecutter-0.0.89-cp38-cp38-win32.whl": [
+          "AWTfcXVS7wTi9xrb6GEbhklAR/SYSZUO/i97KvOFPVI=",
+          "cp38"
+        ],
+        "testghacookiecutter-0.0.89-cp38-cp38-win_amd64.whl": [
+          "T3AlR8SfrU+WZFTJYOz2oWX9lnVD7V9VRBhsgTOI/5s=",
+          "cp38"
+        ],
+        "testghacookiecutter-0.0.89-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "/MQ3Hod/L7uHRwTkaIxScrmYXnyL00imQ5ZeUHUXEiw=",
+          "cp39"
+        ],
+        "testghacookiecutter-0.0.89-cp39-cp39-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "3Y/McvGdrZTDZwNhbNPkCagApsUBKfLyajOsFv0Qjfo=",
+          "cp39"
+        ],
+        "testghacookiecutter-0.0.89-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "jqVA+mF8lPZ68exi9fSAm6ImtWkQ0M3xSPk/IdHgeIA=",
+          "cp39"
+        ],
+        "testghacookiecutter-0.0.89-cp39-cp39-win32.whl": [
+          "hZjRgcV/U4pFgEBND8KFLSV+iXfthVGpdS55QRfjCBI=",
+          "cp39"
+        ],
+        "testghacookiecutter-0.0.89-cp39-cp39-win_amd64.whl": [
+          "CeeDPmfaM9TL2+jQ/jXUQkoiVDGvSh9F2sm1e+zZwKg=",
           "cp39"
         ]
       }

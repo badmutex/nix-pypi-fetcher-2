@@ -7823,6 +7823,14 @@
           "py3"
         ]
       }
+    },
+    "0.2.0.6": {
+      "wheels": {
+        "atframework-0.2.0.6-py3-none-any.whl": [
+          "JV4tL5MOeJGYpF8ryy+Pxz9+CvrDrcDrI0DIqHMp6Q8=",
+          "py3"
+        ]
+      }
     }
   },
   "atompy": {
@@ -51095,6 +51103,20 @@
       ]
     }
   },
+  "hots": {
+    "0.1.0": {
+      "sdist": [
+        "7ggd3jzJMdPkqeF/1OYNkoxNFcfEadlz6EV44Wm8/9I=",
+        "hots-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "hots-0.1.0-py2.py3-none-any.whl": [
+          "QMXVBnExbxEp0Q2VqB/zxEbKjE4bHFh0aTWQYrtsAm8=",
+          "py2.py3"
+        ]
+      }
+    }
+  },
   "hovercraft": {
     "1.0": {
       "sdist": [
@@ -58180,6 +58202,18 @@
       "wheels": {
         "KeeneticPy-0.2-py3-none-any.whl": [
           "A78tnGnBKnCnyccadf+PyBvJubsj8VAYoYT13CCEWq8=",
+          "py3"
+        ]
+      }
+    },
+    "0.3": {
+      "sdist": [
+        "w1qoNOXh19MOwVvU7+/H5MOcBGNDmVhpdhj0aOpuPKI=",
+        "KeeneticPy-0.3.tar.gz"
+      ],
+      "wheels": {
+        "KeeneticPy-0.3-py3-none-any.whl": [
+          "8EekJ77g9Xj3aokbmZ3GFcN7BiYlR2tBou+HTztFrak=",
           "py3"
         ]
       }
@@ -85663,6 +85697,14 @@
           "py3"
         ]
       }
+    },
+    "1.2.3": {
+      "wheels": {
+        "nucliadb_dataset-1.2.3-py3-none-any.whl": [
+          "ZTuvPXob75+wVDZYWPJEOF/2oi4tlCr290UlLFpk3u4=",
+          "py3"
+        ]
+      }
     }
   },
   "nucliadb-writer": {
@@ -86449,6 +86491,14 @@
           "py3"
         ]
       }
+    },
+    "16.0.1.0.0.3": {
+      "wheels": {
+        "odoo_addon_partner_company_type-16.0.1.0.0.3-py3-none-any.whl": [
+          "jfREJXs7uvIj+1c1y/IzNli8WdSaGI22LGJMwdQA2+c=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo-addon-purchase-discount": {
@@ -86646,6 +86696,14 @@
       "wheels": {
         "odoo_addon_stock_request-15.0.1.3.0.1-py3-none-any.whl": [
           "2JrnL7Nr3/K0p4a40jf+huiC7MKOBrYXkZQZjN9HeUM=",
+          "py3"
+        ]
+      }
+    },
+    "15.0.1.4.0": {
+      "wheels": {
+        "odoo_addon_stock_request-15.0.1.4.0-py3-none-any.whl": [
+          "04xLwMoJHSocOndLt8thazQ155jHQ+CH5fZVxehnyx8=",
           "py3"
         ]
       }
@@ -119836,6 +119894,18 @@
         ]
       }
     },
+    "1.0.10": {
+      "sdist": [
+        "VrjzZvHjE00V/IgRr8mo8EpYVsV39tqgJD2YSl86huA=",
+        "revChatGPT-1.0.10.tar.gz"
+      ],
+      "wheels": {
+        "revChatGPT-1.0.10-py3-none-any.whl": [
+          "L93YZk0NPENrX5JDpYObIDS1ixjSsFvOqLr043d//DU=",
+          "py3"
+        ]
+      }
+    },
     "1.0.2": {
       "sdist": [
         "5zRHFMStm7WpO8z0BhxhqG6Fe8Vq2sXFh/fLmbrNH04=",
@@ -119868,6 +119938,66 @@
       "wheels": {
         "revChatGPT-1.0.4-py3-none-any.whl": [
           "/1GNQOtw+qqfcRlKpyc4dNGm1DN5E9iDmvBSGzGDaCQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.5": {
+      "sdist": [
+        "KpBojtbjvN+Tc07JPCqGyTfAZ13XX8iwDT3AVV4a/AY=",
+        "revChatGPT-1.0.5.tar.gz"
+      ],
+      "wheels": {
+        "revChatGPT-1.0.5-py3-none-any.whl": [
+          "sYUOiAyxn0cy9RKmTleSyLlu/rEBRXela8vhKTNyYCY=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.6": {
+      "sdist": [
+        "gH0RkQ5+CRhzdS4vmodALt0edDExuSQg6b8m6/Cx4qc=",
+        "revChatGPT-1.0.6.tar.gz"
+      ],
+      "wheels": {
+        "revChatGPT-1.0.6-py3-none-any.whl": [
+          "lEweLo7F0M+JZ8BNy2XGUmnp2p29XS0x7yTwi/p2gDM=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.7": {
+      "sdist": [
+        "6TwACufGjt+hgMMRZQ0lPm4ZaLUVdqM/rHw9tnq+7io=",
+        "revChatGPT-1.0.7.tar.gz"
+      ],
+      "wheels": {
+        "revChatGPT-1.0.7-py3-none-any.whl": [
+          "mJlFg65HI8iDsJChrqNveBrFYDW0mTVbOD8lOeqqdi8=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.8": {
+      "sdist": [
+        "UDAxuqpYUrYC8vb8mE4vhm0X1uV8zv7rvcN4ewF1yOw=",
+        "revChatGPT-1.0.8.tar.gz"
+      ],
+      "wheels": {
+        "revChatGPT-1.0.8-py3-none-any.whl": [
+          "inu1MdxBjCwT6GQiX9A1Mkg4ZtTFwNymZp3TN+Hkngw=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.9": {
+      "sdist": [
+        "VCTaVB2sp39RQSimnLzrHQ00fxVsI6ped9hAvYDW37g=",
+        "revChatGPT-1.0.9.tar.gz"
+      ],
+      "wheels": {
+        "revChatGPT-1.0.9-py3-none-any.whl": [
+          "ZY3Kvrrmrtzf/2XeJdIOOOhel6+O4hjSvfgsjgGRGJo=",
           "py3"
         ]
       }
@@ -155292,6 +155422,14 @@
       "wheels": {
         "wagtail_airtable-0.3.0-py3-none-any.whl": [
           "kFnb/KgCs7sYBFwpjgHOaMu0sTzW2ZP4ZoRkXKr3aoY=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.0": {
+      "wheels": {
+        "wagtail_airtable-0.4.0-py3-none-any.whl": [
+          "pj/Jkm97oAYx8Z5U1EBOHSbJrxHY2b+H0Y0z6nibGN8=",
           "py3"
         ]
       }

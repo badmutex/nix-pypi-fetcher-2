@@ -21664,6 +21664,34 @@
         ]
       }
     },
+    "0.17.5": {
+      "wheels": {
+        "climt-0.17.5-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "bQp5VT45ZtABVZI22I332rBhh1slm5LtTHdlvKeSjT4=",
+          "cp37"
+        ],
+        "climt-0.17.5-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "U8f26DrKX2Sfk0zZwUaC6gToP5MZ5l/Yx2OjMrcXI5Q=",
+          "cp37"
+        ],
+        "climt-0.17.5-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "QL7crvHWZsHZTIF4nl7GJX0xVV7b/UyJ1KxVhVNgc28=",
+          "cp38"
+        ],
+        "climt-0.17.5-cp38-cp38-manylinux2010_x86_64.whl": [
+          "IieG5xB+/3SN7r74ZTiLIIGami1cZ3GdJrI4wbOwVYo=",
+          "cp38"
+        ],
+        "climt-0.17.5-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "LibuWahuoCXh54BVqjgAyDqXfki8k6SHbz52QUnUnE4=",
+          "cp39"
+        ],
+        "climt-0.17.5-cp39-cp39-manylinux2010_x86_64.whl": [
+          "rq7PzcuCYRKXELRo4dcEjNB8Ja53bv30HJoelxm5dhs=",
+          "cp39"
+        ]
+      }
+    },
     "0.9.0": {
       "sdist": [
         "FxS/HDjVD5Oy1ueJbkgDTNNtNoaDi+RWVdYy3MySnLI=",
@@ -49859,6 +49887,18 @@
           "py3"
         ]
       }
+    },
+    "1.8.0": {
+      "sdist": [
+        "Or9OS4HdpI5FDdxL2ttXBf1QT+mMgGSDgphneFD5Vks=",
+        "garpix_utils-1.8.0.tar.gz"
+      ],
+      "wheels": {
+        "garpix_utils-1.8.0-py3-none-any.whl": [
+          "Ht8sPcfR16vX8D7qcxe3hNwl6gzFw/5L5bQRIXDvNeI=",
+          "py3"
+        ]
+      }
     }
   },
   "gauext": {
@@ -64807,6 +64847,20 @@
       }
     }
   },
+  "jellyml": {
+    "1.0.0": {
+      "sdist": [
+        "jKSukW2E4n2Eji0ViGJIe9yKmLFK0r6/gO8oNYKHh3E=",
+        "jellyml-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "jellyml-1.0.0-py3-none-any.whl": [
+          "WphEXlvvc1g0VFhnrecDZDQeyJD6WlPUuYsg6yzf36k=",
+          "py3"
+        ]
+      }
+    }
+  },
   "jfb-str2dict": {
     "1.0.0": {
       "sdist": [
@@ -69131,6 +69185,14 @@
           "py3"
         ]
       }
+    },
+    "0.1.1": {
+      "wheels": {
+        "ku_proxy-0.1.1-py3-none-any.whl": [
+          "xQfofbETeGldlKUPgbd5U0PQzPQwzOIbKRyVgEt4vm8=",
+          "py3"
+        ]
+      }
     }
   },
   "kubernetes-resource-monitor": {
@@ -70742,6 +70804,12 @@
       "sdist": [
         "yu9p/1EyTTM1cHyiazk7sjaGziny7sU+h7i1hIN4yvY=",
         "libSGM-0.4.3.tar.gz"
+      ]
+    },
+    "0.4.4": {
+      "sdist": [
+        "H2zY6ptoZM3G6SeJb3PNsNGbvDIkMqI3Dd/yMHwX4gA=",
+        "libSGM-0.4.4.tar.gz"
       ]
     }
   },
@@ -102745,6 +102813,14 @@
           "py3"
         ]
       }
+    },
+    "14.0.1.4.3.dev5": {
+      "wheels": {
+        "odoo14_addon_stock_cycle_count-14.0.1.4.3.dev5-py3-none-any.whl": [
+          "6fvmQHbf0+P5hGf4G7h5GuknCxglGh95XxFHHax3cGQ=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo14-addon-stock-request-submit": {
@@ -123514,6 +123590,18 @@
       "sdist": [
         "f05T6uhKwS6PGcpRPv06UlvEWzIbOMSalgrG+xVDbuo=",
         "pyviewfactor-0.0.12.tar.gz"
+      ]
+    },
+    "0.0.13": {
+      "sdist": [
+        "ALSwpysuKlAtUyAxW1RfIQaig1fCYBbk1ztwscqGajY=",
+        "pyviewfactor-0.0.13.tar.gz"
+      ]
+    },
+    "0.0.14": {
+      "sdist": [
+        "Hiz24nRx5zIbWHlwTIt7o6CX2X5eyPVkxeQaYB4yr1E=",
+        "pyviewfactor-0.0.14.tar.gz"
       ]
     },
     "0.0.2": {

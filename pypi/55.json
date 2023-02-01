@@ -16918,54 +16918,6 @@
         ]
       }
     },
-    "0.0.3.0a0": {
-      "sdist": [
-        "d79bgpc+WzQFweHxCiAgZvKKkpKNnCGnvlyIvd+eAjI=",
-        "ayaka-0.0.3.0a0.tar.gz"
-      ],
-      "wheels": {
-        "ayaka-0.0.3.0a0-py3-none-any.whl": [
-          "JFw/UUCGv++hVu8eBRf8UyMLAGJeWM2I1p41su8KQzw=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.3.0a1": {
-      "sdist": [
-        "Y6uSjNlPBTxw1cgKCVmC+KfgHSm61JWLNtehKxtuJQk=",
-        "ayaka-0.0.3.0a1.tar.gz"
-      ],
-      "wheels": {
-        "ayaka-0.0.3.0a1-py3-none-any.whl": [
-          "LEZhtzqpVPMAUtyrL1D/jHfonsRWZHRvUbu3V4cKAUw=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.3.0b0": {
-      "sdist": [
-        "R/dpDFgwzyl4UUSPeSYEua0jiLJAmPEErOUQrfAElqY=",
-        "ayaka-0.0.3.0b0.tar.gz"
-      ],
-      "wheels": {
-        "ayaka-0.0.3.0b0-py3-none-any.whl": [
-          "qKwF6VWnH3EXKCjlm+dUCqTAtRfCiQmgAN3Ks8ugYwc=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.3.0b1": {
-      "sdist": [
-        "b1RO28Hch85oaeAmuwYvUW2rFMqqQYKw0szxnP3+tsw=",
-        "ayaka-0.0.3.0b1.tar.gz"
-      ],
-      "wheels": {
-        "ayaka-0.0.3.0b1-py3-none-any.whl": [
-          "YYNtIAaQBjVrSTVMmdk1IwCv+cL9jOmXfKA6hHJ7Vc8=",
-          "py3"
-        ]
-      }
-    },
     "0.0.3.1": {
       "sdist": [
         "UXUDg7WSeUmCfkgx9CoQsTVE/+rLPJKmd5bZ5ioRhs0=",
@@ -16974,6 +16926,18 @@
       "wheels": {
         "ayaka-0.0.3.1-py3-none-any.whl": [
           "Ubl7eoTZTmFCoXB7yd+FjYqUYqZm1dMr4CvNCsRlCq8=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3.2b1": {
+      "sdist": [
+        "31bU1NGlB1Cq2/UP9WcJOGqCNZvhwB+a8dzLeSGMy/k=",
+        "ayaka-0.0.3.2b1.tar.gz"
+      ],
+      "wheels": {
+        "ayaka-0.0.3.2b1-py3-none-any.whl": [
+          "8O94IF7Ndi/4KoIUvBhbPfgK0b4yMH7JgufU8wzRFsc=",
           "py3"
         ]
       }
@@ -78879,6 +78843,30 @@
         "fuzm08KIOTk4rHKzbEYuoXGxeQbaGBnHIfiYZ1b9cvY=",
         "ndn-bootstrap-0.0.post1.tar.gz"
       ]
+    },
+    "0.1.post1": {
+      "sdist": [
+        "TeMnnEw1shGOVJ64uRomMWBKCIND4huTHtgvY+m4V6g=",
+        "ndn-bootstrap-0.1.post1.tar.gz"
+      ],
+      "wheels": {
+        "ndn_bootstrap-0.1.post1-py3-none-any.whl": [
+          "2aWtmCKoQdBZLY1gIUL7lo/yEfKquzEbpAMvX1Y4sZ8=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.post2": {
+      "sdist": [
+        "TmKFlFfRpe4wNDQcJXQ3KHwCeCmjEsK8NRgJ5dcbbJk=",
+        "ndn-bootstrap-0.1.post2.tar.gz"
+      ],
+      "wheels": {
+        "ndn_bootstrap-0.1.post2-py3-none-any.whl": [
+          "FGHJ/e8vslWTIR5DiRWirn7bmhBGzn/6peB0hLdH3qI=",
+          "py3"
+        ]
+      }
     }
   },
   "nengliangshide-liaoyuli": {
@@ -82117,6 +82105,14 @@
           "py3"
         ]
       }
+    },
+    "16.0.1.0.0.9": {
+      "wheels": {
+        "odoo_addon_base_location-16.0.1.0.0.9-py3-none-any.whl": [
+          "PnwTGs/YHDF5z36HaM1Ka7e7AXI6yqzYf7IK0oLMlSo=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo-addon-base-revision": {
@@ -84646,6 +84642,14 @@
       "wheels": {
         "odoo14_addon_stock_change_qty_reason-14.0.1.0.3.dev1-py3-none-any.whl": [
           "cS1MKOoRkIuYg8DqDGbM7ftCvmtD5dmV9WlJziyzniQ=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.1.0.3.dev2": {
+      "wheels": {
+        "odoo14_addon_stock_change_qty_reason-14.0.1.0.3.dev2-py3-none-any.whl": [
+          "OUXX9JFA8itnfpSdY16YZG4iwBBHQrlyk1G+r0RggUQ=",
           "py3"
         ]
       }
@@ -95479,6 +95483,20 @@
       ]
     }
   },
+  "proxytv": {
+    "1.0.0": {
+      "sdist": [
+        "Uzj6Ub4vmt39vlYMVigD52mgoW+t/hbl2YYw0lYupUc=",
+        "proxytv-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "proxytv-1.0.0-py3-none-any.whl": [
+          "eS+EQoNouaerqflqDBGQd2LhEINp5udYLlE+jU9t6qg=",
+          "py3"
+        ]
+      }
+    }
+  },
   "pscripts": {
     "0.1.0": {
       "sdist": [
@@ -102684,6 +102702,38 @@
         ],
         "pylebai-1.0.15-pp38-pypy38_pp73-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
           "MmKZcg2/4Hck9ZGJlreHbre1ZQsIYON4DAjvEgZvOag=",
+          "pp38"
+        ]
+      }
+    },
+    "1.0.16": {
+      "wheels": {
+        "pylebai-1.0.16-cp310-cp310-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "QVnULLloX8RU6CRPgZqimy+YcwK8a0odRqhOJw28bEM=",
+          "cp310"
+        ],
+        "pylebai-1.0.16-cp36-cp36m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "uu1AvvFCuZdp4cxYrpaLm6hrAM5WOLdCLU/fIp5k07s=",
+          "cp36"
+        ],
+        "pylebai-1.0.16-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "bZojO+xoFh3kl81scI69KDVzAo8+ZYXNtnctZKxGok4=",
+          "cp37"
+        ],
+        "pylebai-1.0.16-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "lh/cSlQkMRLTf5PeSARulcfaCjR4eOd5KoIf9vKMUZY=",
+          "cp38"
+        ],
+        "pylebai-1.0.16-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "6P5xRCIOuAnUi08qx55wOHaZXFFP5ONO2jr3+wn5udg=",
+          "cp39"
+        ],
+        "pylebai-1.0.16-pp37-pypy37_pp73-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "zCPC+VWj0RxdQld1+2bnRLEJlaRHwtfzvYqPr3zEnxQ=",
+          "pp37"
+        ],
+        "pylebai-1.0.16-pp38-pypy38_pp73-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "VqdKdlRrzgB7dDwHh5NLySXN9zH6QjXHVKKRNt9fE04=",
           "pp38"
         ]
       }

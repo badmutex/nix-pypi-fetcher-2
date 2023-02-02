@@ -16243,6 +16243,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.62": {
+      "sdist": [
+        "N3AuUyLgwxorkHtt/Fe4goDBbAPQ9UuQKNiQYPvSM2E=",
+        "botocore-a-la-carte-backup-1.29.62.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_backup-1.29.62-py3-none-any.whl": [
+          "GnYeMyaY35SHXxhPzEgLahqRkN+3KFFn7PwJglm+3nk=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-devicefarm": {
@@ -16485,6 +16497,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.62": {
+      "sdist": [
+        "EBwcEYxB+2U7x0IjejBo4WNFrgnPTNJ0bz7LqTj+FcQ=",
+        "botocore-a-la-carte-devicefarm-1.29.62.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_devicefarm-1.29.62-py3-none-any.whl": [
+          "7r2UCAZU+kftbUdW6AMHI0duLzloi5Sy8rbvuuH9Zk8=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-fis": {
@@ -16724,6 +16748,18 @@
       "wheels": {
         "botocore_a_la_carte_fis-1.29.61-py3-none-any.whl": [
           "1okkSH2LNGRsEyEZ89Ze35MHKsgFzAipSmtCXLU/93Y=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.62": {
+      "sdist": [
+        "pgClH72b+jtEPOwhB2MydZY6m3FPYIR7MwCi5caJTCI=",
+        "botocore-a-la-carte-fis-1.29.62.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_fis-1.29.62-py3-none-any.whl": [
+          "XYaSHaj/TXsvjjBlBQc+98OoD8QTl7z6lfBwdHHe/Uo=",
           "py3"
         ]
       }
@@ -24452,6 +24488,26 @@
       "wheels": {
         "CustomizableSocketServer-2.0.0-py3-none-any.whl": [
           "tTYjjICSdDbNHlEoRNjjxtKcfi+vEXma3xEBfIRH8VU=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.1": {
+      "wheels": {
+        "CustomizableSocketServer-2.0.1-py3-none-any.whl": [
+          "JLKf6CoSAmjKYWkYIf6n6TJFuGy6soxpoPtdh+CVhFs=",
+          "py3"
+        ]
+      }
+    },
+    "2.1.0": {
+      "sdist": [
+        "ADCsG9cshb0r+qeMFPiL4IlDit9kUPUknDpn8Xxef5w=",
+        "CustomizableSocketServer-2.1.0.tar.gz"
+      ],
+      "wheels": {
+        "CustomizableSocketServer-2.1.0-py3-none-any.whl": [
+          "5NsIvWptDd2daI+1lxzTYd9kb8rDuHMRReySdmdNp7E=",
           "py3"
         ]
       }
@@ -44108,6 +44164,18 @@
         ]
       }
     },
+    "2.0.16": {
+      "sdist": [
+        "AJzBqnyOxgcniy24Onst0n/Rh1VO9NJhXQwXeiassH8=",
+        "fantasy-hockey-notifier-cdk-2.0.16.tar.gz"
+      ],
+      "wheels": {
+        "fantasy_hockey_notifier_cdk-2.0.16-py3-none-any.whl": [
+          "xlbds1CzqNcdTIVyp9mtUtolMsT88H85ge4GFbX6jwQ=",
+          "py3"
+        ]
+      }
+    },
     "2.0.2": {
       "sdist": [
         "iuHiP5xXk0uoksfGbODuR8K9JsYR5wvj22ZTAzqgRPM=",
@@ -49856,6 +49924,32 @@
       "wheels": {
         "glochan-1.1-py3-none-any.whl": [
           "PMu5ZUDhhCFe6rCJN0XtzHTMo9+TMnpspohcrwMdBOg=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "glue-heatmap": {
+    "1.0": {
+      "sdist": [
+        "x9GkyJCtsxx0Hdf0NwjBIUw7/N1XBhApel19Xx908KA=",
+        "glue-heatmap-1.0.tar.gz"
+      ],
+      "wheels": {
+        "glue_heatmap-1.0-py3-none-any.whl": [
+          "0+iO85TJEmGC4Dx7u2cVYi03rvVv2c4TliwuhYzHGFQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.1": {
+      "sdist": [
+        "Zdfh7BnPCzN09qWT900Sq78U0PVRQLMH/k3v+kU/4f0=",
+        "glue-heatmap-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "glue_heatmap-1.0.1-py3-none-any.whl": [
+          "2PjOT/lK9eJFSXzBBXiabGODTDxvnNKicQ0HGAv8ZRI=",
           "py3"
         ]
       }
@@ -99710,8 +99804,16 @@
           "b0r7wLrCbXLLXuY2iYQ6wcHj60TRaBFiKAxNYKbcI6E=",
           "cp39"
         ],
+        "pyats.utils-23.1-cp39-cp39-manylinux2014_aarch64.whl": [
+          "TUCtRJI7WK2FHIGXF/VAVbqPHzifchtZdUR9bRiHt8E=",
+          "cp39"
+        ],
         "pyats.utils-23.1-cp39-cp39-manylinux2014_x86_64.whl": [
           "nSqxc9vXVjivGV7gUsBdYmb+Txie6XXRcRS6Y865jTY=",
+          "cp39"
+        ],
+        "pyats.utils-23.1-cp39-cp39-musllinux_1_2_x86_64.whl": [
+          "eHWJNu+US4MmdCNit/+ghQZOXJky5uuLTFOGw1jWFb8=",
           "cp39"
         ]
       }
@@ -117594,6 +117696,10 @@
           "I2MGKp6RGCTyAm5Cu4Z9wvVMc/D/Y2nLR2HUVx0zjlY=",
           "cp310"
         ],
+        "rasterio-1.3.5-cp310-cp310-macosx_11_0_arm64.whl": [
+          "tD7oWwdpUrLjZtpru10eNw2N6tsWYnfiidjS8PVQDbE=",
+          "cp310"
+        ],
         "rasterio-1.3.5-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "myFiCg7Tx7REjmORszBi6k5rFfqgWm10a7rwThkv05U=",
           "cp310"
@@ -117604,6 +117710,10 @@
         ],
         "rasterio-1.3.5-cp311-cp311-macosx_10_15_x86_64.whl": [
           "rpladrKYybukkGp8lMF2eHyglUYG4lJ01te2EkqTfuY=",
+          "cp311"
+        ],
+        "rasterio-1.3.5-cp311-cp311-macosx_11_0_arm64.whl": [
+          "sZeZUmHnILmatOl7cIEP3pgNMBwZbAZWUXsBBmPLtUU=",
           "cp311"
         ],
         "rasterio-1.3.5-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
@@ -117618,6 +117728,10 @@
           "smcdfJOSnEJSoqLmQsA7OpjxUdKIQPxIGFGDksfdGMo=",
           "cp38"
         ],
+        "rasterio-1.3.5-cp38-cp38-macosx_11_0_arm64.whl": [
+          "bjntedxeyykzi855yzSAr+csZc4xmuXy+z5bzKwRxwk=",
+          "cp38"
+        ],
         "rasterio-1.3.5-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "i5FcStRkFiqmron3DlyEmN4/uA2+2yHpsbKN84Zzlvw=",
           "cp38"
@@ -117628,6 +117742,10 @@
         ],
         "rasterio-1.3.5-cp39-cp39-macosx_10_15_x86_64.whl": [
           "2h0L2pkniJ1aLBLUau7lLu1jzk6N2HVTLibEGQIsBLE=",
+          "cp39"
+        ],
+        "rasterio-1.3.5-cp39-cp39-macosx_11_0_arm64.whl": [
+          "P4wsLjm68DFeGKtmXxra2Sj6cBI0xYGwuAnELEqywhQ=",
           "cp39"
         ],
         "rasterio-1.3.5-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [

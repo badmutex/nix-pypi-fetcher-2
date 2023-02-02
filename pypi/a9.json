@@ -15133,6 +15133,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.62": {
+      "sdist": [
+        "mjdZ7Xmw4Z8SFbC9ZHYl7AkI/CSyQ5gWg1rSM56nMmM=",
+        "botocore-a-la-carte-dynamodb-1.29.62.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_dynamodb-1.29.62-py3-none-any.whl": [
+          "iQKxI8PNwuNnQvJGZV/UT7R/lfKuZ7f17YWzj6+KVZc=",
+          "py3"
+        ]
+      }
     }
   },
   "bottlecbv": {
@@ -24828,6 +24840,30 @@
         ],
         "cumm_cu116-0.4.6-cp39-cp39-win_amd64.whl": [
           "R5IfoBsM9qij3mSpNzNgj8ccO8uA/DoQd1HqQqmFyWo=",
+          "cp39"
+        ]
+      }
+    },
+    "0.4.7": {
+      "wheels": {
+        "cumm_cu116-0.4.7-cp310-cp310-win_amd64.whl": [
+          "fPsHZDSqNO+S+JHbY62QNa8a3Jx6kLAL5O2C3EZW6ZA=",
+          "cp310"
+        ],
+        "cumm_cu116-0.4.7-cp311-cp311-win_amd64.whl": [
+          "GolNKOH2w6P7X6UlV7cyU+g/XL2TK8hF5/3hrg5Druw=",
+          "cp311"
+        ],
+        "cumm_cu116-0.4.7-cp37-cp37m-win_amd64.whl": [
+          "9RoF507uCAV6S8UReMty/4Okb75EHIpOvE/YNNWv3pQ=",
+          "cp37"
+        ],
+        "cumm_cu116-0.4.7-cp38-cp38-win_amd64.whl": [
+          "3ZW4v7xi9qKnzSxMpjd4MwUo0RpO/fBL0T1DG1Z8D+Q=",
+          "cp38"
+        ],
+        "cumm_cu116-0.4.7-cp39-cp39-win_amd64.whl": [
+          "PTOCEQsjiMH7REhziWT7DhP/Y6jVUxSaVlQnmS5es40=",
           "cp39"
         ]
       }
@@ -65073,6 +65109,32 @@
       ]
     }
   },
+  "megaflow2d": {
+    "0.1.0": {
+      "sdist": [
+        "GbyR2PxomyVOFsSjO3QNLT0rFAltlyzrNvNDdcOurIo=",
+        "MegaFlow2D-0.1.0.tar.gz"
+      ]
+    },
+    "0.2.0": {
+      "sdist": [
+        "mTSMCTX6u83ZKhfNNlBLSjK48uIPTXI+ZlC9qYmpedM=",
+        "MegaFlow2D-0.2.0.tar.gz"
+      ]
+    },
+    "0.2.1": {
+      "sdist": [
+        "RUTYZPF+zcIO5SrJj2pMu3aBfguOfrvMJVxT5m4uN9g=",
+        "MegaFlow2D-0.2.1.tar.gz"
+      ]
+    },
+    "0.2.2": {
+      "sdist": [
+        "VI89A/sTsH0arqQA2CovPk/tu7Z5rAVUiPo7BsC1YLA=",
+        "MegaFlow2D-0.2.2.tar.gz"
+      ]
+    }
+  },
   "megrok.scaffold": {
     "0.1": {
       "sdist": [
@@ -73024,6 +73086,18 @@
       "wheels": {
         "mrQA-0.1.7-py2.py3-none-any.whl": [
           "quscjZEAfhdH4tkW7GNeVgYhVZGil0HfWNOTXyVYxoc=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.2": {
+      "sdist": [
+        "7LsWZXBOsFZXWSdYzqeaHhLIzuPc6Ct5AZWZqPayIYs=",
+        "mrQA-0.2.tar.gz"
+      ],
+      "wheels": {
+        "mrQA-0.2-py2.py3-none-any.whl": [
+          "hZDPklU/x1ERZws7z5/vXCukhuHjRbxcoy/karKF8iE=",
           "py2.py3"
         ]
       }
@@ -88464,6 +88538,14 @@
       "wheels": {
         "odoo12_addon_web_view_google_map-12.0.1.1.2-py3-none-any.whl": [
           "hzJqgNfcNfA9NWk88YCwOOplNSYuu8Fhsa/wcxT/DbY=",
+          "py3"
+        ]
+      }
+    },
+    "12.0.1.1.2.99.dev1": {
+      "wheels": {
+        "odoo12_addon_web_view_google_map-12.0.1.1.2.99.dev1-py3-none-any.whl": [
+          "nLbAMUutGAvVlO47nXImI/p1aLhndkUCRiQZv3XFgUA=",
           "py3"
         ]
       }
@@ -120439,6 +120521,18 @@
           "py3"
         ]
       }
+    },
+    "0.3.0": {
+      "sdist": [
+        "XKqRdcyTHCi21nPTb1PqM9RxORAoxJ6Q480etwEjlcM=",
+        "pyszuru-0.3.0.tar.gz"
+      ],
+      "wheels": {
+        "pyszuru-0.3.0-py3-none-any.whl": [
+          "0MMaVD6oPQD1dxxsMRnmEMzNnnyRHyzyG9k3/AIcdoQ=",
+          "py3"
+        ]
+      }
     }
   },
   "pytchfork": {
@@ -129382,6 +129476,74 @@
         ],
         "robotpy_photonvision-2023.2.1-cp39-cp39-win_amd64.whl": [
           "bh7tGOVKCJnzYuZj3lv//TjC3zwQtHlxZuP3SxktgQM=",
+          "cp39"
+        ]
+      }
+    },
+    "2023.2.2": {
+      "sdist": [
+        "IPc8Ct7OXJdiLEfOhVTPoZ7H0TLvyXs5FUXSgqqhX74=",
+        "robotpy-photonvision-2023.2.2.tar.gz"
+      ],
+      "wheels": {
+        "robotpy_photonvision-2023.2.2-cp310-cp310-macosx_10_16_x86_64.whl": [
+          "KI/oeDLZd3xepFJzRPza+Mt6Xes2CqSkR3Nznw3N57c=",
+          "cp310"
+        ],
+        "robotpy_photonvision-2023.2.2-cp310-cp310-manylinux_2_35_x86_64.whl": [
+          "bt4/k6lIoW4Y9Azeup3JmVc9y3EGw34vyE2AAr8DtBY=",
+          "cp310"
+        ],
+        "robotpy_photonvision-2023.2.2-cp310-cp310-win_amd64.whl": [
+          "XuM8j8MvhQuZ8nwexOdYa/y7zLow5x2iViav2ccsSjI=",
+          "cp310"
+        ],
+        "robotpy_photonvision-2023.2.2-cp311-cp311-macosx_11_0_universal2.whl": [
+          "4b5ESSFfZyBssRdDBV4XRU4X2qewKl716J2OAAdpGdg=",
+          "cp311"
+        ],
+        "robotpy_photonvision-2023.2.2-cp311-cp311-manylinux_2_35_x86_64.whl": [
+          "uuE7koRjms3rSPfaiq+5kDPbWZPFCPmBK2D1MjZ2Roo=",
+          "cp311"
+        ],
+        "robotpy_photonvision-2023.2.2-cp311-cp311-win_amd64.whl": [
+          "WkLv51y5jgB+oHjf5ne7z4wdFf4de6VBNjcrmWgCxSg=",
+          "cp311"
+        ],
+        "robotpy_photonvision-2023.2.2-cp37-cp37m-macosx_10_16_x86_64.whl": [
+          "wEbNW4q2uL3hWwNa6Am0jvV2+f8jklnvPJaLgoaFUGI=",
+          "cp37"
+        ],
+        "robotpy_photonvision-2023.2.2-cp37-cp37m-manylinux_2_35_x86_64.whl": [
+          "JJ4SZjXhx8oM/5QDR3ApT/gbTWsAsNDd6f/Nqx4pLBg=",
+          "cp37"
+        ],
+        "robotpy_photonvision-2023.2.2-cp37-cp37m-win_amd64.whl": [
+          "iZE2C2TEyaxFyzaJOCrLVKYNxdSfqCRCMmWAlQ/lbso=",
+          "cp37"
+        ],
+        "robotpy_photonvision-2023.2.2-cp38-cp38-macosx_10_16_x86_64.whl": [
+          "w7WfKcwidPesbkYkyt32DqA1uvsm9u5iDFVAqkLlN6A=",
+          "cp38"
+        ],
+        "robotpy_photonvision-2023.2.2-cp38-cp38-manylinux_2_35_x86_64.whl": [
+          "2lBuIVUYAzNIuoHUwlW/Vv+yhZ6weEkzrXz3IFQ8vFA=",
+          "cp38"
+        ],
+        "robotpy_photonvision-2023.2.2-cp38-cp38-win_amd64.whl": [
+          "oPQd603sH2sA2AqYAy4nPv88yzITDSmXzEp00PfcmeA=",
+          "cp38"
+        ],
+        "robotpy_photonvision-2023.2.2-cp39-cp39-macosx_10_16_x86_64.whl": [
+          "At0iMPa+N/E6v/t1Je84DoVL7FDB0XHp5sC9PMtEoEQ=",
+          "cp39"
+        ],
+        "robotpy_photonvision-2023.2.2-cp39-cp39-manylinux_2_35_x86_64.whl": [
+          "ntJfcXq1X28cUpITC1EYutfgVVJZuOgJMfh55FFj1DY=",
+          "cp39"
+        ],
+        "robotpy_photonvision-2023.2.2-cp39-cp39-win_amd64.whl": [
+          "pyNvHljhNqyDrHZoKqWCcLlNT4EUM1m6FcZDTpBo3cY=",
           "cp39"
         ]
       }
@@ -149144,6 +149306,18 @@
       "wheels": {
         "tencentcloud_sdk_python_ft-3.0.820-py2.py3-none-any.whl": [
           "oPnhgvRg8r7fuIPQwHy0sgpjffevStN8TgtpKd35pNQ=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.821": {
+      "sdist": [
+        "jCCWsmhdhFBW/8OYopnG4zy6HpPOZ7+4hkQ/L+OmJmk=",
+        "tencentcloud-sdk-python-ft-3.0.821.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_ft-3.0.821-py2.py3-none-any.whl": [
+          "tPGuWRs0BynuClt386jtIdNq4WLKYvYdy+34QY9JKRo=",
           "py2.py3"
         ]
       }

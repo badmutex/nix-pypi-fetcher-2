@@ -9193,6 +9193,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.62": {
+      "sdist": [
+        "s/zZ1iiuiGnLvB2zWME9a60mqfOj5kVO6DY0xvvOx+Q=",
+        "botocore-a-la-carte-opsworks-1.29.62.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_opsworks-1.29.62-py3-none-any.whl": [
+          "iyZk6xf13vKgdJ0mHx4SbK5QHCMWr/PMXYRQEP+R66w=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-sagemaker-a2i-runtime": {
@@ -9432,6 +9444,18 @@
       "wheels": {
         "botocore_a_la_carte_sagemaker_a2i_runtime-1.29.61-py3-none-any.whl": [
           "LQlH47rKuctKhhUVY78Y+/P18XFt2ze03DM6rvQyqAs=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.62": {
+      "sdist": [
+        "ef8TomQYmg+1XGgApcs0ZNt+dpkZ38K0H4Yju+bUY1s=",
+        "botocore-a-la-carte-sagemaker-a2i-runtime-1.29.62.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_sagemaker_a2i_runtime-1.29.62-py3-none-any.whl": [
+          "IPbMbNUOpubfOIFxOjdjKN2G0pazVpInbJdz0z9ytwI=",
           "py3"
         ]
       }
@@ -12614,6 +12638,18 @@
       "wheels": {
         "cdk8s_plus_25-2.4.8-py3-none-any.whl": [
           "1fLNqYg7IdY3gQ1SgwJyVmaYtoJD1Rpg7K42Z/AbIcM=",
+          "py3"
+        ]
+      }
+    },
+    "2.4.9": {
+      "sdist": [
+        "zJb0vlx/09I49V5AuhtkfS+zUVb8LLFdCxLjjWdTfPE=",
+        "cdk8s-plus-25-2.4.9.tar.gz"
+      ],
+      "wheels": {
+        "cdk8s_plus_25-2.4.9-py3-none-any.whl": [
+          "BvxQQTZLdPFE92H0V3/ba6kiM5y3ZJsEuMh+Hv9GO1w=",
           "py3"
         ]
       }
@@ -42426,6 +42462,18 @@
       "wheels": {
         "generic_binary_sharding-0.1.1-py3-none-any.whl": [
           "iukMxOQIyM7sb15soZLGaF2V0zXweotE9eb5qQpfhA4=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "VNEgUOzrn2T95pY3QBS2f+Tw8gvqH65gMg1ol1FKSV0=",
+        "generic_binary_sharding-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "generic_binary_sharding-0.1.2-py3-none-any.whl": [
+          "M1wQAZtsGX6PpZoRqBFWup83dCFQlDRRGiss5gQXlgk=",
           "py3"
         ]
       }
@@ -134325,6 +134373,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.821": {
+      "sdist": [
+        "/c+lXhJShLnkWWW4GlTmbgnQWNCep/BuToBKXK26saQ=",
+        "tencentcloud-sdk-python-dc-3.0.821.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_dc-3.0.821-py2.py3-none-any.whl": [
+          "dgW7oEBtjwa34+fCWzCbt1qlfHQWZ9Gym8/JsI3N4OM=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tencentcloud-sdk-python-hasim": {
@@ -134480,6 +134540,18 @@
       "wheels": {
         "tencentcloud_sdk_python_hasim-3.0.820-py2.py3-none-any.whl": [
           "sAMHKjXRMD5csKQljJm2Oa1IaWWbPP70KUtUw7uvtZU=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.821": {
+      "sdist": [
+        "d6NEXuDfq8e3m1B4rtlSKmut7k2IbYH65BvPy0tTqeA=",
+        "tencentcloud-sdk-python-hasim-3.0.821.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_hasim-3.0.821-py2.py3-none-any.whl": [
+          "gkFHkGg0uddD0bGsAtJB+UYnZr+U+OPiTrfSRYM/ybE=",
           "py2.py3"
         ]
       }
@@ -150468,6 +150540,62 @@
         ],
         "xia_compiler_openapi-0.0.6-cp39-none-win_amd64.whl": [
           "0dodxhCFtxW1SHzzZ9GNxlpLTUcEeqkcpQ4q1kNH/Cc=",
+          "cp39"
+        ]
+      }
+    },
+    "0.1.0": {
+      "wheels": {
+        "xia_compiler_openapi-0.1.0-cp310-none-macosx_11_0_x86_64.whl": [
+          "lYjU+5XpmMmywtl2JIVlonoIE+fhUWJN3QY9oWzSvz4=",
+          "cp310"
+        ],
+        "xia_compiler_openapi-0.1.0-cp310-none-manylinux1_x86_64.whl": [
+          "ni5oJ5zfoKL/k3+/YjVVgVN37P8lFs6wfZn7UshtRUU=",
+          "cp310"
+        ],
+        "xia_compiler_openapi-0.1.0-cp310-none-win_amd64.whl": [
+          "Fy1js8P86ZwkY34RDk2fVyySZzYrqdi44LbGSCSkTuI=",
+          "cp310"
+        ],
+        "xia_compiler_openapi-0.1.0-cp39-none-macosx_11_0_x86_64.whl": [
+          "Sl3Tk04uqod1luZJgrkRFNRDtbwK+6jpk1T3n72+gW4=",
+          "cp39"
+        ],
+        "xia_compiler_openapi-0.1.0-cp39-none-manylinux1_x86_64.whl": [
+          "OaxcEzr9YFfAc6pAqP3+l03R91JpnJmtGog0cMcKlO4=",
+          "cp39"
+        ],
+        "xia_compiler_openapi-0.1.0-cp39-none-win_amd64.whl": [
+          "uRf0Jxl0QqclF3IrzsScRmEkP+ih2x50VEP+AcZWiH8=",
+          "cp39"
+        ]
+      }
+    },
+    "0.1.1": {
+      "wheels": {
+        "xia_compiler_openapi-0.1.1-cp310-none-macosx_11_0_x86_64.whl": [
+          "P0QUiA0947Z8/Zf1H6NPJfUFVdGeztGqA1sUEX5gFvE=",
+          "cp310"
+        ],
+        "xia_compiler_openapi-0.1.1-cp310-none-manylinux1_x86_64.whl": [
+          "HZyscyKsQQwXZPOZaxk0StIBx64CdQVOE8kt7DtRtiA=",
+          "cp310"
+        ],
+        "xia_compiler_openapi-0.1.1-cp310-none-win_amd64.whl": [
+          "5unfgan2MMPl18gbHhFmZSvUYur53BKguJ2ZKMGoElk=",
+          "cp310"
+        ],
+        "xia_compiler_openapi-0.1.1-cp39-none-macosx_11_0_x86_64.whl": [
+          "Yxl/SRLRbfLjwFWwTX+7LE7GC24kehcwFotxIIRR7gw=",
+          "cp39"
+        ],
+        "xia_compiler_openapi-0.1.1-cp39-none-manylinux1_x86_64.whl": [
+          "JRpugrFiC8B6Gj94IECIW3AlED8ESl/iE8SD0xxs8tA=",
+          "cp39"
+        ],
+        "xia_compiler_openapi-0.1.1-cp39-none-win_amd64.whl": [
+          "j5W1TvFkCrqviC9ZeslPWQS8ye29uVLYyrrw0dKR8RI=",
           "cp39"
         ]
       }

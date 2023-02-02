@@ -769,6 +769,18 @@
           "py3"
         ]
       }
+    },
+    "0.2.0": {
+      "sdist": [
+        "X8M0Kbc8sudNTVzihbByyNNZRfd2/z9oOI/0B5tDXB4=",
+        "adaptfx-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "adaptfx-0.2.0-py3-none-any.whl": [
+          "R7CG0+K/c4VOLZkEbiNJ5MWNsBrAB0Pa8uYWGGcwhEo=",
+          "py3"
+        ]
+      }
     }
   },
   "adderlib": {
@@ -15261,6 +15273,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.62": {
+      "sdist": [
+        "JCBEKAq833Ot6VNTt28xV98RsUvYeUNLGTqeXc6FvT4=",
+        "botocore-a-la-carte-networkmanager-1.29.62.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_networkmanager-1.29.62-py3-none-any.whl": [
+          "64D4S5x16N/hFG7ozCzqUOQBNB8/uT4HB4+4acUw0uM=",
+          "py3"
+        ]
+      }
     }
   },
   "botogram": {
@@ -27650,6 +27674,18 @@
         ]
       }
     },
+    "0.23": {
+      "sdist": [
+        "RbkwP1yvJGN12iwl3zXVgJZun7M/kd+5OEa9EDGqQns=",
+        "cwl-utils-0.23.tar.gz"
+      ],
+      "wheels": {
+        "cwl_utils-0.23-py3-none-any.whl": [
+          "nO/OSI6WJAPn/luGj/i4CdWOkZUyrKz9o0kERXDcYF0=",
+          "py3"
+        ]
+      }
+    },
     "0.3": {
       "sdist": [
         "B4Hd5xBRkH/mNufauGtSZ5GObtQ1l9SmjiR0DRaJDAY=",
@@ -38646,6 +38682,24 @@
       "sdist": [
         "8u02DpYYgtmK7pSVo10XC/L7opLwj7z3WF1ACkSmbVA=",
         "easywork-0.0.24.tar.gz"
+      ]
+    },
+    "0.0.25": {
+      "sdist": [
+        "Q26NvIcC8RN68YQLtyhUjeK7ETelhWkggYi/t8dCMSg=",
+        "easywork-0.0.25.tar.gz"
+      ]
+    },
+    "0.0.26": {
+      "sdist": [
+        "P5HwujK1RbvlcmaK1og3teFfWRfTuikc2YaE1ApemIQ=",
+        "easywork-0.0.26.tar.gz"
+      ]
+    },
+    "0.0.27": {
+      "sdist": [
+        "v3j1TTiSs3X5zeXJQ1niqHC0m4qFMoHK0zVtTwAcbxU=",
+        "easywork-0.0.27.tar.gz"
       ]
     },
     "0.0.3": {
@@ -57568,14 +57622,62 @@
     }
   },
   "hackprank": {
-    "0.2.3": {
+    "0.2.6": {
       "sdist": [
-        "QgfEpW32qQYhnQMbpJgA68BNQL//Z498wE0LkRrNxLw=",
-        "hackprank-0.2.3.tar.gz"
+        "28BA89lKA6nwy+Jl8hIrO+lXM5ik0gCVEPzudkepRcc=",
+        "hackprank-0.2.6.tar.gz"
       ],
       "wheels": {
-        "hackprank-0.2.3-py3-none-any.whl": [
-          "HOFNBP7KUS9eiCPZy5Db9TZ+YkZ50UHXxzxFYwHqzPA=",
+        "hackprank-0.2.6-py3-none-any.whl": [
+          "T+7G1QmU+4JXZPgt8+KXAlslLGoZSc97JXGxnfwyjvc=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.7": {
+      "sdist": [
+        "7cZMVANhA7ll4ZcDkEQLMc7uHrOj+Uu6uWkVLq3Ej64=",
+        "hackprank-0.2.7.tar.gz"
+      ],
+      "wheels": {
+        "hackprank-0.2.7-py3-none-any.whl": [
+          "kxzqFCDu+ruCxy+JEm4vclqImGnRsNkePzHeytEJVCo=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.8": {
+      "sdist": [
+        "8PMXmDFK/FGV20n4mxFnKu+00YT/yCRvXSF/a54JDfU=",
+        "hackprank-0.2.8.tar.gz"
+      ],
+      "wheels": {
+        "hackprank-0.2.8-py3-none-any.whl": [
+          "mytmRB61q3jq1/QX18G0zZF8DnHrD5EPsWQLO2nb/mc=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.9": {
+      "sdist": [
+        "u1PjAHWoEEuoMJiRcOJ+yShfRnHllrE1myWttz9yXNU=",
+        "hackprank-0.2.9.tar.gz"
+      ],
+      "wheels": {
+        "hackprank-0.2.9-py3-none-any.whl": [
+          "B/U3hSvhYCO/i0HfCW9B2q6llbGp1YouEy4EAHakFs8=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.0": {
+      "sdist": [
+        "03uvqCvN0GyvuJINtcdfFyqwYyaMEJvBXv/Wu7JKMNc=",
+        "hackprank-0.3.0.tar.gz"
+      ],
+      "wheels": {
+        "hackprank-0.3.0-py3-none-any.whl": [
+          "gSWe84f0DS9PRIRiPKMSy8+zIpqk21Px8qqSO58xaCg=",
           "py3"
         ]
       }
@@ -127086,6 +127188,12 @@
       "sdist": [
         "6V1XMRX3yPkeCuOLJPP7Yb0ECzJvYmMXeSrIoV/2ehw=",
         "rupineWeb3Utils-0.0.24.tar.gz"
+      ]
+    },
+    "0.0.25": {
+      "sdist": [
+        "LAQ14gUSFEa8ikFYHcmVRLcUoqmW/Vck18mII5YMJwk=",
+        "rupineWeb3Utils-0.0.25.tar.gz"
       ]
     },
     "0.0.3": {

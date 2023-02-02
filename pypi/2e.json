@@ -10803,6 +10803,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.62": {
+      "sdist": [
+        "mhGTUPtOK2aVKCmZuBNeOkRm5PoIXfP+hr+H88fLShw=",
+        "botocore-a-la-carte-amplifyuibuilder-1.29.62.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_amplifyuibuilder-1.29.62-py3-none-any.whl": [
+          "HqZKDK83+GWxlRdhHDt7gpcjs1UdXBevbjvw1lZPHL8=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-rekognition": {
@@ -11042,6 +11054,18 @@
       "wheels": {
         "botocore_a_la_carte_rekognition-1.29.61-py3-none-any.whl": [
           "jz6GmZTgMxum+FYq05Ud4q6LVdnC/OekTI7PKxLiqWA=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.62": {
+      "sdist": [
+        "adN9sV/WuRqcn6FzTBCqB3j831lnywUDuB8sAszf5Mc=",
+        "botocore-a-la-carte-rekognition-1.29.62.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_rekognition-1.29.62-py3-none-any.whl": [
+          "v7LjfRgaT/XzmtPfCqGriI9fM4sXmFrNt6eNvkq/FPI=",
           "py3"
         ]
       }
@@ -16180,6 +16204,18 @@
       "wheels": {
         "cdktf_github_actions-0.0.16-py3-none-any.whl": [
           "MO5BypGfSot1694Pab5/45uUO9S8HWPy9smHgCtnWmQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.17": {
+      "sdist": [
+        "fLDKJvWqTvcdn629acvnFmOesTqz0KesNVulK0EWMfo=",
+        "cdktf-github-actions-0.0.17.tar.gz"
+      ],
+      "wheels": {
+        "cdktf_github_actions-0.0.17-py3-none-any.whl": [
+          "t8+3fBm1Mf7747gmDjoot0+2//9HSiTkeLFWZPLRL2U=",
           "py3"
         ]
       }
@@ -52303,6 +52339,18 @@
           "py2.py3"
         ]
       }
+    },
+    "2.1.2": {
+      "sdist": [
+        "HLZZLUYK4JBsy+J9wgDQTLMxgWjR1f1rDU0aOd6Fjaw=",
+        "hdx-python-scraper-2.1.2.tar.gz"
+      ],
+      "wheels": {
+        "hdx_python_scraper-2.1.2-py2.py3-none-any.whl": [
+          "ZGc19tZ8bPNH0aWiEaQ3ow2AKbPTSYWiB2mZ2pdfp/g=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "hearhourmail": {
@@ -66136,6 +66184,18 @@
       "wheels": {
         "liitos-2023.1.31-py3-none-any.whl": [
           "vFKAwmDgeC0nf8aadLSx1sjNQ5eK8dL0s/+LTmAwVl4=",
+          "py3"
+        ]
+      }
+    },
+    "2023.2.1": {
+      "sdist": [
+        "fR7whvQsIS3vIDsJxH83hAM1V65hq7jk7omQfP2wFLE=",
+        "liitos-2023.2.1.tar.gz"
+      ],
+      "wheels": {
+        "liitos-2023.2.1-py3-none-any.whl": [
+          "ctnrK14dU77tReHGHYyBgPKqBzEUCSc1cSDXtFYsQYM=",
           "py3"
         ]
       }
@@ -101561,6 +101621,12 @@
         "BIamZiegZ/pESyY5oDm1HvvexdnnQVhhDF0318AkULs=",
         "pysnptools-0.5.7.tar.gz"
       ]
+    },
+    "0.5.8": {
+      "sdist": [
+        "7TnhlC3SfWQB4KteTBpYJGvm4r8AemAUqNyGnB7368o=",
+        "pysnptools-0.5.8.tar.gz"
+      ]
     }
   },
   "pyspark-dfreport": {
@@ -133332,6 +133398,10 @@
         ],
         "tritonclient-2.30.0-py3-none-manylinux1_x86_64.whl": [
           "vat/de2ujBxPzVtQ+gtfXS7wvVgcIvZNSkK/euBTcAI=",
+          "py3"
+        ],
+        "tritonclient-2.30.0-py3-none-manylinux2014_aarch64.whl": [
+          "nWbaVpPFPFGXsy3Kif9j2NQWwfdSsFqOoy8ClwXcCto=",
           "py3"
         ]
       }

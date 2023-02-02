@@ -10576,6 +10576,30 @@
         ]
       }
     },
+    "2.0.43": {
+      "sdist": [
+        "F8ZzLqGSZOrVs8VQA2/RkESJXEkE2qQAK1tWDA1slQc=",
+        "aws-cdk.asset-node-proxy-agent-v5-2.0.43.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.asset_node_proxy_agent_v5-2.0.43-py3-none-any.whl": [
+          "W8qqdl2HLEnZrBEl6HIw0FHx9xTi7l5eG3Ms2+lw4GM=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.44": {
+      "sdist": [
+        "h6Ogl9obxlv2m3KETfC3fpWRqwi2XSgMfytxaBq8Sd8=",
+        "aws-cdk.asset-node-proxy-agent-v5-2.0.44.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.asset_node_proxy_agent_v5-2.0.44-py3-none-any.whl": [
+          "EjrcGggGihPnc4sDRMzXtKlmaahilf3UyHxty9EvSow=",
+          "py3"
+        ]
+      }
+    },
     "2.0.5": {
       "sdist": [
         "VTCMQKAPo9VgMOAG0HB93l/W+0j5d3oYLFithWJkpWQ=",
@@ -75927,6 +75951,20 @@
       }
     }
   },
+  "mowgli": {
+    "0.1.0": {
+      "sdist": [
+        "43w1+YtvGn1N/hfUV/VweJpBCTGgiu+eXTcb+z0iz4M=",
+        "mowgli-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "mowgli-0.1.0-py3-none-any.whl": [
+          "dNrTjV/Nkn9bnBRgdhtT9MNRhm+jaOc2lhAiYJtYRHU=",
+          "py3"
+        ]
+      }
+    }
+  },
   "mozia": {
     "1.0.0": {
       "sdist": [
@@ -83741,6 +83779,14 @@
           "py3"
         ]
       }
+    },
+    "16.0.1.0.0.2": {
+      "wheels": {
+        "odoo_addon_stock_available_unreserved-16.0.1.0.0.2-py3-none-any.whl": [
+          "2y5dV0bH7jkykFiC3Q0yA8EIr0usAgt2FDpH3xyHpPs=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo10-addon-account-payment-residual-amount": {
@@ -84050,6 +84096,14 @@
       "wheels": {
         "odoo10_addon_sale_order_action_invoice_create_hook-10.0.1.0.0.99.dev6-py2-none-any.whl": [
           "oeWQ81arGhwP8m7YL5tT1GMPoLbZenVsxnQS8YVy33Y=",
+          "py2"
+        ]
+      }
+    },
+    "10.0.1.0.0.99.dev7": {
+      "wheels": {
+        "odoo10_addon_sale_order_action_invoice_create_hook-10.0.1.0.0.99.dev7-py2-none-any.whl": [
+          "BuAPGaetP3c65lLCupKKaDJhkp8RDhgZN/sD6iD/3IM=",
           "py2"
         ]
       }
@@ -85032,6 +85086,14 @@
       "wheels": {
         "odoo13_addon_procurement_purchase_no_grouping-13.0.3.0.1.dev2-py3-none-any.whl": [
           "WJU2M5MXq9bU9dHwq5mMEKmntRj7rXcgNY69vFe12Qk=",
+          "py3"
+        ]
+      }
+    },
+    "13.0.3.0.2.dev1": {
+      "wheels": {
+        "odoo13_addon_procurement_purchase_no_grouping-13.0.3.0.2.dev1-py3-none-any.whl": [
+          "swRVY54EkE+xthSxVa4NweF6fvKBn2kMNVR4Y78IozE=",
           "py3"
         ]
       }
@@ -91506,6 +91568,18 @@
       "wheels": {
         "phasty-0.4.0-py3-none-any.whl": [
           "bIb9T5rlkrAGO72TADJ/EuXLb7N0pXM3P6YjTm8s+lY=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.1": {
+      "sdist": [
+        "vcYWKM3+VyLkF51GOxM/2hj+GHHKzQi5r4D87JDQK0Y=",
+        "phasty-0.4.1.tar.gz"
+      ],
+      "wheels": {
+        "phasty-0.4.1-py3-none-any.whl": [
+          "EXaOCl/NurtS4ZhWpmem++bYuxJCwAQcqNzHBMlUPxo=",
           "py3"
         ]
       }
@@ -108767,6 +108841,18 @@
           "py3"
         ]
       }
+    },
+    "6.1.1": {
+      "sdist": [
+        "N+weIqPY4wXxLg4zvbqqv0HyIpTbEnKPy4pYhs3T02g=",
+        "reahl-6.1.1.tar.gz"
+      ],
+      "wheels": {
+        "reahl-6.1.1-py3-none-any.whl": [
+          "aInlea/LGywEQl1RgkWgCElmkiaw/gotMR5SJr57GRI=",
+          "py3"
+        ]
+      }
     }
   },
   "rec-to-binaries": {
@@ -116924,6 +117010,20 @@
       "wheels": {
         "sketcher-1.0.3-py3-none-any.whl": [
           "qeLx/XEFybP1Jkdmsc4sqx7mRS+XuHjhTUMmbBhLPh0=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "sklearn.utils.testing": {
+    "0.0.1": {
+      "sdist": [
+        "yeEhSewfnG9WXxqiyQNSUs8G00hcM9LgZBFchXESTB4=",
+        "sklearn.utils.testing-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "sklearn.utils.testing-0.0.1-py3-none-any.whl": [
+          "3YEC7KGdXsQx5GG3Z4QHFQ5TmaEuA534hyZvHZpPX9o=",
           "py3"
         ]
       }
@@ -134323,6 +134423,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.821": {
+      "sdist": [
+        "igclGEG93uf3lBUFFKXxb0go78JUJXsFIV8HLP6knBU=",
+        "tencentcloud-sdk-python-tia-3.0.821.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_tia-3.0.821-py2.py3-none-any.whl": [
+          "D0SZw1TqKzvXjBsPM2zylf5ZrZFe6ln4J0bOA6AQZ34=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tentaclio-databricks-pyodbc": {
@@ -136855,6 +136967,14 @@
         "tf_nightly_cpu_aws-2.12.0.dev20230120-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
           "eGUAL9u9g9pUN66dbvPODP6k8T8PE/52j6fJ5pnLlAw=",
           "cp39"
+        ]
+      }
+    },
+    "2.12.0.dev20230202": {
+      "wheels": {
+        "tf_nightly_cpu_aws-2.12.0.dev20230202-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "Ftpq8CkEpAIau4yM/YLLyhiuZfOmpT1twL6ROwVYKcQ=",
+          "cp310"
         ]
       }
     }
@@ -143876,6 +143996,18 @@
       "wheels": {
         "vctoolkit-0.1.14.2-py3-none-any.whl": [
           "NubbHiBcvi9MV8Uwaapl5qJVDuJ4ZNqj7MojuJ3AvR4=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.14.3": {
+      "sdist": [
+        "zG+WR3NCJ/GT7NYnWfKc5quNRTCV9x4Es+putUfuCYs=",
+        "vctoolkit-0.1.14.3.tar.gz"
+      ],
+      "wheels": {
+        "vctoolkit-0.1.14.3-py3-none-any.whl": [
+          "WWA4ouf/OylEBfTMLwEnm7crVyw0XvO1BptRnIZdlqc=",
           "py3"
         ]
       }

@@ -28220,6 +28220,18 @@
     }
   },
   "cachetory": {
+    "0.0.0": {
+      "sdist": [
+        "epc/p6YkZ2jLUv574bfCby2B8XZfW01/030BHbb0h/Q=",
+        "cachetory-0.0.0.tar.gz"
+      ],
+      "wheels": {
+        "cachetory-0.0.0-py3-none-any.whl": [
+          "3vM0eN80KXC/L0ySN+LK2/S0TUUW5MRIMA3Rk3rDq4E=",
+          "py3"
+        ]
+      }
+    },
     "0.1.0": {
       "sdist": [
         "Xe1ONIpbIUoYK8x/H2Oh8CM+1CqbTDCd2thGXnIzZ20=",
@@ -28306,6 +28318,18 @@
       "wheels": {
         "cachetory-2.0.0-py3-none-any.whl": [
           "oeUbprmAAt8W9Ymf/nUPj3g8qK2uqrEejDYn4ABzz28=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.1": {
+      "sdist": [
+        "cwce2UrZs1//q6jW5UTuwOcDE55YWC3bLh3qlHTd+AU=",
+        "cachetory-2.0.1.tar.gz"
+      ],
+      "wheels": {
+        "cachetory-2.0.1-py3-none-any.whl": [
+          "aH8TD9x38HlBS4PX/jML3byQheRtuWjQaGfhCZTHt/8=",
           "py3"
         ]
       }
@@ -62536,6 +62560,14 @@
       "wheels": {
         "huaweicloudsdkcce-3.1.23-py2.py3-none-any.whl": [
           "WXa0uLjnqR6rpa3P/6PMiwfCRY4ndRiCSQY0LeYx9uM=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.24": {
+      "wheels": {
+        "huaweicloudsdkcce-3.1.24-py2.py3-none-any.whl": [
+          "+R87rKIJWx1LOAhh19cit6eHGFSUbkqe1hlIEDDy4wo=",
           "py2.py3"
         ]
       }
@@ -137526,6 +137558,78 @@
         ]
       }
     },
+    "0.1.31": {
+      "sdist": [
+        "hSm3qy3t+A9dPg6I9wID9zh/q0Q9lTR94BU4xvyfd6Y=",
+        "tensorstore-0.1.31.tar.gz"
+      ],
+      "wheels": {
+        "tensorstore-0.1.31-cp310-cp310-macosx_10_14_x86_64.whl": [
+          "mfi79UwnmluFRZ+hth7auzSrXRAWVJ2gwjmpdU6T1/A=",
+          "cp310"
+        ],
+        "tensorstore-0.1.31-cp310-cp310-macosx_11_0_arm64.whl": [
+          "mWyuli9+CZAyLMMKRXXbojH1Ldk+LGX+dytJzngLP04=",
+          "cp310"
+        ],
+        "tensorstore-0.1.31-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "QQ3+HfehJ/Rb/UdQJdfd/7+CfYyWW2BUOi6cC2UNMwk=",
+          "cp310"
+        ],
+        "tensorstore-0.1.31-cp310-cp310-win_amd64.whl": [
+          "Fgk7lEk1rggo6tEOdCFrGBoaJ4aAd6XWgqgXf17RKTA=",
+          "cp310"
+        ],
+        "tensorstore-0.1.31-cp311-cp311-macosx_10_14_x86_64.whl": [
+          "e+o/AH+m7cwjJoytvfrinztFJetKJNuNBBC/+0C4JHc=",
+          "cp311"
+        ],
+        "tensorstore-0.1.31-cp311-cp311-macosx_11_0_arm64.whl": [
+          "iGP2CALla6oHKVjREVTN8kG2dPqbWC77cwUX1G4NpEo=",
+          "cp311"
+        ],
+        "tensorstore-0.1.31-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "/4cRAgxkoV3utNiYBb1K3D+6PRKKeMLXfavTNiF30cc=",
+          "cp311"
+        ],
+        "tensorstore-0.1.31-cp311-cp311-win_amd64.whl": [
+          "kqZ+7rqZaOyqDBKO5EmijQaI3LpTMmF8CtlClh2oX0M=",
+          "cp311"
+        ],
+        "tensorstore-0.1.31-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "HvSIM3ZWfk3/fzJIAnjVUYq7ECaWpU6E4c+0lVcJZ74=",
+          "cp38"
+        ],
+        "tensorstore-0.1.31-cp38-cp38-macosx_11_0_arm64.whl": [
+          "nHEH1jUCfMXw3w0ZRFkMvcV5p4M9eGwEDYUcEIWbN5s=",
+          "cp38"
+        ],
+        "tensorstore-0.1.31-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "lnps9sWAhq7225gVHbmZNI/GqgoYvpYYTdkj/T/pP4Y=",
+          "cp38"
+        ],
+        "tensorstore-0.1.31-cp38-cp38-win_amd64.whl": [
+          "9Kvb9RxGnnWZdNfFe2CYJtlUXIkmIHKoEigFTSlPIwk=",
+          "cp38"
+        ],
+        "tensorstore-0.1.31-cp39-cp39-macosx_10_14_x86_64.whl": [
+          "Ic4WtsOSSANlbCoy+8JnyKqeN1/rEzQs4gz/jd6UNcw=",
+          "cp39"
+        ],
+        "tensorstore-0.1.31-cp39-cp39-macosx_11_0_arm64.whl": [
+          "16NN0T7rmXwcUE+clBIMFTjzaHl7P6vKoTq1yTdfN0Y=",
+          "cp39"
+        ],
+        "tensorstore-0.1.31-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "5+hi1hAawoDs8S3NzyzWBwEaEQLVhJvGorhclXwOy+0=",
+          "cp39"
+        ],
+        "tensorstore-0.1.31-cp39-cp39-win_amd64.whl": [
+          "4SlbGiAg3Kkp968kO8hTvE2J8sfT1WVLay4x0nhw//E=",
+          "cp39"
+        ]
+      }
+    },
     "0.1.4": {
       "sdist": [
         "rQ8SN2aPgTuqCeQZ/h6aGtwcsrDj6wj47MitLaxs6I8=",
@@ -149362,6 +149466,12 @@
       "sdist": [
         "f706XsyIg8OAb23cntL93TbWWNgeHpgFJIg/hL6MnYA=",
         "volsite_postgres_common-0.1.15.tar.gz"
+      ]
+    },
+    "0.1.16": {
+      "sdist": [
+        "tgU5itGHz+IaPW5FYg31P1O0mQLKzSf2vfM1KMLcVmw=",
+        "volsite_postgres_common-0.1.16.tar.gz"
       ]
     },
     "0.1.2": {

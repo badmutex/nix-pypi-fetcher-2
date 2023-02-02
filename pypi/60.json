@@ -14431,6 +14431,18 @@
           "py3"
         ]
       }
+    },
+    "2.3.0b20230202": {
+      "wheels": {
+        "bigdl_friesian_spark3-2.3.0b20230202-py3-none-macosx_10_11_x86_64.whl": [
+          "pE/HIr/qlmN+5Mmv9dEDnbHQSf5pH429hyp2lOxbcuk=",
+          "py3"
+        ],
+        "bigdl_friesian_spark3-2.3.0b20230202-py3-none-manylinux1_x86_64.whl": [
+          "psuxXnmL+LP4gCptx4CJ7I/EBu2UNY6A8uXFNgJN5lQ=",
+          "py3"
+        ]
+      }
     }
   },
   "binsinfo": {
@@ -67290,6 +67302,18 @@
         ]
       }
     },
+    "0.0.40": {
+      "sdist": [
+        "ZmUwVI05V+dXixjwUIHiaAPrqH+zv3pc52ik3DZnvxo=",
+        "langsci-0.0.40.tar.gz"
+      ],
+      "wheels": {
+        "langsci-0.0.40-py3-none-any.whl": [
+          "bt1zZwMSszv4W1F2n1MFqfl9Bnwh7m4YaN2MdCFfyOY=",
+          "py3"
+        ]
+      }
+    },
     "0.0.5": {
       "sdist": [
         "Y6nDzvzKfeptk3Um4h76BfSK+pkPertpGfEtoq5UsmA=",
@@ -90037,6 +90061,14 @@
           "py2"
         ]
       }
+    },
+    "10.0.1.0.2.99.dev1": {
+      "wheels": {
+        "odoo10_addon_sale_order_revision-10.0.1.0.2.99.dev1-py2-none-any.whl": [
+          "mxfNiQ+TDLWFlcVd5aJU5kWLXW6OkiUHeSLBV5VOdRM=",
+          "py2"
+        ]
+      }
     }
   },
   "odoo11-addon-account-journal-lock-date": {
@@ -93426,6 +93458,14 @@
       "wheels": {
         "odoo9_addon_sale_order_line_date-9.0.1.0.0.99.dev7-py2-none-any.whl": [
           "ILLGy+SiZoTfCb9vhvXS16e/omwMMI3pAw/YqG4D4HI=",
+          "py2"
+        ]
+      }
+    },
+    "9.0.1.0.0.99.dev8": {
+      "wheels": {
+        "odoo9_addon_sale_order_line_date-9.0.1.0.0.99.dev8-py2-none-any.whl": [
+          "PBRO4LNGoSCAWpAb32gKGAbpMU5ilCbhEcd+cpezGro=",
           "py2"
         ]
       }
@@ -123834,6 +123874,12 @@
         "returnn-1.20230201.125743.tar.gz"
       ]
     },
+    "1.20230202.145903": {
+      "sdist": [
+        "ZeU9/v2dR85nfQHcmig3s55lDl+oKliL91AQJ9K1WT0=",
+        "returnn-1.20230202.145903.tar.gz"
+      ]
+    },
     "1.20230202.5601": {
       "sdist": [
         "mXc6baRVDG3/svjWDFuN4JSySIMb6E2+mhTefaNrzm8=",
@@ -140329,6 +140375,18 @@
           "py3"
         ]
       }
+    },
+    "0.6.2": {
+      "sdist": [
+        "KGEhb7730SbYVsNRCLfCsgSFJB/w79SLdcYOnL6dnJQ=",
+        "TypeDal-0.6.2.tar.gz"
+      ],
+      "wheels": {
+        "TypeDal-0.6.2-py3-none-any.whl": [
+          "/ePMA4itnDuK5FZWz6wXKyNnuoPqvtAzf8PjOwlwyKQ=",
+          "py3"
+        ]
+      }
     }
   },
   "typeguess": {
@@ -147234,6 +147292,32 @@
       "wheels": {
         "wotlk_db_BY_MCH-0.0.1-py3-none-any.whl": [
           "awk2mvWp3/Rs/RCATu7aYftaiWUpF2gIy4KH7LokYsE=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "wow-ai-ml": {
+    "0.1.0": {
+      "sdist": [
+        "fBh55t+OR5SNn+2+zkqVIAbpVgEQciGGHzLaQ0n9BVI=",
+        "wow_ai_ml-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "wow_ai_ml-0.1.0-py3-none-any.whl": [
+          "WR4j2CN2BolqqgiU2lt1QV0lmujliGGjDeKme8zbLR4=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "+Be5489Dce37oEV9TUPc9KMjgv2JJ+anw6l3ACap134=",
+        "wow_ai_ml-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "wow_ai_ml-0.1.1-py3-none-any.whl": [
+          "bOG8k9tn4jk+m7yH1w3OhvFAdZh65Bui48w5a+ocbqI=",
           "py3"
         ]
       }

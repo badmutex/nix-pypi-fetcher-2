@@ -38327,6 +38327,12 @@
         "4kS7mVtes6MLzC5pKlNlPSuBBS4lvtqOTT9UD5qF2Rg=",
         "flower-custom-1.2.0.tar.gz"
       ]
+    },
+    "1.2.1": {
+      "sdist": [
+        "Mkrz90bft5+Ym+oYTKr5cf7xqifN+lfad1nsCqGNUPg=",
+        "flower-custom-1.2.1.tar.gz"
+      ]
     }
   },
   "fluid-jsonrpc": {
@@ -48780,6 +48786,14 @@
         ]
       }
     },
+    "3.1.24": {
+      "wheels": {
+        "huaweicloudsdksmn-3.1.24-py2.py3-none-any.whl": [
+          "ied/D1aN1UyjL8Gl/y0yToBOlBNbhAaDkma2KFKAxes=",
+          "py2.py3"
+        ]
+      }
+    },
     "3.1.3": {
       "wheels": {
         "huaweicloudsdksmn-3.1.3-py2.py3-none-any.whl": [
@@ -50324,6 +50338,22 @@
       "wheels": {
         "inmanta_module_terraform-1.3.7-py3-none-any.whl": [
           "4X57mMh0aUpBeqDiPgOOxYmUgozQMLevCUQ/J8wQjCU=",
+          "py3"
+        ]
+      }
+    },
+    "1.3.8": {
+      "wheels": {
+        "inmanta_module_terraform-1.3.8-py3-none-any.whl": [
+          "wlQD/6vWJKYqSdvCqoPgA/JSrai4JqLz8SX+BCFFjAQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.3.9": {
+      "wheels": {
+        "inmanta_module_terraform-1.3.9-py3-none-any.whl": [
+          "Fk3qbBTkgIzRTexq+Yi9VTOxAX7K7p+jcM/Dpud8GXI=",
           "py3"
         ]
       }
@@ -84571,6 +84601,20 @@
       }
     }
   },
+  "poai": {
+    "0.0.1": {
+      "sdist": [
+        "H1SKcO46SC8NnKm2jHn2SJgzvqQmsDlBJNOILgnk1/c=",
+        "poai-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "poai-0.0.1-py3-none-any.whl": [
+          "O0YtvWjRfoxvcUvbIn0bXq1ZzOH+RthuOTcnAPZtzY0=",
+          "py3"
+        ]
+      }
+    }
+  },
   "pollination-streamlit-io": {
     "0.10.0": {
       "sdist": [
@@ -93412,6 +93456,12 @@
       "sdist": [
         "78AuS4qm1kuxiKDHafWQvlWIQ2IPho0qhgDw3a2e4ks=",
         "pulumi_aws-5.28.0a1674464044.tar.gz"
+      ]
+    },
+    "5.29.0": {
+      "sdist": [
+        "soxNjYpw5Q4HhM/DJrhyJagPl6khDFt5jG2EluvIMAk=",
+        "pulumi_aws-5.29.0.tar.gz"
       ]
     },
     "5.29.0a1675272489": {
@@ -151132,6 +151182,18 @@
       "wheels": {
         "youscan_ir_client-23.1.0-py3-none-any.whl": [
           "vbbQywZlF/S+5nq2vMosrg3gUiSbESL3g/48s7INv+E=",
+          "py3"
+        ]
+      }
+    },
+    "23.2.0": {
+      "sdist": [
+        "rZk0BayvXVtdTyXCN6UnMPULmbqu/lawF34h5poFwyA=",
+        "youscan-ir-client-23.2.0.tar.gz"
+      ],
+      "wheels": {
+        "youscan_ir_client-23.2.0-py3-none-any.whl": [
+          "gdDfAus3akY3MzyxLCwIeagTwhULVA9EUx8u9sDj0fU=",
           "py3"
         ]
       }

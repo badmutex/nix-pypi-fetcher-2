@@ -34147,6 +34147,20 @@
       ]
     }
   },
+  "django.utils.translation": {
+    "0.0.1": {
+      "sdist": [
+        "Ow3HwUmdMBvGerpzmYWoGdPYBc1NVF4M7rgv5eOu304=",
+        "django.utils.translation-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "django.utils.translation-0.0.1-py3-none-any.whl": [
+          "UJfUhUREY2UhWssEkqZSgqOKxoXJxNSgTK6RJL8f3u0=",
+          "py3"
+        ]
+      }
+    }
+  },
   "djangocensus": {
     "2.0.0": {
       "sdist": [
@@ -47064,6 +47078,18 @@
         ]
       }
     },
+    "3.11.9": {
+      "sdist": [
+        "pOHAsKZp6yDu9bQ3pfqvp649pF9DIU3H8nrIBLvnJtY=",
+        "fiduswriter-3.11.9.tar.gz"
+      ],
+      "wheels": {
+        "fiduswriter-3.11.9-py3-none-any.whl": [
+          "4UHaiXZALs9BuVHPeNbaey6ux6YrExpBsFglu82u8lU=",
+          "py3"
+        ]
+      }
+    },
     "3.7.0": {
       "sdist": [
         "tOQOwesshO4ctsn1jH/kTQVEdJcm3wLmhBnrh9XwO4k=",
@@ -48398,6 +48424,26 @@
         ],
         "findex-2.0.0-cp37-abi3-win_amd64.whl": [
           "dOa2qhJx/02kN4JKVIJ7fMgKYCp+50drCfvCYN3MzAo=",
+          "cp37"
+        ]
+      }
+    },
+    "2.0.1": {
+      "wheels": {
+        "findex-2.0.1-cp37-abi3-macosx_10_7_x86_64.whl": [
+          "e4DbxIWaTrb+2BzQU2PBTS9XouPGg1Yg2crVu4RLfjE=",
+          "cp37"
+        ],
+        "findex-2.0.1-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "5AJyIDQtrKC7fZ5z00JHCgam1ttqYsHHxwlN0X+oRP0=",
+          "cp37"
+        ],
+        "findex-2.0.1-cp37-abi3-manylinux_2_31_x86_64.whl": [
+          "jBZEvZJ7CBW5haIYiibgfO05t+r2fD6O1wsmoAqhKTg=",
+          "cp37"
+        ],
+        "findex-2.0.1-cp37-abi3-win_amd64.whl": [
+          "//QyaLpRSLU3GqjPFYY/g67HQWMjz0dRUU5dCR19OG0=",
           "cp37"
         ]
       }
@@ -60182,6 +60228,12 @@
       "sdist": [
         "GZT4C/UjPDR0XN630keCzzp4MbH3OTwn62t3Tv5E+bw=",
         "homewizard_climate_ws-0.0.10.tar.gz"
+      ]
+    },
+    "0.0.11": {
+      "sdist": [
+        "9lfFr3LptDRviusKvN8luG4Vfo5hebXGna+18509rsQ=",
+        "homewizard_climate_ws-0.0.11.tar.gz"
       ]
     },
     "0.0.9": {
@@ -97376,38 +97428,26 @@
     }
   },
   "pbinance": {
-    "1.0.0.dev0": {
+    "1.0.2": {
       "sdist": [
-        "VjrH6ErrB+z3W2BuqdZaaQTqQASFwEF5zmHPGUoGRV0=",
-        "pbinance-1.0.0.dev0.tar.gz"
+        "uhhsH3tsMIZEwgk2MgnccO/fI8XylAxF0aJobyIylaA=",
+        "pbinance-1.0.2.tar.gz"
       ],
       "wheels": {
-        "pbinance-1.0.0.dev0-py3-none-any.whl": [
-          "XdIfh357/aujYjpFDasG+6zNU+3BVTd53yr4dJC9YTg=",
+        "pbinance-1.0.2-py3-none-any.whl": [
+          "HVLHVgJBQlmN3nKCEHjZpWeTjbt6kxCyxMfLLirUV+c=",
           "py3"
         ]
       }
     },
-    "1.0.0.dev1": {
+    "1.0.3": {
       "sdist": [
-        "PrCbcTARef6+lWWzDTnilM3pytmruNgFI9/7EfkGO5I=",
-        "pbinance-1.0.0.dev1.tar.gz"
+        "7kr/xKow5IbOkamcg6/DFz5VUIqY9mpm183nMqXjIZQ=",
+        "pbinance-1.0.3.tar.gz"
       ],
       "wheels": {
-        "pbinance-1.0.0.dev1-py3-none-any.whl": [
-          "QhttTaE8Wkt+A0NB3FT1zyPmzlI+3/9+Nt9gNoKhHaQ=",
-          "py3"
-        ]
-      }
-    },
-    "1.0.1": {
-      "sdist": [
-        "TVeWkTcitQD7TCtmCk6ewBnhnmX+nXuJr5uenWYHawM=",
-        "pbinance-1.0.1.tar.gz"
-      ],
-      "wheels": {
-        "pbinance-1.0.1-py3-none-any.whl": [
-          "5h+mwRNoCxZCf4n9Pfrzxfy/FZrZ8tOjmMJ7uTJZKE0=",
+        "pbinance-1.0.3-py3-none-any.whl": [
+          "eJr8k3vM44pVSWwhUgDzREv9Sd7khtLPyOuFtkXyil8=",
           "py3"
         ]
       }
@@ -120373,6 +120413,18 @@
           "py3"
         ]
       }
+    },
+    "0.7.1": {
+      "sdist": [
+        "GAXzVYHpfED0b225wYnxyFX3AQK34PQVv1/RmuIJ6oo=",
+        "pyzx-0.7.1.tar.gz"
+      ],
+      "wheels": {
+        "pyzx-0.7.1-py3-none-any.whl": [
+          "vOYY/k4j4d/ZTijzaCgDIjU5bYY5CotCXvhQcYIb68Q=",
+          "py3"
+        ]
+      }
     }
   },
   "qcrepocleaner": {
@@ -132793,6 +132845,18 @@
           "py3"
         ]
       }
+    },
+    "1.2.5": {
+      "sdist": [
+        "2ycYS9IwyTz/RoMPeZKGwmffYY1ozpX4U4AtmqfKV2g=",
+        "spatial_transform-1.2.5.tar.gz"
+      ],
+      "wheels": {
+        "spatial_transform-1.2.5-py3-none-any.whl": [
+          "RvVrNF3yNcxKoo0gUxaY91wFItBMvABXPxy8xiV7MmI=",
+          "py3"
+        ]
+      }
     }
   },
   "spde": {
@@ -144767,6 +144831,20 @@
         "h44IennCE5auQKkl8zsJckjkejSGNFuRnQH/H8Pw+pM=",
         "worldme-0.0.1.tar.gz"
       ]
+    }
+  },
+  "wow-ai-sdk": {
+    "0.1.0": {
+      "sdist": [
+        "PcHvblwuthwrb622ZKmmn5eAffmduoJyIj7DEo2ZUWg=",
+        "wow_ai_sdk-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "wow_ai_sdk-0.1.0-py3-none-any.whl": [
+          "7JzNYxr/dNAeUwNqaQPIs1S0jiGTVLFaPcbHOUCjsrk=",
+          "py3"
+        ]
+      }
     }
   },
   "wowsunpack": {

@@ -5457,6 +5457,46 @@
           "cp39"
         ]
       }
+    },
+    "2.0.4": {
+      "sdist": [
+        "xOjnY5xWWIGTqGp6ufnlGdI/dqBOusF07fYt8NaoYNA=",
+        "amulet-nbt-2.0.4.tar.gz"
+      ],
+      "wheels": {
+        "amulet_nbt-2.0.4-cp310-cp310-macosx_11_0_x86_64.whl": [
+          "8S3c9eotCPqFC5ax2w8kj+kmc9Bmt1Tjr9MYYwjs3nc=",
+          "cp310"
+        ],
+        "amulet_nbt-2.0.4-cp310-cp310-win_amd64.whl": [
+          "BKApehUtbUC9YLbBrSVsVjP4QwAtHF7LT+sd6jc33cU=",
+          "cp310"
+        ],
+        "amulet_nbt-2.0.4-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "thdmGvZfg6JlqElOr7mYLhVfVIFTRoeLCUn2hQsObfI=",
+          "cp37"
+        ],
+        "amulet_nbt-2.0.4-cp37-cp37m-win_amd64.whl": [
+          "YGo/aDWHK274lE9fR1fqqd9V/pXbW0k/tM9+62PZqCc=",
+          "cp37"
+        ],
+        "amulet_nbt-2.0.4-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "7yyBB3oycJeDBenwy79pENzrtWYtO2D2VixqEgeYgfw=",
+          "cp38"
+        ],
+        "amulet_nbt-2.0.4-cp38-cp38-win_amd64.whl": [
+          "mStwaOO56EU+PPYnfwo0Hlbhy055zXoGrsEcDNkUFjY=",
+          "cp38"
+        ],
+        "amulet_nbt-2.0.4-cp39-cp39-macosx_11_0_x86_64.whl": [
+          "VVPk+WxOZT50cZsnUQGeZWFIR8i3Fih+R9HjRNOVGMY=",
+          "cp39"
+        ],
+        "amulet_nbt-2.0.4-cp39-cp39-win_amd64.whl": [
+          "HnLf9HFngwlkTKmv+gpEfEFGlN+Wls8Dc93CgAloDjE=",
+          "cp39"
+        ]
+      }
     }
   },
   "amuse-mmams": {
@@ -30902,21 +30942,41 @@
     },
     "0.4.7": {
       "wheels": {
+        "cumm_cu118-0.4.7-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Ww8XIxPG23Tk26h0z1N8tJxnkeKnEtylRweqiFLZwJU=",
+          "cp310"
+        ],
         "cumm_cu118-0.4.7-cp310-cp310-win_amd64.whl": [
           "6XPBqGxqyo2z67UewMXinMccCTud83N7D0CFlJlZrXk=",
           "cp310"
+        ],
+        "cumm_cu118-0.4.7-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "6UBksrNzWhKVESEUMCxTrzC2PISa3atDPuz8xHnXO7w=",
+          "cp311"
         ],
         "cumm_cu118-0.4.7-cp311-cp311-win_amd64.whl": [
           "5FsvSq4E6bx9bCDrhd/imiyriCLKRQvCKUecH6VSNOM=",
           "cp311"
         ],
+        "cumm_cu118-0.4.7-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "mb5sZnWFpINpU8xGkvXnHTtNRZbbqplaoPMZTcV6L9M=",
+          "cp37"
+        ],
         "cumm_cu118-0.4.7-cp37-cp37m-win_amd64.whl": [
           "eDm5x30LLKkc32RcmWgFS7801PWMZ+0mLBA+9j7e150=",
           "cp37"
         ],
+        "cumm_cu118-0.4.7-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "HhiOjZcgi/HNQJLENCwdEjgzhBQNJzcMov9lE3kyjls=",
+          "cp38"
+        ],
         "cumm_cu118-0.4.7-cp38-cp38-win_amd64.whl": [
           "LRuWDCyJRhcRyickNu0A0JhyB04Vz9d0/a53m5PUt/E=",
           "cp38"
+        ],
+        "cumm_cu118-0.4.7-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "zssDSp893u4qA0QJHYjF5bqqqH3ud4WA8SNYusdhIYc=",
+          "cp39"
         ],
         "cumm_cu118-0.4.7-cp39-cp39-win_amd64.whl": [
           "UYXp8KBw7cNJ13/oLuQTD3IS7Tz5aEmDLvtwUdgNxeU=",
@@ -58522,6 +58582,14 @@
         ]
       }
     },
+    "3.1.24": {
+      "wheels": {
+        "huaweicloudsdkecs-3.1.24-py2.py3-none-any.whl": [
+          "DeSrjRqlOJe8QMASsu5IGxJOX+xmYIjPxu1pCif6F7E=",
+          "py2.py3"
+        ]
+      }
+    },
     "3.1.3": {
       "wheels": {
         "huaweicloudsdkecs-3.1.3-py2.py3-none-any.whl": [
@@ -58996,6 +59064,14 @@
         ]
       }
     },
+    "3.1.24": {
+      "wheels": {
+        "huaweicloudsdkief-3.1.24-py2.py3-none-any.whl": [
+          "OYcv5djtKgrnPJH+wY/uqSeokb1Ziv+7DojHX8Jllqw=",
+          "py2.py3"
+        ]
+      }
+    },
     "3.1.3": {
       "wheels": {
         "huaweicloudsdkief-3.1.3-py2.py3-none-any.whl": [
@@ -59170,6 +59246,18 @@
       "wheels": {
         "hubitatcontrol-1.0.6-py3-none-any.whl": [
           "0bgSV1V80zqYcM0KAiZQJVwItW3x3Dx0T99rak5vUcM=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.7": {
+      "sdist": [
+        "wmR1MIz5895v0kvLVyLpD6YwHyw5O3XXVcqXmp6yDDQ=",
+        "hubitatcontrol-1.0.7.tar.gz"
+      ],
+      "wheels": {
+        "hubitatcontrol-1.0.7-py3-none-any.whl": [
+          "RVN+IgqP2sNfoOWyCwTWqKcJaSgc7xHA/SdqCMBAyRQ=",
           "py3"
         ]
       }
@@ -91103,6 +91191,18 @@
           "cp37"
         ]
       }
+    },
+    "0.16.2": {
+      "sdist": [
+        "Ck3NBeaNvymzJFLpWkMjLghZ9uGgi35itVp8UQrEDvU=",
+        "polars_lts_cpu-0.16.2.tar.gz"
+      ],
+      "wheels": {
+        "polars_lts_cpu-0.16.2-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "0HMbS8WyvrAEQSHcKKytvLqPfVwfWqhJB7RG9aSnAoA=",
+          "cp37"
+        ]
+      }
     }
   },
   "poldark-qt": {
@@ -93034,6 +93134,30 @@
       "wheels": {
         "prismacloud_cli-0.6.6-py3-none-any.whl": [
           "MkflO+/cNI32mKAkqsdvnryi5c5aul6zd0iTEgT1jl0=",
+          "py3"
+        ]
+      }
+    },
+    "0.6.7": {
+      "sdist": [
+        "BCUho60ZBSmhJSGh44O4hInhP7OhSb9b5C/xtuhZOVE=",
+        "prismacloud-cli-0.6.7.tar.gz"
+      ],
+      "wheels": {
+        "prismacloud_cli-0.6.7-py3-none-any.whl": [
+          "vqRRGV+2c8kXcZZ4ZpTrZFvGaAPTZ63sIXAhITap6y0=",
+          "py3"
+        ]
+      }
+    },
+    "0.6.8": {
+      "sdist": [
+        "eSdfF0eLp62IkVC9mxzwbwjQAC216786LhypVobYk3U=",
+        "prismacloud-cli-0.6.8.tar.gz"
+      ],
+      "wheels": {
+        "prismacloud_cli-0.6.8-py3-none-any.whl": [
+          "Zl+CeQ4cEe5r2F3g+Ier+OcxkpzBP81AUnCjw1VYCw0=",
           "py3"
         ]
       }
@@ -101170,6 +101294,18 @@
         ]
       }
     },
+    "0.20.0a5": {
+      "sdist": [
+        "UItcD6hMpc1cLuHo45bXL2GuTRhzdxmqIJUOLJMcCmM=",
+        "pyTermTk-0.20.0a5.tar.gz"
+      ],
+      "wheels": {
+        "pyTermTk-0.20.0a5-py3-none-any.whl": [
+          "fg0DwBgAqlTBAskRUxsyJMJxfGcwcC4NVfcZWG0fgzU=",
+          "py3"
+        ]
+      }
+    },
     "0.3.0a0": {
       "sdist": [
         "BNZmtZRt1u7G4psjt4Y+Mx27lgr7bJ16VEj7X4AEEps=",
@@ -105929,6 +106065,18 @@
           "py3"
         ]
       }
+    },
+    "0.7.0": {
+      "sdist": [
+        "Sy0XgxpINtPRUzH4cAyffckaISetXMl5YtPPGyy4WUg=",
+        "reachy-sdk-0.7.0.tar.gz"
+      ],
+      "wheels": {
+        "reachy_sdk-0.7.0-py3-none-any.whl": [
+          "5pWQxNhUs+ha8pqplZySC0AtTUAspc7lPAVZ1vsGWBQ=",
+          "py3"
+        ]
+      }
     }
   },
   "reagent": {
@@ -106200,6 +106348,18 @@
       "wheels": {
         "reahl_mailutil-6.1.0-py3-none-any.whl": [
           "O1echRmk7TC+6mOokUIRh27T1+S3UAiBpOfVPKyN63o=",
+          "py3"
+        ]
+      }
+    },
+    "6.1.1": {
+      "sdist": [
+        "jUbvdwlGeSDDyWf2N5nAQ3tY4Kmc1yX2TbsNnfJxabc=",
+        "reahl-mailutil-6.1.1.tar.gz"
+      ],
+      "wheels": {
+        "reahl_mailutil-6.1.1-py3-none-any.whl": [
+          "hk9fmyW0cvROdhypTn/OUVc+DnyLUE20Jr7YnAg6d2I=",
           "py3"
         ]
       }
@@ -138356,6 +138516,18 @@
         "volworld_aws_api_common-0.1.1.tar.gz"
       ]
     },
+    "0.1.10": {
+      "sdist": [
+        "zoKkDaxr7H7h8UImZ4vfFTcfUGOOGLiK/f4c2fwGQV0=",
+        "volworld_aws_api_common-0.1.10.tar.gz"
+      ]
+    },
+    "0.1.11": {
+      "sdist": [
+        "UlDXbXW5kRmSbSoUxXGHCh92ICnvvw/9Px2AUEQZGMw=",
+        "volworld_aws_api_common-0.1.11.tar.gz"
+      ]
+    },
     "0.1.2": {
       "sdist": [
         "jjZX164DY+qt1yy9KlnIpBSINpbSWqQiGaCa7rBVpy0=",
@@ -138390,6 +138562,18 @@
       "sdist": [
         "5VMg1hzlkopU0kOkFQhDao9LM0X7WUYcX9Jj+z1o0D4=",
         "volworld_aws_api_common-0.1.7.tar.gz"
+      ]
+    },
+    "0.1.8": {
+      "sdist": [
+        "Z49ByBEA6jxKi6p4yQQZ+fZfC1hBlWTSVvzfLEPnbg0=",
+        "volworld_aws_api_common-0.1.8.tar.gz"
+      ]
+    },
+    "0.1.9": {
+      "sdist": [
+        "qHjBsLL9Vc6hVlhhEqyvisQa5Md+upSGz27ZuhnS3tY=",
+        "volworld_aws_api_common-0.1.9.tar.gz"
       ]
     }
   },

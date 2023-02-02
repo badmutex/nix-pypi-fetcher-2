@@ -10807,6 +10807,18 @@
           "py3"
         ]
       }
+    },
+    "0.6.3b20230202": {
+      "sdist": [
+        "9ggY0lxXIsQxIyPEcKV5TBg9yCYRxjym2AZxkf5KbtY=",
+        "autogluon.timeseries-0.6.3b20230202.tar.gz"
+      ],
+      "wheels": {
+        "autogluon.timeseries-0.6.3b20230202-py3-none-any.whl": [
+          "CyjAv2MPE75nT2kUMNBHeFxP6j2lWLAj9Bcglv10swE=",
+          "py3"
+        ]
+      }
     }
   },
   "autohooks-plugin-pytest": {
@@ -15222,6 +15234,18 @@
       "wheels": {
         "basx_bread-0.7.22-py3-none-any.whl": [
           "p8L/b4dP+u6E1dI56hL64LRnUEvmAkny4znX93gaLgc=",
+          "py3"
+        ]
+      }
+    },
+    "0.7.23": {
+      "sdist": [
+        "GCurcxF6QV1R2xOifkASkGBVgHR6u5Rt6n7Ygb4OEGs=",
+        "basx-bread-0.7.23.tar.gz"
+      ],
+      "wheels": {
+        "basx_bread-0.7.23-py3-none-any.whl": [
+          "OQyBFmKnM0SHXSxDCuZgmuKXXLxfJlxl+igw76pBJ2Y=",
           "py3"
         ]
       }
@@ -85026,6 +85050,14 @@
         ]
       }
     },
+    "15.0.20230201.0": {
+      "wheels": {
+        "odoo_addons_oca_website-15.0.20230201.0-py3-none-any.whl": [
+          "2u9QMdpJIeK5U2KDI6wcLHCw3s16rU0xyuLNY+g9pIY=",
+          "py3"
+        ]
+      }
+    },
     "16.0.20221230.0": {
       "wheels": {
         "odoo_addons_oca_website-16.0.20221230.0-py3-none-any.whl": [
@@ -89303,6 +89335,20 @@
         "onnx2bnn-0.1.7-cp37-cp37m-win_amd64.whl": [
           "Qt0itSFff5Oj/7h/1vSgxRIG6wBXUaNn122DclL+Too=",
           "cp37"
+        ]
+      }
+    }
+  },
+  "open-cam2": {
+    "0.0.1": {
+      "sdist": [
+        "vLid5GgsUKxLXSyQyW1IFyo6vPA+894tCsKJf2vMbmE=",
+        "open_cam2-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "open_cam2-0.0.1-py3-none-any.whl": [
+          "JNSD4w74Jgazon8UfB8VqpZdEWQQZwmXBG4XKnZHv64=",
+          "py3"
         ]
       }
     }
@@ -102362,6 +102408,30 @@
         ],
         "pyparadiseo-0.4.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "MKIUxwiVoLdDxWVUO/eS0h8Anc1eXOe6BDCMLiMj5qg=",
+          "cp39"
+        ]
+      }
+    },
+    "0.5": {
+      "wheels": {
+        "pyparadiseo-0.5-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "bFqb7H6dtRehqakko1f2etdGE5nbkpfGfK29tIpR+x4=",
+          "cp310"
+        ],
+        "pyparadiseo-0.5-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "sL483uDIGb989o3tbq87ixP27fooxEMZ2OUyD1nP47A=",
+          "cp36"
+        ],
+        "pyparadiseo-0.5-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "rMoGFKI8oVWu8D5xDAC8KOnrRjh2MT/JlFt74+UOjXg=",
+          "cp37"
+        ],
+        "pyparadiseo-0.5-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "c2cbfqC+ue7Lyx1EPu3DQUCzEyj7At1gJl2lw6LWqZo=",
+          "cp38"
+        ],
+        "pyparadiseo-0.5-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "qS1XJXeP6PxJD1QebjkY7aZCWC1wtsfczONfQa4DBHM=",
           "cp39"
         ]
       }

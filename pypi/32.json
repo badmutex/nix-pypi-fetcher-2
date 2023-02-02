@@ -28765,6 +28765,14 @@
       ]
     }
   },
+  "db2xlsx": {
+    "0.2": {
+      "sdist": [
+        "EOgWRJxHNOXM8vIm+c6AXqpxANtAwe7bxexm6vcHLMY=",
+        "db2xlsx-0.2.tar.gz"
+      ]
+    }
+  },
   "dds4xnat": {
     "0.1": {
       "sdist": [
@@ -29763,6 +29771,32 @@
         "KCehO+/vEQu93frua3OJV6aCqHkGFdSUoYS4k6ZPaYA=",
         "digimat.vio-0.1.2.tar.gz"
       ]
+    }
+  },
+  "direct-redis-new": {
+    "0.2.4.0": {
+      "wheels": {
+        "direct_redis_new-0.2.4.0-py3-none-any.whl": [
+          "FMCxvMSMq7S2/+BzYG7xSgvZ2pfnWvXN39F14lkaZFk=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.4.1": {
+      "wheels": {
+        "direct_redis_new-0.2.4.1-py3-none-any.whl": [
+          "OO/vlShaagaY/+aOM97dLd0XcjnzCRl2iUZzeZasBls=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.4.2": {
+      "wheels": {
+        "direct_redis_new-0.2.4.2-py3-none-any.whl": [
+          "UT4DdBkobaO1V5uaQR5lxFozLMjn37GXmr/jEcyfI5c=",
+          "py3"
+        ]
+      }
     }
   },
   "dirlistproc": {
@@ -33815,6 +33849,20 @@
         "django_wordpress_auth-0.1.31-py2.py3-none-any.whl": [
           "6Mc8q/Ppk9VZf5bXmc2aOeMuvG/8o8a8CUmxZrErlpw=",
           "2.7"
+        ]
+      }
+    }
+  },
+  "django.utils.safestring": {
+    "0.0.1": {
+      "sdist": [
+        "vynPmpk112JhUOoBa3saZfaOwPX0C8iPvVVWVzk1mfU=",
+        "django.utils.safestring-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "django.utils.safestring-0.0.1-py3-none-any.whl": [
+          "2FbbJOwvMEAHOmn9SYQ0scxwrdttO5KuiNtkWVZ+enE=",
+          "py3"
         ]
       }
     }
@@ -46335,6 +46383,18 @@
           "py3"
         ]
       }
+    },
+    "0.2.0": {
+      "sdist": [
+        "U6s1p2O34Zi+Qw5VpQ77ZHer2C0mB0jEBL9w7uCq2eY=",
+        "glasflow-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "glasflow-0.2.0-py3-none-any.whl": [
+          "BJEhZ1FksQdZ/U7mX9XSTJ+LMJhimDHadFeNNUC2odU=",
+          "py3"
+        ]
+      }
     }
   },
   "gmusicapi": {
@@ -48654,6 +48714,18 @@
       "wheels": {
         "ho_protocols-0.0.2.dev2-py3-none-any.whl": [
           "g7F0DG5QTI+zWOnS9P42Nwvg8LBSNoERbwmo1jmy/yo=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2.dev3": {
+      "sdist": [
+        "cL3WzALnCZgdn7Jd6KQ1Ag2m3bmqlWzeQnUK2udDN3w=",
+        "ho-protocols-0.0.2.dev3.tar.gz"
+      ],
+      "wheels": {
+        "ho_protocols-0.0.2.dev3-py3-none-any.whl": [
+          "wRviEGsw/F946H3KPTewxyEVdGcUZH/SSqTThd6SEm8=",
           "py3"
         ]
       }
@@ -58642,6 +58714,18 @@
       "wheels": {
         "ktplotspy-0.1.7-py3-none-any.whl": [
           "S50tpET0CSzPScFC8cQWcIEphuIWho+SPw2a/d+rmrU=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.8": {
+      "sdist": [
+        "f0S3owBoXmG/g6RNbtxXZFwdha59uv8x2LNfBbRv/c4=",
+        "ktplotspy-0.1.8.tar.gz"
+      ],
+      "wheels": {
+        "ktplotspy-0.1.8-py3-none-any.whl": [
+          "Lip3xcBP4LbW7eNa49OMXdNE9alv7gsYjGpt3Pw56ko=",
           "py3"
         ]
       }
@@ -147566,6 +147650,30 @@
       "wheels": {
         "wp_socket-0.0.25-py3-none-any.whl": [
           "bGpVPXLiyC/Hvy6n6Ji/uPq00XHxzYLSOPtUOqW7Y7M=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.26": {
+      "sdist": [
+        "S+jLoVgNQPJfKwYVisK4BwBsgstr1PWX9EuzEQGWVfY=",
+        "wp-socket-0.0.26.tar.gz"
+      ],
+      "wheels": {
+        "wp_socket-0.0.26-py3-none-any.whl": [
+          "brSjAwX9bZgoEEcq3N7K1KG9QCykjk6t1yUKlWq2C6Y=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.27": {
+      "sdist": [
+        "Zjavih09HDcyz50CoJ7HnhnYnooQo+RR/gzmiAT2GBc=",
+        "wp-socket-0.0.27.tar.gz"
+      ],
+      "wheels": {
+        "wp_socket-0.0.27-py3-none-any.whl": [
+          "ozYsbc+DFk2EVzkFv4GnA9A2uCluE6p16Xy5aOOhe+c=",
           "py3"
         ]
       }

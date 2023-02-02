@@ -4957,6 +4957,12 @@
         "/1AlxghyQYvNzGAv3sfzi3RYel1lnJs1/uIWTfkDELE=",
         "AztClient-1.0.0.tar.gz"
       ]
+    },
+    "1.0.1": {
+      "sdist": [
+        "U+qmHGeh8NsrXutR2C7Vs9QG/6Ss2phWsw5/KXGhWJs=",
+        "AztClient-1.0.1.tar.gz"
+      ]
     }
   },
   "azure-dla": {
@@ -29305,6 +29311,20 @@
       ]
     }
   },
+  "django.utils.encoding": {
+    "0.0.1": {
+      "sdist": [
+        "MiRftnicWNmDSPiKVQvpUXJ7IB7NM1uYe+Cu+CaS6ag=",
+        "django.utils.encoding-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "django.utils.encoding-0.0.1-py3-none-any.whl": [
+          "A5b/rSM1+C+lk9ai9V+HzMnuWTybqcTfDMl1ejwR5ec=",
+          "py3"
+        ]
+      }
+    }
+  },
   "django2use": {
     "0.3.0": {
       "sdist": [
@@ -45997,6 +46017,30 @@
           "py3"
         ]
       }
+    },
+    "0.2.1": {
+      "sdist": [
+        "FIatD5Vr0GCMSZG0f/7rnW2KWLjzelRtuhNGuqkuUU0=",
+        "graphmb-0.2.1.tar.gz"
+      ],
+      "wheels": {
+        "graphmb-0.2.1-py3-none-any.whl": [
+          "1E80UmYYOJ0BVvWIaY2o5vFKQjp+P07LgC2whJa+6lw=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.2": {
+      "sdist": [
+        "4iyO9eAmmlz2aXKwdw4LN6WvOhNn2upm8srA/m+XTuw=",
+        "graphmb-0.2.2.tar.gz"
+      ],
+      "wheels": {
+        "graphmb-0.2.2-py3-none-any.whl": [
+          "OXyYBCbt22PBy50JbDe8xUFhKbHytV3hH2i/814sbgI=",
+          "py3"
+        ]
+      }
     }
   },
   "graphql-flask": {
@@ -49894,6 +49938,14 @@
         ]
       }
     },
+    "3.1.24": {
+      "wheels": {
+        "huaweicloudsdkall-3.1.24-py2.py3-none-any.whl": [
+          "eazfVDamkNrB6aMX2C353TDzKJLTa4l02KpZl3+mL84=",
+          "py2.py3"
+        ]
+      }
+    },
     "3.1.3": {
       "wheels": {
         "huaweicloudsdkall-3.1.3-py2.py3-none-any.whl": [
@@ -50380,6 +50432,14 @@
       "wheels": {
         "huaweicloudsdkhilens-3.1.23-py2.py3-none-any.whl": [
           "IfXgqSpbbxsTNM/HRKy8x1pI/6HO7CGHKONvw1Fl9Os=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.24": {
+      "wheels": {
+        "huaweicloudsdkhilens-3.1.24-py2.py3-none-any.whl": [
+          "6NOovQtY2ASud66ivWBkDMKZmiDRhPuA5LPB2sSY8Vk=",
           "py2.py3"
         ]
       }
@@ -51046,6 +51106,14 @@
       "wheels": {
         "huaweicloudsdkwaf-3.1.23-py2.py3-none-any.whl": [
           "ygVN+ymFy2DqWa7vkVuWuBgzEi4Tfy/OT3QF03LZJPM=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.24": {
+      "wheels": {
+        "huaweicloudsdkwaf-3.1.24-py2.py3-none-any.whl": [
+          "WKeid//Os9Ln12S+xRkhPHummfKVPbi/SJGH5r8tGUM=",
           "py2.py3"
         ]
       }
@@ -51720,6 +51788,24 @@
       "wheels": {
         "IBM_DataStage_API-1.1.0-py3-none-any.whl": [
           "VKeIYYaa5dZg+dApcPqA/+P6SzxfbMJAnaxLO735iw4=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "icalstatus": {
+    "0.0.1": {
+      "wheels": {
+        "icalstatus-0.0.1-py3-none-any.whl": [
+          "y2kkSrM1ea91jXlBwCZJ9Zn9hijqL2YCjEc9K4PQM5w=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "wheels": {
+        "icalstatus-0.0.2-py3-none-any.whl": [
+          "2/7NrlN3ifN0qcrT+NmEcB2N7c/xH1ShItjniebbsdA=",
           "py3"
         ]
       }
@@ -136417,6 +136503,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.821": {
+      "sdist": [
+        "FDeRclPw4lJdjIyO/EOg2h6uTQYPjyb2lAY3ou2WHOg=",
+        "tencentcloud-sdk-python-trp-3.0.821.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_trp-3.0.821-py2.py3-none-any.whl": [
+          "tlEHCfwjJrpOp37d6NuRwmNCZVC30pR6Bn88UO1Y+4w=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tencentcloud-sdk-python-yinsuda": {
@@ -137940,6 +138038,18 @@
       "wheels": {
         "tencentcloud_sdk_python_yinsuda-3.0.820-py2.py3-none-any.whl": [
           "1B7sdgKI7J3CmLZcDKxRyBlHr8pvqOmca5dDfwxnKb4=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.821": {
+      "sdist": [
+        "OTNYddoy+O+Hyce7mOSEF8Az6mRenYfVLlN1NcbIHJE=",
+        "tencentcloud-sdk-python-yinsuda-3.0.821.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_yinsuda-3.0.821-py2.py3-none-any.whl": [
+          "s5sa9/jHfLcbjTF+ClJNbboh2rAEWwGabsBjoLIg+Lc=",
           "py2.py3"
         ]
       }
@@ -149570,6 +149680,20 @@
       "wheels": {
         "write_in_blob-0.0.5-py3-none-any.whl": [
           "vLssXcNyfPTr3Cs1tWe+LYimriOB6jaUe4sI5teM8k4=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "ws2812b-pkg-ws2812b-spidrv": {
+    "0.0.1": {
+      "sdist": [
+        "z/P1YlDnvddIl4TqI4ZkTCNUzdCXuw58CczMooB9Qzs=",
+        "ws2812B-pkg-ws2812B_spidrv-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "ws2812B_pkg_ws2812B_spidrv-0.0.1-py3-none-any.whl": [
+          "+fki9VV0TuIUQcgJQanbgxwYBp/okRku1gJcwl5V+0w=",
           "py3"
         ]
       }

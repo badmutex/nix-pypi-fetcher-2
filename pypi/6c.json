@@ -145,6 +145,56 @@
       }
     }
   },
+  "abba-models": {
+    "0.0.1": {
+      "sdist": [
+        "1Xp30LNTezq0KXMkPIDoSc4uCtJBnLOYgjW1wIj8wSc=",
+        "abba_models-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "abba_models-0.0.1-py3-none-any.whl": [
+          "vOVO7/q1mmPriMnp7hKl0A1SpMVfQ5GCDtH1XdMEXG4=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "v+tX3VMEDKiuV6E27Em4arKAD8YckXu0Xsk/2UCb5Hc=",
+        "abba_models-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "abba_models-0.0.2-py3-none-any.whl": [
+          "IPJ0qJIBG3uvfZuuSduKRd84LQ+9I3Pd1CR/jMhFBew=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "6z84G/CnC5NnI5mn9WE6MlRQqb2iSig4x2KsgH2QItQ=",
+        "abba_models-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "abba_models-0.0.3-py3-none-any.whl": [
+          "TVc+66LYjGz4bWm1AvPSIj6WgaWz5O0QIngrNtJquK0=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4": {
+      "sdist": [
+        "aR25BbCyiJ0AqgXPz/hrbv7i+ezexmQcdil4R31iF/0=",
+        "abba_models-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "abba_models-0.0.4-py3-none-any.whl": [
+          "dU6W++LBQRdDlu77PdFeK9DqHmi1OcYLginDSfMILxE=",
+          "py3"
+        ]
+      }
+    }
+  },
   "abbreviate-names": {
     "0.1.2": {
       "sdist": [
@@ -2763,6 +2813,14 @@
           "py3"
         ]
       }
+    },
+    "0.0.3": {
+      "wheels": {
+        "aloso-0.0.3-py3-none-any.whl": [
+          "lhR4P9a7ZP/MkyKTn7xllufE0T39yAIB6nnhH5PnwMA=",
+          "py3"
+        ]
+      }
     }
   },
   "altair-smartworks-sdk": {
@@ -3614,6 +3672,18 @@
       "wheels": {
         "always_updates-104.6-py3-none-any.whl": [
           "LISuXgn647aSWOi+/kd/W16Zoiic9kt+mpkSZtFafFg=",
+          "py3"
+        ]
+      }
+    },
+    "104.7": {
+      "sdist": [
+        "AWKu5aov7+yCtSeqE+wdUVJcNw+b0qOv+VwzyftPZzI=",
+        "always_updates-104.7.tar.gz"
+      ],
+      "wheels": {
+        "always_updates-104.7-py3-none-any.whl": [
+          "8k/WASvpS8q+F+JvrP0G4EHKbJMV6ueTgO9Tjaz6HaI=",
           "py3"
         ]
       }
@@ -23754,6 +23824,26 @@
       "sdist": [
         "owXFO6j8hvjqkSjlVOpCyeYyxEqzm2QrR2Lw7n5e7EA=",
         "blinker-async-0.0.3.tar.gz"
+      ]
+    }
+  },
+  "blockzaz": {
+    "1.0.0": {
+      "sdist": [
+        "VL+Sxxne7hSs78MorRnxTin/Sq6pv9a4hLAG8yjEMMk=",
+        "blockzaz-1.0.0.tar.gz"
+      ]
+    },
+    "1.0.1": {
+      "sdist": [
+        "oABQMwlXLCr5NKLsjzK0owdxO9/P3fHj0lSaPmtqIG4=",
+        "blockzaz-1.0.1.tar.gz"
+      ]
+    },
+    "1.0.2": {
+      "sdist": [
+        "JtEYXILqS43CgCFXYifz9ksoNQQB9brfsUd9Q75NZJ4=",
+        "blockzaz-1.0.2.tar.gz"
       ]
     }
   },
@@ -52316,6 +52406,18 @@
       "wheels": {
         "flask_rest_jsonapi_next-0.34.2-py3-none-any.whl": [
           "F9S6S36X7De4rOto6G10tsPZ05lN9Coaktk8HC+xYjg=",
+          "py3"
+        ]
+      }
+    },
+    "0.34.3": {
+      "sdist": [
+        "YL6acCDGW6xvnkVcZoZgZa8HVW6p8oHvJvJPJdpCXZM=",
+        "flask-rest-jsonapi-next-0.34.3.tar.gz"
+      ],
+      "wheels": {
+        "flask_rest_jsonapi_next-0.34.3-py3-none-any.whl": [
+          "PxeiO+b/xtG7iN+AdLNjwXVHYFE/MtmvUStd0H15cyc=",
           "py3"
         ]
       }
@@ -105671,6 +105773,12 @@
         "VddivlXesxzE1I+ggVpc4Qt6km3S9bAO/66zvs43rBg=",
         "pyfate-0.0.0a0.tar.gz"
       ]
+    },
+    "2.0.0a0": {
+      "sdist": [
+        "36YrF54wWRqy0d6aogC+/M2SiQrWboJanIzBfOmzMNs=",
+        "pyfate-2.0.0a0.tar.gz"
+      ]
     }
   },
   "pyfitterbap": {
@@ -108694,6 +108802,18 @@
       "wheels": {
         "pynitrokey-0.4.32-py3-none-any.whl": [
           "v/KzvUe3hjuSfgBIhyg+WSuwjpVcAvUEFH2YCLa94Hw=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.33": {
+      "sdist": [
+        "NL6eXtK3XGXuayC2qnUMkcAhksWW/NwYV5S1AvSxrRc=",
+        "pynitrokey-0.4.33.tar.gz"
+      ],
+      "wheels": {
+        "pynitrokey-0.4.33-py3-none-any.whl": [
+          "dreBz3NTV89hGTYnn5IZiI4Ha8IQfioD2LYHQs3LSAQ=",
           "py3"
         ]
       }

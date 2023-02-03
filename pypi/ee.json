@@ -6547,6 +6547,18 @@
         "5wAF8tL0oEDZNSvQGtZYURelDAXDAEfbP8zeABhSREQ=",
         "arlpy-1.8.0.tar.gz"
       ]
+    },
+    "1.8.1": {
+      "sdist": [
+        "HUUkXz6f4Anj2OvKdhhGdsob+Kcqv7Bbpd5IAvOEvUo=",
+        "arlpy-1.8.1.tar.gz"
+      ]
+    },
+    "1.8.2": {
+      "sdist": [
+        "PEwoppzrDaDzLY8nYfJoY20HZXFaW2MfJEwAChp0P1Y=",
+        "arlpy-1.8.2.tar.gz"
+      ]
     }
   },
   "arrowhead": {
@@ -17542,6 +17554,30 @@
       "wheels": {
         "cdk_cloudformation_github_repositories_webhook-1.0.0a5-py3-none-any.whl": [
           "S/fOcL0XAZZ7noMqxa0Z+3QNWrhYrzu3nCQBIsOqNe4=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.0a6": {
+      "sdist": [
+        "hGITTL2Od2PCm8lBaimMAXCJmfj2ihUgY4AH6mMnV2o=",
+        "cdk-cloudformation-github-repositories-webhook-1.0.0a6.tar.gz"
+      ],
+      "wheels": {
+        "cdk_cloudformation_github_repositories_webhook-1.0.0a6-py3-none-any.whl": [
+          "QO5SoZRT2VIG4jFInbt9F/f0GiapvX0QhkoQLfZ3N2g=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.0a7": {
+      "sdist": [
+        "gyVfR4inMQHYH9/uV3A19jzP6wLMMV3Ej3Ebd3uKCPg=",
+        "cdk-cloudformation-github-repositories-webhook-1.0.0a7.tar.gz"
+      ],
+      "wheels": {
+        "cdk_cloudformation_github_repositories_webhook-1.0.0a7-py3-none-any.whl": [
+          "pOgzJ96TpfUdojtGBxINb7xNg8vnxVjhg4/WPQKu4vA=",
           "py3"
         ]
       }
@@ -86407,6 +86443,20 @@
       ]
     }
   },
+  "ocx-schema-parser": {
+    "0.2.0": {
+      "sdist": [
+        "Ce1dKKcJ5Q0hgAScDkPuTYvDGoGPjSOTqWclukfaxUU=",
+        "ocx-schema-parser-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "ocx_schema_parser-0.2.0-py3-none-any.whl": [
+          "0Zl2KBGMgmyAl2otqCyHoCmpdU1qNd4IObcS0dqhUB8=",
+          "py3"
+        ]
+      }
+    }
+  },
   "odbc-niceties": {
     "0.1.0": {
       "sdist": [
@@ -120463,6 +120513,30 @@
           "py3"
         ]
       }
+    },
+    "1.1.2": {
+      "sdist": [
+        "j0qbjC9ArOuPszs+B4XgjjwNNjHN4/opV5tZfY0w2Po=",
+        "revChatGPT-1.1.2.tar.gz"
+      ],
+      "wheels": {
+        "revChatGPT-1.1.2-py3-none-any.whl": [
+          "51T2++4VOd45iDpmNw2gRFJ5MSrmQ10raxZPywDBKsw=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.3": {
+      "sdist": [
+        "3hs4x0h7Qzdmxql2Mrco0o4ccRI3kfKNBc7Z74Hym3A=",
+        "revChatGPT-1.1.3.tar.gz"
+      ],
+      "wheels": {
+        "revChatGPT-1.1.3-py3-none-any.whl": [
+          "aX/ueXWUgtNfjJs3KCxZOwhs9YvGjO1vTHSAOstEOD4=",
+          "py3"
+        ]
+      }
     }
   },
   "rgomes-velruse": {
@@ -151940,6 +152014,84 @@
       "wheels": {
         "tracardi_dot_notation-0.6.7-py3-none-any.whl": [
           "wVYzHy6q5czbWSllpQDRM9EJvAq14b30a/Rcl4qNPKE=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "trajcontacts": {
+    "0.1.0": {
+      "sdist": [
+        "3/+QT1z0g4fpHcAJ/zVj3dVWtlBfb0SX80ThchXDcgg=",
+        "trajcontacts-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "trajcontacts-0.1.0-py2.py3-none-any.whl": [
+          "eTb3CtZmBNfEFf2Vs3iJ6bOIcUtBVrbu0I8l9vXX5Rg=",
+          "py2.py3"
+        ],
+        "trajcontacts-0.1.0-py3-none-any.whl": [
+          "vRv1D+1nKqGJhmkvHEnESzbsxRbJ7rtkLKrJnRdlujU=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "8qfKRbSacQmT4/ne4YSJcoRYZ+sZPSQJXtp447qjyTM=",
+        "trajcontacts-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "trajcontacts-0.1.1-py2.py3-none-any.whl": [
+          "sdNY91i3n8rfMhCGdrfUij7muVXvPQUkX9EYK73YdrU=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "W0Jaw5MKH4yFEopdvS+/+uX45baBOXfgZ64JskBPcFo=",
+        "trajcontacts-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "trajcontacts-0.1.2-py2.py3-none-any.whl": [
+          "YFJ74RwIH/QtanVqrjkgb+IMhemhh7rIDNNcLGQpLkE=",
+          "py2.py3"
+        ],
+        "trajcontacts-0.1.2-py3-none-any.whl": [
+          "6/ZYRPs50WpeMfC+tIWWGhAwT7KKA1Wz7bmDAJDETpQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.3": {
+      "sdist": [
+        "9eCPvhqkNRszRCBtCzjic8MrODapwJyTbhXzXkvzQjA=",
+        "trajcontacts-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "trajcontacts-0.1.3-py2.py3-none-any.whl": [
+          "WPE98aOHrgvKKz6ALECfTx2E0FFPC/mGDeAhkCY7pdY=",
+          "py2.py3"
+        ],
+        "trajcontacts-0.1.3-py3-none-any.whl": [
+          "dFfkxgYJKqdBhU4e98MKWiemVtPp0aDiQZO/Hy2/z0o=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.4": {
+      "sdist": [
+        "dtcVpJbaVmz4X+f8gbl1cqPe2VK9rHxEDAn7AOT+ebU=",
+        "trajcontacts-0.1.4.tar.gz"
+      ],
+      "wheels": {
+        "trajcontacts-0.1.4-py2.py3-none-any.whl": [
+          "qypbNvPuISUXg+XtNPCmNFQoGTnDFmmKQj5IK4ChOQg=",
+          "py2.py3"
+        ],
+        "trajcontacts-0.1.4-py3-none-any.whl": [
+          "cECKAWB74JRk8Ll3D4Bro/t52xLU8hbQoYWC6IZeQ8g=",
           "py3"
         ]
       }

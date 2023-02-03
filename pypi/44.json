@@ -16799,6 +16799,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.63": {
+      "sdist": [
+        "M316VANGRCd1immkm3YLhzg186NRkQhEA+TxpoExV+0=",
+        "botocore-a-la-carte-iotthingsgraph-1.29.63.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_iotthingsgraph-1.29.63-py3-none-any.whl": [
+          "9B079JuZzaiFG1Hh59vqsEbjLeofa+wdNXwIKJCZaXg=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-xray": {
@@ -17050,6 +17062,18 @@
       "wheels": {
         "botocore_a_la_carte_xray-1.29.62-py3-none-any.whl": [
           "gxlRCK3T/px74TTHQ2bE1XqmQMmKFRwQFT9zfgZWTi0=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.63": {
+      "sdist": [
+        "h5B7P9/la6wQ3dmIyXnsyfj9LLq3aeRJz1sHisXO7EU=",
+        "botocore-a-la-carte-xray-1.29.63.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_xray-1.29.63-py3-none-any.whl": [
+          "RTY0fovWJGe6aOO39C4VpbfG+9pFheOa8gkKPbfu2iE=",
           "py3"
         ]
       }
@@ -34891,6 +34915,78 @@
           "cp39"
         ]
       }
+    },
+    "3.1.3": {
+      "sdist": [
+        "/lg4jgxu/J136XcxpdXIXq6ZblqCoKpamt9Rl9JGZa8=",
+        "cornflakes-3.1.3.tar.gz"
+      ],
+      "wheels": {
+        "cornflakes-3.1.3-cp310-cp310-macosx_10_15_x86_64.whl": [
+          "EqjeZSneIa53wEDlSzXL0ReTsKKkqW+qrAvqzbuvlMM=",
+          "cp310"
+        ],
+        "cornflakes-3.1.3-cp310-cp310-manylinux_2_28_x86_64.manylinux_2_24_x86_64.whl": [
+          "nxhR2u4K56/Pe3+18pVpzQ4X4cJhgiGhhvH6LYU8/ro=",
+          "cp310"
+        ],
+        "cornflakes-3.1.3-cp310-cp310-manylinux_2_35_x86_64.whl": [
+          "jLVEUOWwfQZmxIUKmdGaT1ZSe6lnmf0kpczqFBqDUTY=",
+          "cp310"
+        ],
+        "cornflakes-3.1.3-cp310-cp310-win_amd64.whl": [
+          "9ZcQYf4mVGZCzonxDb1yo2aHutCuRSqdIYi7k52UrF0=",
+          "cp310"
+        ],
+        "cornflakes-3.1.3-cp311-cp311-macosx_10_15_x86_64.whl": [
+          "GX9DIauYL9HRhoNwPEtQ6EaGx1st1pe6gqmAeEn4xcQ=",
+          "cp311"
+        ],
+        "cornflakes-3.1.3-cp311-cp311-manylinux_2_28_x86_64.manylinux_2_24_x86_64.whl": [
+          "I1BgJoJCU2KX+fhXBeS93DmbOxhogNFaJUx2zthceGg=",
+          "cp311"
+        ],
+        "cornflakes-3.1.3-cp311-cp311-manylinux_2_35_x86_64.whl": [
+          "iZSyAFlnpAsPB4rxasvev9sx1O1SHoHkSRtU/9sxegs=",
+          "cp311"
+        ],
+        "cornflakes-3.1.3-cp311-cp311-win_amd64.whl": [
+          "/UTn2I+n+k9uptBGCUcRmAmGT470abpTFpU5Z57Dui0=",
+          "cp311"
+        ],
+        "cornflakes-3.1.3-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "PLPMs7RxuG6tfMR+2/J9EfCDhFEYyiSjm+WSJbjgY2A=",
+          "cp38"
+        ],
+        "cornflakes-3.1.3-cp38-cp38-manylinux_2_28_x86_64.manylinux_2_24_x86_64.whl": [
+          "4BDQ9Lc5LTo9ek4og3SWFr8vaMqu2f5OmmgY4fHV0AE=",
+          "cp38"
+        ],
+        "cornflakes-3.1.3-cp38-cp38-manylinux_2_35_x86_64.whl": [
+          "PUHFkL8e8nNRpfzlfY59fAcCrD81dWKJoCAD6oCiqjs=",
+          "cp38"
+        ],
+        "cornflakes-3.1.3-cp38-cp38-win_amd64.whl": [
+          "APFay6cO1DWSuRdQi8Opyr2xmiUanaCgAt5WVYAprX8=",
+          "cp38"
+        ],
+        "cornflakes-3.1.3-cp39-cp39-macosx_10_15_x86_64.whl": [
+          "3i6YecaZ+SMAv90cjzZAtAjzgRbV06nvecGK1WsurtY=",
+          "cp39"
+        ],
+        "cornflakes-3.1.3-cp39-cp39-manylinux_2_28_x86_64.manylinux_2_24_x86_64.whl": [
+          "PUCKqUNJfYw8oRSzrkCTlWhxoyolelXTb70rXG351V0=",
+          "cp39"
+        ],
+        "cornflakes-3.1.3-cp39-cp39-manylinux_2_35_x86_64.whl": [
+          "3R4JM9bOdkYW7KOXZIItjmHKlIj+MUgQPsoLmDRIq0o=",
+          "cp39"
+        ],
+        "cornflakes-3.1.3-cp39-cp39-win_amd64.whl": [
+          "GFnlFLRHCpGj18Eg+Hqy2S0twoDxzxBe+tNSuoicK+Y=",
+          "cp39"
+        ]
+      }
     }
   },
   "cosmophotoz": {
@@ -37534,6 +37630,16 @@
       "wheels": {
         "datamanipy-1.2.4-py3-none-any.whl": [
           "2eTvzrQI1Uoaeq2RiMVFk9SowFLC5RuOQ4QWmd580iM=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "datasette-sqlite-fastrand": {
+    "0.1.1a4": {
+      "wheels": {
+        "datasette_sqlite_fastrand-0.1.1a4-py3-none-any.whl": [
+          "1ApQNWWusbovvGAityW/kyCv5zSEybpYj1RvrJh8pfU=",
           "py3"
         ]
       }
@@ -137305,6 +137411,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.822": {
+      "sdist": [
+        "lqi3kJaDybx+LL9Mxt+Q3QhUtR0uRVG2sQZnrDwVN+s=",
+        "tencentcloud-sdk-python-mna-3.0.822.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_mna-3.0.822-py2.py3-none-any.whl": [
+          "DJ4KrrnEP+WTundg+5mXlBxeq+r0R2kyJKV6m+1mBDo=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tenff": {
@@ -149060,6 +149178,50 @@
         ],
         "xlOil-0.16.4-cp39-cp39-win_amd64.whl": [
           "gTWjBKL8ETCxQG3MrKKBZuTsDW1HruoVrPvJCEjvepg=",
+          "cp39"
+        ]
+      }
+    },
+    "0.17.0": {
+      "wheels": {
+        "xlOil-0.17.0-cp310-cp310-win32.whl": [
+          "DKOyu7WhEImK6ltMED3iOVBMbeEqv7n1YsjrlXrQnYc=",
+          "cp310"
+        ],
+        "xlOil-0.17.0-cp310-cp310-win_amd64.whl": [
+          "d2VdEtxoyEvWOPpcSElRpIgPf/kojsiV4vmnt0zPDy0=",
+          "cp310"
+        ],
+        "xlOil-0.17.0-cp36-cp36m-win32.whl": [
+          "e7ftGuGoMtu+pqwHMFSLvLIRmt0tPrH3DoAJN7OMNCM=",
+          "cp36"
+        ],
+        "xlOil-0.17.0-cp36-cp36m-win_amd64.whl": [
+          "F0YeMdkMNGKl22Qby/7M4ob/YETT1q9BJwX72UoSfZM=",
+          "cp36"
+        ],
+        "xlOil-0.17.0-cp37-cp37m-win32.whl": [
+          "/WwI+G6jGVK4Tl+IvT7ZNsmyuti0UiRnpo3xaDl/sfE=",
+          "cp37"
+        ],
+        "xlOil-0.17.0-cp37-cp37m-win_amd64.whl": [
+          "jzseCLF1qAZwlLKVuMiPoJbXU+8XAVS1/TUEi+U0wqY=",
+          "cp37"
+        ],
+        "xlOil-0.17.0-cp38-cp38-win32.whl": [
+          "LPSrpEWsRrfk0me9It3hEmd8sNWLbqh6fR5ui2Cik7U=",
+          "cp38"
+        ],
+        "xlOil-0.17.0-cp38-cp38-win_amd64.whl": [
+          "PmuchIfUWbzGtrX3CqFWIEuHJMrNVL7+42i8fnNVWUs=",
+          "cp38"
+        ],
+        "xlOil-0.17.0-cp39-cp39-win32.whl": [
+          "TzUe8eSWgo6T1PAVT444vls6qTKif86LKBf/ZEdTxuw=",
+          "cp39"
+        ],
+        "xlOil-0.17.0-cp39-cp39-win_amd64.whl": [
+          "jRo9e3Pg0Up6uwRZEsAPSeXZapLcQgecQWjef9BHANs=",
           "cp39"
         ]
       }

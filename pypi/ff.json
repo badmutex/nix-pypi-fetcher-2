@@ -120,14 +120,26 @@
         ]
       }
     },
-    "0.1.4": {
+    "0.1.7": {
       "sdist": [
-        "vW2VkZ/LmFP/XplQZ/SZ9SwmGDtfmBhd6y/xkb8faX8=",
-        "a2grunnerp-0.1.4.tar.gz"
+        "H6coCx/iFyXD8rcDByKIQLIZKhI41jnf/8v/LV5vlyU=",
+        "a2grunnerp-0.1.7.tar.gz"
       ],
       "wheels": {
-        "a2grunnerp-0.1.4-py3-none-any.whl": [
-          "eK26D2knK1ks6eOj8QGrYvqqhZYdyJxFxaPceD5fgh0=",
+        "a2grunnerp-0.1.7-py3-none-any.whl": [
+          "U33bRop3Fo8BxfWP8fZSo1yUAZBY0fnaOB0rjRg5bOc=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.8": {
+      "sdist": [
+        "4pcX0TyV8+tIFuxUFke0aYaBjHlnqwKGIXHrKoF98Rs=",
+        "a2grunnerp-0.1.8.tar.gz"
+      ],
+      "wheels": {
+        "a2grunnerp-0.1.8-py3-none-any.whl": [
+          "snS42xy3SG2561LvzbnEgdEyGV5nGkToB0e6ezcE/m8=",
           "py3"
         ]
       }
@@ -15838,6 +15850,18 @@
       "wheels": {
         "botocore_a_la_carte_dlm-1.29.62-py3-none-any.whl": [
           "CyI6hUbG8CXyQ+Fn09btqBdaKqo+TAf9OS4MpptcDVg=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.63": {
+      "sdist": [
+        "nSJPE1gTQ7JhWN3DWwHCfz4DY1sGoObLny38sQdz4L0=",
+        "botocore-a-la-carte-dlm-1.29.63.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_dlm-1.29.63-py3-none-any.whl": [
+          "pAOeQ1JUjYvTLwIQQw3U++A+Ah+T+S7tptPDIKWScZc=",
           "py3"
         ]
       }
@@ -57758,6 +57782,12 @@
         "handler_cf_v1-1.0.64.tar.gz"
       ]
     },
+    "1.0.65": {
+      "sdist": [
+        "g/PdflLcQaOwuyF4eBP71xfrZ9WTX19u0UaksY9kLe4=",
+        "handler_cf_v1-1.0.65.tar.gz"
+      ]
+    },
     "1.0.8": {
       "sdist": [
         "3Q9vrue2nhyPfDmBc4ONLhjVSyMJwoIYeY6F7NnTg0Y=",
@@ -71104,6 +71134,18 @@
       "wheels": {
         "lbt_recipes-0.23.3-py2.py3-none-any.whl": [
           "g3Wb6fgeJuIBtaI/5UhPNweyl9hxe/cAJIkYBMtRzno=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.23.4": {
+      "sdist": [
+        "uaLkMkEsC18cxCbl/q76Pq6CIGgjD/qCztyNqTzPkks=",
+        "lbt-recipes-0.23.4.tar.gz"
+      ],
+      "wheels": {
+        "lbt_recipes-0.23.4-py2.py3-none-any.whl": [
+          "Sjr356AcaSxoid7qrWs/FqegkCUgrmpiIdi+iOT3Eyc=",
           "py2.py3"
         ]
       }
@@ -118961,6 +119003,18 @@
           "py3"
         ]
       }
+    },
+    "1.8.1": {
+      "sdist": [
+        "2IDyOmDdXvWq8cZTRDFoKutU3pi3IiiK8xO5Snpcj0g=",
+        "redis-property-1.8.1.tar.gz"
+      ],
+      "wheels": {
+        "redis_property-1.8.1-py3-none-any.whl": [
+          "xGKWgRD4zEt3FjF3/ZM7HgMtSpgPrRbnb5yvM/3iF5o=",
+          "py3"
+        ]
+      }
     }
   },
   "redpanda": {
@@ -142519,6 +142573,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.822": {
+      "sdist": [
+        "+PljAGBfa4nkEwdtlyJ07oM4TkSFVuvOzFf0ls6HQGk=",
+        "tencentcloud-sdk-python-ckafka-3.0.822.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_ckafka-3.0.822-py2.py3-none-any.whl": [
+          "Opjr7OtPvB8V/XBn0qcrgkjd0pRQCiteqLJySkj7Z38=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tensorflow-datavalidation": {
@@ -151846,6 +151912,12 @@
       "sdist": [
         "h1PU+s18ODqrG9HPTOXwXhU2BFdxXukTYV6mNgIvtJE=",
         "wayscript-0.3.0.tar.gz"
+      ]
+    },
+    "0.4.0": {
+      "sdist": [
+        "cNzTTJXY3XxFGVJMJKVSIV0F8LtxGoxH/ZLMKBCGVRo=",
+        "wayscript-0.4.0.tar.gz"
       ]
     }
   },

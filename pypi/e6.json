@@ -10392,6 +10392,18 @@
         ]
       }
     },
+    "2.0.88": {
+      "sdist": [
+        "NO7Wogl97vhpEZbVWr/kszSz/KKr7OLmz1XRu6wcmSU=",
+        "aws-cdk.lambda-layer-kubectl-v24-2.0.88.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.lambda_layer_kubectl_v24-2.0.88-py3-none-any.whl": [
+          "Q5LUic0V6i5ScU7rixkV/ilZxwblegkQg9m8k07lKyE=",
+          "py3"
+        ]
+      }
+    },
     "2.0.9": {
       "sdist": [
         "bq3LOtbhBLIHqSJB4YVb1Y9A9XNQDEMHmrRocWXsSjg=",
@@ -13103,6 +13115,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.64": {
+      "sdist": [
+        "fRL5izuWNO96clpvyqeQ+zSpH15mncgACTpRQshPwcw=",
+        "botocore-a-la-carte-codeartifact-1.29.64.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_codeartifact-1.29.64-py3-none-any.whl": [
+          "btvSC0+wQsDOv27/xifKP9TDKp0t2dUqzbxK/BEo0Go=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-sagemaker-edge": {
@@ -13366,6 +13390,18 @@
       "wheels": {
         "botocore_a_la_carte_sagemaker_edge-1.29.63-py3-none-any.whl": [
           "dvrwKJ+1BiQTkwP9Ruq/Vlby81EWoL8unq0mtxttGg8=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.64": {
+      "sdist": [
+        "7QNrE5CX0o4OMezBM0PjrAo05oD66xDBm/vIYuTG0R8=",
+        "botocore-a-la-carte-sagemaker-edge-1.29.64.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_sagemaker_edge-1.29.64-py3-none-any.whl": [
+          "f/9vo2W+byN/lnLa6XBmBU/mP2hf5OK7YqSg2OBnsZA=",
           "py3"
         ]
       }
@@ -79844,6 +79880,18 @@
       "wheels": {
         "metaerg-2.3.16-py3-none-any.whl": [
           "3o0dQZB99cya9nOjFmMGtseCOkqU54tC2axqNPdx7K0=",
+          "py3"
+        ]
+      }
+    },
+    "2.3.17": {
+      "sdist": [
+        "fn6bh0uM7BqzlEA1e6fwuxRtNRZf02oUOZStiAvIOUE=",
+        "metaerg-2.3.17.tar.gz"
+      ],
+      "wheels": {
+        "metaerg-2.3.17-py3-none-any.whl": [
+          "KPJ0Z3HA+1gQ8mXuOiyU0Xj2nlZ7Smoya/EomYmalHg=",
           "py3"
         ]
       }
@@ -152190,6 +152238,12 @@
       "sdist": [
         "l1ZgKsmx+VatepZLrN73p15492wZqMiefLjnVTdSD4g=",
         "voicegain-speech-1.76.0.tar.gz"
+      ]
+    },
+    "1.77.0": {
+      "sdist": [
+        "2lEvABj1U7PEYGWbrciqbzvXk8Fc18Zf1ggXK831/lY=",
+        "voicegain-speech-1.77.0.tar.gz"
       ]
     }
   },

@@ -27005,6 +27005,10 @@
       }
     },
     "1.16.0a7": {
+      "sdist": [
+        "/7CYgd8hh1b2edDWKV6tRSrs+XDYuHnyNDRrIDCBOSU=",
+        "cdk-cloudformation-awsqs-kubernetes-helm-1.16.0a7.tar.gz"
+      ],
       "wheels": {
         "cdk_cloudformation_awsqs_kubernetes_helm-1.16.0a7-py3-none-any.whl": [
           "d2IHFgWdbulkLevMKuV3FVu7igTtO/5RUCrGqHjUzC8=",
@@ -34594,6 +34598,14 @@
       "wheels": {
         "data_france-0.14.6-py3-none-any.whl": [
           "0vfRaKV4Dx9dIjWEvOpDfCQnei0YrJC8qqsqvSlDmlA=",
+          "py3"
+        ]
+      }
+    },
+    "0.14.7": {
+      "wheels": {
+        "data_france-0.14.7-py3-none-any.whl": [
+          "M4bs/bCHG4tL2zilyA8kIg4TnDvMCIBWnrfKkTTRRos=",
           "py3"
         ]
       }
@@ -75059,6 +75071,12 @@
         "AG1S8MCua+6nRX/xcAzyfXsBda+VKYbKY6Do/LgYd94=",
         "lccv-0.1.0.tar.gz"
       ]
+    },
+    "0.1.1": {
+      "sdist": [
+        "deZebQDP9yb51jPheidu605sV7S+OFyP5ApdTex6gCE=",
+        "lccv-0.1.1.tar.gz"
+      ]
     }
   },
   "leancloud": {
@@ -78416,6 +78434,18 @@
       "wheels": {
         "maestral-1.6.6.dev0-py3-none-any.whl": [
           "fceo+V/b9EHjrSd5QQlCjwFFuan+pP5TcW3ZBRxM8do=",
+          "py3"
+        ]
+      }
+    },
+    "1.6.6.dev1": {
+      "sdist": [
+        "bFpEPIufoiNBCBpDbvvht9KDm4MU9axCYaJepUG6GQw=",
+        "maestral-1.6.6.dev1.tar.gz"
+      ],
+      "wheels": {
+        "maestral-1.6.6.dev1-py3-none-any.whl": [
+          "yL+ABOrSBhcblbmA5w5h1frS8ELX9SnLhWijzP7z94Y=",
           "py3"
         ]
       }
@@ -84968,6 +84998,18 @@
       "wheels": {
         "napari_vodex-0.0.6-py3-none-any.whl": [
           "aMAcjZm52diNnBGXftLcUcWTLiC0Ldv7lLulcLqLo9M=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.11": {
+      "sdist": [
+        "YU10Ri2vJMHAlo8ajVw1ZreCvvWBMfTiFV0rRT65oTk=",
+        "napari-vodex-1.0.11.tar.gz"
+      ],
+      "wheels": {
+        "napari_vodex-1.0.11-py3-none-any.whl": [
+          "+QOKSedo5/NWWlXa2bci2zeEyGgVsUTLg0v1uxzZA70=",
           "py3"
         ]
       }
@@ -125823,6 +125865,18 @@
           "py3"
         ]
       }
+    },
+    "0.3.2": {
+      "sdist": [
+        "eaFZBDwUefnlrkLo81gAUAyQ8tVT5/D/Fz7THHN+T4I=",
+        "simpletrainer-0.3.2.tar.gz"
+      ],
+      "wheels": {
+        "simpletrainer-0.3.2-py3-none-any.whl": [
+          "bS3EOJv1vH2gdf6B0umQ+H5P07ElY3juqOvzrG/5Dr4=",
+          "py3"
+        ]
+      }
     }
   },
   "simplewin32": {
@@ -130322,6 +130376,18 @@
       "wheels": {
         "state_machine_semaphore-0.1.173-py3-none-any.whl": [
           "7KoGTKKAEYy5ndhvSxM1HeUCeLA5B5j/+Qlktl/670c=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.174": {
+      "sdist": [
+        "O7jeCPS6rPOS8ePw0FW3Fv1JHzHXj+S8OhI69o+NfXQ=",
+        "state-machine-semaphore-0.1.174.tar.gz"
+      ],
+      "wheels": {
+        "state_machine_semaphore-0.1.174-py3-none-any.whl": [
+          "UiT7oFK9kjcBMrj8Dxg6u7fnTwxcGoaYkxeUTmOKuGQ=",
           "py3"
         ]
       }
@@ -138032,6 +138098,42 @@
       "wheels": {
         "TheSilent-0.0.210-py3-none-any.whl": [
           "NyxXPplRtDhXP60yoWtmUyeL0fTvY/b5EtYvJJAztkc=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.211": {
+      "sdist": [
+        "Irg3FE5tNTvynIrRVNvlBg/dNGgV/8ZCSvvxFjefXvw=",
+        "TheSilent-0.0.211.tar.gz"
+      ],
+      "wheels": {
+        "TheSilent-0.0.211-py3-none-any.whl": [
+          "f8ZoDSiYxN4WDeyqyAHdohjIQclfEvNaKBqcukaYdog=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.212": {
+      "sdist": [
+        "iqTF56MOmpq0tWgu4756DOxI7v16ryDHOkUhRzCHe6Y=",
+        "TheSilent-0.0.212.tar.gz"
+      ],
+      "wheels": {
+        "TheSilent-0.0.212-py3-none-any.whl": [
+          "4hAYPIJBAxzyNc/aNcsfXukFLRdTKZ0jDU8j5LY7XpQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.213": {
+      "sdist": [
+        "D3+MSNdvB9Lt1Yfcyzp2k9VENp007vguhgcnKvRTEI0=",
+        "TheSilent-0.0.213.tar.gz"
+      ],
+      "wheels": {
+        "TheSilent-0.0.213-py3-none-any.whl": [
+          "3MJiOvpMLPv08Rg0dpAxIvq1wmnpDBDeCTGMT1uQFSg=",
           "py3"
         ]
       }

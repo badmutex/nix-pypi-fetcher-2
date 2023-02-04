@@ -9223,6 +9223,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.64": {
+      "sdist": [
+        "2hthOIxX5WRwP+on4wZTQ83gchI8lGCZCLGxorVPX3M=",
+        "botocore-a-la-carte-opsworks-1.29.64.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_opsworks-1.29.64-py3-none-any.whl": [
+          "acftp3AUzyOh7MJQpTHRM17MSjNcJiQRACJSjoYsIWs=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-sagemaker-a2i-runtime": {
@@ -9486,6 +9498,18 @@
       "wheels": {
         "botocore_a_la_carte_sagemaker_a2i_runtime-1.29.63-py3-none-any.whl": [
           "FrsBIUr6BoZIQjH4OQSlMEsORoVn9p2BL3zM0U4k64s=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.64": {
+      "sdist": [
+        "kOh+zVzpswB88Am4hU9y3K0LV588G4+47ki9akExuD0=",
+        "botocore-a-la-carte-sagemaker-a2i-runtime-1.29.64.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_sagemaker_a2i_runtime-1.29.64-py3-none-any.whl": [
+          "2q6KrAwru234Qy8WOXdynulE3QzqSOYkkcnjo1B7F8E=",
           "py3"
         ]
       }
@@ -12596,6 +12620,18 @@
       "wheels": {
         "cdk8s_plus_25-2.4.10-py3-none-any.whl": [
           "RS3eaYv1PknLk7OV51tp5BEC0XqF2pXj6bKuGjcvUsg=",
+          "py3"
+        ]
+      }
+    },
+    "2.4.11": {
+      "sdist": [
+        "7aK5qX9K/ZpqdeGKvH+2tdpvfph58B4XGG5sDcTEoMI=",
+        "cdk8s-plus-25-2.4.11.tar.gz"
+      ],
+      "wheels": {
+        "cdk8s_plus_25-2.4.11-py3-none-any.whl": [
+          "rGnnpxo6hCCWs9lEDzDzMaBoohTZaTW/u/JbI4QUduU=",
           "py3"
         ]
       }
@@ -51622,6 +51658,42 @@
       "wheels": {
         "i2x-0.0.1-py2.py3-none-any.whl": [
           "MblDLlFqSOPL1OFD1i2+n0ea32J1ypoAhruRjDnT690=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "EmhekLOuy8uw3uQN4Tc6DeN53L0jCEIPkfgPAIJq5+E=",
+        "i2x-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "i2x-0.0.2-py2.py3-none-any.whl": [
+          "fqt4exXumUtL+PwP15XTS+qMpGd8XjH9lK7c3R352Xk=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "0449yFT79oQa4w4zjJ2p00C+qmWnY26pbGPaETgYpro=",
+        "i2x-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "i2x-0.0.3-py2.py3-none-any.whl": [
+          "EZvEtnMT73eFKup08NZevJakjhvqgnzWLgHtIJbZPtY=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.4": {
+      "sdist": [
+        "/yATflVRR1BpVSkpRPWKFN0LXnVTxaCLw7gWRH/3GM4=",
+        "i2x-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "i2x-0.0.4-py2.py3-none-any.whl": [
+          "DxJ839hV5HKhjy7J9VjVdGB3BK/JFPgN2KdPg5vSuGA=",
           "py2.py3"
         ]
       }

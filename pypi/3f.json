@@ -65473,6 +65473,20 @@
       }
     }
   },
+  "my-package-for-wow-ai": {
+    "0.0.1": {
+      "sdist": [
+        "PsgBjmmIjeanSA0kJeKKKoHj1cL0Md+fd+JMKU+ihSc=",
+        "my_package_for_wow_ai-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "my_package_for_wow_ai-0.0.1-py3-none-any.whl": [
+          "7+lNOerfMSHBc7qwvVBJglPxl4UXRr22bUFRJw9FUy8=",
+          "py3"
+        ]
+      }
+    }
+  },
   "my-validator": {
     "0.0.1": {
       "sdist": [
@@ -93584,6 +93598,12 @@
         "pulumi_aws-5.29.0a1675272489.tar.gz"
       ]
     },
+    "5.29.1": {
+      "sdist": [
+        "CY5vsnz0t0cOetH+n+JK/TL4ajtMYQ6QaPQAoXfnCgQ=",
+        "pulumi_aws-5.29.1.tar.gz"
+      ]
+    },
     "5.3.0": {
       "sdist": [
         "oWDgBGH5vGb1o8Jr3R+yaJZcKShq37ADYUrhyQ4WB4I=",
@@ -93600,6 +93620,12 @@
       "sdist": [
         "Y/YxxiDgb3hVnOmk12wAvExOvFR2WW9tCv9J19QieT0=",
         "pulumi_aws-5.3.0a1650923236.tar.gz"
+      ]
+    },
+    "5.30.0a1675478477": {
+      "sdist": [
+        "UX0ChJ81gUo52nalbFEl29KZbJHfbnsO7dyMEeH58VE=",
+        "pulumi_aws-5.30.0a1675478477.tar.gz"
       ]
     },
     "5.4.0": {
@@ -95718,6 +95744,18 @@
       "wheels": {
         "pyathena-2.20.0-py3-none-any.whl": [
           "AXbw2NKz8GgdHkN/3sVP1jaXRMYOaGC6nWF53qIgBcc=",
+          "py3"
+        ]
+      }
+    },
+    "2.21.0": {
+      "sdist": [
+        "DhG8JdYVRrsRuXsmlUzp7HDRlBsI/pLMBDzYqIzmae4=",
+        "pyathena-2.21.0.tar.gz"
+      ],
+      "wheels": {
+        "pyathena-2.21.0-py3-none-any.whl": [
+          "WoJ4UapYFg0Tq2G6pXs0bw5g88ZuG0q7XX1D8G/jPJs=",
           "py3"
         ]
       }
@@ -148461,6 +148499,14 @@
           "py3"
         ]
       }
+    }
+  },
+  "whatsapy": {
+    "0.0.1": {
+      "sdist": [
+        "PakIgdZ7nql9nFjPw4l3Kvsa/tOGvLvruYSB+ssbPSY=",
+        "WhatsaPy-0.0.1.tar.gz"
+      ]
     }
   },
   "wheeltools": {

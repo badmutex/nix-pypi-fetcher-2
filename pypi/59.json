@@ -10412,6 +10412,34 @@
         ]
       }
     },
+    "1.25.1b1": {
+      "wheels": {
+        "azure_cognitiveservices_speech-1.25.1b1-py3-none-macosx_10_14_x86_64.whl": [
+          "2JnN1tcc4JP8xasCEt9lxr2tPWMyERbRmvxJBWDQ0fA=",
+          "py3"
+        ],
+        "azure_cognitiveservices_speech-1.25.1b1-py3-none-macosx_11_0_arm64.whl": [
+          "y9aadmJ1tM9kQE0rGoZo9xyhj/d07UkQUhAWkIvQGjo=",
+          "py3"
+        ],
+        "azure_cognitiveservices_speech-1.25.1b1-py3-none-manylinux1_x86_64.whl": [
+          "ORYf6c43PHACj95tmGCr5H54VAoWic6O3jRoqJc7DsE=",
+          "py3"
+        ],
+        "azure_cognitiveservices_speech-1.25.1b1-py3-none-manylinux2014_aarch64.whl": [
+          "voPUoAVl+z4cskDRtn1dD3Y0yAPYhgeiaAw1jd10Z0k=",
+          "py3"
+        ],
+        "azure_cognitiveservices_speech-1.25.1b1-py3-none-win32.whl": [
+          "NFoZvRcC8lHjHszAmAqSQWN4IDfAiNFhoSIXKdvXJPY=",
+          "py3"
+        ],
+        "azure_cognitiveservices_speech-1.25.1b1-py3-none-win_amd64.whl": [
+          "QJ6T5BNmti6BkptWV55DJUTgFhniqEBWIJjG/0qUrQ0=",
+          "py3"
+        ]
+      }
+    },
     "1.3.0": {
       "wheels": {
         "azure_cognitiveservices_speech-1.3.0-cp35-cp35m-macosx_10_12_x86_64.whl": [
@@ -36018,6 +36046,18 @@
       "wheels": {
         "duplicate_images-0.7.2b0-py3-none-any.whl": [
           "58ehTwUvNiE/LlQ+4Fb0knvZJLUvVasQHanwSLrTVWU=",
+          "py3"
+        ]
+      }
+    },
+    "0.7.2rc0": {
+      "sdist": [
+        "E+c/pkmYl0rQgelBKft827fr1jXDMdY1IjyJuGw9Cm4=",
+        "duplicate_images-0.7.2rc0.tar.gz"
+      ],
+      "wheels": {
+        "duplicate_images-0.7.2rc0-py3-none-any.whl": [
+          "UBDrwkoUtaDO4DlUfJNLdtsXJb7YWDhDWP7h2xE3yHU=",
           "py3"
         ]
       }
@@ -63685,6 +63725,18 @@
         "gALNG69opN1nhAEJuElx0fqZYaKRxAAZIvmpO4JsTxc=",
         "micropython-eduponics-1.0.8.tar.gz"
       ]
+    },
+    "2.0.0": {
+      "sdist": [
+        "+ss27HelsUm34T3kwhzrptlPFE+MWoFTAbXFcW/z/Ag=",
+        "micropython-eduponics-2.0.0.tar.gz"
+      ],
+      "wheels": {
+        "micropython_eduponics-2.0.0-py3-none-any.whl": [
+          "MsfPfksCo88/En30FQV6iqS64tTwpVq3GVHiq0yHCkI=",
+          "py3"
+        ]
+      }
     }
   },
   "micropython-studuinobit-iot": {
@@ -145756,42 +145808,6 @@
         ]
       }
     },
-    "0.1.2": {
-      "sdist": [
-        "LVxGHqUzIABkQsQEgU/5qaLqKfk/W7qCqKTJBS2Z86U=",
-        "ukr_itn-0.1.2.tar.gz"
-      ],
-      "wheels": {
-        "ukr_itn-0.1.2-py3-none-any.whl": [
-          "JIRep9QUwFyCLPn6sbjgk1ArsWNqGuNUUcfd6/26xSA=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.3": {
-      "sdist": [
-        "HWutedn6SjyznwS9WeabgKNE/W7X0Q+WjflCxDWo7eM=",
-        "ukr_itn-0.1.3.tar.gz"
-      ],
-      "wheels": {
-        "ukr_itn-0.1.3-py3-none-any.whl": [
-          "3ek3plEtbJHOBS7/ZqkgBc/YU5NRCh/8v9+1Z3sFrh0=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.4": {
-      "sdist": [
-        "zU0CCu4eK07ld9fqyF4F33mfI71GSmWpa+7jhJq5uaQ=",
-        "ukr_itn-0.1.4.tar.gz"
-      ],
-      "wheels": {
-        "ukr_itn-0.1.4-py3-none-any.whl": [
-          "qdrDPPMY4wNJ8c5aRhJmLeBDeFYJs2NyUwMtQThNDew=",
-          "py3"
-        ]
-      }
-    },
     "0.1.5": {
       "sdist": [
         "KkCpevqpvc4RWc9i3i7onmsQsYme1oMaCOY9Qdo6uTE=",
@@ -145812,6 +145828,18 @@
       "wheels": {
         "ukr_itn-0.1.6-py3-none-any.whl": [
           "ffK6R2TjntHbMQ++FmAXCJwIj5l/WYUg3w4cRkV7ixM=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.7": {
+      "sdist": [
+        "4W37H9wciq3nQ3gwQrnKRBpS9NRibu7QjRNU5VdCgu0=",
+        "ukr_itn-0.1.7.tar.gz"
+      ],
+      "wheels": {
+        "ukr_itn-0.1.7-py3-none-any.whl": [
+          "TwmyhqGIEhCSp3nhhrKxV/GrcbBVp8vDcGnyPHoOeng=",
           "py3"
         ]
       }

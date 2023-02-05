@@ -46695,6 +46695,18 @@
           "py2.py3"
         ]
       }
+    },
+    "0.19.0a20230204": {
+      "wheels": {
+        "gs_apps-0.19.0a20230204-py2.py3-none-macosx_10_9_x86_64.whl": [
+          "YItRWVS+qmRKXlH8vI7pD0WbFUaE/TodikxW2b5QUKg=",
+          "py2.py3"
+        ],
+        "gs_apps-0.19.0a20230204-py2.py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "KAZWHyU2S18pM5g0Qu+jOrOMqTFsOwgcHVOO2L94FBY=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "gspy": {
@@ -128132,6 +128144,18 @@
       "wheels": {
         "speakeasy_client_sdk_python-0.9.1-py3-none-any.whl": [
           "NSi4nJKZLq4chWNUwDrrX1KYHUAqEdL9hkSQxi9wWSI=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.0": {
+      "sdist": [
+        "Q6dIrmlWIRY0uDIUGglccRKdkG+1MycsW0WvWdRohyE=",
+        "speakeasy-client-sdk-python-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "speakeasy_client_sdk_python-1.0.0-py3-none-any.whl": [
+          "aGgWe/imrNICjrgCUfyG8oDSpkvPlPQptJ3I5OMzU5w=",
           "py3"
         ]
       }

@@ -90810,6 +90810,46 @@
         ]
       }
     },
+    "0.10.21": {
+      "sdist": [
+        "TFpjh3jHmM2Vir2GqPkthQdCmzNrVhizaVJAm6scHfA=",
+        "pkgcheck-0.10.21.tar.gz"
+      ],
+      "wheels": {
+        "pkgcheck-0.10.21-py3-none-manylinux_2_24_aarch64.whl": [
+          "O/eznqK6UjmjFpPWTIMGQ0qEKrMvHTQbW03OldYnZ0E=",
+          "py3"
+        ],
+        "pkgcheck-0.10.21-py3-none-manylinux_2_24_ppc64le.whl": [
+          "FQzAfOgyAzgyoDHMEuvma/TcYd9Prcs5NLGZWrLPb1I=",
+          "py3"
+        ],
+        "pkgcheck-0.10.21-py3-none-manylinux_2_24_s390x.whl": [
+          "NxqyevtXN8Sxh2SE3+zle6TD32IaG6NtvHuhBAegdoE=",
+          "py3"
+        ],
+        "pkgcheck-0.10.21-py3-none-manylinux_2_24_x86_64.whl": [
+          "KbTjwFvEze4CmmsU+a4g7MlDebOLGaxdR+5+IySO0O4=",
+          "py3"
+        ],
+        "pkgcheck-0.10.21-py3-none-musllinux_1_1_aarch64.whl": [
+          "HWN3LHhnuULvEhUyoSJEJvJLdHy8sWQz46y3oqfCXwk=",
+          "py3"
+        ],
+        "pkgcheck-0.10.21-py3-none-musllinux_1_1_ppc64le.whl": [
+          "35rT7seTBeNiPKRX7Z94gcL6SmpYg9oRp8+xe34Kp0Q=",
+          "py3"
+        ],
+        "pkgcheck-0.10.21-py3-none-musllinux_1_1_s390x.whl": [
+          "NVVdap5lnGYvtVh8K9dz5qGbCzD2C+rsPIK8TQlGHws=",
+          "py3"
+        ],
+        "pkgcheck-0.10.21-py3-none-musllinux_1_1_x86_64.whl": [
+          "nBe3jLzF2wUaQpv5YPZ8acykbKsJN2euuBg3/CmKgVA=",
+          "py3"
+        ]
+      }
+    },
     "0.10.3": {
       "sdist": [
         "UmbTfUHso3hErj5Ex1ZsjU2rLXz54nrKj2L/SBTOjX0=",
@@ -144081,6 +144121,20 @@
       }
     }
   },
+  "turtlepolishedition": {
+    "0.0.1": {
+      "sdist": [
+        "l5uPy63tWC1I1+CV3azwoMxrDPoYYPJVxiphMhPQLv8=",
+        "turtlepolishedition-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "turtlepolishedition-0.0.1-py3-none-any.whl": [
+          "BEdpE6So78kul7eY70Rag9GoIRs9H+eBt8OX94ENFAw=",
+          "py3"
+        ]
+      }
+    }
+  },
   "tvdb-official": {
     "1.0.1": {
       "sdist": [
@@ -153986,14 +154040,50 @@
     }
   },
   "yelphelp": {
-    "1.0.2": {
+    "1.0.3": {
       "sdist": [
-        "ZOG7K/BB/9zlAqeQuWHfa23V9oBczV1WAGbHVI1GaqM=",
-        "yelphelp-1.0.2.tar.gz"
+        "jHxlFG813N28eNXzuu2NhNlVekFjT/2EFCX3qqi2Z6Y=",
+        "yelphelp-1.0.3.tar.gz"
       ],
       "wheels": {
-        "yelphelp-1.0.2-py3-none-any.whl": [
-          "PHh8IlFxjr0YtBBOghhdWKWw+6BYLPZ30e3CNpAcVy0=",
+        "yelphelp-1.0.3-py3-none-any.whl": [
+          "3a3bgXHoI2vqo/g5w4T9pUBpd3fUBwia8Fs8mRTEhuQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.4": {
+      "sdist": [
+        "r4Z4F/ZrdvTznGNy4xYAozQ3RdpO1NqxvOT7uoo7FMg=",
+        "yelphelp-1.0.4.tar.gz"
+      ],
+      "wheels": {
+        "yelphelp-1.0.4-py3-none-any.whl": [
+          "mxoumva3SLsHMQ8PAJssgBkwzjW4S1sU5CERC1Ds2u4=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.5": {
+      "sdist": [
+        "5UEdgUz+L2s4OugoRC865x0V0kBXn8/ZyEXb+5kr9Gk=",
+        "yelphelp-1.0.5.tar.gz"
+      ],
+      "wheels": {
+        "yelphelp-1.0.5-py3-none-any.whl": [
+          "rBKhcFW2Z1Yik7i8zkHFlldnzCwNXNNldTQQvCphab0=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.6": {
+      "sdist": [
+        "3g4oFfzDbT02z9ATuyYnLByW9+HFVNKe2h+LBdLTKic=",
+        "yelphelp-1.0.6.tar.gz"
+      ],
+      "wheels": {
+        "yelphelp-1.0.6-py3-none-any.whl": [
+          "RQ7/7YJt43E8sAgtMqnJMqFShVN8qx/MFiLQhne+Pk4=",
           "py3"
         ]
       }

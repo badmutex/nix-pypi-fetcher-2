@@ -8061,6 +8061,18 @@
           "py3"
         ]
       }
+    },
+    "2.63.2a0": {
+      "sdist": [
+        "+gL0tCh4Qj7lSTt3o9299YFW4RhWwl8BVdocsmmH8dA=",
+        "aws-cdk.aws-sagemaker-alpha-2.63.2a0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_sagemaker_alpha-2.63.2a0-py3-none-any.whl": [
+          "bBOX+BSYLFLoBwjdNZ/Vja5p9uaAEG4hA01w4gZmgWs=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-cdk.aws-workspaces": {
@@ -23904,6 +23916,18 @@
       "wheels": {
         "cdk_hugo_deploy-0.0.151-py3-none-any.whl": [
           "AQ1xsV7moq+Bw95tirRl+XMnwAYc5v6bcAwrYjUvSxs=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.152": {
+      "sdist": [
+        "qK6XNGxKEajpH46bn4iQYVSC3gg+y9C+nqXAV70GqMk=",
+        "cdk-hugo-deploy-0.0.152.tar.gz"
+      ],
+      "wheels": {
+        "cdk_hugo_deploy-0.0.152-py3-none-any.whl": [
+          "GpYfoa8jVcAPzLlwmOiRnPF5Bwcccz9jn8mkSNXhmtU=",
           "py3"
         ]
       }
@@ -108195,6 +108219,20 @@
       }
     }
   },
+  "py-algorand-nft-sdk": {
+    "0.0.1": {
+      "sdist": [
+        "cUaMvJNmpPsJ+GDLfM/lvF6OjqOpmdhfMP/kXnD/pmg=",
+        "py_algorand_nft_sdk-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "py_algorand_nft_sdk-0.0.1-py3-none-any.whl": [
+          "pyEaFzG37fZpnXzwvpcy8SJ0di5Zh1OACHeGJUC8JbE=",
+          "py3"
+        ]
+      }
+    }
+  },
   "py-conference": {
     "0.0.1": {
       "sdist": [
@@ -141772,6 +141810,12 @@
       "sdist": [
         "rwyo7ukFThnZ9o9mTkxpKeQpnqJ7kM1hExsNg3PDpTg=",
         "tlspyo-0.2.4.tar.gz"
+      ]
+    },
+    "0.2.5": {
+      "sdist": [
+        "4roOYvsd05MprsTaFtLVp7b8X5Zo6cjGnBcWsh+Vq+I=",
+        "tlspyo-0.2.5.tar.gz"
       ]
     }
   },

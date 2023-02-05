@@ -4979,6 +4979,12 @@
         "5bL3mCAUQ5syW6ixtkzegO6474N9JUu7rtS0uAxhN78=",
         "alphaz-0.7.0.8.tar.gz"
       ]
+    },
+    "0.7.0.9": {
+      "sdist": [
+        "QYDq9MCmgje7w/2lgTl8jLkA5tDk0rRdyOLM5B2smgw=",
+        "alphaz-0.7.0.9.tar.gz"
+      ]
     }
   },
   "amancalc": {
@@ -64027,6 +64033,42 @@
           "py3"
         ]
       }
+    },
+    "0.5.0": {
+      "sdist": [
+        "juTVPy6onYe04dldEs1w61eXBs1msDUDjkl28Crsj4A=",
+        "lonedruid-0.5.0.tar.gz"
+      ],
+      "wheels": {
+        "lonedruid-0.5.0-py3-none-any.whl": [
+          "RDvTHd9R8wsLZLvgvOnQuMkchItOZFJT/LvyYdE467U=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.1": {
+      "sdist": [
+        "Ll3ki6VkRCFqFIPMCmglYJ5L3ek14O3YoCmSjMrLVY8=",
+        "lonedruid-0.5.1.tar.gz"
+      ],
+      "wheels": {
+        "lonedruid-0.5.1-py3-none-any.whl": [
+          "I2n/Ky1O/DBe5bpnsjONzWl6+cJLNQE8yoH5cvkJabE=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.2": {
+      "sdist": [
+        "Z7PTuO0qE2PsGAdlRN95EvfBy3nfQ6/iRXJv0C+92G0=",
+        "lonedruid-0.5.2.tar.gz"
+      ],
+      "wheels": {
+        "lonedruid-0.5.2-py3-none-any.whl": [
+          "fdNFM+IhY2NPtc67pundad3/+f9TsYz1HZtYNQh1VUM=",
+          "py3"
+        ]
+      }
     }
   },
   "lonny-aws-stack": {
@@ -104819,6 +104861,88 @@
         "quick_sci_plot-0.0.1-py3-none-any.whl": [
           "GH2a4R5t0OLSOw7zSGSP9WC9x1l36q+XTIWVtGguF6c=",
           "py3"
+        ]
+      }
+    }
+  },
+  "quickner": {
+    "0.0.0a1": {
+      "sdist": [
+        "1c1KC3+jl6QzXCemet9Ct0tTgvfayUqEnJfM0KXXA8E=",
+        "quickner-0.0.0a1.tar.gz"
+      ],
+      "wheels": {
+        "quickner-0.0.0a1-cp310-cp310-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "WO8lwlOlQPm/7jgYDwYWMmo83AwzMug/3CYdBAahdGU=",
+          "cp310"
+        ],
+        "quickner-0.0.0a1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "HodyePiK8YaP4FmhNJw/oxzFtBYAMQ3vYMixgj07K5Q=",
+          "cp310"
+        ],
+        "quickner-0.0.0a1-cp310-none-win_amd64.whl": [
+          "K2WUDNFBz74RtSrrPs1wojg/NhzpH7Rvsm3D/jJ+ebs=",
+          "cp310"
+        ],
+        "quickner-0.0.0a1-cp311-cp311-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "L2naRQBX9VRl0/Dzdvuvnrsw3Ba683Sdrp6RdQK/WKk=",
+          "cp311"
+        ],
+        "quickner-0.0.0a1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "w60p4y9ZYqH52/1OcqGfMM3buRQjGxqR1QrrBEBcpP4=",
+          "cp311"
+        ],
+        "quickner-0.0.0a1-cp311-none-win_amd64.whl": [
+          "GibyF4iE4zrHA7EQG3jtksFwsw5dOwttUzsr3Pjff0M=",
+          "cp311"
+        ],
+        "quickner-0.0.0a1-cp37-cp37m-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "gSXjproArpdc4HKoRCchu8yO4mCyKv0db4Nvfq+1mt0=",
+          "cp37"
+        ],
+        "quickner-0.0.0a1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Md6AiW2GrOWCjpcgxEhKHfErDDJlMIiWgwzzvVpvyY8=",
+          "cp37"
+        ],
+        "quickner-0.0.0a1-cp37-none-win_amd64.whl": [
+          "ovxUNquzeVPt8n/LaI72SbuMJaY49z1R8hjkIha1oiI=",
+          "cp37"
+        ],
+        "quickner-0.0.0a1-cp38-cp38-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "FM9S/9f78Xk+16UOboJYBuvFWJ9c+4vUo9b9UQhlrH4=",
+          "cp38"
+        ],
+        "quickner-0.0.0a1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "xtgx7zyBr4iueqQkt9MnnjrtiyptEw6f9SUcZV+pk4E=",
+          "cp38"
+        ],
+        "quickner-0.0.0a1-cp38-none-win_amd64.whl": [
+          "uEm1bZseHi0W/5Y2lExWIe642QsrhBAjj1BLkzGQKQI=",
+          "cp38"
+        ],
+        "quickner-0.0.0a1-cp39-cp39-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "3tcT8XSHQgFKO2d43rF3lHl8EvF3FCcPGwjQ0RYKsAQ=",
+          "cp39"
+        ],
+        "quickner-0.0.0a1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "/bscOxMx3MOWNYRTZfdYp3EqP8y/BPXTet+gcAcG9oQ=",
+          "cp39"
+        ],
+        "quickner-0.0.0a1-cp39-none-win_amd64.whl": [
+          "USBcyftmxDOhye6BcSCT5HXVV2WNnfWYyMT/iWntvA8=",
+          "cp39"
+        ],
+        "quickner-0.0.0a1-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "rKW8C+B/JRRHVtUcccECAsbjJxfZZSaCAqHAi3ZGuOA=",
+          "pp37"
+        ],
+        "quickner-0.0.0a1-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "M8v6X8ECAB+oIf3egeBMDnOrWZVCck4IvQ3xnBs/YAc=",
+          "pp38"
+        ],
+        "quickner-0.0.0a1-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "FEm3kO2mEYaM8fKRdpiBn4cwKDR9OHbJdqzDi73uHD0=",
+          "pp39"
         ]
       }
     }

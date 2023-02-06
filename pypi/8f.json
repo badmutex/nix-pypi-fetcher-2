@@ -16138,6 +16138,30 @@
         ]
       }
     },
+    "1.10.0": {
+      "sdist": [
+        "WJb9EENkYFVgKuByHFJhed/Slt6ayG31LeQk1+14/Ys=",
+        "bids-validator-1.10.0.tar.gz"
+      ],
+      "wheels": {
+        "bids_validator-1.10.0-py2.py3-none-any.whl": [
+          "V2/cQBxkoLwuxdjxYREvIfzaQGCM+8n6Tc2dhJY1q3o=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.10.1.dev0": {
+      "sdist": [
+        "UT9TM0l6jYX+/slq/Q3k9IJT7uwMeCUUDzmPJuk8dqQ=",
+        "bids-validator-1.10.1.dev0.tar.gz"
+      ],
+      "wheels": {
+        "bids_validator-1.10.1.dev0-py2.py3-none-any.whl": [
+          "v89SCZ3mTuj+ztCISaRBhnH97VoK07aujKA/XrVPVLE=",
+          "py2.py3"
+        ]
+      }
+    },
     "1.2.0": {
       "sdist": [
         "q+SngnKmSPbj13JsXPsX3FRlLckgdREFJorBYYKB8W0=",
@@ -41734,6 +41758,18 @@
       "wheels": {
         "easy_events-1.9.5-py3-none-any.whl": [
           "ilJqPuz3vd5LBMySUZQnvMay1BqrbRifWexG0AvQaec=",
+          "py3"
+        ]
+      }
+    },
+    "1.9.6": {
+      "sdist": [
+        "T1wVLoddwIL7vgHUp3XiTAR2UpIb2XipIs2BGshH0Dg=",
+        "easy-events-1.9.6.tar.gz"
+      ],
+      "wheels": {
+        "easy_events-1.9.6-py3-none-any.whl": [
+          "t/AB7ckWc2KmmcofogOUh4CvLRBkRwhtvqqZkw8zwjc=",
           "py3"
         ]
       }
@@ -93512,6 +93548,18 @@
         ]
       }
     },
+    "0.6.10": {
+      "sdist": [
+        "I+wDPQuF8gvNnZsnuM7ByHE846+GSkkVYCQAMXXAvy8=",
+        "prismacloud-cli-0.6.10.tar.gz"
+      ],
+      "wheels": {
+        "prismacloud_cli-0.6.10-py3-none-any.whl": [
+          "keCT5clDVd2uTO6r4BlTv9d1WB0FxLFVoeL+AoQGxxM=",
+          "py3"
+        ]
+      }
+    },
     "0.6.2": {
       "sdist": [
         "ORuNnDwCw32Ta8HUsYqucUI+dueYOTaBpUwnNiWb9tM=",
@@ -105978,6 +106026,18 @@
         ]
       }
     },
+    "0.15.0": {
+      "sdist": [
+        "mbBZJFRkRgJhLfTT3Ui4hFklkNXWmu1OSUj/ipY+das=",
+        "rawpipe-0.15.0.tar.gz"
+      ],
+      "wheels": {
+        "rawpipe-0.15.0-py3-none-any.whl": [
+          "jQJ9+6o35k/NFk45bIkK0EFWVam9hifQhqqLUpdO/p8=",
+          "py3"
+        ]
+      }
+    },
     "0.2.0": {
       "sdist": [
         "reFPmDTbFgW8RW3ZoXZyS0hIdb7733C2SSoQ9yg/rT8=",
@@ -116361,6 +116421,32 @@
       ]
     }
   },
+  "smime-email": {
+    "0.1.0": {
+      "sdist": [
+        "oeiBmEUOcuGNq/r3rKxBc8ppB+h9KfTzxdiscopyvqk=",
+        "smime_email-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "smime_email-0.1.0-py3-none-any.whl": [
+          "vZ9+uO0BRTi9PPJtnjdudNtRANBYxDlQ6D/1+xwqCW8=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.0": {
+      "sdist": [
+        "SX1gsoCXbANcYvIR5EEarAJlw+/0P+5l36B6MhXZhwc=",
+        "smime_email-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "smime_email-0.2.0-py3-none-any.whl": [
+          "QDvJYU/eWzYQNB/l2EDeQDHI7Ew253WjoydZ9k6evXc=",
+          "py3"
+        ]
+      }
+    }
+  },
   "smla-info": {
     "0.1.0": {
       "sdist": [
@@ -124155,6 +124241,20 @@
         "Fu9tYryg/osKYqHqcjg2ZHz7QEsHjjdnnIpH/D6HLac=",
         "spykeviewer-0.4.4.tar.gz"
       ]
+    }
+  },
+  "sqlalchemy-ocient": {
+    "1.0.0": {
+      "sdist": [
+        "VbUEZqfWdVJpWMHAAMI/o7IRbP4s5x1NUSVITuaot1w=",
+        "sqlalchemy_ocient-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "sqlalchemy_ocient-1.0.0-py2.py3-none-any.whl": [
+          "o5/n3mcKYwhLIuPilwFh8wXkIMu5T/DrJTeG0VRMC3k=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "sqlescapy": {
@@ -134361,6 +134461,14 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.1": {
+      "wheels": {
+        "udata_ods-3.0.1-py2.py3-none-any.whl": [
+          "3pQ1ZBsEd9hFN/jNkV6xiMcCA6ZlUOdK/rOSXWnZqrw=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "udictoolkits": {
@@ -139064,10 +139172,46 @@
         "volworld_aws_api_common-0.1.17.tar.gz"
       ]
     },
+    "0.1.18": {
+      "sdist": [
+        "+7Mrz4rWYgS279+RutWsZzekxTyy2boO+YtiNKVJ1rk=",
+        "volworld_aws_api_common-0.1.18.tar.gz"
+      ]
+    },
+    "0.1.19": {
+      "sdist": [
+        "YfKtiCt/0/yHZ6Oy5PjzDV1QITqqdKsZqp7M8Sl5cno=",
+        "volworld_aws_api_common-0.1.19.tar.gz"
+      ]
+    },
     "0.1.2": {
       "sdist": [
         "jjZX164DY+qt1yy9KlnIpBSINpbSWqQiGaCa7rBVpy0=",
         "volworld_aws_api_common-0.1.2.tar.gz"
+      ]
+    },
+    "0.1.20": {
+      "sdist": [
+        "YC7QKyY6zx0gFktXMRUy37zatPu2dbpuRf6Bsr4GPMw=",
+        "volworld_aws_api_common-0.1.20.tar.gz"
+      ]
+    },
+    "0.1.21": {
+      "sdist": [
+        "xG4sojbqcw7hsQfq2pV8QpPjyBtmM8xbRV/QEj+VHB4=",
+        "volworld_aws_api_common-0.1.21.tar.gz"
+      ]
+    },
+    "0.1.22": {
+      "sdist": [
+        "/ImHQlaBKrWHSPN4qc21hdt/Vi/vYLm2cHboxoKuEC0=",
+        "volworld_aws_api_common-0.1.22.tar.gz"
+      ]
+    },
+    "0.1.23": {
+      "sdist": [
+        "b+GqyMt+xDwP77LnDSy39Q/N+9SkkFDbRAA+ufpVSWs=",
+        "volworld_aws_api_common-0.1.23.tar.gz"
       ]
     },
     "0.1.3": {

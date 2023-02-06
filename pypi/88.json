@@ -3619,6 +3619,20 @@
       }
     }
   },
+  "andreani-qa-parameters": {
+    "0.0.1": {
+      "sdist": [
+        "ON0PsGK5OFSK0BUi6aXW0NJpASC9Cs2gez9iwCx8QJg=",
+        "Andreani_QA_parameters-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "Andreani_QA_parameters-0.0.1-py3-none-any.whl": [
+          "ZC424xr+qkjAa3WksXMh/pbgWQTbIaVmj+6iUSJjfkw=",
+          "py3"
+        ]
+      }
+    }
+  },
   "ankitmissingvalues": {
     "0.1": {
       "sdist": [
@@ -8174,6 +8188,14 @@
       "wheels": {
         "backend.ai_plugin-22.9.9-py3-none-any.whl": [
           "TgEqN1nwxndk5Tnyc2wxO2b92z1GNTkdDPCMra2MYQk=",
+          "py3"
+        ]
+      }
+    },
+    "23.3.0.dev0": {
+      "wheels": {
+        "backend.ai_plugin-23.3.0.dev0-py3-none-any.whl": [
+          "UZNrFpacGroisuTttJhkUpqmH5nUOKATU8XJUTloewI=",
           "py3"
         ]
       }
@@ -87569,6 +87591,20 @@
       ]
     }
   },
+  "numeral-converter": {
+    "0.0.1": {
+      "sdist": [
+        "wKUa40ZULXSPJYZBsP4Bq01bgIYt9BQTcJUgMm+3yZg=",
+        "numeral_converter-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "numeral_converter-0.0.1-py3-none-any.whl": [
+          "ZwW+TunhxglPkskzbXa3xF3m3PZB08JPvjoQzcs6Rqw=",
+          "py3"
+        ]
+      }
+    }
+  },
   "numpydoc": {
     "0.1": {
       "sdist": [
@@ -144474,12 +144510,6 @@
     }
   },
   "wpilib": {
-    "0.0.0-461-geb68f5f": {
-      "sdist": [
-        "EPR4ZhmzubfLe3FZsCQ1o2d+t/OVkpMC4f1cN6tqOBs=",
-        "wpilib-0.0.0-461-geb68f5f.tar.gz"
-      ]
-    },
     "2015.0.0": {
       "sdist": [
         "I1y+QzLtYBN3yyFToyIVVUsrtpaJ4vZ6cCKYYbXpXDU=",
@@ -147914,6 +147944,74 @@
         ],
         "wpilib-2023.3.1.0-cp39-cp39-win_amd64.whl": [
           "J1lwbV+MV+WETv2L+2Gmh0HVBZBtpbAnR46XDplc36o=",
+          "cp39"
+        ]
+      }
+    },
+    "2023.3.2.1": {
+      "sdist": [
+        "VdfoBPvptWU5XLHpj0cWPWFseZkxoBHbgwLpkbfdbd4=",
+        "wpilib-2023.3.2.1.tar.gz"
+      ],
+      "wheels": {
+        "wpilib-2023.3.2.1-cp310-cp310-macosx_10_16_x86_64.whl": [
+          "r9LpvKlbl3R3QGVlaYukdDcozS9YjoMPv4H2CZ0AHXY=",
+          "cp310"
+        ],
+        "wpilib-2023.3.2.1-cp310-cp310-manylinux_2_35_x86_64.whl": [
+          "2e8FANYhCZM9TEjtlea6kmAVKuXeA6xN5AuykM6sz3I=",
+          "cp310"
+        ],
+        "wpilib-2023.3.2.1-cp310-cp310-win_amd64.whl": [
+          "ylqFBb3d0EAAEDfsgHmxEpnU/Atk9W3pTRYW8aOT/28=",
+          "cp310"
+        ],
+        "wpilib-2023.3.2.1-cp311-cp311-macosx_11_0_universal2.whl": [
+          "GbKPX5GvhcZSd/bnnS1LjKEiXZ71QR0Vl4GlAeIDMM8=",
+          "cp311"
+        ],
+        "wpilib-2023.3.2.1-cp311-cp311-manylinux_2_35_x86_64.whl": [
+          "5LgzMYm/fSUNutmqzhAjrt5KpAk5lY5FSxMFrZ5rSws=",
+          "cp311"
+        ],
+        "wpilib-2023.3.2.1-cp311-cp311-win_amd64.whl": [
+          "4BZuGZkzeeEWSgWuapo50S49lq+/agpLVPTODm20Xjg=",
+          "cp311"
+        ],
+        "wpilib-2023.3.2.1-cp37-cp37m-macosx_10_16_x86_64.whl": [
+          "/mn7gJB6h17GuIKA8VuhuYX+vItTBKwg6vIJNSfadJU=",
+          "cp37"
+        ],
+        "wpilib-2023.3.2.1-cp37-cp37m-manylinux_2_35_x86_64.whl": [
+          "7m2akq8HnZXPkDgB1sTJnaTt06OWI/ptix3OKSumlWM=",
+          "cp37"
+        ],
+        "wpilib-2023.3.2.1-cp37-cp37m-win_amd64.whl": [
+          "AxGi8ChC+1k3V7DK4tPoEtdTnhk2eV5oX5X/iwMJjME=",
+          "cp37"
+        ],
+        "wpilib-2023.3.2.1-cp38-cp38-macosx_10_16_x86_64.whl": [
+          "LgUXQ/8/Cb1HTYyJ61WW+vwvx/uzUND+X7QgD0cBNlQ=",
+          "cp38"
+        ],
+        "wpilib-2023.3.2.1-cp38-cp38-manylinux_2_35_x86_64.whl": [
+          "jObmiHdc8AUcd47vjNdt6dlGdVFoBqBgllja8Og1k+Y=",
+          "cp38"
+        ],
+        "wpilib-2023.3.2.1-cp38-cp38-win_amd64.whl": [
+          "WnSW6mQCiZ2DOun/VpSeBbCQVAT6rxyd/e1A72OYMps=",
+          "cp38"
+        ],
+        "wpilib-2023.3.2.1-cp39-cp39-macosx_10_16_x86_64.whl": [
+          "d1BgwRr7z9OsUkkKmHvDbW3z+7OzBkjwFnDecVuc6Jg=",
+          "cp39"
+        ],
+        "wpilib-2023.3.2.1-cp39-cp39-manylinux_2_35_x86_64.whl": [
+          "FahOfXhNX8v+0vT1tHxpz2AmMO5/ioZ0t378yY3opJ0=",
+          "cp39"
+        ],
+        "wpilib-2023.3.2.1-cp39-cp39-win_amd64.whl": [
+          "2XHc6C28RvTDrOJXAuOT2OJI+NYOkD7QnjvjUEhwUGo=",
           "cp39"
         ]
       }

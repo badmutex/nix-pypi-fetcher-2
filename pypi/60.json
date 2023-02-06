@@ -14491,6 +14491,18 @@
           "py3"
         ]
       }
+    },
+    "2.3.0b20230206": {
+      "wheels": {
+        "bigdl_friesian_spark3-2.3.0b20230206-py3-none-macosx_10_11_x86_64.whl": [
+          "/nnJkBJAdgSL9WJ+YvT0aNaTTX9DbXKpOO4A0eEIf8A=",
+          "py3"
+        ],
+        "bigdl_friesian_spark3-2.3.0b20230206-py3-none-manylinux1_x86_64.whl": [
+          "5JsF6juUqJ5DGFZxd48eYcG0/d9DXFwHGKHaIAY1POU=",
+          "py3"
+        ]
+      }
     }
   },
   "binsinfo": {
@@ -48612,6 +48624,18 @@
       "wheels": {
         "gardener_cicd_libs-1.1979.0-py3-none-any.whl": [
           "wK4iWK4h+m5DdAcwcs5hawspq3XNa0trJRq1a6JsR68=",
+          "py3"
+        ]
+      }
+    },
+    "1.1980.0": {
+      "sdist": [
+        "xXDugfW4JODISzRBlZDBpaBxhdwjSpBLhiHVyb4+ZHw=",
+        "gardener-cicd-libs-1.1980.0.tar.gz"
+      ],
+      "wheels": {
+        "gardener_cicd_libs-1.1980.0-py3-none-any.whl": [
+          "W2aX6pUoSnkZhEem5wdBuu2xZH697Ein/d/xke48yug=",
           "py3"
         ]
       }
@@ -112667,6 +112691,20 @@
       ]
     }
   },
+  "pytelegrambotapi-users": {
+    "1.0": {
+      "sdist": [
+        "5Wp0rLm05reshejCXrC9RiF78ZyI/wTX13SrNaJ1cVc=",
+        "PyTelegramBotApi_Users-1.0.tar.gz"
+      ],
+      "wheels": {
+        "PyTelegramBotApi_Users-1.0-py3-none-any.whl": [
+          "nttnOWqz9Dy5KPs9wkzsIRSAzgJW6ydwldqHG1qwEs4=",
+          "py3"
+        ]
+      }
+    }
+  },
   "pytest-commander": {
     "2.0.0": {
       "sdist": [
@@ -112900,42 +112938,6 @@
     }
   },
   "pytest-flexreport": {
-    "1.1.10": {
-      "sdist": [
-        "OwgFuoi4INwNASwd04YCCDjj3C9sTAnfg5+OSLfyEY0=",
-        "pytest-flexreport-1.1.10.tar.gz"
-      ]
-    },
-    "1.1.12": {
-      "sdist": [
-        "2WFniplaT0SXrHQZ4VQIlOkzt5s1x2hGOl5glcv4+BM=",
-        "pytest-flexreport-1.1.12.tar.gz"
-      ]
-    },
-    "1.1.13": {
-      "sdist": [
-        "Z4v7agkQI1+r41jxz67AnPIPzlQhnLhjqWBOeoQtpqA=",
-        "pytest-flexreport-1.1.13.tar.gz"
-      ]
-    },
-    "1.1.14": {
-      "sdist": [
-        "wN6iTUXxNzAU08RX2oOeHvwsbMTmP+0xGcSx6nWqVBU=",
-        "pytest-flexreport-1.1.14.tar.gz"
-      ]
-    },
-    "1.1.15": {
-      "sdist": [
-        "SHFEyEtiAceDsvjaDiG+VLw/awYfVgmKBzAznjNIfdk=",
-        "pytest-flexreport-1.1.15.tar.gz"
-      ]
-    },
-    "1.1.16": {
-      "sdist": [
-        "iJj2pwPu5nvhb/Zonl5MG2PN/lAokb6yqav93HYqv1w=",
-        "pytest-flexreport-1.1.16.tar.gz"
-      ]
-    },
     "1.1.17": {
       "sdist": [
         "XROIpT1tOSESjOa2WdKzO3ak0NYrqRe4JRdfWGbfxQ8=",
@@ -112946,36 +112948,6 @@
       "sdist": [
         "+qEpI+9MtZTg8i/2mvSCtVutfWY1pF4AcoW4RDrxc74=",
         "pytest-flexreport-1.1.2.tar.gz"
-      ]
-    },
-    "1.1.5": {
-      "sdist": [
-        "dgYJuxWgV/jV6mNc18DYJGgbOytrdY7J5cMm5aroTe0=",
-        "pytest-flexreport-1.1.5.tar.gz"
-      ]
-    },
-    "1.1.6": {
-      "sdist": [
-        "nRrEbBwK4jPhve5DCDaq9qxIamxvyGgMe57++jBp23s=",
-        "pytest-flexreport-1.1.6.tar.gz"
-      ]
-    },
-    "1.1.7": {
-      "sdist": [
-        "cyO/isH0CUjQjhECGMWZ7truDjdhH0HgDHawHg/kous=",
-        "pytest-flexreport-1.1.7.tar.gz"
-      ]
-    },
-    "1.1.8": {
-      "sdist": [
-        "dK71lGdLOfuRnI7nXscxUHbPRIZIx7Q/2dzcIymkotI=",
-        "pytest-flexreport-1.1.8.tar.gz"
-      ]
-    },
-    "1.1.9": {
-      "sdist": [
-        "P/nx0S38CUtfRqBRb1/DIvKDEuShaj/zIH4nwZF4zRg=",
-        "pytest-flexreport-1.1.9.tar.gz"
       ]
     }
   },

@@ -11287,6 +11287,20 @@
       }
     }
   },
+  "aws-sso-config-builder": {
+    "0.0.1": {
+      "sdist": [
+        "coJoEndzdcEK8yH+5WtcSzcFGJmz7CRirwY0mNb9hgc=",
+        "aws_sso_config_builder-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_sso_config_builder-0.0.1-py3-none-any.whl": [
+          "wj9ur3NfZbGvSq2W+/BauEk/IJsdE/v8cI/4LEo0f3w=",
+          "py3"
+        ]
+      }
+    }
+  },
   "aws-top": {
     "0.1": {
       "sdist": [
@@ -16588,6 +16602,18 @@
       "wheels": {
         "bullet_dodger-2.1.2-py2.py3-none-any.whl": [
           "r1BLMruTZ31DWCZ+aenRXoXc4mEFT8Oyh9nS6NKVyIw=",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.1.3": {
+      "sdist": [
+        "cqPoKhIPccB82g+Z3dcY5xsV8wZvtezznN0SNxUAF3U=",
+        "bullet_dodger-2.1.3.tar.gz"
+      ],
+      "wheels": {
+        "bullet_dodger-2.1.3-py2.py3-none-any.whl": [
+          "wcN2Ubf9l/gg13kSJ4JuCsgC+436V2Znngg3Hn/hNu0=",
           "py2.py3"
         ]
       }
@@ -71071,6 +71097,18 @@
           "py3"
         ]
       }
+    },
+    "5.0.1": {
+      "sdist": [
+        "0CpZwfoTtNN/Rg1wjX/GND+A3dqvjAjdon669t9a7bE=",
+        "logprep-5.0.1.tar.gz"
+      ],
+      "wheels": {
+        "logprep-5.0.1-py3-none-any.whl": [
+          "iAPFtc+oqiz70vKNsRO6XPlkiQbkhM5jGksmoCWD0ZU=",
+          "py3"
+        ]
+      }
     }
   },
   "logscan": {
@@ -74498,6 +74536,30 @@
       "wheels": {
         "luminesce_sdk_preview-1.12.256-py3-none-any.whl": [
           "3K39toZ8akuQwrAGQ+Lp26+GS/gm1NO8ouTmf8JLIe4=",
+          "py3"
+        ]
+      }
+    },
+    "1.12.258": {
+      "sdist": [
+        "XSrug0wkAxkN6dLyVp3WrSroPISo0vMKHTtD5D7eaXs=",
+        "luminesce-sdk-preview-1.12.258.tar.gz"
+      ],
+      "wheels": {
+        "luminesce_sdk_preview-1.12.258-py3-none-any.whl": [
+          "qugmT3nOzzcB4Z3rKshJJnTCFVRATCG3sDmcyGEAEQQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.12.259": {
+      "sdist": [
+        "ZSPSJaETq2t6enSer21QLvVu1LG0VqYPWUzPDCXbSlk=",
+        "luminesce-sdk-preview-1.12.259.tar.gz"
+      ],
+      "wheels": {
+        "luminesce_sdk_preview-1.12.259-py3-none-any.whl": [
+          "/yHSrZ6URhZM+EHnaOT+vzzryDqHykO3RVlQUd2LXQs=",
           "py3"
         ]
       }
@@ -93458,6 +93520,14 @@
       "wheels": {
         "odoo_addon_project_stock-15.0.1.0.2.1-py3-none-any.whl": [
           "XS1fLh5VQeE7lMlYqJCsB/Oyf/dJXclocTSEE8li39o=",
+          "py3"
+        ]
+      }
+    },
+    "16.0.1.0.0.2": {
+      "wheels": {
+        "odoo_addon_project_stock-16.0.1.0.0.2-py3-none-any.whl": [
+          "Xcfro3dimXEonnbyC8tCCrqH5rxZ7DXUEUPfb7Oeqyo=",
           "py3"
         ]
       }
@@ -130978,6 +131048,42 @@
       "wheels": {
         "snews_pt-1.2.0-py3-none-any.whl": [
           "3Zqy3gcVbajL2vvuxqmIrcD33VYWViLktOZeThemxIc=",
+          "py3"
+        ]
+      }
+    },
+    "1.2.1.dev80": {
+      "sdist": [
+        "/WmSBFSWE0/HzRpBjhgmo3qfSaBDbjlGJWbAJr2fumE=",
+        "snews_pt-1.2.1.dev80.tar.gz"
+      ],
+      "wheels": {
+        "snews_pt-1.2.1.dev80-py3-none-any.whl": [
+          "j81xxJTp3wPXvNTDeUv8dKtD+DevRqKJu7nc5RGYAeQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.3.1": {
+      "sdist": [
+        "Ujl7gZh7ew1KWUal447KwjptfrWFPsj5gR434VL126Y=",
+        "snews_pt-1.3.1.tar.gz"
+      ],
+      "wheels": {
+        "snews_pt-1.3.1-py3-none-any.whl": [
+          "6xEV2oJz2vBt4R142j7wMzBL8J4StinCYGrZsgoDXrs=",
+          "py3"
+        ]
+      }
+    },
+    "1.3.1.dev1": {
+      "sdist": [
+        "Kc9vtQ24Q0NxjUiC+tyljRidUQKaukVZFRyRfewMf04=",
+        "snews_pt-1.3.1.dev1.tar.gz"
+      ],
+      "wheels": {
+        "snews_pt-1.3.1.dev1-py3-none-any.whl": [
+          "eeB6qHg1OOXIKK8kWUamlGnjJTIgPJOSe2qliVVPp3k=",
           "py3"
         ]
       }

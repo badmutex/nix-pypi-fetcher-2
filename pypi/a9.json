@@ -15207,6 +15207,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.65": {
+      "sdist": [
+        "PBT+pu+D/hfAB9w0HWLQ/D/avoLjrKvYNd0LyDO2uDU=",
+        "botocore-a-la-carte-dynamodb-1.29.65.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_dynamodb-1.29.65-py3-none-any.whl": [
+          "aos+feO+AiNQuUGa9Un+o34fRVDC9R5oFvvynV+spOA=",
+          "py3"
+        ]
+      }
     }
   },
   "bottlecbv": {
@@ -27024,6 +27036,30 @@
       "wheels": {
         "dagster_cloud_cli-1.1.16rc0-py3-none-any.whl": [
           "4qUVsn3YSqZ3cBykRopgAXjpohgq4iC8BiLhTOtBCl0=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.17": {
+      "sdist": [
+        "oPChuXdo0n8+TfMi5DrJHiTDlNd9EuS9sk3U8PYzurU=",
+        "dagster_cloud_cli-1.1.17.tar.gz"
+      ],
+      "wheels": {
+        "dagster_cloud_cli-1.1.17-py3-none-any.whl": [
+          "dXR3A4A1khQMdxipFo6cfkYIyv4YDeRvA8RCI5NeREA=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.17rc0": {
+      "sdist": [
+        "ckUZoJyO087LXeL6Py3zSURp+FsOZelZzK9ZdUCwcao=",
+        "dagster_cloud_cli-1.1.17rc0.tar.gz"
+      ],
+      "wheels": {
+        "dagster_cloud_cli-1.1.17rc0-py3-none-any.whl": [
+          "JiVVBnqyMQs5BR/QIBtE2T1o0vZ0c6U3arc0gMB0Jeo=",
           "py3"
         ]
       }
@@ -116431,6 +116467,32 @@
       }
     }
   },
+  "pygelf-ex": {
+    "0.0.1": {
+      "sdist": [
+        "Nsh0TQlGTA6lcQYcX6tlAkIvu9HA/jrr+T4PFhMDnNE=",
+        "pygelf_ex-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "pygelf_ex-0.0.1-py3-none-any.whl": [
+          "6NBYtf/2NHgvRZtiF2gbYKUxStQc8crwtNFCSWsduyw=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "FAddEq+QkdbtxMvpB39bPkWNnvMV+qy5I9fb/+VViYo=",
+        "pygelf_ex-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "pygelf_ex-0.0.2-py3-none-any.whl": [
+          "XHxKVqILQC+5OE9YPcNZWFyK124gbbJl3z7ZdoQdqCk=",
+          "py3"
+        ]
+      }
+    }
+  },
   "pygments-vice": {
     "0.1.3": {
       "sdist": [
@@ -122619,6 +122681,20 @@
         "l2mvYZa0u3Tzso1gQ6CzHQgUsDVOZHpe8txzq3WPQFA=",
         "python3-flask-0.1.tar.gz"
       ]
+    }
+  },
+  "python3-kivy": {
+    "12.1.1": {
+      "sdist": [
+        "tqIB4SaeNjxlvgAaJoPbqVFR9lK2udifwEtPLGBGzYU=",
+        "python3-kivy-12.1.1.tar.gz"
+      ],
+      "wheels": {
+        "python3_kivy-12.1.1-py3-none-any.whl": [
+          "qj2spCx5ZUypaEWySvVIX06f3B/4G2oCdvAB4Y8nFrc=",
+          "py3"
+        ]
+      }
     }
   },
   "pythonlogalexfmsu": {
@@ -136018,6 +136094,12 @@
       "sdist": [
         "4r/L6nIZRH43QKasK+z3YTq++bOoyTRD6lrE5iHPFtI=",
         "smet-0.0.0.dev0.tar.gz"
+      ]
+    },
+    "0.0.0.dev1": {
+      "sdist": [
+        "B/FXqFRJ4UH3ACOtTgatTaP96PHgUeB1b8yDQCSnvMw=",
+        "smet-0.0.0.dev1.tar.gz"
       ]
     },
     "0.0.1.dev0": {
@@ -149884,6 +149966,18 @@
       "wheels": {
         "tencentcloud_sdk_python_ft-3.0.823-py2.py3-none-any.whl": [
           "zb2iVWMmFpSKvi0//kZjqTubrHohPep2fHxYjIf/4Pw=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.824": {
+      "sdist": [
+        "ICCuqetSdBm/ttV4iWYvWrbKwrVRYqKb1ZVA6CkgHZU=",
+        "tencentcloud-sdk-python-ft-3.0.824.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_ft-3.0.824-py2.py3-none-any.whl": [
+          "kQ6fojSvOGdcmxtvhwpPc0ex4CYxzEmaU60/LgMrmQI=",
           "py2.py3"
         ]
       }

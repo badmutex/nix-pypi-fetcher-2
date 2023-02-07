@@ -15371,6 +15371,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.65": {
+      "sdist": [
+        "XUShNQL67azvYuOxxyW8mhfAJ98BeVo40StKTs1W5X4=",
+        "botocore-a-la-carte-amplify-1.29.65.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_amplify-1.29.65-py3-none-any.whl": [
+          "r/5G5VAVm95jnZTPUJPiFFUOAAoollSagDm/JIi2IZ8=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-cloudformation": {
@@ -15649,6 +15661,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.65": {
+      "sdist": [
+        "Dk8XXewRO6xnE1pS049MaK+Gi9wBhAUJsoDxJVzyUFo=",
+        "botocore-a-la-carte-cloudformation-1.29.65.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_cloudformation-1.29.65-py3-none-any.whl": [
+          "tZDhriv2xrrPW40X4EYipG9ydcu/o7ka4TFd89tuWSI=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-eks": {
@@ -15924,6 +15948,18 @@
       "wheels": {
         "botocore_a_la_carte_eks-1.29.64-py3-none-any.whl": [
           "/aLEOogz+4LAd1u/G40s7mxGgAhl/mwi+8/JuCjlbzc=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.65": {
+      "sdist": [
+        "d4YhEn8IK0Odwt5lhORrUAyuyhuDpwcU4mziHswpV/E=",
+        "botocore-a-la-carte-eks-1.29.65.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_eks-1.29.65-py3-none-any.whl": [
+          "jlboc9Ys571j5PowiU5wr8FYoQ2GykQZqjsoqKsiIGs=",
           "py3"
         ]
       }
@@ -19350,6 +19386,18 @@
       "wheels": {
         "cdklabs.ecs_codedeploy-0.0.58-py3-none-any.whl": [
           "15POG6kWJj5R+lqAI3gjn0LzSYF9D912KE+Pf/Lrm88=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.59": {
+      "sdist": [
+        "DhSjzU1DG77XTUrjkxOYAIXCHYDBHkybM+lToJQTOZM=",
+        "cdklabs.ecs-codedeploy-0.0.59.tar.gz"
+      ],
+      "wheels": {
+        "cdklabs.ecs_codedeploy-0.0.59-py3-none-any.whl": [
+          "iYS2mq2GqH8yJO4FU0eLpldsZIVa4EkJdgzXl9EZu28=",
           "py3"
         ]
       }
@@ -33522,6 +33570,30 @@
         ]
       }
     },
+    "0.17.17": {
+      "sdist": [
+        "B8bVNvw1Hbi5BEIf+Tf4XxNqDQWDruOhF2nqpOQ6LOs=",
+        "dagster-celery-docker-0.17.17.tar.gz"
+      ],
+      "wheels": {
+        "dagster_celery_docker-0.17.17-py3-none-any.whl": [
+          "/EAMcKFqADGp3Baa3R7f/+IshUa2jTYjeYMyuDUOIYE=",
+          "py3"
+        ]
+      }
+    },
+    "0.17.17rc0": {
+      "sdist": [
+        "5qqmyGhiHkedN+wNsvJmowkmCAbaejaXf0a6Bm8GFQc=",
+        "dagster-celery-docker-0.17.17rc0.tar.gz"
+      ],
+      "wheels": {
+        "dagster_celery_docker-0.17.17rc0-py3-none-any.whl": [
+          "8iMF6HENjbayRfHbrGs20wbIF9j4UKnzzay7XAB6iBY=",
+          "py3"
+        ]
+      }
+    },
     "0.17.2": {
       "sdist": [
         "tax6qkfIJAS+eEKC3ksj/+Otf5mtwYVTU9t1wMtovuk=",
@@ -35421,6 +35493,20 @@
         "AhJjJ4uPUSQ6ggqP3lTo2M5vv7ZK7l6NbbH+uYm4Q54=",
         "debug_tools-2.6.9.tar.gz"
       ]
+    }
+  },
+  "debuggerpy": {
+    "0.0.2": {
+      "sdist": [
+        "H2GnbBWneP0LBrXSN0fwvTDp89yJkhvMGe6g7NKFKPs=",
+        "debuggerPy-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "debuggerPy-0.0.2-py3-none-any.whl": [
+          "tjHFC42sxqSTKwoE6i/8aDerFK7Jcnaja1r4GX6Gk8k=",
+          "py3"
+        ]
+      }
     }
   },
   "decidim-electionguard": {
@@ -120107,6 +120193,20 @@
       ]
     }
   },
+  "pyread-swift": {
+    "1.0.0": {
+      "sdist": [
+        "zw0ayRhJrXaHEcmWiUs+ySIPbhJBNshL451y5RJPnJ0=",
+        "pyread_swift-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "pyread_swift-1.0.0-py3-none-any.whl": [
+          "5TwZGeSpZ+0/6SjmitUNEypQdgCV1koneeZvR1NFT30=",
+          "py3"
+        ]
+      }
+    }
+  },
   "pyrestcli": {
     "0.5.0": {
       "sdist": [
@@ -124628,6 +124728,14 @@
       "wheels": {
         "pyvsc-0.8.2.4029712566-py2.py3-none-any.whl": [
           "VK7bBFKpPCsdBY0wXLFp9QSVVloJz2qhoDRN0eVh984=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.8.2.4110341772": {
+      "wheels": {
+        "pyvsc-0.8.2.4110341772-py2.py3-none-any.whl": [
+          "mOtfO52yyclmk8j6+GGu9S187b48F0ZcD9bNoYtveH8=",
           "py2.py3"
         ]
       }
@@ -156820,6 +156928,18 @@
       "wheels": {
         "UW_Django_SAML2-1.6.0-py3-none-any.whl": [
           "5kQjsULRkluztmyXuvdJkz8Frr2YMkgZ9iJOydzbBec=",
+          "py3"
+        ]
+      }
+    },
+    "1.7.0": {
+      "sdist": [
+        "NjbryKzUsqpKj8JoeDahN1pp2u4UbnM8eh0M3b+5RP4=",
+        "UW-Django-SAML2-1.7.0.tar.gz"
+      ],
+      "wheels": {
+        "UW_Django_SAML2-1.7.0-py3-none-any.whl": [
+          "vw7sXNXzJJNwXcodFxot6aWhVzWYnwAgNgeJFasltzk=",
           "py3"
         ]
       }

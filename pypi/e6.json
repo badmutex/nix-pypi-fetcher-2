@@ -10439,6 +10439,18 @@
           "py3"
         ]
       }
+    },
+    "2.0.91": {
+      "sdist": [
+        "TqReCW2ZsgJPND7TJBr+UPzEdY1vIqn1jSO52b9VZcA=",
+        "aws-cdk.lambda-layer-kubectl-v24-2.0.91.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.lambda_layer_kubectl_v24-2.0.91-py3-none-any.whl": [
+          "yZjfuarKPRrC+7tquv0sg9MiiLnvVeUqVcBuLBP1Mfc=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-credentials-replacer": {
@@ -13151,6 +13163,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.65": {
+      "sdist": [
+        "umenqRPIucCGlrLVsomui/F9Aa/f0h3xeF8FspSFX0A=",
+        "botocore-a-la-carte-codeartifact-1.29.65.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_codeartifact-1.29.65-py3-none-any.whl": [
+          "RZtGd8/W5cEqGPmulMar2SuvG7VmNFpWAzlEjF4/tsc=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-sagemaker-edge": {
@@ -13426,6 +13450,18 @@
       "wheels": {
         "botocore_a_la_carte_sagemaker_edge-1.29.64-py3-none-any.whl": [
           "f/9vo2W+byN/lnLa6XBmBU/mP2hf5OK7YqSg2OBnsZA=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.65": {
+      "sdist": [
+        "gVWTYRrZoOSQMpqmdXka5eQLCYVkGjdQhptKC6ie7uE=",
+        "botocore-a-la-carte-sagemaker-edge-1.29.65.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_sagemaker_edge-1.29.65-py3-none-any.whl": [
+          "dk3Qy9RkhemkReTQ1476qqDHFTJZ++rgicvTGNoCk9o=",
           "py3"
         ]
       }
@@ -69361,6 +69397,12 @@
         "nsgPyekww5GlfXT3jbQOzcYWH/XJ+/iEAAXtDOjdE0A=",
         "isitkbs-1.2.2.tar.gz"
       ]
+    },
+    "2.0": {
+      "sdist": [
+        "iTR5aojFXQLOybSDeki8IsyGZ5O/eFxfDENFHQ3XIgA=",
+        "isitkbs-2.0.tar.gz"
+      ]
     }
   },
   "iso-freeze": {
@@ -112477,6 +112519,20 @@
       }
     }
   },
+  "pydpu": {
+    "0.1.1": {
+      "sdist": [
+        "cDbI/P+T7orlYVSGsowqHwBkY3sRIL476bBUdenn0XU=",
+        "pydpu-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "pydpu-0.1.1-py3-none-any.whl": [
+          "bQTed4FQRoBGrxyOTwDpLXCqh13YlZnRGPaRlt1KJqA=",
+          "py3"
+        ]
+      }
+    }
+  },
   "pyebm": {
     "2.0.0": {
       "sdist": [
@@ -125446,6 +125502,18 @@
       "wheels": {
         "robotframework_browser-15.2.0-py3-none-any.whl": [
           "AzWWCJ93kk6evANxPFI9nFrBAcyrA6JkWfJ7Vq7HJjE=",
+          "py3"
+        ]
+      }
+    },
+    "16.0.0": {
+      "sdist": [
+        "+4imNCnOUg5WTNdorMOq3iLS/xRhSquui9t+sfMH8do=",
+        "robotframework-browser-16.0.0.tar.gz"
+      ],
+      "wheels": {
+        "robotframework_browser-16.0.0-py3-none-any.whl": [
+          "DU2elyl0T7BaY5FapVA1GsgGrE+DCDv4uMYu/dlTA5Y=",
           "py3"
         ]
       }
@@ -144115,6 +144183,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.824": {
+      "sdist": [
+        "lQfqf88WUC2t/Afo3kzYz8LTcpiS1H+bD5BfPXaM0lw=",
+        "tencentcloud-sdk-python-advisor-3.0.824.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_advisor-3.0.824-py2.py3-none-any.whl": [
+          "FlGaa64dRtcyUl6PpoNxJNbmXgxrn0kWISeMqOUUh/I=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tencentcloud-sdk-python-mmps": {
@@ -145938,6 +146018,18 @@
       "wheels": {
         "tencentcloud_sdk_python_mmps-3.0.823-py2.py3-none-any.whl": [
           "k7avp1xHKmrUd23Eq0Yyd9Tm+v3dn9trL3SNGt4UDSQ=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.824": {
+      "sdist": [
+        "z/FpN0lWjPbrONzbJ0VrJFHjWsM8y2pZ4NnUGMVxi3U=",
+        "tencentcloud-sdk-python-mmps-3.0.824.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_mmps-3.0.824-py2.py3-none-any.whl": [
+          "qm82KbFqJIPA6FK7WJTHbM/xT3bPEgVVq41XNN2W2Kk=",
           "py2.py3"
         ]
       }

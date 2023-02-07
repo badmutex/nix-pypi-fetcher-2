@@ -31901,6 +31901,18 @@
           "py3"
         ]
       }
+    },
+    "6.2.1a2": {
+      "sdist": [
+        "SMTGhSIy7EBOsDzyrE7px1kye1OnY3TMmmwWn3OXEG4=",
+        "cortex-python-6.2.1a2.tar.gz"
+      ],
+      "wheels": {
+        "cortex_python-6.2.1a2-py3-none-any.whl": [
+          "SOWs4mPDYApyrUTCwcAoPf974ZVKjVQ9LO5mldqmuJc=",
+          "py3"
+        ]
+      }
     }
   },
   "covatls": {
@@ -82629,6 +82641,12 @@
         "OQnx0UlhqYIkSTPm+nc1J7IzRZ8o5b1HoLLZGuLcREI=",
         "modnet-0.1.9.tar.gz"
       ]
+    },
+    "0.2.0": {
+      "sdist": [
+        "/p5Fbhhp+x5aSfFRz2gXuSzxpqkDJgTgVa2O8FxcQ88=",
+        "modnet-0.2.0.tar.gz"
+      ]
     }
   },
   "molecule-gce": {
@@ -91368,6 +91386,14 @@
       "wheels": {
         "multi_model_server-1.1.8b20230206-py2.py3-none-any.whl": [
           "YfsbR6ZnYSvgZjDHuTF8M9zDcYEJKstA9JkOEwdhQmA=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.1.8b20230207": {
+      "wheels": {
+        "multi_model_server-1.1.8b20230207-py2.py3-none-any.whl": [
+          "QnYNn4GvPq7/cB3YTNN9S+9LP+TOfV8gR8LJ1xMVFhc=",
           "py2.py3"
         ]
       }
@@ -137391,6 +137417,20 @@
       }
     }
   },
+  "spark-sql-xuexi-shouce": {
+    "2023.2.7.0": {
+      "sdist": [
+        "6RaMvYcJYH2bI7h0lErQh+mx4mu8SftvQW4+z/2xwB0=",
+        "spark-sql-xuexi-shouce-2023.2.7.0.tar.gz"
+      ],
+      "wheels": {
+        "spark_sql_xuexi_shouce-2023.2.7.0-py3-none-any.whl": [
+          "YJLYa0ESVo7wVJzxGa+l9aeyNr1j8WbWOhb2bj2y1PU=",
+          "py3"
+        ]
+      }
+    }
+  },
   "sparv-freeling": {
     "4.0": {
       "sdist": [
@@ -152388,6 +152428,12 @@
       "sdist": [
         "v7I85moLoe25YCsRE2lXpkA/F1tBOG+2nAm8ICZM4Qk=",
         "vellum-client-0.0.2.tar.gz"
+      ]
+    },
+    "0.0.3": {
+      "sdist": [
+        "ysls9jG8Eif5jDB/tUgsc5+r4QQnQAsqUXX9BUqkeMI=",
+        "vellum-client-0.0.3.tar.gz"
       ]
     }
   },

@@ -16729,6 +16729,20 @@
       }
     }
   },
+  "c-7-he-net-core-miji": {
+    "2023.2.7.0": {
+      "sdist": [
+        "/sWwzvviDBSBA94l+P6LydAA7RQQ64JnnZopfDiOi5Y=",
+        "c-7-he-net-core-miji-2023.2.7.0.tar.gz"
+      ],
+      "wheels": {
+        "c_7_he_net_core_miji-2023.2.7.0-py3-none-any.whl": [
+          "/i1xlFiYIOvjC+2aDhaP1e9GKWCw09GFHZ7Se7D2wyk=",
+          "py3"
+        ]
+      }
+    }
+  },
   "c2.search.fuzzy": {
     "1.0a1": {
       "sdist": [
@@ -70879,6 +70893,20 @@
       ]
     }
   },
+  "jira-ceshi-guanli-shiyongshouce": {
+    "2023.2.8.0": {
+      "sdist": [
+        "WGYpsCBiSFHfz3ntPypb3KCFjN6hyG7FGwsWcgSAOeU=",
+        "jira-ceshi-guanli-shiyongshouce-2023.2.8.0.tar.gz"
+      ],
+      "wheels": {
+        "jira_ceshi_guanli_shiyongshouce-2023.2.8.0-py3-none-any.whl": [
+          "QxjVpoINf4sNG8hqj2/UxT1/8fhjcT408biZ3sF2QZo=",
+          "py3"
+        ]
+      }
+    }
+  },
   "jirafs-plantuml": {
     "1.0.0": {
       "sdist": [
@@ -87605,6 +87633,12 @@
         "4+ft+vQetja9ZbTHfzx0LJgeOEYYZb3jWO+hFR5IL7M=",
         "nested-multipart-parser-1.4.1.tar.gz"
       ]
+    },
+    "1.5.0": {
+      "sdist": [
+        "KAObbIrNPTqhd5H1B3PyO34oYEUD7sYo6OCJMnaPc6k=",
+        "nested-multipart-parser-1.5.0.tar.gz"
+      ]
     }
   },
   "nester-danny": {
@@ -97350,6 +97384,70 @@
         ],
         "onnxsim-0.4.15-cp39-cp39-win_amd64.whl": [
           "RZhMRHCFRsaPH5KfhowbpCFfwZRiok/h7fBBeDZyVJg=",
+          "cp39"
+        ]
+      }
+    },
+    "0.4.17": {
+      "sdist": [
+        "O6tzRdZxUbc7mw44zkEzNT70aXYsXFGjXeRs5Ov6SFY=",
+        "onnxsim-0.4.17.tar.gz"
+      ],
+      "wheels": {
+        "onnxsim-0.4.17-cp310-cp310-macosx_10_15_universal2.whl": [
+          "PnSVzXuTIZeLQASFHNWwuwKa4EStyejrvx5m9sP8CAs=",
+          "cp310"
+        ],
+        "onnxsim-0.4.17-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "e9saVEUTGyz+iiUXVehhKgW0gzo0Xb6LNVlIS8a47U4=",
+          "cp310"
+        ],
+        "onnxsim-0.4.17-cp310-cp310-win_amd64.whl": [
+          "Htk2fP8yVpwCyY4QmTonR7/PYoaiLPag/MUvczqh6UU=",
+          "cp310"
+        ],
+        "onnxsim-0.4.17-cp311-cp311-macosx_10_15_universal2.whl": [
+          "/fZJiWeMtObJ1HbPvOA9Ab2niVtXsNYThdxCE25ZZ8U=",
+          "cp311"
+        ],
+        "onnxsim-0.4.17-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ZMOIFrALJapJPX+mGmswTRDJbT/2ZS92EqowyOX5gKY=",
+          "cp311"
+        ],
+        "onnxsim-0.4.17-cp311-cp311-win_amd64.whl": [
+          "pjK06k0gZHhsVJy9l1qa82wkh+VwnIbXwMdRSI7CK1o=",
+          "cp311"
+        ],
+        "onnxsim-0.4.17-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "jQaG6sbIcaMDCIOc0CGWfqAL/tLH1ucbIhNx3xn2Xew=",
+          "cp37"
+        ],
+        "onnxsim-0.4.17-cp37-cp37m-win_amd64.whl": [
+          "9Q+0/SYTNem3+x0qYk40dbA80fmq/lonzhI683pw2ws=",
+          "cp37"
+        ],
+        "onnxsim-0.4.17-cp38-cp38-macosx_10_15_universal2.whl": [
+          "BhvuoZXiZOab6yrfp54igO4uhRAJHXWSzQpA7aHrtDw=",
+          "cp38"
+        ],
+        "onnxsim-0.4.17-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "dhdoRP/S+wLbl5AXebh4P/d49qzCdalMaAXUzbBO0ac=",
+          "cp38"
+        ],
+        "onnxsim-0.4.17-cp38-cp38-win_amd64.whl": [
+          "55HO46mx+JJ09HP2DTQ/6XYC2NIQSb4gNXgY85P/rC8=",
+          "cp38"
+        ],
+        "onnxsim-0.4.17-cp39-cp39-macosx_10_15_universal2.whl": [
+          "lBpQRqpuAQJykQZv8yUGgeovf6GKspkg9lohBnkWOz0=",
+          "cp39"
+        ],
+        "onnxsim-0.4.17-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "pm6J6uZhJ2ZUi6eM8Iwzqxt8sbyLbcW70Bqy6QdzGQ4=",
+          "cp39"
+        ],
+        "onnxsim-0.4.17-cp39-cp39-win_amd64.whl": [
+          "sBbviELmDD9SeqONJhPACNYbt1CSlN0dcMXdAVcsqmM=",
           "cp39"
         ]
       }
@@ -117953,6 +118051,20 @@
       }
     }
   },
+  "qiehuan-dao-angular-2": {
+    "2023.2.7.0": {
+      "sdist": [
+        "IXaIopDNQ4udLbvPiUNc3WQEYU0m3wkmp0sRGP9ojS0=",
+        "qiehuan-dao-angular-2-2023.2.7.0.tar.gz"
+      ],
+      "wheels": {
+        "qiehuan_dao_angular_2-2023.2.7.0-py3-none-any.whl": [
+          "9U7JVJDVCHqn5VLh9LO6ZamOwyicQwRfRs8m97bidm0=",
+          "py3"
+        ]
+      }
+    }
+  },
   "qolsys-client": {
     "0.0.2": {
       "sdist": [
@@ -128291,6 +128403,20 @@
         "smap_io-0.5-py2.py3-none-any.whl": [
           "wxMKa85nXraQthGGiOBG7nFfOWGFuhAzGY01zGcaaiA=",
           "py2.py3"
+        ]
+      }
+    }
+  },
+  "smart-energy.awattar-api": {
+    "0.2.0": {
+      "sdist": [
+        "sn90xTn71wK6k2QJTf/9vWZviwkJ4A5Xo/80gRw8AIg=",
+        "smart-energy.awattar-api-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "smart_energy.awattar_api-0.2.0-py3-none-any.whl": [
+          "isrSpfWJFOVaTGwDBukjg+sxXXOGCnfOezwtEheTtus=",
+          "py3"
         ]
       }
     }
@@ -153767,6 +153893,20 @@
       ]
     }
   },
+  "windows8-shuju-kaifa-rumen-zhinan": {
+    "2023.2.7.0": {
+      "sdist": [
+        "KEc1RljXAoqIoinLlChIuKIZVxskCYo8mgzx23JGETs=",
+        "windows8-shuju-kaifa-rumen-zhinan-2023.2.7.0.tar.gz"
+      ],
+      "wheels": {
+        "windows8_shuju_kaifa_rumen_zhinan-2023.2.7.0-py3-none-any.whl": [
+          "Yewfgm7KJrikxp8xa0nvV+HvzDTuvVRjNDwuynpEVOg=",
+          "py3"
+        ]
+      }
+    }
+  },
   "wix-protos-acdc-msm-protos": {
     "0.0.1": {
       "sdist": [
@@ -155839,6 +155979,18 @@
         "zope.app.pagetemplate-4.0.0-py2.py3-none-any.whl": [
           "1dyhu4BBTWFe2M2i9XRiWv6rcnrUO/CPtlT5gZthTmQ=",
           "py2.py3"
+        ]
+      }
+    },
+    "5.0": {
+      "sdist": [
+        "lMXXl0/XWrBVBrmqqWi93WUDvUtrGsEwrTCGKxGiASI=",
+        "zope.app.pagetemplate-5.0.tar.gz"
+      ],
+      "wheels": {
+        "zope.app.pagetemplate-5.0-py3-none-any.whl": [
+          "hbX7nh9I6cbzCASsgTI0im+O/h+syXAaBliXTiY2ZMo=",
+          "py3"
         ]
       }
     }

@@ -2027,6 +2027,30 @@
           "py3"
         ]
       }
+    },
+    "2.9.0": {
+      "sdist": [
+        "2KZlWA8R7SCDTAI9si26vYFU2CRH60nHY0pgNBQwuvY=",
+        "aleph-alpha-client-2.9.0.tar.gz"
+      ],
+      "wheels": {
+        "aleph_alpha_client-2.9.0-py3-none-any.whl": [
+          "eHjvVu3XiiaVPLhz88WM/W7d7EhkpCBTmeRO2phiT4U=",
+          "py3"
+        ]
+      }
+    },
+    "2.9.1": {
+      "sdist": [
+        "/1eYCqTlEDmIJpqcyzoMHu+Jqb+wU9JnuAZbbDhMdKc=",
+        "aleph-alpha-client-2.9.1.tar.gz"
+      ],
+      "wheels": {
+        "aleph_alpha_client-2.9.1-py3-none-any.whl": [
+          "DL//AKqI+5gSrjT7PTFMGpQI6tX4qxTlNBWEsnLbeME=",
+          "py3"
+        ]
+      }
     }
   },
   "alibabacloud-quotas20200510": {
@@ -3894,42 +3918,18 @@
         ]
       }
     },
-    "2.7.3": {
+    "2.7.4": {
       "wheels": {
-        "anyon-2.7.3-cp310-cp310-macosx_10_9_universal2.whl": [
-          "gXmXWUUGAQWY6yjfgs6sXQSrHgE9EDqgLdDFwGvQxW8=",
+        "anyon-2.7.4-cp310-cp310-win_amd64.whl": [
+          "YXqpXX9LIpQKW1D4Xxop9rCnfLFdJOe8pWKo70DL+to=",
           "cp310"
         ],
-        "anyon-2.7.3-cp310-cp310-manylinux1_x86_64.whl": [
-          "25rUO118MgJg5IQ3cVxSevkKJ6DipNtkfFU+D2+tDZg=",
-          "cp310"
-        ],
-        "anyon-2.7.3-cp310-cp310-win_amd64.whl": [
-          "Q1jpYZQWcjomht4lBjUaHBGFElK1P9VpKWnuixa/VLA=",
-          "cp310"
-        ],
-        "anyon-2.7.3-cp311-cp311-macosx_10_9_universal2.whl": [
-          "0oTAtP5OJ9RvDJ7O8kST99R4F5FlySyBA29vQ1ARk1g=",
+        "anyon-2.7.4-cp311-cp311-win_amd64.whl": [
+          "faUeVGj1ORNTlgpqxcI+zDnba2IzP3UEJe3b2d2EKVE=",
           "cp311"
         ],
-        "anyon-2.7.3-cp311-cp311-manylinux1_x86_64.whl": [
-          "+L2fzMkc5tIXYXJB9OtCpaY2updTS+2oYm2aL1icMQc=",
-          "cp311"
-        ],
-        "anyon-2.7.3-cp311-cp311-win_amd64.whl": [
-          "1sEU3AM10sAWIpokLBIFUarhh8Tsb8B/a/DQiNZQHB8=",
-          "cp311"
-        ],
-        "anyon-2.7.3-cp39-cp39-macosx_10_9_universal2.whl": [
-          "8MGVLgNJTEpDpgn2jm682Wdo5KRxO7MC0di8+JaQGVE=",
-          "cp39"
-        ],
-        "anyon-2.7.3-cp39-cp39-manylinux1_x86_64.whl": [
-          "H6h50Ynq96093mzjfmxj6nnA9BbSDDB2HxQN5IE7R2c=",
-          "cp39"
-        ],
-        "anyon-2.7.3-cp39-cp39-win_amd64.whl": [
-          "d59JsXrfJr0Samz++tX+6jUr8F5VVm9eBybpJhWgKs8=",
+        "anyon-2.7.4-cp39-cp39-win_amd64.whl": [
+          "tB8pZA2RcoYdxq0/6RMAocMjMBC4IahZuNg+JQdTCao=",
           "cp39"
         ]
       }
@@ -25172,6 +25172,18 @@
       "wheels": {
         "dj_ms_auth_router-1.1.0-py3-none-any.whl": [
           "kJB2FYJE60bWkqYUD0ZxBxOfx4KoJ2iDvKiPkHoGiVw=",
+          "py3"
+        ]
+      }
+    },
+    "1.2.0": {
+      "sdist": [
+        "UDUHhr4HnPCYa3MKD2D9HGUHA9e5FedS9I3W7zWVCzQ=",
+        "dj-ms-auth-router-1.2.0.tar.gz"
+      ],
+      "wheels": {
+        "dj_ms_auth_router-1.2.0-py3-none-any.whl": [
+          "G/K9eIwphYVJpsZcGN3DNGNmyPcIuypMhvU6aBMsGFU=",
           "py3"
         ]
       }
@@ -50917,6 +50929,18 @@
           "py3"
         ]
       }
+    },
+    "0.2.2": {
+      "sdist": [
+        "wYdNkhoX15/dx/NqaolUd5uIAWmVvAmpJHAkaXQ3MkI=",
+        "gundi_client-0.2.2.tar.gz"
+      ],
+      "wheels": {
+        "gundi_client-0.2.2-py3-none-any.whl": [
+          "FVL0qMjjgO0X0/bYIeOJ0kBJF55KhjRRyErW5cuMwX8=",
+          "py3"
+        ]
+      }
     }
   },
   "gwebsocket": {
@@ -60510,6 +60534,20 @@
       "wheels": {
         "kubeflow_training_xcloud-1.4.0-py3-none-any.whl": [
           "8gdcrcRP5LTGmFEzuF8otkxFy06ekMeJNMH8oFNl2wY=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "kubenetes-shang-de-sqlserver-jiaocheng": {
+    "2023.2.8.0": {
+      "sdist": [
+        "Y2C5lzjvbw6yIHKgiA7D64WADc+OFQKk9LXcKTQMvkM=",
+        "kubenetes-shang-de-sqlserver-jiaocheng-2023.2.8.0.tar.gz"
+      ],
+      "wheels": {
+        "kubenetes_shang_de_sqlserver_jiaocheng-2023.2.8.0-py3-none-any.whl": [
+          "NZCe4XbFgPiZqCDcxZVUXn00xwVZ6oHjzRkgWV3T9DI=",
           "py3"
         ]
       }
@@ -96689,6 +96727,20 @@
       }
     }
   },
+  "paperstack": {
+    "1.0.3": {
+      "sdist": [
+        "2kmtctGsxhO3rh/G5DkMeu69ohzr/68s5GaTXYIxlAk=",
+        "Paperstack-1.0.3.tar.gz"
+      ]
+    },
+    "1.0.4": {
+      "sdist": [
+        "QfjA6YZI08Z1fM46J/tZ4qQDL67LOSEUjUREwZdZCxk=",
+        "paperstack-1.0.4.tar.gz"
+      ]
+    }
+  },
   "paraphrase-googletranslate": {
     "0.0.2": {
       "sdist": [
@@ -98662,6 +98714,12 @@
       "sdist": [
         "G7xWc51bhPI40W/H/Hn6MkBAwu83n9bChWbDUcYwvfs=",
         "PICOS-2.4.12.tar.gz"
+      ]
+    },
+    "2.4.13": {
+      "sdist": [
+        "v1E9eG8H/ALRtnKRoWiKDGNORV6/9LbUPnpk0gYSSOg=",
+        "PICOS-2.4.13.tar.gz"
       ]
     },
     "2.4.9": {
@@ -116967,6 +117025,18 @@
           "py3"
         ]
       }
+    },
+    "1.8.0": {
+      "sdist": [
+        "6eIZUTsLlOTan+uGVsbP5ZROw704HbVrjWbmogzfvWU=",
+        "rapyuta_io-1.8.0.tar.gz"
+      ],
+      "wheels": {
+        "rapyuta_io-1.8.0-py3-none-any.whl": [
+          "oX5LveQtRCvchgCpCB5PP3iOak/pWxRwTMfLt8FXVsw=",
+          "py3"
+        ]
+      }
     }
   },
   "raspberry-py": {
@@ -126840,6 +126910,18 @@
       "wheels": {
         "shoal-0.1.0-py3-none-any.whl": [
           "AZ/qe8WkVaKUyePIV8ejJAej8MQ+Svz/MKinlQa/0MY=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.0": {
+      "sdist": [
+        "37VMwcioCygwyVzpKE22V3jK4YbGFGCJhBH3J5HrV9w=",
+        "shoal-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "shoal-0.2.0-py3-none-any.whl": [
+          "8i3Nh+kZUfue3w41wRmVdsfwrzcfs6z+ygvW8aoSggY=",
           "py3"
         ]
       }

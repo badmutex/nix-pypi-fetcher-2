@@ -3535,6 +3535,14 @@
       ]
     }
   },
+  "arc-branch-updater": {
+    "66.0.0": {
+      "sdist": [
+        "hT1QTENTp3T7je80uLs4F5beUtjmVnD+5tdytvZ/k20=",
+        "arc-branch-updater-66.0.0.tar.gz"
+      ]
+    }
+  },
   "arcadia": {
     "0.0.1": {
       "wheels": {
@@ -3972,6 +3980,12 @@
       "sdist": [
         "BtvEtfeEaUcPOkj9Xs/X/TDNuuCUCR/CTXPKRMM2b7U=",
         "asgi-cors-strawberry-0.1.1.tar.gz"
+      ]
+    },
+    "0.2.0": {
+      "sdist": [
+        "OeQbAltcZwYZONHv9Te5Jm8dgv/QvDaqBzk7JTqiXi4=",
+        "asgi-cors-strawberry-0.2.0.tar.gz"
       ]
     }
   },
@@ -93920,6 +93934,14 @@
     }
   },
   "odoo14-addon-account-netting": {
+    "14.0.1.0.1": {
+      "wheels": {
+        "odoo14_addon_account_netting-14.0.1.0.1-py3-none-any.whl": [
+          "RiYn7Jtu52AzPekv+MY4HegvynwsEwFgWdeLgb9ucZc=",
+          "py3"
+        ]
+      }
+    },
     "14.0.1.0.1.dev2": {
       "wheels": {
         "odoo14_addon_account_netting-14.0.1.0.1.dev2-py3-none-any.whl": [
@@ -110322,6 +110344,42 @@
       "wheels": {
         "pypi_pubpack_vin10-0.1.0-py3-none-any.whl": [
           "EtzwWdca85w/1tqKirVuO4FMP8N7aZoyQlcCAUhPmBE=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.2": {
+      "sdist": [
+        "Gw03x0NaiU4L/tUeQ0xlkPtc7TXgcqu3rXOEeuZ1OYk=",
+        "pypi_pubpack_vin10-0.2.2.tar.gz"
+      ],
+      "wheels": {
+        "pypi_pubpack_vin10-0.2.2-py3-none-any.whl": [
+          "UKUfm/4vRc9FBO/ZjaLQuIDJiuIiY7+Zwuu2ipPxu24=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.3": {
+      "sdist": [
+        "NvzWcz2a+mQAdZHze3O/hlacUlPXCWmDmWtWoY2H958=",
+        "pypi_pubpack_vin10-0.2.3.tar.gz"
+      ],
+      "wheels": {
+        "pypi_pubpack_vin10-0.2.3-py3-none-any.whl": [
+          "h95UOFMPxmWBnkF5LUiVB8WFmhPaV52WUzeunDfHlfI=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.4": {
+      "sdist": [
+        "e7/vZKAkD1WK+8iSsQEqQMF/zCpspZm0kjJr6DD1m2c=",
+        "pypi_pubpack_vin10-0.2.4.tar.gz"
+      ],
+      "wheels": {
+        "pypi_pubpack_vin10-0.2.4-py3-none-any.whl": [
+          "hVvvbdu6kAhltAS49hWe59S7D7iq/s6oKZEJPCjK7mY=",
           "py3"
         ]
       }

@@ -2051,6 +2051,18 @@
           "py3"
         ]
       }
+    },
+    "2.9.2": {
+      "sdist": [
+        "dPQpTUacR9X0B1AmL6zDzFq59OGZ6AYDiuRbgvEAHSc=",
+        "aleph-alpha-client-2.9.2.tar.gz"
+      ],
+      "wheels": {
+        "aleph_alpha_client-2.9.2-py3-none-any.whl": [
+          "VxNoz7X9t6Qd9Kyn/vwc2Yo4+ez5ZPFMl4t9Y1v7F2k=",
+          "py3"
+        ]
+      }
     }
   },
   "alibabacloud-quotas20200510": {
@@ -3918,18 +3930,42 @@
         ]
       }
     },
-    "2.7.4": {
+    "2.7.6": {
       "wheels": {
-        "anyon-2.7.4-cp310-cp310-win_amd64.whl": [
-          "YXqpXX9LIpQKW1D4Xxop9rCnfLFdJOe8pWKo70DL+to=",
+        "anyon-2.7.6-cp310-cp310-macosx_10_9_universal2.whl": [
+          "uQtWWTJP1iUac+A30FEYTlQzs45EAC28FBpOXCggKlI=",
           "cp310"
         ],
-        "anyon-2.7.4-cp311-cp311-win_amd64.whl": [
-          "faUeVGj1ORNTlgpqxcI+zDnba2IzP3UEJe3b2d2EKVE=",
+        "anyon-2.7.6-cp310-cp310-manylinux1_x86_64.whl": [
+          "dePNwaNbUjMgJkxVjKKV6GBnxmTBbDN20xkl7Uk/RB0=",
+          "cp310"
+        ],
+        "anyon-2.7.6-cp310-cp310-win_amd64.whl": [
+          "EumJ+IsdDJLuwJ5TkMkOCwzKQD1RFZDIHlgTn+47dt0=",
+          "cp310"
+        ],
+        "anyon-2.7.6-cp311-cp311-macosx_10_9_universal2.whl": [
+          "//VZHkrtw8673tUR2pqxtKLJDF2CsHiOAawcCtwuqIc=",
           "cp311"
         ],
-        "anyon-2.7.4-cp39-cp39-win_amd64.whl": [
-          "tB8pZA2RcoYdxq0/6RMAocMjMBC4IahZuNg+JQdTCao=",
+        "anyon-2.7.6-cp311-cp311-manylinux1_x86_64.whl": [
+          "PihHLISkZSpBtaDqk0YOCGhya802dAoS1SnO2ebS2Wo=",
+          "cp311"
+        ],
+        "anyon-2.7.6-cp311-cp311-win_amd64.whl": [
+          "92CfZySI7yiOq7mDpLIz3kDe9gHt4CHdwYR+wz+wBNY=",
+          "cp311"
+        ],
+        "anyon-2.7.6-cp39-cp39-macosx_10_9_universal2.whl": [
+          "XqxipfviWs75gnlX+OOE1bcUP72je4VvHD7pGOWX93I=",
+          "cp39"
+        ],
+        "anyon-2.7.6-cp39-cp39-manylinux1_x86_64.whl": [
+          "BFJRvfXPrCv1JT4tqJtOHLFKLcz6tth/tz9P5gEUCys=",
+          "cp39"
+        ],
+        "anyon-2.7.6-cp39-cp39-win_amd64.whl": [
+          "PZZfdl77B0RE2ppLYf9jqWczXpi0y25gayX9HN7Mz+o=",
           "cp39"
         ]
       }
@@ -25491,6 +25527,14 @@
       ]
     }
   },
+  "django-avia-feature-flag-app": {
+    "66.0.0": {
+      "sdist": [
+        "S7sz1yttyQmKn6r6hlwYd9zv/tI3vLdbz8Sh+0lRkeE=",
+        "django-avia-feature-flag-app-66.0.0.tar.gz"
+      ]
+    }
+  },
   "django-boxberry": {
     "0.1": {
       "sdist": [
@@ -43099,6 +43143,14 @@
       ]
     }
   },
+  "flask-restplus-with-webargs": {
+    "66.0.0": {
+      "sdist": [
+        "2cZT5kyNb4fT/EXhc4306S1P/RrvIKmq4b+twJUNUtk=",
+        "flask-restplus-with-webargs-66.0.0.tar.gz"
+      ]
+    }
+  },
   "flit-demo": {
     "0.1.0": {
       "sdist": [
@@ -56836,6 +56888,18 @@
       "wheels": {
         "jptranstokenizer-0.2.0-py3-none-any.whl": [
           "3gl5WDNz92M4evhgZrMudS//dSC2sgPlydfDx/XgWlc=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.0": {
+      "sdist": [
+        "yifav6OQifBSjIvo4v1wBZAmaL7qnXBm/G8o/6C4lyo=",
+        "jptranstokenizer-0.3.0.tar.gz"
+      ],
+      "wheels": {
+        "jptranstokenizer-0.3.0-py3-none-any.whl": [
+          "r0SLhmC8K+hHHf3ho/ORIYbclOkMCjYRHJBI70gbT/I=",
           "py3"
         ]
       }
@@ -143906,6 +143970,42 @@
         ]
       }
     },
+    "2.1.2a14": {
+      "sdist": [
+        "EG+sCRp89Bp9OG2Criu60UbBEPhp7vEHxbUgAIe9mHs=",
+        "weni_rp_apps-2.1.2a14.tar.gz"
+      ],
+      "wheels": {
+        "weni_rp_apps-2.1.2a14-py3-none-any.whl": [
+          "nJc53ixQjIiVn5iUqdLCvvU/PtRRN5F5+DClSw3MxGI=",
+          "py3"
+        ]
+      }
+    },
+    "2.1.2a15": {
+      "sdist": [
+        "xK7B1yLLXxMfO7Q0jMH+Uub/m7FKMU0gL1F1rf3nO98=",
+        "weni_rp_apps-2.1.2a15.tar.gz"
+      ],
+      "wheels": {
+        "weni_rp_apps-2.1.2a15-py3-none-any.whl": [
+          "IlXBWxQERozVyHrgn7NN3C7w8y6T9xwxYSQNzz5t1Lw=",
+          "py3"
+        ]
+      }
+    },
+    "2.1.2a16": {
+      "sdist": [
+        "43hvCX934ZNhhiB0pLgAeXnsqTS973kjPl8LIHjpkfE=",
+        "weni_rp_apps-2.1.2a16.tar.gz"
+      ],
+      "wheels": {
+        "weni_rp_apps-2.1.2a16-py3-none-any.whl": [
+          "fiaKeDYn+uU2YLwLzuN1CmNRlllMC49TBAhap7/fZ5M=",
+          "py3"
+        ]
+      }
+    },
     "2.1.2a2": {
       "sdist": [
         "YAmOebPgzaDKqe5N2894FqPbGPTxOeKk+5aIGIK9Epg=",
@@ -143974,6 +144074,18 @@
       "wheels": {
         "weni_rp_apps-2.1.2a9-py3-none-any.whl": [
           "x+x4Pemx07bT+cgSF4Tca5VcsL27JnD0uDhJhHva6mM=",
+          "py3"
+        ]
+      }
+    },
+    "2.1.3a0": {
+      "sdist": [
+        "ge94eV7NoT5eyYHo2GmPM0j+JZHHL8VgNcFRIL3aG/I=",
+        "weni_rp_apps-2.1.3a0.tar.gz"
+      ],
+      "wheels": {
+        "weni_rp_apps-2.1.3a0-py3-none-any.whl": [
+          "MFhMVVtljQXr7i/GpUwLTgrrWwgBE1vfpJD2VdMRs8U=",
           "py3"
         ]
       }

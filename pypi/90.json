@@ -40349,6 +40349,14 @@
       ]
     }
   },
+  "edu-enigma": {
+    "66.0.0": {
+      "sdist": [
+        "goYtDkujV5YuJNK2wGeFHwBqowSv5ZbLIpdtngjD2eo=",
+        "edu-enigma-66.0.0.tar.gz"
+      ]
+    }
+  },
   "ege-utils": {
     "1.2.0": {
       "sdist": [
@@ -68874,6 +68882,18 @@
         ]
       }
     },
+    "1.19.4.dev37": {
+      "sdist": [
+        "RzsNgD2IEa/9Du/WYbBk2F707YRJuFVr3ofk8yNM5EA=",
+        "large-image-1.19.4.dev37.tar.gz"
+      ],
+      "wheels": {
+        "large_image-1.19.4.dev37-py3-none-any.whl": [
+          "p6owqvn5WTDPhmAAYSIDOTCJm6HHZwR8XoJjmR5Qrb0=",
+          "py3"
+        ]
+      }
+    },
     "1.19.4.dev4": {
       "sdist": [
         "VY2iPOCZkb3qxZx3Y8FPWMXUqUrHW4l+jZrOc8iHo3E=",
@@ -79128,6 +79148,18 @@
       "wheels": {
         "markerbci-0.0.6-py3-none-any.whl": [
           "Av4Vb25DtICV7BgGvaNS4KxdNOtYwORdqE9t8CzqisE=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.7": {
+      "sdist": [
+        "OdliskzR8zOY/bsGCZ2lzFtb/myR0HKARtIpC1zhHP8=",
+        "markerbci-0.0.7.tar.gz"
+      ],
+      "wheels": {
+        "markerbci-0.0.7-py3-none-any.whl": [
+          "yNcVKdtsz6X3F3Vhew2Hrb9fSLzXycChQ4kaBxPkGmg=",
           "py3"
         ]
       }
@@ -109664,6 +109696,14 @@
         ]
       }
     },
+    "14.0.2.20.0": {
+      "wheels": {
+        "odoo14_addon_shopfloor-14.0.2.20.0-py3-none-any.whl": [
+          "jaRltTc/bIp8JSXkx1yIcC6vwOvRe4FWKutrGxdKcuM=",
+          "py3"
+        ]
+      }
+    },
     "14.0.2.3.1": {
       "wheels": {
         "odoo14_addon_shopfloor-14.0.2.3.1-py3-none-any.whl": [
@@ -110348,126 +110388,6 @@
     }
   },
   "offshoreflac3d": {
-    "0.0.10": {
-      "sdist": [
-        "wVFJfY2FaYqH/R1VVBey1hERgMNRco2T9g2Mg57cvT0=",
-        "offshoreflac3d-0.0.10.tar.gz"
-      ],
-      "wheels": {
-        "offshoreflac3d-0.0.10-py3-none-any.whl": [
-          "suVgSgJX5AWN25q5qQVozZeoxHX3YXE2/5FiE5GOU48=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.11": {
-      "sdist": [
-        "JtUxBolNA5UxKrygkAJh9gIoh+9odurRtVZcy7Sa0ps=",
-        "offshoreflac3d-0.0.11.tar.gz"
-      ],
-      "wheels": {
-        "offshoreflac3d-0.0.11-py3-none-any.whl": [
-          "KQ0OIJ6ZgvdQutM8/DOwS9n7bWsRPEI0/MleyzrEPLQ=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.12": {
-      "sdist": [
-        "B7reLMT7KlvTBKzCthiKXc3WkHLxvbpTnp9MJyOypH0=",
-        "offshoreflac3d-0.0.12.tar.gz"
-      ],
-      "wheels": {
-        "offshoreflac3d-0.0.12-py3-none-any.whl": [
-          "j8Y2Y/Gvv1HW4AmuiJl6kMYkdCaKsvkLYpazMG6G4UY=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.14": {
-      "sdist": [
-        "1oejD0kZ0xs8nL0PZqugWzCtnKg/BSl4CbB1ut00v6Q=",
-        "offshoreflac3d-0.0.14.tar.gz"
-      ],
-      "wheels": {
-        "offshoreflac3d-0.0.14-py3-none-any.whl": [
-          "JAy1PFIz1DLhPQLpSkmxBtOY2rcpDVIspYCzywFq8u0=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.15": {
-      "sdist": [
-        "y6wOupzNv60EHbnqEV4o9CyoP4GtjNH8hQeIuJp7u+4=",
-        "offshoreflac3d-0.0.15.tar.gz"
-      ],
-      "wheels": {
-        "offshoreflac3d-0.0.15-py3-none-any.whl": [
-          "889OcsetA4NarjcpM+zJWhCIjfEqJMKcM+Jws/hBhQE=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.16": {
-      "sdist": [
-        "ZA0YL+Hda11LgqABmVX8TlcT0ypQHD92+dFt6bcJ0zc=",
-        "offshoreflac3d-0.0.16.tar.gz"
-      ],
-      "wheels": {
-        "offshoreflac3d-0.0.16-py3-none-any.whl": [
-          "Is4mP+J7N2oF5EKT9g6yzBKYFfIVMiro7u4rCnr1Dwc=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.17": {
-      "sdist": [
-        "DqD4nVAhL70Id1VC+iCfulfTMTJlAPkRmtRvyF64HfM=",
-        "offshoreflac3d-0.0.17.tar.gz"
-      ],
-      "wheels": {
-        "offshoreflac3d-0.0.17-py3-none-any.whl": [
-          "EyyM1Jy0F1BcrkhKAT8vIPxoh2lR1a3Hf6DgtSV20OU=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.18": {
-      "sdist": [
-        "j1EzdxEBVG2B1PRiGR/7sIzdu34Omh4RxgEqUzZTcVg=",
-        "offshoreflac3d-0.0.18.tar.gz"
-      ],
-      "wheels": {
-        "offshoreflac3d-0.0.18-py3-none-any.whl": [
-          "5A7YW8pcEFLKn3Onpn5qWsDdEH5dkM+4m2yR8MwkjEw=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.19": {
-      "sdist": [
-        "JXbbu5cSoiE9tu+f3czSE2iIfr8gchgZPVcoqzbxm94=",
-        "offshoreflac3d-0.0.19.tar.gz"
-      ],
-      "wheels": {
-        "offshoreflac3d-0.0.19-py3-none-any.whl": [
-          "F/rDzyKEvaL3Skce6dmrXzloHBwsGqPZJiXWKBp4/Xo=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.20": {
-      "sdist": [
-        "bwsMKw2ngCPWm+9/UtPLCuVOZqK2tDY20jFPBu6vlHg=",
-        "offshoreflac3d-0.0.20.tar.gz"
-      ],
-      "wheels": {
-        "offshoreflac3d-0.0.20-py3-none-any.whl": [
-          "QexQmHis/SiL+B+hBTxpiN7pJ7b14pybrhOyHcpU4tg=",
-          "py3"
-        ]
-      }
-    },
     "0.0.21": {
       "sdist": [
         "141bRBbF7ZYj7nZMfglpmcwZepHyU1FV19/yjyJPADw=",
@@ -110488,6 +110408,66 @@
       "wheels": {
         "offshoreflac3d-0.0.22-py3-none-any.whl": [
           "4g20uSWKprWMR9+0S3iHmwQQtmkVLiG/qWTAa+uT3Lw=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.23": {
+      "sdist": [
+        "DBcrEdy519G/l1TBGd+7F0Wrv/WCCnNRSv7H8mP35KU=",
+        "offshoreflac3d-0.0.23.tar.gz"
+      ],
+      "wheels": {
+        "offshoreflac3d-0.0.23-py3-none-any.whl": [
+          "DpeZ/EfLHCUGxamY74BVfHlCA17rwRq9eZfzBrqj3HM=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.25": {
+      "sdist": [
+        "A1ekEwivrKPw6i5FlGfEQHPEVhK4Faojr7t1w8kpYUY=",
+        "offshoreflac3d-0.0.25.tar.gz"
+      ],
+      "wheels": {
+        "offshoreflac3d-0.0.25-py3-none-any.whl": [
+          "lgtAeVUhiywMP500UkvoLwAfqxORGMTDyukbusfq7tg=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.26": {
+      "sdist": [
+        "qbYOvAkVsc/4wMjMsAAUEDaHEIl9wZfGHazxe38v9Vo=",
+        "offshoreflac3d-0.0.26.tar.gz"
+      ],
+      "wheels": {
+        "offshoreflac3d-0.0.26-py3-none-any.whl": [
+          "PIoD2nLjCCUuRZpGcoNi+PdHvr9kclH+VTaHrh6PYvs=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.28": {
+      "sdist": [
+        "kj/p3W9sx1QnnSjUKTbVGGIQkGdqA6a+24hciaUmu0I=",
+        "offshoreflac3d-0.0.28.tar.gz"
+      ],
+      "wheels": {
+        "offshoreflac3d-0.0.28-py3-none-any.whl": [
+          "w1mxgdR1HGhg1fyLBD2xoI1gDp/3kJJdGpKPeCE/NWk=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.29": {
+      "sdist": [
+        "KJIJB6f+SdKlRC3LvgQa68vBr69Xzu4+pvXr9uiygfk=",
+        "offshoreflac3d-0.0.29.tar.gz"
+      ],
+      "wheels": {
+        "offshoreflac3d-0.0.29-py3-none-any.whl": [
+          "nDZWWKvLVYKBU3JYbaes5FsT8wfiufSWnPk7jQCv9JI=",
           "py3"
         ]
       }
@@ -144644,6 +144624,18 @@
       "wheels": {
         "stability_sdk-0.3.1-py3-none-any.whl": [
           "EWiv2X+6U9grFPs7ZsaS6vy7RkYwRKJrQHUjB82iZMU=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.2": {
+      "sdist": [
+        "SLlfI855z1fePW7jsDDLebbS5FLR8YZF72DJNF+VrrQ=",
+        "stability-sdk-0.3.2.tar.gz"
+      ],
+      "wheels": {
+        "stability_sdk-0.3.2-py3-none-any.whl": [
+          "UxPeubFBGoIsflWYtMDeE/HIZjhPZqFnR6WhPc0kkN0=",
           "py3"
         ]
       }

@@ -4454,6 +4454,18 @@
         ]
       }
     },
+    "0.19.8": {
+      "sdist": [
+        "sEPzPkDqlHEKEI7IH/KsHEc4ewMer4Tthx+jtQ9rOHE=",
+        "anyforce-0.19.8.tar.gz"
+      ],
+      "wheels": {
+        "anyforce-0.19.8-py3-none-any.whl": [
+          "r6jbQvJmTtVShvhz/l+vkEgJLhKOK7Wd4seOi4XoUBA=",
+          "py3"
+        ]
+      }
+    },
     "0.2.0": {
       "sdist": [
         "+IaOv9vbt9ci5Tc11L5NhFQ54QXYeu5mC1OJ/Q7eck8=",
@@ -17182,6 +17194,30 @@
       "wheels": {
         "bbot-1.0.4.1147rc0-py3-none-any.whl": [
           "hQUv94nAibxf5lNdHiQGXdMlswNDYEE+JijnMrwAqn0=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.4.1156rc0": {
+      "sdist": [
+        "Ax5L0uNjolDtmIJZJrhk9WeAatKkb5rDT7qe63JlVbM=",
+        "bbot-1.0.4.1156rc0.tar.gz"
+      ],
+      "wheels": {
+        "bbot-1.0.4.1156rc0-py3-none-any.whl": [
+          "TFAk0NkCEsa59cx2vwhLej0eNlPUMKiQiGjqDw87FXY=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.4.1158rc0": {
+      "sdist": [
+        "5FiXUJoAGn/Goxdl971WjS/i0KjYzEuCCqUJyXlm6wk=",
+        "bbot-1.0.4.1158rc0.tar.gz"
+      ],
+      "wheels": {
+        "bbot-1.0.4.1158rc0-py3-none-any.whl": [
+          "v94WM0+Sf0kZ6tU58JaZd+ImNPiKinnN48fekT6Gbc4=",
           "py3"
         ]
       }
@@ -38125,6 +38161,14 @@
       }
     }
   },
+  "direct-load-tools": {
+    "66.0.0": {
+      "sdist": [
+        "R7Ep769fZz/pO6xxxe4iNFDXQ45/JWPyOKqwLieYwQ4=",
+        "direct-load-tools-66.0.0.tar.gz"
+      ]
+    }
+  },
   "discord.py-self-embed": {
     "1.0.0": {
       "sdist": [
@@ -49319,6 +49363,14 @@
       }
     }
   },
+  "edu-cloner": {
+    "66.0.0": {
+      "sdist": [
+        "IxAWVEG2VA2zv8UPfM3qmeOeSu+rPXedzpk3Iw7LFBM=",
+        "edu-cloner-66.0.0.tar.gz"
+      ]
+    }
+  },
   "edusocialmediadshelper": {
     "0.0.1": {
       "sdist": [
@@ -56012,6 +56064,78 @@
       "wheels": {
         "fencer-0.3.0-py3-none-any.whl": [
           "q6sPoUCEaQ/0KR1wVmLVPou1xVlfHsCUHHIUpmgmlII=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.1": {
+      "sdist": [
+        "vWN+tW8/aRWuBSAp3jZMjAHCM0Y4PUbBHP6cA6vsryw=",
+        "fencer-0.3.1.tar.gz"
+      ],
+      "wheels": {
+        "fencer-0.3.1-py3-none-any.whl": [
+          "XcTXesfA2dW1hWuWkWfnW9AwPq2vdVHJXEpPrq2FlsI=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.2": {
+      "sdist": [
+        "q10Zfsp7QnXh7V/872nu65DNp5mQWaklWvoW2pvXYxg=",
+        "fencer-0.3.2.tar.gz"
+      ],
+      "wheels": {
+        "fencer-0.3.2-py3-none-any.whl": [
+          "Ek3M7nav7xgqMmJskRjRd3qyA9xS6Fj4/G4cG8Xm5AA=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.3": {
+      "sdist": [
+        "1yxkuHTH5jLYOfS5L1TYyqLhE0B4MfXlMlIXGtOVzK0=",
+        "fencer-0.3.3.tar.gz"
+      ],
+      "wheels": {
+        "fencer-0.3.3-py3-none-any.whl": [
+          "3w975nz6eO1tJkZTV3uKYOZgv/VyIZ7wsp4zJnK6gHQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.4": {
+      "sdist": [
+        "SSjrVQHaStUJNrob56n9/Xa/rCrylaAbSg6nsHG5p8U=",
+        "fencer-0.3.4.tar.gz"
+      ],
+      "wheels": {
+        "fencer-0.3.4-py3-none-any.whl": [
+          "OMLefTGTRymYgeYGXh7e8PMy6TgBxW/0hphSX9jOpvs=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.5": {
+      "sdist": [
+        "c/EEVqFADmaxL3ig7HR7cEtkEUIHt777jh6qVpsQIoQ=",
+        "fencer-0.3.5.tar.gz"
+      ],
+      "wheels": {
+        "fencer-0.3.5-py3-none-any.whl": [
+          "wr9A51ZMGBffXp1C9xACm1IsaHFIFsvumVv29idp8m0=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.6": {
+      "sdist": [
+        "OwXTEEiRqe6u/WeqH6ThKSTO3remY8v1foj0/m8OFtA=",
+        "fencer-0.3.6.tar.gz"
+      ],
+      "wheels": {
+        "fencer-0.3.6-py3-none-any.whl": [
+          "jm7/U6jUQkFKmfd9zyuPCB6QjGPljdKJasZGv8RcOUQ=",
           "py3"
         ]
       }
@@ -91516,6 +91640,14 @@
       "wheels": {
         "multi_model_server-1.1.8b20230207-py2.py3-none-any.whl": [
           "QnYNn4GvPq7/cB3YTNN9S+9LP+TOfV8gR8LJ1xMVFhc=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.1.8b20230208": {
+      "wheels": {
+        "multi_model_server-1.1.8b20230208-py2.py3-none-any.whl": [
+          "Qn3xvIx+m5TNY/8h4YeZgT6nKAOuAfjg6kM/U8Yc9sE=",
           "py2.py3"
         ]
       }

@@ -6147,6 +6147,18 @@
           "py3"
         ]
       }
+    },
+    "1.4.59": {
+      "sdist": [
+        "rUrIcN51BnQGjbuQCGn4yA+fHh23MKp2FJc8DPEb5gU=",
+        "antchain_cas-1.4.59.tar.gz"
+      ],
+      "wheels": {
+        "antchain_cas-1.4.59-py3-none-any.whl": [
+          "LfpDOUJnDma5F+REt2a53R6JfVEk9ZPcqcvDcz8MxeI=",
+          "py3"
+        ]
+      }
     }
   },
   "anyconfig-configobj-backend": {
@@ -24166,18 +24178,6 @@
     }
   },
   "ctapipe-io-nectarcam": {
-    "0.0.0": {
-      "sdist": [
-        "Hz5w1SPjZy9UmSTpz2Jgedy3rGHXBJw99TJ1kFzMdwA=",
-        "ctapipe_io_nectarcam-0.0.0.tar.gz"
-      ],
-      "wheels": {
-        "ctapipe_io_nectarcam-0.0.0-py3-none-any.whl": [
-          "vFOmYrkfVBqt1zgEpl0ZHb78Hjlv3xb3gMVwnVa/SDM=",
-          "py3"
-        ]
-      }
-    },
     "0.1.0": {
       "sdist": [
         "9h0Lf9yiIlNCzXt/b1zgC/9vL5WQNVZPo9Mc4gLtr4A=",
@@ -24186,6 +24186,18 @@
       "wheels": {
         "ctapipe_io_nectarcam-0.1.0-py3-none-any.whl": [
           "af0kFT0qK4X5W6s2YLFH/S5QQ4NhsMu7Owv1bXSH+t0=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "/Ns5H4n9i8YsAVywN7PEiCEJY6oniDsCwLJ7YNhNMH4=",
+        "ctapipe_io_nectarcam-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "ctapipe_io_nectarcam-0.1.1-py3-none-any.whl": [
+          "yYiSRJWMqnJ44A7Yf04Qd6UvN+iavmUilU3WFrV/oBs=",
           "py3"
         ]
       }
@@ -36835,6 +36847,14 @@
       }
     }
   },
+  "edadeal-models": {
+    "66.0.0": {
+      "sdist": [
+        "lQpDgK4PAVK3e4ZPVXVXDOuyNNusauwczaVygrKLQK4=",
+        "edadeal-models-66.0.0.tar.gz"
+      ]
+    }
+  },
   "edc-metadata": {
     "0.2.12": {
       "sdist": [
@@ -38341,6 +38361,14 @@
           "py3"
         ]
       }
+    }
+  },
+  "emission.backends.django": {
+    "66.0.0": {
+      "sdist": [
+        "3I1ctqpuLLY3apZXFPIoYfsO9uAucNWboxwAVHUU0Hs=",
+        "emission.backends.django-66.0.0.tar.gz"
+      ]
     }
   },
   "empyrionbuildassistant": {
@@ -102591,6 +102619,12 @@
         "qjrjgvuojEzE1ZW8cLmxiIN1YjwoHTHWLY21bQA83mc=",
         "pyPhasesRecordloader-0.2.2.tar.gz"
       ]
+    },
+    "0.2.5": {
+      "sdist": [
+        "lSV1EYS67n+9hw5rbosKlMUUmQndPWYL2ZMTsqeyynA=",
+        "pyPhasesRecordloader-0.2.5.tar.gz"
+      ]
     }
   },
   "pypi-sphinx-flexlate-example": {
@@ -138771,6 +138805,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.7": {
+      "sdist": [
+        "fXDZOWR7Kt0uR9bFsM5/341pvOI1i1PAbzKpCxQp5sM=",
+        "testcsg-0.1.7.tar.gz"
+      ],
+      "wheels": {
+        "testcsg-0.1.7-py3-none-any.whl": [
+          "ctmXqry8+7KnFbSnp886iNL8tQl/Vl+0qGcSvLVvEpg=",
+          "py3"
+        ]
+      }
     }
   },
   "testimony": {
@@ -152794,6 +152840,26 @@
         ],
         "wpcsys-1.1.3-cp39-cp39-win_amd64.whl": [
           "N/0k1JQ2UTpfYe6d30DYsMUpkwxeeGlov4sMsIOvLnk=",
+          "cp39"
+        ]
+      }
+    },
+    "2.0.0": {
+      "sdist": [
+        "73P3OlJvMdyoFPWH8H+rZn6fn0JT0moMjdRXzKTR9Es=",
+        "wpcsys-2.0.0.tar.gz"
+      ],
+      "wheels": {
+        "wpcsys-2.0.0-cp310-cp310-win_amd64.whl": [
+          "jTdWTUyWmFInjXlmWMYX3ROh8/J0YZpnPGuPn3ruuUo=",
+          "cp310"
+        ],
+        "wpcsys-2.0.0-cp38-cp38-win_amd64.whl": [
+          "h2yP0gblHILctamDaZ8JBqJ6KUz4fsxBnRFYIoTDhg8=",
+          "cp38"
+        ],
+        "wpcsys-2.0.0-cp39-cp39-win_amd64.whl": [
+          "gR6bBPJROMB8k7h6RGnMWtlgrgO0kmmzXzxnh9qxqIU=",
           "cp39"
         ]
       }

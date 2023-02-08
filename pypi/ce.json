@@ -37518,6 +37518,30 @@
         ]
       }
     },
+    "1.26.3": {
+      "sdist": [
+        "iIi0HZ85ygLRLhOJAnsuGUzaRG3thacW5c9ZurSePOY=",
+        "ffmpeg-normalize-1.26.3.tar.gz"
+      ],
+      "wheels": {
+        "ffmpeg_normalize-1.26.3-py2.py3-none-any.whl": [
+          "QZGwoZtym+TWzpcPuSQFR39POIRROXhoI+DABkt7CLk=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.26.4": {
+      "sdist": [
+        "4QwhqdCuqjS4PWT6yw9feNQdsvYFKI21nZBEO3jbwDM=",
+        "ffmpeg-normalize-1.26.4.tar.gz"
+      ],
+      "wheels": {
+        "ffmpeg_normalize-1.26.4-py2.py3-none-any.whl": [
+          "biKmzANaLL7VpYtmzJksI21XDT9QVc/puEMM1PzYnDM=",
+          "py2.py3"
+        ]
+      }
+    },
     "1.3.1": {
       "sdist": [
         "MwfCTPF3QrbruYsViay/uM4ArN2Rwy6B+LgNJkjxCsM=",
@@ -50871,6 +50895,14 @@
           "py3"
         ]
       }
+    }
+  },
+  "iakovenko.zc.buildout": {
+    "66.0.0": {
+      "sdist": [
+        "Z6dABJ1If/7LKwoBBMC/NWQ/FAjA2InSr/j6lpg5wSQ=",
+        "iakovenko.zc.buildout-66.0.0.tar.gz"
+      ]
     }
   },
   "ibalert": {
@@ -86780,6 +86812,14 @@
         ]
       }
     },
+    "13.0.1.3.1": {
+      "wheels": {
+        "odoo13_addon_purchase_open_qty-13.0.1.3.1-py3-none-any.whl": [
+          "GFE+AYDXvzvcF5ke4ugMnz4n9Wwo6vjAWKiDhwBTP5U=",
+          "py3"
+        ]
+      }
+    },
     "13.0.1.3.1.dev1": {
       "wheels": {
         "odoo13_addon_purchase_open_qty-13.0.1.3.1.dev1-py3-none-any.whl": [
@@ -100918,6 +100958,18 @@
       "wheels": {
         "ProQuo-0.0.8-py3-none-any.whl": [
           "XlNT5UNMf54BUVPFA/ieUcjjk+DFUcjO62xAM1Oy0XY=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.9": {
+      "sdist": [
+        "K7JwOLWwdQsnwenZ7oYEfjbqgU72HO4ScsViYhNwce0=",
+        "ProQuo-0.0.9.tar.gz"
+      ],
+      "wheels": {
+        "ProQuo-0.0.9-py3-none-any.whl": [
+          "KEKyvps8p7oMczAACkiBrZXLpQM3zLmWbRvunu51gy0=",
           "py3"
         ]
       }
@@ -146374,6 +146426,42 @@
         ],
         "viktor-13.7.1-cp39-cp39-win_amd64.whl": [
           "UXwa5LY+AeYoj7f9+7/tNpSOOIBHCM1iffvlutnKaNw=",
+          "cp39"
+        ]
+      }
+    },
+    "13.7.2": {
+      "wheels": {
+        "viktor-13.7.2-cp310-cp310-manylinux2014_x86_64.whl": [
+          "UG7pshi3RElfvj/g7L96sq+xLseHo7TM1/4m903nJI4=",
+          "cp310"
+        ],
+        "viktor-13.7.2-cp310-cp310-win_amd64.whl": [
+          "3lB8iyxid1Wll4SgQoEmXHUbZumofGfwvoinumXPngQ=",
+          "cp310"
+        ],
+        "viktor-13.7.2-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "/PvpScw/ntjg/sorYqNEWUWyAprSsIVhXQuWupGo4m4=",
+          "cp37"
+        ],
+        "viktor-13.7.2-cp37-cp37m-win_amd64.whl": [
+          "DAveQxA3rrlbyXuVwnX0x+ZXsyuW1NB3PakCZ6RUyxo=",
+          "cp37"
+        ],
+        "viktor-13.7.2-cp38-cp38-manylinux2014_x86_64.whl": [
+          "/9xW9nW/JBzYqS8J6adQtuG78HNmW4+gifn1s6M5dHk=",
+          "cp38"
+        ],
+        "viktor-13.7.2-cp38-cp38-win_amd64.whl": [
+          "aVb7P5b7aNR9WxkD/IVQY4UY6Vdgr0gdlkJvp104ot0=",
+          "cp38"
+        ],
+        "viktor-13.7.2-cp39-cp39-manylinux2014_x86_64.whl": [
+          "9YGRp116KO1I4qT2EC9BeaCGmCFw0S8iNnDqpE0GzJQ=",
+          "cp39"
+        ],
+        "viktor-13.7.2-cp39-cp39-win_amd64.whl": [
+          "r0BX64vmPhlBaYhtYIvEGQeL6AyStcJSJsXjNGE81zI=",
           "cp39"
         ]
       }

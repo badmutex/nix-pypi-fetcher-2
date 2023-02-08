@@ -5427,6 +5427,14 @@
       ]
     }
   },
+  "ansible-golovan-alert": {
+    "66.0.0": {
+      "sdist": [
+        "oR4mkwTH9LR/fxg+aUEt1JD74/6M9Lg9tpRO6JaRRzM=",
+        "ansible-golovan-alert-66.0.0.tar.gz"
+      ]
+    }
+  },
   "ansible-inventory": {
     "0.1.2": {
       "sdist": [
@@ -9726,6 +9734,12 @@
       "sdist": [
         "4Qaki7i3WRbobOJDxRyAEgL6vO03D5kT57m6qKZshi8=",
         "AutoCarver-3.0.9.tar.gz"
+      ]
+    },
+    "3.1.0": {
+      "sdist": [
+        "Wf6r5EQ6XdASB41WBFYcGRKFwQ5NBONpww9ZEyrKVvs=",
+        "AutoCarver-3.1.0.tar.gz"
       ]
     }
   },
@@ -18965,6 +18979,18 @@
           "py3"
         ]
       }
+    },
+    "2023.3": {
+      "sdist": [
+        "09eeHCpmxYG3GtSvtT6Gp0XoKjQvkCIW/iLxz0qyFmo=",
+        "cell-tracking-bc-2023.3.tar.gz"
+      ],
+      "wheels": {
+        "cell_tracking_bc-2023.3-py3-none-any.whl": [
+          "64tqPKJ/cC38uYi8O+57UWIUNkUQVlWZx1+tT/OZ5DI=",
+          "py3"
+        ]
+      }
     }
   },
   "certbot-dns-nextlayer": {
@@ -19370,6 +19396,18 @@
       "wheels": {
         "chaostoolkit_slack-0.5.6-py2.py3-none-any.whl": [
           "pnjcL/gafbINkQgZRjd4BZ1tt0uENc3Wd2Gcfan2Ock=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.5.7": {
+      "sdist": [
+        "8qSDMFpodoyewnSfXRfMM+21o56tyJQbeMYPacodOsI=",
+        "chaostoolkit-slack-0.5.7.tar.gz"
+      ],
+      "wheels": {
+        "chaostoolkit_slack-0.5.7-py2.py3-none-any.whl": [
+          "jC6pppODoPhtzxjt3O6FMzO/WdffrgyPrItHgH84jDo=",
           "py2.py3"
         ]
       }
@@ -42222,6 +42260,18 @@
         ]
       }
     },
+    "3.8.18": {
+      "sdist": [
+        "/7abfuf2IV7zg0U7hI95lCux3tqhX/SnyWb15WcaXEU=",
+        "dstk_x250-3.8.18.tar.gz"
+      ],
+      "wheels": {
+        "dstk_x250-3.8.18-py2.py3-none-any.whl": [
+          "a42rmnkeZ8uC3XXLPSElgvaXdZwUSrfOyplrnHRi4iA=",
+          "py2.py3"
+        ]
+      }
+    },
     "3.8.2": {
       "sdist": [
         "FTdKSI3OaJ+h++5kfAMRwF05DMt2Se2a5JM8EBjfv+g=",
@@ -44155,6 +44205,14 @@
           "py3"
         ]
       }
+    }
+  },
+  "eddl-swinger": {
+    "66.0.0": {
+      "sdist": [
+        "yYZwMuBCpFnRkEkWlB+xa1p5Ib4mR46bIGiVrZfQNmw=",
+        "eddl-swinger-66.0.0.tar.gz"
+      ]
     }
   },
   "edict-to-csv": {
@@ -54544,6 +54602,18 @@
       "wheels": {
         "hikari_miru-3.0.0-py3-none-any.whl": [
           "jOlBtEXq4zfEOgoMOnege1sRrlgDIQfN4/eW9/fU6TQ=",
+          "py3"
+        ]
+      }
+    },
+    "3.0.1": {
+      "sdist": [
+        "w97ut39znqkFNd/N5WPs00OE69SK3ZgBxSVgd52IfdI=",
+        "hikari-miru-3.0.1.tar.gz"
+      ],
+      "wheels": {
+        "hikari_miru-3.0.1-py3-none-any.whl": [
+          "2uKqjYF4KEaUBW3H7HRIkxzzELcBCbx8ssGoD+oRrNc=",
           "py3"
         ]
       }
@@ -89680,6 +89750,30 @@
       "wheels": {
         "pepperize.projen_awscdk_app_ts-0.0.360-py3-none-any.whl": [
           "EyHiWeRKPFpv0UXblS86FThGCizv2HzHSEMSTkqU6e4=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.361": {
+      "sdist": [
+        "NSOdj1otCOgJ5KmlzVcko7vpP285zOJMRKYNmz/bKKg=",
+        "pepperize.projen-awscdk-app-ts-0.0.361.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.projen_awscdk_app_ts-0.0.361-py3-none-any.whl": [
+          "1LNsQiM/S4wAgsEAl/xpW6SYk6gSV8wdWt+R6OH7jkM=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.362": {
+      "sdist": [
+        "hqJc9pjexjeL3o4klPddOtQvhkWmn9qFfpFAIzbnqRw=",
+        "pepperize.projen-awscdk-app-ts-0.0.362.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.projen_awscdk_app_ts-0.0.362-py3-none-any.whl": [
+          "gWlgQ9YL1RHyPhVpeY/BpHkRzaCv7yjn51WROYKHHhw=",
           "py3"
         ]
       }

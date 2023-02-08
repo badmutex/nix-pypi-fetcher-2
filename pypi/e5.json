@@ -9897,6 +9897,14 @@
       ]
     }
   },
+  "bummer-lib-metrika-yandex": {
+    "66.0.0": {
+      "sdist": [
+        "Fh8OeO2Cf1pIZHLHARJhDXYbGN4R6671fuGjyWrwyHc=",
+        "bummer-lib-metrika-yandex-66.0.0.tar.gz"
+      ]
+    }
+  },
   "bupt-proj-mgt-zhanglei": {
     "2022.11.12.0": {
       "sdist": [
@@ -24908,6 +24916,14 @@
       "wheels": {
         "determined_common-0.19.10rc1-py3-none-any.whl": [
           "Hcjixj5vVwO1R1yYZTXsCrVTlDesn8RdAtRp/i+0hGM=",
+          "py3"
+        ]
+      }
+    },
+    "0.19.11rc0": {
+      "wheels": {
+        "determined_common-0.19.11rc0-py3-none-any.whl": [
+          "lGDvVNsjH/jvWwbI9xYRrDT7Y+0YuTrpGn+VM+yKq9c=",
           "py3"
         ]
       }
@@ -60732,6 +60748,18 @@
         ]
       }
     },
+    "0.0.28": {
+      "sdist": [
+        "ZtQ8BpLsR0gpWsCOPpGzPs+utvYIJJ3OLavANsJ1hz8=",
+        "lazysdk-0.0.28.tar.gz"
+      ],
+      "wheels": {
+        "lazysdk-0.0.28-py3-none-any.whl": [
+          "dS+ZxUFTwry1bVp+FLXL5et7BnTw3QM1nFBZZnDz4UA=",
+          "py3"
+        ]
+      }
+    },
     "0.0.3": {
       "sdist": [
         "mxnpEWfXSnbtjd3CnImNjY2kWrxCO3Zzphpe6bo5knI=",
@@ -77754,6 +77782,20 @@
       "wheels": {
         "nslocalizer-1.0.2-py3-none-any.whl": [
           "L8WLJ/iDFfRh/67aGJ2g5ySEgBFgFAddO12epUCRbfQ=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "ntec": {
+    "0.1.0": {
+      "sdist": [
+        "xCFOcvMh0ugHTQ0LsixUfcz/zJnxN7Lwr1K+jb81d4A=",
+        "ntec-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "ntec-0.1.0-py3-none-any.whl": [
+          "sXutqIn+5QIA9RyiouhCu74LL23xx4nevOE3S/tI3aE=",
           "py3"
         ]
       }
@@ -95560,6 +95602,12 @@
       "sdist": [
         "v8MEdF7yW1CoWIDFcD009ha0G1kOIUatFS03uhSOvuE=",
         "pulumi_f5bigip-3.11.0a1675379718.tar.gz"
+      ]
+    },
+    "3.11.0a1675870954": {
+      "sdist": [
+        "Mmeit7mGpHvontFUw09PAEr1m0FJ/QczZVfTA8jzH8w=",
+        "pulumi_f5bigip-3.11.0a1675870954.tar.gz"
       ]
     },
     "3.2.0": {
@@ -114016,6 +114064,12 @@
         "rucio-1.26.15.tar.gz"
       ]
     },
+    "1.26.16": {
+      "sdist": [
+        "zVXISScSiyUOCZaUmndyn6dAsiLkyJ0YrPOfIrSyohY=",
+        "rucio-1.26.16.tar.gz"
+      ]
+    },
     "1.26.2": {
       "sdist": [
         "qSHpFUfoqIf1aArYdc9gou9RulSg/vI2mdRprNdEsQY=",
@@ -114362,6 +114416,12 @@
       "sdist": [
         "fGsPXNGDISR9l162o1tFumUi/2P7svLW2YiMZ3ToQSY=",
         "rucio-1.30.3.tar.gz"
+      ]
+    },
+    "1.30.4": {
+      "sdist": [
+        "PrN2owpv96NfBiQidQYfZElrSwXIUN2QmcyYkop42MQ=",
+        "rucio-1.30.4.tar.gz"
       ]
     },
     "1.5.10": {
@@ -120170,6 +120230,30 @@
       "wheels": {
         "sliceable_dict-0.0.4-py3-none-any.whl": [
           "TDRFd6sPy7yK4md//kSzX/0dNq9s2oDsXkzTWH0aWLk=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.0": {
+      "sdist": [
+        "n3h+7xt4gliL6D+Tb9BuleXZU+6uAINjwHTlPeUtoyE=",
+        "sliceable_dict-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "sliceable_dict-0.1.0-py3-none-any.whl": [
+          "1eT1YR/4s00dNb2oLozAVOnFsRXxvT9yeYJWfOa0eN8=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "7M3tVoUh8QsyXsMFlCwHP9kSzi7zQ3MMLP6dE5xyDns=",
+        "sliceable_dict-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "sliceable_dict-0.1.1-py3-none-any.whl": [
+          "I0Vb9z1Kx9OgXuFNOQve0FYUNwvFdlaJEVM9wCsf/eU=",
           "py3"
         ]
       }
@@ -146211,6 +146295,12 @@
           "py3"
         ]
       }
+    },
+    "0.2": {
+      "sdist": [
+        "Z34O0YocWrT/EyjPkLXKi9DdlsYL+tgp/LcioZzOb+s=",
+        "urb_libpythonpro-0.2.tar.gz"
+      ]
     }
   },
   "urlllib3": {

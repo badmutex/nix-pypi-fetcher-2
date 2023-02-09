@@ -8062,6 +8062,18 @@
         ]
       }
     },
+    "1.192.0": {
+      "sdist": [
+        "wnP/4tTJMocNPmIGA97EhlFNApvbfO/GbYSsDvg+iLU=",
+        "aws-cdk.aws-sam-1.192.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_sam-1.192.0-py3-none-any.whl": [
+          "TU3f/+DhSj0K/M1EkkTH+y4U/T4jl2MzWaRguWq/Zgw=",
+          "py3"
+        ]
+      }
+    },
     "1.2.0": {
       "sdist": [
         "AjGsWPZ82/fD2xrmr6J9/GJfic+Vk4xanJen8MAJ1RE=",
@@ -15940,6 +15952,30 @@
       "wheels": {
         "ccs_fit-0.14.4-py3-none-any.whl": [
           "bv+cVN81494Qb4BSubV53Z62sxibczuDlk4iiA07jGk=",
+          "py3"
+        ]
+      }
+    },
+    "0.14.5": {
+      "sdist": [
+        "1DVMyC/pcwli92CzWxS37fxTpmRmxiWZrCh3BFwzyPk=",
+        "ccs_fit-0.14.5.tar.gz"
+      ],
+      "wheels": {
+        "ccs_fit-0.14.5-py3-none-any.whl": [
+          "8X2Tinn85X9y4SdBeAePF1AlgSrrYH4VNZV/jVTUXEY=",
+          "py3"
+        ]
+      }
+    },
+    "0.14.6": {
+      "sdist": [
+        "ZAHJbinp7ysVuCyCrq8X44ozxmVa6z9OVQXJ7eN5rwc=",
+        "ccs_fit-0.14.6.tar.gz"
+      ],
+      "wheels": {
+        "ccs_fit-0.14.6-py3-none-any.whl": [
+          "kqE8LVpfL2j046wPatU30aOGcAlFSd2H7EKP1jgvDtA=",
           "py3"
         ]
       }
@@ -54761,6 +54797,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.2": {
+      "sdist": [
+        "7t9bE5NNXFKPW178lU9MfbOdrJLl1iQ13kH6JE3IzBY=",
+        "flask-jwt-token-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "flask_jwt_token-0.1.2-py3-none-any.whl": [
+          "Xgbe+dnVHHcpmUVqltdmr+Diod2BJCHIK+17ilj61wA=",
+          "py3"
+        ]
+      }
     }
   },
   "flask-qiniustorage": {
@@ -56208,6 +56256,14 @@
       "sdist": [
         "5wGt+6kegNYrBGQolkCuP3BCx/KvD6cdHOJq/ntPwBk=",
         "freitag.releaser-2.0.0.tar.gz"
+      ]
+    }
+  },
+  "freqtrae": {
+    "0.1": {
+      "sdist": [
+        "YSXifDJmtW/XKAXu/RbSftPMFRwBugeiNO3yUd7ns0Q=",
+        "freqtrae-0.1.tar.gz"
       ]
     }
   },
@@ -65292,6 +65348,14 @@
         ]
       }
     },
+    "3.1.25": {
+      "wheels": {
+        "huaweicloudsdkcbr-3.1.25-py2.py3-none-any.whl": [
+          "ayHVtSkwHEAggl2j7UlQU/PG+p6nyuKl+1cjpOPiG70=",
+          "py2.py3"
+        ]
+      }
+    },
     "3.1.3": {
       "wheels": {
         "huaweicloudsdkcbr-3.1.3-py2.py3-none-any.whl": [
@@ -65570,6 +65634,14 @@
       "wheels": {
         "huaweicloudsdkvcm-3.1.24-py2.py3-none-any.whl": [
           "x3+qxpWjiUro/sqiRMlLgZ3asvHBt+W5tZtGJqJvg3I=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.25": {
+      "wheels": {
+        "huaweicloudsdkvcm-3.1.25-py2.py3-none-any.whl": [
+          "RnKreyvscsFlEJ4B0ExiY1M31h/wu/ykGxU+Goyc2i0=",
           "py2.py3"
         ]
       }
@@ -66108,6 +66180,14 @@
       "wheels": {
         "huaweicloudsdkvpcep-3.1.24-py2.py3-none-any.whl": [
           "I7zUxwb5wD0sa1QvgAw4CKMoxHCbpTPTa4GCIlel538=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.25": {
+      "wheels": {
+        "huaweicloudsdkvpcep-3.1.25-py2.py3-none-any.whl": [
+          "7vfXK6t4UE9geS0tofFaSjLkXeSWsUTIVctn3b7kmJQ=",
           "py2.py3"
         ]
       }
@@ -69780,6 +69860,12 @@
       "sdist": [
         "iTR5aojFXQLOybSDeki8IsyGZ5O/eFxfDENFHQ3XIgA=",
         "isitkbs-2.0.tar.gz"
+      ]
+    },
+    "2.0.1": {
+      "sdist": [
+        "DHFFKKu1wPNQxkioYI6DyIPEOhOfJX/4WAqdq/eN5dg=",
+        "isitkbs-2.0.1.tar.gz"
       ]
     }
   },
@@ -122338,6 +122424,12 @@
         "rebound-3.23.3.tar.gz"
       ]
     },
+    "3.23.4": {
+      "sdist": [
+        "zFIa7vFBwamT/N3UtnNt/r4jd7maKOylb97/Xtpsp8M=",
+        "rebound-3.23.4.tar.gz"
+      ]
+    },
     "3.3.1": {
       "sdist": [
         "AHsiqnldyTUByAomkqB1WR3Wm1w4WFyZhFc1da0HmNk=",
@@ -157450,6 +157542,18 @@
       "wheels": {
         "xj_user-1.2.78-py3-none-any.whl": [
           "wR6+W5zxEsGb+oJv4xiStxPL/lLlVBEu0e5E6W1+TOM=",
+          "py3"
+        ]
+      }
+    },
+    "1.2.79": {
+      "sdist": [
+        "GB7Y9c0jp2vOKTb0WT+H3O2kNE/+FLhkhlacDkcncts=",
+        "xj_user-1.2.79.tar.gz"
+      ],
+      "wheels": {
+        "xj_user-1.2.79-py3-none-any.whl": [
+          "MUjc6ICV2oc4bIeXbBsoOKoA8P1X0k+tIYy58bH6TFk=",
           "py3"
         ]
       }

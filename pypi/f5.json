@@ -9773,6 +9773,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.78": {
+      "wheels": {
+        "autosubmitconfigparser-0.0.78-py2-none-any.whl": [
+          "cJJoAY6GG01FpgY/EyB/MaE0AMRi757amBSsw8sYrxE=",
+          "py2"
+        ],
+        "autosubmitconfigparser-0.0.78-py3-none-any.whl": [
+          "wQDfpn+eHf4II+nPdBE7gaSDnCrJf0jduvyNh+OTSqk=",
+          "py3"
+        ]
+      }
     }
   },
   "avroknife": {
@@ -17457,6 +17469,14 @@
           "py3"
         ]
       }
+    }
+  },
+  "ccxxt": {
+    "0.1": {
+      "sdist": [
+        "CTKBIr/fBwz2A6chrARgUvAXXFYYIuhrux/S8roBq00=",
+        "ccxxt-0.1.tar.gz"
+      ]
     }
   },
   "cdktf-cdktf-provider-google-beta": {
@@ -32078,6 +32098,18 @@
         ]
       }
     },
+    "2.20.0": {
+      "sdist": [
+        "HRcoObeCTWvtM7ZA7vaUEwG5+UR+j/6JfxIYzTqOJS4=",
+        "dhlab-2.20.0.tar.gz"
+      ],
+      "wheels": {
+        "dhlab-2.20.0-py3-none-any.whl": [
+          "UksnWGJkQtW6/gN6oh+AACc6Dbef8Q+7N1R3mdlYwl0=",
+          "py3"
+        ]
+      }
+    },
     "2.3.0": {
       "sdist": [
         "6dBbXR29ZaNIaO1QMD/MI9ge+3dxUyeeVuEHlVS7g4c=",
@@ -33416,10 +33448,14 @@
     }
   },
   "dingsdk": {
-    "0.0.1": {
+    "1.0.1": {
+      "sdist": [
+        "08VM4YaN0EPQmkkuOtDONz5cEinTYK8q8mTu1j2lMwM=",
+        "dingsdk-1.0.1.tar.gz"
+      ],
       "wheels": {
-        "dingsdk-0.0.1-py3-none-any.whl": [
-          "bBxo2AK5Hwc4khI1HQLbd+Mw2LTRTffjfhI40knmVmg=",
+        "dingsdk-1.0.1-py3-none-any.whl": [
+          "UOswwcLsvUMHs+PFSYb3zwrhZdTkyZP+UDd/dXt44zo=",
           "py3"
         ]
       }
@@ -36196,6 +36232,12 @@
         "django-theme-material-kit-1.0.18.tar.gz"
       ]
     },
+    "1.0.19": {
+      "sdist": [
+        "39qLM1a4S1cxSUg8os6p6MzSF4UE75YTIxxrd/S6k2s=",
+        "django-theme-material-kit-1.0.19.tar.gz"
+      ]
+    },
     "1.0.2": {
       "sdist": [
         "LxKFGCrJbkjU8gmpclxIU9RCq29n9++gHu2jQf3sZ8k=",
@@ -36822,6 +36864,18 @@
       "wheels": {
         "django_tmmis-0.2.0b5-py3-none-any.whl": [
           "FKQrm4O/0D1z+ddf/3jFBr+gfQW/5V3m1hrIWG/9hFg=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.0b6": {
+      "sdist": [
+        "3KbwMQwlKkjwZZXeigYgr0U+N3fcSRNr2VDNJgIPDNA=",
+        "django-tmmis-0.2.0b6.tar.gz"
+      ],
+      "wheels": {
+        "django_tmmis-0.2.0b6-py3-none-any.whl": [
+          "mVGZqbNLTiVX8wc6jvYu9/M9I3HYRXF4qJ4OfR1S4zk=",
           "py3"
         ]
       }
@@ -40000,30 +40054,6 @@
     }
   },
   "drag-resize": {
-    "0.0.1": {
-      "sdist": [
-        "h8tc1zR7ox4a4dEXEKA76Ech5NckGhBK9sHRrl811dA=",
-        "drag_resize-0.0.1.tar.gz"
-      ],
-      "wheels": {
-        "drag_resize-0.0.1-py3-none-any.whl": [
-          "XX6t/edQn8o9Z1W/WNH2qgrqqD8csHQIXf35Z+my8hA=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.2": {
-      "sdist": [
-        "pXhCSv3NuIX6eFU2NFV+QozZUQOAIzN3VtmXLECQSW0=",
-        "drag_resize-0.0.2.tar.gz"
-      ],
-      "wheels": {
-        "drag_resize-0.0.2-py3-none-any.whl": [
-          "7e47ozSDfAywrgHPbieDkQg8JXM/xYlPZuZ+5QiGxS0=",
-          "py3"
-        ]
-      }
-    },
     "0.0.3": {
       "sdist": [
         "yA9azWxO271eMb8MFcTm59tiFUm8mTH3Fh0oMMRD99o=",
@@ -58282,6 +58312,14 @@
         ]
       }
     },
+    "3.1.25": {
+      "wheels": {
+        "huaweicloudsdkugo-3.1.25-py2.py3-none-any.whl": [
+          "fgchNMlCWSlO+CV3c2ZomPUKXvi2cf6v1g9r0exqYQ8=",
+          "py2.py3"
+        ]
+      }
+    },
     "3.1.3": {
       "wheels": {
         "huaweicloudsdkugo-3.1.3-py2.py3-none-any.whl": [
@@ -67444,6 +67482,18 @@
       "wheels": {
         "jupyterlab_language_pack_hy_am-3.5.post4-py2.py3-none-any.whl": [
           "XYSQ6adOhL0GRB86L3UgKdkQFUxp3tbTesI/yf5TW7o=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.6.post0": {
+      "sdist": [
+        "Giv3zVaoYHZ5xWT7XGi58AGlDvUdIe3NB+mZr6UN2vw=",
+        "jupyterlab_language_pack_hy_am-3.6.post0.tar.gz"
+      ],
+      "wheels": {
+        "jupyterlab_language_pack_hy_am-3.6.post0-py2.py3-none-any.whl": [
+          "SDkDUsDuzjypBe92DyLOwNdt6Z8OHl7gBRDVWPep8Oc=",
           "py2.py3"
         ]
       }
@@ -104105,6 +104155,14 @@
           "py3"
         ]
       }
+    },
+    "14.0.1.3.0": {
+      "wheels": {
+        "odoo14_addon_stock_request_submit-14.0.1.3.0-py3-none-any.whl": [
+          "oVdI692DeZq7cVyvu5d8cGY/R6KOpgS+/sJUTQH5GRA=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo14-addons-oca-odoo-pim": {
@@ -108012,6 +108070,18 @@
       "wheels": {
         "otcdocstheme-0.23.0-py3-none-any.whl": [
           "stv5MeIjaBpQCofat/F+0fV7hrFEdUsa1VCmmG6guOg=",
+          "py3"
+        ]
+      }
+    },
+    "0.24.0": {
+      "sdist": [
+        "dgjjVqznhPhbdSdSNb/vrXqXZuz15hIFdsHbxsVOv5w=",
+        "otcdocstheme-0.24.0.tar.gz"
+      ],
+      "wheels": {
+        "otcdocstheme-0.24.0-py3-none-any.whl": [
+          "02m01vzo7LncxfLvHZ6bbfDFGPkXgzt4xDvnY9XuFIc=",
           "py3"
         ]
       }
@@ -130862,6 +130932,18 @@
       "wheels": {
         "reflekt-0.3.0-py3-none-any.whl": [
           "cEXMdsdCjxnpCpSHkcJ8bUdVMB5eXiJZdxu9ffKTwBE=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.1": {
+      "sdist": [
+        "g4NGrmCsT++thdTxStGmW8N+O/WpG5MbCT8JWIv0SkE=",
+        "reflekt-0.3.1.tar.gz"
+      ],
+      "wheels": {
+        "reflekt-0.3.1-py3-none-any.whl": [
+          "jpJY9+1UCyBoA28QTWgpORjwzgE+IBmVQTKI4PSyrAI=",
           "py3"
         ]
       }

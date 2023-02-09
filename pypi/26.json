@@ -8073,6 +8073,18 @@
           "py3"
         ]
       }
+    },
+    "2.64.0a0": {
+      "sdist": [
+        "Pl/K+xp6wHJblSAO83q5od8doQxX5ZhxO+CkRUMNw8M=",
+        "aws-cdk.aws-sagemaker-alpha-2.64.0a0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_sagemaker_alpha-2.64.0a0-py3-none-any.whl": [
+          "TxItzlAzxh1VYzx0mloRhReHf9UFxIxLcrZNPqt4kdM=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-cdk.aws-workspaces": {
@@ -9740,6 +9752,18 @@
       "wheels": {
         "aws_cdk.aws_workspaces-1.191.0-py3-none-any.whl": [
           "0z/49SdxQsqofQzVAP6/029OPV5bkDL0WllBxSIYesA=",
+          "py3"
+        ]
+      }
+    },
+    "1.192.0": {
+      "sdist": [
+        "1Jccqctj0ZKNEeuTheEsYr9Y9fHE37Zcte/tmE25NmE=",
+        "aws-cdk.aws-workspaces-1.192.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_workspaces-1.192.0-py3-none-any.whl": [
+          "Rd9XOz4WXqD1o5SH78wNJFCa3wSKfKRYbkDd40aldS8=",
           "py3"
         ]
       }
@@ -27558,6 +27582,24 @@
       "sdist": [
         "PYszhevzGjYwSnk+wuSwzVI6CNgVXTg3KdUj3dfH6AE=",
         "classe-1.0.4.tar.gz"
+      ]
+    },
+    "1.0.5": {
+      "sdist": [
+        "tMtfqBgF0ca6zafvRCsEGzVTUp7iLdm8VfFRLTuMGkY=",
+        "classe-1.0.5.tar.gz"
+      ]
+    },
+    "1.0.6": {
+      "sdist": [
+        "gD4uVRrVG2M0T1AFKV3jNdl6JzPr4MI8dnk86MvkrD8=",
+        "classe-1.0.6.tar.gz"
+      ]
+    },
+    "1.0.7": {
+      "sdist": [
+        "NSsMiVo8qdwKhMLr7G6DNDvEP+M/r+cm8R2ZfDla+Yg=",
+        "classe-1.0.7.tar.gz"
       ]
     }
   },
@@ -53431,6 +53473,12 @@
         "30kI7OhLkzpPL9ZaGrHsHXilrHBfXEd6aPrmxeDXTCI=",
         "FHColors-2.1.1.tar.gz"
       ]
+    },
+    "2.1.2": {
+      "sdist": [
+        "8fchN9rYrKfy971DSsNYfx5WziSc9jaPn/1A1a4CzZE=",
+        "FHColors-2.1.2.tar.gz"
+      ]
     }
   },
   "file-binary": {
@@ -77540,6 +77588,30 @@
       "wheels": {
         "magicsoup-0.1.1-py3-none-any.whl": [
           "WpKay7DmTxm0oiU5tTmP8+bvMRwVwnXcumfBcZO98eQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.0": {
+      "sdist": [
+        "MOLeRSov2B0XxKOweAYZ72z8YIUhMMEO82stgDA+CQU=",
+        "magicsoup-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "magicsoup-0.2.0-py3-none-any.whl": [
+          "VzXxDvEv1pS22YdEZbf97e/FInrEwF/EZrGf1NNu9nc=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.1": {
+      "sdist": [
+        "hAPaXkc903swgh2bnIRWlSPZKQK1eHapLRNIZptEKaA=",
+        "magicsoup-0.2.1.tar.gz"
+      ],
+      "wheels": {
+        "magicsoup-0.2.1-py3-none-any.whl": [
+          "wKU4sZaSk7mJrcwuHfgA8ND2RK3mlnhV2uGY09F2rgw=",
           "py3"
         ]
       }
@@ -120329,6 +120401,18 @@
           "py3"
         ]
       }
+    },
+    "0.2.0": {
+      "sdist": [
+        "flnCfT6KlrvUN1Ly+lYpcC7XVTtQEUXwQSN/OZvAjCo=",
+        "quantpiler-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "quantpiler-0.2.0-py3-none-any.whl": [
+          "IzzubQ+5iwMR1t4k/W50aaOykNbMAsPdTf4dSbyFbtY=",
+          "py3"
+        ]
+      }
     }
   },
   "quantum-cli": {
@@ -120371,6 +120455,18 @@
         "quarkstudio-6.2.10-cp39-cp39-win_amd64.whl": [
           "Emm9xWexEy+aLuEEVEBIP2LUZS+JQNH7ly2TmxhE9g4=",
           "cp39"
+        ]
+      }
+    },
+    "6.4.0": {
+      "wheels": {
+        "quarkstudio-6.4.0-cp310-cp310-win_amd64.whl": [
+          "0KGA9Nlmf1RgsxU7suG37w0hAqZfpChQg3GjLiyesoI=",
+          "cp310"
+        ],
+        "quarkstudio-6.4.0-cp311-cp311-win_amd64.whl": [
+          "yW+xj2DS7capmuhXzx+5pVItpcIe2fzKqQQi6oMn6cs=",
+          "cp311"
         ]
       }
     }

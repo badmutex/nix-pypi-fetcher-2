@@ -17073,6 +17073,54 @@
           "py3"
         ]
       }
+    },
+    "0.0.4.1a1": {
+      "sdist": [
+        "6yjSLqGsqbNOKvef4XrOkvy8lqlLcjsnUaOtwgM0lKg=",
+        "ayaka-0.0.4.1a1.tar.gz"
+      ],
+      "wheels": {
+        "ayaka-0.0.4.1a1-py3-none-any.whl": [
+          "AlLF7WpzEeNK1rZZlvquPDFCU2VP5+y5YDrzyz7BAU0=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4.1a2": {
+      "sdist": [
+        "GHkuntkcEOQuPX9U9mLAiqWpSqz0ghuisRPRK/hWm8o=",
+        "ayaka-0.0.4.1a2.tar.gz"
+      ],
+      "wheels": {
+        "ayaka-0.0.4.1a2-py3-none-any.whl": [
+          "0e1LF/JXUVJI3MMY5/tOqgxGzVlZ9U+LA7wJ6lzrdI0=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4.1b0": {
+      "sdist": [
+        "OR+AZOcqMj73N95Nwlhx3pabvIDhE3neZzNmAo1xPOs=",
+        "ayaka-0.0.4.1b0.tar.gz"
+      ],
+      "wheels": {
+        "ayaka-0.0.4.1b0-py3-none-any.whl": [
+          "vMyUrfNZxJDVXyCQxItTzjrDhlDStwcpXr7mScm2Dqw=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4.1b1": {
+      "sdist": [
+        "LyoaivuyYGimmEOO4k+8MaSs0EFK2HqlQaqK2EdxP5A=",
+        "ayaka-0.0.4.1b1.tar.gz"
+      ],
+      "wheels": {
+        "ayaka-0.0.4.1b1-py3-none-any.whl": [
+          "6PqmDrI/gw0RsS0GEoaGkuW4MuiHoAnO+E1adKfMlcY=",
+          "py3"
+        ]
+      }
     }
   },
   "azure-cognitiveservices-vision": {
@@ -46136,6 +46184,22 @@
       "wheels": {
         "flax_trainer-0.0.0.3-py3-none-any.whl": [
           "s+GUEuSYBiThq2pKux5wGYUbAYAP1rf74AJCScCo23I=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.0.4": {
+      "wheels": {
+        "flax_trainer-0.0.0.4-py3-none-any.whl": [
+          "oYTz9ZzalA8K8Km2+fg1WcJsnxmzckw5qKs0hbRXNUs=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.0.5": {
+      "wheels": {
+        "flax_trainer-0.0.0.5-py3-none-any.whl": [
+          "CJjI5coUwwpjoLVP02NxFA+mXsHpyCkTGTxyCEY0sLQ=",
           "py3"
         ]
       }
@@ -103774,6 +103838,14 @@
           "QVnULLloX8RU6CRPgZqimy+YcwK8a0odRqhOJw28bEM=",
           "cp310"
         ],
+        "pylebai-1.0.16-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "aRZBBPyVUS1llv2WOiOOYCRfOjWZyepG6/Rw4haYZxM=",
+          "cp310"
+        ],
+        "pylebai-1.0.16-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "+A7FQ2GQWpMNi7gaI5cZfPPhHkVa14dP++cf5CHhZL0=",
+          "cp311"
+        ],
         "pylebai-1.0.16-cp36-cp36m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
           "uu1AvvFCuZdp4cxYrpaLm6hrAM5WOLdCLU/fIp5k07s=",
           "cp36"
@@ -103786,8 +103858,16 @@
           "lh/cSlQkMRLTf5PeSARulcfaCjR4eOd5KoIf9vKMUZY=",
           "cp38"
         ],
+        "pylebai-1.0.16-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "7xJi5IfDAjW+lHLAoI2Nlnm5pUObNfWzz3bkddBy+RE=",
+          "cp38"
+        ],
         "pylebai-1.0.16-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
           "6P5xRCIOuAnUi08qx55wOHaZXFFP5ONO2jr3+wn5udg=",
+          "cp39"
+        ],
+        "pylebai-1.0.16-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "wMAr8UE8eQzbmhQwyMtSw0vTkOcv9on89W3yQF4IfMY=",
           "cp39"
         ],
         "pylebai-1.0.16-pp37-pypy37_pp73-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
@@ -103797,6 +103877,14 @@
         "pylebai-1.0.16-pp38-pypy38_pp73-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
           "VqdKdlRrzgB7dDwHh5NLySXN9zH6QjXHVKKRNt9fE04=",
           "pp38"
+        ],
+        "pylebai-1.0.16-pp38-pypy38_pp73-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "588S69HIsYOaWbivJIiu337ix1HqW+GkNJHlkZPfKng=",
+          "pp38"
+        ],
+        "pylebai-1.0.16-pp39-pypy39_pp73-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "Zu3gLPl0XYBuQMO+dpkQMpcr+dTK61TjwGK8HioXy48=",
+          "pp39"
         ]
       }
     },
@@ -121348,6 +121436,18 @@
       "wheels": {
         "searchads_api-1.7.1-py3-none-any.whl": [
           "5btBz4/0BZH9qbso79EWIABkhG2AFHpxWpc2Lp8fCMM=",
+          "py3"
+        ]
+      }
+    },
+    "1.7.2": {
+      "sdist": [
+        "VyxC8YorPNq+C3kyxIhPZ2loLlwaWED/IO9cnWwLKfc=",
+        "searchads_api-1.7.2.tar.gz"
+      ],
+      "wheels": {
+        "searchads_api-1.7.2-py3-none-any.whl": [
+          "mgAXSSv7SbcBmdjDtt+VTG83/yoqo6New98qcdVCg+M=",
           "py3"
         ]
       }
@@ -152728,6 +152828,12 @@
       "sdist": [
         "2CpAaFWdJIGKzSmuQUQCuIxOB/fP6YODqsegaOGdRHE=",
         "ztfquery-1.21.3.tar.gz"
+      ]
+    },
+    "1.21.4": {
+      "sdist": [
+        "t31SrppI1JzWXlDd6lwUXE+sS87LkeXtpFhwSsIwdOs=",
+        "ztfquery-1.21.4.tar.gz"
       ]
     },
     "1.3.0": {

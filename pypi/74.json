@@ -12580,6 +12580,18 @@
         ]
       }
     },
+    "0.1.1b20230209": {
+      "sdist": [
+        "KLSh7itiFAYQkqsnmaq9FeRESZHMFsQRM6NHMwVjJyk=",
+        "autogluon.cloud-0.1.1b20230209.tar.gz"
+      ],
+      "wheels": {
+        "autogluon.cloud-0.1.1b20230209-py3-none-any.whl": [
+          "wmaNTwpN9/TT65aaJDTyFVORrev8HQdE844IMCVFkbg=",
+          "py3"
+        ]
+      }
+    },
     "0.1b20221229": {
       "sdist": [
         "ETK2odII4rOCP1WhQsFyJ+5WWkhOgItWPTKq6uCY2WM=",
@@ -36097,6 +36109,12 @@
         "85bKcyvDjS8gQSj+xtuOnygNUkwprWLnMRT+B9Povts=",
         "dkpro-cassis-0.7.4.tar.gz"
       ]
+    },
+    "0.7.5": {
+      "sdist": [
+        "EUM+h5PPuxdql5+1G3anIu7iMUcycROKgKu1CTtt40g=",
+        "dkpro-cassis-0.7.5.tar.gz"
+      ]
     }
   },
   "dlh-utils": {
@@ -43351,6 +43369,18 @@
           "py3"
         ]
       }
+    },
+    "0.8.4": {
+      "sdist": [
+        "pmVDcWVZqN80cWnf2y3G7qje1nVkd1xW1wFYb9GzabI=",
+        "fastapi_stack_utils-0.8.4.tar.gz"
+      ],
+      "wheels": {
+        "fastapi_stack_utils-0.8.4-py3-none-any.whl": [
+          "4GCB8amfWa5DluNgUgDzQm/hvrBEzdFhYRvELTFf6HU=",
+          "py3"
+        ]
+      }
     }
   },
   "fastcap": {
@@ -45126,6 +45156,14 @@
       "wheels": {
         "finetuner_stubs-0.12.3rc1-py3-none-any.whl": [
           "NrcJVALPGMmi0MxHZVt11AquT74+27bv736sSPyg8mM=",
+          "py3"
+        ]
+      }
+    },
+    "0.12.4": {
+      "wheels": {
+        "finetuner_stubs-0.12.4-py3-none-any.whl": [
+          "LhoBn5bQdl1d+JXFnAKtPAd/P+014vwUJ1mSG6Y4dt0=",
           "py3"
         ]
       }
@@ -71702,26 +71740,14 @@
     }
   },
   "mllesson": {
-    "0.0.6": {
+    "0.0.8": {
       "sdist": [
-        "6bwVY/3B5UFJUZ52k7gnj3GIQanHTDAy2vDYSxJiHFs=",
-        "mllesson-0.0.6.tar.gz"
+        "t8jdWaSaGalj+5cgU1eDPzRy0Xq/JtLbRkTUP/kz1xs=",
+        "mllesson-0.0.8.tar.gz"
       ],
       "wheels": {
-        "mllesson-0.0.6-py3-none-any.whl": [
-          "T+ncLdCnrzFc5VirQBAktA6V6eJD/LEcGcSkHGl9o6I=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.7": {
-      "sdist": [
-        "fe7sY2JY6u1XJffhgmGh8Z2m5xiQqdgehiYe+tVgDBU=",
-        "mllesson-0.0.7.tar.gz"
-      ],
-      "wheels": {
-        "mllesson-0.0.7-py3-none-any.whl": [
-          "gC8vwCYBatmuUtXLmeTQpu5bQyOTs2xoOg07xQceYlA=",
+        "mllesson-0.0.8-py3-none-any.whl": [
+          "Z4jdeMgGlOlL5vaierUQv3YvWtkmnw+xP5cH4Ronmks=",
           "py3"
         ]
       }
@@ -72316,6 +72342,14 @@
       "wheels": {
         "moz_measure_noise-2.59.0.2-py3-none-any.whl": [
           "Sb3gOUrSp1wjyGUCrV0m55lVf0yuyxzfedb+Dku8QTE=",
+          "py3"
+        ]
+      }
+    },
+    "2.60.0.2": {
+      "wheels": {
+        "moz_measure_noise-2.60.0.2-py3-none-any.whl": [
+          "QUelbB/S9I8jg3o3mSjLRS1gZ3x3FrGhO2o7G0nThKw=",
           "py3"
         ]
       }
@@ -109415,6 +109449,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.2": {
+      "sdist": [
+        "FzJfMbER4EUVrzFM5ehrX1VwvmFy/w9/s4MXOW1XRPw=",
+        "PToolkit-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "PToolkit-1.0.2-py3-none-any.whl": [
+          "aH+Jhb3wEglO5Thpc/dAjppG4jJEGdVyeRZB8R35lNw=",
+          "py3"
+        ]
+      }
     }
   },
   "pubfind": {
@@ -126904,6 +126950,12 @@
       "sdist": [
         "jT1puvyerLPQivW+88bvsQAhouPwDQNetEEpdKDUVas=",
         "salure_helpers_profit-1.0.5.tar.gz"
+      ]
+    },
+    "1.1.0": {
+      "sdist": [
+        "SEcGDyBuOM0NvJJbwzDQQxqwPfxZ9qa53ZrjUxL9ea4=",
+        "salure_helpers_profit-1.1.0.tar.gz"
       ]
     }
   },

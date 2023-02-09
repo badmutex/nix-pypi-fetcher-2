@@ -12304,6 +12304,18 @@
         ]
       }
     },
+    "1.192.0": {
+      "sdist": [
+        "yfeMDV3Nc98JxjsR3DZN6W1OYCUe24eUY0okHtsJohA=",
+        "aws-cdk.aws-servicecatalogappregistry-1.192.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_servicecatalogappregistry-1.192.0-py3-none-any.whl": [
+          "QxO2CtT9RzkvCfYnKEoZuyrz3gau6PgB9dFIJJhBfLY=",
+          "py3"
+        ]
+      }
+    },
     "1.86.0": {
       "sdist": [
         "DGaSR0ZIdUdSgAZgWvnwrqHug49lVXq7AzsIEJe8JWY=",
@@ -17588,6 +17600,12 @@
       "sdist": [
         "MJO9zgx22iqEyL3cH6s5unSGqTa8vZWBrIZrHYKbqWA=",
         "browserstack_sdk-1.4.0.tar.gz"
+      ]
+    },
+    "1.4.2": {
+      "sdist": [
+        "8WP5J4UwoGjVuDReS+Xxis0+wJ1WuKa1mktNqgGT3KA=",
+        "browserstack_sdk-1.4.2.tar.gz"
       ]
     }
   },
@@ -29044,6 +29062,18 @@
       "wheels": {
         "crazy_thursday-2023.2.9.0-py3-none-any.whl": [
           "ufmF/0H73QQIHBiAA30dsrcmzVmmFXp02cBGuIHpReA=",
+          "py3"
+        ]
+      }
+    },
+    "2023.2.9.1": {
+      "sdist": [
+        "m2CKUgn2HjKazWeDPLAaHrzkP3QIA0YG+ka7CKHZHOI=",
+        "crazy-thursday-2023.2.9.1.tar.gz"
+      ],
+      "wheels": {
+        "crazy_thursday-2023.2.9.1-py3-none-any.whl": [
+          "FweXYg0FNEJ80Kt/5K1wTXkTlb89sdo1sF4ZASig/l4=",
           "py3"
         ]
       }
@@ -45551,6 +45581,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.4": {
+      "sdist": [
+        "JnJMLlIIu0jCd3I5QlHcd4q90Lp6b/82xPCOESmxjz0=",
+        "eds-scikit-0.1.4.tar.gz"
+      ],
+      "wheels": {
+        "eds_scikit-0.1.4-py3-none-any.whl": [
+          "gmrDGoLkui5pMGUDtzPOPteXGqdgo8LB0a9c7IsyU0o=",
+          "py3"
+        ]
+      }
     }
   },
   "eemont": {
@@ -50633,6 +50675,14 @@
       ]
     }
   },
+  "freqqtrade": {
+    "0.1": {
+      "sdist": [
+        "6lHqSdt9EkD7lRIzQznN+rYiNKUYZH8CsMBlB2wzIf0=",
+        "freqqtrade-0.1.tar.gz"
+      ]
+    }
+  },
   "fs-googledrivefs": {
     "0.0.1": {
       "wheels": {
@@ -54588,6 +54638,18 @@
       "wheels": {
         "google_maps_routing-0.3.1-py3-none-any.whl": [
           "IGCB8joXjdeiYPxj3BDbA3CFKtJC/xGYWETSBpbRIgA=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.0": {
+      "sdist": [
+        "pi3KR4XYCgHH0mYXbwbX3gXJGORvJfIyac6X+7Ms1es=",
+        "google-maps-routing-0.4.0.tar.gz"
+      ],
+      "wheels": {
+        "google_maps_routing-0.4.0-py3-none-any.whl": [
+          "t6aByPPaDrZGGHV9zLF1rmO8EdLV9AUhcW94fo79Qbs=",
           "py3"
         ]
       }
@@ -64568,6 +64630,18 @@
       "wheels": {
         "isolate-0.1.0-py3-none-any.whl": [
           "NqLmyrvl/19Wa00RkS5esg89+TE3nrugR/rqGUoYmqw=",
+          "py3"
+        ]
+      }
+    },
+    "0.10.0": {
+      "sdist": [
+        "AcbLX7gDKG5DAC4fFlI1QCq+bDf/4BqpKdX8PHerq0U=",
+        "isolate-0.10.0.tar.gz"
+      ],
+      "wheels": {
+        "isolate-0.10.0-py3-none-any.whl": [
+          "kBug5AF3vf6D732ubE4PNYNG/Crdz/TImDTbQaXVW9g=",
           "py3"
         ]
       }
@@ -93015,6 +93089,18 @@
           "py3"
         ]
       }
+    },
+    "1.5.1": {
+      "sdist": [
+        "3HONb9ZWV4/6CQvIKF848BFF3WxwIcF+MG4x/eoFLWg=",
+        "nonebot_plugin_searchbiliinfo-1.5.1.tar.gz"
+      ],
+      "wheels": {
+        "nonebot_plugin_searchbiliinfo-1.5.1-py3-none-any.whl": [
+          "LLtUOk4Yh5zlrsSTzb3pkWVI8qCPxe3OdZs1Hz6GxKo=",
+          "py3"
+        ]
+      }
     }
   },
   "nosql2django": {
@@ -107913,6 +107999,32 @@
         "vag8BVgVruc1Y8MueRCvEVy9JR9zmxunT7dKETt2/T4=",
         "printListModule-1.0.0.tar.gz"
       ]
+    }
+  },
+  "pript": {
+    "0.0.1": {
+      "sdist": [
+        "lMnooA1V/LkkG0y/MCZRhDzXRQuKzJqpJtUGRbzCAK4=",
+        "pript-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "pript-0.0.1-py3-none-any.whl": [
+          "OTBPw7HZ4YuGNm526bBBKXhAx6/ja0GQE+UOJ964MTQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "UM+DMRlLenc1zPQ28LtuBuArSAJqmlSKQPtUhZ6bNwk=",
+        "pript-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "pript-0.0.2-py3-none-any.whl": [
+          "sjnVOfMdf+FnQ31lEYamKOZAAKCKQDgKAFDv0YNln6Y=",
+          "py3"
+        ]
+      }
     }
   },
   "proactive-jupyter-kernel": {
@@ -125984,6 +126096,30 @@
       "wheels": {
         "redflagbpm-0.0.23-py3-none-any.whl": [
           "yIhhOhr4siMabbLiwX+TbHgmO0nFwkyJ++yr9ZslCcA=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.24": {
+      "sdist": [
+        "rXtRr30+QKz5l59hYE9JvDsCqDDwsaymqblyBeboO5I=",
+        "redflagbpm-0.0.24.tar.gz"
+      ],
+      "wheels": {
+        "redflagbpm-0.0.24-py3-none-any.whl": [
+          "wJoOu622ZHBqEFbTz8hoBPq9/Z2NMjkqO9nTuIpwOWY=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.25": {
+      "sdist": [
+        "l7MiDLPkbI6xEgF94RhWMjirrrLKoRImF9ngICd1b/8=",
+        "redflagbpm-0.0.25.tar.gz"
+      ],
+      "wheels": {
+        "redflagbpm-0.0.25-py3-none-any.whl": [
+          "/lZ0YZMXMainJCs9lbe7JP2jufdfMyNoZ8qIYw2YUic=",
           "py3"
         ]
       }
@@ -151628,6 +151764,18 @@
       "wheels": {
         "twitterbloc-1.1.1-py3-none-any.whl": [
           "SqJcJPGcMTSxbwNKYYavvGkUCXS/N9duCIQh2NUpLV0=",
+          "py3"
+        ]
+      }
+    },
+    "1.2.0": {
+      "sdist": [
+        "jbPwJlQoonE3a+3CYMN3tUNlv+cDat4eYYbByCQ7Ryw=",
+        "twitterbloc-1.2.0.tar.gz"
+      ],
+      "wheels": {
+        "twitterbloc-1.2.0-py3-none-any.whl": [
+          "ScKkCTiFWF+JWMpG/w81OKrxFTpWezU7euByWWwMxLo=",
           "py3"
         ]
       }

@@ -7310,6 +7310,18 @@
         ]
       }
     },
+    "1.192.0": {
+      "sdist": [
+        "WpxWnlUy9Hkq/7MrIZ/FZrKHil+9HjRTxFMM3PB2Ems=",
+        "aws-cdk.aws-iotwireless-1.192.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_iotwireless-1.192.0-py3-none-any.whl": [
+          "ZVChA8w2iDv+Yg74umspoX3bgptZ2HnGbW8KNRrLDqY=",
+          "py3"
+        ]
+      }
+    },
     "1.83.0": {
       "sdist": [
         "315sXFQZeNo9bjzF3uZTKNVIWYH/RyqGDDnRm23xl4w=",
@@ -45065,6 +45077,18 @@
         "y4ZKk3EkdDIXHqicCHOqTdsnhKOXuv8WRvR45kYzrec=",
         "flythings-2.2.3.zip"
       ]
+    },
+    "2.2.4": {
+      "sdist": [
+        "J6VEYHdCzXRCktyFj641SQJ5BMS/XaGGxVF1iJzH2RA=",
+        "flythings-2.2.4.zip"
+      ]
+    },
+    "2.2.5": {
+      "sdist": [
+        "s3V9Qq63J3/Ryck7uoi3rb8PTPEjW0F30bgsnPwCz2E=",
+        "flythings-2.2.5.zip"
+      ]
     }
   },
   "foamclient": {
@@ -53322,6 +53346,50 @@
         ]
       }
     },
+    "0.21.0": {
+      "sdist": [
+        "gqQZcA3NWs/lLWpF1dySUbzwvL2JZOUhwWjBq3H6UFg=",
+        "html_parsing_tools-0.21.0.tar.gz"
+      ],
+      "wheels": {
+        "html_parsing_tools-0.21.0-cp310-cp310-macosx_10_7_x86_64.whl": [
+          "gMdPu+yPn25dScituoheAwIUyW6pu44s3mvneXoHKzc=",
+          "cp310"
+        ],
+        "html_parsing_tools-0.21.0-cp310-cp310-manylinux_2_34_x86_64.whl": [
+          "zIhvYaykSQvB+0Tmbi8FehfildJlkJFw8nvqmkfARhU=",
+          "cp310"
+        ],
+        "html_parsing_tools-0.21.0-cp311-cp311-macosx_10_7_x86_64.whl": [
+          "HghhZkvh1Y6sewGDSIJRkBD+FjIYmka8B2os+0fQxKg=",
+          "cp311"
+        ],
+        "html_parsing_tools-0.21.0-cp311-cp311-manylinux_2_34_x86_64.whl": [
+          "6cqSR2dkKqWVGBVX1CHKAFtyYqQPbP1eG8Lrxpp5gWk=",
+          "cp311"
+        ],
+        "html_parsing_tools-0.21.0-cp311-none-win_amd64.whl": [
+          "M0CH9yNeMtaQUB/VBIXLtAGk8tkAWgTQv3ouGlMe+XI=",
+          "cp311"
+        ],
+        "html_parsing_tools-0.21.0-cp38-cp38-macosx_10_7_x86_64.whl": [
+          "73eZtPZMdU7RvskQSEb8yYtFOaNmukRgA8579rU7ebc=",
+          "cp38"
+        ],
+        "html_parsing_tools-0.21.0-cp38-cp38-manylinux_2_34_x86_64.whl": [
+          "7yjb18ua2sMS2hudOzq3aWt6Y8UwzHmbXTjxjPuZ4KU=",
+          "cp38"
+        ],
+        "html_parsing_tools-0.21.0-cp39-cp39-macosx_10_7_x86_64.whl": [
+          "FvoGhK4fmGwxrZGYdiCyV+83LzfD2nFUduWj/iPWGXE=",
+          "cp39"
+        ],
+        "html_parsing_tools-0.21.0-cp39-cp39-manylinux_2_34_x86_64.whl": [
+          "XnQevi9K+mO6eqxKdNLcJqT+DM3WROQNp6K5pl6tG+4=",
+          "cp39"
+        ]
+      }
+    },
     "0.3.0": {
       "sdist": [
         "WyUHc+CpNW5cQJFEJix6yI5Mz1gkS0lwPgLts1mO3ko=",
@@ -60197,6 +60265,18 @@
           "py3"
         ]
       }
+    },
+    "0.6.2": {
+      "sdist": [
+        "UxJnROtfTHXPFpkL+yGTi63F6h214D5nT/6tlfR2qI8=",
+        "jupyterlite-xeus-python-0.6.2.tar.gz"
+      ],
+      "wheels": {
+        "jupyterlite_xeus_python-0.6.2-py3-none-any.whl": [
+          "Oopr9Jliqwrlk+hJrBNXbCGq3V8ZzRo+2QBlOYDZIUg=",
+          "py3"
+        ]
+      }
     }
   },
   "jurry-nester": {
@@ -62152,6 +62232,12 @@
       "sdist": [
         "Te5t/0N3yqbxpPmuhrOfXb+PX8Ng1HegGAyZfkUD8tk=",
         "la_panic-0.4.7.tar.gz"
+      ]
+    },
+    "0.4.8": {
+      "sdist": [
+        "1WQZ6eG5EiZcTfiOO5yrlwESidd1HmUZLfOhx433kGw=",
+        "la_panic-0.4.8.tar.gz"
       ]
     }
   },
@@ -116673,6 +116759,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.3": {
+      "sdist": [
+        "pn1ZpzyyIadTx7uTFYHS5LdpJ+zJgQ9+Jr+w/ExO9a8=",
+        "pyvista-xarray-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "pyvista_xarray-0.1.3-py3-none-any.whl": [
+          "XZk47eyn63ALlSXGSBVwWifYa9SqdH07MAf6rIrytZY=",
+          "py3"
+        ]
+      }
     }
   },
   "pyvoronoi": {
@@ -143526,6 +143624,18 @@
       "wheels": {
         "tompy-0.16.0-py3-none-any.whl": [
           "8aCAXffT35aPge7LjXL15FwPOIkRaiZlGE3FqJCcNA8=",
+          "py3"
+        ]
+      }
+    },
+    "0.17.0": {
+      "sdist": [
+        "U3eGsn8KixoTzJ3VAVF6wqOSHySRONDYAKSGnTP2jas=",
+        "tompy-0.17.0.tar.gz"
+      ],
+      "wheels": {
+        "tompy-0.17.0-py3-none-any.whl": [
+          "OnXKlATw7pLZEymVgV9cv3gI0RCRJaY9IoM8v6Lh4gQ=",
           "py3"
         ]
       }

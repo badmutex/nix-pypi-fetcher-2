@@ -8368,6 +8368,18 @@
         ]
       }
     },
+    "1.192.0": {
+      "sdist": [
+        "EsWM9oT87e3aDFoU0key9KKHCuV6H+A6vUKh4MN1zZ8=",
+        "aws-cdk.aws-lambda-destinations-1.192.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_lambda_destinations-1.192.0-py3-none-any.whl": [
+          "vk39E87fV8w65CkUrrAy2BvKkBT29rYRU3AV84oiA7k=",
+          "py3"
+        ]
+      }
+    },
     "1.20.0": {
       "sdist": [
         "Ba9L4lSOPeof4mVIIY81YRdyy2xpTRGLvvsbAZzd6EI=",
@@ -11186,6 +11198,18 @@
       "wheels": {
         "aws_cdk.aws_rds-1.191.0-py3-none-any.whl": [
           "Gaq4p3Jcp10hffznct5M26ukrzM20IcjrvuISMNptU0=",
+          "py3"
+        ]
+      }
+    },
+    "1.192.0": {
+      "sdist": [
+        "jnecr+UPrqAQ8yeH2Fr/xAzn1a5lG8e0Fv6ygsswElg=",
+        "aws-cdk.aws-rds-1.192.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_rds-1.192.0-py3-none-any.whl": [
+          "7g/3NRRMV0DtNCEkbw63BMYFDhsabxPA9bIWYmlG2aA=",
           "py3"
         ]
       }
@@ -62088,6 +62112,14 @@
         ]
       }
     },
+    "3.1.25": {
+      "wheels": {
+        "huaweicloudsdkosm-3.1.25-py2.py3-none-any.whl": [
+          "Voh9JqZ11/jXcvEtN4z6h+PJA185b8UoGL/lbiQ4ISs=",
+          "py2.py3"
+        ]
+      }
+    },
     "3.1.3": {
       "wheels": {
         "huaweicloudsdkosm-3.1.3-py2.py3-none-any.whl": [
@@ -68084,6 +68116,12 @@
       "sdist": [
         "8Jh+mbBK5aQY8E8vA7prgHz+tYHl2MLSdrSIMdaQD6E=",
         "insights-core-3.1.5.tar.gz"
+      ]
+    },
+    "3.1.6": {
+      "sdist": [
+        "62JLTLZB2KosfdZpwFPx/6aEStcEK4ikT0z9K0X8IWE=",
+        "insights-core-3.1.6.tar.gz"
       ]
     }
   },
@@ -110719,6 +110757,42 @@
           "py3"
         ]
       }
+    },
+    "23.2.5": {
+      "sdist": [
+        "HUAYd4FwJ6dtlSSi0KBvtuai3mjfjmA8WMRzVLmKD0E=",
+        "pontos-23.2.5.tar.gz"
+      ],
+      "wheels": {
+        "pontos-23.2.5-py3-none-any.whl": [
+          "/KDLb3m27flajY9fjt3Y/jYcBLr9yuFKAyyM+jIjYGE=",
+          "py3"
+        ]
+      }
+    },
+    "23.2.6": {
+      "sdist": [
+        "VAWGk12VCiPf5fdjlygkd3feiOqlr/dGwOjBtOMV7Uc=",
+        "pontos-23.2.6.tar.gz"
+      ],
+      "wheels": {
+        "pontos-23.2.6-py3-none-any.whl": [
+          "Oh1L6MOHc+jqJKqA2UOaCGWTRP+ua5RJz8VPNI6q+lw=",
+          "py3"
+        ]
+      }
+    },
+    "23.2.7": {
+      "sdist": [
+        "Xyxw3OJhddaDXHwxgUES24VRGpGzqIr0LmlbNeLGjXw=",
+        "pontos-23.2.7.tar.gz"
+      ],
+      "wheels": {
+        "pontos-23.2.7-py3-none-any.whl": [
+          "m7cuh8U6Csk86nDTOzEQjHuKkGkYFzVq8dPF1sx/sK4=",
+          "py3"
+        ]
+      }
     }
   },
   "poo-poo": {
@@ -126234,6 +126308,14 @@
       "wheels": {
         "quasielasticbayes-1.0.0a11-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "e8HHg5zKayN9fEHKJu8/l/23G1bTQ1XjzG0U3azDRWg=",
+          "cp38"
+        ]
+      }
+    },
+    "1.0.0a12": {
+      "wheels": {
+        "quasielasticbayes-1.0.0a12-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "04k6YzgGDYdPoEm2w9T6PvLQ71a0y5Rrh0sRGI3/1gc=",
           "cp38"
         ]
       }

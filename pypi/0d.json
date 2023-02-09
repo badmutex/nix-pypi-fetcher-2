@@ -806,6 +806,58 @@
         ]
       }
     },
+    "1.2.20": {
+      "wheels": {
+        "accera_llvm-1.2.20-cp310-cp310-macosx_11_0_x86_64.whl": [
+          "HYAK40yltv74KTJaxhgyA5LBDPB1JCdtGanc3LdtMho=",
+          "cp310"
+        ],
+        "accera_llvm-1.2.20-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "HD+bVTvXDr7fyyp9r79U6Rbuo5t9Ms1H+9Lyg/RSes8=",
+          "cp310"
+        ],
+        "accera_llvm-1.2.20-cp310-cp310-win_amd64.whl": [
+          "g9LmpdBfIb44cnLvCnlo/pz94JQkat/cKhsttmf/mjQ=",
+          "cp310"
+        ],
+        "accera_llvm-1.2.20-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "0m7AuevVhy07epPVO2kbcSrcwIaxq8PvgZuwLlC4E94=",
+          "cp37"
+        ],
+        "accera_llvm-1.2.20-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "soEomyq+S166XAfsxKkoswgsJ/MkAacsm6isjpkvqM0=",
+          "cp37"
+        ],
+        "accera_llvm-1.2.20-cp37-cp37m-win_amd64.whl": [
+          "9ooqyIqB0oUubJ6Qe4lbhTqEpTP4hFgCdq0G+YEHZPM=",
+          "cp37"
+        ],
+        "accera_llvm-1.2.20-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "wdr1p0/yz3r+oVkHMg4BexjbbC1lcaabTNHHUcNtupY=",
+          "cp38"
+        ],
+        "accera_llvm-1.2.20-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "N7CM7OyitlVD4y0GmCftOsD+4/qHVahW4rjRmFSWjNs=",
+          "cp38"
+        ],
+        "accera_llvm-1.2.20-cp38-cp38-win_amd64.whl": [
+          "lE3QFkb830EQkgArxNgx3Crtj/o6AxDmCTyAAFcMZDI=",
+          "cp38"
+        ],
+        "accera_llvm-1.2.20-cp39-cp39-macosx_11_0_x86_64.whl": [
+          "Aoe7nMTsoBHhoB8eEruEEw5DbZsHLUrVjvbLfLE593Y=",
+          "cp39"
+        ],
+        "accera_llvm-1.2.20-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "UR23yDFR9nh16aHN5cEZdppe6xKpISTIBUskPM+Xr8s=",
+          "cp39"
+        ],
+        "accera_llvm-1.2.20-cp39-cp39-win_amd64.whl": [
+          "EUCAH0tWxiL8vBkc94HJMWIQ0U/OavIvJkh27JXRcpg=",
+          "cp39"
+        ]
+      }
+    },
     "1.2.8": {
       "wheels": {
         "accera_llvm-1.2.8-cp310-cp310-macosx_10_15_x86_64.whl": [
@@ -16322,6 +16374,18 @@
         ]
       }
     },
+    "0.14.2": {
+      "sdist": [
+        "L04YQK525SJHek36++fCisHVqHSNBcIXHeKzPHLRPow=",
+        "aws_prototyping_sdk.identity-0.14.2.tar.gz"
+      ],
+      "wheels": {
+        "aws_prototyping_sdk.identity-0.14.2-py3-none-any.whl": [
+          "DSMibblkazu71ZYLlQeskCixF8UK1tVre7b1zwhdXps=",
+          "py3"
+        ]
+      }
+    },
     "0.2.0": {
       "sdist": [
         "ERO5yrlsVA4uZaYRIy8g5Bw/WKR508UkqLxYdOqM7wM=",
@@ -26728,6 +26792,12 @@
         "canonical-0.20.0.tar.gz"
       ]
     },
+    "0.21.0": {
+      "sdist": [
+        "1i7YhHsNU5/D5m8zEy0obC7iTxSFhNnsGigKMKnc09E=",
+        "canonical-0.21.0.tar.gz"
+      ]
+    },
     "0.3.0": {
       "sdist": [
         "Qo1YaGRafw4SG1wl8Wdqbq4mh9GzxKoZyqszSrtLjjE=",
@@ -27812,6 +27882,18 @@
       "wheels": {
         "cdxbasics-0.2.18-py3-none-any.whl": [
           "QiNcSTTT52M5bXUyJrA+sUsK9V7IEkP6Bya6bMyExlA=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.19": {
+      "sdist": [
+        "G4+JkzHrXjoj1TJ2H4L8BEOOblWSjYf7+2/9iNLtUfs=",
+        "cdxbasics-0.2.19.tar.gz"
+      ],
+      "wheels": {
+        "cdxbasics-0.2.19-py3-none-any.whl": [
+          "guJ+74v2u3UDOcTfVxy26XT+paRPY+BKZPm8z9ERMf4=",
           "py3"
         ]
       }
@@ -46897,6 +46979,12 @@
         "SGHGYHx+UDptvauU1sE5bn1qy070NtJwuEWL9hIVagQ=",
         "encode-netflow-0.1.9.tar.gz"
       ]
+    },
+    "0.2.0": {
+      "sdist": [
+        "r1EvQ9ew+3TjeK2YijfMfSPpQGwGqU5xAymbnM3xn+0=",
+        "encode-netflow-0.2.0.tar.gz"
+      ]
     }
   },
   "energinet-ml-sdk": {
@@ -55022,6 +55110,154 @@
         ],
         "fastasr-0.0.3-cp39-cp39-win_amd64.whl": [
           "K7/DsGZS20PsWPprmC4CzfcaC7JcSPw3LbFb/04D1Vg=",
+          "cp39"
+        ]
+      }
+    },
+    "0.0.4": {
+      "wheels": {
+        "fastasr-0.0.4-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "9iXMAAtQYicdCskjH7mZ3atTFXI/N5xNvryLr8vZSuk=",
+          "cp310"
+        ],
+        "fastasr-0.0.4-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "TRbbsHlAkeoZ7lzq/n5nI+v7jl9x+8as6kkxghlx2Ok=",
+          "cp310"
+        ],
+        "fastasr-0.0.4-cp310-cp310-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "2y3Za8iB6WKOi96uz9L4zjs/oUoQFnW+bY+pxIPMTEs=",
+          "cp310"
+        ],
+        "fastasr-0.0.4-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "J9VVRlutmtD7RBZa3O11W1rMEZqUVxDabbVfvk9qS7E=",
+          "cp310"
+        ],
+        "fastasr-0.0.4-cp310-cp310-win32.whl": [
+          "RJdEzrmDPaK+NWCN1DGpbxDRGdBk9w3x1gY8u0KdwPM=",
+          "cp310"
+        ],
+        "fastasr-0.0.4-cp310-cp310-win_amd64.whl": [
+          "X8fVLbIn2koLO3kS+y+Xg78D6b036qp1MU/eXzAP1eY=",
+          "cp310"
+        ],
+        "fastasr-0.0.4-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "NtvLTPjc47kJMlOkFyuSX0KvEyTvlUsgRof4PQX6C3k=",
+          "cp311"
+        ],
+        "fastasr-0.0.4-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "rX6u91An92Uoxq6AC0yFhc2DZKaMaA1+G1QQ26VTMQs=",
+          "cp311"
+        ],
+        "fastasr-0.0.4-cp311-cp311-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "3vong1NDlHJYF9aLK1fDY/g0jcAJG2Tq9M37kpUvrjg=",
+          "cp311"
+        ],
+        "fastasr-0.0.4-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "WHBOfaG78YXBq+lDjklr5LRv1yN5DtiRucZhRTtkTDQ=",
+          "cp311"
+        ],
+        "fastasr-0.0.4-cp311-cp311-win32.whl": [
+          "z1bt350XDf+or8gWto4QJcQ35oroxTxjtViKHVdblM8=",
+          "cp311"
+        ],
+        "fastasr-0.0.4-cp311-cp311-win_amd64.whl": [
+          "/9Ne18iI4OyDcMS6b5QIhefxNIy6ASfZWj7eSBo85PM=",
+          "cp311"
+        ],
+        "fastasr-0.0.4-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "YPSjOHQAmiAtHS6nLU5P5wUSizHh2Uj3f6EPp1qSvNE=",
+          "cp36"
+        ],
+        "fastasr-0.0.4-cp36-cp36m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "lg/G2znT8jSFmCZQRyTHqXQfe/htZlnaFQFWGMeagms=",
+          "cp36"
+        ],
+        "fastasr-0.0.4-cp36-cp36m-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "aEWTHCtt+7MfZDYQQJrgyD58fpRddfaO3g5KQqA3yno=",
+          "cp36"
+        ],
+        "fastasr-0.0.4-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "IV5ed26ec0SU/7wSAXLEDoblEGNiwKIFjq6rrGTqV4c=",
+          "cp36"
+        ],
+        "fastasr-0.0.4-cp36-cp36m-win32.whl": [
+          "UzJoc1r+sWCc+8i20PKl/psO/EXYB+z9wBmHw4hra4w=",
+          "cp36"
+        ],
+        "fastasr-0.0.4-cp36-cp36m-win_amd64.whl": [
+          "sXUjWxyWgvjmZfSFApk5Q3D9D9MdzVHQIC+WluFlRaw=",
+          "cp36"
+        ],
+        "fastasr-0.0.4-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "c3WXhYH9CUi5KwWXbnDJeKYQx5Iw181CspXNrUYgVC0=",
+          "cp37"
+        ],
+        "fastasr-0.0.4-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "Sqmz61crHxyB+/yUlUd2eqxroNDx0s3HqwezsQ3nP/A=",
+          "cp37"
+        ],
+        "fastasr-0.0.4-cp37-cp37m-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "blQNNyOAZb0UpgWx442PGG55K4UkFmwk4VV04BMuBio=",
+          "cp37"
+        ],
+        "fastasr-0.0.4-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "KBj+UcfHUbEkj4gOOStTvwNKUh4SUYVGHAEiiYTLBHE=",
+          "cp37"
+        ],
+        "fastasr-0.0.4-cp37-cp37m-win32.whl": [
+          "nxWle/EymlBrWNokq6tJc7FCPCzQ2WJ/H53VRvzV378=",
+          "cp37"
+        ],
+        "fastasr-0.0.4-cp37-cp37m-win_amd64.whl": [
+          "SS02HS6Fc9iXkGR2zLvDFQWdpkINLByE3D6bAcLkZ3A=",
+          "cp37"
+        ],
+        "fastasr-0.0.4-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "85pxeYzVMO7pQZzZfGWtaJCvuI5p5yYHNVm96TxV5zc=",
+          "cp38"
+        ],
+        "fastasr-0.0.4-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "IRxEJFK7Ya4IAah0Qu5Ug/t/VztO7T14CASD3Tv4mZ0=",
+          "cp38"
+        ],
+        "fastasr-0.0.4-cp38-cp38-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "H/jNx4zkjNoFDp0FKkLjbC7bH9vEglZicjCyz8QV1tY=",
+          "cp38"
+        ],
+        "fastasr-0.0.4-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "jwxK9s6C73XlQWX90qzuJB7mjuxbm7aygcaxegurHdQ=",
+          "cp38"
+        ],
+        "fastasr-0.0.4-cp38-cp38-win32.whl": [
+          "lDdLFa6Cp9a9+WQ859vPGtl9IuAxwbKximNrQpoLwvk=",
+          "cp38"
+        ],
+        "fastasr-0.0.4-cp38-cp38-win_amd64.whl": [
+          "OygGhFrFg5NiTdciar0K2NbAJwNtyhUREJx3oJaw94E=",
+          "cp38"
+        ],
+        "fastasr-0.0.4-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "gux3X0z8P/YXQsA1eYFygVgkHpSXPAW+vPo0qaXPzms=",
+          "cp39"
+        ],
+        "fastasr-0.0.4-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "xzPOsetmVivaiU9HSUuB30QXl9Hc1RQt3ko6PnnzCtU=",
+          "cp39"
+        ],
+        "fastasr-0.0.4-cp39-cp39-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "AXjoOHIQ6swgI6VRYguCH0DpoPWZedZjtPzJact7Y64=",
+          "cp39"
+        ],
+        "fastasr-0.0.4-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "xqEHPLCX7/4LMNE2CraE7ZJT6MYGXACF8Ro25pt6Zrw=",
+          "cp39"
+        ],
+        "fastasr-0.0.4-cp39-cp39-win32.whl": [
+          "EtkTy7isIRBgWt3MKJ8LH4cFNJ+qT/StAGYY60Br+Xk=",
+          "cp39"
+        ],
+        "fastasr-0.0.4-cp39-cp39-win_amd64.whl": [
+          "3HSL7I//Vnq3ZvUdyd5eWSe0n5Q4/i2hcvCOK74WHCQ=",
           "cp39"
         ]
       }
@@ -70627,6 +70863,20 @@
       }
     }
   },
+  "jinye-f-shi-ben-xiang-liangge-ni-suozai-de-chezhan-jiyuesheng-20210912": {
+    "2023.2.9.0": {
+      "sdist": [
+        "TkhrTFrkMxL6lGThDqUmPMZAVABzLdiuX/DrjrXEvdA=",
+        "jinye-f-shi-ben-xiang-liangge-ni-suozai-de-chezhan-jiyuesheng-20210912-2023.2.9.0.tar.gz"
+      ],
+      "wheels": {
+        "jinye_f_shi_ben_xiang_liangge_ni_suozai_de_chezhan_jiyuesheng_20210912-2023.2.9.0-py3-none-any.whl": [
+          "WCabvfsJJBfGQ78ZaR4dgXgLQAC6FsFH18bf02udiek=",
+          "py3"
+        ]
+      }
+    }
+  },
   "jobspire-nitra": {
     "0.0.1": {
       "sdist": [
@@ -71553,6 +71803,14 @@
           "py2.py3"
         ]
       }
+    }
+  },
+  "jwt-rsa": {
+    "66.0.0": {
+      "sdist": [
+        "S0DDXnh6ex64ySs1dHH/CFADIFzp3eitwGm8KmtP/Ow=",
+        "jwt-rsa-66.0.0.tar.gz"
+      ]
     }
   },
   "kafka-bridge-client": {
@@ -86108,6 +86366,18 @@
         ],
         "navconfig-1.0.13-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "3mcobaSu7kHVBRp79NI+Z4jCxqec6jPbFw6lrQA2LFk=",
+          "cp39"
+        ]
+      }
+    },
+    "1.0.15": {
+      "wheels": {
+        "navconfig-1.0.15-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "UC3BxlD4Qh8Jc+HHnf5nWTv4JSGq1ermAbLC+D8tQL0=",
+          "cp38"
+        ],
+        "navconfig-1.0.15-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "1AM3psDcKAjiVKePrHBTe798PxqvFEM4bnD0i2AaMus=",
           "cp39"
         ]
       }
@@ -114455,7 +114725,27 @@
       }
     }
   },
+  "qing-ni-xiaoshi-ba-weizhou-20210427": {
+    "2023.2.9.0": {
+      "sdist": [
+        "eAZogUi6OAuaJAPT2v+3Lo70ZdWvvpCgLeGINWmcNyo=",
+        "qing-ni-xiaoshi-ba-weizhou-20210427-2023.2.9.0.tar.gz"
+      ],
+      "wheels": {
+        "qing_ni_xiaoshi_ba_weizhou_20210427-2023.2.9.0-py3-none-any.whl": [
+          "GWNcccGRqxv9vRDw8uf2UmTTk1mB+Z4z0zz1SasGEqE=",
+          "py3"
+        ]
+      }
+    }
+  },
   "qonnx": {
+    "0.0.0": {
+      "sdist": [
+        "Waho3iMQ/plrQ3EPgpvsB2pOS7rz7OZtd2Fnr6j7tcE=",
+        "qonnx-0.0.0.tar.gz"
+      ]
+    },
     "0.1": {
       "sdist": [
         "hnYlgsiv1c8YoJ+FWhstdOHdixM7sql7ciYf1RNYDho=",
@@ -117112,6 +117402,18 @@
       "wheels": {
         "rasgotransforms-2.7.0a1-py3-none-any.whl": [
           "rHJC0WFxg+MR5CPeRj7r9/UOzKiCEEI1tnuNLpIe33k=",
+          "py3"
+        ]
+      }
+    },
+    "2.7.0a2": {
+      "sdist": [
+        "RylaA+s5V/0ikkCuNaEkUFk8L7TVWuJdYyzMM8rF1ac=",
+        "rasgotransforms-2.7.0a2.tar.gz"
+      ],
+      "wheels": {
+        "rasgotransforms-2.7.0a2-py3-none-any.whl": [
+          "XFyePKSDqQZYswQMh3IAyJdBJ46ENLprc6GtI3+xNHY=",
           "py3"
         ]
       }
@@ -130968,6 +131270,18 @@
         ]
       }
     },
+    "0.1.179": {
+      "sdist": [
+        "5XCUAaIKCTXZxGc1JQGk9GDW9IZ1jje9pzH/uzFtsLs=",
+        "state-machine-semaphore-0.1.179.tar.gz"
+      ],
+      "wheels": {
+        "state_machine_semaphore-0.1.179-py3-none-any.whl": [
+          "JLaTgXxcxJt8uU7LtF0PJHj+hL3Xnf5pfWESZtjAJY0=",
+          "py3"
+        ]
+      }
+    },
     "0.1.18": {
       "sdist": [
         "wZ0XdxMGXLBX/Fb7QuELy3OMKGNpAqXMSgQdW4FvuRc=",
@@ -142333,6 +142647,20 @@
       ]
     }
   },
+  "tutorial-hypermodern-python-winand": {
+    "0.1.0": {
+      "sdist": [
+        "lKkpVWKZmd47eRo9k8++HzmYXpvs3yzkDxf15E83gUo=",
+        "tutorial_hypermodern_python_winand-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "tutorial_hypermodern_python_winand-0.1.0-py3-none-any.whl": [
+          "WBQgw0nh1wy7g2WllNWKbPe2nUBShoNR+VhzwHvit3Q=",
+          "py3"
+        ]
+      }
+    }
+  },
   "tw.recaptcha": {
     "0.8": {
       "sdist": [
@@ -147428,6 +147756,20 @@
       "wheels": {
         "wenv-0.5.1-py3-none-any.whl": [
           "cPJ69WzAG+o2B/wR3aHGm1h1jsyWJKGXPZ5yTGACuvQ=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "wenxue-shaonv-yecun-meiyue-20210814": {
+    "2023.2.9.0": {
+      "sdist": [
+        "CU0yFZxE6I3FRf7jJnuUFTIHUWqX8KbYvF+Xi1fOUy0=",
+        "wenxue-shaonv-yecun-meiyue-20210814-2023.2.9.0.tar.gz"
+      ],
+      "wheels": {
+        "wenxue_shaonv_yecun_meiyue_20210814-2023.2.9.0-py3-none-any.whl": [
+          "ly0UGkkeeW7lMgm5orGKNrLNkVec9NRgDqyC49X0d88=",
           "py3"
         ]
       }

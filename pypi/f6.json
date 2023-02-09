@@ -690,6 +690,58 @@
         ]
       }
     },
+    "1.2.20": {
+      "wheels": {
+        "accera_compilers-1.2.20-cp310-cp310-macosx_11_0_x86_64.whl": [
+          "kMr8EJFzVrtvqqVwqL6+Zse3FqSjirmvZQSZVbZKH74=",
+          "cp310"
+        ],
+        "accera_compilers-1.2.20-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "uhC/44E68j6fDgQtzSY0Wcjye4oWiHi1llVYzvhqNC4=",
+          "cp310"
+        ],
+        "accera_compilers-1.2.20-cp310-cp310-win_amd64.whl": [
+          "sTCqihVzeAuPnXuIi4FPhMBeVcDwaHuOA9iEXeUUvnM=",
+          "cp310"
+        ],
+        "accera_compilers-1.2.20-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "f5l1T2sBf9G0J98Wt1Svri06XCY2xOVfjtw9cICKw/4=",
+          "cp37"
+        ],
+        "accera_compilers-1.2.20-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "gGcjXyMEaRAAaU+U0U3fDqvas4yEpsWpGWUeG7hZKho=",
+          "cp37"
+        ],
+        "accera_compilers-1.2.20-cp37-cp37m-win_amd64.whl": [
+          "yoksfTAwiZeW/ThO3LeQaGTZdfk21XSZ0NtHQrT+iJ4=",
+          "cp37"
+        ],
+        "accera_compilers-1.2.20-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "kihhtIZFmPAGQXouMJgUiyCs5nx9/DXWNxx2x5w31MQ=",
+          "cp38"
+        ],
+        "accera_compilers-1.2.20-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "1SSNWbMSXa20+8o7yWJCRKvWQP5S9vGNQi9qnjxrZNo=",
+          "cp38"
+        ],
+        "accera_compilers-1.2.20-cp38-cp38-win_amd64.whl": [
+          "6o4/2pcoUAzZRpCvfwvMNRxYWNwBjPzHVctGBzXH2/k=",
+          "cp38"
+        ],
+        "accera_compilers-1.2.20-cp39-cp39-macosx_11_0_x86_64.whl": [
+          "rHJhG54ZGMcGvRpq2teOP6RPTHd7f4f+fFlqP0f44Y8=",
+          "cp39"
+        ],
+        "accera_compilers-1.2.20-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "mlmFj2YQYyDqDSa6hKOJYS6SGNwluZ4RzF8/u3oGU7g=",
+          "cp39"
+        ],
+        "accera_compilers-1.2.20-cp39-cp39-win_amd64.whl": [
+          "OQ/6a6y13kuuEnWyx0s0k3ACJEBP+Q1ZHY6/q/Ewjko=",
+          "cp39"
+        ]
+      }
+    },
     "1.2.8": {
       "wheels": {
         "accera_compilers-1.2.8-cp310-cp310-macosx_10_15_x86_64.whl": [
@@ -1912,6 +1964,18 @@
       "wheels": {
         "AI_Chess-2.0.7-py3-none-any.whl": [
           "fydNSGyYAOv28LFK+bElC9ecsOZqRhKZYKVQCmomFGs=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.8": {
+      "sdist": [
+        "4d+olpPZRlarDcdd9GHSuNd40qQ71RdtvcL92jAOg7c=",
+        "AI-Chess-2.0.8.tar.gz"
+      ],
+      "wheels": {
+        "AI_Chess-2.0.8-py3-none-any.whl": [
+          "tdwsa7vDiAXRv2pt6FJ8oab6jBYGXDqQ7wyn/Y+tBRU=",
           "py3"
         ]
       }
@@ -43342,6 +43406,42 @@
       "wheels": {
         "flet_core-0.4.0.dev1157-py3-none-any.whl": [
           "hLyl0WUkl7bP2CGM09i7Jc+6LthAbfjS7oO7+NfwsG0=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.0.dev1177": {
+      "sdist": [
+        "6BweXKBpTqs3xdjQhR+Y8+bKADzAlr0sPVwQl3PIo0Y=",
+        "flet_core-0.5.0.dev1177.tar.gz"
+      ],
+      "wheels": {
+        "flet_core-0.5.0.dev1177-py3-none-any.whl": [
+          "1Eatk0xe3FEx7SMdZM4uqYBVznu/Asf3g5UffgrnnbI=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.0.dev1181": {
+      "sdist": [
+        "3q3FpxIyB8K6rsi84ARyrZOC7hW7hISZ/CdmxTKBXJ8=",
+        "flet_core-0.5.0.dev1181.tar.gz"
+      ],
+      "wheels": {
+        "flet_core-0.5.0.dev1181-py3-none-any.whl": [
+          "QYMQCabUmBsUX6r+kO+y06LVZ4c9TaQOys993cBUWlE=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.0.dev1186": {
+      "sdist": [
+        "GhQ6W8mqFO/TSO5y4d0oEqJTlQfisFt5/OAtXXU0WqU=",
+        "flet_core-0.5.0.dev1186.tar.gz"
+      ],
+      "wheels": {
+        "flet_core-0.5.0.dev1186-py3-none-any.whl": [
+          "6lt6+gfrQmgXhcbiXBNDUDJZmQYXk6yBj7gEvbs6OSE=",
           "py3"
         ]
       }
@@ -88409,6 +88509,14 @@
       }
     }
   },
+  "ofd-common": {
+    "66.0.0": {
+      "sdist": [
+        "f6vESIGKpmZg4fS2ME1m89D7sfAJ/wsrx+y8H0YoeJ0=",
+        "ofd_common-66.0.0.tar.gz"
+      ]
+    }
+  },
   "ofpy": {
     "0.1": {
       "sdist": [
@@ -109335,6 +109443,14 @@
           "py3"
         ]
       }
+    }
+  },
+  "pycapionlu": {
+    "66.0.0": {
+      "sdist": [
+        "ge+g/RcRZhHUR/m8H90gzZc6F502H+6MEhjqr/eBbSY=",
+        "pycapionlu-66.0.0.tar.gz"
+      ]
     }
   },
   "pycarl": {
@@ -135035,6 +135151,14 @@
       }
     }
   },
+  "tankapi": {
+    "66.0.0": {
+      "sdist": [
+        "DaM/8E0U8akRCvl+KFLc7auu50Y7yCs2ScgYKslWH8s=",
+        "tankapi-66.0.0.tar.gz"
+      ]
+    }
+  },
   "tappayment": {
     "0.0.1": {
       "sdist": [
@@ -138186,6 +138310,30 @@
       "wheels": {
         "tiffslide-1.9.0-py3-none-any.whl": [
           "7Y/BzGk2feFSFwY74yguQaejgyFv+DhN5MSi8E+QQdY=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.0": {
+      "sdist": [
+        "ltQ4Ae6GI2XqO7obN60Kmwh4rElNKs6+XMiTn6A1d/s=",
+        "tiffslide-2.0.0.tar.gz"
+      ],
+      "wheels": {
+        "tiffslide-2.0.0-py3-none-any.whl": [
+          "P2gKQgFioflNhzbeAbPUKMVswHAePJSziF99np5E1v0=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.1": {
+      "sdist": [
+        "EsOIJArIhHYCoccNwr7+gmfPHul7//yywIyEQPnS5wE=",
+        "tiffslide-2.0.1.tar.gz"
+      ],
+      "wheels": {
+        "tiffslide-2.0.1-py3-none-any.whl": [
+          "gLRZZo2eRjlOUkhAtGYrRsNBTKE46O6yBgZ6g/JBsLM=",
           "py3"
         ]
       }
@@ -145523,6 +145671,14 @@
       ]
     }
   },
+  "watchdog3": {
+    "66.0.0": {
+      "sdist": [
+        "X7pq3tTyE//Yp2C6dyPqCFnwjd+LftfQk+I/EEwu3Fw=",
+        "watchdog3-66.0.0.tar.gz"
+      ]
+    }
+  },
   "waudioatom": {
     "0.0.2": {
       "sdist": [
@@ -147595,6 +147751,22 @@
           "py3"
         ]
       }
+    }
+  },
+  "yandex-direct-clickhouse": {
+    "66.0.0": {
+      "sdist": [
+        "anpGQfhSO9w2SJ7FNjfIjTTeNHazdQ7f/8/RZOk+PIc=",
+        "yandex_direct_clickhouse-66.0.0.tar.gz"
+      ]
+    }
+  },
+  "yandex-meteo-flow-scheduler": {
+    "66.0.0": {
+      "sdist": [
+        "EZmVXww1Db3DGyMTf4Cqcb89xiJQrpOJ6+gVaSQ6SAw=",
+        "yandex-meteo-flow-scheduler-66.0.0.tar.gz"
+      ]
     }
   },
   "yangyuan-pkg-learn": {
@@ -150225,6 +150397,14 @@
           "py2.py3"
         ]
       }
+    }
+  },
+  "zen-common": {
+    "66.0.0": {
+      "sdist": [
+        "XbTygiltBRdjgjaguxRJx+US+bgnWxxXpkxp31at8pA=",
+        "zen_common-66.0.0.tar.gz"
+      ]
     }
   },
   "zenoml-image-classification": {

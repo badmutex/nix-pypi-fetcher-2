@@ -1927,6 +1927,30 @@
         "vWPX2cl2GUMwhpfVJcVM8ZPNo9ZZZzazK6JVORCjceo=",
         "air_drf_relation-0.4.1.tar.gz"
       ]
+    },
+    "0.5.0": {
+      "sdist": [
+        "dWS3DCt/BHoRf5XeQhUGF5PHbTtnoJS1cau7I6T04JY=",
+        "air_drf_relation-0.5.0.tar.gz"
+      ]
+    },
+    "0.5.1": {
+      "sdist": [
+        "nYu9wc8fIoSkd32H0dNReoH8cUkZ2iB+OhxfwaJVPF0=",
+        "air_drf_relation-0.5.1.tar.gz"
+      ]
+    },
+    "0.5.2": {
+      "sdist": [
+        "fPe01hOxLQDJPUvcIyW3cvigsWIjnd6944GUjFgya6A=",
+        "air_drf_relation-0.5.2.tar.gz"
+      ]
+    },
+    "0.5.3": {
+      "sdist": [
+        "EKu4hee2SAaXS2B5zlbbvJxJUp53nE+wNV791vhgw5Q=",
+        "air_drf_relation-0.5.3.tar.gz"
+      ]
     }
   },
   "airflow-docker": {
@@ -30492,6 +30516,14 @@
       "wheels": {
         "dbt_dremio-1.3.0-py3-none-any.whl": [
           "TkxYAvroKhc3r15qG4sJ0x6+uOGHN04GMRllcxGG0pQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.3.2": {
+      "wheels": {
+        "dbt_dremio-1.3.2-py3-none-any.whl": [
+          "+eW68BtiVsfB3ARWv6DXREYoNZ+RE2qQIUx8Y9uPUYE=",
           "py3"
         ]
       }
@@ -67452,6 +67484,30 @@
         ]
       }
     },
+    "0.5.26": {
+      "sdist": [
+        "MRJo5s/1B8mjf55teMuCtceg8zc18fvaOvAT060Tu+M=",
+        "hyc-utils-0.5.26.tar.gz"
+      ],
+      "wheels": {
+        "hyc_utils-0.5.26-py3-none-any.whl": [
+          "olZORKPEp2JETILErALwYBumacoCXQ3pewI9WTMMdKA=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.27": {
+      "sdist": [
+        "2ImUg9DOohuNiaLcpAk5NZXUY+KLxkAIZpWn1NjZMVM=",
+        "hyc-utils-0.5.27.tar.gz"
+      ],
+      "wheels": {
+        "hyc_utils-0.5.27-py3-none-any.whl": [
+          "3A/qvb2UB/o2K5De2wyRWbIxEo5FVzgkHt+ABiQ+wlo=",
+          "py3"
+        ]
+      }
+    },
     "0.5.3": {
       "sdist": [
         "1PnO5sWQuW73JC0NMn/XABJC+u+3pbAG208UlysqSo4=",
@@ -67968,6 +68024,12 @@
       "sdist": [
         "aO8qsbNbR7WGldMaNPgCara8mY7fX4h6ZQWQR0tCg2I=",
         "image_dehazer-0.0.8.tar.gz"
+      ]
+    },
+    "0.0.9": {
+      "sdist": [
+        "ZzI+Nvx8XaYEyo3R/enlgZe4luhrdeVZF0CRWBuBGtM=",
+        "image_dehazer-0.0.9.tar.gz"
       ]
     }
   },
@@ -98403,6 +98465,18 @@
           "py3"
         ]
       }
+    },
+    "1.1.3": {
+      "sdist": [
+        "kOXbVEdrzfSYvQpxoE8I5DRt3ZilbYsQ53hnQU7xrA4=",
+        "osu-wiki-tools-1.1.3.tar.gz"
+      ],
+      "wheels": {
+        "osu_wiki_tools-1.1.3-py3-none-any.whl": [
+          "sCZdLXy4ZZsPCbbOGmfIlAbfDUums51zz+zg9prvbgg=",
+          "py3"
+        ]
+      }
     }
   },
   "osxdocker": {
@@ -102042,6 +102116,32 @@
       "wheels": {
         "pds_epitome-3.1.0-py3-none-any.whl": [
           "EGVuNONFihEixPmXiDON6nTeebJrOZw9Xv7HbuvKIQo=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "pdsupp-cli": {
+    "0.1.0": {
+      "sdist": [
+        "FI/w+rhsj5Ns0PNqDNVZsdZ9BQceP6BlU7+q+BRoGng=",
+        "pdsupp_cli-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "pdsupp_cli-0.1.0-py3-none-any.whl": [
+          "DQJ3uiv/31J2fmBCsbutGwxdxoTnXrqSa82hpip4HfI=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "GU4wGbLkco8mvSnF/tzFrAD/2zmTI4tpuyb/HHGXbRk=",
+        "pdsupp_cli-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "pdsupp_cli-0.1.1-py3-none-any.whl": [
+          "KBqAtZ2nEzBagcCdYpGhntltG5nYM71/V6ABYG2jEp0=",
           "py3"
         ]
       }

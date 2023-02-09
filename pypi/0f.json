@@ -13220,6 +13220,18 @@
         ]
       }
     },
+    "0.14.2": {
+      "sdist": [
+        "4Dn4bzCmv/s4uQoFS4YGzwozdOr2hRZcbfIuYneJgj4=",
+        "aws_prototyping_sdk.cloudscape_react_ts_website-0.14.2.tar.gz"
+      ],
+      "wheels": {
+        "aws_prototyping_sdk.cloudscape_react_ts_website-0.14.2-py3-none-any.whl": [
+          "BU1/KkdXnHTSMc2q31IHQOC9fD0mKHtgHeeuFElPHIw=",
+          "py3"
+        ]
+      }
+    },
     "0.4.0": {
       "sdist": [
         "K9cZFxEVcMlPzSCpJI7c8WJZMcXuR4mm1sgOgcuZIOg=",
@@ -50518,6 +50530,18 @@
       "wheels": {
         "flytekitplugins_onnxscikitlearn-1.3.1-py3-none-any.whl": [
           "xqEMF3GwlJMg8SatcQ7aQdX1q0gxexd0+ulmZVHqZ9A=",
+          "py3"
+        ]
+      }
+    },
+    "1.3.2": {
+      "sdist": [
+        "akMYHX05xYj8IdIHJAZ+W60IniKmborNXTKtq/AfqgQ=",
+        "flytekitplugins-onnxscikitlearn-1.3.2.tar.gz"
+      ],
+      "wheels": {
+        "flytekitplugins_onnxscikitlearn-1.3.2-py3-none-any.whl": [
+          "dqvtzX0ev0Jp5cA353nh9IdTnk2Wik9+YPRDS0tV2eA=",
           "py3"
         ]
       }
@@ -88189,6 +88213,94 @@
           "cp39"
         ]
       }
+    },
+    "2.2.1": {
+      "sdist": [
+        "fClduVnB0HRCDpKVg+JLiUye03wVbMBoXEchLUsH1Fs=",
+        "mqt.qcec-2.2.1.tar.gz"
+      ],
+      "wheels": {
+        "mqt.qcec-2.2.1-cp310-cp310-macosx_10_15_x86_64.whl": [
+          "VuDDebXRWAcyFnAOzqvIL355+4UE+C6RYUM2P0dvt1c=",
+          "cp310"
+        ],
+        "mqt.qcec-2.2.1-cp310-cp310-macosx_11_0_arm64.whl": [
+          "ej8SPzOkxAjz7Kr5GocTctFK5Hv4k0oIleiZqTRU0Uc=",
+          "cp310"
+        ],
+        "mqt.qcec-2.2.1-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "6QJb2P7Qhes5YVqZYTuaYTsatbXLnmwveDudxVOVzEc=",
+          "cp310"
+        ],
+        "mqt.qcec-2.2.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "IfGIm3dZjnmQXhLCXBdSGe9M6ZkFcIifK+7mj5b047g=",
+          "cp310"
+        ],
+        "mqt.qcec-2.2.1-cp310-cp310-win_amd64.whl": [
+          "R9zCiEO4emFyQNquYe+Q8sms5xd42GfVWA5sOg60Ark=",
+          "cp310"
+        ],
+        "mqt.qcec-2.2.1-cp311-cp311-macosx_10_15_x86_64.whl": [
+          "jEB57OsUAJ1ls1rbhWlKxsPMd/0G98eQ5tEnMev9foI=",
+          "cp311"
+        ],
+        "mqt.qcec-2.2.1-cp311-cp311-macosx_11_0_arm64.whl": [
+          "NcooHwQNFUk01gF167zXthqGAWfXa1T7sYC0PvUpJcw=",
+          "cp311"
+        ],
+        "mqt.qcec-2.2.1-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "vdfEymd2RXu5bpZ/rcydSlVZGVJAQz3WZhC6u+ydeDk=",
+          "cp311"
+        ],
+        "mqt.qcec-2.2.1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "uORbLM8jAENdms/sIczwAoJravppkc/tLyu5Hg17AI4=",
+          "cp311"
+        ],
+        "mqt.qcec-2.2.1-cp311-cp311-win_amd64.whl": [
+          "p6X6g9Ox9n/tvCXsjoDeUAsqYDl//+89SJKN2vUy6W4=",
+          "cp311"
+        ],
+        "mqt.qcec-2.2.1-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "Q20kOTdXQ3AlrvrCVy/g6cu/QeH4+Yz5I9jOQh9dA6w=",
+          "cp38"
+        ],
+        "mqt.qcec-2.2.1-cp38-cp38-macosx_11_0_arm64.whl": [
+          "a5B5NqhbO/imdA+Q9UPexvUu7F5/CmcSFdbO0rgZFLk=",
+          "cp38"
+        ],
+        "mqt.qcec-2.2.1-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "/6MKl4SibNGAE4kTAQsG/pKNTQmrXMwykSv+x0Jg85g=",
+          "cp38"
+        ],
+        "mqt.qcec-2.2.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "YgnLdtQZGcfwxVBHwOkpO9ShWK51t98OFlck0L/kvuA=",
+          "cp38"
+        ],
+        "mqt.qcec-2.2.1-cp38-cp38-win_amd64.whl": [
+          "25eB4vwuEvlZOTbQtd8Kd3+/suUNfsxrefnC0xTZ3e0=",
+          "cp38"
+        ],
+        "mqt.qcec-2.2.1-cp39-cp39-macosx_10_15_x86_64.whl": [
+          "RWH4rFgMy03ywgh6Gx0ic1YqeoS+JE8mswTaxNedeog=",
+          "cp39"
+        ],
+        "mqt.qcec-2.2.1-cp39-cp39-macosx_11_0_arm64.whl": [
+          "jcdAGvII7TK/Dvv9KOH0iUm2e/ZkWMjd/GjkB1cpOwo=",
+          "cp39"
+        ],
+        "mqt.qcec-2.2.1-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "a1GdYM14wyg6q+xRYlZ3GNT2AIBToutUYXiRV8Fxw6k=",
+          "cp39"
+        ],
+        "mqt.qcec-2.2.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "6RoRTpOaU6BTwzy567dpNyMHvBwp+WEZmocxr5NiggI=",
+          "cp39"
+        ],
+        "mqt.qcec-2.2.1-cp39-cp39-win_amd64.whl": [
+          "xjqnRsPkkMyGV6SgVXOq9YvngfwDH++QBxpG1dfdC6M=",
+          "cp39"
+        ]
+      }
     }
   },
   "mqtt-presence-checker": {
@@ -123475,6 +123587,20 @@
       }
     }
   },
+  "pysubdiv": {
+    "0.1": {
+      "sdist": [
+        "K5xQnz8oGeOzn2Ri0oX8I35zTykfugt6xKg3WTGbwXQ=",
+        "PySubdiv-0.1.tar.gz"
+      ],
+      "wheels": {
+        "PySubdiv-0.1-py3-none-any.whl": [
+          "53LNzkWItow2I6TfZ5qcYw8ZMpoWlZgJXr2HGVycZeo=",
+          "py3"
+        ]
+      }
+    }
+  },
   "pysuperconductor": {
     "0.1.0": {
       "sdist": [
@@ -134048,6 +134174,14 @@
       "sdist": [
         "w1UZ3a1tHCXLRwvsMJ2vw4KTojZFCQekWn+8o2MUzu8=",
         "simright-csrf-0.0.5.tar.gz"
+      ]
+    }
+  },
+  "skudb": {
+    "66.0.0": {
+      "sdist": [
+        "QswRTHJ+SyNzTUckrqFjJbvvy3XZTSsgD8oe7RJ0K5c=",
+        "skudb-66.0.0.tar.gz"
       ]
     }
   },
@@ -147802,6 +147936,20 @@
       "wheels": {
         "tokyopopuchange-1.0.1-py3-none-any.whl": [
           "Brnl7MrjLfmCpHVPSWy1gC33ehRZCQGsc8gDI25GcKY=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "tongwang-leyuan-de-lianzheng-zhi-lu-yecun-meiyue-20210609": {
+    "2023.2.9.0": {
+      "sdist": [
+        "bjB4cJ0ay2mar/4iBUDeKr9vbaEW3EqBf34d41POghI=",
+        "tongwang-leyuan-de-lianzheng-zhi-lu-yecun-meiyue-20210609-2023.2.9.0.tar.gz"
+      ],
+      "wheels": {
+        "tongwang_leyuan_de_lianzheng_zhi_lu_yecun_meiyue_20210609-2023.2.9.0-py3-none-any.whl": [
+          "oKm1a/H3gLXrEg4G7seeGuQg21MhTrKbHQ/TUX6+waU=",
           "py3"
         ]
       }

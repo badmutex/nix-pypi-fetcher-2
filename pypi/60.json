@@ -26121,6 +26121,12 @@
         "IEgRkLRoas/h//oT3jucgIl1PhDPaUkYHCTyF7/emtM=",
         "dataembedder-0.2.1.tar.gz"
       ]
+    },
+    "0.3.0": {
+      "sdist": [
+        "iV+N8uDg+9nW4krntabFih6lrhwvkwKktmR8f/C/tZQ=",
+        "dataembedder-0.3.0.tar.gz"
+      ]
     }
   },
   "datalad-osf": {
@@ -36513,6 +36519,18 @@
           "py3"
         ]
       }
+    },
+    "0.3.0": {
+      "sdist": [
+        "Y/ZdB4rtgHp5qNa9UbfJ0G7KxP7EbOapCxPMRwyR6Tk=",
+        "eksupgrade-0.3.0.tar.gz"
+      ],
+      "wheels": {
+        "eksupgrade-0.3.0-py3-none-any.whl": [
+          "X7PCvBN0Auw2UemHBCUwa9tn8AbgelOFDAPvEks/Yag=",
+          "py3"
+        ]
+      }
     }
   },
   "elasticai.creator": {
@@ -42404,6 +42422,18 @@
       "wheels": {
         "flytekitplugins_polars-1.3.1-py3-none-any.whl": [
           "wMHWfSvE2lA0F4OFs6IsRi5f6BulFGOUPLqgIaweQu0=",
+          "py3"
+        ]
+      }
+    },
+    "1.3.2": {
+      "sdist": [
+        "rtBiT9QxnZl5vJ3gSxFY8u4HyBVgC9CiLzTdMayahEg=",
+        "flytekitplugins-polars-1.3.2.tar.gz"
+      ],
+      "wheels": {
+        "flytekitplugins_polars-1.3.2-py3-none-any.whl": [
+          "HrmWr4us/TRZpsiK+u1QrV4gxwWeuKlf7TLs1Rcfv0A=",
           "py3"
         ]
       }
@@ -59478,488 +59508,10 @@
     }
   },
   "instagram-scraper": {
-    "1.0.0": {
+    "66.0.0": {
       "sdist": [
-        "wnqTSXTHm5R0etA6NfDV4z1B4WMNZk6oaQj+GQyBD8g=",
-        "instagram-scraper-1.0.0.tar.gz"
-      ]
-    },
-    "1.1.0": {
-      "sdist": [
-        "ViavNTXxyMiGUzh6E+xKZxjZafrmjG2qkb3lrlW6B+s=",
-        "instagram-scraper-1.1.0.tar.gz"
-      ]
-    },
-    "1.1.1": {
-      "sdist": [
-        "AeG/ZmjypuapLNvWu3lVazAMT1QWgf9QXkOjZGoOzXY=",
-        "instagram-scraper-1.1.1.tar.gz"
-      ]
-    },
-    "1.10.0": {
-      "sdist": [
-        "f4uEUXIuzDGg70dJJbB5PGplAQeZe890MRtXIWa2too=",
-        "instagram-scraper-1.10.0.tar.gz"
-      ]
-    },
-    "1.10.1": {
-      "sdist": [
-        "jazD58uSRLWK4+F7CZlMd8/0J85YJzg6wgUKGGsMrvI=",
-        "instagram-scraper-1.10.1.tar.gz"
-      ]
-    },
-    "1.10.2": {
-      "sdist": [
-        "i0yNQzlOKQBzhvcK96+yVM9vTOFLjTl+3MTWF9TCt1w=",
-        "instagram-scraper-1.10.2.tar.gz"
-      ],
-      "wheels": {
-        "instagram_scraper-1.10.2-py3-none-any.whl": [
-          "tNVSXuYz3XOz/k6Sg191IIHl56/guBAYNCLTvEXr4Nw=",
-          "py3"
-        ]
-      }
-    },
-    "1.10.3": {
-      "sdist": [
-        "rCQxGVGSzOoJDNzySrguGu0p/oER+4pXJU6urMNRLh4=",
-        "instagram-scraper-1.10.3.tar.gz"
-      ],
-      "wheels": {
-        "instagram_scraper-1.10.3-py3-none-any.whl": [
-          "SEtASurL+j68SgAQ97tTCXPN6JNyEsVkckHNo5lx3mk=",
-          "py3"
-        ]
-      }
-    },
-    "1.10.4": {
-      "sdist": [
-        "CY8dy+7ldgwLwgJdKnOIrMXAoNSBg3rxBEDAZryCWBI=",
-        "instagram-scraper-1.10.4.tar.gz"
-      ],
-      "wheels": {
-        "instagram_scraper-1.10.4-py3-none-any.whl": [
-          "LhiRyzQlzj58vGkWt9NvknjCOqCTOA3rMuFNYm7QcuE=",
-          "py3"
-        ]
-      }
-    },
-    "1.10.5": {
-      "sdist": [
-        "EgPqRSEHb5+GLEKBKqicdqFn/I1DbTVVokFTAXj6s9s=",
-        "instagram-scraper-1.10.5.tar.gz"
-      ],
-      "wheels": {
-        "instagram_scraper-1.10.5-py2-none-any.whl": [
-          "svf3aTHf/NJpfumPCo/GCkDQZRoWDPppWGQ2KNIMF5I=",
-          "py2"
-        ],
-        "instagram_scraper-1.10.5-py3-none-any.whl": [
-          "BLqV9vKMFgU9WMAPh+Kuh1B8GNin2DDZJVuqU5TO/AY=",
-          "py3"
-        ]
-      }
-    },
-    "1.10.6": {
-      "sdist": [
-        "Z9jrZn2KyTvoQ+ozXwIw+PP1y/G0xXCTl3kv4zmXHqk=",
-        "instagram-scraper-1.10.6.tar.gz"
-      ],
-      "wheels": {
-        "instagram_scraper-1.10.6-py3-none-any.whl": [
-          "zp0GsWFFCcfPiUQAkFZZPp7L6GX/QJ2Ascusi1tj7ow=",
-          "py3"
-        ]
-      }
-    },
-    "1.11.0": {
-      "sdist": [
-        "nCYkP10Ax0gsQIGoL7PvTWDD17SFfeUbx1Q0fSCdO60=",
-        "instagram-scraper-1.11.0.tar.gz"
-      ],
-      "wheels": {
-        "instagram_scraper-1.11.0-py3-none-any.whl": [
-          "iStEcGgMawHCg8CAzgC8kR7/LlMPhxG1YmQYGjFtI1Y=",
-          "py3"
-        ]
-      }
-    },
-    "1.2.0": {
-      "sdist": [
-        "G7o1dMREqo8cNgkWlV/mlN6G3TZ6QqtXWaDdFJG0trA=",
-        "instagram-scraper-1.2.0.tar.gz"
-      ]
-    },
-    "1.2.1": {
-      "sdist": [
-        "Gt8xGN8LPsHe+57i5y9DjLRjcdwRCkBlqzT6p2E8BAY=",
-        "instagram-scraper-1.2.1.tar.gz"
-      ]
-    },
-    "1.3.0": {
-      "sdist": [
-        "CfH24TIhFNlPc988Mp7QBT9Pox5mivx1BdGnV+6yigU=",
-        "instagram-scraper-1.3.0.tar.gz"
-      ]
-    },
-    "1.3.1": {
-      "sdist": [
-        "/FFJr7UlgZSeeJVVxXy4maAYzxrH8hwQoMZIcTPH5KQ=",
-        "instagram-scraper-1.3.1.tar.gz"
-      ]
-    },
-    "1.3.2": {
-      "sdist": [
-        "1T+DpKNNVYnE1ZkAK5K/34U1Rqyky3c/4uyvV7YbY8A=",
-        "instagram-scraper-1.3.2.tar.gz"
-      ]
-    },
-    "1.3.3": {
-      "sdist": [
-        "oN56nSqQ0xDqWDZ9Pn3fALWN0W2T0Kl4Ug2Uo6wHBcI=",
-        "instagram-scraper-1.3.3.tar.gz"
-      ]
-    },
-    "1.3.4": {
-      "sdist": [
-        "PS/jFu5osABe5dR7deEZsl7AbaBBGhvn/G7ELgu61iA=",
-        "instagram-scraper-1.3.4.tar.gz"
-      ]
-    },
-    "1.3.6": {
-      "sdist": [
-        "fCwKVB2edZl5lxZhihKpi6mBz5NT8kbNMdhm7Gihkh8=",
-        "instagram-scraper-1.3.6.tar.gz"
-      ]
-    },
-    "1.3.7": {
-      "sdist": [
-        "ygVVGJkLTHu14Scvt3hHBabgKLquZkVS30MXg/9HK60=",
-        "instagram-scraper-1.3.7.tar.gz"
-      ]
-    },
-    "1.4.0": {
-      "sdist": [
-        "fwwGs1aLBiU7KAR5PF7lEyk7i0+PN9CdqUBPsPJLtvE=",
-        "instagram-scraper-1.4.0.tar.gz"
-      ]
-    },
-    "1.4.1": {
-      "sdist": [
-        "S8fmOzLCz2OOmlaTpkM0zCvSIco7WoAiU4QvdIureos=",
-        "instagram-scraper-1.4.1.tar.gz"
-      ]
-    },
-    "1.4.2": {
-      "sdist": [
-        "e2FLWlmuECGGAzudxq8yZLSzjA2fSb7m9SPFt8hXa1g=",
-        "instagram-scraper-1.4.2.tar.gz"
-      ]
-    },
-    "1.5.0": {
-      "sdist": [
-        "NsWYlttySd2TRDyVHV3am2MgLkKfBU+mLjx27JK7ZA4=",
-        "instagram-scraper-1.5.0.tar.gz"
-      ]
-    },
-    "1.5.1": {
-      "sdist": [
-        "i1WS7TtMAVOU81essNwfYhKGFBds/zGXVgHWbsIPYvU=",
-        "instagram-scraper-1.5.1.tar.gz"
-      ]
-    },
-    "1.5.10": {
-      "sdist": [
-        "7PXNHcPOwm4Snh2zu9DRXBaURuZ62YL0sRLn6swNKKo=",
-        "instagram-scraper-1.5.10.tar.gz"
-      ]
-    },
-    "1.5.11": {
-      "sdist": [
-        "svXhOO/R1C3HQ+o05D/U2J+8OieTcJF5Rv6NC9CaL2E=",
-        "instagram-scraper-1.5.11.tar.gz"
-      ]
-    },
-    "1.5.12": {
-      "sdist": [
-        "2hQ/4EUc0DVj9sgTUNSuAkfug/aiuftq9+HaxiX+2Ow=",
-        "instagram-scraper-1.5.12.tar.gz"
-      ]
-    },
-    "1.5.13": {
-      "sdist": [
-        "1OspvAyFs0muzVijiZz06aRU/JYMPHnKfGXVGVT7LGs=",
-        "instagram-scraper-1.5.13.tar.gz"
-      ]
-    },
-    "1.5.14": {
-      "sdist": [
-        "19eGkcuYnsXsmqXEC/VMwRvP2yTNXMS2BgBYS7gwg7Y=",
-        "instagram-scraper-1.5.14.tar.gz"
-      ]
-    },
-    "1.5.15": {
-      "sdist": [
-        "JnYqO5xAJvOw2QIBQS6sPQaziM/YQT9bM9cUk7VLE/U=",
-        "instagram-scraper-1.5.15.tar.gz"
-      ]
-    },
-    "1.5.16": {
-      "sdist": [
-        "3lcRvOCwx73u0jiMVNYnJgBe+QeGgegHEElCyoUfs5Q=",
-        "instagram-scraper-1.5.16.tar.gz"
-      ]
-    },
-    "1.5.17": {
-      "sdist": [
-        "fe/DymIqpuCq5ukyokPHKe+dO5GehCJC5b7+hOzH/eM=",
-        "instagram-scraper-1.5.17.tar.gz"
-      ]
-    },
-    "1.5.18": {
-      "sdist": [
-        "DcwBx+4xVR6QsFMDxuoYsmwzjkjhcCxlccQgdTjpa/Q=",
-        "instagram-scraper-1.5.18.tar.gz"
-      ]
-    },
-    "1.5.19": {
-      "sdist": [
-        "AferSy+K0UMNwFO5w/xWAG7E27ttUZ9sxYURSz8357Y=",
-        "instagram-scraper-1.5.19.tar.gz"
-      ]
-    },
-    "1.5.2": {
-      "sdist": [
-        "jXM0ZSz9Yz2xYzh+LbDL1V+TsPZ8fmIp4TlqfiydmB0=",
-        "instagram-scraper-1.5.2.tar.gz"
-      ]
-    },
-    "1.5.20": {
-      "sdist": [
-        "UmnrPP9Bmr6eQjtchZm/wa6whmCjcNoCSdm+uLNdyJQ=",
-        "instagram-scraper-1.5.20.tar.gz"
-      ]
-    },
-    "1.5.21": {
-      "sdist": [
-        "rqfqG2zweBp7UEzJj0wd0i7p2LvMZaCDE3vldrquoHg=",
-        "instagram-scraper-1.5.21.tar.gz"
-      ]
-    },
-    "1.5.22": {
-      "sdist": [
-        "Bdjj12DAtGpuxfVjcnhZX3sob1l1AqooXrxcjwVqJGE=",
-        "instagram-scraper-1.5.22.tar.gz"
-      ]
-    },
-    "1.5.23": {
-      "sdist": [
-        "SUe1m/hHng6/tbZPSg70WJsPkPDQfj7hsAzdb2P1ubM=",
-        "instagram-scraper-1.5.23.tar.gz"
-      ]
-    },
-    "1.5.24": {
-      "sdist": [
-        "vgu3nHb+Vu3kElOcelgHG8V6SlbGI2kbX2LDzU+URVg=",
-        "instagram-scraper-1.5.24.tar.gz"
-      ]
-    },
-    "1.5.25": {
-      "sdist": [
-        "CkjMLu3oDA9GciMwR9EdzxP2pYfOI6Dmf8ycYqyATJI=",
-        "instagram-scraper-1.5.25.tar.gz"
-      ]
-    },
-    "1.5.26": {
-      "sdist": [
-        "QZAapOmoNxabl+yjd9pncpxpRxk7ojsbBDZ8MIMxXs4=",
-        "instagram-scraper-1.5.26.tar.gz"
-      ]
-    },
-    "1.5.27": {
-      "sdist": [
-        "GsljM8FrSxkBxlnGkRds7F7G3m8E+m+yrXUaS6S4Y74=",
-        "instagram-scraper-1.5.27.tar.gz"
-      ]
-    },
-    "1.5.28": {
-      "sdist": [
-        "G1skRv3YAotipmH7ESHFMTQQdOYme4AA9g67vk1jLRg=",
-        "instagram-scraper-1.5.28.tar.gz"
-      ]
-    },
-    "1.5.29": {
-      "sdist": [
-        "nC+wDnFEidiup7wl/iffIi/p9PzTIoMUXQZ9E9wAMXc=",
-        "instagram-scraper-1.5.29.tar.gz"
-      ]
-    },
-    "1.5.3": {
-      "sdist": [
-        "l8nlgTExAPDxQCLtOECQb+/TMk/hhkeqRerbp9WZelE=",
-        "instagram-scraper-1.5.3.tar.gz"
-      ]
-    },
-    "1.5.30": {
-      "sdist": [
-        "r6uVSbmXVg58dxQ1is5lV/wdvR5R9lwIg5bfrW+j/mA=",
-        "instagram-scraper-1.5.30.tar.gz"
-      ]
-    },
-    "1.5.31": {
-      "sdist": [
-        "r7gHXDq0ZWlr3m0QFmDDL8HNjzUQeqb99HwG16NViVw=",
-        "instagram-scraper-1.5.31.tar.gz"
-      ]
-    },
-    "1.5.32": {
-      "sdist": [
-        "bQFbjaxylf5uB1p1VkM3DLjCuk7JNs5gMeY0ms+O2AM=",
-        "instagram-scraper-1.5.32.tar.gz"
-      ]
-    },
-    "1.5.33": {
-      "sdist": [
-        "sJP5rS2j+jWOHf9b8Acoc0ljAM367Q2JTV+0DYT8uKw=",
-        "instagram-scraper-1.5.33.tar.gz"
-      ]
-    },
-    "1.5.34": {
-      "sdist": [
-        "ghAOeYt2sq7jMl8UUjnJE55ndwceZGm05Uepl6sOuOM=",
-        "instagram-scraper-1.5.34.tar.gz"
-      ]
-    },
-    "1.5.35": {
-      "sdist": [
-        "TXiESgs6/Jm/M+uY8qctmSHLnoD/rC22nGII2pnJk0w=",
-        "instagram-scraper-1.5.35.tar.gz"
-      ]
-    },
-    "1.5.36": {
-      "sdist": [
-        "LdlI1dByMpubGMv6998YkooKFYLJ5z9+e/Kzt1ruSJM=",
-        "instagram-scraper-1.5.36.tar.gz"
-      ]
-    },
-    "1.5.37": {
-      "sdist": [
-        "fzHKSvQVqCmKfUZJECwXkicM/LZNoNwM8JwE4wpJKGs=",
-        "instagram-scraper-1.5.37.tar.gz"
-      ]
-    },
-    "1.5.38": {
-      "sdist": [
-        "vyl0xW4mx+nG7Fmwcd6flA3MGcClI4nraCSolkMWzxM=",
-        "instagram-scraper-1.5.38.tar.gz"
-      ]
-    },
-    "1.5.39": {
-      "sdist": [
-        "Kj1M69he1MHGQZ3SFveHOlnkUx3WVVoPjgUfpYIBGeU=",
-        "instagram-scraper-1.5.39.tar.gz"
-      ]
-    },
-    "1.5.4": {
-      "sdist": [
-        "hMYxkJ+16Pv6iNZlIM4T+ibp9jaJqr7DcmRUpoc0tTk=",
-        "instagram-scraper-1.5.4.tar.gz"
-      ]
-    },
-    "1.5.40": {
-      "sdist": [
-        "ZRYzqVE2X2LWBSVTGNaD1T4q76oVjM2NEENHLB4HmMI=",
-        "instagram-scraper-1.5.40.tar.gz"
-      ]
-    },
-    "1.5.41": {
-      "sdist": [
-        "jnQ2DJOhCGyri/b7qHqRJsjjSkbLWwXCVgnec+oAgyw=",
-        "instagram-scraper-1.5.41.tar.gz"
-      ]
-    },
-    "1.5.5": {
-      "sdist": [
-        "oXsDOrcE7Bk39bbYHZJLdvNvahgMoTdnrDk8hbAd0BM=",
-        "instagram-scraper-1.5.5.tar.gz"
-      ]
-    },
-    "1.5.6": {
-      "sdist": [
-        "kthe+7jGYSgKK9Ua2mkODAEfwFtPd8mSw7U4JCeR4PE=",
-        "instagram-scraper-1.5.6.tar.gz"
-      ]
-    },
-    "1.5.7": {
-      "sdist": [
-        "DjziGaGj8Tq+UG2f08XtXnzO+k0VEbMXy3eOIMvEUsc=",
-        "instagram-scraper-1.5.7.tar.gz"
-      ]
-    },
-    "1.5.8": {
-      "sdist": [
-        "KwQjLqmD9+QKj4hWNSt4vxqYDal6a3TG1NmtrXGz8Ck=",
-        "instagram-scraper-1.5.8.tar.gz"
-      ]
-    },
-    "1.5.9": {
-      "sdist": [
-        "P5CktWPjMb4IccLbzyTG40suaUazyIrSaRYyJWWoOyY=",
-        "instagram-scraper-1.5.9.tar.gz"
-      ]
-    },
-    "1.6.0": {
-      "sdist": [
-        "iOw3jkExhWf6pxN75INeS42cpJapr9vmpcxa8Cm38Eo=",
-        "instagram-scraper-1.6.0.tar.gz"
-      ]
-    },
-    "1.6.1": {
-      "sdist": [
-        "etoSCrOULsg3k54YUEwOfddrmGkulX9v/7Vx+FPotcc=",
-        "instagram-scraper-1.6.1.tar.gz"
-      ]
-    },
-    "1.7.0": {
-      "sdist": [
-        "Q5B4LkYXYttIi4bh7F4KpjhKqoa7eyCAcRtfWzpRHlY=",
-        "instagram-scraper-1.7.0.tar.gz"
-      ]
-    },
-    "1.7.1": {
-      "sdist": [
-        "bp9Cnefh6BAoPrd1sa2IAN9gH0ZU5y5Lzb2jsKT0SNY=",
-        "instagram-scraper-1.7.1.tar.gz"
-      ]
-    },
-    "1.7.2": {
-      "sdist": [
-        "dpV6nfvIsFW5O1HKtTpxXEs1YXCktvoc2eA8p8oe/fg=",
-        "instagram-scraper-1.7.2.tar.gz"
-      ]
-    },
-    "1.8.0": {
-      "sdist": [
-        "iSQzOcybFqrm4U8Cgts8j/9kRWZe1rKY6B+bHNhq6/0=",
-        "instagram-scraper-1.8.0.tar.gz"
-      ]
-    },
-    "1.8.1": {
-      "sdist": [
-        "nKPBIxnvQsopwJftPAlEzvvr/bu6QPaeHGJhES1nvfg=",
-        "instagram-scraper-1.8.1.tar.gz"
-      ]
-    },
-    "1.9.0": {
-      "sdist": [
-        "eiw2PNRfO9xa6llA0rVHj6UrlB039nbEWbJNP97A2OU=",
-        "instagram-scraper-1.9.0.tar.gz"
-      ]
-    },
-    "1.9.1": {
-      "sdist": [
-        "dhhogiadvwPUAOMaPU/cSiHEvtwzjg7gFmfcGB1wAaw=",
-        "instagram-scraper-1.9.1.tar.gz"
+        "zSZAtU/ifJDQtSr5LhKW+hWSbkAvcZNVADkAa4/SfKM=",
+        "instagram-scraper-66.0.0.tar.gz"
       ]
     }
   },
@@ -113625,6 +113177,14 @@
       }
     }
   },
+  "python-step-client": {
+    "66.0.0": {
+      "sdist": [
+        "Kz4o4czdzdfvytYX57va9LLcFCG9qatyyQ0tMFoszIs=",
+        "python-step-client-66.0.0.tar.gz"
+      ]
+    }
+  },
   "python-telegram-bot-api": {
     "0.0.1": {
       "sdist": [
@@ -149939,6 +149499,14 @@
           "py3"
         ]
       }
+    }
+  },
+  "yandex-flasgger": {
+    "66.0.0": {
+      "sdist": [
+        "ImO71FdYXUKW/ZkdRmRsi+ODdsIzqS5bF/nHCbCfoRk=",
+        "yandex-flasgger-66.0.0.tar.gz"
+      ]
     }
   },
   "yaschedule": {

@@ -14623,6 +14623,34 @@
       }
     }
   },
+  "c-shuju-bingxing-jiaocheng-jifan": {
+    "2023.2.10.0": {
+      "sdist": [
+        "ixxSU3SLccwsxBc9csgy4uY0lhBi+W611JUbczZw2Ck=",
+        "c-shuju-bingxing-jiaocheng-jifan-2023.2.10.0.tar.gz"
+      ],
+      "wheels": {
+        "c_shuju_bingxing_jiaocheng_jifan-2023.2.10.0-py3-none-any.whl": [
+          "3kpm2PV/ztnO0RvqAWZl5tjHsyBQDBdsIH1LsyeIRug=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "c-youxi-donghua-biancheng-shiyong-zhinan-jifan": {
+    "2023.2.10.0": {
+      "sdist": [
+        "Rfv9P02G/bMt90lYBpSSlKP22Gpl4tm/CxhgU5gtYng=",
+        "c-youxi-donghua-biancheng-shiyong-zhinan-jifan-2023.2.10.0.tar.gz"
+      ],
+      "wheels": {
+        "c_youxi_donghua_biancheng_shiyong_zhinan_jifan-2023.2.10.0-py3-none-any.whl": [
+          "m2bd5irdleBzo30EtdJhqej4486jvFr3EAe4G+2E9fI=",
+          "py3"
+        ]
+      }
+    }
+  },
   "cachecow": {
     "0.1.2": {
       "sdist": [
@@ -16872,6 +16900,18 @@
       "wheels": {
         "cdktf_local_exec-0.2.2-py3-none-any.whl": [
           "gZ8K035rh+gYP8hmyWpFX5bj2tBLtyOngFBdxHBTDNk=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.3": {
+      "sdist": [
+        "0Z5fo5AatUDhKsHtQ1glyr88V8UVTLO4M09s2KkGvNU=",
+        "cdktf-local-exec-0.2.3.tar.gz"
+      ],
+      "wheels": {
+        "cdktf_local_exec-0.2.3-py3-none-any.whl": [
+          "VU4qdeWvrmWOJKTakzQ7Uen5Gh4Yo1hF3Fa/e5ETb9E=",
           "py3"
         ]
       }
@@ -44011,6 +44051,12 @@
         "Si2VlbrDMCnPC/kODFmgIMded68zRpay095AUN5Q2DI=",
         "eddl-yt-toolkit-66.0.0.tar.gz"
       ]
+    },
+    "66.0.2": {
+      "sdist": [
+        "242yeGFa9SGoZWoigs9tlGS17rqKUWFKaTYpMtcZQK0=",
+        "eddl-yt-toolkit-66.0.2.tar.gz"
+      ]
     }
   },
   "editobj2": {
@@ -44082,6 +44128,12 @@
       "sdist": [
         "VS48011qaQkP/uxNMGc4ZQzVOeOUbBW7YbMygpWx5mY=",
         "edu-pyrobo-66.0.0.tar.gz"
+      ]
+    },
+    "66.0.2": {
+      "sdist": [
+        "XU2GEkaseWRCCsHaTKR2IVDt9yzagrTrZis71/4Qqvk=",
+        "edu-pyrobo-66.0.2.tar.gz"
       ]
     }
   },
@@ -52176,6 +52228,18 @@
       "wheels": {
         "fosslight_prechecker-3.0.15-py3-none-any.whl": [
           "kVv1EfLvojbLYpfAuF5NkB3ZW1eACfSurBHCsNOUz7c=",
+          "py3"
+        ]
+      }
+    },
+    "3.0.16": {
+      "sdist": [
+        "TfOQmdASpMFDPt/1mGRBJycNyNdN4eKoqb6aRsA5UsA=",
+        "fosslight_prechecker-3.0.16.tar.gz"
+      ],
+      "wheels": {
+        "fosslight_prechecker-3.0.16-py3-none-any.whl": [
+          "UYPGI1V70Qaxt0gE3Af1+1o8TPgnIVSeqhnXBvsMiLw=",
           "py3"
         ]
       }
@@ -68960,6 +69024,18 @@
       "wheels": {
         "infer_types-0.3.1-py3-none-any.whl": [
           "CwOWkTZ8ZGR+DsurVkiIuHfmhxnHjZ0EFNhevg339Ys=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.2": {
+      "sdist": [
+        "pbZA4EdnjU2K3iXjKnoU6/0R5lLf4ZvsrLW2rRNp77M=",
+        "infer_types-0.3.2.tar.gz"
+      ],
+      "wheels": {
+        "infer_types-0.3.2-py3-none-any.whl": [
+          "HPOc1uQIhuCBmZNe5ElBd+i2d7YOs7xI/PRFSeFyv+g=",
           "py3"
         ]
       }
@@ -109900,10 +109976,6 @@
           "XIESG+sk3kJa07GZ2k4IM4w0qDSmLol2KNa/tqxcI9Y=",
           "cp310"
         ],
-        "pydracula-0.1.0-cp310-cp310-manylinux_2_34_x86_64.whl": [
-          "H6oa0vNTa1cxLM18qeLlg8HaJJ5HwUB4VSpBJox/gZY=",
-          "cp310"
-        ],
         "pydracula-0.1.0-cp311-cp311-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
           "t50ohhM/sO+jw9Rt5ATGxp/V16vk0HpF6f/fiq+extQ=",
           "cp311"
@@ -109927,6 +109999,14 @@
         "pydracula-0.1.0-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "DnZ4FRfQLsQzrHtBSR5oq/8S6q07Gk0llWsnh/qquHc=",
           "pp37"
+        ]
+      }
+    },
+    "0.1.1": {
+      "wheels": {
+        "pydracula-0.1.1-cp310-cp310-musllinux_1_1_x86_64.whl": [
+          "FD4mW+GbQLPhv7gLvel6yDPvaaZsx0IvnNCQLuSYC/w=",
+          "cp310"
         ]
       }
     }
@@ -111718,6 +111798,44 @@
       "wheels": {
         "pyjsaw-0.0.5-py3-none-any.whl": [
           "TTSxaa3WLzTEpn8AOSM+UN/XL8O6JaynnA/FSACBmNQ=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "pylarm": {
+    "1.0": {
+      "sdist": [
+        "yK/ytgHDEx48w+NhqibX0RUy5SP5OQ+xF/l4FVWkGc0=",
+        "pylarm-1.0.tar.gz"
+      ],
+      "wheels": {
+        "pylarm-1.0-py3-none-any.whl": [
+          "E826D01b45yDfrz895+YmRSW9xCkJtMMdsGSABjJR9o=",
+          "py3"
+        ]
+      }
+    },
+    "1.1": {
+      "sdist": [
+        "RZRLUlKcJGvo2/ipo549IJbnb7WTtZi90Y9zatQaWjY=",
+        "pylarm-1.1.tar.gz"
+      ],
+      "wheels": {
+        "pylarm-1.1-py3-none-any.whl": [
+          "MPDs4sNwdExIHV5Lp0OynSa/pnneI0xBZyRRKAKLr+U=",
+          "py3"
+        ]
+      }
+    },
+    "1.2": {
+      "sdist": [
+        "8Feni0ztR67g9eptUL+oVN9e5ZS1I1GL6LmI2yH2axU=",
+        "pylarm-1.2.tar.gz"
+      ],
+      "wheels": {
+        "pylarm-1.2-py3-none-any.whl": [
+          "Rlevz7C1bFq5uy9YYNbAHPvhugTjiyoPb34qGfDmTjo=",
           "py3"
         ]
       }
@@ -140558,6 +140676,12 @@
       "sdist": [
         "CWQii+WTztcsvOFYDbLKmlZz3wJzDKKtmatcdQU5Di4=",
         "tremolo-0.0.21.tar.gz"
+      ]
+    },
+    "0.0.22": {
+      "sdist": [
+        "R6/VtQb/z+332RtmAdiHjlFAFZm23NMIt82WSdUxMo4=",
+        "tremolo-0.0.22.tar.gz"
       ]
     },
     "0.0.3": {

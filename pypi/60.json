@@ -669,6 +669,12 @@
         "lBz7pHoaZwqKSZSRPkYTE13kHFDowZgnM+++iIosPAs=",
         "advq7_offline_phits-66.0.0.tar.gz"
       ]
+    },
+    "66.0.2": {
+      "sdist": [
+        "secuDLifsVm0cdaIfzmSRnrgy9UmuwG8qcJ/8M4l7LY=",
+        "advq7_offline_phits-66.0.2.tar.gz"
+      ]
     }
   },
   "aeplab": {
@@ -14619,6 +14625,18 @@
           "py3"
         ]
       }
+    },
+    "2.3.0b20230210": {
+      "wheels": {
+        "bigdl_friesian_spark3-2.3.0b20230210-py3-none-macosx_10_11_x86_64.whl": [
+          "H0/76MAsFkyos+p6lSbAZKn9HN+Pxz9pI8FglbeNnyU=",
+          "py3"
+        ],
+        "bigdl_friesian_spark3-2.3.0b20230210-py3-none-manylinux1_x86_64.whl": [
+          "ukH/RW0Wr6zny9eJz8oVftgE38gpgh9j4Xn1LTiq+as=",
+          "py3"
+        ]
+      }
     }
   },
   "binsinfo": {
@@ -21738,6 +21756,12 @@
       "sdist": [
         "vHe7YsCe4sh/RUzf74GYaLMQO3ekDJrxneFRzsQZHBM=",
         "chequevara-66.0.0.tar.gz"
+      ]
+    },
+    "66.0.2": {
+      "sdist": [
+        "pUxXAGWzrNOKCeKvTsIGfHVoniwVOz9kkY3g9MCL810=",
+        "chequevara-66.0.2.tar.gz"
       ]
     }
   },
@@ -48867,6 +48891,18 @@
           "py3"
         ]
       }
+    },
+    "1.1981.0": {
+      "sdist": [
+        "o8if3TkmSFu83tIW9PyXvz0VfRcXVHvKuNJtbv5Q9z8=",
+        "gardener-cicd-libs-1.1981.0.tar.gz"
+      ],
+      "wheels": {
+        "gardener_cicd_libs-1.1981.0-py3-none-any.whl": [
+          "3KVgm/CC7Xl/nHjYcSjCgGRCdi/TdIW1gUjlXQTsBR8=",
+          "py3"
+        ]
+      }
     }
   },
   "gcp-secret-manager-wrapper": {
@@ -72613,6 +72649,14 @@
           "py3"
         ]
       }
+    }
+  },
+  "matpltolib": {
+    "0.1": {
+      "sdist": [
+        "jSdbC0a0paOOmS0WdHDbJ4++qdDMr/c+eSCyIeyjD/4=",
+        "matpltolib-0.1.tar.gz"
+      ]
     }
   },
   "matrix-synapse-ray": {
@@ -101937,6 +101981,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.0": {
+      "sdist": [
+        "0+f6WXyn/4w46RXvObzbM3XwqYjxH15tbaqajb1FFb4=",
+        "peft-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "peft-0.1.0-py3-none-any.whl": [
+          "AnxpBkUEaxT06CxC1+37hrzuF6nK7luF1kTBRmVn3Jo=",
+          "py3"
+        ]
+      }
     }
   },
   "peopledatalabs": {
@@ -117920,6 +117976,18 @@
       "wheels": {
         "reportpl-0.2.3-py3-none-any.whl": [
           "6iDlvEfU4BLP/H80sbTeqO1pFoi5O95NmZDJknJ9fpQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.0": {
+      "sdist": [
+        "EbjLrC5po0ZOnUMOM0Axp9yRcuflWfVbVRK/32iJxlg=",
+        "reportpl-0.3.0.tar.gz"
+      ],
+      "wheels": {
+        "reportpl-0.3.0-py3-none-any.whl": [
+          "z1Vxt4r9fjZkEWbxTNifIJ4JB7hFTn5EheGOvs1jyUE=",
           "py3"
         ]
       }
@@ -137076,17 +137144,11 @@
     }
   },
   "tesnorflow": {
-    "2.9.1": {
+    "0.1": {
       "sdist": [
-        "lWFqhsHzultiu23yc/5iobZCBH8Zd6fmLHBVpiulbVE=",
-        "tesnorflow-2.9.1.tar.gz"
-      ],
-      "wheels": {
-        "tesnorflow-2.9.1-py3-none-any.whl": [
-          "TOVBy5OZuBHN3MZebPDTGegECQv/kAaQ5l8CIuwQHWQ=",
-          "py3"
-        ]
-      }
+        "0P3b1Om9iEfFw51gHLL8IYeJVUW6a2kBFi5NVk+gG5c=",
+        "tesnorflow-0.1.tar.gz"
+      ]
     }
   },
   "test-poetry-publish": {
@@ -140532,6 +140594,18 @@
       "wheels": {
         "tuxmake-1.1.0-py3-none-any.whl": [
           "Y11m9A4C+VpAObP+msCqAlqcHMAqkK2bl76gjA1YLM4=",
+          "py3"
+        ]
+      }
+    },
+    "1.10.0": {
+      "sdist": [
+        "NJHSMhscPUh9lTp7JK0k7R4eAfanFZdc9clnuR6Y2Kc=",
+        "tuxmake-1.10.0.tar.gz"
+      ],
+      "wheels": {
+        "tuxmake-1.10.0-py3-none-any.whl": [
+          "KpIzcew/NW1eMC4wEV6/DXp67OWO2CIRRA3P44BWYRk=",
           "py3"
         ]
       }
@@ -145184,6 +145258,18 @@
       "wheels": {
         "vsdenoise-1.2.0-py3-none-any.whl": [
           "xSXXW/OOFX1ect2gYU3Lt7w1Q0TraAxsAlA4dptnWes=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.0": {
+      "sdist": [
+        "C5dthP9XGpMk/cY5mZcTEXAe08cBAdNG6KH7Jh0mp+w=",
+        "vsdenoise-2.0.0.tar.gz"
+      ],
+      "wheels": {
+        "vsdenoise-2.0.0-py3-none-any.whl": [
+          "axdulDRQfe2xrRSofE+7jdBfQCEuTiBHWtV6gdYJhQ4=",
           "py3"
         ]
       }

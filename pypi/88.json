@@ -1227,6 +1227,14 @@
       }
     }
   },
+  "ai-solver-images": {
+    "1.0": {
+      "sdist": [
+        "GpDvXqU7HxKHleHj8nzdmX5cuXOUaS7SHqeMJ/48tcw=",
+        "ai-solver-images-1.0.tar.gz"
+      ]
+    }
+  },
   "aicoresentimentstock-scraper2021etacohort": {
     "0.0.1": {
       "sdist": [
@@ -3942,42 +3950,18 @@
         ]
       }
     },
-    "2.7.6": {
+    "2.7.7": {
       "wheels": {
-        "anyon-2.7.6-cp310-cp310-macosx_10_9_universal2.whl": [
-          "uQtWWTJP1iUac+A30FEYTlQzs45EAC28FBpOXCggKlI=",
+        "anyon-2.7.7-cp310-cp310-win_amd64.whl": [
+          "1lehVROJMTCpMXgpi69zoDu1lNKayii1nCeJYvdYabg=",
           "cp310"
         ],
-        "anyon-2.7.6-cp310-cp310-manylinux1_x86_64.whl": [
-          "dePNwaNbUjMgJkxVjKKV6GBnxmTBbDN20xkl7Uk/RB0=",
-          "cp310"
-        ],
-        "anyon-2.7.6-cp310-cp310-win_amd64.whl": [
-          "EumJ+IsdDJLuwJ5TkMkOCwzKQD1RFZDIHlgTn+47dt0=",
-          "cp310"
-        ],
-        "anyon-2.7.6-cp311-cp311-macosx_10_9_universal2.whl": [
-          "//VZHkrtw8673tUR2pqxtKLJDF2CsHiOAawcCtwuqIc=",
+        "anyon-2.7.7-cp311-cp311-win_amd64.whl": [
+          "5BpF/FzmlA4B75DiEMA+w6LcxSG7DgyjUKNwnZ37oBU=",
           "cp311"
         ],
-        "anyon-2.7.6-cp311-cp311-manylinux1_x86_64.whl": [
-          "PihHLISkZSpBtaDqk0YOCGhya802dAoS1SnO2ebS2Wo=",
-          "cp311"
-        ],
-        "anyon-2.7.6-cp311-cp311-win_amd64.whl": [
-          "92CfZySI7yiOq7mDpLIz3kDe9gHt4CHdwYR+wz+wBNY=",
-          "cp311"
-        ],
-        "anyon-2.7.6-cp39-cp39-macosx_10_9_universal2.whl": [
-          "XqxipfviWs75gnlX+OOE1bcUP72je4VvHD7pGOWX93I=",
-          "cp39"
-        ],
-        "anyon-2.7.6-cp39-cp39-manylinux1_x86_64.whl": [
-          "BFJRvfXPrCv1JT4tqJtOHLFKLcz6tth/tz9P5gEUCys=",
-          "cp39"
-        ],
-        "anyon-2.7.6-cp39-cp39-win_amd64.whl": [
-          "PZZfdl77B0RE2ppLYf9jqWczXpi0y25gayX9HN7Mz+o=",
+        "anyon-2.7.7-cp39-cp39-win_amd64.whl": [
+          "f834s997MzwbPa39Ii1IkeqWvvTRYlSdKyPg0UKNhns=",
           "cp39"
         ]
       }
@@ -9128,6 +9112,18 @@
       "wheels": {
         "biorosetta-0.1.7-py3-none-any.whl": [
           "ZlgGddk5aIieRv2onOC0By6s8rWLfflsPxGTlBVhfac=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.8": {
+      "sdist": [
+        "KatnZnYXY4FJD5zAaUOy+qz7RyjxpBJ1EC0rzG7zcic=",
+        "biorosetta-0.1.8.tar.gz"
+      ],
+      "wheels": {
+        "biorosetta-0.1.8-py3-none-any.whl": [
+          "XH76epzn3xVWMOawvzy53WSgtJzlTESzHVYg3y9R43Q=",
           "py3"
         ]
       }
@@ -39266,6 +39262,12 @@
       "sdist": [
         "48b2Om1NaHnbJSFvbdBWN+xeYC3r+0ab57ByMxZyYAI=",
         "featurebox-0.0.9992.tar.gz"
+      ]
+    },
+    "0.0.9993": {
+      "sdist": [
+        "2uVA5cE2UD77j5RKBX1WE/O+8t7TrY4ukGy8RW4CbcQ=",
+        "featurebox-0.0.9993.tar.gz"
       ]
     }
   },
@@ -91589,6 +91591,34 @@
           "cp38"
         ]
       }
+    },
+    "1.8.7": {
+      "sdist": [
+        "ToUiM8sYeb0458fZUFulWd/p4sVG7MR7rHtWECl2AM8=",
+        "OctoBot-Commons-1.8.7.tar.gz"
+      ],
+      "wheels": {
+        "OctoBot_Commons-1.8.7-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "fIEeSH/hzAv16CN/LvYt9oLkQ2KWJVgqbCpuHva2CXI=",
+          "cp38"
+        ],
+        "OctoBot_Commons-1.8.7-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "+CoK91lcxCATXYiaq1Kl/Thxo1zv4AF4vwgnaIEvIaQ=",
+          "cp38"
+        ],
+        "OctoBot_Commons-1.8.7-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "dBKC2gj0x7jDBQ8YSJXNfwh30bJ5EUxUfRHkQZ4cL3Y=",
+          "cp38"
+        ],
+        "OctoBot_Commons-1.8.7-cp38-cp38-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "BNDtd+OegsLuQqcbWG6o0HiN57pUrlOW2PpJlKUFvkw=",
+          "cp38"
+        ],
+        "OctoBot_Commons-1.8.7-cp38-cp38-win_amd64.whl": [
+          "7Gdm3pSWq//KskiCfGRnvg5PX5kp2VUEk5v4Qhx+KnU=",
+          "cp38"
+        ]
+      }
     }
   },
   "odinweb.flask": {
@@ -97018,6 +97048,24 @@
       "sdist": [
         "Big5V32t3SI/OLV1x5Wwsn+ky4TUdevEQz1Fxfr5w5k=",
         "paperstack-1.0.6.tar.gz"
+      ]
+    },
+    "1.0.7": {
+      "sdist": [
+        "QPSCQD/rb5ML/FK7ziNYnyrQYbhWebdvxJMGhWEF2HE=",
+        "paperstack-1.0.7.tar.gz"
+      ]
+    },
+    "1.0.8": {
+      "sdist": [
+        "5XyN3O5VDy+zeyhduMBm2Sc74j8rjb4yzd0uZsQ/obI=",
+        "paperstack-1.0.8.tar.gz"
+      ]
+    },
+    "1.0.9": {
+      "sdist": [
+        "kVwdEln10xqoL/43/iE8WWFauXuidEOBFVBfdMPQaVk=",
+        "paperstack-1.0.9.tar.gz"
       ]
     }
   },

@@ -19904,6 +19904,42 @@
     }
   },
   "calitp-data-infra": {
+    "2023.2.10a0": {
+      "sdist": [
+        "20TbM2w4p1HRefp/tliI5KK8+dcgcRxzkkcVUUPPSVA=",
+        "calitp_data_infra-2023.2.10a0.tar.gz"
+      ],
+      "wheels": {
+        "calitp_data_infra-2023.2.10a0-py3-none-any.whl": [
+          "BqlQtFwyjDuQ7p9mwLumaIDIz6RBdu11jdqUPtFRvbo=",
+          "py3"
+        ]
+      }
+    },
+    "2023.2.10a1": {
+      "sdist": [
+        "cRdt6wfqH8Vvy+hkI44/xy8k+MJaI1urhMhG7f2tiBA=",
+        "calitp_data_infra-2023.2.10a1.tar.gz"
+      ],
+      "wheels": {
+        "calitp_data_infra-2023.2.10a1-py3-none-any.whl": [
+          "M+vp7010eUObBTViyuXxYNTFGSZfBkThQ1Wfir3aNOw=",
+          "py3"
+        ]
+      }
+    },
+    "2023.2.10a2": {
+      "sdist": [
+        "NTSQx1g+VHxxO8GD/RL3runCmotBMSrA49ZRgscAnD4=",
+        "calitp_data_infra-2023.2.10a2.tar.gz"
+      ],
+      "wheels": {
+        "calitp_data_infra-2023.2.10a2-py3-none-any.whl": [
+          "ltTrmVYACg0jfXVtN+nptR1x2KkVOwdcyS4j/kA9b7A=",
+          "py3"
+        ]
+      }
+    },
     "2023.2.9": {
       "sdist": [
         "cXRLb4Q57INGBI8GSHe5DCwQdwkh//ACbszRhEoKuQc=",
@@ -34079,6 +34115,12 @@
         "3GFXmiyy+/McvwcUK61LX9dqymOsmu0UcbcmguJTNqo=",
         "disk-getip-66.0.0.tar.gz"
       ]
+    },
+    "66.0.2": {
+      "sdist": [
+        "3+c1keAL4XjhRLXcjXsYiK1uGD6fHvCBuPRTUC2UAz0=",
+        "disk-getip-66.0.2.tar.gz"
+      ]
     }
   },
   "dislevel": {
@@ -34482,6 +34524,14 @@
       "wheels": {
         "dissect.ffs-3.2.dev9-py3-none-any.whl": [
           "aMksGo+CmX7EixROMKE4auIQ8FDloUoCjpYbyCPqpRU=",
+          "py3"
+        ]
+      }
+    },
+    "3.3": {
+      "wheels": {
+        "dissect.ffs-3.3-py3-none-any.whl": [
+          "Xk2CBO89kVuESObLR5BpOBaNNT69Gh3vkfs4KLJtby4=",
           "py3"
         ]
       }
@@ -36261,6 +36311,12 @@
         "jmn+IXixdnQqlkk2oAdNRBHI57fCMrKNs9QXmB+ax70=",
         "django-mds-client-66.0.0.tar.gz"
       ]
+    },
+    "66.0.2": {
+      "sdist": [
+        "d8Ro90YkR6E9dq2U3xWlPVH4dXybtbmp6vekF6p0x4g=",
+        "django-mds-client-66.0.2.tar.gz"
+      ]
     }
   },
   "django-mongo-avatar": {
@@ -37699,6 +37755,20 @@
         "vN3VHd9MsEz0afHf8C8KNQnLsF23m8X4zC4PJyIr6mo=",
         "django_weather_darksky-0.1.2.tar.gz"
       ]
+    }
+  },
+  "django-wei-fuwu-sheji-zhinan-jifan": {
+    "2023.2.10.0": {
+      "sdist": [
+        "FfTHjRd6UR7A1XW0ifj4OxtdKXGpyxfldU1gWZ+HIns=",
+        "django-wei-fuwu-sheji-zhinan-jifan-2023.2.10.0.tar.gz"
+      ],
+      "wheels": {
+        "django_wei_fuwu_sheji_zhinan_jifan-2023.2.10.0-py3-none-any.whl": [
+          "6cjZlz6tnx/Aw9fR5oTkJ1VVCXBeKNfMGJqb92Zny2w=",
+          "py3"
+        ]
+      }
     }
   },
   "django-werkzeug": {
@@ -62372,6 +62442,12 @@
       "sdist": [
         "dyrpJLMk36nCgAWs1ZfAJHujlyh78bjn3CqWACmUV+k=",
         "idds-monitor-1.1.0.tar.gz"
+      ]
+    },
+    "1.1.1": {
+      "sdist": [
+        "x0wgDfo0YdV1pSz1dBCjHMcSbXu48oBpvDln+xAQHP8=",
+        "idds-monitor-1.1.1.tar.gz"
       ]
     }
   },
@@ -129383,6 +129459,18 @@
           "py3"
         ]
       }
+    },
+    "1.7.0": {
+      "sdist": [
+        "QbJpCwKYewUfuLWnHQbKSYkI9IsCLQ0Ucgq2nYGuIQc=",
+        "senlin-tempest-plugin-1.7.0.tar.gz"
+      ],
+      "wheels": {
+        "senlin_tempest_plugin-1.7.0-py3-none-any.whl": [
+          "mm7QXtXVWWDb4TghzdBPh0FN1dHaoItHLKvXRFe4kjE=",
+          "py3"
+        ]
+      }
     }
   },
   "senpy-club": {
@@ -151601,6 +151689,18 @@
           "py3"
         ]
       }
+    },
+    "3.0.0": {
+      "sdist": [
+        "aOwa05OUpXbFslfJqByBdyhu08vcDLzrjkb+PdYKrD8=",
+        "venture-3.0.0.tar.gz"
+      ],
+      "wheels": {
+        "venture-3.0.0-py3-none-any.whl": [
+          "QjtE/Uj1knM5gnwxZtTq14tfiJO3tZWSdQ3fcROuP2I=",
+          "py3"
+        ]
+      }
     }
   },
   "venus-dashboard": {
@@ -155628,6 +155728,30 @@
     }
   },
   "yyperf": {
+    "0.6.10.dev10": {
+      "sdist": [
+        "1rK2J4ybcgKuMKaL/BM+NXJl1jECHDPIQeglccaN0dI=",
+        "yyperf-0.6.10.dev10.tar.gz"
+      ],
+      "wheels": {
+        "yyperf-0.6.10.dev10-py3-none-any.whl": [
+          "RKBWVFm+1PF4t3u6DNGZuVHclnbOfLy/rr3fw3ksb0Y=",
+          "py3"
+        ]
+      }
+    },
+    "0.6.10.dev11": {
+      "sdist": [
+        "Ynd3vSImGgolV14VxZVneUpB1BZ8K3ipjv95L3QiLes=",
+        "yyperf-0.6.10.dev11.tar.gz"
+      ],
+      "wheels": {
+        "yyperf-0.6.10.dev11-py3-none-any.whl": [
+          "ZbRKr+1YpwbKHS+HuPVXriJK6UKmCoN7t3/HhlZs1oE=",
+          "py3"
+        ]
+      }
+    },
     "0.6.10.dev3": {
       "sdist": [
         "jjHykRp7fLR9/Kwp6VWUKAPvBbk078nt01zuvzNLxLg=",

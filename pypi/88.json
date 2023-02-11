@@ -1844,6 +1844,30 @@
         ]
       }
     },
+    "2.11.0": {
+      "sdist": [
+        "4MZDkjRkSK1e1AnP7s8zeeJR6Y3UMgxBFoT3knoh+8g=",
+        "aleph-alpha-client-2.11.0.tar.gz"
+      ],
+      "wheels": {
+        "aleph_alpha_client-2.11.0-py3-none-any.whl": [
+          "6fe/gUVF1jGmUaiveGYfzZddXYcFRCbBev4E12EaNzA=",
+          "py3"
+        ]
+      }
+    },
+    "2.11.1": {
+      "sdist": [
+        "nyPJVrNL4UKJ8zoowy43vTHCFgVC7G1YUUe/N+tH6U4=",
+        "aleph-alpha-client-2.11.1.tar.gz"
+      ],
+      "wheels": {
+        "aleph_alpha_client-2.11.1-py3-none-any.whl": [
+          "0AoIvih5wxMiin12jla/IpTbe2tcQSwMcVDoj4LBh5o=",
+          "py3"
+        ]
+      }
+    },
     "2.2.0": {
       "sdist": [
         "592dFP4s+zVE/HvLMX84ivJeOs5OzqT+a+cOPaFB5CA=",
@@ -10576,6 +10600,18 @@
       "wheels": {
         "botocore_a_la_carte_firehose-1.29.68-py3-none-any.whl": [
           "2JCOXPfTDhqUT5jgyehwz1i+PTXNco4USn44kEAu89U=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.69": {
+      "sdist": [
+        "Xg3hL1TMJedJDC2E6zqRKzGuLFCxx9n+QejE52qsFj4=",
+        "botocore-a-la-carte-firehose-1.29.69.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_firehose-1.29.69-py3-none-any.whl": [
+          "GyY70OwBT9iIjY6vawj4tFL05BUmDGOeV066yU84alM=",
           "py3"
         ]
       }
@@ -25584,6 +25620,12 @@
       "sdist": [
         "S7sz1yttyQmKn6r6hlwYd9zv/tI3vLdbz8Sh+0lRkeE=",
         "django-avia-feature-flag-app-66.0.0.tar.gz"
+      ]
+    },
+    "66.0.2": {
+      "sdist": [
+        "ciGHRS8p6+X6/98avlIKXe6+iG5Jf601I1qiGLkZTxM=",
+        "django-avia-feature-flag-app-66.0.2.tar.gz"
       ]
     }
   },
@@ -43207,6 +43249,12 @@
         "2cZT5kyNb4fT/EXhc4306S1P/RrvIKmq4b+twJUNUtk=",
         "flask-restplus-with-webargs-66.0.0.tar.gz"
       ]
+    },
+    "66.0.2": {
+      "sdist": [
+        "/XSzuqra8HZe8z5vp1DLH+0+EPJzNgsRrLbBo5wEIZA=",
+        "flask-restplus-with-webargs-66.0.2.tar.gz"
+      ]
     }
   },
   "flit-demo": {
@@ -50479,6 +50527,20 @@
         "GOUDA-0.6.0-py2.py3-none-any.whl": [
           "fI6LGFnzUs9OuBzNXY89kW4si7tYQcwG3RwQrN/jUPM=",
           "py2.py3"
+        ]
+      }
+    }
+  },
+  "goujian-ke-shensuo-de-php-web-yingyong-jifan": {
+    "2023.2.11.0": {
+      "sdist": [
+        "hOWxl/Wo6DB1tJ8LN/xU4xLXMyPOpV+0I+fRMkCFlxY=",
+        "goujian-ke-shensuo-de-php-web-yingyong-jifan-2023.2.11.0.tar.gz"
+      ],
+      "wheels": {
+        "goujian_ke_shensuo_de_php_web_yingyong_jifan-2023.2.11.0-py3-none-any.whl": [
+          "S9EZOFJ+YaZrGw14ItmkclA/lWVuNfPhTC5d+AvWoPk=",
+          "py3"
         ]
       }
     }
@@ -91619,6 +91681,34 @@
           "cp38"
         ]
       }
+    },
+    "1.8.8": {
+      "sdist": [
+        "h871sgEfyhpciBL8EU/Xh+i61k+qgiqhxpZjNUPlick=",
+        "OctoBot-Commons-1.8.8.tar.gz"
+      ],
+      "wheels": {
+        "OctoBot_Commons-1.8.8-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "FryIa6Es5ZriaMxkbHBCRoSdII0r3u4IQu58RCap5Gw=",
+          "cp38"
+        ],
+        "OctoBot_Commons-1.8.8-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "P7lBz05LVUv4++ltkYIZqqHxtLFK6qZSA5+5tfWw5xM=",
+          "cp38"
+        ],
+        "OctoBot_Commons-1.8.8-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "kkEPS+mX8hYY4kIDaJAG2kw2i4W7BmHevbkcpppWHY4=",
+          "cp38"
+        ],
+        "OctoBot_Commons-1.8.8-cp38-cp38-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "YNT1urz0/tadMc/zewNL+DCvAX8MrykEP/wmHM64PtE=",
+          "cp38"
+        ],
+        "OctoBot_Commons-1.8.8-cp38-cp38-win_amd64.whl": [
+          "mOZpz+Fq469bRTJpS/QmvAKYvdhmpAnvCUlrU9qFeE8=",
+          "cp38"
+        ]
+      }
     }
   },
   "odinweb.flask": {
@@ -95581,6 +95671,12 @@
         "EbdsVmTncsTwDE4ObR3Vp62HC7Ysigl2lDkWLy4OnyY=",
         "oort-caas-66.0.0.tar.gz"
       ]
+    },
+    "66.0.2": {
+      "sdist": [
+        "2kfiJivFtbkOpjLM2yQuLhBhi3V30YkbOLtCxIXnz2g=",
+        "oort-caas-66.0.2.tar.gz"
+      ]
     }
   },
   "oort-simple-service": {
@@ -95588,6 +95684,12 @@
       "sdist": [
         "vj+UBnbptTt+Ed8CxZzPd5r7W3hBrFXfdSFZ45EyfDE=",
         "oort-simple-service-66.0.0.tar.gz"
+      ]
+    },
+    "66.0.2": {
+      "sdist": [
+        "wcaGPxxYTN2l2RnQZyyox6vyY0s7P/CNEgpTDh4L4lM=",
+        "oort-simple-service-66.0.2.tar.gz"
       ]
     }
   },
@@ -97066,6 +97168,12 @@
       "sdist": [
         "kVwdEln10xqoL/43/iE8WWFauXuidEOBFVBfdMPQaVk=",
         "paperstack-1.0.9.tar.gz"
+      ]
+    },
+    "1.1.0": {
+      "sdist": [
+        "l1j0NeuD9IPFPY8n5D1az9pEnPkkTQ3P+s2pFpBx7Os=",
+        "paperstack-1.1.0.tar.gz"
       ]
     }
   },
@@ -103726,6 +103834,18 @@
       "wheels": {
         "pwncli-1.3-py3-none-any.whl": [
           "EwLh5Q/WxYplhA4RP/VJYVbfDnqHcE/ZxA6vL2LFwTc=",
+          "py3"
+        ]
+      }
+    },
+    "1.4": {
+      "sdist": [
+        "SSImyTKBjXCm4U6WQlb2lZh5kAACjbn1jgs5SgK8910=",
+        "pwncli-1.4.tar.gz"
+      ],
+      "wheels": {
+        "pwncli-1.4-py3-none-any.whl": [
+          "IpTC+JNgD9XY8shLjJwEMleW8BPQyscTg1IKNjzwuIg=",
           "py3"
         ]
       }
@@ -114821,6 +114941,12 @@
         "9PmmdIw5p5GeYOP6PvAq4geFzasPochbEYHVM71qxmo=",
         "python-haas-blackboxer-66.0.0.tar.gz"
       ]
+    },
+    "66.0.2": {
+      "sdist": [
+        "ymarTRjGaf0w7iudNXx90BN3KUH80N9RsKVMjRSMgCI=",
+        "python-haas-blackboxer-66.0.2.tar.gz"
+      ]
     }
   },
   "python-install": {
@@ -116072,6 +116198,46 @@
         ],
         "pywry-0.2.6-cp39-none-win_amd64.whl": [
           "myQmyx8CZDxVJaT8+T/2LGZbHrWYQJbD7kXw/PGZQ0s=",
+          "cp39"
+        ]
+      }
+    },
+    "0.2.7": {
+      "sdist": [
+        "PdI//1b9/EIh9vqBiJDPHdOGOZGOw8ngiQfOMuHy7Dk=",
+        "pywry-0.2.7.tar.gz"
+      ],
+      "wheels": {
+        "pywry-0.2.7-cp310-cp310-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "yRMnljIZPJzoo9/pS9SXYZJPDc+moy4Lt03pGK67oXk=",
+          "cp310"
+        ],
+        "pywry-0.2.7-cp310-none-win_amd64.whl": [
+          "aJyeXcSLun0S/ruqCLvUWTIj3qeSCjZWKI2PBMQgELU=",
+          "cp310"
+        ],
+        "pywry-0.2.7-cp311-cp311-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "HGyDLhRSLR+FQtHJeJNONQ7sVUjnOS1aQPprvnCOCuM=",
+          "cp311"
+        ],
+        "pywry-0.2.7-cp311-none-win_amd64.whl": [
+          "8p81B6JzxIm3PTvbPTZ+DtomO8TvMSs1qBRTHNAh/TA=",
+          "cp311"
+        ],
+        "pywry-0.2.7-cp38-cp38-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "7xk5JAtq0N+raJ6V3UPqP9Tb1SozZ2voiOIlBS0YNmY=",
+          "cp38"
+        ],
+        "pywry-0.2.7-cp38-none-win_amd64.whl": [
+          "MX72XesL2RbmYyChjkTYN5OmnKExbbh78K1bF46GXKc=",
+          "cp38"
+        ],
+        "pywry-0.2.7-cp39-cp39-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "A5Uc/gSyoLK5zWZ9T9UTqly5owE4xgflIEwM2IAuKmE=",
+          "cp39"
+        ],
+        "pywry-0.2.7-cp39-none-win_amd64.whl": [
+          "MGH3LAovbSFtj2nKZWtyBcTLiWU/y7Zuh80G2+4W68g=",
           "cp39"
         ]
       }
@@ -149852,6 +150018,12 @@
       "sdist": [
         "mtaYd4llt7oSbupoQMuUdnpeibfgc8oS1fzDXhzm/gk=",
         "yandex-normalizer-general-66.0.0.tar.gz"
+      ]
+    },
+    "66.0.2": {
+      "sdist": [
+        "jkYoq/tPzHPYhoH0Xiu/9wCosxlVr4oIeCzrBSgtyqk=",
+        "yandex-normalizer-general-66.0.2.tar.gz"
       ]
     }
   },

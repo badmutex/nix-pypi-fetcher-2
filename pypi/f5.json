@@ -12033,6 +12033,12 @@
         "4leqi08/CsU6dbY1ee+pqEYQsijOTSnYWeKTyxSBYRk=",
         "boilerplatecode-0.0.2.tar.gz"
       ]
+    },
+    "0.0.5": {
+      "sdist": [
+        "u5nNH2/0uKP44NkNFVhJ5lJCy4VzhAI43Fwqy0i2Bmk=",
+        "boilerplatecode-0.0.5.tar.gz"
+      ]
     }
   },
   "bol-crawler": {
@@ -12396,6 +12402,18 @@
       "wheels": {
         "botocore_a_la_carte_ses-1.29.68-py3-none-any.whl": [
           "fLEjAmom5n2Mqr1Lvg/zNGXHKrp8+lJbUJ4fm1bDtdc=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.69": {
+      "sdist": [
+        "YJMGqaEGjHQ9JJaNbfm+XUKyobGd6isr5KV0e9dJRDE=",
+        "botocore-a-la-carte-ses-1.29.69.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_ses-1.29.69-py3-none-any.whl": [
+          "ZQv47TUdoHjU7uVgGG4nct5O0JBNITDqVQUr7nafuvY=",
           "py3"
         ]
       }
@@ -15684,6 +15702,10 @@
           "StyYXOfJiEaRd5jUG4/WWO3kjW++bijAeh+IwPOkBDU=",
           "cp310"
         ],
+        "BTrees-5.0-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "nfhckCJ6dwlOG4e09+WYmKXoM3L2l4MPYOkwelG0Wus=",
+          "cp310"
+        ],
         "BTrees-5.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "5/dDIrGOz+XPYhcLDD1H9uzfvvisPHuTY6TxlY5MGzY=",
           "cp310"
@@ -15704,6 +15726,10 @@
           "1M0fuXRgRe0Z/sq4L5bNf45YJobdK3sl+6Mk8ie+0ag=",
           "cp311"
         ],
+        "BTrees-5.0-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "+plxnCnD4fA8C/ZL3P0BSOBSgEQIvFT2Vbu4SbHpCuY=",
+          "cp311"
+        ],
         "BTrees-5.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "Qnq+Ou7EGKSL8cMvzFpLNBq7B9P61Tc1h+ba4OFWRqk=",
           "cp311"
@@ -15718,6 +15744,10 @@
         ],
         "BTrees-5.0-cp37-cp37m-macosx_10_15_x86_64.whl": [
           "KTFFHlfxFeegaz0qZpbhiL9wknUk2ZwH7ipc8bLAkI8=",
+          "cp37"
+        ],
+        "BTrees-5.0-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "mgH0Q8gK/SIu85HBzvZy9pVNRi7MlgBfVJlLM9yqZBE=",
           "cp37"
         ],
         "BTrees-5.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
@@ -15740,6 +15770,10 @@
           "iNTFfCv76itCbCJsd1M2R9jVLyZsZ1fwY2Zzy7rBXEg=",
           "cp38"
         ],
+        "BTrees-5.0-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "WByX3s8GNuQTRfqkvsuDc/3A/bY3PnBCtCK3rjpLzas=",
+          "cp38"
+        ],
         "BTrees-5.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "DGwjyT5E6wftgidtSp5aRf4zYX+eu8XkKxfQnhbUrdI=",
           "cp38"
@@ -15758,6 +15792,10 @@
         ],
         "BTrees-5.0-cp39-cp39-macosx_11_0_arm64.whl": [
           "Qsic5jkqh6Zzrk18rPbEzn5HRI90JLw5iNW93BqFNAE=",
+          "cp39"
+        ],
+        "BTrees-5.0-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "J9tTx0Oiafpx6b8IGy8CfsnZNpV5RoXoK4FJtTmASf8=",
           "cp39"
         ],
         "BTrees-5.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
@@ -29965,6 +30003,20 @@
       ]
     }
   },
+  "cuda-biancheng-xuexi-shouce-jifan": {
+    "2023.2.11.0": {
+      "sdist": [
+        "yfNY5W5mfBr+dgmsbGNXK1R5MChUoK7faSzYZrAoQ60=",
+        "cuda-biancheng-xuexi-shouce-jifan-2023.2.11.0.tar.gz"
+      ],
+      "wheels": {
+        "cuda_biancheng_xuexi_shouce_jifan-2023.2.11.0-py3-none-any.whl": [
+          "PmFVJr1luEvWMOnl2vsbuyvD9Ym3elPYJKWza8cexN8=",
+          "py3"
+        ]
+      }
+    }
+  },
   "cupy-rocm-4-5": {
     "0.0.1": {
       "sdist": [
@@ -31120,6 +31172,18 @@
       "wheels": {
         "deep_sort_realtime-1.3.1-py3-none-any.whl": [
           "7P0MAFZb5jMMdc1Fggrpvi2M1MRfAxfa/DCYW1daFLA=",
+          "py3"
+        ]
+      }
+    },
+    "1.3.2": {
+      "sdist": [
+        "Mrq5L5gaJ0/OP/Eh81iU5a2rfKADFMETw0jee8uC1z4=",
+        "deep-sort-realtime-1.3.2.tar.gz"
+      ],
+      "wheels": {
+        "deep_sort_realtime-1.3.2-py3-none-any.whl": [
+          "puFEyIj9+yckXSoGCsvg0vMIhEje+8QZ96JrzgY73Ww=",
           "py3"
         ]
       }
@@ -37720,6 +37784,24 @@
       "sdist": [
         "p0xHGeMXmO33sQY8YF4LCY8Yrf9hfpGumQue2NSWUgc=",
         "djangobuk_envsettings-0.3.1.tar.gz"
+      ]
+    },
+    "0.3.2": {
+      "sdist": [
+        "r+Mqxr1/KGNSKUo8TwYRjLloN2cvXGpElynMvKzibLU=",
+        "djangobuk_envsettings-0.3.2.tar.gz"
+      ]
+    },
+    "0.4.0": {
+      "sdist": [
+        "Q3W4hRinsM+nTea2A6zuANC25QyFUczAnMYlgcmrpyU=",
+        "djangobuk_envsettings-0.4.0.tar.gz"
+      ]
+    },
+    "0.4.1": {
+      "sdist": [
+        "gHMzRx4vMacTx3U4e+8FzecgW4yPYBC72znPKccHi9c=",
+        "djangobuk_envsettings-0.4.1.tar.gz"
       ]
     }
   },
@@ -79716,6 +79798,12 @@
       "sdist": [
         "OpDBKVFsgRyOPr3BJ/YqJ6UhV2nafAhvQkZpavbf4xA=",
         "metacards_bert-66.0.0.tar.gz"
+      ]
+    },
+    "66.0.2": {
+      "sdist": [
+        "ZmEk78L0QBJQ/lC+dJkNH01ZYjS/i8eshgGC1dcfBM0=",
+        "metacards_bert-66.0.2.tar.gz"
       ]
     }
   },
@@ -125015,6 +125103,20 @@
       }
     }
   },
+  "python-ruanjiangongcheng-shiyong-zhinan-jifan": {
+    "2023.2.11.0": {
+      "sdist": [
+        "D44hG8nMK850bPdGpFt6P3Rom4MglRsvio9r7KlLP0U=",
+        "python-ruanjiangongcheng-shiyong-zhinan-jifan-2023.2.11.0.tar.gz"
+      ],
+      "wheels": {
+        "python_ruanjiangongcheng_shiyong_zhinan_jifan-2023.2.11.0-py3-none-any.whl": [
+          "jjGAka/nNAsn7BLM8jXLVlxnQ3oZwmM9sLLojCqU/Ho=",
+          "py3"
+        ]
+      }
+    }
+  },
   "python-sample-app": {
     "1.0": {
       "sdist": [
@@ -135194,6 +135296,18 @@
       "wheels": {
         "scPANTHEON-0.1.0-py3-none-any.whl": [
           "QFQQ2COEdz7AYEzfhW0PLaS9Nq8kVmQGT9IEu5Bv9hc=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "YXf1Jq6/Ljz7kVo8UFuoi/6pXEr5vITxBCfOiJ3gFok=",
+        "scPANTHEON-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "scPANTHEON-0.1.1-py3-none-any.whl": [
+          "g6WGy6va0xbdg/2wqs/NC8S7ZRVEzfnfAVxShc2sFc8=",
           "py3"
         ]
       }
@@ -153643,6 +153757,12 @@
         "xtOr4+NwVpM1xNNnSwa6xMtsaBgMTP2O6o5xut/myJE=",
         "wasp_secret_bin-66.0.0.tar.gz"
       ]
+    },
+    "66.0.2": {
+      "sdist": [
+        "Ftgg7GH6iFJ94OUtQlUUT2red+o5x4jxD/UKxcTeLdk=",
+        "wasp_secret_bin-66.0.2.tar.gz"
+      ]
     }
   },
   "wavveparser": {
@@ -155563,6 +155683,12 @@
         "UQQRscItBaUuprrTUOSHr84Ndu31Wvsf1jKI/WsghNc=",
         "ya_ppln-66.0.0.tar.gz"
       ]
+    },
+    "66.0.2": {
+      "sdist": [
+        "1MRn9sPQhvaOladPAM72GoAJ/k3KAuk33mJ7mPoPhJM=",
+        "ya_ppln-66.0.2.tar.gz"
+      ]
     }
   },
   "yabs-mkdb-harness-tools": {
@@ -155570,6 +155696,12 @@
       "sdist": [
         "NoNKxjNqB/4Q/ySNAVW1gd+DaDdEO4EGck//ucJxDrY=",
         "yabs_mkdb_harness_tools-66.0.0.tar.gz"
+      ]
+    },
+    "66.0.2": {
+      "sdist": [
+        "EkW5zDJbSl2fQ1aLCn7/o5gSd4n6Gda+ODoJXAXTmpA=",
+        "yabs_mkdb_harness_tools-66.0.2.tar.gz"
       ]
     }
   },
@@ -155613,6 +155745,12 @@
         "tA5YtCHyMMQajsSVbn6+KGXOJp9qRpbdvzG01d/dTCc=",
         "yandex-taxi-dmp-callcenter-etl-66.0.0.tar.gz"
       ]
+    },
+    "66.0.2": {
+      "sdist": [
+        "qEO4OShsY28X3zLzBWOOBxvyddL+SQMWerElHMTrewo=",
+        "yandex-taxi-dmp-callcenter-etl-66.0.2.tar.gz"
+      ]
     }
   },
   "yandex-yt-local": {
@@ -155620,6 +155758,12 @@
       "sdist": [
         "sh745e1pG2MylRluhLPnPPUoiFSNu0QkRanXi4KTtTU=",
         "yandex-yt-local-66.0.0.tar.gz"
+      ]
+    },
+    "66.0.2": {
+      "sdist": [
+        "hkbZTjaSJKDtol3KVH0YgB0iKhUjdB3WK4MlKsmJjfw=",
+        "yandex-yt-local-66.0.2.tar.gz"
       ]
     }
   },
@@ -155846,6 +155990,12 @@
       "sdist": [
         "iaTh5rtvDd/DpGv1RZFyRepXXKs7zjk44ncJS6moT34=",
         "yc_as_client_v2-66.0.1.tar.gz"
+      ]
+    },
+    "66.0.2": {
+      "sdist": [
+        "OBZKrVn8Jk9cVUN+AMmKWgqUuBFQzvSz3/saMCpoS3k=",
+        "yc_as_client_v2-66.0.2.tar.gz"
       ]
     },
     "67.0.1": {

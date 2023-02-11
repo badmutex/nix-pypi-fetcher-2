@@ -13725,6 +13725,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.69": {
+      "sdist": [
+        "H+evuJAKMb/ClBq7oPBzYRp/rzk4G7I0TLp9ZX6HjKw=",
+        "botocore-a-la-carte-lexv2-models-1.29.69.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_lexv2_models-1.29.69-py3-none-any.whl": [
+          "McUbjFqfpta9o++nMH1dxfLcoSnShCM3pYiO2pd3xyA=",
+          "py3"
+        ]
+      }
     }
   },
   "botterino": {
@@ -23004,6 +23016,30 @@
       "wheels": {
         "datura-0.1.0-py2.py3-none-any.whl": [
           "ZfU9CySzsAbdi9tbNbwJyX10AFfTRHS/YvJ9ld4QB4g=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "/Ppe0YkUJ/apmR3mE87TAGyciVMBmylaXcR2uUynnF8=",
+        "datura-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "datura-0.1.2-py2.py3-none-any.whl": [
+          "FUZ+whzdoaH36XOlhOv7H85P4+dLuDrffY4r3SjVpXs=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.1.3": {
+      "sdist": [
+        "oq3Q/OeB3b72Mh7+FmzqZA7dCx+jJ1zDrKZiH3B1BbM=",
+        "datura-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "datura-0.1.3-py2.py3-none-any.whl": [
+          "vb9hSyC6xpxmdoFsfJnPfVZvCQYHiljOp6bbSve3SdY=",
           "py2.py3"
         ]
       }
@@ -63531,6 +63567,20 @@
       ]
     }
   },
+  "kubenetes-kuozhan-jiaocheng-jifan": {
+    "2023.2.11.0": {
+      "sdist": [
+        "vFS5aZ1Qqg0pW9wMWwMmDgxdgI9LwYKv3RLg8eibkPw=",
+        "kubenetes-kuozhan-jiaocheng-jifan-2023.2.11.0.tar.gz"
+      ],
+      "wheels": {
+        "kubenetes_kuozhan_jiaocheng_jifan-2023.2.11.0-py3-none-any.whl": [
+          "dpYNC/4u8sL2qocp0A0BA+ToDbmuqJfpWq5xmTJH+38=",
+          "py3"
+        ]
+      }
+    }
+  },
   "kubesplit": {
     "0.1.0": {
       "sdist": [
@@ -82163,6 +82213,58 @@
           "cp39"
         ]
       }
+    },
+    "0.4.5": {
+      "sdist": [
+        "s45vUNBxxAdhQh8feiZEIhqo+m2w6wF6bi0FJi6hFy4=",
+        "navigator-auth-0.4.5.tar.gz"
+      ],
+      "wheels": {
+        "navigator_auth-0.4.5-cp39-cp39-manylinux_2_28_x86_64.whl": [
+          "cvj3Y+p3++GUOBDV/q95LoZBc3PTKZ55ZwhMghe6EdU=",
+          "cp39"
+        ]
+      }
+    },
+    "0.4.6": {
+      "wheels": {
+        "navigator_auth-0.4.6-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "YtFTgC+I3ymySrWUhcxFp2aO0mIbz5p+BtgaTkL12F8=",
+          "cp310"
+        ],
+        "navigator_auth-0.4.6-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Ybw6tNxKEEQorlOz7vkLjDBmMzHTrdShP9+1G3Y+TE8=",
+          "cp38"
+        ],
+        "navigator_auth-0.4.6-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "TXPTvklU6LKd6fQ/QjuyYOhblGT6ELZI6kamyh7IpOs=",
+          "cp39"
+        ]
+      }
+    },
+    "0.4.7": {
+      "sdist": [
+        "FINiUCAwldZAjQ9caCMG8LbEn/PrRCH0reJ6tTbrii4=",
+        "navigator-auth-0.4.7.tar.gz"
+      ],
+      "wheels": {
+        "navigator_auth-0.4.7-cp39-cp39-manylinux_2_28_x86_64.whl": [
+          "uepttfwRlHsqQifQUQ4ettu59WLW3AKofP6R/lNY+2g=",
+          "cp39"
+        ]
+      }
+    },
+    "0.4.8": {
+      "sdist": [
+        "LSl+pL9FsKj43Q7kXtuSEA0H6v0d3PY9VjCvJA7AhZA=",
+        "navigator-auth-0.4.8.tar.gz"
+      ],
+      "wheels": {
+        "navigator_auth-0.4.8-cp39-cp39-manylinux_2_28_x86_64.whl": [
+          "L1NOo5bVliTo3DQv1xlUOh2mtqimSylmVDAVFifdvmM=",
+          "cp39"
+        ]
+      }
     }
   },
   "nba-py": {
@@ -83338,6 +83440,12 @@
       "sdist": [
         "0bCDKe5d6Tu94aBrmy0AVbbiL1lLoYdGIlcKo30aClw=",
         "nirvana-arguments-parser-66.0.0.tar.gz"
+      ]
+    },
+    "66.0.2": {
+      "sdist": [
+        "uGYoTBrKujFaFVHLJFotkNpsfSO+3UaWb3M8P1x+/N0=",
+        "nirvana-arguments-parser-66.0.2.tar.gz"
       ]
     }
   },
@@ -140391,6 +140499,12 @@
         "cGD7YWLvDuYx/RexxGDuJjgMoMirxFW33DZYWRe/TQA=",
         "vulcan-builder-0.2.2.tar.gz"
       ]
+    },
+    "0.2.3": {
+      "sdist": [
+        "akUazSzMgbb3qvbEM9gb+aLRIVngv2PfK/0QK56gbEo=",
+        "vulcan-builder-0.2.3.tar.gz"
+      ]
     }
   },
   "vvvvid-downloader": {
@@ -144366,6 +144480,12 @@
       "sdist": [
         "bzr7Dp17y2nd0eJ+lwRlOLOmYKmH2EDqocMRS9YQnoE=",
         "yandex-logbroker-client-66.0.0.tar.gz"
+      ]
+    },
+    "66.0.2": {
+      "sdist": [
+        "gov5KocKHQb1hyYIdtS/TQASPATgI9vG4FQiy/lLM0A=",
+        "yandex-logbroker-client-66.0.2.tar.gz"
       ]
     }
   },

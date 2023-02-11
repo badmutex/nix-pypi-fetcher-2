@@ -3691,6 +3691,44 @@
       }
     }
   },
+  "apidevtools": {
+    "1.0.0": {
+      "sdist": [
+        "mqYoKbr4CxLFSQvqAu6V+Y4s7tz5N/fyakTzzWrVHjM=",
+        "APIDevTools-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "APIDevTools-1.0.0-py3-none-any.whl": [
+          "xOPRH6bAbox5vvbvtMsGO3M1QTawUCLUfLf/ZNXjNzk=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.1": {
+      "sdist": [
+        "3CtZnYRPYV5L/x1pS1BCA3yIYF/wJxrOkr5b1QK7UPM=",
+        "APIDevTools-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "APIDevTools-1.0.1-py3-none-any.whl": [
+          "0WbGUtNlx2tBDv/IxpAFDD/NzRksrMYTfFBkNzEVbzE=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.2": {
+      "sdist": [
+        "JxSi+S55lAzWpNqr4v8G0f+L2XP/ifnpqBJEPRtwJ2g=",
+        "apidevtools-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "apidevtools-1.0.2-py3-none-any.whl": [
+          "pVtyd1lRNXVVCqp53b/KR0zTWrbYcJDYtAjtdBat2wg=",
+          "py3"
+        ]
+      }
+    }
+  },
   "apiscout": {
     "1.1.0": {
       "sdist": [
@@ -7482,6 +7520,18 @@
       "wheels": {
         "avalon_rl-1.0.1-py3-none-any.whl": [
           "tSEGKrDIit+SI5nTJ+ParXl1+N7+qGlJ5fvZfyQxtfU=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.2": {
+      "sdist": [
+        "H77IOB9wQXHrJomi4CAcJeXxjsoNZxw4adtF2y31kac=",
+        "avalon-rl-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "avalon_rl-1.0.2-py3-none-any.whl": [
+          "AICtfI/AUSFwsGg/fMfoVrJss9G6fifkDsV5PKLVyW8=",
           "py3"
         ]
       }
@@ -15440,6 +15490,18 @@
       "wheels": {
         "botocore_a_la_carte_networkmanager-1.29.68-py3-none-any.whl": [
           "ljSGMkJhegcbmfVZB8xHn/A0Ts5kAM0r2MiDPw85Wmg=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.69": {
+      "sdist": [
+        "EtkBhCb3crzUlry6PYPdgPrI/bmplX89IldRs+V9N8M=",
+        "botocore-a-la-carte-networkmanager-1.29.69.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_networkmanager-1.29.69-py3-none-any.whl": [
+          "O0FqrT1LHz/VyReGmmHBVdJKgqt8OZGMZwUyE7m/iQY=",
           "py3"
         ]
       }
@@ -26372,6 +26434,18 @@
       "wheels": {
         "CONGA-2.1.4-py3-none-any.whl": [
           "XgHeFUhQYCwS2WbQwf/zbfcPn2G9SMx0DtU6eZgkSAc=",
+          "py3"
+        ]
+      }
+    },
+    "2.1.5": {
+      "sdist": [
+        "uii4FtziV9IWUmr7r/+NyyEp9ggueBCkw3xGnjs4H08=",
+        "CONGA-2.1.5.tar.gz"
+      ],
+      "wheels": {
+        "CONGA-2.1.5-py3-none-any.whl": [
+          "0OxST1UFGv8MqE97E3HUL4f3r3xKM6sXmmlM1yuJPY8=",
           "py3"
         ]
       }
@@ -45997,6 +46071,12 @@
         "4MJMYTE7cta/6pCb80V7xFBfCnVK/OVAwhTobo3GDnI=",
         "extractors-66.0.0.tar.gz"
       ]
+    },
+    "66.0.2": {
+      "sdist": [
+        "ouaSqtWctKxmoFkdKWjxkvvD3IaeIt9azFrRN2Q9KC8=",
+        "extractors-66.0.2.tar.gz"
+      ]
     }
   },
   "eyecu-good-guys": {
@@ -47170,6 +47250,106 @@
         ],
         "ffpyplayer-4.3.5-cp39-cp39-win_amd64.whl": [
           "9uUb3GPsJRzUbVcoL3fYxVmfU1kWW26NaNBiN6fR6AY=",
+          "cp39"
+        ]
+      }
+    },
+    "4.4.0": {
+      "sdist": [
+        "Ukw9XW01gZ9DmB2of8Y1uDheZrzx994652i522GLeFM=",
+        "ffpyplayer-4.4.0.tar.gz"
+      ],
+      "wheels": {
+        "ffpyplayer-4.4.0-cp310-cp310-macosx_10_9_universal2.whl": [
+          "bb0up38vOLn7qjAVqpgoTR/xGGfgZgcxv3IbCODW9aw=",
+          "cp310"
+        ],
+        "ffpyplayer-4.4.0-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "5s5w/licmTyn8uTjRhzJu2J0y6WYIzqo770MJZMB8wc=",
+          "cp310"
+        ],
+        "ffpyplayer-4.4.0-cp310-cp310-macosx_11_0_arm64.whl": [
+          "vv/327E4aveD6LsGvykf1mD/Fpyl4NlgaB5xOfelhOw=",
+          "cp310"
+        ],
+        "ffpyplayer-4.4.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "mohsUsFsUMyAdLiTjX+LRaIT1vYNlboaEOQ90dqd/es=",
+          "cp310"
+        ],
+        "ffpyplayer-4.4.0-cp310-cp310-win_amd64.whl": [
+          "LTUPSCgx0eau6a5VO9Uufuh4PUBUGlhiijOxSRUS1yA=",
+          "cp310"
+        ],
+        "ffpyplayer-4.4.0-cp311-cp311-macosx_10_9_universal2.whl": [
+          "wLepNVW65BMyaomZ0QhKbMtKBurFv1nMsmoQGTJNCCE=",
+          "cp311"
+        ],
+        "ffpyplayer-4.4.0-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "AgPdTvC4hezkWq7ce997HEx8PY8zkHJmJittPPtcjt8=",
+          "cp311"
+        ],
+        "ffpyplayer-4.4.0-cp311-cp311-macosx_11_0_arm64.whl": [
+          "NFmLuxHTDghxTU2snNrNJUVVaBHhcTEZePWbUry+t/k=",
+          "cp311"
+        ],
+        "ffpyplayer-4.4.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "WIHHWReUaaDOO1z18ReLPJJVGfGyEemoTIcKEF+zf7g=",
+          "cp311"
+        ],
+        "ffpyplayer-4.4.0-cp311-cp311-win_amd64.whl": [
+          "QkRArTJd8ZgeUAF6w52BnMURVQRWZOQOre/KHw+VBWE=",
+          "cp311"
+        ],
+        "ffpyplayer-4.4.0-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "vHafyRU+vdaqB1IhL5kmGjBbzVZ4UfkJt1W+wP23Aj8=",
+          "cp37"
+        ],
+        "ffpyplayer-4.4.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "pDuNsTd9jagIWeIw3PwQ7eUwlpL8HIoCtNPbLDmdLcA=",
+          "cp37"
+        ],
+        "ffpyplayer-4.4.0-cp37-cp37m-win_amd64.whl": [
+          "hiK9fBUwziQy3WS5ohX/mo4iYseblasmYXjWmu/IfN0=",
+          "cp37"
+        ],
+        "ffpyplayer-4.4.0-cp38-cp38-macosx_10_9_universal2.whl": [
+          "mZEISUJJZpSQX6fr/vSyvOyYJXFbyg+GSd+1gNI6Gcg=",
+          "cp38"
+        ],
+        "ffpyplayer-4.4.0-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "B7BeP+Bw3JF099FGkxHBvaFAUL6AyXw7Dr9jU13aWng=",
+          "cp38"
+        ],
+        "ffpyplayer-4.4.0-cp38-cp38-macosx_11_0_arm64.whl": [
+          "fpybjNpvM/+FYxK79k6BArm0wwiEAf/CPlDpT+w9Ebg=",
+          "cp38"
+        ],
+        "ffpyplayer-4.4.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "qO84EF2RK49TLay55yZzqN0pyPBFl12MK47MxFaES2Q=",
+          "cp38"
+        ],
+        "ffpyplayer-4.4.0-cp38-cp38-win_amd64.whl": [
+          "XouaeJQmI6tScH8Lfbr3KrMSD7SCu+PGNGugBoJgd7E=",
+          "cp38"
+        ],
+        "ffpyplayer-4.4.0-cp39-cp39-macosx_10_9_universal2.whl": [
+          "AOqpYfOPRjt7pIpu4KK9mvjsJu8eIWS0pr8J4Cs2kxM=",
+          "cp39"
+        ],
+        "ffpyplayer-4.4.0-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "q5APulXp9sG7g9/UrFhL+ujo/vjvCFavQ6x+BDMQTS0=",
+          "cp39"
+        ],
+        "ffpyplayer-4.4.0-cp39-cp39-macosx_11_0_arm64.whl": [
+          "hR1xyjcHTuRnuubOKolbpvqWyEGwl7ZP4HC+YOVoKyY=",
+          "cp39"
+        ],
+        "ffpyplayer-4.4.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "p+vFXDWDrwmQz4O3/DqsbJP6LC2Z0Ciu7s+1M2eOBbQ=",
+          "cp39"
+        ],
+        "ffpyplayer-4.4.0-cp39-cp39-win_amd64.whl": [
+          "+bSQnUcviVua8L4oDYTOsA/z8g1YnbpNY6VVPZT3DoQ=",
           "cp39"
         ]
       }
@@ -64273,6 +64453,20 @@
       }
     }
   },
+  "java9-youxi-kaifa-gaoji-jiaocheng-jifan": {
+    "2023.2.11.0": {
+      "sdist": [
+        "5Hv2J0mfcYJwigoXDhVCXtOwJUo8Ba3KM0P77yro4xw=",
+        "java9-youxi-kaifa-gaoji-jiaocheng-jifan-2023.2.11.0.tar.gz"
+      ],
+      "wheels": {
+        "java9_youxi_kaifa_gaoji_jiaocheng_jifan-2023.2.11.0-py3-none-any.whl": [
+          "7jbk/5VAZuKNy6KsHZJBb36mYqNs+iWQ+RIDIJHrkAw=",
+          "py3"
+        ]
+      }
+    }
+  },
   "jaypdf": {
     "1.0": {
       "sdist": [
@@ -64745,6 +64939,20 @@
         "+W2gh+qB9TvxOyekIujqDRcGNqf0A6aehon1CA6nPek=",
         "jirasession-0.2.4.tar.gz"
       ]
+    }
+  },
+  "jisuanji-shijue-rumen-bixiu-shouce": {
+    "2023.2.11.0": {
+      "sdist": [
+        "As5acJciAvGs0Glh2Y4qw3PfrQMhPK2GgSAkeZnuVfk=",
+        "jisuanji-shijue-rumen-bixiu-shouce-2023.2.11.0.tar.gz"
+      ],
+      "wheels": {
+        "jisuanji_shijue_rumen_bixiu_shouce-2023.2.11.0-py3-none-any.whl": [
+          "viIfEZ342FcaBsmfBW659hPeiU5XoP1kj/LbTYtlZgc=",
+          "py3"
+        ]
+      }
     }
   },
   "jisuanji-xitong-jiegou": {
@@ -86802,6 +87010,12 @@
       "sdist": [
         "jCmqxdbkxL+SIgHKfDl2Ki/hflm/Ndc/Uv9sMejSq+8=",
         "nirvana-api-lpshka-66.0.0.tar.gz"
+      ]
+    },
+    "66.0.2": {
+      "sdist": [
+        "laVHpcO4TV0pLuq8CrlKUIx8B5JmDAdn6sOMJgEFCTU=",
+        "nirvana-api-lpshka-66.0.2.tar.gz"
       ]
     }
   },
@@ -130143,6 +130357,12 @@
         "OvWpVMKIWGvMRfZAGeajFP48PjumxLtqCk7nSR+dExU=",
         "sendr-qtools-66.0.0.tar.gz"
       ]
+    },
+    "66.0.2": {
+      "sdist": [
+        "0+VtX6XvFN8Z3LQnHyLgazuGg0Oeqo3Miq2hNZS9xPM=",
+        "sendr-qtools-66.0.2.tar.gz"
+      ]
     }
   },
   "sendria": {
@@ -139244,6 +139464,12 @@
       "sdist": [
         "6YFTnuPpKRnFLz325O7Cc5yXeZ+ppQzc9CWDjkfqnEg=",
         "taptest-66.0.0.tar.gz"
+      ]
+    },
+    "66.0.2": {
+      "sdist": [
+        "CHL3gq0SHL1pbGQDW22hXxEPuVq6mUw1AdNX7PDbUQU=",
+        "taptest-66.0.2.tar.gz"
       ]
     }
   },
@@ -161219,6 +161445,12 @@
         "720KgIHCDt+eO2WByb2URPQc9jaQcHwAGa1/1yetoHo=",
         "yandex-passport-queue-66.0.0.tar.gz"
       ]
+    },
+    "66.0.2": {
+      "sdist": [
+        "bmcd2G8pVQwOQ4EzDJeHoDWkd8KTJPoXwKje2NYRUBk=",
+        "yandex-passport-queue-66.0.2.tar.gz"
+      ]
     }
   },
   "yaqlib": {
@@ -161226,6 +161458,12 @@
       "sdist": [
         "3gYVPvmxi9eyybcDgSkiRMUnB3wk8bPoBZV4G929698=",
         "yaqlib-66.0.0.tar.gz"
+      ]
+    },
+    "66.0.2": {
+      "sdist": [
+        "jCi5SAtMuyOH3VZ4oF5KITwKJdnkUGM2xa3VnO8BmD4=",
+        "yaqlib-66.0.2.tar.gz"
       ]
     }
   },

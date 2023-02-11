@@ -14652,6 +14652,18 @@
         "bdata-6.10.0.tar.gz"
       ]
     },
+    "6.11.0": {
+      "sdist": [
+        "7k8NSl/fCxZxUEFNSzRUFWFIcLg9fTnHnAl0NIg9024=",
+        "bdata-6.11.0.tar.gz"
+      ]
+    },
+    "6.11.1": {
+      "sdist": [
+        "+MkTf3kt2Vr/0TUBwoRK/0CRKkHfu8LOJft3iUTyt6A=",
+        "bdata-6.11.1.tar.gz"
+      ]
+    },
     "6.2.0": {
       "sdist": [
         "2/2ZKXR/rW88bpXIz4sfdGrUWgNuk4lc7JBkk/jcHeQ=",
@@ -28990,6 +29002,18 @@
       "wheels": {
         "crazy_thursday-2023.2.11.0-py3-none-any.whl": [
           "yOTTUk+M6BxLUiu9wjo37zUizb1nSts3YQUZeyxZBpU=",
+          "py3"
+        ]
+      }
+    },
+    "2023.2.11.1": {
+      "sdist": [
+        "hXWA8w5zSJ4RJronp3l8YJ6Wj3I5wk58vVvHczRpQhg=",
+        "crazy-thursday-2023.2.11.1.tar.gz"
+      ],
+      "wheels": {
+        "crazy_thursday-2023.2.11.1-py3-none-any.whl": [
+          "MuH+fqYsvXYFCb5nINMbzC2O1iOdMYhYWPhCcrK/OAs=",
           "py3"
         ]
       }
@@ -80309,6 +80333,20 @@
       ]
     }
   },
+  "mongodb-manual": {
+    "2023.2.11.0": {
+      "sdist": [
+        "T4trPDeN5dI82qHEx/tEO0lHcPIlogrvyYU3boWxWyU=",
+        "mongodb-manual-2023.2.11.0.tar.gz"
+      ],
+      "wheels": {
+        "mongodb_manual-2023.2.11.0-py3-none-any.whl": [
+          "0kVQku/hF2rcba2Ji+FN646hTWsBkyhLH3Q87rLijoA=",
+          "py3"
+        ]
+      }
+    }
+  },
   "monito": {
     "0.1.0": {
       "sdist": [
@@ -93347,6 +93385,18 @@
           "py3"
         ]
       }
+    },
+    "1.5.2": {
+      "sdist": [
+        "8uc6V26NY2doJ7Y2jD4G3cQJxE7q5VFNVAprqtWYZUE=",
+        "nonebot_plugin_searchbiliinfo-1.5.2.tar.gz"
+      ],
+      "wheels": {
+        "nonebot_plugin_searchbiliinfo-1.5.2-py3-none-any.whl": [
+          "dNCGMTikHEU6r3CUdDhlGnOO0mvrlJNDQUP/OX8hP0o=",
+          "py3"
+        ]
+      }
     }
   },
   "nosql2django": {
@@ -97264,6 +97314,14 @@
       "wheels": {
         "odoo14_addon_sale_product_category_menu-14.0.1.0.2.dev10-py3-none-any.whl": [
           "uxiREygYDftJK1t8+gMpTUYd/vxS9WvXy9khNlviwyQ=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.1.0.2.dev11": {
+      "wheels": {
+        "odoo14_addon_sale_product_category_menu-14.0.1.0.2.dev11-py3-none-any.whl": [
+          "BAMWpcmIKv2uI2ZgVn9NaTV7vUQuwc+CfMiAX28mMIk=",
           "py3"
         ]
       }
@@ -108017,6 +108075,14 @@
           "py3"
         ]
       }
+    }
+  },
+  "ppysocks": {
+    "0.1": {
+      "sdist": [
+        "BhSg4Zu+dkgX7YAp6iGSdNulyAqvIT6bv0QOi4qr2Vs=",
+        "ppysocks-0.1.tar.gz"
+      ]
     }
   },
   "prefect-stitch": {
@@ -127483,6 +127549,44 @@
       }
     }
   },
+  "resourcesing": {
+    "0.1.0": {
+      "sdist": [
+        "5BDTw0qvPJLj9rpCdGm+k6y4aTIT8DoZC9GiErCcW6E=",
+        "resourcesing-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "resourcesing-0.1.0-py3-none-any.whl": [
+          "cwIlMcpCtSlREracPssnLkbLycwvMNHt+F+ErtP14U8=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "F0gox1xzuU9OJEmOiiCGfFYRSZQYZ1NRuOBMTHNxtms=",
+        "resourcesing-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "resourcesing-0.1.1-py3-none-any.whl": [
+          "Scy9uEexrqkGaLvSsFraoVETHIkVDu3pbnbra8Cvu74=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "rUBhlKrOFCX1wXp+hsK11tfrr5t9RAXWT+Fqyxf8FLo=",
+        "resourcesing-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "resourcesing-0.1.2-py3-none-any.whl": [
+          "/r3otgTGMYEscnPIw1vnscqE1kB/KKm62wEArb5KPB0=",
+          "py3"
+        ]
+      }
+    }
+  },
   "restaurantedaviddss": {
     "0.0.1": {
       "sdist": [
@@ -136652,6 +136756,20 @@
       "wheels": {
         "spark_miji-2023.2.7.0-py3-none-any.whl": [
           "qySLL/Srd6HhGvcaBHbyOD1Hp2lU66mTl0VqJBAnEc4=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "spark-sql-xuexi-shouce-jifan": {
+    "2023.2.11.0": {
+      "sdist": [
+        "3PmnJJ/3sqCPq4UL1J0x0yDzafckOVtbwLSUzxOWLqk=",
+        "spark-sql-xuexi-shouce-jifan-2023.2.11.0.tar.gz"
+      ],
+      "wheels": {
+        "spark_sql_xuexi_shouce_jifan-2023.2.11.0-py3-none-any.whl": [
+          "wV7gVc6pXt9I8UtbgY9wMB2TPS4pArdCnSRAHd7wvyA=",
           "py3"
         ]
       }
@@ -155223,6 +155341,14 @@
       ]
     }
   },
+  "websocket-cient": {
+    "0.1": {
+      "sdist": [
+        "nil5tNGfntBqbHsfzxJhc9887t4Osi+qN5yxOmVLEbY=",
+        "websocket-cient-0.1.tar.gz"
+      ]
+    }
+  },
   "weibo-preprocess-toolkit": {
     "1.0.0": {
       "sdist": [
@@ -155821,6 +155947,20 @@
         "windows_capture_device_list-1.1.0-cp39-cp39-win_amd64.whl": [
           "WzjVnQ2ZfNRRVOXp8MYgXC6zpo3sy9+UEvdhu8LWMgc=",
           "cp39"
+        ]
+      }
+    }
+  },
+  "windows8-shuju-kaifa-rumen-zhinan-jifan": {
+    "2023.2.11.0": {
+      "sdist": [
+        "B7Bvr7snNZRfZmfIS+ZaGaeWtRlNmPD/KIZgOqIZmeA=",
+        "windows8-shuju-kaifa-rumen-zhinan-jifan-2023.2.11.0.tar.gz"
+      ],
+      "wheels": {
+        "windows8_shuju_kaifa_rumen_zhinan_jifan-2023.2.11.0-py3-none-any.whl": [
+          "0+2i3D07EPIZTx18jPwcXOF+/RBXPddCZ+SS+PMH6to=",
+          "py3"
         ]
       }
     }
@@ -156910,6 +157050,18 @@
       "wheels": {
         "yfinance_cache-0.3.5-py3-none-any.whl": [
           "d3Mupz1Yfz62vAAHBr66PeAYCCPLKumycgQhVZ3MJQU=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.0": {
+      "sdist": [
+        "fXxX/CWnOLJozjk6b65l7fH1Imgk+nDRZ2WFQ80NsjQ=",
+        "yfinance-cache-0.4.0.tar.gz"
+      ],
+      "wheels": {
+        "yfinance_cache-0.4.0-py3-none-any.whl": [
+          "LdX96ybh83fI9W9wJeNHUYju6KSi2w+Z9XU4AvCx3II=",
           "py3"
         ]
       }

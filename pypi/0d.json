@@ -1799,6 +1799,20 @@
       }
     }
   },
+  "airflow-ci": {
+    "0.0.2": {
+      "sdist": [
+        "D6/3Y/hD6sJDootzBfT9ZPWQdU42spJPIEf6glr18l8=",
+        "airflow_ci-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "airflow_ci-0.0.2-py3-none-any.whl": [
+          "3gZASfj2O4MsP6DgGIJ33jRwKlgD0JEa9r03TZCgr9E=",
+          "py3"
+        ]
+      }
+    }
+  },
   "airflow-dbt-cta": {
     "0.0.1": {
       "sdist": [
@@ -26170,6 +26184,12 @@
       "sdist": [
         "YfFUHo2hYtj7er6cU606MabbhtddenjWtiMCy85J4Is=",
         "canonical-0.23.0.tar.gz"
+      ]
+    },
+    "0.24.0": {
+      "sdist": [
+        "foB6epeIKA0X/8YyOv24EVYyCUw94C8iLM3lYaX1fnE=",
+        "canonical-0.24.0.tar.gz"
       ]
     },
     "0.3.0": {
@@ -82021,6 +82041,18 @@
           "py3"
         ]
       }
+    },
+    "0.5.450": {
+      "sdist": [
+        "4hj4FfTJZ3JAGmQWN2N9zgwOm4yvMh8GTdXtFwpwc1E=",
+        "modern-greek-inflexion-0.5.450.tar.gz"
+      ],
+      "wheels": {
+        "modern_greek_inflexion-0.5.450-py3-none-any.whl": [
+          "7LpiTMlR9ie8sBuLTebb3xxmJ6q/VIMrL4jzyDtFUWw=",
+          "py3"
+        ]
+      }
     }
   },
   "modularconfig": {
@@ -131018,6 +131050,18 @@
         ]
       }
     },
+    "0.1.182": {
+      "sdist": [
+        "uZqyJdX4jiXsK1m0/2eQKJvz3QXkef7lFnnuK/kPtr4=",
+        "state-machine-semaphore-0.1.182.tar.gz"
+      ],
+      "wheels": {
+        "state_machine_semaphore-0.1.182-py3-none-any.whl": [
+          "l7hLOLAeeO7kTIXNJSuyPopXzSb7XMnK3MC09p9DWgc=",
+          "py3"
+        ]
+      }
+    },
     "0.1.19": {
       "sdist": [
         "9L4aecELytHTPeg8KmWG+ZYwLvq/BEKeZuLTou2lULc=",
@@ -135424,6 +135468,18 @@
         ]
       }
     },
+    "0.11.2": {
+      "sdist": [
+        "JIGAe32Wtv7cIJcwNXRQqY1NMQ9i6rH59yvPIPHy8cc=",
+        "syndicate-py-0.11.2.tar.gz"
+      ],
+      "wheels": {
+        "syndicate_py-0.11.2-py3-none-any.whl": [
+          "aTBHcDMm2QfKrRj6n64kzCMar7moTY1Ldro3MVFDQSY=",
+          "py3"
+        ]
+      }
+    },
     "0.2.0": {
       "sdist": [
         "DY8ymCZYLLvJ2DAnc7muLvGLyNQPyOU7P+M0/DmuWO0=",
@@ -137277,6 +137333,20 @@
       }
     }
   },
+  "the-twelve-factor-app-zhongwenban": {
+    "2023.2.12.0": {
+      "sdist": [
+        "TRlNZeziF9uwjLmDhVRoTo+KW+usiMP2P95ehz8lZSo=",
+        "the-twelve-factor-app-zhongwenban-2023.2.12.0.tar.gz"
+      ],
+      "wheels": {
+        "the_twelve_factor_app_zhongwenban-2023.2.12.0-py3-none-any.whl": [
+          "Bq0to7ZZlM9dVO6sd9zw3laDORFtbceDpxbuUKap0P4=",
+          "py3"
+        ]
+      }
+    }
+  },
   "thegraph-gql-utils": {
     "1.0.0": {
       "wheels": {
@@ -138924,6 +138994,30 @@
         ]
       }
     },
+    "0.0.220": {
+      "sdist": [
+        "biv6nYGszXvIhCI+WjuFwqHz7xQeOWO2gulCdhY1UyM=",
+        "TheSilent-0.0.220.tar.gz"
+      ],
+      "wheels": {
+        "TheSilent-0.0.220-py3-none-any.whl": [
+          "DZ40PntV0Bw1KWdCrf4k1VliCVdkyWq8t7ayFABgDLM=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.222": {
+      "sdist": [
+        "s7t/0VRonIYvQEY5nEzQBU5hKfh+9CQiUx67kglegTw=",
+        "TheSilent-0.0.222.tar.gz"
+      ],
+      "wheels": {
+        "TheSilent-0.0.222-py3-none-any.whl": [
+          "NRPRqt8iWvyM5g4Vt0m8UqCHLNHPFdF62GFmuQqDTZs=",
+          "py3"
+        ]
+      }
+    },
     "0.0.23": {
       "sdist": [
         "vAwIQtcpJcQ3xlb5SJl8QxXw8jWfyZCREBZ85gl/0Mw=",
@@ -139868,6 +139962,20 @@
       "wheels": {
         "TheSilent-0.0.99-py3-none-any.whl": [
           "+IBNVOUHA78K1EqYQmTtwdbMcbRtCCyq/cJz+FP43kk=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "think-python-zhongwenban": {
+    "2023.2.12.0": {
+      "sdist": [
+        "ZRsHxLGfHMDJbi7Bp1KscHNYNHqnTpZ1eu9LWIVkMPg=",
+        "think-python-zhongwenban-2023.2.12.0.tar.gz"
+      ],
+      "wheels": {
+        "think_python_zhongwenban-2023.2.12.0-py3-none-any.whl": [
+          "ILbYJPkwuCbSLJSnR1qkh7lLUE0T+tpw3X4LDRyNQhQ=",
           "py3"
         ]
       }

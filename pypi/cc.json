@@ -6202,6 +6202,18 @@
         ]
       }
     },
+    "4.2.2": {
+      "sdist": [
+        "uVulurhJq/rMgSH9OBhOz4cRHwE1+j/nBOHEn4obSR8=",
+        "apache-airflow-providers-presto-4.2.2.tar.gz"
+      ],
+      "wheels": {
+        "apache_airflow_providers_presto-4.2.2-py3-none-any.whl": [
+          "zHAbPr2rXPVt/+GhUawldajHb1+CMqr6eQSWj7S9JXE=",
+          "py3"
+        ]
+      }
+    },
     "4.2.2rc1": {
       "sdist": [
         "Xnx2V7CA0cGaEkrHhlXWT43XzCCP8PDlI9Ew61e6O9s=",
@@ -10246,6 +10258,18 @@
         ]
       }
     },
+    "2.2.65": {
+      "sdist": [
+        "UQSsWLl10LWNyxehFdfrVQxhwILlRODGa076JJCxTfI=",
+        "aws-cdk.asset-awscli-v1-2.2.65.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.asset_awscli_v1-2.2.65-py3-none-any.whl": [
+          "YL3OgErRu64yD0Rr9v10Sv5oMfDX+YbTrCOqbrgw7NU=",
+          "py3"
+        ]
+      }
+    },
     "2.2.7": {
       "sdist": [
         "cbOz8r/axPhPn7R3f22H8HggOSIjBHvXCdjfpThPzTU=",
@@ -10880,6 +10904,18 @@
       "wheels": {
         "aws_cdk.asset_node_proxy_agent_v5-2.0.53-py3-none-any.whl": [
           "XFiVqU98GN4y/Drnl1eOt72WeWbP7XeLlNNXSsK3zjM=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.54": {
+      "sdist": [
+        "UOPouCOJjcqjXZGBAN1dfniDjviXqa3m3soK2ORMYrM=",
+        "aws-cdk.asset-node-proxy-agent-v5-2.0.54.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.asset_node_proxy_agent_v5-2.0.54-py3-none-any.whl": [
+          "IKrCOKeplsvkPMEtYrx+kPw7sgKYVtZ3Dfg6aVmynuc=",
           "py3"
         ]
       }
@@ -29250,6 +29286,18 @@
       "wheels": {
         "datafiles-2.1b3-py3-none-any.whl": [
           "O5bUcK5VQXAzhOquq3f5RlDwrJNlXVIWz8Y+n7MrkcI=",
+          "py3"
+        ]
+      }
+    },
+    "2.1b4": {
+      "sdist": [
+        "sB01tp0n70S+rPAZGHCH/OqPCggDVGgsreU6SarzXYo=",
+        "datafiles-2.1b4.tar.gz"
+      ],
+      "wheels": {
+        "datafiles-2.1b4-py3-none-any.whl": [
+          "27tuqspyV9zF206gy3zfsDN0GZP1Eq8RBREouDmBOLs=",
           "py3"
         ]
       }
@@ -52497,6 +52545,56 @@
         "google_cloud_iam_logging-1.2.0-py2.py3-none-any.whl": [
           "JK9/JL2q3JKwBIpYEE/vEe4MRA40GMpOVcqmxF33uyc=",
           "py2.py3"
+        ]
+      }
+    }
+  },
+  "gpterm": {
+    "0.2.1": {
+      "sdist": [
+        "hDb325VJFEEK78yv1qAPclrRI4V9ZYAsi4Ju/IuMhjU=",
+        "gpterm-0.2.1.tar.gz"
+      ],
+      "wheels": {
+        "gpterm-0.2.1-py3-none-any.whl": [
+          "IXGq83LkYitsHEWX7PReOBnMRmqg+qoDwFo9Q2/txMA=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.2": {
+      "sdist": [
+        "wakY80Dkuw9XcHGQP+rrVFVQ4XxF6ww3ObUT2dxxdw4=",
+        "gpterm-0.2.2.tar.gz"
+      ],
+      "wheels": {
+        "gpterm-0.2.2-py3-none-any.whl": [
+          "1pZv4CVoYI7NkHMDtSsdPyy3foUSt+OBU+ciD1NOJ7I=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.3": {
+      "sdist": [
+        "C40hhNrwuZ2vDExl4HQem0pSxbofaR05NTi1QnTQQZI=",
+        "gpterm-0.2.3.tar.gz"
+      ],
+      "wheels": {
+        "gpterm-0.2.3-py3-none-any.whl": [
+          "xiZmvhmFTWrYy4z1D0A5zG9fWnw6nZYkRQ+yntQcjjs=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.4": {
+      "sdist": [
+        "zImD66Ky7kmZfrBIBHFh/anwTq5X1jkQlNA3aMWqPVs=",
+        "gpterm-0.2.4.tar.gz"
+      ],
+      "wheels": {
+        "gpterm-0.2.4-py3-none-any.whl": [
+          "OrGwyjtaKTjEPg4+KEvE7noSK1GcoHROBJfiOfnqKY8=",
+          "py3"
         ]
       }
     }
@@ -140350,6 +140448,20 @@
       "wheels": {
         "theory_ai-0.0.1-py3-none-any.whl": [
           "pgvA4ar9iyLDEX29pj2c7iPIwCzGYr5OpVcQDB3Plng=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "thinkstats2": {
+    "2023.2.12.0": {
+      "sdist": [
+        "PowjcOI26bUKb54fUFq5tlZhEdt6fpRP/YMQu+ZiG5I=",
+        "thinkstats2-2023.2.12.0.tar.gz"
+      ],
+      "wheels": {
+        "thinkstats2-2023.2.12.0-py3-none-any.whl": [
+          "hPX5QK34rIsv0mJrRqPFZPymW/tFaZ8TOw6cZQS1skw=",
           "py3"
         ]
       }

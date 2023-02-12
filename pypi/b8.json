@@ -2809,6 +2809,18 @@
           "py3"
         ]
       }
+    },
+    "1.1.dev0": {
+      "sdist": [
+        "p4oGbiq/EkcsrkzOtXzsWjQbPDxgp5YSiRiX8zeeSko=",
+        "AIMM-1.1.dev0.tar.gz"
+      ],
+      "wheels": {
+        "AIMM-1.1.dev0-py3-none-any.whl": [
+          "dEvxWUj7XSX12L7c60MjRYkT8/OjhTIBuJ1iOVJ33io=",
+          "py3"
+        ]
+      }
     }
   },
   "aio-avion": {
@@ -6798,6 +6810,18 @@
       "wheels": {
         "apache_airflow_providers_microsoft_azure-5.1.0rc1-py3-none-any.whl": [
           "22hJ1gFA3PEb6VYpNBEIWXL8AgL7RMBWyFgqEqB+ljY=",
+          "py3"
+        ]
+      }
+    },
+    "5.2.0": {
+      "sdist": [
+        "1asEVul4N/B0vya4b8DCzTtsJhkwGHYlZ9b6cCJqkVs=",
+        "apache-airflow-providers-microsoft-azure-5.2.0.tar.gz"
+      ],
+      "wheels": {
+        "apache_airflow_providers_microsoft_azure-5.2.0-py3-none-any.whl": [
+          "LF8qmYkJ150KLbhdl4dA9Iy1tNFu5+gyqmHyQofABhk=",
           "py3"
         ]
       }
@@ -24831,6 +24855,18 @@
           "py3"
         ]
       }
+    },
+    "20230212": {
+      "sdist": [
+        "7TT8VKPAsui2cVaE3tr92oSn77+lT5nJbTlXDVA16BM=",
+        "cs.iso14496-20230212.tar.gz"
+      ],
+      "wheels": {
+        "cs.iso14496-20230212-py3-none-any.whl": [
+          "aeKCbnz+G59jGzrn1rhbqFx2cH8E3wpzeJ8LbipupAk=",
+          "py3"
+        ]
+      }
     }
   },
   "csv.py": {
@@ -34311,6 +34347,26 @@
           "py3"
         ]
       }
+    }
+  },
+  "easytexto": {
+    "0.1.0": {
+      "sdist": [
+        "mVITv3OHZWSAjhbMpXoHHmDRNAyJurN5bG7wWRmz7io=",
+        "EasyTexto-0.1.0.tar.gz"
+      ]
+    },
+    "0.1.1": {
+      "sdist": [
+        "WZ/alwsvOoegFdzwz/YzYkr4nSENkzte+wgvM/45tyY=",
+        "EasyTexto-0.1.1.tar.gz"
+      ]
+    },
+    "0.2": {
+      "sdist": [
+        "HutkbYfM8qfuGPfM7B0L+X1h4kN4G2wn18Sn7vI0Zy8=",
+        "EasyTexto-0.2.tar.gz"
+      ]
     }
   },
   "ebautifulsoup": {
@@ -63982,6 +64038,30 @@
       "wheels": {
         "mafic-1.0.1-py3-none-any.whl": [
           "yBmbvfJDrTVAjpJs6bep/H5dz4L13YDJIcEVC/U4xeI=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.2": {
+      "sdist": [
+        "9ghCiLAndH4gZ59RUrRKuH2Y2e+VsAGTUekW6wHKDAY=",
+        "mafic-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "mafic-1.0.2-py3-none-any.whl": [
+          "tsvYey9JSTa55WuI7xEusgxd2amEWhkFIWuvP8mvYKc=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.3": {
+      "sdist": [
+        "gTQSirK8ABSVT50XVdCAshJ6oMo1fRTXbxcAeiFUfHA=",
+        "mafic-1.0.3.tar.gz"
+      ],
+      "wheels": {
+        "mafic-1.0.3-py3-none-any.whl": [
+          "kf5eEXvYDulsalEmrpBCjsOBngo+P4KnP7g2NZ6s3Xs=",
           "py3"
         ]
       }
@@ -99867,6 +99947,14 @@
           "py3"
         ]
       }
+    },
+    "0.0.2": {
+      "wheels": {
+        "pycontrols-0.0.2-py3-none-any.whl": [
+          "dVb0eZ0OxWH6dU9RpyBqokpWGRSNuhjhU2VkQ7EoZJw=",
+          "py3"
+        ]
+      }
     }
   },
   "pycounts-jlc207": {
@@ -109892,6 +109980,18 @@
       "wheels": {
         "QtFrameless-0.1.0-py3-none-any.whl": [
           "jU6fswXe8OzZF6zxaPmpA4Gp3wKB0gm7aeczES1wU+g=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "v46zH1tvNgsw3E7M4erhlnBJb2t4TY7Sd2qsvfkogQQ=",
+        "QtFrameless-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "QtFrameless-0.1.1-py3-none-any.whl": [
+          "dEXZnyV9kRFnZGUdLuj6MDUmtO0CoFBZkeq7AFgzEpo=",
           "py3"
         ]
       }
@@ -126062,6 +126162,20 @@
       "wheels": {
         "sqlalchemy_model_convert-1.1-py3-none-any.whl": [
           "/ZUVQoSKnNWQDD9yC2YpAlUrB61MJwxLWD/kBkmUmhk=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "sqlite-quanwei-zhinan": {
+    "2023.2.12.0": {
+      "sdist": [
+        "6uCg8O4pa/yDpPd/hBzauu/Hbtb8qQiHYYDtKx05bdo=",
+        "sqlite-quanwei-zhinan-2023.2.12.0.tar.gz"
+      ],
+      "wheels": {
+        "sqlite_quanwei_zhinan-2023.2.12.0-py3-none-any.whl": [
+          "tgaUl3BCdEHb1eODaH4ifsUyUFFUcdOJxMdpbxJ51XY=",
           "py3"
         ]
       }

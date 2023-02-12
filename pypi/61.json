@@ -5836,6 +5836,18 @@
         ]
       }
     },
+    "4.2.0": {
+      "sdist": [
+        "+sJqubOAQ9iZQTR4jKi/0NJlCq20EFMmsvy6LEjKDB8=",
+        "apache-airflow-providers-apache-beam-4.2.0.tar.gz"
+      ],
+      "wheels": {
+        "apache_airflow_providers_apache_beam-4.2.0-py3-none-any.whl": [
+          "7zr1vGrnuDpFbnyk/pPkfUgspEi7XZ34rinH8VQz9Rc=",
+          "py3"
+        ]
+      }
+    },
     "4.2.0rc1": {
       "sdist": [
         "ROIYlSn5/Krg88dD6HRonUPSbbyqDMF1zBWZcL9zBCs=",
@@ -23663,6 +23675,20 @@
         "corpus_processor-0.1.0-cp38-cp38-manylinux1_x86_64.whl": [
           "sxQN/bfKNqDcW0ta2ktC+RSHQ0jSr6CWAEolsEpeBtE=",
           "cp38"
+        ]
+      }
+    }
+  },
+  "corutil": {
+    "0.37": {
+      "sdist": [
+        "0vuFINfahp6WqlQiLsFcucwPFeqXGiKUj9LZLdFe8SA=",
+        "corutil-0.37.tar.gz"
+      ],
+      "wheels": {
+        "corutil-0.37-py3-none-any.whl": [
+          "FUL4LAiHKRmKaayeSNlO8JrmxEIa8tpnvYeNs3kNum0=",
+          "py3"
         ]
       }
     }
@@ -52530,6 +52556,18 @@
         ]
       }
     },
+    "1.3.21": {
+      "sdist": [
+        "IwxEn3cqaWki7NkVK0tR+bg0co/UoH99a4/yphkKsRI=",
+        "hata-1.3.21.tar.gz"
+      ],
+      "wheels": {
+        "hata-1.3.21-py3-none-any.whl": [
+          "dlYSaFYFYs5eYBu9e8A1qK9uiKYnH+/dx5uOlvTORu4=",
+          "py3"
+        ]
+      }
+    },
     "1.3.3": {
       "sdist": [
         "VULtw40IV4GsXGGTLyh1UlcWRq9x8gdeY+gVDEJELpA=",
@@ -61584,6 +61622,18 @@
       "wheels": {
         "kanboard-1.1.4-py3-none-any.whl": [
           "1YppR9c0gcdM86FgWWkKjr0+ARX2JZeckMVwFMEEr14=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.5": {
+      "sdist": [
+        "VILFDLHYPqUx+DTk3+jEF3S6rLL0ZTA7SSDXI3E2FEA=",
+        "kanboard-1.1.5.tar.gz"
+      ],
+      "wheels": {
+        "kanboard-1.1.5-py3-none-any.whl": [
+          "Lq/UfcRjihIm2VFt0QzqNiHaTAWNKLzXsjIEAhOp9dM=",
           "py3"
         ]
       }
@@ -119838,6 +119888,12 @@
       "sdist": [
         "IlWEtLwrpLDqZF2rSH1OrzTc8aUt4GFb83Ex7ZSdaBQ=",
         "sage-sws2rst-9.7rc2.tar.gz"
+      ]
+    },
+    "9.8": {
+      "sdist": [
+        "AH3DstkJg/8LlfcnAaifAOsMN6x7RzpKqF5llBJtN+Y=",
+        "sage-sws2rst-9.8.tar.gz"
       ]
     },
     "9.8b0": {

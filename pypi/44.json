@@ -36269,6 +36269,30 @@
         "m1ssAZEnMVY1wSI70t6FD9Fn9izJXqntOaL8eftbt58=",
         "cs.buffer-20211208.tar.gz"
       ]
+    },
+    "20230212.1": {
+      "sdist": [
+        "T1UKoqPPiryt8cKQ09zAH21csq5teuzgQqe7QGU2eZ8=",
+        "cs.buffer-20230212.1.tar.gz"
+      ],
+      "wheels": {
+        "cs.buffer-20230212.1-py3-none-any.whl": [
+          "+T40BGhqdoRY83/Tv6B0w6+4FNj7SWrIiBo4ts+8piQ=",
+          "py3"
+        ]
+      }
+    },
+    "20230212.2": {
+      "sdist": [
+        "TwLJlRnbW3v5cIBbVxaJqYBAdjA+75yaL4t3gPAEVCA=",
+        "cs.buffer-20230212.2.tar.gz"
+      ],
+      "wheels": {
+        "cs.buffer-20230212.2-py3-none-any.whl": [
+          "DiZ+sqQCndF2pkQHk0ryKfBTcD0CsMmiEzh86F5X/mc=",
+          "py3"
+        ]
+      }
     }
   },
   "csptools": {
@@ -38091,6 +38115,38 @@
           "py3"
         ]
       }
+    }
+  },
+  "datalabel": {
+    "0.1": {
+      "sdist": [
+        "6hkTWGTDkOdzqj7QqnFCGlYuzKD02x4WPfBGlCBN/NY=",
+        "datalabel-0.1.tar.gz"
+      ]
+    },
+    "0.1.1": {
+      "sdist": [
+        "s7JdsqO9h696yfG+JTOnpethHepiuOApaTZmeEAEid0=",
+        "datalabel-0.1.1.tar.gz"
+      ]
+    },
+    "0.1.2": {
+      "sdist": [
+        "2cLCF09KHGVfMTmJ4evf1/o604XKzWBFdYWH7ZSpnr4=",
+        "datalabel-0.1.2.tar.gz"
+      ]
+    },
+    "0.1.3": {
+      "sdist": [
+        "9K2piLvcJc+jecpa8VU9SHWXmA8/aq/yWEZRzU5LQvw=",
+        "datalabel-0.1.3.tar.gz"
+      ]
+    },
+    "0.1.4": {
+      "sdist": [
+        "j+iI6pVy2cxM5lmEtgbpR71vvwxPMLbW8+tAva5kjSM=",
+        "datalabel-0.1.4.tar.gz"
+      ]
     }
   },
   "dataloader": {
@@ -50110,6 +50166,24 @@
       "sdist": [
         "5bPAEWQHkE0/inTQN6byQt9FHTgNRJCnfnGXNVb8n24=",
         "evaics-0.0.36.tar.gz"
+      ]
+    },
+    "0.0.37": {
+      "sdist": [
+        "r6OSkcgut+JVvk25NVZu0wVy+RzrGXBsekByFe5pdN8=",
+        "evaics-0.0.37.tar.gz"
+      ]
+    },
+    "0.0.38": {
+      "sdist": [
+        "KuuWd+0DgdW7C0VMEAE34506NqNzcY0+OIBZD91O+wY=",
+        "evaics-0.0.38.tar.gz"
+      ]
+    },
+    "0.0.39": {
+      "sdist": [
+        "TsBjn9tVUHZpbZQdwhcjIPXC3LlAaiJDceFyb9LFn8M=",
+        "evaics-0.0.39.tar.gz"
       ]
     },
     "0.0.4": {
@@ -72764,6 +72838,18 @@
       "wheels": {
         "machineconfig-1.0-py3-none-any.whl": [
           "2kpQ22vMi/ajBp8FAAVvZ6aVR/yLNSkKgdJ9qUWJY+M=",
+          "py3"
+        ]
+      }
+    },
+    "1.1": {
+      "sdist": [
+        "G2ED95xmqKln00zPwdTyvsN9wUdoPHwjkzFMkzoA8Zs=",
+        "machineconfig-1.1.tar.gz"
+      ],
+      "wheels": {
+        "machineconfig-1.1-py3-none-any.whl": [
+          "ADIXIMDoGrA8Ocs2trsHFxYgI5J9qMH8p+zt3cQeMmo=",
           "py3"
         ]
       }
@@ -118243,6 +118329,18 @@
           "py3"
         ]
       }
+    },
+    "1.1.0.0": {
+      "sdist": [
+        "OqWZZt9daFbPentwvuZcE6FDt6/9WleLclCY2Y2PbFQ=",
+        "reddit-post-scraping-tool-1.1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "reddit_post_scraping_tool-1.1.0.0-py3-none-any.whl": [
+          "lixTtiX1TEvLFijYhNcOorR17+iWZRcpFfe8tba+jYk=",
+          "py3"
+        ]
+      }
     }
   },
   "redis-popper": {
@@ -123164,6 +123262,12 @@
         "sagemath-standard-9.7rc2.tar.gz"
       ]
     },
+    "9.8": {
+      "sdist": [
+        "f+3EdTOabkKxNZlY2FXg5yyTyAnRSwyhijR/zlmB21Q=",
+        "sagemath-standard-9.8.tar.gz"
+      ]
+    },
     "9.8b0": {
       "sdist": [
         "rLd8m8jvDw+HP1jimXnSm02tb25bao292jWQz3VpGRs=",
@@ -125474,6 +125578,18 @@
       "wheels": {
         "shelxfile-11-py3-none-any.whl": [
           "kY8nt5lYT4cxvbm3L+ELwDp00604GCV7PlpB1LWDbMg=",
+          "py3"
+        ]
+      }
+    },
+    "12": {
+      "sdist": [
+        "wnsWIxzWJnx+jO50BPBsoWwMw3zG8xuxINwbnsVwW58=",
+        "shelxfile-12.tar.gz"
+      ],
+      "wheels": {
+        "shelxfile-12-py3-none-any.whl": [
+          "BYtRcqZxf23WyBfzyw2f7Rp8S35muffnr6QULs91Zbw=",
           "py3"
         ]
       }
@@ -146075,6 +146191,20 @@
       }
     }
   },
+  "using-swift-with-cocoa-and-objective-c": {
+    "2023.2.12.0": {
+      "sdist": [
+        "APmGlhcUugv8vTguvjFgHujfQlEnob9uL53ygV7tFaY=",
+        "using-swift-with-cocoa-and-objective-c-2023.2.12.0.tar.gz"
+      ],
+      "wheels": {
+        "using_swift_with_cocoa_and_objective_c-2023.2.12.0-py3-none-any.whl": [
+          "Pl1TUEGcaBFfjTMzlmIpQPZH8B6CQZNZ07hjdKyOtnk=",
+          "py3"
+        ]
+      }
+    }
+  },
   "uttp": {
     "0.1.0": {
       "sdist": [
@@ -150514,6 +150644,110 @@
         ],
         "xlOil-0.17.1-cp39-cp39-win_amd64.whl": [
           "0zDmWDYPcuNG0cyDHpTI/KXU8U5hsPgPzu6FSh6HW2k=",
+          "cp39"
+        ]
+      }
+    },
+    "0.17.2": {
+      "wheels": {
+        "xlOil-0.17.2-cp310-cp310-win32.whl": [
+          "RsiCybzhqC0pI5ahyaxOC83L1q57ziLPaZ5KzQUE2DE=",
+          "cp310"
+        ],
+        "xlOil-0.17.2-cp310-cp310-win_amd64.whl": [
+          "ry7eYEefy477ahYce8Mjsg5aG3ndIEbQnfvnYN6v4Pc=",
+          "cp310"
+        ],
+        "xlOil-0.17.2-cp311-cp311-win32.whl": [
+          "gvKBe7j/XWYHto9pvaDl+dJZOIbcT01tWfWTJYNRVqg=",
+          "cp311"
+        ],
+        "xlOil-0.17.2-cp311-cp311-win_amd64.whl": [
+          "AcU7VbsZ3qrhRL+2IGHxMmS8C1w1vu2IiJDEcAwDKJQ=",
+          "cp311"
+        ],
+        "xlOil-0.17.2-cp36-cp36m-win32.whl": [
+          "5yR79SuNtFR/eeb4Duv5JmpEUnsglz4KV2rOgpGYyVs=",
+          "cp36"
+        ],
+        "xlOil-0.17.2-cp36-cp36m-win_amd64.whl": [
+          "1Gs1g0dr/8IeH0PSb2+qGSxyvQ3IyzIu4MpHHy9MXVM=",
+          "cp36"
+        ],
+        "xlOil-0.17.2-cp37-cp37m-win32.whl": [
+          "TDns1fu3BLpsR0Mp4BL3E/moik3vxceRGpurJK/Q4Vw=",
+          "cp37"
+        ],
+        "xlOil-0.17.2-cp37-cp37m-win_amd64.whl": [
+          "ir1SxpEG1NeXpcQOVcJ0tpLqLHxQBGDcWCQhup5yjP8=",
+          "cp37"
+        ],
+        "xlOil-0.17.2-cp38-cp38-win32.whl": [
+          "i+PWMt6+HGPF0BnqiHOfPgNXLbvTz2R+LTMqJY2O6ic=",
+          "cp38"
+        ],
+        "xlOil-0.17.2-cp38-cp38-win_amd64.whl": [
+          "Fhe1uZ+143fmBMvp0ScQogl6OuiwKSUikzcUNHKtoLU=",
+          "cp38"
+        ],
+        "xlOil-0.17.2-cp39-cp39-win32.whl": [
+          "+blrbZo1a9O29ePjf0E/cVlJl3zMADSWCBweN2q3qfc=",
+          "cp39"
+        ],
+        "xlOil-0.17.2-cp39-cp39-win_amd64.whl": [
+          "W3z3HB9JKGMck0dpIlGsvARB0ixFJjmkKAQwtHcVAtA=",
+          "cp39"
+        ]
+      }
+    },
+    "0.17.3": {
+      "wheels": {
+        "xlOil-0.17.3-cp310-cp310-win32.whl": [
+          "Few2kWNcpMG2fOEyWdFq+OnGD1hWguv6NuIZ1Zj+pcM=",
+          "cp310"
+        ],
+        "xlOil-0.17.3-cp310-cp310-win_amd64.whl": [
+          "RHlsK3XEPpNvh87jIw6qN72pzrdY/hOv8dK2vmpujdM=",
+          "cp310"
+        ],
+        "xlOil-0.17.3-cp311-cp311-win32.whl": [
+          "rvRrjsg4DozLfyf6kppKB2QygqmaDyE4NjjuhvlrclI=",
+          "cp311"
+        ],
+        "xlOil-0.17.3-cp311-cp311-win_amd64.whl": [
+          "zDiBOI0a9dqsN6jNURMUhW4pnoIhTB5aWF62rwoeKh4=",
+          "cp311"
+        ],
+        "xlOil-0.17.3-cp36-cp36m-win32.whl": [
+          "m5Tz8LxFsFdqmTQronXqhghzwF6jN2tsqZq0G9U4Q1k=",
+          "cp36"
+        ],
+        "xlOil-0.17.3-cp36-cp36m-win_amd64.whl": [
+          "Gf8Qz7OLX9kMnAxU6bhKam+J9UTYUe0l9kRskgY+v1U=",
+          "cp36"
+        ],
+        "xlOil-0.17.3-cp37-cp37m-win32.whl": [
+          "LVeZToEIKG+ByN0gjPMhFZCZpWiG/62DLzT83Ut5pW0=",
+          "cp37"
+        ],
+        "xlOil-0.17.3-cp37-cp37m-win_amd64.whl": [
+          "wlkYlBvp+F0nWXJF6vZ9Cj98aclQROoWyuT8YR+Dx1E=",
+          "cp37"
+        ],
+        "xlOil-0.17.3-cp38-cp38-win32.whl": [
+          "HPlSd/FzcxZ8wZICy6DJk8hpDwpVicNvP2TDK/pRucU=",
+          "cp38"
+        ],
+        "xlOil-0.17.3-cp38-cp38-win_amd64.whl": [
+          "9DMVz6S4pN7xvxeN0vtL+z5biuUVE9pbDj+EwViDT64=",
+          "cp38"
+        ],
+        "xlOil-0.17.3-cp39-cp39-win32.whl": [
+          "d5op+RrRdZvMYDddcZ42Iq5Mn8bHESmUg2J6dRUPalo=",
+          "cp39"
+        ],
+        "xlOil-0.17.3-cp39-cp39-win_amd64.whl": [
+          "5qaVnDX+YqejeY3fKSj994hSyxHw7E67Uy+GT2sI408=",
           "cp39"
         ]
       }

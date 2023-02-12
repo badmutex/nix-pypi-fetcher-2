@@ -24846,6 +24846,24 @@
     }
   },
   "custom-maya": {
+    "0.0.12": {
+      "sdist": [
+        "KuDwZACSG943a5x88j/XJwyy7RJDcaLyWxj4GdbQRjI=",
+        "custom_maya-0.0.12.tar.gz"
+      ],
+      "wheels": {
+        "custom_maya-0.0.12-py3-none-any.whl": [
+          "wYZnpuz0QTkJPPAzeX5l+tZ7jGqmyzwSWdoR5J+W/vo=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.13": {
+      "sdist": [
+        "bHz05qjZpqxVtv8gQZfwFxTDqjfKzyKDjThEKnmBCJY=",
+        "custom_maya-0.0.13.tar.gz"
+      ]
+    },
     "0.0.3": {
       "sdist": [
         "FGsIADefAiO84P2/pDMaZn+yr/TPdet2c2bAkn9Gx8E=",
@@ -44846,6 +44864,18 @@
       "wheels": {
         "fantasy_hockey_notifier_cdk-2.0.25-py3-none-any.whl": [
           "aG4fmyPBDk8nzAaO1EQSlK+411BwdY7TZ4vlXPnvZXs=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.26": {
+      "sdist": [
+        "TI7yFVMaEvatnBmOS1Xr+IHBXTGFWRvsI3ApJsYd00k=",
+        "fantasy-hockey-notifier-cdk-2.0.26.tar.gz"
+      ],
+      "wheels": {
+        "fantasy_hockey_notifier_cdk-2.0.26-py3-none-any.whl": [
+          "2BcfxTLIKJNpiPO+auorUpfK3kqJyxYPyIrjxQwma4I=",
           "py3"
         ]
       }
@@ -84591,6 +84621,18 @@
         "iFj5bOHknymTvkt9SWQv2r9+Wa2v6Lt2r2zFkJwiTW8=",
         "NSFopen-2.1.1.tar.gz"
       ]
+    },
+    "2.1.4": {
+      "sdist": [
+        "pPJqgt5wQ3nvQzD4FxFpEcIjiECsqElMutgWUKu19g4=",
+        "NSFopen-2.1.4.tar.gz"
+      ],
+      "wheels": {
+        "NSFopen-2.1.4-py3-none-any.whl": [
+          "hmf6Ba+3y2eO4kemv3p6x7jRzKTNGJ6NWy08ayCEETk=",
+          "py3"
+        ]
+      }
     }
   },
   "nt2dc": {
@@ -86792,7 +86834,57 @@
       "sdist": [
         "9fHx1AMkA5TsS2f3yD4C09kUQE00VO73kkLtwq9oM7o=",
         "OctoBot-Trading-2.3.17.tar.gz"
-      ]
+      ],
+      "wheels": {
+        "OctoBot_Trading-2.3.17-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "zz7U6ar+hpGNXsyvJVd/uGJnJHS7xTxb+A9lCDzXUQs=",
+          "cp38"
+        ],
+        "OctoBot_Trading-2.3.17-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "9xDyJbmP9+JBv7tlV37CoN2D6jXkcmPJV+VKaoZVftg=",
+          "cp38"
+        ],
+        "OctoBot_Trading-2.3.17-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "cL3I8fOh+OfsjlJ75yOmse3YTMBNFfG16aikxI4zGPI=",
+          "cp38"
+        ],
+        "OctoBot_Trading-2.3.17-cp38-cp38-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "F7AZg8qtBsMMKRHPCpLTAj7VlmJzW9ZF4PQ8saf4ysQ=",
+          "cp38"
+        ],
+        "OctoBot_Trading-2.3.17-cp38-cp38-win_amd64.whl": [
+          "JWaEVlBKzbsJJ2LM/Bq5SnCjjxhemZ2Cm9102gaCGlM=",
+          "cp38"
+        ]
+      }
+    },
+    "2.3.18": {
+      "sdist": [
+        "oyfP+aoMtcXO7FsubzOeNuZ0gZWNtpq/oRdZNsSU+Mo=",
+        "OctoBot-Trading-2.3.18.tar.gz"
+      ],
+      "wheels": {
+        "OctoBot_Trading-2.3.18-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "WbIK7A03e8Nrh1v6PtbfoCCuxgzbM2TWWeY26IuXwfQ=",
+          "cp38"
+        ],
+        "OctoBot_Trading-2.3.18-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "28jEmbA0V5L34Ve3d2th0f288PPBABTIrblC5VoADp8=",
+          "cp38"
+        ],
+        "OctoBot_Trading-2.3.18-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "OXA+uEXXib34JeZMcRV2bfkzXVzxxuS+O0bQ2VCVlC8=",
+          "cp38"
+        ],
+        "OctoBot_Trading-2.3.18-cp38-cp38-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "EpmhNy8hWuZyi6dggzrY3EvmEHtxF67EL1nt69SNU2s=",
+          "cp38"
+        ],
+        "OctoBot_Trading-2.3.18-cp38-cp38-win_amd64.whl": [
+          "16oBbJhhU0E8wSX7ZoGu9cPrkYEFEFN9/veQ2bqSe6A=",
+          "cp38"
+        ]
+      }
     },
     "2.3.2": {
       "sdist": [
@@ -141390,6 +141482,18 @@
       "wheels": {
         "trade_lib-0.1.3-py3-none-any.whl": [
           "B6WQFBS1UjAKgJ5E2A45WqpYluIqVvXOyao2xeaE3N4=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.0": {
+      "sdist": [
+        "frC5Sc6oSQc4o5McI/x5qsQMXUyGd7nx+zmdkL4AnSk=",
+        "trade_lib-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "trade_lib-0.2.0-py3-none-any.whl": [
+          "el2PRIK0VOHcYb8CbUfWj4B8UfMMEXoKilKC7ytLQgk=",
           "py3"
         ]
       }

@@ -4632,6 +4632,18 @@
         ]
       }
     },
+    "3.3.1": {
+      "sdist": [
+        "fwsOw04LpsVMBhd8Oi5EPg1NAMP90Dm2hahfv/8YO/Y=",
+        "apache-airflow-providers-ftp-3.3.1.tar.gz"
+      ],
+      "wheels": {
+        "apache_airflow_providers_ftp-3.3.1-py3-none-any.whl": [
+          "aQu1WrISbmsXjI6jsvvEpjq4EgLsLpstktMyuNnqyP8=",
+          "py3"
+        ]
+      }
+    },
     "3.3.1rc1": {
       "sdist": [
         "I45+Qp+RCThZEPoVcpJQbvXkqI9TYBbIOdPzutCUsD4=",
@@ -27182,6 +27194,18 @@
       "wheels": {
         "cs.progress-20221207-py3-none-any.whl": [
           "O0MLZbOSOhKCBnV2YXWlf6kmToJcg+JDaLqgT28Tb5s=",
+          "py3"
+        ]
+      }
+    },
+    "20230212": {
+      "sdist": [
+        "lM6KVGVoQN/HhX1FtVgV50rRnjxYErCy4iQP1gMIlA8=",
+        "cs.progress-20230212.tar.gz"
+      ],
+      "wheels": {
+        "cs.progress-20230212-py3-none-any.whl": [
+          "D6rNPgpMB93T92B8YogDWjfDO+UHnu1EEHmPRE3iRSc=",
           "py3"
         ]
       }
@@ -88036,6 +88060,54 @@
         ]
       }
     },
+    "0.4.10": {
+      "sdist": [
+        "PQwyp8Cve+VgEgzNdObyGBJqZixRO7F5Feb26s8IK1c=",
+        "np_config-0.4.10.tar.gz"
+      ],
+      "wheels": {
+        "np_config-0.4.10-py3-none-any.whl": [
+          "G3j/lkwFbdOB8jXuBm5HOBaRz4kAlsohehq1pzJjAkk=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.11": {
+      "sdist": [
+        "Dzf5yh4qJSGU2ZT0H1c7PEZ7+s9aWY9uVt8VO4BlSew=",
+        "np_config-0.4.11.tar.gz"
+      ],
+      "wheels": {
+        "np_config-0.4.11-py3-none-any.whl": [
+          "2hKlxhmuc+J/k+CQStw6MK9Jnl5kpuytYA/Msfwbq2c=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.12": {
+      "sdist": [
+        "8L09zl23bANeAqFqUhaAiM2TJs+SGsDQDCFoe98C5cY=",
+        "np_config-0.4.12.tar.gz"
+      ],
+      "wheels": {
+        "np_config-0.4.12-py3-none-any.whl": [
+          "70uEId+aYAxHIpavlCcs4PBMHzNuOZzfkToMMT54RJ4=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.13": {
+      "sdist": [
+        "aNJCiYKnvmE+5KQT50AUHMZtlRNiwfIt4HL8cmBEpno=",
+        "np_config-0.4.13.tar.gz"
+      ],
+      "wheels": {
+        "np_config-0.4.13-py3-none-any.whl": [
+          "wDudrNs4aszc2ahcQPYj3a8bkQPNlzEEiVQFHhwAJ2c=",
+          "py3"
+        ]
+      }
+    },
     "0.4.2": {
       "sdist": [
         "wQaxdpcI0Ymp9i50q8a5mcKWQLQoegm7NJ29RFq3f7s=",
@@ -88104,6 +88176,18 @@
       "wheels": {
         "np_config-0.4.8-py3-none-any.whl": [
           "cl0ZZ2xIGMOpuA5uobTUGvWo8I+qu0DU0GRn58MuyQs=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.9": {
+      "sdist": [
+        "MJvUoETFV1HFjv8la4x2IF5cAhuuGqkxO7jXygDKxjA=",
+        "np_config-0.4.9.tar.gz"
+      ],
+      "wheels": {
+        "np_config-0.4.9-py3-none-any.whl": [
+          "WI0OmsFXGWvPfuI2zfoawDa39hUEeXb2O6Q4Q6M143U=",
           "py3"
         ]
       }
@@ -95061,6 +95145,20 @@
       }
     }
   },
+  "pdf-slicer": {
+    "2023.1.0": {
+      "sdist": [
+        "aoBFTU1CHpBdSYc/8iVwPP1UeKlozTLDWvS+AvjNX68=",
+        "pdf_slicer-2023.1.0.tar.gz"
+      ],
+      "wheels": {
+        "pdf_slicer-2023.1.0-py3-none-any.whl": [
+          "vjMtO1G11YQS+FmUJtg+fkwax8Z+rr1G0DtckbT7+XU=",
+          "py3"
+        ]
+      }
+    }
+  },
   "pdfcmd": {
     "1.0": {
       "sdist": [
@@ -99128,6 +99226,12 @@
       "sdist": [
         "L3xU28UjQszoxEscd1UOWaQ75mO29yWMmiNMr/7TLuM=",
         "proactive-13.1.0.2302110240.dev0.zip"
+      ]
+    },
+    "13.1.0.2302120241.dev0": {
+      "sdist": [
+        "W9o0YzoulQ7N0ghG63h5YVo9JekAkJSdFqKn9LFuYIU=",
+        "proactive-13.1.0.2302120241.dev0.zip"
       ]
     },
     "13.1.1.2212182207.dev0": {

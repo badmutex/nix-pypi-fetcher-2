@@ -62861,6 +62861,78 @@
           "cp39"
         ]
       }
+    },
+    "1.0.0rc2": {
+      "sdist": [
+        "QRTa07DTYhjLSqI1eMGgSsO2YGIoN6QMPqNMp7jP3+s=",
+        "lively_tk-1.0.0rc2.tar.gz"
+      ],
+      "wheels": {
+        "lively_tk-1.0.0rc2-cp37-abi3-macosx_10_7_x86_64.whl": [
+          "6W2q1qGhwutsbVPgquSMeSTQFDPJ/4DdBbe5w1O+QAQ=",
+          "cp37"
+        ],
+        "lively_tk-1.0.0rc2-cp37-abi3-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "9zLg/nxEFacWw7ue1hvRimRWGvzg6eNcqlWAFsedUcg=",
+          "cp37"
+        ],
+        "lively_tk-1.0.0rc2-cp37-abi3-macosx_11_0_arm64.whl": [
+          "vX7V10rzYAlgJXodCtZN1Zn5OLx1valmrcNHnwps90c=",
+          "cp37"
+        ],
+        "lively_tk-1.0.0rc2-cp37-abi3-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "AEvuuxYlRZbXCjgs+E3hsnptEvp/QugiEkIBXNFXeoM=",
+          "cp37"
+        ],
+        "lively_tk-1.0.0rc2-cp37-abi3-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "SXFH3EN2EICazXe2Tr410chSjS416a6lPxPoPP7U6Xo=",
+          "cp37"
+        ],
+        "lively_tk-1.0.0rc2-cp37-abi3-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "p0SowAbV5rnL0A8Z1YrbNdgYas9xLJ78P7plrLvFZ7A=",
+          "cp37"
+        ],
+        "lively_tk-1.0.0rc2-cp37-abi3-manylinux_2_17_ppc64.manylinux2014_ppc64.whl": [
+          "9+SGrZ5f+m0/42UxyxJ8JOjMyPnPeElGQsUO++YYnYI=",
+          "cp37"
+        ],
+        "lively_tk-1.0.0rc2-cp37-abi3-manylinux_2_17_s390x.manylinux2014_s390x.whl": [
+          "klLZsSWC+NMzC3/oOAPmlsAe34vuTeASXcDeNVnaAdA=",
+          "cp37"
+        ],
+        "lively_tk-1.0.0rc2-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "EA23Z6/aGDW42hvMsV3bZtDsDQ9b3CLjGBW7IKi1k40=",
+          "cp37"
+        ],
+        "lively_tk-1.0.0rc2-cp37-abi3-manylinux_2_5_i686.manylinux1_i686.whl": [
+          "7fRMbPgZJWUe4ejt/OX2JmLcKCdeR/YaGDd4M0JjZ1k=",
+          "cp37"
+        ],
+        "lively_tk-1.0.0rc2-cp37-abi3-musllinux_1_2_aarch64.whl": [
+          "hn3dFMG/v0QkYOqfK4EOnMxhAH7yFe64aBo/jlXPDyw=",
+          "cp37"
+        ],
+        "lively_tk-1.0.0rc2-cp37-abi3-musllinux_1_2_armv7l.whl": [
+          "9eJJb2qOgn5zSAkvmHV6qDl05+uo8OQYMyMvWfTxG24=",
+          "cp37"
+        ],
+        "lively_tk-1.0.0rc2-cp37-abi3-musllinux_1_2_i686.whl": [
+          "9MSRY7tJWdOS0uaWPF9ytlLUxS6FkNG8OUGaKaCGMbA=",
+          "cp37"
+        ],
+        "lively_tk-1.0.0rc2-cp37-abi3-musllinux_1_2_x86_64.whl": [
+          "20hCscMV6PaWFWn2wMkacOSVOJFx4HK6JBl1c6sYtv0=",
+          "cp37"
+        ],
+        "lively_tk-1.0.0rc2-cp37-abi3-win32.whl": [
+          "/EvNEhHSFJdH1n+IbOe2HcSWIN3d8yVydIE+3E6jKlA=",
+          "cp37"
+        ],
+        "lively_tk-1.0.0rc2-cp37-abi3-win_amd64.whl": [
+          "Fje2tA8mnFtk/2L81QxSFkUoNVaOzMa1to2J6HTcIfg=",
+          "cp37"
+        ]
+      }
     }
   },
   "ljwnester": {
@@ -118787,6 +118859,18 @@
           "py3"
         ]
       }
+    },
+    "3.2.0": {
+      "sdist": [
+        "qCWFXzwRVbnfK1f7EhMHIKlU5gw+AA2aaz+59gU23TA=",
+        "resoto-plugin-onprem-3.2.0.tar.gz"
+      ],
+      "wheels": {
+        "resoto_plugin_onprem-3.2.0-py3-none-any.whl": [
+          "xFs0OHX3cizlI/hTZfH2TECgis3eTxOWbqPb275GLUE=",
+          "py3"
+        ]
+      }
     }
   },
   "restgate": {
@@ -132380,10 +132464,14 @@
     }
   },
   "spgci": {
-    "0.1.2": {
+    "0.0.1": {
+      "sdist": [
+        "hPYEco8GfRsDg14/ioARfb7wcv3v3BWHJZxTQ3Jr9vc=",
+        "spgci-0.0.1.tar.gz"
+      ],
       "wheels": {
-        "spgci-0.1.2-py3-none-any.whl": [
-          "KKeCW3R78G8CcYjN9a+ATctUpMOxPqdG8xjh+IjKD8Y=",
+        "spgci-0.0.1-py3-none-any.whl": [
+          "FgeDWwYkUSxygwu297+nNPkhuX65evHUx1OAz2jODQ4=",
           "py3"
         ]
       }

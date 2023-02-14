@@ -49752,6 +49752,18 @@
         ]
       }
     },
+    "0.19.1rc0": {
+      "sdist": [
+        "MT8MU4nHLr8dK9nYqosyIDnDGWr8Qnm3ml1ulIdpPbc=",
+        "fiftyone-0.19.1rc0.tar.gz"
+      ],
+      "wheels": {
+        "fiftyone-0.19.1rc0-py3-none-any.whl": [
+          "bStVPU82sGN1j6I6fj6rfSW1P8t81niAWwrqHnhCVfA=",
+          "py3"
+        ]
+      }
+    },
     "0.2.0": {
       "wheels": {
         "fiftyone-0.2.0-py3-none-any.whl": [
@@ -51986,6 +51998,30 @@
       "wheels": {
         "fluxvault-0.7.4-py3-none-any.whl": [
           "Qw3YZwvuhNFuOyWXLlox5nVhagSS9JO2gl56ljLb3o4=",
+          "py3"
+        ]
+      }
+    },
+    "0.7.5": {
+      "sdist": [
+        "Wgw1rXJ1wcTk3eZtO9lyEWzFFB/9F9LkGQwqa8aNndc=",
+        "fluxvault-0.7.5.tar.gz"
+      ],
+      "wheels": {
+        "fluxvault-0.7.5-py3-none-any.whl": [
+          "mHXISskrQE7YIRqp5xTVi+ZIsvd1NEQqHt50LsdXnT8=",
+          "py3"
+        ]
+      }
+    },
+    "0.7.6": {
+      "sdist": [
+        "HPgiLH27y3Y4G7+dbhkyKDL8duZy8ygtOpG45kT/XBU=",
+        "fluxvault-0.7.6.tar.gz"
+      ],
+      "wheels": {
+        "fluxvault-0.7.6-py3-none-any.whl": [
+          "LkZCkMuN9knQwsBjcOKvOO0WNX6xb+95MWps3gCeJOg=",
           "py3"
         ]
       }
@@ -67864,6 +67900,18 @@
       "wheels": {
         "hyc_utils-0.5.27-py3-none-any.whl": [
           "3A/qvb2UB/o2K5De2wyRWbIxEo5FVzgkHt+ABiQ+wlo=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.28": {
+      "sdist": [
+        "2kzMu267/NOFvjtn6Or4Rr5gxwxdCL4ZeVuzgFSsSXU=",
+        "hyc-utils-0.5.28.tar.gz"
+      ],
+      "wheels": {
+        "hyc_utils-0.5.28-py3-none-any.whl": [
+          "zDlKs1BIoSB3tFUXgo9KvLI/unGpnbn92tQO+1hjALU=",
           "py3"
         ]
       }
@@ -105023,6 +105071,18 @@
           "py3"
         ]
       }
+    },
+    "0.2.2": {
+      "sdist": [
+        "lXuTMoZIksJN+VeAbTzq2O8d+WN3IhtuqjRq04YpIGs=",
+        "prefsniff-0.2.2.tar.gz"
+      ],
+      "wheels": {
+        "prefsniff-0.2.2-py3-none-any.whl": [
+          "JHPBIPmftqJ3CdEXdY+7KyYIToIvw0MjbhVdIiyvq2o=",
+          "py3"
+        ]
+      }
     }
   },
   "prejudice-bias-hotel-reviews": {
@@ -110194,6 +110254,18 @@
       "wheels": {
         "pydflow-1.6.47-py3-none-any.whl": [
           "6+yLfeVszo1RVqp1nhkNPwoJM6kWzZju5bUJumtSrPU=",
+          "py3"
+        ]
+      }
+    },
+    "1.6.48": {
+      "sdist": [
+        "/49hGCDM5xKkP2/VrJgdKNNgdlEbf+g529PHIfogq6Q=",
+        "pydflow-1.6.48.tar.gz"
+      ],
+      "wheels": {
+        "pydflow-1.6.48-py3-none-any.whl": [
+          "gdDSaomOsYn5GyQrDEUp1kUdYkD9kjvoBoytclzNrOo=",
           "py3"
         ]
       }
@@ -131428,6 +131500,18 @@
         ]
       }
     },
+    "0.1.65": {
+      "sdist": [
+        "vdunTSRPGIsIkMvHD5Y186R8cgtvCICX64rEkp0WeJo=",
+        "sparrow-order-lib-0.1.65.tar.gz"
+      ],
+      "wheels": {
+        "sparrow_order_lib-0.1.65-py3-none-any.whl": [
+          "wffag4PUpFwexTxOItOOJbA1dwih1J/gkmlrT5tLna0=",
+          "py3"
+        ]
+      }
+    },
     "0.1.7": {
       "sdist": [
         "4LTgLEKd+U22MLAzk8incTcO4g0HAOBpQMNXqqspkVc=",
@@ -141102,6 +141186,12 @@
         "tremolo-0.0.24.tar.gz"
       ]
     },
+    "0.0.25": {
+      "sdist": [
+        "5e25qodChZEVTG0Lizvz7aehWRb+GOhhEOP4KxkI01o=",
+        "tremolo-0.0.25.tar.gz"
+      ]
+    },
     "0.0.3": {
       "sdist": [
         "rRzWuwYJFEPqPj2KSP3yvBfT0ch8EeLX6mISw3dRo6g=",
@@ -141690,6 +141780,46 @@
         ],
         "triton-2.0.0.dev20230208-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "jsLIMUhKkBLnhQ0cYKKdNpLn98KV6w/x7PgtgfLuyfQ=",
+          "pp39"
+        ]
+      }
+    },
+    "2.0.0a1": {
+      "wheels": {
+        "triton-2.0.0a1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "RVeJ5OMMZNuJv44oMcKf/LSSz27wUondpr54Ur0GqTE=",
+          "cp310"
+        ],
+        "triton-2.0.0a1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "IvgFse8IEy6zhrlgCzdJVV80tRaprzYjaWeM3vkXQ38=",
+          "cp311"
+        ],
+        "triton-2.0.0a1-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "sN2IdZoeJNIQ/DY87j1KIhcl78tK4jDSt/y+xso+DvA=",
+          "cp36"
+        ],
+        "triton-2.0.0a1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "mJ7y+2trykgIvs7vZZEsa0PcLAbJdXoulTwIR3tQ7y4=",
+          "cp37"
+        ],
+        "triton-2.0.0a1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "OXoBijlotkIrUPfMjaiye0jqpELuNQx58ZIFnUdk/3o=",
+          "cp38"
+        ],
+        "triton-2.0.0a1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "EeUz08ytShkI5WY7NZA/tXziy1BtYYxmM8w8j9IvKio=",
+          "cp39"
+        ],
+        "triton-2.0.0a1-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "jnicDfa8AQ0CWsrugeVf9qczu2r90KTDAPorx60jeho=",
+          "pp37"
+        ],
+        "triton-2.0.0a1-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "42strjA31cLOOYJrVuZ4MLceA7TiTZIS/iBqPvBI5gs=",
+          "pp38"
+        ],
+        "triton-2.0.0a1-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "kFEcVuRZd8OB1d0IihrRd5T6eLaXXD3LR/eYRUwcdBE=",
           "pp39"
         ]
       }

@@ -12403,6 +12403,14 @@
           "py3"
         ]
       }
+    },
+    "1.49.0": {
+      "wheels": {
+        "azureml_automl_dnn_vision-1.49.0-py3-none-any.whl": [
+          "QO0lfVaHxki+WRe4clsU8Bcx/INH2keZ6Bchbr10ay0=",
+          "py3"
+        ]
+      }
     }
   },
   "azureml-inference-server-http": {
@@ -16722,6 +16730,18 @@
       "wheels": {
         "botocore_a_la_carte_cloud9-1.29.69-py3-none-any.whl": [
           "Opts0ApAsOKDzdWEWFrSRcQxJK6rK09WAIowRiWgARI=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.70": {
+      "sdist": [
+        "R88GUDM102uNIxzfpRd7089uBtcKwm3jvn+W6l/VW7Q=",
+        "botocore-a-la-carte-cloud9-1.29.70.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_cloud9-1.29.70-py3-none-any.whl": [
+          "+3vpIIIpMQ6PbesJ7S9q0KrW42Ivc5OMlkCKHcB4lkk=",
           "py3"
         ]
       }
@@ -22392,6 +22412,18 @@
       "wheels": {
         "CMLv1-0.1.0-py3-none-any.whl": [
           "yL5suRFKSCRuVP8tLex6DhbFnwbBRlov4Zsbxm13C6c=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "nA+l8QpZKlpCdvnq1S2+RweFMP0Ju5OF4v+oA2hWLfA=",
+        "CMLv1-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "CMLv1-0.1.1-py3-none-any.whl": [
+          "axTqZWpnio7+vRpEuEnDSitBqjkS6RoDEKG+ZxWb1YQ=",
           "py3"
         ]
       }
@@ -60017,6 +60049,20 @@
       }
     }
   },
+  "latex-lunwen-xiezuo-jiaocheng": {
+    "2023.2.14.0": {
+      "sdist": [
+        "mZxIzPmEdS507dYllAvdfC+B6SLS2VCz+RFj8qXOYW0=",
+        "latex-lunwen-xiezuo-jiaocheng-2023.2.14.0.tar.gz"
+      ],
+      "wheels": {
+        "latex_lunwen_xiezuo_jiaocheng-2023.2.14.0-py3-none-any.whl": [
+          "qK58GWE96DfkFi8RgkWoSlmdddz/JVhlnw42PNK/Pgs=",
+          "py3"
+        ]
+      }
+    }
+  },
   "lawlib": {
     "0.1.1": {
       "sdist": [
@@ -71048,6 +71094,12 @@
         "molano-0.28.0.tar.gz"
       ]
     },
+    "0.29.0": {
+      "sdist": [
+        "Ll3ARrMetnZenSOjO6P4OLY5keDC6TJR9E/9Co3Dkz4=",
+        "molano-0.29.0.tar.gz"
+      ]
+    },
     "0.3.0": {
       "sdist": [
         "EHev2DuCIj2SPAndoeEG9Rl5qxMDRoLeF5qDWcR7aAo=",
@@ -71308,6 +71360,18 @@
       "wheels": {
         "mop_utils_test-1.6.2-py3-none-any.whl": [
           "zOxDTuZBikCN3Bw5CmzepHlD/UItaIGw/NppMLuy0zo=",
+          "py3"
+        ]
+      }
+    },
+    "1.6.3": {
+      "sdist": [
+        "oaOs0N7GR/jwTpvmlRWrVGZ/etFybKvYbt0Dapqnc/Y=",
+        "mop_utils_test-1.6.3.tar.gz"
+      ],
+      "wheels": {
+        "mop_utils_test-1.6.3-py3-none-any.whl": [
+          "yrqQH0jDLCdHoqdfIit1IlTxPk79qkJfZB0DS+TH8+4=",
           "py3"
         ]
       }
@@ -141509,6 +141573,24 @@
         "xQuv0Csd+2dG9VnZ0B1OCZAmR7Ecx2gQ0x3XCt4Qe3Q=",
         "venus-0.0.1.zip"
       ]
+    }
+  },
+  "verifinn": {
+    "0.0.0.dev1": {
+      "wheels": {
+        "verifiNN-0.0.0.dev1-py3-none-any.whl": [
+          "WRf96Nu6Jw9qvsjf5K4l/mUxlrtRnYMMT06yP4IoBKY=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.0.dev2": {
+      "wheels": {
+        "verifiNN-0.0.0.dev2-py3-none-any.whl": [
+          "+UCF/bGo8BYr/Fchw25HqO1ogo3gWSyaJ1oHTq/9VHg=",
+          "py3"
+        ]
+      }
     }
   },
   "vernierpygatt": {

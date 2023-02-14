@@ -12719,6 +12719,18 @@
           "py3"
         ]
       }
+    },
+    "8.0.0b1": {
+      "sdist": [
+        "sn0rH6bLtT445bf0qZADLOQPi4U13hsYlrQjp1JNUOs=",
+        "azure-mgmt-appplatform-8.0.0b1.zip"
+      ],
+      "wheels": {
+        "azure_mgmt_appplatform-8.0.0b1-py3-none-any.whl": [
+          "Zz56xIWp6iPgyRdp2l3oBrx7lX/KKzglq3VfkRm4SHk=",
+          "py3"
+        ]
+      }
     }
   },
   "azure-mgmt-timeseriesinsights": {
@@ -17304,6 +17316,18 @@
       "wheels": {
         "botocore_a_la_carte_forecast-1.29.69-py3-none-any.whl": [
           "fMoI3BdjGXB/9Ya6BRDiS20idissrmaSy5NQvgkGOqY=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.70": {
+      "sdist": [
+        "HUIsRB0Twb7XqGVjiyHG8qBywlW+YXPESClxZA6qFlU=",
+        "botocore-a-la-carte-forecast-1.29.70.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_forecast-1.29.70-py3-none-any.whl": [
+          "LWbx7bh0mzmTBlhv/Y0ooOAovSnBUfyf47aR0v47d9g=",
           "py3"
         ]
       }
@@ -41350,6 +41374,14 @@
       "wheels": {
         "django_ajax_datatable-4.4.4-py2.py3-none-any.whl": [
           "zFXOxii1uMM6LDXhxtdHkI6pa/4ueJAlQOzdy/yJo9w=",
+          "py2.py3"
+        ]
+      }
+    },
+    "4.4.5": {
+      "wheels": {
+        "django_ajax_datatable-4.4.5-py2.py3-none-any.whl": [
+          "9/WMwO+34gghlTwyEVitm8GDP3ybfhGwv+/aeOQvV+0=",
           "py2.py3"
         ]
       }
@@ -77273,6 +77305,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.8": {
+      "sdist": [
+        "Rv/WLoZFIswQ747CZ2P4gqMQVj1syZ/AI61s4aciZmY=",
+        "lookpin-pyspark-pkg-0.0.8.tar.gz"
+      ],
+      "wheels": {
+        "lookpin_pyspark_pkg-0.0.8-py3-none-any.whl": [
+          "yqAdDiiBqHyfQUxwRoYHez3AT7tCJOdwFbxNmuQXYtI=",
+          "py3"
+        ]
+      }
     }
   },
   "lora-modem-abz": {
@@ -107332,6 +107376,30 @@
       "wheels": {
         "orthanc_api_client-0.10.1-py3-none-any.whl": [
           "ki+1nFYWtpsfRIb8AvQ9Qp9RGkvh7+U6HLTuJrQA9aM=",
+          "py3"
+        ]
+      }
+    },
+    "0.10.2": {
+      "sdist": [
+        "Trl8ZvlL8UCBMhwfOJPkFistqsQWr7mYY307baqSH6g=",
+        "orthanc_api_client-0.10.2.tar.gz"
+      ],
+      "wheels": {
+        "orthanc_api_client-0.10.2-py3-none-any.whl": [
+          "P/VDJaTSiCxCQWuhfDygt1FXRUJCXn5S/m27DJiHpa0=",
+          "py3"
+        ]
+      }
+    },
+    "0.11.0": {
+      "sdist": [
+        "SOzBRNpHFjKJlJ5OJvuo+1XkBra7nFtgQ4gBmEfaz1k=",
+        "orthanc_api_client-0.11.0.tar.gz"
+      ],
+      "wheels": {
+        "orthanc_api_client-0.11.0-py3-none-any.whl": [
+          "ud6madXRV3fYD8lEzlnhdmvTwfgYx8pdHIrZhzy2ka8=",
           "py3"
         ]
       }
@@ -138152,6 +138220,20 @@
       "wheels": {
         "sgtlibc-1.9.146-py3-none-any.whl": [
           "bbRx/JuXcsL6I1Z5O/TCqsO8whc0lOcHh+VRNIzA+HM=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "shang-guigu-da-shuju-jishu-zhi-elk": {
+    "2023.2.14.0": {
+      "sdist": [
+        "F6eyRVb0QOpGYxC7J1bfTsTE3bUA0nYe1jGJ6GbsQ6g=",
+        "shang-guigu-da-shuju-jishu-zhi-elk-2023.2.14.0.tar.gz"
+      ],
+      "wheels": {
+        "shang_guigu_da_shuju_jishu_zhi_elk-2023.2.14.0-py3-none-any.whl": [
+          "JMQvQmrlbGRGRaDSsCI4IvQpWmHVKEKu84+mkc0U1es=",
           "py3"
         ]
       }

@@ -12109,6 +12109,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.70": {
+      "sdist": [
+        "xw3r2BMuKobaCLThm6/DDVALMa5At/2qZWhnB9Gf1KI=",
+        "botocore-a-la-carte-ec2-1.29.70.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_ec2-1.29.70-py3-none-any.whl": [
+          "gpWcR/dYtBhS4GtDO2nOq6Mj1PRlfDdsvjaEuRmp3VY=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-kinesis-video-webrtc-storage": {
@@ -12444,6 +12456,18 @@
       "wheels": {
         "botocore_a_la_carte_kinesis_video_webrtc_storage-1.29.69-py3-none-any.whl": [
           "xGWQQ4ZeZ0FXHHTkgR1mZyFwZxzYkQpF6suNZz/y7rk=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.70": {
+      "sdist": [
+        "diJ3wRCqvvimGKz/4ouitDN0rlfXfdBkkxbZa7paj2M=",
+        "botocore-a-la-carte-kinesis-video-webrtc-storage-1.29.70.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_kinesis_video_webrtc_storage-1.29.70-py3-none-any.whl": [
+          "ilYe0iGrgfK7cT6TO3qe5ZXZCvLvN+S75wUHPY20v6E=",
           "py3"
         ]
       }
@@ -35268,6 +35292,10 @@
         ],
         "eclipse_sumo-1.16.0-py2.py3-none-macosx_12_0_arm64.whl": [
           "LVog26eAPAclLf24sVv0ljTGwIiujYxj0faB/lnIwIo=",
+          "py2.py3"
+        ],
+        "eclipse_sumo-1.16.0-py2.py3-none-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "Htt3QYIMlKYQbMUgjUo/ocjyuV4tR1ss45WNjizbVic=",
           "py2.py3"
         ],
         "eclipse_sumo-1.16.0-py2.py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
@@ -85823,6 +85851,42 @@
           "py3"
         ]
       }
+    },
+    "2.0.0.dev6": {
+      "sdist": [
+        "ra+KdthtSir7r60xp5oQouziEp2JhWAXJZWmtBaQj+w=",
+        "opensearch-reindexer-2.0.0.dev6.tar.gz"
+      ],
+      "wheels": {
+        "opensearch_reindexer-2.0.0.dev6-py3-none-any.whl": [
+          "Hp7VZli7KXQ+3L1CtVWz7thkRzosRNVbI8QTaQ669f8=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.0.dev7": {
+      "sdist": [
+        "zCuc3rVQqXHHU4GikKH7iA1xRa3g/xoaCH9Xr84HFxU=",
+        "opensearch-reindexer-2.0.0.dev7.tar.gz"
+      ],
+      "wheels": {
+        "opensearch_reindexer-2.0.0.dev7-py3-none-any.whl": [
+          "la70yEsFQ25MyPADk2bLy8IHlzCHkdgtyPKKF3a/XkI=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.0.dev8": {
+      "sdist": [
+        "bJjpdG6j9teirpoOI0oCpKbQ42HaFpEZwJM/YaHnIR8=",
+        "opensearch-reindexer-2.0.0.dev8.tar.gz"
+      ],
+      "wheels": {
+        "opensearch_reindexer-2.0.0.dev8-py3-none-any.whl": [
+          "yA4MkX8j3tvLplPUPWDHTAsO39ECHiTUohZM5tso8MM=",
+          "py3"
+        ]
+      }
     }
   },
   "openshift-python-wrapper": {
@@ -122845,6 +122909,20 @@
       ]
     }
   },
+  "shang-guigu-da-shuju-jishu-zhi-flink": {
+    "2023.2.14.0": {
+      "sdist": [
+        "zr//GC2t4mInXnaWdhReR9aya6CffVe3W7TTdbqLH0E=",
+        "shang-guigu-da-shuju-jishu-zhi-flink-2023.2.14.0.tar.gz"
+      ],
+      "wheels": {
+        "shang_guigu_da_shuju_jishu_zhi_flink-2023.2.14.0-py3-none-any.whl": [
+          "DS4L3U+FdrW98YdgttdGnYdF1+am7STCeKS3Ix7vTPw=",
+          "py3"
+        ]
+      }
+    }
+  },
   "shape-registration": {
     "0.0.1": {
       "sdist": [
@@ -137881,6 +137959,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.829": {
+      "sdist": [
+        "qO1l52kDtSQ/kVMAfI5NxxLThN6ukQzb7s1jM+EQgLI=",
+        "tencentcloud-sdk-python-tms-3.0.829.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_tms-3.0.829-py2.py3-none-any.whl": [
+          "Q+w27OSSxWUZnCtW977rkIHHaKmFC9oTsc1AcROGULY=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tencentserverhackedd": {
@@ -147442,6 +147532,20 @@
       "wheels": {
         "wxyz_jsonld-0.5.1-py3-none-any.whl": [
           "ZC0bF/H1Y+bwXy8MVQMJVq+psVnHOSjvjIeNZgboVC0=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "x15-fenzhong-kaifa-shijue-ai-yingyong": {
+    "2023.2.14.0": {
+      "sdist": [
+        "yKa2/28xebIgH5ERV6SM+Pl5b5LZ07naIR8K0rp2jWE=",
+        "x15-fenzhong-kaifa-shijue-ai-yingyong-2023.2.14.0.tar.gz"
+      ],
+      "wheels": {
+        "x15_fenzhong_kaifa_shijue_ai_yingyong-2023.2.14.0-py3-none-any.whl": [
+          "OeZhJ6qt43HEnwBZbffBvp9a9WSB99SLTPdalEgXf3g=",
           "py3"
         ]
       }

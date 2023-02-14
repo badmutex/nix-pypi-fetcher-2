@@ -16180,6 +16180,14 @@
         ]
       }
     },
+    "1.49.0": {
+      "wheels": {
+        "azureml_core-1.49.0-py3-none-any.whl": [
+          "2+G84BHqfwAovc7vdoRrUOGfYcOo0OEPGy0eK0xRtzA=",
+          "py3"
+        ]
+      }
+    },
     "1.5.0": {
       "wheels": {
         "azureml_core-1.5.0-py3-none-any.whl": [
@@ -88899,6 +88907,10 @@
   },
   "ms-ovba-crypto": {
     "0.0.1": {
+      "sdist": [
+        "rDVO5xW9t4dYTB79XbRTSltYZICVLgZXV4Y91IWHCqY=",
+        "ms_ovba_crypto-0.0.1.tar.gz"
+      ],
       "wheels": {
         "ms_ovba_crypto-0.0.1-py3-none-any.whl": [
           "gOpW1MXCuE93UW71KFE8DHKVTU4eQZF0A+NKzkTZV0A=",
@@ -92565,6 +92577,20 @@
         "RtGtmCTaa8x1hbSN0rgeI6N/esBJY8YEttoVTsUAvw8=",
         "nailer-0.0.0.tar.gz"
       ]
+    }
+  },
+  "nanjingdaxue-jisuanjikexue-yu-jishu-xi-jisuanjixitong-jichu-kecheng-shiyan-2021": {
+    "2023.2.14.0": {
+      "sdist": [
+        "kFVCWusLb7qIuQNdtotx7n5rX7i/s6NjolL+YygygYc=",
+        "nanjingdaxue-jisuanjikexue-yu-jishu-xi-jisuanjixitong-jichu-kecheng-shiyan-2021-2023.2.14.0.tar.gz"
+      ],
+      "wheels": {
+        "nanjingdaxue_jisuanjikexue_yu_jishu_xi_jisuanjixitong_jichu_kecheng_shiyan_2021-2023.2.14.0-py3-none-any.whl": [
+          "KRkfYgeRkj7dotQQqWvaFKXNxA+OOgZD2vT0SCqBXlk=",
+          "py3"
+        ]
+      }
     }
   },
   "nanoyc-logging": {
@@ -126155,6 +126181,18 @@
           "py2.py3"
         ]
       }
+    },
+    "1.1.2": {
+      "sdist": [
+        "tnGZoQVsxpHBtmmo1zIHaXOHDvg+uMfsgFs+bgZ2PVU=",
+        "pywe-oauth-1.1.2.tar.gz"
+      ],
+      "wheels": {
+        "pywe_oauth-1.1.2-py2.py3-none-any.whl": [
+          "kY9sBg3nhmv07OmAbFUEFho4tHXtfDfuzLIam8U+Ysc=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "pywe-pay": {
@@ -142660,6 +142698,30 @@
       "wheels": {
         "takao-0.0.1.dev5-py3-none-any.whl": [
           "VhqWGZ2PocqJWuwOf/h/mffdWiVY8F76Qg+f94yOsXQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.1.dev6": {
+      "sdist": [
+        "vltB3N/8N4lEkKvUeviuFia8/pT/o2vt9swP/011zxY=",
+        "takao-0.0.1.dev6.tar.gz"
+      ],
+      "wheels": {
+        "takao-0.0.1.dev6-py3-none-any.whl": [
+          "8ECi9NCHey2bY2Skc3bXgxJOvbYpR4f9+CLgUZTMx8U=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.1.dev7": {
+      "sdist": [
+        "hEPG67Z69vbQXo4vfAH6/8Z4w7EhRehTtTKE2/1F5KI=",
+        "takao-0.0.1.dev7.tar.gz"
+      ],
+      "wheels": {
+        "takao-0.0.1.dev7-py3-none-any.whl": [
+          "DCJ/G7KclZv+IYuL6BAvB20VOCIC1zflO+JxG0E1y9E=",
           "py3"
         ]
       }

@@ -38884,6 +38884,18 @@
         ]
       }
     },
+    "0.40.2": {
+      "sdist": [
+        "I29xvDhlBZ0HnrD9zjiQwj9SHaUOnFDHyXxVIvmAXVI=",
+        "dvc-data-0.40.2.tar.gz"
+      ],
+      "wheels": {
+        "dvc_data-0.40.2-py3-none-any.whl": [
+          "FQxxr7imKxsKPWMkt1UDtObygfKZ0Z2YX9yFCuOv/fM=",
+          "py3"
+        ]
+      }
+    },
     "0.5.0": {
       "sdist": [
         "eF/rLfmqbqQq+rAr2bsShN8NwlGe4nRir2FF6nIDsvY=",
@@ -41318,6 +41330,18 @@
       "wheels": {
         "erroranalysis-0.4.0-py3-none-any.whl": [
           "Uv/nI7Ii6GZMO2gBLTAe3aDUZa0wL1heWJ6iMsoL+LA=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.1": {
+      "sdist": [
+        "iqFTJcxz8cUz+bzkBrXvgKHwYjrF4/1CJIxWHeH/5pY=",
+        "erroranalysis-0.4.1.tar.gz"
+      ],
+      "wheels": {
+        "erroranalysis-0.4.1-py3-none-any.whl": [
+          "EbAORf5wOvFO9bBn1F8AUL0yVddnlvB9Ib4KVaPtZOA=",
           "py3"
         ]
       }
@@ -89199,6 +89223,20 @@
       }
     }
   },
+  "niuke-dichan-xingye-mingqi-bi-mianshi-xiaozhao-qiuzhi-gonglve-2021-2022": {
+    "2023.2.14.0": {
+      "sdist": [
+        "CtJgwKteR7RjRPL5IQs694mllAlQwB54lTlxK0zUeW4=",
+        "niuke-dichan-xingye-mingqi-bi-mianshi-xiaozhao-qiuzhi-gonglve-2021-2022-2023.2.14.0.tar.gz"
+      ],
+      "wheels": {
+        "niuke_dichan_xingye_mingqi_bi_mianshi_xiaozhao_qiuzhi_gonglve_2021_2022-2023.2.14.0-py3-none-any.whl": [
+          "JoAaGoHzXySHSmXIBwCT6jHKlQDpPV6PmM2LHbun5eo=",
+          "py3"
+        ]
+      }
+    }
+  },
   "nivestor": {
     "0.3": {
       "wheels": {
@@ -94808,6 +94846,14 @@
       "wheels": {
         "odoo14_addon_sale_order_revision-14.0.1.1.0-py3-none-any.whl": [
           "cHBOMv8jsxfeC5joYadMUSgOhZ9LMQ1WFaRB5N3eTGk=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.1.1.1": {
+      "wheels": {
+        "odoo14_addon_sale_order_revision-14.0.1.1.1-py3-none-any.whl": [
+          "kb8EQUFHC3wJPs9VFIKrigy41Iw7eOkv7a6GHENkKtI=",
           "py3"
         ]
       }
@@ -118671,6 +118717,30 @@
           "pp39"
         ]
       }
+    },
+    "2.0.0.dev20230211": {
+      "wheels": {
+        "pytorch_triton_rocm-2.0.0.dev20230211-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "KuB3kmKL/NyTJNOLWk9CvQ4mHrV0ie65LjotnhxnqaA=",
+          "cp310"
+        ],
+        "pytorch_triton_rocm-2.0.0.dev20230211-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "NTj/5IRjYYqU/YekGRYz9rBp9QtLx66IKf7lhEUvEjM=",
+          "cp311"
+        ],
+        "pytorch_triton_rocm-2.0.0.dev20230211-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "LMcIGGLjlk1Ahk8bgX9i/gdJb6XuLqidumuQ/KXE7jk=",
+          "cp37"
+        ],
+        "pytorch_triton_rocm-2.0.0.dev20230211-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "KmySAKY6nqAI/rve5Lq6bEgtypsDuNdewo4vde4bX44=",
+          "cp38"
+        ],
+        "pytorch_triton_rocm-2.0.0.dev20230211-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "XZR2D1L6jk86N541lT8U2KqLsxV4kPNLKyb1vdrNLww=",
+          "cp39"
+        ]
+      }
     }
   },
   "pytrics": {
@@ -124426,6 +124496,18 @@
       "wheels": {
         "resotocore-3.1.0-py2.py3-none-any.whl": [
           "tFYvO+kW5gCudy1RhSVmYpTzyPQbRWDhMVLrKOGtaRY=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.2.0": {
+      "sdist": [
+        "b6tCTcZsUytr+tGf22XHkcJqAJspf8jTShX6437qN7M=",
+        "resotocore-3.2.0.tar.gz"
+      ],
+      "wheels": {
+        "resotocore-3.2.0-py2.py3-none-any.whl": [
+          "0RCuvYc7vgg3g5g0JEFCOF8gpeN7+09t2D4o9pEmrWs=",
           "py2.py3"
         ]
       }

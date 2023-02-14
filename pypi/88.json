@@ -1880,6 +1880,18 @@
         ]
       }
     },
+    "2.13.0": {
+      "sdist": [
+        "wVbbOfyu8SBvh/B1sf4dMHhyjL8i1davQT8TzgqIOVg=",
+        "aleph-alpha-client-2.13.0.tar.gz"
+      ],
+      "wheels": {
+        "aleph_alpha_client-2.13.0-py3-none-any.whl": [
+          "Fr+ETM+d3TLdtjfTWaF3FBpfFEpEe6fxTFxaP2gvaS8=",
+          "py3"
+        ]
+      }
+    },
     "2.2.0": {
       "sdist": [
         "592dFP4s+zVE/HvLMX84ivJeOs5OzqT+a+cOPaFB5CA=",
@@ -4504,6 +4516,18 @@
       "wheels": {
         "arcor2_calibration-0.9.0-py310-none-any.whl": [
           "oEZBMIb9R+jG1qVi+yZZp6dwV4heh0fA1QNziN0Q3Sg=",
+          "py310"
+        ]
+      }
+    },
+    "1.0.0": {
+      "sdist": [
+        "BD0UDTfdtWajtckzTlbUMjBc7RDuXG1OwMLZt/jD+lE=",
+        "arcor2_calibration-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "arcor2_calibration-1.0.0-py310-none-any.whl": [
+          "i3e0SnwR4jQjR42rH7+/g8I/PvSpd8ClIR26zvccHNA=",
           "py310"
         ]
       }
@@ -44780,59 +44804,17 @@
     }
   },
   "frappe": {
-    "2.0": {
+    "0.0.1": {
       "sdist": [
-        "wdlvFWgkrQiUVIrAUQFVXtWaAlDiK9KxKUzp6S8Yjpg=",
-        "frappe-2.0.tar.gz"
-      ]
-    },
-    "2.0.1": {
-      "sdist": [
-        "fOluJ/2FOYzBmP0bMnP3KffZKrzorbJdtbC9MPCAEF4=",
-        "frappe-2.0.1.tar.gz"
-      ]
-    },
-    "2.0.2": {
-      "sdist": [
-        "uauvGoZbOsv0mif2yxEhe0uYDaYx5iOgeSxLq9qd+VE=",
-        "frappe-2.0.2.tar.gz"
-      ]
-    },
-    "2.0.3": {
-      "sdist": [
-        "GWtu5EcZ3E0pL/C2ixhq0cyFJAJjhPnu4KxVYpVizwQ=",
-        "frappe-2.0.3.tar.gz"
-      ]
-    },
-    "2.0.4": {
-      "sdist": [
-        "w1hZbBdJj1Qbo3jB4a6FwLYYub/IBu6VnXuREOxo/xE=",
-        "frappe-2.0.4.tar.gz"
-      ]
-    },
-    "2.1.0": {
-      "sdist": [
-        "lyyjOxU5FzhhSsodHuzHKqXqZcsivVphAHrlKdw8j9k=",
-        "frappe-2.1.0.tar.gz"
-      ]
-    },
-    "2.1.1": {
-      "sdist": [
-        "M2glFWx3RCSV5JB2ZuVxe29RRcrdrtUITtYXlnwgWfg=",
-        "frappe-2.1.1.tar.gz"
-      ]
-    },
-    "2.1.3": {
-      "sdist": [
-        "29a0hEOOKeGTwREPw9sKPsGSRyZTU/fxz3aqqIZn60w=",
-        "frappe-2.1.3.tar.gz"
-      ]
-    },
-    "2.1.4": {
-      "sdist": [
-        "bKUxOs6xIS+ARO/BXM8DRhsshWROM3FmFqAqH+K7XB8=",
-        "frappe-2.1.4.tar.gz"
-      ]
+        "45gQJ1nQuPqOow0MGuNWS7oJfkwT4Vtxs6Mb9m6Pr5w=",
+        "frappe-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "frappe-0.0.1-py3-none-any.whl": [
+          "M9FJUvXyS7ZbC1eO3G1lmhmVu42POltDdfP127W1aQw=",
+          "py3"
+        ]
+      }
     }
   },
   "frasco-forms": {
@@ -72071,6 +72053,62 @@
           "py3"
         ]
       }
+    },
+    "1.0.0b1": {
+      "sdist": [
+        "bjWWOrCJavq1J/CS/UPW3ZfM4bHlXqGQAw0l4tFbI4Q=",
+        "maturin-1.0.0b1.tar.gz"
+      ],
+      "wheels": {
+        "maturin-1.0.0b1-py3-none-linux_armv6l.whl": [
+          "hnyQDW/rp7a7jTg693I8/vPj3qZsAjh7n612qIJP5kg=",
+          "py3"
+        ],
+        "maturin-1.0.0b1-py3-none-macosx_10_7_x86_64.whl": [
+          "z/8giIckJ+43gaV1k0Eq0Bj1fL8Pa7kCmsLrnGm4gqY=",
+          "py3"
+        ],
+        "maturin-1.0.0b1-py3-none-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "/8G3C8biDUQwdA4wTpJnP7AD4UnI9E3MSdAAQG67nVI=",
+          "py3"
+        ],
+        "maturin-1.0.0b1-py3-none-manylinux_2_12_i686.manylinux2010_i686.musllinux_1_1_i686.whl": [
+          "NqXLeYvU/JvUv73a0CN4BEk5CRXCrSmPcPtGz7T3RU0=",
+          "py3"
+        ],
+        "maturin-1.0.0b1-py3-none-manylinux_2_12_x86_64.manylinux2010_x86_64.musllinux_1_1_x86_64.whl": [
+          "jme58ujeSr3WrgY74OZhN8kFz47eyI7O7hbE5g3tQxE=",
+          "py3"
+        ],
+        "maturin-1.0.0b1-py3-none-manylinux_2_17_aarch64.manylinux2014_aarch64.musllinux_1_1_aarch64.whl": [
+          "Wl5zbenEiOsSYZVNk7CCAP21Xbdqe38XAHdVz09Vc5E=",
+          "py3"
+        ],
+        "maturin-1.0.0b1-py3-none-manylinux_2_17_armv7l.manylinux2014_armv7l.musllinux_1_1_armv7l.whl": [
+          "OULktmKkBbqlfJ4Ghod9RUtjyzZCJmiyJ21aien8lbI=",
+          "py3"
+        ],
+        "maturin-1.0.0b1-py3-none-manylinux_2_17_ppc64le.manylinux2014_ppc64le.musllinux_1_1_ppc64le.whl": [
+          "N+86v+o0qcaFaSm3Encgt/GMsQxKzwJUVXVE7hLm7Kg=",
+          "py3"
+        ],
+        "maturin-1.0.0b1-py3-none-manylinux_2_17_s390x.manylinux2014_s390x.whl": [
+          "yhKKntTbFcrObXJ09M0ynyu0TxLykaOIwZENKDGs7bE=",
+          "py3"
+        ],
+        "maturin-1.0.0b1-py3-none-win32.whl": [
+          "sXfGr/P4YQQ9cyWKL+TtDt9/eKN0/yKRdu/2pY/rXAs=",
+          "py3"
+        ],
+        "maturin-1.0.0b1-py3-none-win_amd64.whl": [
+          "haKTkD50qbGxv8G7dyO/zeQMdco+Xn18x6uKys3/Tm4=",
+          "py3"
+        ],
+        "maturin-1.0.0b1-py3-none-win_arm64.whl": [
+          "1rwLTHwYuBy4aohKANOG0X3d2S2MBmkoRZrBApzMg4s=",
+          "py3"
+        ]
+      }
     }
   },
   "maxhk": {
@@ -96079,6 +96117,20 @@
       ]
     }
   },
+  "openapi-spec-sanitizer": {
+    "0.1.10": {
+      "sdist": [
+        "r8VCOQfS+HrsHFQYiLV2jywnJWMsHwyq2zIcMgHa7ro=",
+        "openapi-spec-sanitizer-0.1.10.tar.gz"
+      ],
+      "wheels": {
+        "openapi_spec_sanitizer-0.1.10-py3-none-any.whl": [
+          "nml6voY4xTYc06IToNqwywO5reIjtJ3n7UWvSI+faTE=",
+          "py3"
+        ]
+      }
+    }
+  },
   "opendp-whitenoise-core": {
     "0.1.3": {
       "wheels": {
@@ -100394,6 +100446,18 @@
       "wheels": {
         "plom-0.12.3-py3-none-any.whl": [
           "508x0LogT6g1udCsuyo1riIPnuEB/Bh6DZ5klYRuKTk=",
+          "py3"
+        ]
+      }
+    },
+    "0.13.0": {
+      "sdist": [
+        "1CEXxEpvZsXwFwKsQu2MdVrQC28CE5WuluvKX0Wh/ko=",
+        "plom-0.13.0.tar.gz"
+      ],
+      "wheels": {
+        "plom-0.13.0-py3-none-any.whl": [
+          "2Q3OnDDdZz9vm61C+508Wk/6StbZRpnrWGoqzOkw9uw=",
           "py3"
         ]
       }
@@ -116912,6 +116976,46 @@
         ],
         "pywry-0.2.95-cp39-none-win_amd64.whl": [
           "m4jHZUiP+Fnqtiz2L7z8Q+ZZyG5JtdJdtLSfU5S1psY=",
+          "cp39"
+        ]
+      }
+    },
+    "0.3.0": {
+      "sdist": [
+        "QajPCwL093Q9utEaUN5oTHBe2kEVpM2GZ7DEDv127PE=",
+        "pywry-0.3.0.tar.gz"
+      ],
+      "wheels": {
+        "pywry-0.3.0-cp310-cp310-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "CV4N9l7iE4/pY5L2f93GRR0waYL62T3SfmfKdDDJ5f0=",
+          "cp310"
+        ],
+        "pywry-0.3.0-cp310-none-win_amd64.whl": [
+          "uU42VjzBWRraOii2HWXV5i1cs1HwQ/w9fB971J1KXs4=",
+          "cp310"
+        ],
+        "pywry-0.3.0-cp311-cp311-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "kjj1SABvMP6JQvWbeU9VyxVdss5++4r6DrgqulExfLM=",
+          "cp311"
+        ],
+        "pywry-0.3.0-cp311-none-win_amd64.whl": [
+          "S7RjAGoOxq8jEGgus4fQF5QiGi44OOgmiXBL3uM+2+U=",
+          "cp311"
+        ],
+        "pywry-0.3.0-cp38-cp38-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "evngnvSKVuHYOOukQwgqDveWskhX4tGQDtNo3eiKSTY=",
+          "cp38"
+        ],
+        "pywry-0.3.0-cp38-none-win_amd64.whl": [
+          "wXlQglwhHWFC1h4jx6zfxChgO8NTiVRpXB/4ONBZJVI=",
+          "cp38"
+        ],
+        "pywry-0.3.0-cp39-cp39-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "Pc2FoLHSe+M8q7OkBsDB5vS0n6sxKhWm4RNlkfZriiw=",
+          "cp39"
+        ],
+        "pywry-0.3.0-cp39-none-win_amd64.whl": [
+          "JB1cKT1d9LVmwi23FrcxQ4/5DrMUcnpkDblePozR3og=",
           "cp39"
         ]
       }

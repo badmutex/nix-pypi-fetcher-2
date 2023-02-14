@@ -8892,6 +8892,18 @@
         ]
       }
     },
+    "2.32.0": {
+      "sdist": [
+        "uFSqR5lqS/k1jp2TELvg1j+Rfym0iU6dhvackKPj0fs=",
+        "aws-solutions-constructs.aws-apigateway-dynamodb-2.32.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_apigateway_dynamodb-2.32.0-py3-none-any.whl": [
+          "zBQ+/oil3/q5lNNXO952/Mio82mEEQZLGE+2rLltrQA=",
+          "py3"
+        ]
+      }
+    },
     "2.4.0": {
       "sdist": [
         "RHXiD2F43pl/4cXXAxtiwAabxRETzfBe7yjH/BJR3cg=",
@@ -20971,6 +20983,22 @@
           "py2.py3"
         ]
       }
+    },
+    "0.5.3": {
+      "wheels": {
+        "CFEDemands-0.5.3-py2.py3-none-any.whl": [
+          "I3fa+rBM6l4n7DR03BMWJhl6ldRCo8wsXqvEcaQTWc0=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.5.3.dev0": {
+      "wheels": {
+        "CFEDemands-0.5.3.dev0-py2.py3-none-any.whl": [
+          "/501q/yq5VljOJ57BPKSVkG4vxF/hjTG1S73p9ek5N0=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "cfg-explorer": {
@@ -22651,6 +22679,18 @@
         "xFMQgWqEt/kiBpcg2wiYL3BnFfg2XVhRPH8Jx87EQxE=",
         "cognito-user-shell-0.1.7.tar.gz"
       ]
+    },
+    "0.1.8": {
+      "sdist": [
+        "NiW27KDKBTkvWEST9arMizUv3AuJLyYQLMVVjp41n5k=",
+        "cognito-user-shell-0.1.8.tar.gz"
+      ],
+      "wheels": {
+        "cognito_user_shell-0.1.8-py3-none-any.whl": [
+          "1O6DGFJ3rkGX9wl1q3URh7MzaqO+5Rj+5Shz0nSC9y4=",
+          "py3"
+        ]
+      }
     }
   },
   "colcon-ros-bundle": {
@@ -52756,6 +52796,34 @@
         ],
         "Hecuba-1.2.3-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "doFveVxEUsGIYUBFwoVZJwuwbSP0CKskvB/nHEsnSvE=",
+          "cp39"
+        ]
+      }
+    },
+    "1.2.4": {
+      "wheels": {
+        "Hecuba-1.2.4-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "d9x/eFH2pyrCL1835KAU8isbvqMcwDtSztfXZHNtlsk=",
+          "cp310"
+        ],
+        "Hecuba-1.2.4-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "hZsGlTLMrBh/m4MZkOeWr3AEiFZ0z+Vpw0zSshxLdvg=",
+          "cp311"
+        ],
+        "Hecuba-1.2.4-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "VIekv62S5UakUsA3ymIGYn/uvYugGnCWI3hZqqDwztM=",
+          "cp36"
+        ],
+        "Hecuba-1.2.4-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "EpoI4KoMoaoDif9dI0OYZvURsGj61+5T92rjalQag+A=",
+          "cp37"
+        ],
+        "Hecuba-1.2.4-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "LzaAfcV3xStmGMx5oGBevM7DF9/vppAzpZzK0s7tMng=",
+          "cp38"
+        ],
+        "Hecuba-1.2.4-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "3XNAZA4HpvhZFJImnct0u2tCaOJozhcwkABeOd4ePi8=",
           "cp39"
         ]
       }

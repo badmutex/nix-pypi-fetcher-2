@@ -8688,6 +8688,18 @@
         ]
       }
     },
+    "2.32.0": {
+      "sdist": [
+        "kvePIbm8dX1lyfIueCnktwQqjYuxq8J4L0qrmpKbfng=",
+        "aws-solutions-constructs.aws-wafwebacl-alb-2.32.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_wafwebacl_alb-2.32.0-py3-none-any.whl": [
+          "5ahwOt1ytnTO/sUOskt9xx7eZ9vsJqiwCD0ygX/v6bE=",
+          "py3"
+        ]
+      }
+    },
     "2.4.0": {
       "sdist": [
         "DIsYsvam/9gUg7W579+B6Zdojp3aiKFmvNTakzNySd8=",
@@ -10930,6 +10942,18 @@
       "wheels": {
         "aws_solutions_constructs.core-2.31.0-py3-none-any.whl": [
           "krWRDnKDFOynmrRFSzVTV9R7iJSdqE6ytYfK6gsIOo0=",
+          "py3"
+        ]
+      }
+    },
+    "2.32.0": {
+      "sdist": [
+        "Oh5zvr/Ym7ckiJDmlQqgvD9ToxC+QWWmr8g9ixKmy7M=",
+        "aws-solutions-constructs.core-2.32.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.core-2.32.0-py3-none-any.whl": [
+          "3N84eDdu1oUQWo7r1k3QdrPY33wj2UVzHR9C1khPVvw=",
           "py3"
         ]
       }
@@ -80223,6 +80247,18 @@
           "py3"
         ]
       }
+    },
+    "2.1.0": {
+      "sdist": [
+        "mOGOtVMYoVtK+R4KN9n39gjXJ49XkXVrVE+tmAgfF6U=",
+        "leetcode-export-2.1.0.tar.gz"
+      ],
+      "wheels": {
+        "leetcode_export-2.1.0-py3-none-any.whl": [
+          "h/R6fO5tjwSqKQDLP2vMufc626Fod4lWexdZA9C6Vbk=",
+          "py3"
+        ]
+      }
     }
   },
   "lethean": {
@@ -97386,6 +97422,14 @@
       "wheels": {
         "odoo14_addon_hr_attendance_reason-14.0.1.0.3.dev3-py3-none-any.whl": [
           "T8sHNUBVpCl3lRAHygjBho6AtMB2l7GdgTsq9bK/hLo=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.1.1.0": {
+      "wheels": {
+        "odoo14_addon_hr_attendance_reason-14.0.1.1.0-py3-none-any.whl": [
+          "WF6ONXFQi2Ez1yR72YG9RvH2akzfaqB+mlkdU7axkCs=",
           "py3"
         ]
       }
@@ -127900,6 +127944,42 @@
         ]
       }
     },
+    "0.0.52": {
+      "sdist": [
+        "2EdxfKOcY9QxO//4N5hvBZMJvK2OOFf9KAhD857t1T8=",
+        "sa_package-0.0.52.tar.gz"
+      ],
+      "wheels": {
+        "sa_package-0.0.52-py3-none-any.whl": [
+          "W+yxIK5TesxJsQN7s89N1/44ZL2BR7EhbYpu7gHNA80=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.53": {
+      "sdist": [
+        "0GxItyeH3yQWPCz9lBaXkgaTwAjn9mVn/BC0a0Gkj0M=",
+        "sa_package-0.0.53.tar.gz"
+      ],
+      "wheels": {
+        "sa_package-0.0.53-py3-none-any.whl": [
+          "RoFLWbGDogv9OEk5mFPIKnK+bqTTA0c85ErseNqgjTc=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.54": {
+      "sdist": [
+        "FLGK0lifwM70mwF24oBDet8iNqj+e+w7ynCkfdWGfBM=",
+        "sa_package-0.0.54.tar.gz"
+      ],
+      "wheels": {
+        "sa_package-0.0.54-py3-none-any.whl": [
+          "XlhhDI8b//levaAa9k7Ba4BZsO0Nnz3/cmO/0KXsssk=",
+          "py3"
+        ]
+      }
+    },
     "0.0.6": {
       "sdist": [
         "/QUUVein1m1KuESbgERGH4G3leH0e4JiOX07twQWMPQ=",
@@ -141620,6 +141700,18 @@
     }
   },
   "termate": {
+    "0.1.10": {
+      "sdist": [
+        "3dmAIuxSMktTe26d3Q+e19c7SfwiFJIZyAxBRU6WytU=",
+        "termate-0.1.10.win-amd64.zip"
+      ],
+      "wheels": {
+        "termate-0.1.10-py2.py3-none-any.whl": [
+          "Maf+mWox1RPa9XmgilRMm8vTg3qH4L0AkuY0Kka/wPo=",
+          "py2.py3"
+        ]
+      }
+    },
     "0.1.5": {
       "wheels": {
         "termate-0.1.5-py2.py3-none-any.whl": [
@@ -147174,6 +147266,14 @@
       "wheels": {
         "torch_model_archiver_nightly-2023.2.13-py3-none-any.whl": [
           "zuqJ56mIRZifpYeMZjBrYcHCDgIxIjUKErqoOYy7MnE=",
+          "py3"
+        ]
+      }
+    },
+    "2023.2.14": {
+      "wheels": {
+        "torch_model_archiver_nightly-2023.2.14-py3-none-any.whl": [
+          "37eVmcyRso7PmuOBxLBZIhTTM4BoPOnpJMUTr9EghAs=",
           "py3"
         ]
       }

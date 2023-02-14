@@ -16736,6 +16736,18 @@
         ]
       }
     },
+    "2.32.0": {
+      "sdist": [
+        "3baWNa1JwUJSe80H4O83yV0EsdNZRYMx29f60Jolqaw=",
+        "aws-solutions-constructs.aws-fargate-secretsmanager-2.32.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_fargate_secretsmanager-2.32.0-py3-none-any.whl": [
+          "kW7zklyOTtkGsMFXxZPisLYZTmvqR+eulzjkEp7Rg18=",
+          "py3"
+        ]
+      }
+    },
     "2.6.0": {
       "sdist": [
         "qDIR/vjjjRCfofSppqOU1A4pkDHOUuh5bm2pP31kukI=",
@@ -85587,6 +85599,14 @@
           "py3"
         ]
       }
+    },
+    "13.0.4.1.2.dev1": {
+      "wheels": {
+        "odoo13_addon_mis_builder-13.0.4.1.2.dev1-py3-none-any.whl": [
+          "18JZf3gbVsIkvwTedqq4XCa707348bK1y+VMcFTPvuw=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo13-addon-muk-web-theme-mail": {
@@ -114057,6 +114077,34 @@
           "cp37"
         ]
       }
+    },
+    "1.3.0": {
+      "sdist": [
+        "dl2vlENKNU2SlWWV+3DpEs1bgLdKVry2cV1Ip09bWMA=",
+        "rbloom-1.3.0.tar.gz"
+      ],
+      "wheels": {
+        "rbloom-1.3.0-cp37-abi3-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "7RoQSpp6lPZLIo2LZoMnyOpaD4jjyrDyXEq7kBDHHic=",
+          "cp37"
+        ],
+        "rbloom-1.3.0-cp37-abi3-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "H/fHEMRbMGvzkRivKbiiy4AVWBvj5q2qBBBq0BD23AU=",
+          "cp37"
+        ],
+        "rbloom-1.3.0-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "4QRd4q/0Cofeg9XDPimI3d2bbybSxfmY5Ad1kBByq8k=",
+          "cp37"
+        ],
+        "rbloom-1.3.0-cp37-abi3-manylinux_2_5_i686.manylinux1_i686.whl": [
+          "BF9J16VsQqqg7YOIo2/tnVU+ZaKPbN6MkBD539J+dJU=",
+          "cp37"
+        ],
+        "rbloom-1.3.0-cp37-abi3-win_amd64.whl": [
+          "UqiWOGQNgOz4+vbaOsV0Nri98JmZukWSeLj3pnQgXjU=",
+          "cp37"
+        ]
+      }
     }
   },
   "rdflib-sqlalchemy": {
@@ -119988,6 +120036,12 @@
       "sdist": [
         "Kt4KDsAzm8Q0qJtjBIC33GTgr6DgRcVoUj4/Flk4UvQ=",
         "ros-cdk-actiontrail-1.0.11.tar.gz"
+      ]
+    },
+    "1.0.12": {
+      "sdist": [
+        "JTDcRP8F5LopmCoCPEZvTtahOUcNg9VFREEyFelrWgI=",
+        "ros-cdk-actiontrail-1.0.12.tar.gz"
       ]
     },
     "1.0.2": {
@@ -145146,6 +145200,30 @@
       "wheels": {
         "ultralytics-8.0.36-py3-none-any.whl": [
           "ZiGOYuPJEZv6NpOsJwHLmByVm6fyzUMKqUZs5DqG32E=",
+          "py3"
+        ]
+      }
+    },
+    "8.0.37": {
+      "sdist": [
+        "Y422v3XA4FFwGHakHrHKDETdFMOGdHZX7DquvHODu/Q=",
+        "ultralytics-8.0.37.tar.gz"
+      ],
+      "wheels": {
+        "ultralytics-8.0.37-py3-none-any.whl": [
+          "ctwM38Ykd4P8P75ipDoy354R8l21EXQoLKHXEXJn/zA=",
+          "py3"
+        ]
+      }
+    },
+    "8.0.38": {
+      "sdist": [
+        "CfEFan+c0wwaj3Vwhmw0cv0SIG6zd5Vs9IHmaZPVoUQ=",
+        "ultralytics-8.0.38.tar.gz"
+      ],
+      "wheels": {
+        "ultralytics-8.0.38-py3-none-any.whl": [
+          "V5AZoMC/vvLaOYvOzs75rytoT6XdngGOHUjcSZjU8Zg=",
           "py3"
         ]
       }

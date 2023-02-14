@@ -12994,6 +12994,18 @@
         ]
       }
     },
+    "2.32.0": {
+      "sdist": [
+        "Jed2mVPQZ1a07TWgVdV58kf4y3YIJlUYtHrn+m5CEdg=",
+        "aws-solutions-constructs.aws-kinesis-streams-kinesis-firehose-s3-2.32.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_kinesis_streams_kinesis_firehose_s3-2.32.0-py3-none-any.whl": [
+          "DpXphqX4Bgsc6lifolL9ZHePIRBztbAtM4w68HHbM60=",
+          "py3"
+        ]
+      }
+    },
     "2.4.0": {
       "sdist": [
         "pth0OSBrTvR45PRoXd+VDhhIzGgEnrMbZyBQ+fEoDU8=",
@@ -29368,6 +29380,12 @@
       "sdist": [
         "AVtYyle4ITfv9wlDLqNNDYA0Qq2j+y630CxSGBDUeT4=",
         "colossalai-0.2.3.tar.gz"
+      ]
+    },
+    "0.2.4": {
+      "sdist": [
+        "UEmDCdYHJ8VquyZ3ERiZ2hg+e0cwxFp7eogIck7070E=",
+        "colossalai-0.2.4.tar.gz"
       ]
     }
   },
@@ -73190,6 +73208,18 @@
         ]
       }
     },
+    "4.0.0a34": {
+      "sdist": [
+        "YqFxoucufeOnWidDWgDDDRcn8cpB33aIaq2bO3gumwc=",
+        "jupyterlab-4.0.0a34.tar.gz"
+      ],
+      "wheels": {
+        "jupyterlab-4.0.0a34-py3-none-any.whl": [
+          "sFEBKndNxSBUVqZFUBtTGFCI77u1nkRAvg950/efxAA=",
+          "py3"
+        ]
+      }
+    },
     "4.0.0a4": {
       "sdist": [
         "IjiO9aSLLOLTNtyn8Z2fjNtB1q42CJ0gYPfJ0knSZq0=",
@@ -96892,6 +96922,14 @@
       "wheels": {
         "odoo12_addon_project_wbs-12.0.1.1.1.99.dev4-py3-none-any.whl": [
           "6AtYDsvAKhY0l/7Hi7/MNFVI/xqv7RiMv1IpPeIZ0cI=",
+          "py3"
+        ]
+      }
+    },
+    "12.0.1.1.2": {
+      "wheels": {
+        "odoo12_addon_project_wbs-12.0.1.1.2-py3-none-any.whl": [
+          "/Rp+kV31f7SY85jZcUWWGejeSs1Cl6huKJNEM84yqH8=",
           "py3"
         ]
       }
@@ -121033,18 +121071,6 @@
         "quarkstudio-6.2.10-cp39-cp39-win_amd64.whl": [
           "Emm9xWexEy+aLuEEVEBIP2LUZS+JQNH7ly2TmxhE9g4=",
           "cp39"
-        ]
-      }
-    },
-    "6.4.2": {
-      "wheels": {
-        "quarkstudio-6.4.2-cp310-cp310-win_amd64.whl": [
-          "NNTizZhYCf2Nm+LYAU7txGZXTJAaO5Ijp+13N1gS82s=",
-          "cp310"
-        ],
-        "quarkstudio-6.4.2-cp311-cp311-win_amd64.whl": [
-          "CXmqHhuWtGFUd4Y73CtXdBIr5dUp8MSwxP2KU9aS+Gc=",
-          "cp311"
         ]
       }
     }

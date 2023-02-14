@@ -23863,6 +23863,12 @@
         "8TdYvin9nDxlfwJr7MveaHSggavTQdJnzt7KH/68gzU=",
         "calib3d-2.9.0.tar.gz"
       ]
+    },
+    "2.9.1": {
+      "sdist": [
+        "Ly68bubO/rHa+5XTZt5lbfHU7DvC8W8Ahe/z86UZG6w=",
+        "calib3d-2.9.1.tar.gz"
+      ]
     }
   },
   "camtones": {
@@ -53951,6 +53957,32 @@
       }
     }
   },
+  "garpix-faq": {
+    "1.0.0": {
+      "sdist": [
+        "JUQ5Q3jUIk83Bwrt35VQ/l6wFjei6/SNqJ0F/pcd0Ao=",
+        "garpix_faq-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "garpix_faq-1.0.0-py3-none-any.whl": [
+          "CjJHfBUIlp1nTxNxct2CnXjyfcL0cgrsfKs6eHcJPok=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.1": {
+      "sdist": [
+        "O4fmk+L8BgvuPyqdXCTwqqmY0NJw7SqCMVgAFUkbJeA=",
+        "garpix_faq-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "garpix_faq-1.0.1-py3-none-any.whl": [
+          "4L8mrTYmcT2TjMPhHwd2zRxUYmB5FPa4x/bHOskDPPc=",
+          "py3"
+        ]
+      }
+    }
+  },
   "gatf": {
     "0.2": {
       "sdist": [
@@ -68232,6 +68264,18 @@
       "wheels": {
         "limbus-0.1.1.dev0-py2.py3-none-any.whl": [
           "rWa9Yi3ZQ4yTgagbNUO3U6M9PWFa52xKFtxgOyeLa5M=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "6YZrSO4WfDZ6mK/5OodvjqKtXmtMP63vLGHO4gya+3c=",
+        "limbus-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "limbus-0.1.2-py2.py3-none-any.whl": [
+          "0xUgOL/CVmF1JRGep3SwzFzc3B0xEH4hqrB6HmcQ8s4=",
           "py2.py3"
         ]
       }
@@ -93204,6 +93248,18 @@
       "wheels": {
         "polars_lts_cpu-0.16.4-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "VdmHVc+E2HCttzkmFcTaVkuTAppK6lGVvUzW1dEbE/o=",
+          "cp37"
+        ]
+      }
+    },
+    "0.16.5": {
+      "sdist": [
+        "/M34eSCSD1NHYSiWqyRcPeY7irM0amb/F2Hifopcihs=",
+        "polars_lts_cpu-0.16.5.tar.gz"
+      ],
+      "wheels": {
+        "polars_lts_cpu-0.16.5-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "G0sKwh3craZ0zO6/huJQtsPnQ/PF+X91PZyyflSvvnU=",
           "cp37"
         ]
       }
@@ -141068,6 +141124,12 @@
         "volworld_aws_api_common-0.1.26.tar.gz"
       ]
     },
+    "0.1.27": {
+      "sdist": [
+        "ChIUcz6rnBhmxR2xxUjTuw7DD3mURBn+ztWq4VWv0LY=",
+        "volworld_aws_api_common-0.1.27.tar.gz"
+      ]
+    },
     "0.1.3": {
       "sdist": [
         "rrL2lqKr1bBaLxrj8SJTw7BFMcL32XD4k5yBeqnSN5g=",
@@ -144046,6 +144108,42 @@
       "wheels": {
         "wikipedia_tools-2.1.1-py3-none-any.whl": [
           "Exf0FGyeehxdXIlqxu49vtQ502fDmVIiSVCML1O+J1Q=",
+          "py3"
+        ]
+      }
+    },
+    "2.1.2": {
+      "sdist": [
+        "TevcMeUuTwDIUO7C0deF6+TNeY9Eob7HsaWIzuOK9Tw=",
+        "wikipedia_tools-2.1.2.tar.gz"
+      ],
+      "wheels": {
+        "wikipedia_tools-2.1.2-py3-none-any.whl": [
+          "KKd9tbyATfNVceQCWPMxhuBJfzyltq7t9ID3N45ysWg=",
+          "py3"
+        ]
+      }
+    },
+    "2.1.3": {
+      "sdist": [
+        "r535xHT5UVeussl2+BtRXDhoMcuLqrdcCSn58ln3o90=",
+        "wikipedia_tools-2.1.3.tar.gz"
+      ],
+      "wheels": {
+        "wikipedia_tools-2.1.3-py3-none-any.whl": [
+          "/hXlNy3l8OgLigkw0xOtkx07yDIO5z+fKjRPo2nUbuQ=",
+          "py3"
+        ]
+      }
+    },
+    "2.1.5": {
+      "sdist": [
+        "5ag1DnAXeFHhvihljkD2xOz3u83L0qPOmQ2nd5nrLrk=",
+        "wikipedia_tools-2.1.5.tar.gz"
+      ],
+      "wheels": {
+        "wikipedia_tools-2.1.5-py3-none-any.whl": [
+          "qE+FyIHU8ObIz9t8sKs77LxuWTLC/QOvG9ZZxY3WfIQ=",
           "py3"
         ]
       }
@@ -148112,14 +148210,14 @@
     }
   },
   "zonesmart-utils": {
-    "0.0.3": {
+    "0.0.4": {
       "sdist": [
-        "y198Zhi9yYscGKGPt7votPP8vWAwzN8bn6DNqGkE7fc=",
-        "zonesmart-utils-0.0.3.tar.gz"
+        "inll09Rpvo4td5SjkoJKPHMs7qukFzdneLVo1T0WfVQ=",
+        "zonesmart-utils-0.0.4.tar.gz"
       ],
       "wheels": {
-        "zonesmart_utils-0.0.3-py3-none-any.whl": [
-          "WA80kZa0qAxPz6K+3gtsxJG6GyX5JTxTVPnBaawocNM=",
+        "zonesmart_utils-0.0.4-py3-none-any.whl": [
+          "Dd5icRvNqXxU8YB+877FkIKzz3CAwR9kf2VELknbazE=",
           "py3"
         ]
       }

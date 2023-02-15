@@ -9359,6 +9359,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.71": {
+      "sdist": [
+        "/kRW2mGuZfvVC8jziTB6wHMnSDaPTqbZqconjZ7Az4w=",
+        "botocore-a-la-carte-savingsplans-1.29.71.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_savingsplans-1.29.71-py3-none-any.whl": [
+          "C2kliCVtvOtCc70ox7BEJmv2HpRRLXUK1f98K+Vechw=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-sso-admin": {
@@ -9706,6 +9718,18 @@
       "wheels": {
         "botocore_a_la_carte_sso_admin-1.29.70-py3-none-any.whl": [
           "zeDSUUZSZWhsjqxFTXERgeQTZPbT7z8kltxje6kQq3U=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.71": {
+      "sdist": [
+        "jGzrDM29Fn/pxMukTBsESpuCuwjXuBmXAx5LJsmU0S4=",
+        "botocore-a-la-carte-sso-admin-1.29.71.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_sso_admin-1.29.71-py3-none-any.whl": [
+          "M1+dMijn5iawlXKcw8bPOG6j0nuIMXKnRefuLOtGPkI=",
           "py3"
         ]
       }
@@ -65399,6 +65423,20 @@
       }
     }
   },
+  "meta2vec": {
+    "0.0.1": {
+      "sdist": [
+        "sf5oTnVDxgnCLXhnZRgyOWY6zu83nZ22dCaB9chTRU0=",
+        "Meta2Vec-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "Meta2Vec-0.0.1-py3-none-any.whl": [
+          "H0ukZdAWjqYnphnVxFxIhRKZfN2zs/HQF13rG7JV1gI=",
+          "py3"
+        ]
+      }
+    }
+  },
   "metaclassifier": {
     "1.0.0": {
       "sdist": [
@@ -103098,6 +103136,18 @@
         "pulumi_alicloud-3.30.0a1675288948.tar.gz"
       ]
     },
+    "3.31.0": {
+      "sdist": [
+        "fRlOgfmvlEb1mmsGOQB/lwFJdjtk2fXFamlyRyj9ANY=",
+        "pulumi_alicloud-3.31.0.tar.gz"
+      ]
+    },
+    "3.31.0a1676395236": {
+      "sdist": [
+        "LX2Q7hkgYMURstugWeSo2/CusR2/WOIq9BHDUZDh0xI=",
+        "pulumi_alicloud-3.31.0a1676395236.tar.gz"
+      ]
+    },
     "3.4.0": {
       "sdist": [
         "rJzVO3HcflmfT17d41cbSphn8RjAUGpVyV6r1A+//QM=",
@@ -134790,6 +134840,74 @@
         ],
         "tensorflow-2.11.0rc2-cp39-cp39-win_amd64.whl": [
           "KHasY9/IE+HvtS5jkBlSNBO+x7jboqhXnEsX1iyUfRw=",
+          "cp39"
+        ]
+      }
+    },
+    "2.12.0rc0": {
+      "wheels": {
+        "tensorflow-2.12.0rc0-cp310-cp310-macosx_10_15_x86_64.whl": [
+          "tWGkPIbUTH+V6Xb/89ptqmfBkEecLw3E0eul++0MCA8=",
+          "cp310"
+        ],
+        "tensorflow-2.12.0rc0-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "tw1AbCeLNCx1CARjlvEBT1O0ZTLYGj3MlyzV09lp0BQ=",
+          "cp310"
+        ],
+        "tensorflow-2.12.0rc0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ig+6i5NnDav+JhL/upX6ZrGznXv7mmHewfynnuUSmdA=",
+          "cp310"
+        ],
+        "tensorflow-2.12.0rc0-cp310-cp310-win_amd64.whl": [
+          "m71bLJ4U7n3Bp5j40ATZ8rwCNQHarSewv61bZzmZLlk=",
+          "cp310"
+        ],
+        "tensorflow-2.12.0rc0-cp311-cp311-macosx_10_15_x86_64.whl": [
+          "Rrj8saOLCf7UJujAivX+/GFgP2KUNo1WTWEW6OAm3h8=",
+          "cp311"
+        ],
+        "tensorflow-2.12.0rc0-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "nqjTQjRBntOZAVHT0SV6rIE0vcV6zrG26bTcu7DWViw=",
+          "cp311"
+        ],
+        "tensorflow-2.12.0rc0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "1w6CnK+SB4wpN7L/OMGXt/52ePLdYGpbdbuGCP6sHnM=",
+          "cp311"
+        ],
+        "tensorflow-2.12.0rc0-cp311-cp311-win_amd64.whl": [
+          "vVVmz11fV9FXRQbhnfKgeszI9nB2gA5ncP6iFTvhDyU=",
+          "cp311"
+        ],
+        "tensorflow-2.12.0rc0-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "y9Qykgn+WcW/Q1hh1Uaf8k1kX4drWabWaV630wD2Me4=",
+          "cp38"
+        ],
+        "tensorflow-2.12.0rc0-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "JiuW0mu0r4+XQZawl8f0up6kHbKy9VAC4pbNrwCHcBk=",
+          "cp38"
+        ],
+        "tensorflow-2.12.0rc0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "xw4jBl9NdVUOjd8FWp6SbqHgcsJfyth7rjffhVnMgdo=",
+          "cp38"
+        ],
+        "tensorflow-2.12.0rc0-cp38-cp38-win_amd64.whl": [
+          "WisKCBF1ufM4+COppgLWIUGFcFFD3ZGx5J3GTEsO64M=",
+          "cp38"
+        ],
+        "tensorflow-2.12.0rc0-cp39-cp39-macosx_10_15_x86_64.whl": [
+          "AE31A1LwCVD6z112cF0EieT4Avx72piFHIKWU1YIln4=",
+          "cp39"
+        ],
+        "tensorflow-2.12.0rc0-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "wzbzGLFfM9Aw+2mtOWl/no/55WqdX+8T7V4ZGtnh0SU=",
+          "cp39"
+        ],
+        "tensorflow-2.12.0rc0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "uanM0MtvH4BdyKo8euqwpvlG+vvGlGdHSoBWSYUCn/8=",
+          "cp39"
+        ],
+        "tensorflow-2.12.0rc0-cp39-cp39-win_amd64.whl": [
+          "++W/2ANBG5UIqiWUYBxl3G2WdaRpKNItCarZ3ImtFLE=",
           "cp39"
         ]
       }

@@ -6804,6 +6804,18 @@
         ]
       }
     },
+    "9.2.38": {
+      "sdist": [
+        "L2p1RrbTmbqRvV5KAPExe2zT3dgOfptrj7v5n5VdajQ=",
+        "archr-9.2.38.tar.gz"
+      ],
+      "wheels": {
+        "archr-9.2.38-py3-none-manylinux2014_x86_64.whl": [
+          "lNON9HUZrCIhhMBMbhhhQcpASOImSjF+j4QGeleDvTY=",
+          "py3"
+        ]
+      }
+    },
     "9.2.4": {
       "sdist": [
         "1CCAQYRjNHhPmuBAr26wknBPwGFjfvbIL/ClNtRRhKs=",
@@ -16066,6 +16078,18 @@
       "wheels": {
         "botocore_a_la_carte_dlm-1.29.70-py3-none-any.whl": [
           "87ZmaZQaLh+IaJfebLzuUALm9gbra//J60f7Bn0Xs/A=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.71": {
+      "sdist": [
+        "5bqXSYzu6R2Dc3EYWKF3hLELECAFao7noNkdcApkzPM=",
+        "botocore-a-la-carte-dlm-1.29.71.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_dlm-1.29.71-py3-none-any.whl": [
+          "Qg1nxXaBSxrmBRQ24s4obqlAQaRxNlOKtDdydVVx9zQ=",
           "py3"
         ]
       }
@@ -71930,6 +71954,18 @@
         ]
       }
     },
+    "0.24.0": {
+      "sdist": [
+        "bom316mhrMTAG0qMmnodfK/KcaBSFUsbQxqCsJjrWEo=",
+        "lbt-recipes-0.24.0.tar.gz"
+      ],
+      "wheels": {
+        "lbt_recipes-0.24.0-py2.py3-none-any.whl": [
+          "erB6VvB0GbRzYVX6c8tVC/+NpZMP1Zsjnj1mk7LwwPY=",
+          "py2.py3"
+        ]
+      }
+    },
     "0.5.0": {
       "sdist": [
         "qT4AOJNZdYxSg0e/5AEsGEucYUxWzee4WDsh4PDF6ec=",
@@ -93356,6 +93392,14 @@
         "ovos-ocp-news-plugin-0.0.0a1.tar.gz"
       ]
     },
+    "0.0.1": {
+      "wheels": {
+        "ovos_ocp_news_plugin-0.0.1-py3-none-any.whl": [
+          "E4qTWRQt+VdLSaZxIDJ+emV1daXOqghtSBTsDN5Tg94=",
+          "py3"
+        ]
+      }
+    },
     "0.0.1a1": {
       "sdist": [
         "mrl9FAbcxYBNoI+FW+WxYO2TY6TDiKML2/o93tr9tRI=",
@@ -93367,6 +93411,58 @@
         "dKJNgsZ3eRaJco2O4uKH6y45vw2Kygp6ULQRaR8+VxU=",
         "ovos-ocp-news-plugin-0.0.1a1.post1.tar.gz"
       ]
+    },
+    "0.0.1a2": {
+      "sdist": [
+        "gFA+ce1AYvWdT4vSvRPCoNIrqcitmYA1V1zsaJEbvok=",
+        "ovos-ocp-news-plugin-0.0.1a2.tar.gz"
+      ]
+    },
+    "0.0.1a3": {
+      "sdist": [
+        "526hqcwZ99Z04QaJB5+faTDn28bzZrmTdI/3OviPmuY=",
+        "ovos-ocp-news-plugin-0.0.1a3.tar.gz"
+      ]
+    },
+    "0.0.1a4": {
+      "wheels": {
+        "ovos_ocp_news_plugin-0.0.1a4-py3-none-any.whl": [
+          "QKoiGe6QoZsGwzeOPinkrG6ElbI1Fb0ASnTFvRnjlg0=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.1a5": {
+      "wheels": {
+        "ovos_ocp_news_plugin-0.0.1a5-py3-none-any.whl": [
+          "fwRq+TJuKEZ1PTw6cUlJNrEpOz5prLWssOYfdcTY2ws=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2a1": {
+      "wheels": {
+        "ovos_ocp_news_plugin-0.0.2a1-py3-none-any.whl": [
+          "K//w6gtq5hryXNXBQkZFVS6aF1STW8o1YPlaeujl0+4=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2a2": {
+      "wheels": {
+        "ovos_ocp_news_plugin-0.0.2a2-py3-none-any.whl": [
+          "TcB8B47++98njpqY3ZVYGQWJf7zN0FZ+HOSu6c/Gkp0=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2a3": {
+      "wheels": {
+        "ovos_ocp_news_plugin-0.0.2a3-py3-none-any.whl": [
+          "rzLuuAOsFTOU3cyBoi6GNAzuH12tIqXQjh1/bpf215s=",
+          "py3"
+        ]
+      }
     }
   },
   "pace-neutrons": {
@@ -94764,6 +94860,18 @@
       "wheels": {
         "pandas_stubs-1.5.3.230203-py3-none-any.whl": [
           "BNoCb5kz4VNLpICisGE5otvWJMV84Gl+WHNGDXgVxn0=",
+          "py3"
+        ]
+      }
+    },
+    "1.5.3.230214": {
+      "sdist": [
+        "X8H8nEcNUzL5AlpT7KtMNsuAssUqWW1ZfWxeM7QHgVM=",
+        "pandas_stubs-1.5.3.230214.tar.gz"
+      ],
+      "wheels": {
+        "pandas_stubs-1.5.3.230214-py3-none-any.whl": [
+          "vg8wVv71Q8NySJUamGjLp34XrOO4FbCiPHLtLsE/vZ4=",
           "py3"
         ]
       }
@@ -135335,6 +135443,18 @@
           "py3"
         ]
       }
+    },
+    "1.5": {
+      "sdist": [
+        "FhrG4uK5paYT5uI0QPLiR2bDx8ia2VZ6V8bh/OR/ozU=",
+        "SWTK-1.5.tar.gz"
+      ]
+    },
+    "1.5.1": {
+      "sdist": [
+        "F7Q0sm2bLoE4Yj10kiYA/psPN5b0M+kDCIs9aUhn0Bw=",
+        "SWTK-1.5.1.tar.gz"
+      ]
     }
   },
   "syms": {
@@ -144135,6 +144255,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.830": {
+      "sdist": [
+        "9RfUvJweOtqhPkSHoPB/qHv/X8mEA/aJYlkU8ge63Nw=",
+        "tencentcloud-sdk-python-ckafka-3.0.830.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_ckafka-3.0.830-py2.py3-none-any.whl": [
+          "PJ/7UN4hCJP9YeIuiI1TGpJdyXc2+3xccsYUpNkLxuY=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tensorflow-datavalidation": {
@@ -148888,6 +149020,30 @@
       "wheels": {
         "uintel-0.3.4-py3-none-any.whl": [
           "eZN5PEr/FHumG4sjnCaxgBfMMLP6s5PRcbg/eZ1OSHQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.5": {
+      "sdist": [
+        "KLJ633Jqa4Tct7Af4/iIySTwRngD0SA6X0IzMKKFAII=",
+        "uintel-0.3.5.tar.gz"
+      ],
+      "wheels": {
+        "uintel-0.3.5-py3-none-any.whl": [
+          "v6B/xNN4fu+tTYQFBJDW4ERaUU1QZbMoCrgrLOEAYS0=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.6": {
+      "sdist": [
+        "C1aCqgwZgwmNCa1jSb6ewDPtXGpeoK8LIWBcb7tOaVo=",
+        "uintel-0.3.6.tar.gz"
+      ],
+      "wheels": {
+        "uintel-0.3.6-py3-none-any.whl": [
+          "FxsTH0PN83KefpstHBhSYV0XhD/T5FtAx+cGlw38TJs=",
           "py3"
         ]
       }

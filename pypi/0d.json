@@ -47274,6 +47274,12 @@
         "energinet-ml-sdk-0.10.1.dev270.tar.gz"
       ]
     },
+    "0.10.1.dev271": {
+      "sdist": [
+        "myWXqMXo+yufbXQIit8CXK0AFtQ0u7Bsf3RjuwaKeoM=",
+        "energinet-ml-sdk-0.10.1.dev271.tar.gz"
+      ]
+    },
     "0.5.16": {
       "sdist": [
         "0SSiVPr+B4e8ALaHwmidR2UEZUthA0IuPdfgJtuQYGE=",
@@ -86172,6 +86178,18 @@
         ],
         "navconfig-1.0.17-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "bPhpIKQ9iNnbc1x9wQMSNmZMnT/8IwU5V9m5P6PmRfA=",
+          "cp39"
+        ]
+      }
+    },
+    "1.0.18": {
+      "wheels": {
+        "navconfig-1.0.18-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "hsXjWTu+PGQX7nfG+gcXUpdnlBuezp0gj+/Wb4woNfc=",
+          "cp38"
+        ],
+        "navconfig-1.0.18-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "WLAoANcqwovPOLyB1dVjItLby03gp365sJWrZVrqJYU=",
           "cp39"
         ]
       }
@@ -131326,6 +131344,18 @@
         ]
       }
     },
+    "0.1.185": {
+      "sdist": [
+        "ph9AulUf2XuDewbbowTG+perJuQr+9sICgp9BWk/qNk=",
+        "state-machine-semaphore-0.1.185.tar.gz"
+      ],
+      "wheels": {
+        "state_machine_semaphore-0.1.185-py3-none-any.whl": [
+          "K1KxDSdgxxK0obDXl2g2Z2yNdldOXTk9qvb9ITB/KOg=",
+          "py3"
+        ]
+      }
+    },
     "0.1.19": {
       "sdist": [
         "9L4aecELytHTPeg8KmWG+ZYwLvq/BEKeZuLTou2lULc=",
@@ -152368,6 +152398,90 @@
         ],
         "zmesh-1.6.1-cp39-cp39-win_amd64.whl": [
           "lurOMtTtyebDs/X5EPD5RYYxfAvohhVHCro/R3O41DM=",
+          "cp39"
+        ]
+      }
+    },
+    "1.6.2": {
+      "sdist": [
+        "huw4XQ6ntUe8A5qS4+NCd1O7olFnVrVOxrnbYRzQG8s=",
+        "zmesh-1.6.2.tar.gz"
+      ],
+      "wheels": {
+        "zmesh-1.6.2-cp310-cp310-macosx_10_9_universal2.whl": [
+          "JXTXeiNLH9biCZWkZn87vg6/GNtcZoT7XaLV0eCISw8=",
+          "cp310"
+        ],
+        "zmesh-1.6.2-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "dejbKq1xtJ/9250NWlYEmRXvRLDHotNf30+/h5JVovw=",
+          "cp310"
+        ],
+        "zmesh-1.6.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ThbddKxm1geIGJo4zhCU3OvzphPItVkdYm8PyOb37H8=",
+          "cp310"
+        ],
+        "zmesh-1.6.2-cp310-cp310-win_amd64.whl": [
+          "2qhbK5ZokX7+Um1v77T1skaVlBAUMr+gTlX5PA9uyvE=",
+          "cp310"
+        ],
+        "zmesh-1.6.2-cp311-cp311-macosx_10_9_universal2.whl": [
+          "vUpLFEf2JFtAlWwjsryzCt/Sw7hOGWfCqT2Ofh8axR0=",
+          "cp311"
+        ],
+        "zmesh-1.6.2-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "qJcEfsyOjinCSKo75L047p+gBWIceQotq+ebJkrGe8I=",
+          "cp311"
+        ],
+        "zmesh-1.6.2-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "qCM9beKfITxeTNl75bdHDbmLJuwfSa/1KWKo7NoVGxs=",
+          "cp311"
+        ],
+        "zmesh-1.6.2-cp311-cp311-win_amd64.whl": [
+          "cJea6cQYRcRsy5adBhSR5fqLcxu6/0ivJIMH9llSwoc=",
+          "cp311"
+        ],
+        "zmesh-1.6.2-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "gRyGl1T2mkYPRx5es0u254gOm0uAq/R51rztRBiknLg=",
+          "cp37"
+        ],
+        "zmesh-1.6.2-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "zwyXSh99lCxWxUFLvwVwrBp2eMRGoNNr/dEjSkV0OW0=",
+          "cp37"
+        ],
+        "zmesh-1.6.2-cp37-cp37m-win_amd64.whl": [
+          "3fkRnPq5CqVSqoybKiZ7Mde7+Vd9Pcn/ckwidIJV3aI=",
+          "cp37"
+        ],
+        "zmesh-1.6.2-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "+89IlAJozVGxOik6G5RJsEjpEXjYZkfodWXJhEARopA=",
+          "cp38"
+        ],
+        "zmesh-1.6.2-cp38-cp38-macosx_11_0_universal2.whl": [
+          "ZNLKY5qjuc7b2AIDvO/Gxu3jGhHNqCSr5r485XMokUg=",
+          "cp38"
+        ],
+        "zmesh-1.6.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "q3wjzwKqPkvnT4nYku2CxFvgzyW6dQgWBht6jj6N3jE=",
+          "cp38"
+        ],
+        "zmesh-1.6.2-cp38-cp38-win_amd64.whl": [
+          "xkMsKpYrPJyJkSVuUHNgg/2LVzvB3PmGUJIHvJrShLo=",
+          "cp38"
+        ],
+        "zmesh-1.6.2-cp39-cp39-macosx_10_9_universal2.whl": [
+          "KJ51y9uEhmCJ5/enAwixy04+mN99zd9q4p9u3p5SZ70=",
+          "cp39"
+        ],
+        "zmesh-1.6.2-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "d6EKOXQojBi5fQyYh+/y9ik/HxniMD+Shw7ffAzTXJw=",
+          "cp39"
+        ],
+        "zmesh-1.6.2-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "7g2LsaGAs+jiXokWRZ80nUlinJB53VbTgCqbKRJu6eg=",
+          "cp39"
+        ],
+        "zmesh-1.6.2-cp39-cp39-win_amd64.whl": [
+          "SpsLNaTJUS1cpLh7TyNWSW/3obpqdM8r23gTjjG0H7g=",
           "cp39"
         ]
       }

@@ -27579,6 +27579,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.6": {
+      "sdist": [
+        "UfNHzwVnhhMLShw+Md7OIbMyx1BIh4LeHBh3B/5Xjps=",
+        "django-oasis4-auth-1.0.6.tar.gz"
+      ],
+      "wheels": {
+        "django_oasis4_auth-1.0.6-py3-none-any.whl": [
+          "+zYKst+vVu/tV12vfDqbYsV22T9IHhvgFM1d/3GV1UA=",
+          "py3"
+        ]
+      }
     }
   },
   "django-ocr-server": {
@@ -51091,6 +51103,32 @@
       ]
     }
   },
+  "hatch-aws-publisher": {
+    "0.1.0": {
+      "sdist": [
+        "lcjwfJI95eWZXMVnwGQQiP5fBTm2iWXZoAOr0NXkans=",
+        "hatch_aws_publisher-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "hatch_aws_publisher-0.1.0-py3-none-any.whl": [
+          "dzq+RUYkm+O/1djXAqhrKq1lK/ulKxv6yMf3QyldyrY=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.0": {
+      "sdist": [
+        "FWNAd1T5c2mISSJT8tUZ6RcxbhwBWG/QyFXw2d0mYXc=",
+        "hatch_aws_publisher-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "hatch_aws_publisher-0.2.0-py3-none-any.whl": [
+          "2K9LjxGZcsdgr4bsz0gOou95PYb/4ygYTwAsV0YoDAk=",
+          "py3"
+        ]
+      }
+    }
+  },
   "hazinses": {
     "0.2": {
       "sdist": [
@@ -51204,6 +51242,18 @@
       "sdist": [
         "vVo9Qb+k9K5ETcHqPlBS8SswInEroCwJoH6C5yO4f2E=",
         "hdn-research-environment-1.2.0.tar.gz"
+      ]
+    },
+    "1.2.1": {
+      "sdist": [
+        "/0Gm3Hzj5qwB3jXuQsVlG3PbZqu/PMjA5KRHTpE9zlY=",
+        "hdn-research-environment-1.2.1.tar.gz"
+      ]
+    },
+    "1.2.2": {
+      "sdist": [
+        "6YxUSn6z6visZbPatU95zIp3aPZRRJMIv4lIaDgIPcE=",
+        "hdn-research-environment-1.2.2.tar.gz"
       ]
     }
   },
@@ -67724,6 +67774,18 @@
         ]
       }
     },
+    "1.19.4.dev49": {
+      "sdist": [
+        "sxum3qzLY74iNDvddqm5CvWEtBfh2jT5Eo12ZYo3/7w=",
+        "large-image-source-openjpeg-1.19.4.dev49.tar.gz"
+      ],
+      "wheels": {
+        "large_image_source_openjpeg-1.19.4.dev49-py3-none-any.whl": [
+          "JkA9J4vHj/8lecXyKjed3OAcHBcdBTkxXAhyQteXS6w=",
+          "py3"
+        ]
+      }
+    },
     "1.19.4.dev5": {
       "sdist": [
         "vpY9ulMHs4Uxe8apS/azS5KD4RxZNyZHVY7fMNxpkrg=",
@@ -67732,6 +67794,18 @@
       "wheels": {
         "large_image_source_openjpeg-1.19.4.dev5-py3-none-any.whl": [
           "/vUM/Mrzrdsry3A0v1eF/lcvIpaxgdIhkM6LrYWN7vI=",
+          "py3"
+        ]
+      }
+    },
+    "1.19.4.dev50": {
+      "sdist": [
+        "58DiSBFSasoV+EMEZufbPFYQQuv+W1q7ES7cP/GEPto=",
+        "large-image-source-openjpeg-1.19.4.dev50.tar.gz"
+      ],
+      "wheels": {
+        "large_image_source_openjpeg-1.19.4.dev50-py3-none-any.whl": [
+          "VJmTG6HsZ2DVxmZhb82bQ/sZN3dW7GtxmLSNpUOooJ8=",
           "py3"
         ]
       }
@@ -82380,6 +82454,22 @@
         ],
         "navigator_auth-0.4.12-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "Onnj0OHDS+j1YTbWV3yD3j5ozZzCMcx4l8+NZ8MnIsY=",
+          "cp39"
+        ]
+      }
+    },
+    "0.4.13": {
+      "wheels": {
+        "navigator_auth-0.4.13-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ZEDTrmzKSOcrkNTSrEu1WnirpMWUwqPmNh4xWtCvkx0=",
+          "cp310"
+        ],
+        "navigator_auth-0.4.13-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "HpZlXsyrdv4AcJsfngucSJDaYd/GBdFVZ8iaeehEhPI=",
+          "cp38"
+        ],
+        "navigator_auth-0.4.13-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "YLKSCsX+AnXaIuFdo+PrNOmE8ieQt5DTrL3GyCZPupw=",
           "cp39"
         ]
       }
@@ -114624,6 +114714,24 @@
     }
   },
   "repast4py": {
+    "0.2.0": {
+      "sdist": [
+        "p9ZrXhm7t2mu6QgGdUrzwM7RJtg6twvS/rkR/q5yE4o=",
+        "repast4py-0.2.0.tar.gz"
+      ]
+    },
+    "0.3.0": {
+      "sdist": [
+        "LdacIyxDBvfOsBI5iJgmkkyJO8bHq/sTMmsHLPYBjKE=",
+        "repast4py-0.3.0.tar.gz"
+      ]
+    },
+    "0.3.1": {
+      "sdist": [
+        "rLY+gqECIdI83sV7ZrZ8dTy1KHF5QLzFARQQLALM2GY=",
+        "repast4py-0.3.1.tar.gz"
+      ]
+    },
     "1.0.0b1": {
       "sdist": [
         "yVZUerxOo3UbuP+HzKlAy0Tn8jVE3r95Un0OEsrLxDM=",
@@ -114658,6 +114766,12 @@
       "sdist": [
         "1ITPuvPUJw0rFsQYxIylPgh3stIjC7LrkhSgD87zf/I=",
         "repast4py-1.0.5b1.tar.gz"
+      ]
+    },
+    "1.1.0": {
+      "sdist": [
+        "idIhHpw8M9mfRzBUULXCDGOiAjcWv3FlwE5hh31aOx4=",
+        "repast4py-1.1.0.tar.gz"
       ]
     }
   },
@@ -119812,6 +119926,18 @@
       "wheels": {
         "SensiML-2023.1.0-py3-none-any.whl": [
           "o0kBb1UgYmLYuMfK83awcvdUzZtoPddt6h0KeIuk/rQ=",
+          "py3"
+        ]
+      }
+    },
+    "2023.1.1": {
+      "sdist": [
+        "MElS+2WQXpyBQ63m6w4eq1bjYNIqkZ8V2NfTzdOG7UE=",
+        "SensiML-2023.1.1.tar.gz"
+      ],
+      "wheels": {
+        "SensiML-2023.1.1-py3-none-any.whl": [
+          "2f0pNaISnVoFneEdYjj0sSz4QPoH9VTCql2GWW8MBSY=",
           "py3"
         ]
       }

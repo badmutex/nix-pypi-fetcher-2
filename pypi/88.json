@@ -29561,6 +29561,12 @@
         "UjRadnBKH86BvY+LA1w68uFyOxU8e0asRHi3/s5Yfeo=",
         "django-trackstats-0.5.0.tar.gz"
       ]
+    },
+    "0.6.0": {
+      "sdist": [
+        "vFKUqm5PZyvyBISdBm6xWIQVWHpo3NFd9+CxkdWvwkk=",
+        "django-trackstats-0.6.0.tar.gz"
+      ]
     }
   },
   "django-turnit": {
@@ -62476,8 +62482,44 @@
     },
     "0.1.dev2": {
       "wheels": {
+        "lemippy-0.1.dev2-cp37-cp37m-manylinux1_x86_64.manylinux_2_35_x86_64.whl": [
+          "//VzkU7v9Pzdd4H9CPRHlFIXfjWEp7CKqRfS+dafNFk=",
+          "cp37"
+        ],
         "lemippy-0.1.dev2-cp37-cp37m-manylinux1_x86_64.whl": [
           "trh5yRFy96XLU7VFJ9iUZdIufm6wbjvZrduwcCbo+cQ=",
+          "cp37"
+        ]
+      }
+    },
+    "0.1.dev3": {
+      "wheels": {
+        "lemippy-0.1.dev3-cp37-cp37m-manylinux_2_35_x86_64.whl": [
+          "pRDxn3vHLVWexJPBwSaNvLWqdwo9vLud58CTkzBrku0=",
+          "cp37"
+        ]
+      }
+    },
+    "0.1.dev4": {
+      "wheels": {
+        "lemippy-0.1.dev4-cp37-cp37m-manylinux_2_31_x86_64.whl": [
+          "vGUQUTHef14jw8OcqxkLTZSO5OZMQu9Y0MIwapzl9nQ=",
+          "cp37"
+        ]
+      }
+    },
+    "0.1.dev5": {
+      "wheels": {
+        "lemippy-0.1.dev5-cp37-cp37m-manylinux_2_31_x86_64.whl": [
+          "sHMKyjyAigiYgYBeA8yMk1SFS7oX5cWS+KfFDDn6rF4=",
+          "cp37"
+        ],
+        "lemippy-0.1.dev5-cp37-cp37m-manylinux_2_34_x86_64.whl": [
+          "wIgGIp9pbcRGmCuDtK8Zv1od2XH7j5XbjqTQWtyIpRI=",
+          "cp37"
+        ],
+        "lemippy-0.1.dev5-cp37-cp37m-manylinux_2_35_x86_64.whl": [
+          "0GZC0kDlTH5wc+ohiiHxTVue4qZtlVVTd4OVfl5QMfA=",
           "cp37"
         ]
       }
@@ -99620,6 +99662,12 @@
         "PICOS-2.4.13.tar.gz"
       ]
     },
+    "2.4.14": {
+      "sdist": [
+        "TnQ2GB+CuP+/ZawxfxHyMOieFQFFh4SAH5Ern4Kdft0=",
+        "PICOS-2.4.14.tar.gz"
+      ]
+    },
     "2.4.9": {
       "sdist": [
         "SSeCXB21ilM4g7kFtuW5wA1E8ucpvr6F02xiurQayhE=",
@@ -104720,6 +104768,18 @@
       "wheels": {
         "py_book_util-0.1.38-py3-none-any.whl": [
           "pt5q0COijFLK1sxbgerEXBn/Ln6tBZVoVoUuzEv/oQQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.39": {
+      "sdist": [
+        "huHUn2cZ1bnuoK+tXiCtjvCTc81bWvo+SXnLDTxlES0=",
+        "py_book_util-0.1.39.tar.gz"
+      ],
+      "wheels": {
+        "py_book_util-0.1.39-py3-none-any.whl": [
+          "atrFepxufEIiXfZpf0jFtzsUy6w5VK9Va9nM5LyKe4c=",
           "py3"
         ]
       }
@@ -117048,6 +117108,46 @@
         ],
         "pywry-0.3.0-cp39-none-win_amd64.whl": [
           "JB1cKT1d9LVmwi23FrcxQ4/5DrMUcnpkDblePozR3og=",
+          "cp39"
+        ]
+      }
+    },
+    "0.3.1": {
+      "sdist": [
+        "lpQyHieb9S871MrxazgFcUiod9ElwS+oBGrEmy9SK3g=",
+        "pywry-0.3.1.tar.gz"
+      ],
+      "wheels": {
+        "pywry-0.3.1-cp310-cp310-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "7DGmdD5vStdHZO88KhpZfHh5sx8mwZ00H/QdgvX+jvY=",
+          "cp310"
+        ],
+        "pywry-0.3.1-cp310-none-win_amd64.whl": [
+          "70C0x3+4Mv+9uS38ouOD+9eRdtYO6TI+xi661kpDHb4=",
+          "cp310"
+        ],
+        "pywry-0.3.1-cp311-cp311-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "1hbqXeK1ayhOZiHLpl3vfPrdsmTzrcOyBXEFvo933r0=",
+          "cp311"
+        ],
+        "pywry-0.3.1-cp311-none-win_amd64.whl": [
+          "OS/gfwq1mhPaLeHREn9q8immiOZJ47OeoWPYagGj8hI=",
+          "cp311"
+        ],
+        "pywry-0.3.1-cp38-cp38-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "rEVn7zrcMg5LSeBEthZUdDOWDfdm/TZMwIadPvXHhhM=",
+          "cp38"
+        ],
+        "pywry-0.3.1-cp38-none-win_amd64.whl": [
+          "2J0nv6DgTgzEoO8qceJRGhSBbVgTZA+f/gSAPFQYJyQ=",
+          "cp38"
+        ],
+        "pywry-0.3.1-cp39-cp39-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "/gBoDg4Sdcd7ZMdeor+k3o0j5OAIeftpPKtKrmUdJbc=",
+          "cp39"
+        ],
+        "pywry-0.3.1-cp39-none-win_amd64.whl": [
+          "8kdXYRVy8dCufdZhKkM4VV4Rg3q3YJeQMoCon5+OEn4=",
           "cp39"
         ]
       }

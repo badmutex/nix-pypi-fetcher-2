@@ -38723,6 +38723,74 @@
           "cp39"
         ]
       }
+    },
+    "1.2.0": {
+      "sdist": [
+        "FQyqgCPjaEhrlH0EAbnc/GUV4N6PtmgJvhnA25aDJ9o=",
+        "euphonic-1.2.0.tar.gz"
+      ],
+      "wheels": {
+        "euphonic-1.2.0-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "5UVRRnSrFCTg08wsufyQY8/wcQcpxtzpam+0F4uJV0U=",
+          "cp310"
+        ],
+        "euphonic-1.2.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "2hyY/AIimot88kVWecM4DfX25vjiY7HoSIOAvVX/Tig=",
+          "cp310"
+        ],
+        "euphonic-1.2.0-cp310-cp310-win_amd64.whl": [
+          "q9IAhlJLpG4Rfma9RM9d+Q2MvyQqUKxTyUvje4KlzE0=",
+          "cp310"
+        ],
+        "euphonic-1.2.0-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "kCdEr9N4qJpUq/vEH6KR1anJDsvSyt/xc/MCD6LgLk4=",
+          "cp311"
+        ],
+        "euphonic-1.2.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "WCBOefoDfeJeOwFzye0wg5yKk4qGeseBXYrRCxk6/bQ=",
+          "cp311"
+        ],
+        "euphonic-1.2.0-cp311-cp311-win_amd64.whl": [
+          "Z2dFcPk0dd2ERRBIEmW9JaDA1A+fTJnxPWEtz63f73g=",
+          "cp311"
+        ],
+        "euphonic-1.2.0-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "VMVqgIb9vsqZBXQbVEU0ZtYu5P4D1vFIEQoxtTbqd/I=",
+          "cp37"
+        ],
+        "euphonic-1.2.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "9tPSPdGpylQ3me7+1n5N27s0vfiPx1XVZB6ni2XqPJY=",
+          "cp37"
+        ],
+        "euphonic-1.2.0-cp37-cp37m-win_amd64.whl": [
+          "Ac74hX99lcK2G1i6Lma6FRmmnmA0z3aoslqnnWPOcYs=",
+          "cp37"
+        ],
+        "euphonic-1.2.0-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "wAgCNgo6XDOaMjXwZ/Pt7MF3BTf71rHCKS+KNRT0znE=",
+          "cp38"
+        ],
+        "euphonic-1.2.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "OTHmsE3clksysGLocK3FAC4dU6BDlxqoP+vy1zFjOv0=",
+          "cp38"
+        ],
+        "euphonic-1.2.0-cp38-cp38-win_amd64.whl": [
+          "CivMGomPoBwcQ/vtmmAPrbViCMsrHxXDCJw1sKXbRcE=",
+          "cp38"
+        ],
+        "euphonic-1.2.0-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "4UNV1HAgl4tvR3p3ZKETdXv1bbOwZHiv5tx8jQjM3ck=",
+          "cp39"
+        ],
+        "euphonic-1.2.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "3ZIxqum7Jrb9Offj1mLfbsrCUpUjlznXx6JuLkvmjT8=",
+          "cp39"
+        ],
+        "euphonic-1.2.0-cp39-cp39-win_amd64.whl": [
+          "GruEqGw/teNhupcx8TEqFSgVCFbSiSLPFpNvCyP74LI=",
+          "cp39"
+        ]
+      }
     }
   },
   "euslint": {
@@ -67376,6 +67444,24 @@
       "sdist": [
         "SopD9UK8hmbI+shOrvI7RmrTXw9M6QTBv7cMXsQMGzs=",
         "libcnmc-23.12.3.tar.gz"
+      ]
+    },
+    "23.12.4": {
+      "sdist": [
+        "+BrTp7L80BFMcTC/wqnfa8OpjgISNjYByCWSz9AcMgQ=",
+        "libcnmc-23.12.4.tar.gz"
+      ]
+    },
+    "23.13.0": {
+      "sdist": [
+        "I30PTSVBxAoEL3GBTXgskNseykzvdgqRUP008Xb8OH4=",
+        "libcnmc-23.13.0.tar.gz"
+      ]
+    },
+    "23.13.1": {
+      "sdist": [
+        "tUxW+ssSPQiE20GkTfTjXYMFjal2/r77E7h22cIWarA=",
+        "libcnmc-23.13.1.tar.gz"
       ]
     },
     "23.2.0": {
@@ -100958,6 +101044,12 @@
       "sdist": [
         "oDL5cQOJPyNZKa7ewJzkIVbCFLxAJwsBoDgnAsx2ofQ=",
         "pylgbst-1.2.2.tar.gz"
+      ]
+    },
+    "1.3.0": {
+      "sdist": [
+        "QnIKz6U0f/b/gAhQ/NqWFNQlas7czKGDqr7m/iPecbs=",
+        "pylgbst-1.3.0.tar.gz"
       ]
     }
   },
@@ -138190,6 +138282,18 @@
       "wheels": {
         "types_dateparser-1.1.4.6-py3-none-any.whl": [
           "ydKMTSlT9UBo1jUhwbkndeYcBZNj29N8d/ClJN2DiyM=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.4.7": {
+      "sdist": [
+        "HD2xIKSfvDcp5v4yaCyA1SbESxR6U3gSfiNThkN5erc=",
+        "types-dateparser-1.1.4.7.tar.gz"
+      ],
+      "wheels": {
+        "types_dateparser-1.1.4.7-py3-none-any.whl": [
+          "KsMXDouFRBKd6bpgNhKwDQQ2RDO/QVE6oDHtFCnVoEw=",
           "py3"
         ]
       }

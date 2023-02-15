@@ -8435,6 +8435,12 @@
         "Wtgx4ZKuPhefYY6hmDs9GDyYnD2vSLUsZRXhjQs8cSQ=",
         "bluepysnap-1.0.0.tar.gz"
       ]
+    },
+    "1.0.1": {
+      "sdist": [
+        "+TfOt+mQXs2ctg9iqPqS+O5fTdMAUPBhqL1rKQfEG6s=",
+        "bluepysnap-1.0.1.tar.gz"
+      ]
     }
   },
   "bmb-pki": {
@@ -47353,6 +47359,18 @@
           "py3"
         ]
       }
+    },
+    "2.6.0": {
+      "sdist": [
+        "A15ho4fmgduPfm/1BzySYQKZnoav/GrQbNjHsIcvMNU=",
+        "hatyan-2.6.0.tar.gz"
+      ],
+      "wheels": {
+        "hatyan-2.6.0-py3-none-any.whl": [
+          "bxmSaynFVh0SwRz/WoqENeUqnOjr3XLvWsSDOSoeCRw=",
+          "py3"
+        ]
+      }
     }
   },
   "hbp-seafile": {
@@ -65426,15 +65444,27 @@
   "meta2vec": {
     "0.0.1": {
       "sdist": [
-        "sf5oTnVDxgnCLXhnZRgyOWY6zu83nZ22dCaB9chTRU0=",
-        "Meta2Vec-0.0.1.tar.gz"
-      ],
-      "wheels": {
-        "Meta2Vec-0.0.1-py3-none-any.whl": [
-          "H0ukZdAWjqYnphnVxFxIhRKZfN2zs/HQF13rG7JV1gI=",
-          "py3"
-        ]
-      }
+        "yIrfj6vE5AyLOJLcOgB7isVY1Gm3zN37Ek6toYRIfv8=",
+        "meta2vec-0.0.1.tar.gz"
+      ]
+    },
+    "0.0.2": {
+      "sdist": [
+        "pO3Gosl+iqaHAwcnZnN7Ju6fjKerHdUvzlMazJ9YKUM=",
+        "meta2vec-0.0.2.tar.gz"
+      ]
+    },
+    "0.0.3": {
+      "sdist": [
+        "WrgBUHcZdFsf1B20Q+xK3rCIYPxMG3EqqVJGwS8hTnc=",
+        "meta2vec-0.0.3.tar.gz"
+      ]
+    },
+    "0.0.4": {
+      "sdist": [
+        "7qTFaKfQYjqhGu3VbuouUltYed5O+hGV6NRy89HFJwQ=",
+        "meta2vec-0.0.4.tar.gz"
+      ]
     }
   },
   "metaclassifier": {
@@ -76232,6 +76262,42 @@
       "wheels": {
         "muffin_rest-4.2.4-py3-none-any.whl": [
           "TVADQa0pCk3CaP8o2PKWCUL/xmONOXU8414fnQVLdnY=",
+          "py3"
+        ]
+      }
+    },
+    "4.2.5": {
+      "sdist": [
+        "d93IFOxdxHsK8W2rTpMqhq3a9qu46fG9SNPM0sMYgAg=",
+        "muffin-rest-4.2.5.tar.gz"
+      ],
+      "wheels": {
+        "muffin_rest-4.2.5-py3-none-any.whl": [
+          "1b+5q/YoFUuhC8Zp/0o5YqG43QM8cWj4h+bETT86eZg=",
+          "py3"
+        ]
+      }
+    },
+    "4.2.6": {
+      "sdist": [
+        "qus89K7eR48rkA16YpOXDt5sPgDtA6Ez57XmGASDCvc=",
+        "muffin-rest-4.2.6.tar.gz"
+      ],
+      "wheels": {
+        "muffin_rest-4.2.6-py3-none-any.whl": [
+          "/Kin7s9sfkmBSmYzMCm11q/z8Kxj/YAJCaLMbLWSDlM=",
+          "py3"
+        ]
+      }
+    },
+    "4.2.7": {
+      "sdist": [
+        "O29nzS4gGvMyahWijGWm/rRr9XCaFYWHxIZBjrqfmMs=",
+        "muffin-rest-4.2.7.tar.gz"
+      ],
+      "wheels": {
+        "muffin_rest-4.2.7-py3-none-any.whl": [
+          "CgU3oJbPhgRufsl90EifPJr95l6VnODNO2QP433dxCY=",
           "py3"
         ]
       }
@@ -87240,6 +87306,14 @@
       "wheels": {
         "odoo13_addon_purchase_open_qty-13.0.1.3.1.dev1-py3-none-any.whl": [
           "4OGn3bdS43RGSgnC5quie4EPtc5pFlV5Zg1SoQfR7mM=",
+          "py3"
+        ]
+      }
+    },
+    "13.0.1.3.2.dev1": {
+      "wheels": {
+        "odoo13_addon_purchase_open_qty-13.0.1.3.2.dev1-py3-none-any.whl": [
+          "3p+2ZoH0C4PY712SugQM15uSVLy5W2bVdFWICpUEp3I=",
           "py3"
         ]
       }
@@ -129229,6 +129303,32 @@
       ]
     }
   },
+  "sqlite-magic": {
+    "0.1.0": {
+      "sdist": [
+        "QR07CkIomZWgPYcDbrbpPhBp4Whaitsya7/YkO6SntI=",
+        "sqlite_magic-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "sqlite_magic-0.1.0-py3-none-any.whl": [
+          "B85biUiD6jCMWSZjE8WIpkVXZKaj0F7ScpA9JtLtn5k=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.0": {
+      "sdist": [
+        "s1Gat6u8mCgxpN7re9DoL/kRnQaUynU2My4L/ARGaOs=",
+        "sqlite_magic-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "sqlite_magic-0.2.0-py3-none-any.whl": [
+          "edAhAkb4GOdKKh1tBec7S3kXHcHBQNAw+bXQB8qTMVY=",
+          "py3"
+        ]
+      }
+    }
+  },
   "sqlmethods": {
     "0.0.0": {
       "sdist": [
@@ -153881,6 +153981,30 @@
           "py3"
         ]
       }
+    },
+    "2.39.19": {
+      "sdist": [
+        "QVAydy3IAejp9vIUBVekhEuja38sxSiDwJgcmjCUR7U=",
+        "weather_provider_api-2.39.19.tar.gz"
+      ],
+      "wheels": {
+        "weather_provider_api-2.39.19-py3-none-any.whl": [
+          "Qjcjs76/MrxjG0ojcdw/rUxYFfZmlqGkOhOeOa1MLWw=",
+          "py3"
+        ]
+      }
+    },
+    "2.40.20": {
+      "sdist": [
+        "0VDQ0D8dnMCvO8/RBmL4aH9CanI1vrkfuYeq0rz9FG4=",
+        "weather_provider_api-2.40.20.tar.gz"
+      ],
+      "wheels": {
+        "weather_provider_api-2.40.20-py3-none-any.whl": [
+          "2mjp66GBNZvDnVxGCnpDX2EfHI9tXncaD4V59gSDP50=",
+          "py3"
+        ]
+      }
     }
   },
   "webbricklibs": {
@@ -154547,6 +154671,20 @@
         "GOMd82nGBy/5mESOkYjsoZI/iRQZHBKyWnnWmIqoffg=",
         "WTFMongoengine-0.1.2.tar.gz"
       ]
+    }
+  },
+  "wuai-pojie-ruanjian-diaoshi-qu-2009-8-2023-1-pt2": {
+    "2023.2.15.0": {
+      "sdist": [
+        "mZdHAgBazuU0Y1VKsaV7+D71f0nHgFQmJZHjf+oplDc=",
+        "wuai-pojie-ruanjian-diaoshi-qu-2009-8-2023-1-pt2-2023.2.15.0.tar.gz"
+      ],
+      "wheels": {
+        "wuai_pojie_ruanjian_diaoshi_qu_2009_8_2023_1_pt2-2023.2.15.0-py3-none-any.whl": [
+          "8gHarBUaUz3Xr7O5iBHJA/+7n4Nnb7ujXyTq7ThdnyY=",
+          "py3"
+        ]
+      }
     }
   },
   "wxconfig": {

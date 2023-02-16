@@ -1892,6 +1892,18 @@
         ]
       }
     },
+    "2.14.0": {
+      "sdist": [
+        "E1wckW+C+nCtls4lKDUqYOTRwYGaVsef2h8/OY2LSA4=",
+        "aleph-alpha-client-2.14.0.tar.gz"
+      ],
+      "wheels": {
+        "aleph_alpha_client-2.14.0-py3-none-any.whl": [
+          "vShRm1hALS1rR9dRMYCPRDbuJSOzPtNdUl2GWbrp1I0=",
+          "py3"
+        ]
+      }
+    },
     "2.2.0": {
       "sdist": [
         "592dFP4s+zVE/HvLMX84ivJeOs5OzqT+a+cOPaFB5CA=",
@@ -29578,6 +29590,12 @@
       "sdist": [
         "vFKUqm5PZyvyBISdBm6xWIQVWHpo3NFd9+CxkdWvwkk=",
         "django-trackstats-0.6.0.tar.gz"
+      ]
+    },
+    "0.6.1": {
+      "sdist": [
+        "scJ1OqBk17pXVqhfmUcCG/rWVcTyWqRnH9bvkjzyetQ=",
+        "django-trackstats-0.6.1.tar.gz"
       ]
     }
   },
@@ -72183,6 +72201,58 @@
           "py3"
         ]
       }
+    },
+    "1.0.0b2": {
+      "wheels": {
+        "maturin-1.0.0b2-py3-none-linux_armv6l.whl": [
+          "hUDdaEkEZ56I02VqtQuTSWMXCHX5b4gdb6S4CVG8Nh8=",
+          "py3"
+        ],
+        "maturin-1.0.0b2-py3-none-macosx_10_7_x86_64.whl": [
+          "Z/Xs0PclCPfVhkdviBRNXF2KuiCbouHtc/Pu0sXEjp0=",
+          "py3"
+        ],
+        "maturin-1.0.0b2-py3-none-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "oLlA6eIVohud+DqicPylsQfeq2cEEWY0KHMMxAhU7DI=",
+          "py3"
+        ],
+        "maturin-1.0.0b2-py3-none-manylinux_2_12_i686.manylinux2010_i686.musllinux_1_1_i686.whl": [
+          "0YMaNbF4cZkYuoZNgA8QyPyZZ5baVvGfYAv4WHSkPmo=",
+          "py3"
+        ],
+        "maturin-1.0.0b2-py3-none-manylinux_2_12_x86_64.manylinux2010_x86_64.musllinux_1_1_x86_64.whl": [
+          "ObSwaufkYwzorCDZh2EQEaiIvRHEtibagcnjR5g0Z5U=",
+          "py3"
+        ],
+        "maturin-1.0.0b2-py3-none-manylinux_2_17_aarch64.manylinux2014_aarch64.musllinux_1_1_aarch64.whl": [
+          "iwlSn9lPD5hABErOk/XcipzXgYJiYOLmvn/7e3pTYgM=",
+          "py3"
+        ],
+        "maturin-1.0.0b2-py3-none-manylinux_2_17_armv7l.manylinux2014_armv7l.musllinux_1_1_armv7l.whl": [
+          "U2tPMa5wp8lEVx19w64Q2Uj+FoYg+pl8PCWV1eX9MV4=",
+          "py3"
+        ],
+        "maturin-1.0.0b2-py3-none-manylinux_2_17_ppc64le.manylinux2014_ppc64le.musllinux_1_1_ppc64le.whl": [
+          "/3Zakp6V93pChkh665RMx8vxiGTO7GeY7/YJSyy2Pns=",
+          "py3"
+        ],
+        "maturin-1.0.0b2-py3-none-manylinux_2_17_s390x.manylinux2014_s390x.whl": [
+          "8PW3ZDy6bOoMk3Bq++iodvcEVrxidtw94YVKMDLY4Ps=",
+          "py3"
+        ],
+        "maturin-1.0.0b2-py3-none-win32.whl": [
+          "BJljpyXZecefFjXbXk3R4ZTQAD8q3+nc7OmiHcVyyBw=",
+          "py3"
+        ],
+        "maturin-1.0.0b2-py3-none-win_amd64.whl": [
+          "qDjqQ2JQB4Rq50vYdJCXuXmgvHVY3b/rkWx4uCGQmj8=",
+          "py3"
+        ],
+        "maturin-1.0.0b2-py3-none-win_arm64.whl": [
+          "ydGt0n13FKS1XL/suVcWMksBzCC6SWlhrttjmcFikYU=",
+          "py3"
+        ]
+      }
     }
   },
   "maxhk": {
@@ -91964,6 +92034,34 @@
         ]
       }
     },
+    "1.8.11": {
+      "sdist": [
+        "3JodF1lWLL1vkKaRYXI3ZWLCVaxI5RJ6KKzxHUgsNH0=",
+        "OctoBot-Commons-1.8.11.tar.gz"
+      ],
+      "wheels": {
+        "OctoBot_Commons-1.8.11-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "LiNPhydNEwiMx5zePGAap6EG4LpsGN3byQsRg8hjpWo=",
+          "cp38"
+        ],
+        "OctoBot_Commons-1.8.11-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "Wfmoj+OBkPSQ9TS91CN4qo66Nf0Sm6UeAL3puEEU+dA=",
+          "cp38"
+        ],
+        "OctoBot_Commons-1.8.11-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "hO6cfQI6VKnlfYnZUgQZsGg1f+kSl9040pm3odhqqd0=",
+          "cp38"
+        ],
+        "OctoBot_Commons-1.8.11-cp38-cp38-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "h7n6/56OJ6OMF1a5mfLnRVNg/Nhaw/IH1ydFVxVdbsE=",
+          "cp38"
+        ],
+        "OctoBot_Commons-1.8.11-cp38-cp38-win_amd64.whl": [
+          "s3gvl7Pu5FbUDinleV6JFQn6hVn68i9TDMtk9SQkt9M=",
+          "cp38"
+        ]
+      }
+    },
     "1.8.2": {
       "sdist": [
         "pCmQBwqpfL4iegt/X8w8mS+JVl3TNso1m+gw6XAhhvU=",
@@ -103503,6 +103601,14 @@
           "py3"
         ]
       }
+    }
+  },
+  "prestashop-python": {
+    "0.1.0": {
+      "sdist": [
+        "jmuU7MkBgWTswX/AK5xHefI/POP8T22RKt0HcZ5HYlA=",
+        "prestashop-python-0.1.0.tar.gz"
+      ]
     }
   },
   "pretix-bitpay": {
@@ -117160,6 +117266,46 @@
         ],
         "pywry-0.3.1-cp39-none-win_amd64.whl": [
           "8kdXYRVy8dCufdZhKkM4VV4Rg3q3YJeQMoCon5+OEn4=",
+          "cp39"
+        ]
+      }
+    },
+    "0.3.2": {
+      "sdist": [
+        "l8PxSVsAz1nBP6LwKgcRaTFHLP97OWekKGlDv6dapdo=",
+        "pywry-0.3.2.tar.gz"
+      ],
+      "wheels": {
+        "pywry-0.3.2-cp310-cp310-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "3xxmy+VbB82T39ccknrOGQHusKPYWvIxrafTgbm6Ur8=",
+          "cp310"
+        ],
+        "pywry-0.3.2-cp310-none-win_amd64.whl": [
+          "7SEO+zhn4eiBC3BQxPrUTJKFgXe0JV0SsJh8JA7p2MQ=",
+          "cp310"
+        ],
+        "pywry-0.3.2-cp311-cp311-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "zXN1ldiSE5wxScCkncZ6tmhCQOURmAGDGIn6iTkrnCc=",
+          "cp311"
+        ],
+        "pywry-0.3.2-cp311-none-win_amd64.whl": [
+          "S0EurFj4u4H4BNSXPy9bozE0CjLWIttBPiPKGAak4xs=",
+          "cp311"
+        ],
+        "pywry-0.3.2-cp38-cp38-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "U7GZ4FoZVsi0NUXAvW0o1JRHKHhAjYl3BCoRO4aE6YY=",
+          "cp38"
+        ],
+        "pywry-0.3.2-cp38-none-win_amd64.whl": [
+          "Dz2fBaKtcR8XGc7WvswJiQDUnmoH9JzyTBKk73JKhOQ=",
+          "cp38"
+        ],
+        "pywry-0.3.2-cp39-cp39-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "/O1bKx/6CqoW9HSkDZKBB6Zy79pJON7axoT5ksWZXEA=",
+          "cp39"
+        ],
+        "pywry-0.3.2-cp39-none-win_amd64.whl": [
+          "bwPiash/QCnAPIPtqbVnldSKKIVEklSXqvjPD8rnD5c=",
           "cp39"
         ]
       }
@@ -133898,6 +134044,20 @@
         ],
         "tabpy_client-0.2-py3-none-any.whl": [
           "NNKmXyiY9u9g1A9yREAAZaMBONpOsScjinhayxhxzt8=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "tacco": {
+    "0.2.2": {
+      "sdist": [
+        "1fZawKh0IpvFxou28aZQnH3TtaGcV6hCcJP3JqIVJRs=",
+        "tacco-0.2.2.tar.gz"
+      ],
+      "wheels": {
+        "tacco-0.2.2-py3-none-any.whl": [
+          "YcOdB0oVBf7k9ujuJIzPtmawH0yQ0nqPb+cuNQfp3cM=",
           "py3"
         ]
       }

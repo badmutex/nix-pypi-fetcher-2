@@ -37122,6 +37122,18 @@
         ]
       }
     },
+    "1.0.12.3": {
+      "sdist": [
+        "AFF27jdO7WVO4IeMipbDL7PmeubRYUJHMZjxCMa0VjU=",
+        "dbnd-airflow-versioned-dag-1.0.12.3.tar.gz"
+      ],
+      "wheels": {
+        "dbnd_airflow_versioned_dag-1.0.12.3-py2.py3-none-any.whl": [
+          "sMCpZYLzrJEbHXfKzQVWinHo3fSzoaHziYqOIUaQWP0=",
+          "py2.py3"
+        ]
+      }
+    },
     "1.0.2.1": {
       "sdist": [
         "OojggcOHc3ZW6EmWacqlX1Z5k0Q1a8/0Dg5TrQsageE=",
@@ -37816,6 +37828,18 @@
       "wheels": {
         "dbnd_datastage_monitor-1.0.12.2-py2.py3-none-any.whl": [
           "saCxiB3CVOSQfEGoCbLxCUUX0NU+DGJvddFr3LkZAwg=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.0.12.3": {
+      "sdist": [
+        "QBF8oxRqUU2v+A+7OoxDmos2gpOHnV4Eairi9v5XuC4=",
+        "dbnd-datastage-monitor-1.0.12.3.tar.gz"
+      ],
+      "wheels": {
+        "dbnd_datastage_monitor-1.0.12.3-py2.py3-none-any.whl": [
+          "Q66nFwgk2EMkwzCNq7xUvCxXcvt+FIgiL6s8Y8fmtiA=",
           "py2.py3"
         ]
       }
@@ -67280,6 +67304,14 @@
       "wheels": {
         "huaweicloudsdker-3.1.25-py2.py3-none-any.whl": [
           "nhQQgttaqkfBk3tIUHcyUk3qItuZM39D1qERAKg16qM=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.26": {
+      "wheels": {
+        "huaweicloudsdker-3.1.26-py2.py3-none-any.whl": [
+          "RkDf6ApBSwHQzRau6w4wF5oZH0amoAGLokL08hmWzj8=",
           "py2.py3"
         ]
       }
@@ -98159,6 +98191,44 @@
       }
     }
   },
+  "noxopt": {
+    "0.0.1": {
+      "sdist": [
+        "sLHXlPtVU2pxB/bJZAj6JsnQ0miSQqfp08b0ig28jr0=",
+        "noxopt-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "noxopt-0.0.1-py3-none-any.whl": [
+          "sQKDKG6bQ+cW0GdmcXsYEQmt03h1jpXikek5QOS1ub4=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "mk0DaU487bnIS9TDD9NxNH5xHG1gfbHYp6vXl6B8kAM=",
+        "noxopt-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "noxopt-0.0.2-py3-none-any.whl": [
+          "mpsh32OYoW9y7J/mo2X8kmbs/QmOUILtzZK9p+dxlUY=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "cxYmwIuk6KcPyHO589fP3/LFF3rq8xPwkk6VSp3f6xU=",
+        "noxopt-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "noxopt-0.0.3-py3-none-any.whl": [
+          "MqM1npm+kGcIIjDf5wq4b94RichY8lUyJWyqhIn28os=",
+          "py3"
+        ]
+      }
+    }
+  },
   "npgameworld": {
     "0.1.0": {
       "sdist": [
@@ -109146,6 +109216,18 @@
       "wheels": {
         "pollination_cumulative_radiation-0.3.5-py2.py3-none-any.whl": [
           "l7jv4764pRqXgZz6reH7oFiZfJknAi7vcppiw1PkwbU=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.3.6": {
+      "sdist": [
+        "MFN/r3LVLLRWfey5NEc+Y6fI+504F6DMP/+/gioqxJE=",
+        "pollination-cumulative-radiation-0.3.6.tar.gz"
+      ],
+      "wheels": {
+        "pollination_cumulative_radiation-0.3.6-py2.py3-none-any.whl": [
+          "78bmXyx5II+vNpIFQZLwxzuCONAjuQo3kwpiM2ci6wg=",
           "py2.py3"
         ]
       }
@@ -157350,6 +157432,18 @@
       "wheels": {
         "wonda-0.5.4-py3-none-any.whl": [
           "uNgdcv746cNexH/hTlJg0a9B7Byv+/iXszSXoB2fpuc=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.5": {
+      "sdist": [
+        "C8AR64LByLxb3pGZx2NnHpZjyAFXsqtX66YeCrI+tlM=",
+        "wonda-0.5.5.tar.gz"
+      ],
+      "wheels": {
+        "wonda-0.5.5-py3-none-any.whl": [
+          "wLS7R6LRpRbNtZYuufNBneIhaaUx0V/nAOAc9nojdA8=",
           "py3"
         ]
       }

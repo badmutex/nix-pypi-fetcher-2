@@ -130625,6 +130625,54 @@
           "py3"
         ]
       }
+    },
+    "0.0.6": {
+      "sdist": [
+        "ROdnLqOWsoE9ouBeL90Zs6pKjMJyiB+COMWXwIVBGrU=",
+        "survlimepy-0.0.6.tar.gz"
+      ],
+      "wheels": {
+        "survlimepy-0.0.6-py3-none-any.whl": [
+          "dwZUcwcZDV5VQnZjrySSUzo2MbHOasFqubKFGdK1YOg=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.7": {
+      "sdist": [
+        "rTpNO6G9ukzMRMn9esqdn7dSK3kuM6dtmiiHE7c0i7U=",
+        "survlimepy-0.0.7.tar.gz"
+      ],
+      "wheels": {
+        "survlimepy-0.0.7-py3-none-any.whl": [
+          "4V950Xe/pIRtKgstqpt4f17OVQM7EwfVckP0vykRoao=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.8": {
+      "sdist": [
+        "/WPyyWoa0kI0qDrGpMBxQOE+asM85kRiyJJWNKzAIzw=",
+        "survlimepy-0.0.8.tar.gz"
+      ],
+      "wheels": {
+        "survlimepy-0.0.8-py3-none-any.whl": [
+          "8RCzofVvA2uU8gwJLfs1IBHPkKC2QbRCeD+7VLPuewg=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.9": {
+      "sdist": [
+        "E0S8Kri6dOxL8cigx3zqVdzYqAyW/dkxp+e77/S6jJQ=",
+        "survlimepy-0.0.9.tar.gz"
+      ],
+      "wheels": {
+        "survlimepy-0.0.9-py3-none-any.whl": [
+          "Q5fBUSbffzgc+TTyoe1aajHFVj99/fgw0G8qyp/1Eek=",
+          "py3"
+        ]
+      }
     }
   },
   "sws": {
@@ -145933,6 +145981,20 @@
       ]
     }
   },
+  "vcs-utils": {
+    "0.0.dev0": {
+      "sdist": [
+        "BznNQW/svSMuSIlda9l5HfVbRP7xgcraUK7BRw0MlFU=",
+        "vcs_utils-0.0.dev0.tar.gz"
+      ],
+      "wheels": {
+        "vcs_utils-0.0.dev0-py3-none-any.whl": [
+          "3T3bEmOtZ87dV0SX5rneagXUPWPgfr6yDLhZ/ZOp2JE=",
+          "py3"
+        ]
+      }
+    }
+  },
   "vdq": {
     "0.0.0": {
       "sdist": [
@@ -147672,6 +147734,50 @@
         ],
         "viktor-13.7.2-cp39-cp39-win_amd64.whl": [
           "r0BX64vmPhlBaYhtYIvEGQeL6AyStcJSJsXjNGE81zI=",
+          "cp39"
+        ]
+      }
+    },
+    "13.8.0": {
+      "wheels": {
+        "viktor-13.8.0-cp310-cp310-manylinux2014_x86_64.whl": [
+          "z5Diw6pKxgL1yg2UGX8u33MdpwrRhNrZeJygGUC3zyI=",
+          "cp310"
+        ],
+        "viktor-13.8.0-cp310-cp310-win_amd64.whl": [
+          "aECUK1RnElDPnS7yvH4buqQNVW7Y0IZ/+XebDp81XoM=",
+          "cp310"
+        ],
+        "viktor-13.8.0-cp311-cp311-manylinux2014_x86_64.whl": [
+          "2FrOdKHY0/0cyLBc5l3wPRp72uN8TdkG9qXqJPoXdwQ=",
+          "cp311"
+        ],
+        "viktor-13.8.0-cp311-cp311-win_amd64.whl": [
+          "DBaEonNYVXHLpzCwKXL/dXieDPWMUgatq8varxBS22U=",
+          "cp311"
+        ],
+        "viktor-13.8.0-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "GXLlvP2uTe+9wnMsZ/in/RAvTDRnWCnQ0QHtTABBSPE=",
+          "cp37"
+        ],
+        "viktor-13.8.0-cp37-cp37m-win_amd64.whl": [
+          "tNFa0557sfriEd6zfYjyGbyBS70oI87+a2SX8meomRg=",
+          "cp37"
+        ],
+        "viktor-13.8.0-cp38-cp38-manylinux2014_x86_64.whl": [
+          "my9k/Zfq8nZGGuIKzY0he012463ZOIeE51okoOuaDJ8=",
+          "cp38"
+        ],
+        "viktor-13.8.0-cp38-cp38-win_amd64.whl": [
+          "Ic9pffC6BwI44fSHHMdHwmOVRQsCnLV/NouDM3DyWOk=",
+          "cp38"
+        ],
+        "viktor-13.8.0-cp39-cp39-manylinux2014_x86_64.whl": [
+          "YPaRnhHtQwwdK70drQBbaGeBbTxrdrPgwpB0O7QgcVc=",
+          "cp39"
+        ],
+        "viktor-13.8.0-cp39-cp39-win_amd64.whl": [
+          "8CUZVWDR6EizopjZK0A5ofHa3Mb91I/FpcmwjQ+BgRs=",
           "cp39"
         ]
       }

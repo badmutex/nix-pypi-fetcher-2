@@ -27604,6 +27604,18 @@
         ]
       }
     },
+    "1.0.7": {
+      "sdist": [
+        "6ulJrwkxyKEyQBzsBDczK7zodElHaXgscOUm+xBTWSE=",
+        "django-oasis4-auth-1.0.7.tar.gz"
+      ],
+      "wheels": {
+        "django_oasis4_auth-1.0.7-py3-none-any.whl": [
+          "GcnY8FRofHLL9sLqeYW9MjteNt0aufpH2QSc6o8WJCk=",
+          "py3"
+        ]
+      }
+    },
     "1.0.7b1": {
       "sdist": [
         "Wyvjh7V8Ozv9hOiRcJF0yRMNNCcivOKhLJis7Mj7KBY=",
@@ -46795,6 +46807,20 @@
       }
     }
   },
+  "func-args": {
+    "0.1.1": {
+      "sdist": [
+        "SBUkiBFQXGu3X7wDBZRIMjpLflj6b6F7UlwdrnWnVls=",
+        "func_args-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "func_args-0.1.1-py2.py3-none-any.whl": [
+          "hkD/7griDa+ndb0BLO2LIINSAL2w5YR7nvAErL9VOZM=",
+          "py2.py3"
+        ]
+      }
+    }
+  },
   "function-cache": {
     "0.1": {
       "sdist": [
@@ -52759,6 +52785,14 @@
           "py2.py3"
         ]
       }
+    },
+    "3.1.26": {
+      "wheels": {
+        "huaweicloudsdksecmaster-3.1.26-py2.py3-none-any.whl": [
+          "uQmdqTuy1d4l0Gee+NZSRtDpD+hnFHjVj4ZSxS+hlIQ=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "huaweicloudsdksfsturbo": {
@@ -53222,6 +53256,14 @@
       "wheels": {
         "huaweicloudsdksfsturbo-3.1.25-py2.py3-none-any.whl": [
           "ltrJKM8k9pYGzb0vHmoVIB0y3VYkwr/nNrcf+hfvYvA=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.26": {
+      "wheels": {
+        "huaweicloudsdksfsturbo-3.1.26-py2.py3-none-any.whl": [
+          "E1Z0+chBzPPZQNVqcdm1wewV4LsT/p7mr4jNwi/MI1o=",
           "py2.py3"
         ]
       }
@@ -73486,6 +73528,18 @@
         ]
       }
     },
+    "25.2023.700": {
+      "sdist": [
+        "p2noQ0kpyxhi3TN9A9GnICRBJb/pOjFoHFzEHdfB3FM=",
+        "lsst-ctrl-mpexec-25.2023.700.tar.gz"
+      ],
+      "wheels": {
+        "lsst_ctrl_mpexec-25.2023.700-py3-none-any.whl": [
+          "Exu/izS7EsEuBXNaJngnb+cip24hS3jZ12uVhhk0WC4=",
+          "py3"
+        ]
+      }
+    },
     "26.0.0a20230100": {
       "sdist": [
         "w/M39S6Gxdf/8zRLNOR7oGzFTNyaY9/FUfzuMvSyfgU=",
@@ -85799,6 +85853,20 @@
         "AyDmqnMZ3Y30kVXTzvJoiD44NGokxFCeq5XLtbGBoco=",
         "OAIPMHScraper-0.4.1.tar.gz"
       ]
+    }
+  },
+  "object-detection-by-ovi": {
+    "0.0.1": {
+      "sdist": [
+        "FrOUBBzPWxvBpUPNv7LH3AsECltIOpnymA3aCKcK33E=",
+        "object-detection-by-ovi-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "object_detection_by_ovi-0.0.1-py3-none-any.whl": [
+          "0iS7YwG87sTPMDyypkv62ykJ+ryFZnaHo/enDSgdp3o=",
+          "py3"
+        ]
+      }
     }
   },
   "ochs": {
@@ -104416,10 +104484,10 @@
     }
   },
   "pyclk": {
-    "0.0.73": {
+    "0.0.86": {
       "sdist": [
-        "n5ZPqXJkOZVx/RkIi96GFDw6FykfbBGE0rgdESnWJxM=",
-        "pyclk-0.0.73.tar.gz"
+        "SgmFhHoSflWb7VuBwRqXz+TXTOG+Eo95BTBRflz97Kg=",
+        "pyclk-0.0.86.tar.gz"
       ]
     }
   },
@@ -114358,6 +114426,18 @@
       "wheels": {
         "redfish_service_validator-2.2.6-py3-none-any.whl": [
           "aD0stlfrEBIBICeggnnkY408Nuv/uZNReX8mVgT68ps=",
+          "py3"
+        ]
+      }
+    },
+    "2.2.7": {
+      "sdist": [
+        "IpFaJYyb0aLUoZm7QCPKoJBikhvDuVlzexQnPAfJK74=",
+        "redfish_service_validator-2.2.7.tar.gz"
+      ],
+      "wheels": {
+        "redfish_service_validator-2.2.7-py3-none-any.whl": [
+          "AaY/c+jyuyXFfU1yDjtQg+Lq6AE4fHWIWCd7/N02OvE=",
           "py3"
         ]
       }
@@ -147890,14 +147970,14 @@
     }
   },
   "zhang-py-ios-device": {
-    "1.0": {
+    "2.0": {
       "sdist": [
-        "skcGzrcv6AI3Rc50ICfUwODWWNdkJQD3TFqf4uVYywk=",
-        "zhang_py_ios_device-1.0.tar.gz"
+        "NiJkslvxI7ik/cQxirQmMlzxHPanQ6ZFivNp2+/9ZSg=",
+        "zhang_py_ios_device-2.0.tar.gz"
       ],
       "wheels": {
-        "zhang_py_ios_device-1.0-py3-none-any.whl": [
-          "B53fgwB3EkhMkHrKogRocekHO5dBW2stcSecSZGcUg8=",
+        "zhang_py_ios_device-2.0-py3-none-any.whl": [
+          "17G03xdF1RYrb5Zz7fZHljYtrYDljcrWS+uqcfO5/6g=",
           "py3"
         ]
       }

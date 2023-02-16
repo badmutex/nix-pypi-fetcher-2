@@ -15904,6 +15904,18 @@
         ]
       }
     },
+    "2.65.0a0": {
+      "sdist": [
+        "S4p7ETaqK5psquCuspmrd8Qp0yMkOxVQVT0AD504ZMM=",
+        "aws-cdk.aws-servicecatalogappregistry-alpha-2.65.0a0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_servicecatalogappregistry_alpha-2.65.0a0-py3-none-any.whl": [
+          "ZPzB/l4Di1mW43BUukGRqbwRy7H9G02LCMNmuxZI6nw=",
+          "py3"
+        ]
+      }
+    },
     "2.7.0a0": {
       "sdist": [
         "JifaE8SGs7+kPHxkoVYhjYHPPUOLPNFEe6kNIshkMqo=",
@@ -40517,6 +40529,14 @@
           "py3"
         ]
       }
+    },
+    "1.0.1b2023021600": {
+      "wheels": {
+        "e2eAIOK_denas-1.0.1b2023021600-py3-none-any.whl": [
+          "ZXCRTiCYh4jPeuXUkbnndrfJicrazJRhEgPE9DIUYo8=",
+          "py3"
+        ]
+      }
     }
   },
   "easy-graphql-server": {
@@ -50498,6 +50518,18 @@
       "wheels": {
         "geistt_lab_rti_client-1.8.9-py3-none-any.whl": [
           "EkkPWc1hN6hrKBRvEwBhls175GN4wMDDZ+ft5iGyRxM=",
+          "py3"
+        ]
+      }
+    },
+    "1.9.0": {
+      "sdist": [
+        "5fvoKWYmefrObD6ebTuKqJ+1IS/ELTEqtN5WXL51Tyg=",
+        "geistt-lab-rti-client-1.9.0.tar.gz"
+      ],
+      "wheels": {
+        "geistt_lab_rti_client-1.9.0-py3-none-any.whl": [
+          "QQXD3md4NMNUPxwsx3LMb1BVBAhjvLObF9TGoIR02hc=",
           "py3"
         ]
       }
@@ -72903,6 +72935,30 @@
           "py3"
         ]
       }
+    },
+    "3.0.1": {
+      "sdist": [
+        "Ras+5mRLTGUH8+P438WTZEz4fiZP6yzeFHn4skuVNQ4=",
+        "minineedle-3.0.1.tar.gz"
+      ],
+      "wheels": {
+        "minineedle-3.0.1-py3-none-any.whl": [
+          "Ffdo0Dfw5hka503cvzjFhPdLufoZaHhaWw01N0F1uRU=",
+          "py3"
+        ]
+      }
+    },
+    "3.0.2": {
+      "sdist": [
+        "1i3C/NRPY/2O/iKLsGbxuez++3/+QjBuYxgaTzqo0KI=",
+        "minineedle-3.0.2.tar.gz"
+      ],
+      "wheels": {
+        "minineedle-3.0.2-py3-none-any.whl": [
+          "0tX4u2WoVS3vVvub/s9WhxZ88ZQuxwEThe8N6lq7kx8=",
+          "py3"
+        ]
+      }
     }
   },
   "minty-infra-elastic": {
@@ -90077,6 +90133,42 @@
         "paddle_bfloat-0.1.7-cp310-cp310-win_amd64.whl": [
           "4WoSI3l2NhuoiepgUGeDTx01uzIvEE1EDmhFqTJGyPc=",
           "cp310"
+        ],
+        "paddle_bfloat-0.1.7-cp311-cp311-macosx_10_9_universal2.whl": [
+          "eXEPXWiF46rylrLXYlcw1RM0AT2qdGtywBpUu+j54nY=",
+          "cp311"
+        ],
+        "paddle_bfloat-0.1.7-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "wdHNzldI3KreFw5dBljZGBhyi7OjlN8OQG9UKGXDUbQ=",
+          "cp311"
+        ],
+        "paddle_bfloat-0.1.7-cp311-cp311-macosx_11_0_arm64.whl": [
+          "F6KlGKrYDMFOdx+4xbv1B3LCzo+nDxlRiq6CzBRSV0M=",
+          "cp311"
+        ],
+        "paddle_bfloat-0.1.7-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "6IVD8DjTMHqD+yZPXP16Do9QQzJbOPxSEbHXVAJbQp8=",
+          "cp311"
+        ],
+        "paddle_bfloat-0.1.7-cp311-cp311-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "i9e4xr7BQfVum87zv90tSLqfQO9C4VnOsj04MYdDobY=",
+          "cp311"
+        ],
+        "paddle_bfloat-0.1.7-cp311-cp311-musllinux_1_1_i686.whl": [
+          "muSskqSlegQ2GKUMhQQLOmpXQJaPLFF6Yi7uIdxEkqA=",
+          "cp311"
+        ],
+        "paddle_bfloat-0.1.7-cp311-cp311-musllinux_1_1_x86_64.whl": [
+          "B92ea+vj7Kfsfz7+5x+HEa+min/oRHUwZizkYkmdps4=",
+          "cp311"
+        ],
+        "paddle_bfloat-0.1.7-cp311-cp311-win32.whl": [
+          "ykvzCuWo0MFRgO4AJrkx0HJUZVkFFRvMe0hPkdhYu4M=",
+          "cp311"
+        ],
+        "paddle_bfloat-0.1.7-cp311-cp311-win_amd64.whl": [
+          "M2yBy7QJulFJaW8HqaN6dpoKSBpWdkBy8sOwCh6h6m8=",
+          "cp311"
         ],
         "paddle_bfloat-0.1.7-cp36-cp36m-macosx_10_9_x86_64.whl": [
           "5ztSz1u691zpNxWATIcf6Imz4xBK2FPEyf5s3mBPn7U=",

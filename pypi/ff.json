@@ -11778,6 +11778,18 @@
         ]
       }
     },
+    "1.193.0": {
+      "sdist": [
+        "QRBEpyFIYKtuv3s6QfJ3kCgyC5sw64lOv8lS6dxR2+A=",
+        "aws-cdk.aws-kinesis-1.193.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_kinesis-1.193.0-py3-none-any.whl": [
+          "ceV+mebdH5JxXmx/1ldj/oQGHYz8PTQ+KCK9Qy5hCa0=",
+          "py3"
+        ]
+      }
+    },
     "1.2.0": {
       "sdist": [
         "mL8YMiL4SZbp1e1G4T+3mmb7rnjE4v+L8bt4yj9gDVA=",
@@ -16102,6 +16114,18 @@
       "wheels": {
         "botocore_a_la_carte_dlm-1.29.71-py3-none-any.whl": [
           "Qg1nxXaBSxrmBRQ24s4obqlAQaRxNlOKtDdydVVx9zQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.72": {
+      "sdist": [
+        "UKWz+od8NeHsdB2+cn2L0pK/Vbuj5QQ5MIxSaxrWK2c=",
+        "botocore-a-la-carte-dlm-1.29.72.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_dlm-1.29.72-py3-none-any.whl": [
+          "bPNk32gksai9Hg8fsZVQJdIu4LcJyiSVA2IA17bqsfk=",
           "py3"
         ]
       }
@@ -37056,6 +37080,30 @@
         ]
       }
     },
+    "0.2.17": {
+      "sdist": [
+        "Srtmi583BB1h4NwoQzUjPtyCl91jsblWS2KLCAJGa/A=",
+        "deephaven_ib-0.2.17.tar.gz"
+      ],
+      "wheels": {
+        "deephaven_ib-0.2.17-py3-none-any.whl": [
+          "eRvXype6Hoi0W2+spUHNaDQ69uynfyDLgOInvJRIFpc=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.18": {
+      "sdist": [
+        "1humdlfdb09RWwjv1ZhuNTgan6Gyk9lLGFEHlyvgD6E=",
+        "deephaven_ib-0.2.18.tar.gz"
+      ],
+      "wheels": {
+        "deephaven_ib-0.2.18-py3-none-any.whl": [
+          "AJlkonGmc28S8029+Jc7RxBSjMHx912HPTGCVWIXnyk=",
+          "py3"
+        ]
+      }
+    },
     "0.2.9": {
       "sdist": [
         "8rvsZQHZvLeXbAc0EqC9Ce2Ri6KNOvgrIi+LHOQSxIQ=",
@@ -52326,6 +52374,12 @@
       "sdist": [
         "HxA7AL6Jv+vx1BXE6a8ogIeIqnp77QfwA3CpWzlIgD4=",
         "Finance-Jindowin-1.1.0.tar.gz"
+      ]
+    },
+    "1.1.1": {
+      "sdist": [
+        "BSt5KCd0tv02bEMLze5xHOokTKXzz6KZ/8U9+vPD8sc=",
+        "Finance-Jindowin-1.1.1.tar.gz"
       ]
     }
   },
@@ -144303,6 +144357,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.831": {
+      "sdist": [
+        "wHmSDN4ZPsRaJKP6D9ghhD4DaAVAA/GUOnjdEf9Q9Tk=",
+        "tencentcloud-sdk-python-ckafka-3.0.831.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_ckafka-3.0.831-py2.py3-none-any.whl": [
+          "ZyNIfAJMNYqtJOZ10x4RE0mbq3QN50iQjyxaAnBw2Ag=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tensorflow-datavalidation": {
@@ -149024,6 +149090,78 @@
         ]
       }
     },
+    "0.3.10": {
+      "sdist": [
+        "F/GcJVYjc6XAVOaNY+sqjxhvkKBMM+gv2JJwqNtUUMI=",
+        "uintel-0.3.10.tar.gz"
+      ],
+      "wheels": {
+        "uintel-0.3.10-py3-none-any.whl": [
+          "1lNtPW7qGnjxdGrYugRw7zOH62I7/5RPzjLnVzTWIy8=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.11": {
+      "sdist": [
+        "K20gEiqNiVStsMKe4wyMfBP+xqb0nIh3CkvFq/ppeEU=",
+        "uintel-0.3.11.tar.gz"
+      ],
+      "wheels": {
+        "uintel-0.3.11-py3-none-any.whl": [
+          "O1a6gF01CcpUIK3XG9CLaC1sYOR0y87yeeM1AEgM62w=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.12": {
+      "sdist": [
+        "B2pqS7UEox7/5y8KAsQD71gLpd/zFH7Ty8r/9hBNrqM=",
+        "uintel-0.3.12.tar.gz"
+      ],
+      "wheels": {
+        "uintel-0.3.12-py3-none-any.whl": [
+          "njbc1Z/6FdV6AL6eyCpk/eLmX4jHA87razF1Iff9DL4=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.13": {
+      "sdist": [
+        "WAaZdjq2SMYRYO4uvK1zeZAua1/Y4YUOn5TD7pZUS3g=",
+        "uintel-0.3.13.tar.gz"
+      ],
+      "wheels": {
+        "uintel-0.3.13-py3-none-any.whl": [
+          "Hk9+Oj1mABeLv7+kFTat7KFxtIZcklw/Ljep4h0Tgr4=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.14": {
+      "sdist": [
+        "liXBFuGGSad+eTOK2G99qYxJ1HDk1lABOau7kKWIMpE=",
+        "uintel-0.3.14.tar.gz"
+      ],
+      "wheels": {
+        "uintel-0.3.14-py3-none-any.whl": [
+          "Xh+HGCKH3gOJ0R3TTDMqh3543GU8v5zAKxddvHj6lWg=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.15": {
+      "sdist": [
+        "sbnvmZbt+u2asCvlyjoDqTD9n+QZEuGZdKq58jncowU=",
+        "uintel-0.3.15.tar.gz"
+      ],
+      "wheels": {
+        "uintel-0.3.15-py3-none-any.whl": [
+          "AgQgtTHr5j7HW+kxRY5wIbCQrQm9qIn+fFewXlgkxww=",
+          "py3"
+        ]
+      }
+    },
     "0.3.2": {
       "sdist": [
         "RFnkvguqAbSss0z4zV7P5HaAMvkd64B+0ES+wYCStXk=",
@@ -149080,6 +149218,42 @@
       "wheels": {
         "uintel-0.3.6-py3-none-any.whl": [
           "FxsTH0PN83KefpstHBhSYV0XhD/T5FtAx+cGlw38TJs=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.7": {
+      "sdist": [
+        "/XppI4xQtDqGB2ZlhZ4AxVPuuZkg3IHqkW8EaruXKXw=",
+        "uintel-0.3.7.tar.gz"
+      ],
+      "wheels": {
+        "uintel-0.3.7-py3-none-any.whl": [
+          "bdzvbbvJl6gaHpWj+eSbAZaxkDO5ktqbT/WKusp49Tw=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.8": {
+      "sdist": [
+        "FSfceVYs0YIiVnSUieeoo9fbkb2TN+A5rsPLznjSx+8=",
+        "uintel-0.3.8.tar.gz"
+      ],
+      "wheels": {
+        "uintel-0.3.8-py3-none-any.whl": [
+          "zccss1Uv+0aqP5KLysZ0j1Sx9QXJSgy/nlGrKB8bQM0=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.9": {
+      "sdist": [
+        "BpbI47jmqF5fcO6ZaujJdyMTuuxJAMCcgMvshPvbhgY=",
+        "uintel-0.3.9.tar.gz"
+      ],
+      "wheels": {
+        "uintel-0.3.9-py3-none-any.whl": [
+          "oAEYz2ZhN2Dm7s1sSCM8JIDxlLA0woOT0PkA9I7mL8g=",
           "py3"
         ]
       }
@@ -158295,6 +158469,32 @@
         "eRot6ISAQVlhm62APo4a5697GLvTNIXvGynq+jyP3IY=",
         "yosaipy2-0.3.5.tar.gz"
       ]
+    }
+  },
+  "yudown": {
+    "0.1.0": {
+      "sdist": [
+        "ogP4ryr6bTqoMDqFIwtkP2gkUMI5b3c317fpkpu4tC4=",
+        "yudown-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "yudown-0.1.0-py3-none-any.whl": [
+          "fSsQXb7+wNv/GsA06zQdtixzGlkoLzn5aX/dVMuiXYs=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.0": {
+      "sdist": [
+        "RlkUm44xjgnE65UC5Ys9z32JUcnqFTHlpoKFbGQjaBI=",
+        "yudown-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "yudown-0.2.0-py3-none-any.whl": [
+          "9mZDxlkQh3ODcniW5rkQamKmwu+vf/YH6TuLbpUqk+g=",
+          "py3"
+        ]
+      }
     }
   },
   "yun-yuansheng-jiagou-baipishu-ga-v20-7-21": {

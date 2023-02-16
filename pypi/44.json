@@ -8750,6 +8750,18 @@
         ]
       }
     },
+    "1.193.0": {
+      "sdist": [
+        "f4vNL+nexuP7LBf8d2vOod4fb1P1edt1LYVxOxDoD9o=",
+        "aws-cdk.aws-ce-1.193.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_ce-1.193.0-py3-none-any.whl": [
+          "HTVlRHQoXjvHVucgMwP/WLRQgDHeoyutA7Bd1cAJebo=",
+          "py3"
+        ]
+      }
+    },
     "1.36.1": {
       "sdist": [
         "/mSjT9CLHoSTSpJ7v14G4C3BXJWcfJLoyRzdN6Aw+8o=",
@@ -10824,6 +10836,18 @@
       "wheels": {
         "aws_cdk.aws_kinesisanalytics_flink_alpha-2.64.0a0-py3-none-any.whl": [
           "I3i3kxIOI4QxYgo8Oz4XomeZ8GPW9tVszZQ4t5KA3CA=",
+          "py3"
+        ]
+      }
+    },
+    "2.65.0a0": {
+      "sdist": [
+        "IEr43nyNTgyWHjOpU4YA48iyD7+XZGbBmuBV0RGjW3w=",
+        "aws-cdk.aws-kinesisanalytics-flink-alpha-2.65.0a0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_kinesisanalytics_flink_alpha-2.65.0a0-py3-none-any.whl": [
+          "xQ09h4WCvdf4RZsSpGHzC+/HrWLTWb8zxC4uyeH3bx0=",
           "py3"
         ]
       }
@@ -17143,6 +17167,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.72": {
+      "sdist": [
+        "xBCgbnfqn/nfSJGxPd9eTztBOD/c7mqC0qeH17Y5z0o=",
+        "botocore-a-la-carte-iotthingsgraph-1.29.72.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_iotthingsgraph-1.29.72-py3-none-any.whl": [
+          "6LtFGWZZ92AcE5merYrurM1W5GgBjMXyBwubMACttHw=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-xray": {
@@ -17502,6 +17538,18 @@
       "wheels": {
         "botocore_a_la_carte_xray-1.29.71-py3-none-any.whl": [
           "DsKVUaXobu7MU6OdgR9yUe/k/TKElqv6IPZz8C7qB0U=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.72": {
+      "sdist": [
+        "E0gTUpnb+x7OZLrtRA/lLort0nZ3gImc927zkWbv8tk=",
+        "botocore-a-la-carte-xray-1.29.72.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_xray-1.29.72-py3-none-any.whl": [
+          "S7cWTxhidCjP5hqXbgqw3GYrgOReJACFvIqaH9IlKMs=",
           "py3"
         ]
       }
@@ -28738,6 +28786,20 @@
       "wheels": {
         "cfripper-1.9.0-py3-none-any.whl": [
           "0Mu7QS8i1ZHtF934uMxZFsipWTWILHg5LK922zLNZuw=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "cgekit": {
+    "0.1.0": {
+      "sdist": [
+        "wdhFC0Wb3ITnnpxCxtgoOID46COrULT7E5r/0crYV4Q=",
+        "cgekit-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "cgekit-0.1.0-py3-none-any.whl": [
+          "JWxXJw6Hl4Uq1NOq9GrK/DqYQ/n5lpCBiwqNi6SRRmQ=",
           "py3"
         ]
       }
@@ -98237,6 +98299,18 @@
           "py3"
         ]
       }
+    },
+    "1.3.7": {
+      "sdist": [
+        "jTsw7DMo6R6IehScMsKJEUZ45A0oIzGZpq/zU8lIYUE=",
+        "pftools-1.3.7.tar.gz"
+      ],
+      "wheels": {
+        "pftools-1.3.7-py3-none-any.whl": [
+          "sjnm2dRH1dMVqL/TM1Bcl5Zn+O1e/XjyNgzUxhJNzYM=",
+          "py3"
+        ]
+      }
     }
   },
   "pg-replicate-elastic": {
@@ -98682,6 +98756,12 @@
       "sdist": [
         "A0elYf1AcjqjA5spG5LsjhMuSc4Zri2d203TvG7/L5w=",
         "PhyREC-0.6.1.tar.gz"
+      ]
+    },
+    "0.6.2": {
+      "sdist": [
+        "TgCqe8ASq7GkHH9DYpJWyU++0NKsVDFiGfqvCnPrwrc=",
+        "PhyREC-0.6.2.tar.gz"
       ]
     }
   },
@@ -118558,6 +118638,32 @@
       "wheels": {
         "reactnative_miji_jifan-2023.2.11.0-py3-none-any.whl": [
           "nazjxapW2dFBaPbwRKZr5Sv+fRRmPXztkUgdrCrl3AM=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "read-env-keys": {
+    "0.0.1": {
+      "sdist": [
+        "JFGJ6YQ1xmhVWLZDchW7vZOpjCbNWVcr61nqeZ6UF0c=",
+        "read_env_keys-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "read_env_keys-0.0.1-py3-none-any.whl": [
+          "4YUtU10P2rdimgZ/eZUKiTXSZNu0sqZHO/1mHQCBGoo=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "qAPOxNvcyb+FJuMEFH0a5jG5jxgjx6555fYwx6qiEXE=",
+        "read_env_keys-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "read_env_keys-0.0.2-py3-none-any.whl": [
+          "+GZ0QRQLc2j1nIG6Ms3V6K/jT19GN4UTySJ/p57y1K8=",
           "py3"
         ]
       }
@@ -139114,6 +139220,18 @@
       "wheels": {
         "tencentcloud_sdk_python_mna-3.0.830-py2.py3-none-any.whl": [
           "c1fAwxeB/twzLu5KQNuVG6uadjYXvQGOyJS3bir/6tE=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.831": {
+      "sdist": [
+        "k2jL4XzPhbN9e24iPIwTaaLX5AaBoZmfhngEj0jAda8=",
+        "tencentcloud-sdk-python-mna-3.0.831.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_mna-3.0.831-py2.py3-none-any.whl": [
+          "wbKeN2+0UwzgIi65SGolLQ+G48sVC1f9rQm/sbJ7HWY=",
           "py2.py3"
         ]
       }

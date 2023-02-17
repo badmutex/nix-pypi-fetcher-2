@@ -1674,6 +1674,18 @@
         ]
       }
     },
+    "0.11.1.dev2": {
+      "sdist": [
+        "HkRvhyV3zoZagb6kWNWg3OGqtCJfUwG5MVomiSndB+c=",
+        "aioqzone-0.11.1.dev2.tar.gz"
+      ],
+      "wheels": {
+        "aioqzone-0.11.1.dev2-py3-none-any.whl": [
+          "OccBdb0JTI5qnhQxuuQvxnTFtsZNGT1b6JkUmqus92s=",
+          "py3"
+        ]
+      }
+    },
     "0.5.1a1": {
       "sdist": [
         "yWvcf02Kh/ulxA/2dOmVrWKxgqKPn3fpqLz4hkih3us=",
@@ -49228,6 +49240,74 @@
         ],
         "grizli-1.7.8-cp39-cp39-musllinux_1_1_x86_64.whl": [
           "8lxlKf0wsS44TlNiHwtbSmwS7S9L8XbYLvkpGS4odZA=",
+          "cp39"
+        ]
+      }
+    },
+    "1.7.9": {
+      "sdist": [
+        "7RYIyApG9DkRuRREWTFHZakaZTeapJsgX+ArqxdkelI=",
+        "grizli-1.7.9.tar.gz"
+      ],
+      "wheels": {
+        "grizli-1.7.9-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "9t5X8CYCAFRJFNzDBx9yN6pFdHLv4F8nfNaxlS8LmTE=",
+          "cp310"
+        ],
+        "grizli-1.7.9-cp310-cp310-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "C4DlNCshihYF1TYEoRziVFzaIVLrwt/N6lo3yHMqEY0=",
+          "cp310"
+        ],
+        "grizli-1.7.9-cp310-cp310-musllinux_1_1_x86_64.whl": [
+          "2T8YufJDbgUZPCZdYY1UbROLJEERcLD+TPe7gklM2c4=",
+          "cp310"
+        ],
+        "grizli-1.7.9-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "ghGZh0VOaXqCJDZKGVrdxL/dXzmPlT6TTjvV1/TuFMg=",
+          "cp311"
+        ],
+        "grizli-1.7.9-cp311-cp311-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "kxnuFMkP4+FdIQM3lHxpSbXTGm2OlvtU3FEEHEWX4+E=",
+          "cp311"
+        ],
+        "grizli-1.7.9-cp311-cp311-musllinux_1_1_x86_64.whl": [
+          "Gf7a2/3xgBrcQmZvMZAf5/bDWYDUHu558QDSp/hv2aw=",
+          "cp311"
+        ],
+        "grizli-1.7.9-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "LtmB3806umw5ADA76eScSkbSbIa9K7bknumEy/gHSwU=",
+          "cp37"
+        ],
+        "grizli-1.7.9-cp37-cp37m-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "T5bZjJrPqxlowRNp+qbkKWkVHjnb1O/vkuLkktQCcx0=",
+          "cp37"
+        ],
+        "grizli-1.7.9-cp37-cp37m-musllinux_1_1_x86_64.whl": [
+          "5tEw3I0DrzghFAph6Ozb2883uS7AZnV8qmSWG+x/xhQ=",
+          "cp37"
+        ],
+        "grizli-1.7.9-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "6Ym4pgMaDtsebjAY0TZDSZeTuE0+ZZE1vvqYPGEkR9A=",
+          "cp38"
+        ],
+        "grizli-1.7.9-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "xAuYo1RR+3D/VO+OpXiSXS2d1BNj/d0P+UiuRfVJ4fY=",
+          "cp38"
+        ],
+        "grizli-1.7.9-cp38-cp38-musllinux_1_1_x86_64.whl": [
+          "qDO+SbZRWTGTN9am4WU1RHVHjQV3u/CGjXyiBCcM4iI=",
+          "cp38"
+        ],
+        "grizli-1.7.9-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "nWwQgTC0RNyqbnmF1z000A9QLUSorNXDi8I5GuOuNhg=",
+          "cp39"
+        ],
+        "grizli-1.7.9-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "EfmcRsjIIao0JBGCywU/UfH+XmFijx12qK2Mim7mhPk=",
+          "cp39"
+        ],
+        "grizli-1.7.9-cp39-cp39-musllinux_1_1_x86_64.whl": [
+          "J0eWb+HNtbUOLtqz3D/MidPFhrAtkZdrxoG74trmRJM=",
           "cp39"
         ]
       }

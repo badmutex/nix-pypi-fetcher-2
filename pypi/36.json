@@ -21059,6 +21059,12 @@
         "f9N2lFZzW74hWluGz3HerHDVcW++ARcx0Efsh8KW6JE=",
         "ComputationalGraphPrimer-1.1.2.tar.gz"
       ]
+    },
+    "1.1.3": {
+      "sdist": [
+        "N0Gvx8a3MNliObWN6iV58fr5rYeMRurO0sdxkH/iV28=",
+        "ComputationalGraphPrimer-1.1.3.tar.gz"
+      ]
     }
   },
   "compysition": {
@@ -40727,6 +40733,18 @@
           "py3"
         ]
       }
+    },
+    "0.4.0": {
+      "sdist": [
+        "pZMVTxWyAzbzmuGyxLugUtEcxxlYVlI24SedlD4hto0=",
+        "dm_pix-0.4.0.tar.gz"
+      ],
+      "wheels": {
+        "dm_pix-0.4.0-py3-none-any.whl": [
+          "IgKTWHxQrDoXH5XeRtWMn8sJIS/+qV6209j4/Otp7E4=",
+          "py3"
+        ]
+      }
     }
   },
   "dm2022exp-hzau": {
@@ -47704,6 +47722,18 @@
       "wheels": {
         "fastapi_amis_admin-0.4.2-py3-none-any.whl": [
           "dDQPuxFs6Ysxz34w1NDnTQbjRqm7xGF8Ii1KBFM3GqQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.3": {
+      "sdist": [
+        "kUuCq7ZT0f2jGLWUUe2I2XQMzh1ZFcwFwGsdj+6Y2dE=",
+        "fastapi_amis_admin-0.4.3.tar.gz"
+      ],
+      "wheels": {
+        "fastapi_amis_admin-0.4.3-py3-none-any.whl": [
+          "DyRAILt5lxJTBUkIJnx/Web+Ps3+c9mf7PnQ6ZzCvlI=",
           "py3"
         ]
       }
@@ -95109,6 +95139,16 @@
       }
     }
   },
+  "odoo-addon-stock-barcodes-gs1": {
+    "15.0.1.0.0.2": {
+      "wheels": {
+        "odoo_addon_stock_barcodes_gs1-15.0.1.0.0.2-py3-none-any.whl": [
+          "F/QqmhKx/WgctP2AHZG1bkb1Hi456J+BUKp//HRg3hc=",
+          "py3"
+        ]
+      }
+    }
+  },
   "odoo-addon-stock-helper": {
     "15.0.1.0.0.2": {
       "wheels": {
@@ -97644,6 +97684,14 @@
       "wheels": {
         "odoo13_addon_l10n_es_aeat-13.0.3.4.1.dev1-py3-none-any.whl": [
           "jO4YvJssQpd/YC2B8uFxWJUaKmFp3ma8pRqpGVMNqY0=",
+          "py3"
+        ]
+      }
+    },
+    "13.0.4.0.0": {
+      "wheels": {
+        "odoo13_addon_l10n_es_aeat-13.0.4.0.0-py3-none-any.whl": [
+          "NesaZY0PjyU+LUo1oyPV4fVQgV1NiDyGo5/JIdE0dtE=",
           "py3"
         ]
       }
@@ -103734,11 +103782,13 @@
     }
   },
   "pec": {
-    "0.2.1": {
-      "sdist": [
-        "FhVuF4M4bRGuRtW/aRsgt769EQSkzlmxSdLDy6sBQro=",
-        "pec-0.2.1.tar.gz"
-      ]
+    "0.3.0": {
+      "wheels": {
+        "pec-0.3.0-py3-none-any.whl": [
+          "j3IjIHYqMCBpVeJXk2L1FiUCHcdIXMG3B9Sp/zjgD+Q=",
+          "py3"
+        ]
+      }
     }
   },
   "peek-office-service": {
@@ -105876,6 +105926,18 @@
       "wheels": {
         "pepperize.cdk_ssm_parameters_cross_region-0.0.234-py3-none-any.whl": [
           "pMKTGgYxLLdEQTC1pLVHeA3q+/NSCrPCGH3PCYNtM0Q=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.235": {
+      "sdist": [
+        "LM4Re993qtqILzdpTIiu3cAf9A45xMbbCUywxNtoJew=",
+        "pepperize.cdk-ssm-parameters-cross-region-0.0.235.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.cdk_ssm_parameters_cross_region-0.0.235-py3-none-any.whl": [
+          "XyYyy6ZksQXaY1wt7lx6MCecU8qfGb0tjMc1Dr0w1wE=",
           "py3"
         ]
       }
@@ -114184,6 +114246,12 @@
       "sdist": [
         "DA/zryTepxs4zbUGV8jcflGWZF0XQWxazffi/n+JIW8=",
         "pybazel-0.3.9.tar.gz"
+      ]
+    },
+    "0.4.0": {
+      "sdist": [
+        "BCtgvF1ZlZD7V5EBGnz60AWnQAHKsxtyDVZH17V8PyI=",
+        "pybazel-0.4.0.tar.gz"
       ]
     }
   },
@@ -125283,6 +125351,12 @@
         "U6fHIzihFZmzy4Qv+HBlj+jnihZl4j0lQvHcXisydIY=",
         "qa_data_manager-2.1.4.tar.gz"
       ]
+    },
+    "2.1.5": {
+      "sdist": [
+        "7cOad6/975M1jA4XUCjQg8YyGkt6LZ70sgeXWO5kAWo=",
+        "qa_data_manager-2.1.5.tar.gz"
+      ]
     }
   },
   "qbc-emoji": {
@@ -134522,6 +134596,14 @@
       "sdist": [
         "/UbARujApL7tyk/x9XaBOCS+b9A/Kd98HQy66oXHf2w=",
         "scout-3.0.3.tar.gz"
+      ]
+    }
+  },
+  "scratchlib": {
+    "0.7.1": {
+      "sdist": [
+        "e5zEG4o/EOeEgin7DXCZDD+AneHaLMMb+OAJrKUVevk=",
+        "scratchlib-0.7.1.tar.gz"
       ]
     }
   },

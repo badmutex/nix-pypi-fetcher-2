@@ -15651,6 +15651,18 @@
         "0+hMSO8qaVZTLQhFlaz1FZXdgKZWdaRlBuglBA4xX78=",
         "bintropy-1.3.3.tar.gz"
       ]
+    },
+    "1.3.4": {
+      "sdist": [
+        "o+s2jdIJaQW0V4xZYiKkFvkLVlfG+5Nfo02IfZ9mQSI=",
+        "bintropy-1.3.4.tar.gz"
+      ],
+      "wheels": {
+        "bintropy-1.3.4-py3-none-any.whl": [
+          "qR8DOOUX5OF5KbyEqAE5xZFvFk8K7mMZjC0WXDjzbyE=",
+          "py3"
+        ]
+      }
     }
   },
   "bio-mimo": {
@@ -33748,6 +33760,30 @@
       "wheels": {
         "cyberdrop_dl-4.0.26-py3-none-any.whl": [
           "p8rXqupUlyL689uTmIwJOBzgeeSvnHm3440W3aKHBpQ=",
+          "py3"
+        ]
+      }
+    },
+    "4.0.27": {
+      "sdist": [
+        "bBIgx/SGPnw3dC1GUEtBuzGL0kI0SD5E2Ry6c+BOWbI=",
+        "cyberdrop-dl-4.0.27.tar.gz"
+      ],
+      "wheels": {
+        "cyberdrop_dl-4.0.27-py3-none-any.whl": [
+          "xLaX6okmAtARZ+RuZ5/WEk3OUcnDPmLr/+Ib9DOs4iU=",
+          "py3"
+        ]
+      }
+    },
+    "4.0.28": {
+      "sdist": [
+        "V//LCEkICOfnWx1gQngofGl8xVZILUelY1o/T7QIIj4=",
+        "cyberdrop-dl-4.0.28.tar.gz"
+      ],
+      "wheels": {
+        "cyberdrop_dl-4.0.28-py3-none-any.whl": [
+          "kU+IyVJspX3VWSw9Rbf9M1PWZDhTQpbfYBdCeUWmiHg=",
           "py3"
         ]
       }
@@ -61903,6 +61939,30 @@
           "py3"
         ]
       }
+    },
+    "1.8.0": {
+      "sdist": [
+        "GMUONHoZ+u4F6FuBuvCyC1yAFx9nu/skhCUYsJyp2PE=",
+        "gracy-1.8.0.tar.gz"
+      ],
+      "wheels": {
+        "gracy-1.8.0-py3-none-any.whl": [
+          "/ka/arbAK9/7mX27Y4qUxdvju5UuOBoY3m+kMX6e8sY=",
+          "py3"
+        ]
+      }
+    },
+    "1.8.1": {
+      "sdist": [
+        "YZPeyzZMAUeW/+9ur9K1nDc2uvtTZfTZTTLalVRAUqU=",
+        "gracy-1.8.1.tar.gz"
+      ],
+      "wheels": {
+        "gracy-1.8.1-py3-none-any.whl": [
+          "xyXCAZnV1FLUG7Ysgy2v+cBr6OwJUzA5gxY2EGbh82Q=",
+          "py3"
+        ]
+      }
     }
   },
   "graphene-resolver": {
@@ -79616,6 +79676,12 @@
         "MirMachine-0.2.11.2022.tar.gz"
       ]
     },
+    "0.2.12": {
+      "sdist": [
+        "XlXl1DWNROX1n2EEdvFCClZcG7kW0d4TI9mE0CMTIyw=",
+        "MirMachine-0.2.12.tar.gz"
+      ]
+    },
     "0.2.1a0": {
       "sdist": [
         "WGA4tKWOjd4Z7TnqQtSPIWw/KGrojMS1ORcs+r130xI=",
@@ -90416,6 +90482,14 @@
       "wheels": {
         "odoo_addon_hr_employee_calendar_planning-15.0.1.1.1-py3-none-any.whl": [
           "Vag4oy4LIICluPPxtmOOxdrjN10mNm2C6XfQYvNJQ/U=",
+          "py3"
+        ]
+      }
+    },
+    "15.0.1.1.2": {
+      "wheels": {
+        "odoo_addon_hr_employee_calendar_planning-15.0.1.1.2-py3-none-any.whl": [
+          "SxG9gnj08bpAVuEqXu0QStrIS3CHsGnGDKKSKhIzDfo=",
           "py3"
         ]
       }
@@ -144373,6 +144447,56 @@
         "Volume-0.0.0-py39-none-any.whl": [
           "a9WvjR7ZmUdhIh2GeQNMDjcGXMnzP40t5aOX4WwzaT0=",
           "py39"
+        ]
+      }
+    }
+  },
+  "vseg-unet": {
+    "0.0.2": {
+      "sdist": [
+        "qoITMV/s2q0cnI/nXk4g8CYKwcZ5aDuef4JVnYVGpZI=",
+        "vseg-unet-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "vseg_unet-0.0.2-py3-none-any.whl": [
+          "w3hGM6J200iiTSOcitXmvKsuA+Fi1JKNYmDu3L+LzTY=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "tS87MFAKNliGJgafmU3gzCRu7kJwJhkXffVGk8eTWeo=",
+        "vseg-unet-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "vseg_unet-0.0.3-py3-none-any.whl": [
+          "kONXiu17eRLfzLnrBvYkaFFTKrulmPp61JKIKNuBmxs=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4": {
+      "sdist": [
+        "xBhVbIwx00U3oaqfR0o5rfTL/d7dnuLOkXQ7QpyivDY=",
+        "vseg-unet-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "vseg_unet-0.0.4-py3-none-any.whl": [
+          "eq4XFrX4H2BPKkM04JxMZECPxFHmosydY9PzPlDbj1c=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.5": {
+      "sdist": [
+        "UBAauMKVIC1Wazx2mgPbpTO088U0jBmH2gbQd2rchEk=",
+        "vseg-unet-0.0.5.tar.gz"
+      ],
+      "wheels": {
+        "vseg_unet-0.0.5-py3-none-any.whl": [
+          "Ij85c+1A9jq06On4P68xk1mu5CnrxWCIo75Vfz/G0Z0=",
+          "py3"
         ]
       }
     }

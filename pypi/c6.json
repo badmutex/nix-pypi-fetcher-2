@@ -5079,6 +5079,12 @@
         "8rGAsebk4o25eWlyLn1wKgX4nj/mWeBnipL5QsQzYEM=",
         "alphaz-0.7.1.tar.gz"
       ]
+    },
+    "0.7.1.1": {
+      "sdist": [
+        "sLY5McYiDfirF+6vK3mZMHLD7hf7+L5JID+kF4icmgo=",
+        "alphaz-0.7.1.1.tar.gz"
+      ]
     }
   },
   "amancalc": {
@@ -8378,6 +8384,18 @@
       "wheels": {
         "ashley-1.2.5-py2.py3-none-any.whl": [
           "To02EJdDUhX0VtRCZzsizbeczfl2CKY8YXDMxBk3hO8=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.3.1": {
+      "sdist": [
+        "XJqvgmRUmfNSlXNF6GNx6C/f6pBN6p2dN/pDuwbuLm4=",
+        "ashley-1.3.1.tar.gz"
+      ],
+      "wheels": {
+        "ashley-1.3.1-py2.py3-none-any.whl": [
+          "/0w29MfVO2g+xTWcWIdnrsIXdU8mXMauJ3OdLmE40uw=",
           "py2.py3"
         ]
       }
@@ -77733,6 +77751,16 @@
       }
     }
   },
+  "odoo-addon-sale-order-global-stock-route": {
+    "15.0.1.0.0.2": {
+      "wheels": {
+        "odoo_addon_sale_order_global_stock_route-15.0.1.0.0.2-py3-none-any.whl": [
+          "RhiSzV0amTw8/6oS15AJNS5NKs99+eLiChsA51A5NPM=",
+          "py3"
+        ]
+      }
+    }
+  },
   "odoo-addon-stock-picking-send-by-mail": {
     "15.0.1.0.0.2": {
       "wheels": {
@@ -90918,6 +90946,18 @@
       "wheels": {
         "pepperize.projen_awscdk_app_ts-0.0.374-py3-none-any.whl": [
           "zURqisqXg8o0UW29xQexSy9dtnfxOPY8Cuy3nFBEtI8=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.375": {
+      "sdist": [
+        "VAWvsl6H0PBwAITdxoKP/U4rjI59LGPWfHRvkaa5dgY=",
+        "pepperize.projen-awscdk-app-ts-0.0.375.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.projen_awscdk_app_ts-0.0.375-py3-none-any.whl": [
+          "MZGVlTczTBprhFjgZvkFRwPt4YhWgRSmPyW4DzqrLmw=",
           "py3"
         ]
       }

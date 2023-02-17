@@ -26271,6 +26271,30 @@
           "cp39"
         ]
       }
+    },
+    "1.4.0": {
+      "sdist": [
+        "vlBfrpbO3uLLhVul4pnlps8VxSBTsDSb1q9PXCiIwPQ=",
+        "deepsparse-ent-1.4.0.tar.gz"
+      ],
+      "wheels": {
+        "deepsparse_ent-1.4.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "AiuXNoUoqs4Tsb4aoixVGtgB1zTguLstbtSWWXnuyc4=",
+          "cp310"
+        ],
+        "deepsparse_ent-1.4.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "K1K+UjCfKNkwYz/BgTe56FvX/bOGBx0/wjJIZ0o/a5Q=",
+          "cp37"
+        ],
+        "deepsparse_ent-1.4.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ewRypnjurXfdis53YxLM6u/lkQsNVI68p7DWLGALues=",
+          "cp38"
+        ],
+        "deepsparse_ent-1.4.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "69NRpdLrDUwlmepg1a+4tVHQp4BQNR1KUUE22siHmhU=",
+          "cp39"
+        ]
+      }
     }
   },
   "delta-of-delta": {
@@ -50781,6 +50805,18 @@
           "py3"
         ]
       }
+    },
+    "1.8.0": {
+      "sdist": [
+        "p/GBvjnAlYtJcduKTbDnigpjGMpO8cJCePOtvusoIVs=",
+        "gtn-tools-1.8.0.tar.gz"
+      ],
+      "wheels": {
+        "gtn_tools-1.8.0-py3-none-any.whl": [
+          "rOSiyzU43Pf2ZSJjzSKACmpWHaMuWvBqbmjWx8EGl5E=",
+          "py3"
+        ]
+      }
     }
   },
   "guessnumberletter": {
@@ -58676,6 +58712,24 @@
       "sdist": [
         "+iOASgNO3GT16VF2YG4P+smjjRRpILhchbsG8ut2G9s=",
         "invenio-theme-kth-1.2.2.tar.gz"
+      ]
+    },
+    "1.2.3": {
+      "sdist": [
+        "fq9NxQwdRcEQTfQdyEO0FUl4lh5ODDkptDl4aaV/CgQ=",
+        "invenio-theme-kth-1.2.3.tar.gz"
+      ]
+    },
+    "1.2.4": {
+      "sdist": [
+        "oqj3wYhbRqep+zADZTF3KpC7LRmy2DVDoJNNGeEjbMY=",
+        "invenio-theme-kth-1.2.4.tar.gz"
+      ]
+    },
+    "1.2.5": {
+      "sdist": [
+        "gwwKYkW22z6sY8789CiDrdHOEVc3syA8Hm9iP9vnFgc=",
+        "invenio-theme-kth-1.2.5.tar.gz"
       ]
     }
   },
@@ -68160,6 +68214,18 @@
       "wheels": {
         "metaphor_sqllineage-2.0.5-py3-none-any.whl": [
           "re2LirHBksH3E3KKhPWALK5iwmXW+v9SnI8kw3csyIs=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.6": {
+      "sdist": [
+        "Awgiq4pvTAJEFf3cNa/X/GkVpIqd5a5jbkSu4zwE28E=",
+        "metaphor-sqllineage-2.0.6.tar.gz"
+      ],
+      "wheels": {
+        "metaphor_sqllineage-2.0.6-py3-none-any.whl": [
+          "Zr6urG+DniudhhJ08S323AOTDWa7GQejVJYfn06cJyE=",
           "py3"
         ]
       }
@@ -91406,6 +91472,12 @@
         "oakvar-2.7.38.tar.gz"
       ]
     },
+    "2.7.39": {
+      "sdist": [
+        "4wByqrJpf6MRG+K9fz4+1HXBHUi2IYrclU4Il+vowVw=",
+        "oakvar-2.7.39.tar.gz"
+      ]
+    },
     "2.7.4": {
       "sdist": [
         "NvtZ3+UQQZxFeyOCiMri0eG7ZVGl2+gCpBvGXPgJnMg=",
@@ -99345,6 +99417,44 @@
         "LBTh3PX7IlqRd295+N3bQuIbXqT4GULVmGxUl3asdgo=",
         "Panlinealv010-1.0.tar.gz"
       ]
+    }
+  },
+  "paper2txt": {
+    "0.0.1": {
+      "sdist": [
+        "15x7++dcD06MGuH0kO4SP0Y9T7t5CTvE5KJX3WcYIGU=",
+        "paper2txt-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "paper2txt-0.0.1-py2.py3-none-any.whl": [
+          "JE523v8xs/EO/9vExnk4rrm2NKpcDmkEhm8FWRLFuYo=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "mGSPWkCvS6rfwFgQkwm4nXgWWsqZsxVuIxt24Ky3/a8=",
+        "paper2txt-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "paper2txt-0.0.2-py2.py3-none-any.whl": [
+          "3u3n48zGGXmQ3yF+w/lHGH1KbRP75GyCBUmHeaYK4Sc=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "fYubZjnED5q0WwDeOmI/upe0nkYsIc7LvYWeEM8goDQ=",
+        "paper2txt-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "paper2txt-0.0.3-py2.py3-none-any.whl": [
+          "nR4TK2v2HyLFbQJ+iU+MXgTNhBBV2DRWla/G9Bzi1t0=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "papr": {
@@ -143638,6 +143748,18 @@
       "wheels": {
         "tencentcloud_sdk_python_dnspod-3.0.831-py2.py3-none-any.whl": [
           "V+UYtKZ0vyqRjNB3XsMo+inadL8tEF5a5lPXubM3Pik=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.832": {
+      "sdist": [
+        "klMiTALNhwPibwCFYBXml/9uom76OQNr9xA5Cou6v+c=",
+        "tencentcloud-sdk-python-dnspod-3.0.832.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_dnspod-3.0.832-py2.py3-none-any.whl": [
+          "mUK7zPtfEMzf2QQP4Jz9yKPYxKIpHRSICMT5cV0kJw0=",
           "py2.py3"
         ]
       }

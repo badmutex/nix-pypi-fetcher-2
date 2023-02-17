@@ -27475,6 +27475,26 @@
           "cp39"
         ]
       }
+    },
+    "1.4.0": {
+      "sdist": [
+        "JocXlxdKZIoS4MsolJkXRpaq4Qa5dEsN/YTlW2hQw94=",
+        "deepsparse-1.4.0.tar.gz"
+      ],
+      "wheels": {
+        "deepsparse-1.4.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "FLkTfKsbJj1Xa+bj1QyrkKgiBSPzetkMP8Rct2l4FaI=",
+          "cp37"
+        ],
+        "deepsparse-1.4.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "jf5CqK1JDqNruGDspsPi6KJSVzXEXoEaV4c8+IEaLKY=",
+          "cp38"
+        ],
+        "deepsparse-1.4.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "60vZtcQq1KiGfWNc1fpzh2Okxof1SrhiEdNXFDQGB3U=",
+          "cp39"
+        ]
+      }
     }
   },
   "deepvision": {
@@ -36768,6 +36788,18 @@
       "wheels": {
         "eksupgrade-0.4.0-py3-none-any.whl": [
           "V6fLzqWRBVu2F+MJMJ43CFYR063kxk1gOYXcarsQSS8=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.0": {
+      "sdist": [
+        "9vFFVIqwutiUv0tBruBDb9rbE1USzr/RXbQ2EzpQ/+U=",
+        "eksupgrade-0.5.0.tar.gz"
+      ],
+      "wheels": {
+        "eksupgrade-0.5.0-py3-none-any.whl": [
+          "/K4YItSBiRvtjFTSJSTPvqZmn5jovodidBAWqnFZc4o=",
           "py3"
         ]
       }
@@ -124884,6 +124916,12 @@
       "sdist": [
         "5LcNDYf8D3y9i2b4vhEUi4wLx6HpDza6l7GftPh3vZY=",
         "returnn-1.20230216.162028.tar.gz"
+      ]
+    },
+    "1.20230216.201906": {
+      "sdist": [
+        "WuAwjt2W6ARJSbUSK90bK/caHR5HmmJ91A9AUD0Eo6c=",
+        "returnn-1.20230216.201906.tar.gz"
       ]
     }
   },

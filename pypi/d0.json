@@ -15897,6 +15897,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.73": {
+      "sdist": [
+        "4W3aVDnEXvmHRggerkvVrmvjyIE6cn4KenhUzOfaUSo=",
+        "botocore-a-la-carte-chime-sdk-voice-1.29.73.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_chime_sdk_voice-1.29.73-py3-none-any.whl": [
+          "4a1Q83qC69U4LSkLtPhSSq5Pez4gM3LcouOd+heVPLQ=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-mwaa": {
@@ -16268,6 +16280,18 @@
       "wheels": {
         "botocore_a_la_carte_mwaa-1.29.72-py3-none-any.whl": [
           "vspuyHC/G/cP0pNVjnljrQRRy9wqupqq9pKJQeVLtdk=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.73": {
+      "sdist": [
+        "/OM3y6eUk0GEJoNmsuyG9XJWi3Wm/Zh16KRWAJeP7BY=",
+        "botocore-a-la-carte-mwaa-1.29.73.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_mwaa-1.29.73-py3-none-any.whl": [
+          "12TGPgemomftcvZ9z4mLt0H4WTKDZGy5UoOlx/Bzb44=",
           "py3"
         ]
       }
@@ -52955,6 +52979,18 @@
           "py3"
         ]
       }
+    },
+    "0.4.3": {
+      "sdist": [
+        "/OuOLg1r+t3zC24ITMFLVMUh0UezD7zMBzZyzGLd/r4=",
+        "kinms_fitter-0.4.3.tar.gz"
+      ],
+      "wheels": {
+        "kinms_fitter-0.4.3-py3-none-any.whl": [
+          "wboEvEkqWnngwOConf+M5BWvDDsfuaNbbv0takc5IEM=",
+          "py3"
+        ]
+      }
     }
   },
   "kira-gaoshu-kuihuabaodian-2017": {
@@ -67960,6 +67996,30 @@
       "wheels": {
         "np_services-0.1.16-py3-none-any.whl": [
           "xQtKX45G+emCOCjkxmaflX3/+JkRhL8z4Cs69fhiud4=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.17": {
+      "sdist": [
+        "/DfIj1Ut96mD30PngIXkAPrG+qJPskC2qbM/olNbMak=",
+        "np_services-0.1.17.tar.gz"
+      ],
+      "wheels": {
+        "np_services-0.1.17-py3-none-any.whl": [
+          "IezZ/wR8UZYJPEDQ4MF3ACJrDXVhsyXnXdkJoBy/JQw=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.18": {
+      "sdist": [
+        "LN+Rze+5d6H9xsCqCtRdFOPjnoYLpWL4k5IJ7OC1kwo=",
+        "np_services-0.1.18.tar.gz"
+      ],
+      "wheels": {
+        "np_services-0.1.18-py3-none-any.whl": [
+          "+qDsmORdcmVC3pFri6K4TACDesaelGnjJT6PI9hd3b8=",
           "py3"
         ]
       }
@@ -84108,6 +84168,12 @@
     }
   },
   "pybeamer": {
+    "1.0.1": {
+      "sdist": [
+        "W4uY74MKpZT7KA+zDgf1uWkmLmvLAt8dXH1d9rBrdnU=",
+        "pybeamer-1.0.1.tar.gz"
+      ]
+    },
     "3.0.0": {
       "sdist": [
         "p3fTy/xPIVuMYpImQMFEpQzIeiOww3udgLKz3q1Q3aI=",
@@ -90291,6 +90357,44 @@
         "PppmzU6nz9ZSpVlIEt702k80t5UPwAbHaZFyxmGlnyA=",
         "pywumpus-1.2.tar.gz"
       ]
+    }
+  },
+  "pywykop3": {
+    "0.1": {
+      "sdist": [
+        "v8cF6qtqranQua1byGnE/qQE6PaGe0L++ZC61ziq6nw=",
+        "pywykop3-0.1.tar.gz"
+      ],
+      "wheels": {
+        "pywykop3-0.1-py3-none-any.whl": [
+          "J7w6v6JvY/9I6RhyjlZ9hBbJqp+VIO2t8zuF+hxvEMA=",
+          "py3"
+        ]
+      }
+    },
+    "0.2": {
+      "sdist": [
+        "exqS7T4a+LEUpMXrVjxSUORF4NdtenbP56LkYFttVJ8=",
+        "pywykop3-0.2.tar.gz"
+      ],
+      "wheels": {
+        "pywykop3-0.2-py3-none-any.whl": [
+          "2GV74/1eAIYs5+WYnNOMv3DHPJsE9QfdVg3eK2Ef764=",
+          "py3"
+        ]
+      }
+    },
+    "0.3": {
+      "sdist": [
+        "ExVPRxqnph0GqKZKl1z36cQOLmrJ80V68rZyUVhbSV0=",
+        "pywykop3-0.3.tar.gz"
+      ],
+      "wheels": {
+        "pywykop3-0.3-py3-none-any.whl": [
+          "7bzV0pgZ+E8Wlci8SS1AGtsPxFeXmPhHogukuuBZBeY=",
+          "py3"
+        ]
+      }
     }
   },
   "pyzm": {
@@ -113609,6 +113713,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.832": {
+      "sdist": [
+        "bRg7Pxa4nEDo1axOlhl3wf3G2iZaxV8ymGMAuymnXeM=",
+        "tencentcloud-sdk-python-dasb-3.0.832.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_dasb-3.0.832-py2.py3-none-any.whl": [
+          "be3MGnXGSYgkcx6HQwoGe5Ma7RaRaznKuibOMsYXcs4=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tensorflow-cpu-test-package": {
@@ -130449,6 +130565,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.2": {
+      "sdist": [
+        "8Vs2Jq9Yr0xOK/6fizRn7ympvem8mbcM9ZWGFQQgfRA=",
+        "trill-proteins-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "trill_proteins-1.0.2-py3-none-any.whl": [
+          "BBNu0uNB63kUYMzyrF17uAGTbYuXrkpAwwBw16SJioI=",
+          "py3"
+        ]
+      }
     }
   },
   "trustii-ml": {
@@ -135202,6 +135330,42 @@
       "wheels": {
         "vrobbler-0.8.6-py3-none-any.whl": [
           "JBMj6re2Q8fFnVjnvhilWFmOi7eUxmGgd61KRJ/uCdU=",
+          "py3"
+        ]
+      }
+    },
+    "0.9.0": {
+      "sdist": [
+        "qTrY+/WxbXZi73jdEhk3/vzfXDOhZYqWZDlWaIqEyBE=",
+        "vrobbler-0.9.0.tar.gz"
+      ],
+      "wheels": {
+        "vrobbler-0.9.0-py3-none-any.whl": [
+          "aHC+g7ypHmVrK9qtal93TlVGcINRwWiv+fJDxXSg0ks=",
+          "py3"
+        ]
+      }
+    },
+    "0.9.1": {
+      "sdist": [
+        "cYl82EUYocFsW8Ro0nINI7mF8F5VDM6A8lgvUFbp1UA=",
+        "vrobbler-0.9.1.tar.gz"
+      ],
+      "wheels": {
+        "vrobbler-0.9.1-py3-none-any.whl": [
+          "5BEhDUkdEz2ZEpDrPo1xqWaZv78rodWBFYMhLntO3hg=",
+          "py3"
+        ]
+      }
+    },
+    "0.9.2": {
+      "sdist": [
+        "LmtAf0MZ/7gWTlONORdzutYw18jYmGwxcfE7z4v9JVc=",
+        "vrobbler-0.9.2.tar.gz"
+      ],
+      "wheels": {
+        "vrobbler-0.9.2-py3-none-any.whl": [
+          "0M4YvHIt+GsU3s5rEolXFnV0YTVhRWjChy6IQ0sBTpE=",
           "py3"
         ]
       }

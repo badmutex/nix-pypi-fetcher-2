@@ -16143,6 +16143,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.73": {
+      "sdist": [
+        "Dy/rcnxC0valP3yWisSa3M7fszLVciXAiB6qw5O7wNU=",
+        "botocore-a-la-carte-dlm-1.29.73.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_dlm-1.29.73-py3-none-any.whl": [
+          "QKsZklEM1vnj8j4UJevY/Zm7OC9zGbejofXtzyvCjyk=",
+          "py3"
+        ]
+      }
     }
   },
   "bottle-session": {
@@ -51458,6 +51470,18 @@
         ]
       }
     },
+    "1.0.1": {
+      "sdist": [
+        "82z41XdRP/npcL2DIR9jFxRg4kVpe1PQAihim1Bx5HY=",
+        "fedml_databricks-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "fedml_databricks-1.0.1-py3-none-any.whl": [
+          "ymqR1V02+fmxN+LNc0IAxWcP8VTPbnjXd3WbVHrW6bQ=",
+          "py3"
+        ]
+      }
+    },
     "1.0.1.dev0": {
       "sdist": [
         "4c5qxSkK9BRjsu5xMOcecMGa9lOReKlbPFJgEJCZSJ0=",
@@ -79070,6 +79094,18 @@
         ]
       }
     },
+    "0.12.9": {
+      "sdist": [
+        "ImaCcNd2z+BWapewP2WjQsD+xccfcTUhYiY0zybdcPo=",
+        "munet-0.12.9.tar.gz"
+      ],
+      "wheels": {
+        "munet-0.12.9-py3-none-any.whl": [
+          "vEFPCHFn5SyOBHOIjANUSeMlrEzoyBcQ5pxrG1PfoC0=",
+          "py3"
+        ]
+      }
+    },
     "0.2.1": {
       "sdist": [
         "wW6e26F3T0A5FXKGrfuvJrZQyYl4eTmTHgX34RoSvRE=",
@@ -87243,6 +87279,14 @@
           "py3"
         ]
       }
+    },
+    "14.0.1.1.1.dev1": {
+      "wheels": {
+        "odoo14_addon_fieldservice_geoengine-14.0.1.1.1.dev1-py3-none-any.whl": [
+          "Jq19YDyvIzW8O5svb9SoMhFDkJWY4YNBu/SbBZRcqKU=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo14-addon-intrastat-product": {
@@ -93608,6 +93652,14 @@
         ]
       }
     },
+    "0.0.2": {
+      "wheels": {
+        "ovos_ocp_news_plugin-0.0.2-py3-none-any.whl": [
+          "GmIMyZx75/gBArM1vJtwqNk73nU4ljAJZ/FkekrvzYg=",
+          "py3"
+        ]
+      }
+    },
     "0.0.2a1": {
       "wheels": {
         "ovos_ocp_news_plugin-0.0.2a1-py3-none-any.whl": [
@@ -93628,6 +93680,28 @@
       "wheels": {
         "ovos_ocp_news_plugin-0.0.2a3-py3-none-any.whl": [
           "rzLuuAOsFTOU3cyBoi6GNAzuH12tIqXQjh1/bpf215s=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2a3.post1": {
+      "sdist": [
+        "j7bZxfypL9/4fjFT2FZeS9TY3Bm77RLTyQa9qXS/OeU=",
+        "ovos-ocp-news-plugin-0.0.2a3.post1.tar.gz"
+      ]
+    },
+    "0.0.2a4": {
+      "wheels": {
+        "ovos_ocp_news_plugin-0.0.2a4-py3-none-any.whl": [
+          "bUK0h58gcSzjrDHldLL1s1nClZgDQEw3MnDVkNfRTCo=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3a1": {
+      "wheels": {
+        "ovos_ocp_news_plugin-0.0.3a1-py3-none-any.whl": [
+          "WZOwhMH6EI3T8dpFLN2rU/taeQzFoxIm4gxHhkihFlE=",
           "py3"
         ]
       }
@@ -134279,6 +134353,44 @@
       ]
     }
   },
+  "stackjoiner": {
+    "0.1.2": {
+      "sdist": [
+        "JpqC+g43mI6vVE/2gAqGjuuwhOfbRu2tHY0sGJsRFPU=",
+        "stackjoiner-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "stackjoiner-0.1.2-py2.py3-none-any.whl": [
+          "MwOEX/bq5Ml9Xm3LKORtx3ZWD2hFzLiqHuEcfw8L230=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.1.3": {
+      "sdist": [
+        "/FNV1h5AjBFXFaoO+MfnGm0NQVgvamt1PntLzDSvLc4=",
+        "stackjoiner-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "stackjoiner-0.1.3-py2.py3-none-any.whl": [
+          "NwpoxS/Rlmo9vWD1KUPiKT3GR8Nm4AqiZ4BZTKakYRE=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.1.4": {
+      "sdist": [
+        "H7l8g7rwdyG4rTRj4m6U5OYYdQDySqiyCd8UlxeVf7Q=",
+        "stackjoiner-0.1.4.tar.gz"
+      ],
+      "wheels": {
+        "stackjoiner-0.1.4-py2.py3-none-any.whl": [
+          "kfdeDDcnCil5GDXxvRw6lquzxb96RFv4siORVB4Q6/I=",
+          "py2.py3"
+        ]
+      }
+    }
+  },
   "stampa": {
     "0.1.0": {
       "sdist": [
@@ -144444,6 +144556,18 @@
       "wheels": {
         "tencentcloud_sdk_python_ckafka-3.0.831-py2.py3-none-any.whl": [
           "ZyNIfAJMNYqtJOZ10x4RE0mbq3QN50iQjyxaAnBw2Ag=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.832": {
+      "sdist": [
+        "xgWwUWDBz5QtvFE7IrwYf+UVTGiKfFyl9p3UfTV+YXU=",
+        "tencentcloud-sdk-python-ckafka-3.0.832.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_ckafka-3.0.832-py2.py3-none-any.whl": [
+          "a11dNDOU39O4wvzPyx60JVUGRlnqw/q4tz6/UiIBCLI=",
           "py2.py3"
         ]
       }

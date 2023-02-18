@@ -15351,6 +15351,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.74": {
+      "sdist": [
+        "75lqZ8irlV6m1clOcU0QLCTG7TpQLBevMgQxrENLs1o=",
+        "botocore-a-la-carte-chime-sdk-identity-1.29.74.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_chime_sdk_identity-1.29.74-py3-none-any.whl": [
+          "1SngDIqdZ4Y3jCftuLlkUfHY7stG3DL0AkU4TIJOBNg=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-controltower": {
@@ -15734,6 +15746,18 @@
       "wheels": {
         "botocore_a_la_carte_controltower-1.29.73-py3-none-any.whl": [
           "8U4czjq1rs05I02L5nzFJ9afZ78tMd6bXOWKD1J8v+8=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.74": {
+      "sdist": [
+        "/mPL5vIlbRjZ1oeG61X1sLusgYuefS4NsxpQqHZuMHU=",
+        "botocore-a-la-carte-controltower-1.29.74.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_controltower-1.29.74-py3-none-any.whl": [
+          "1w5KOqDD9ZPB4wzK1Ih8YHrENgyfP+rCdJgbm4uyn+s=",
           "py3"
         ]
       }
@@ -16123,6 +16147,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.74": {
+      "sdist": [
+        "z4EayLnq8pXUYfCP94Up08YfhgGikDuouJcE4ArBW10=",
+        "botocore-a-la-carte-mgn-1.29.74.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_mgn-1.29.74-py3-none-any.whl": [
+          "PdxZDrWs0YN6DBhZ3dCGSr4dk8bHBc8RNClJJPUdpZE=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-sesv2": {
@@ -16506,6 +16542,18 @@
       "wheels": {
         "botocore_a_la_carte_sesv2-1.29.73-py3-none-any.whl": [
           "500qBb29vWDVCOh5vaaUaUIFR94bK/ibz4lpY2WzID8=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.74": {
+      "sdist": [
+        "g7aqfb4XdDjnYeHIV/8JW2g0sOjJc4D0C/Cr6/Zkhm4=",
+        "botocore-a-la-carte-sesv2-1.29.74.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_sesv2-1.29.74-py3-none-any.whl": [
+          "b+iCP+zZM7I5zOQmM8R2ueZlPRY6tdKgcQIiFDi8HF8=",
           "py3"
         ]
       }
@@ -99259,6 +99307,12 @@
         "rJyb6MB6c4ji7wglSKpoloZs72M2ystHzBKCreccJBw=",
         "pydemonstrativos-0.0.2.tar.gz"
       ]
+    },
+    "0.0.3": {
+      "sdist": [
+        "qK1JcOF0ABGd38QDyQx81AC47qza4IcR8zt8WK5STug=",
+        "pydemonstrativos-0.0.3.tar.gz"
+      ]
     }
   },
   "pyeapi-fork": {
@@ -99440,6 +99494,12 @@
       "sdist": [
         "mu+Lum145GgdBdZ7E92yfDS8HbzfJr6gCj6RKYRdCgk=",
         "pyfasim-0.21.tar.gz"
+      ]
+    },
+    "0.22": {
+      "sdist": [
+        "YCFiqDyPzugNsvKkmXhO1SSxTjx3pb4JeBTvoZg7Tig=",
+        "pyfasim-0.22.tar.gz"
       ]
     }
   },
@@ -107062,6 +107122,86 @@
         ],
         "quickner-0.0.1a5-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "dnHWcIxbkA0Isawb87UfzNMMR9uDwvkU431zL/Ur3R0=",
+          "pp39"
+        ]
+      }
+    },
+    "0.0.1a6": {
+      "sdist": [
+        "XcPjts09Btc841DhEPBq9muQBdtoQZvDX2sXtYeADnI=",
+        "quickner-0.0.1a6.tar.gz"
+      ],
+      "wheels": {
+        "quickner-0.0.1a6-cp310-cp310-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "LAwPijl59D6gcH6E8N/oemtao95j/5NnDZo0JzofFGo=",
+          "cp310"
+        ],
+        "quickner-0.0.1a6-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "bEZEKe60I1lRU+2D003RIUbin08YfT+oIO2xrpCt/n8=",
+          "cp310"
+        ],
+        "quickner-0.0.1a6-cp310-none-win_amd64.whl": [
+          "TnU12qiS4F8/+eJI0PBWndQo2HV0PhQA+zcYzqrlyLQ=",
+          "cp310"
+        ],
+        "quickner-0.0.1a6-cp311-cp311-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "d5q1sdkXY2PePOMdFr8d4DB3Yu5tmRPmq5OmZtEWYyw=",
+          "cp311"
+        ],
+        "quickner-0.0.1a6-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "yFCMOMCGo+IO/KogAZUjH6iSbiLquegd2CESkWMtnoA=",
+          "cp311"
+        ],
+        "quickner-0.0.1a6-cp311-none-win_amd64.whl": [
+          "RwmtCfFupKhnDGDj84jTOW5CHRL7IWkk8SiCS64L2OI=",
+          "cp311"
+        ],
+        "quickner-0.0.1a6-cp37-cp37m-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "SAJFiSbkcFVl41NEpVF9sdDAvkEDFBV1d036DaaCM1I=",
+          "cp37"
+        ],
+        "quickner-0.0.1a6-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "EEcFFA15DF/fEhgBO94801KlZa9dbD2VPEvs8+yR7/Q=",
+          "cp37"
+        ],
+        "quickner-0.0.1a6-cp37-none-win_amd64.whl": [
+          "HFj3h2LnjM1qkGXIQUyF4C7L8G0PfcnOlaGcXc77Rzg=",
+          "cp37"
+        ],
+        "quickner-0.0.1a6-cp38-cp38-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "fHu6ywDUgZQ86fBCEYaS0aKzwtap46D/65lwZKnkahQ=",
+          "cp38"
+        ],
+        "quickner-0.0.1a6-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "JuFHL6balSXg21E8xlItRX7yQgo5LODLNTgTdtS5owM=",
+          "cp38"
+        ],
+        "quickner-0.0.1a6-cp38-none-win_amd64.whl": [
+          "epdK4Nbr/UMjyCzO0VdFkXMXW+OacOXm8koq1xA80+c=",
+          "cp38"
+        ],
+        "quickner-0.0.1a6-cp39-cp39-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "FsJ6LkvdKzLFPsZiT+u4UuSn7lkJLYNyLPioZ8Ni04c=",
+          "cp39"
+        ],
+        "quickner-0.0.1a6-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "XPbt/quuOun7RG6mwfoYL77lUpKRxtVx7Ir3Ff4EfMk=",
+          "cp39"
+        ],
+        "quickner-0.0.1a6-cp39-none-win_amd64.whl": [
+          "ZWM2Sqh6dypIZiIoDvUfqhckHXjIIRqVx8qne1Ke1cg=",
+          "cp39"
+        ],
+        "quickner-0.0.1a6-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "gWMGUT+4vW9s9i+mFhdEM/gpT3EvW1Ft4zD4m+rotDk=",
+          "pp37"
+        ],
+        "quickner-0.0.1a6-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ggqJjvpiBxP8xKz1QwqmA0r64UsSogk0QskcryxyFsk=",
+          "pp38"
+        ],
+        "quickner-0.0.1a6-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "pdKw5DqHwyY6pRZ+BxkYYd1c6y2Z8cBum/bsXkKn+DE=",
           "pp39"
         ]
       }
@@ -118858,6 +118998,18 @@
       "wheels": {
         "suncal-1.6.0-py3-none-any.whl": [
           "Y5dwCbQb8eo/6BmS/RWMRW4hLgL+0NdjVU56SWjqujQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.6.1": {
+      "sdist": [
+        "S3c7KncMZ7Fc1puL1qTyIZ/vp8NU1AZRf2Yx0bNeNJA=",
+        "suncal-1.6.1.tar.gz"
+      ],
+      "wheels": {
+        "suncal-1.6.1-py3-none-any.whl": [
+          "iPHT5b5fAq7FV9hBgmsZCsPjjWI/uuvMZCxG1umFRJ4=",
           "py3"
         ]
       }

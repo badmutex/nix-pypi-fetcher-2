@@ -13062,6 +13062,18 @@
         ]
       }
     },
+    "3.11.10": {
+      "sdist": [
+        "/IyZkGbvQTlPp3yB40Mf7uezFqsvAceGA30NKi3MHIU=",
+        "bikeshed-3.11.10.tar.gz"
+      ],
+      "wheels": {
+        "bikeshed-3.11.10-py3-none-any.whl": [
+          "FiZ+Zn/7owKuRZ7xE7yXO+5RPwwrXh1PNcfgMxL6PVM=",
+          "py3"
+        ]
+      }
+    },
     "3.11.2": {
       "sdist": [
         "mvAK49Q5csKS+49+pFrx5Zbocs4iFeM4qKNwC+ftEj4=",
@@ -15574,6 +15586,18 @@
       "wheels": {
         "botocore_a_la_carte_dynamodb-1.29.73-py3-none-any.whl": [
           "ENKbsFuUQF5ksiAslak24dbezJ5+je9psGYb/E/HFWg=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.74": {
+      "sdist": [
+        "zjq4ADMmaVF3Jw0mTf9L+SiThk0PY2SN18A4kil/LoU=",
+        "botocore-a-la-carte-dynamodb-1.29.74.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_dynamodb-1.29.74-py3-none-any.whl": [
+          "ekEoOC9njcsURK8uSBEKw1wxOy6eyAedpz1OmmBFYn4=",
           "py3"
         ]
       }
@@ -48959,6 +48983,74 @@
         "gopto4q2++AabN++6Rt0HcTeMTxW8cgK7vFLXeVcBXI=",
         "grizli-1.7.1.tar.gz"
       ]
+    },
+    "1.7.10": {
+      "sdist": [
+        "rpNAQuVl4CiButNZ7HvJOtNYUHJ6vhiKScpUBJbLj34=",
+        "grizli-1.7.10.tar.gz"
+      ],
+      "wheels": {
+        "grizli-1.7.10-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "9ttLIHMN6wJwR5FVjqXrZQxiOrS6L+Xv0oPPJA8Zh00=",
+          "cp310"
+        ],
+        "grizli-1.7.10-cp310-cp310-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "PW/NgaLSFZ7nkT7lfefcIO/WrYVAFsTLKK+zGCwjbBk=",
+          "cp310"
+        ],
+        "grizli-1.7.10-cp310-cp310-musllinux_1_1_x86_64.whl": [
+          "zTYT/hjYfmomNXfS6c/d+GQIQwcQvVCSSsZ42iGBqMo=",
+          "cp310"
+        ],
+        "grizli-1.7.10-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "loImmAO0ZREkcreHWW5xAKTQZT6oZ9RIQA3B7wDspDw=",
+          "cp311"
+        ],
+        "grizli-1.7.10-cp311-cp311-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "yAnPxO3DDg+uZ199VdpTrja0kmnD7MFRNsT2emDif8I=",
+          "cp311"
+        ],
+        "grizli-1.7.10-cp311-cp311-musllinux_1_1_x86_64.whl": [
+          "t6MNmktQgTvBJ2D1ePHOLLUjCVg13lJJT3oLx934JjI=",
+          "cp311"
+        ],
+        "grizli-1.7.10-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "bHMFhypPYaclJPAtS7QpzeyO+NOHNKBdRJq9sGIaMI8=",
+          "cp37"
+        ],
+        "grizli-1.7.10-cp37-cp37m-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Z+nI4sx6Qvz5fFBpxGRfhhEzL4vuMpVkQIswfZ2iofM=",
+          "cp37"
+        ],
+        "grizli-1.7.10-cp37-cp37m-musllinux_1_1_x86_64.whl": [
+          "3DU+nMWQ4MPvGbu9eVne7FHvHqLUmyO9wf0Odf1Ob5E=",
+          "cp37"
+        ],
+        "grizli-1.7.10-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "VCvOnCociewJBMR2mUwYak9hrlmfTs2nJQtOia5hnmQ=",
+          "cp38"
+        ],
+        "grizli-1.7.10-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "YEwzf01jIvp5Mw+fsignAGH0eiaiELagjlcXfBvreL0=",
+          "cp38"
+        ],
+        "grizli-1.7.10-cp38-cp38-musllinux_1_1_x86_64.whl": [
+          "TfeDPz6Rqw8BCv6flaFXJRuK3F9wlyh4RyHM5Oot1lE=",
+          "cp38"
+        ],
+        "grizli-1.7.10-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "AxHXug3Myiev8X3wqZWg2oStmEJ39MnXfl+oI83bb1k=",
+          "cp39"
+        ],
+        "grizli-1.7.10-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "rQgSiSRLrglMixAQFCLWb5zuLGu/9sYQUaKDGB6QY2Q=",
+          "cp39"
+        ],
+        "grizli-1.7.10-cp39-cp39-musllinux_1_1_x86_64.whl": [
+          "qjvDjXgVrg2zkvJfQ7Jk6hDpCmYdpm01WPJ7vsBKVA4=",
+          "cp39"
+        ]
+      }
     },
     "1.7.2": {
       "sdist": [
@@ -93845,6 +93937,18 @@
           "py3"
         ]
       }
+    },
+    "0.37b0": {
+      "sdist": [
+        "3tCVXbQD8x6yLOT/jOCrV65asMPm6JeN+FdvERV/0ok=",
+        "opentelemetry_instrumentation_urllib-0.37b0.tar.gz"
+      ],
+      "wheels": {
+        "opentelemetry_instrumentation_urllib-0.37b0-py3-none-any.whl": [
+          "i88IjUTellaM6ZqADqIQ5CTO/+pjA37i2AhB2xD31Ds=",
+          "py3"
+        ]
+      }
     }
   },
   "opnsense-confgen": {
@@ -96112,322 +96216,6 @@
     }
   },
   "pdfnetpython3": {
-    "8.0.1": {
-      "wheels": {
-        "PDFNetPython3-8.0.1-cp37-cp37m-win_amd64.whl": [
-          "4KW/RQ1wnmYz7AWpFjkNDm24dIbIucjQs6WlsGVuCm8=",
-          "cp37"
-        ]
-      }
-    },
-    "8.0.2": {
-      "wheels": {
-        "PDFNetPython3-8.0.2-cp37-cp37m-macosx_10_9_x86_64.whl": [
-          "oRAWJL6zk/eIucKJfLLHc6xTZvurJMr57XctXzaIOtE=",
-          "cp37"
-        ],
-        "PDFNetPython3-8.0.2-cp37-cp37m-win_amd64.whl": [
-          "4vPJLz7X0/Fjiy0Ol+dCelepqx1zdgcWc06RN+epLHo=",
-          "cp37"
-        ]
-      }
-    },
-    "8.0.3": {
-      "wheels": {
-        "PDFNetPython3-8.0.3-cp35-cp35m-macosx_10_9_x86_64.whl": [
-          "fHQ7l7TbumqSrS82yAWTaM2+LlbwuhWxlOgwoSgCYPM=",
-          "cp35"
-        ],
-        "PDFNetPython3-8.0.3-cp35-cp35m-manylinux1_i686.whl": [
-          "5d92cmmJuYDNmdxgdPygqiWyjVQS7F00YEpx43/51Sw=",
-          "cp35"
-        ],
-        "PDFNetPython3-8.0.3-cp35-cp35m-manylinux1_x86_64.whl": [
-          "tkD+4UT0mRpIScRR32CeOcujg59E+OvY97pM4fm3bJw=",
-          "cp35"
-        ],
-        "PDFNetPython3-8.0.3-cp35-cp35m-manylinux2010_i686.whl": [
-          "lahxlpxc/2YIV9jA7+8PjrKYNHwMpyS4HclB/+Ag2Uk=",
-          "cp35"
-        ],
-        "PDFNetPython3-8.0.3-cp35-cp35m-manylinux2010_x86_64.whl": [
-          "5kyoGWPpFN6Ct83H2uBrbKE/EoUN/FepaoY2KrBT6+8=",
-          "cp35"
-        ],
-        "PDFNetPython3-8.0.3-cp35-cp35m-manylinux2014_i686.whl": [
-          "p12xuC3wm64/QHTTuahZrpj+UzGERgPLU5Z+l8vF6NU=",
-          "cp35"
-        ],
-        "PDFNetPython3-8.0.3-cp35-cp35m-manylinux2014_x86_64.whl": [
-          "DdtxY7stRqwVM9pCQOAp30wwLu8FkzPExRsCeCO3RN8=",
-          "cp35"
-        ],
-        "PDFNetPython3-8.0.3-cp35-cp35m-win32.whl": [
-          "yfnGS58sUAnifQPXk3/+I5gXbTJoRs63nBMTrQ1kH2E=",
-          "cp35"
-        ],
-        "PDFNetPython3-8.0.3-cp35-cp35m-win_amd64.whl": [
-          "bBseSzhQE2a4uK3PONKTRc4RDPW+kzhNhoiUzK9Qvyw=",
-          "cp35"
-        ],
-        "PDFNetPython3-8.0.3-cp36-cp36m-macosx_10_9_x86_64.whl": [
-          "984ZuPcukfhO0aG09+Uy8yeLNvsu1GOi/c+RdFe8E6E=",
-          "cp36"
-        ],
-        "PDFNetPython3-8.0.3-cp36-cp36m-manylinux1_i686.whl": [
-          "50Rz46b/7imd971L3tdwVvEiJRo0Om8K3S1bZcIeaLE=",
-          "cp36"
-        ],
-        "PDFNetPython3-8.0.3-cp36-cp36m-manylinux1_x86_64.whl": [
-          "AZm3GUL3BnJFjOmIB/X7LDsuQAHHeyWu197Db2F4Bxo=",
-          "cp36"
-        ],
-        "PDFNetPython3-8.0.3-cp36-cp36m-manylinux2010_i686.whl": [
-          "Z4uYYQdiE/66+f+veofd7hl34KLrqqerfbmL+Vj3ff4=",
-          "cp36"
-        ],
-        "PDFNetPython3-8.0.3-cp36-cp36m-manylinux2010_x86_64.whl": [
-          "gHUFZoHuvw7b+jaZYnjeQiFTshXle/6noQ7Mr1BSKFY=",
-          "cp36"
-        ],
-        "PDFNetPython3-8.0.3-cp36-cp36m-manylinux2014_i686.whl": [
-          "kmrPRhqbZATSikVktWnydCaYL4T7TkCY+SF+RMrkuUU=",
-          "cp36"
-        ],
-        "PDFNetPython3-8.0.3-cp36-cp36m-manylinux2014_x86_64.whl": [
-          "LgGBFYdUNEl8tuyiHMBrQh8hHFc13AJTsmRZ83eop+E=",
-          "cp36"
-        ],
-        "PDFNetPython3-8.0.3-cp36-cp36m-win32.whl": [
-          "r2MaK4FRj4KttNveuvWctw+3lep2OcoYqpU+VCxfez8=",
-          "cp36"
-        ],
-        "PDFNetPython3-8.0.3-cp36-cp36m-win_amd64.whl": [
-          "Yh3gfvjI+mLdvseXIvHSV6RaZJi+t9eW4ht9IMCHOgU=",
-          "cp36"
-        ],
-        "PDFNetPython3-8.0.3-cp37-cp37m-macosx_10_9_x86_64.whl": [
-          "YaQ4G87RzfqvbVFDtR2y5mUQyeyXd+aecbDizmkl77s=",
-          "cp37"
-        ],
-        "PDFNetPython3-8.0.3-cp37-cp37m-manylinux1_i686.whl": [
-          "bD7Ynq6p+ppp/nGjLpztcHcXc24DmDn7T86vJ8fnbpw=",
-          "cp37"
-        ],
-        "PDFNetPython3-8.0.3-cp37-cp37m-manylinux1_x86_64.whl": [
-          "joNzLrSIWm4j2I9fEl8bZo/56cnse75YN7+0PpUtTkY=",
-          "cp37"
-        ],
-        "PDFNetPython3-8.0.3-cp37-cp37m-manylinux2010_i686.whl": [
-          "dJdEGSQgRV1YemC6CsBMUNjEeGuU/a+D1syvBzEjFLg=",
-          "cp37"
-        ],
-        "PDFNetPython3-8.0.3-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "gUz1m5fSJCrI3zFK1eV0jyLwP2heHOMUs77QADbI9hk=",
-          "cp37"
-        ],
-        "PDFNetPython3-8.0.3-cp37-cp37m-manylinux2014_i686.whl": [
-          "bAlf9fMrvZlktlDFBVv5OosXq1Ai1A1FpEIRSCIYsnU=",
-          "cp37"
-        ],
-        "PDFNetPython3-8.0.3-cp37-cp37m-manylinux2014_x86_64.whl": [
-          "1VNUGrMB0J26xWFH5//6Wvh3mMo0Z6wVo5lg2LYHecA=",
-          "cp37"
-        ],
-        "PDFNetPython3-8.0.3-cp37-cp37m-win32.whl": [
-          "WyxMi6QrZPnamO24juX8FjcX8qSt0Ss17iSLOd1Wb4E=",
-          "cp37"
-        ],
-        "PDFNetPython3-8.0.3-cp37-cp37m-win_amd64.whl": [
-          "L0XARBaVzSZawBCbW/+WWhalFvICLQkstPbk27Tad3g=",
-          "cp37"
-        ],
-        "PDFNetPython3-8.0.3-cp38-cp38-macosx_10_9_x86_64.whl": [
-          "W4KJZ055RIdKX3GjkAvqEyrtXOjIEmvcWa2ehNFrre0=",
-          "cp38"
-        ],
-        "PDFNetPython3-8.0.3-cp38-cp38-manylinux1_i686.whl": [
-          "MlFY7ej74J/ZZxl0h5sZ4xEjRcMiVce4b4s/jk05YO8=",
-          "cp38"
-        ],
-        "PDFNetPython3-8.0.3-cp38-cp38-manylinux1_x86_64.whl": [
-          "6N4s0DDBUOu9fQG50Tw+iYsZw0+tYBH4/h1prZS5lbg=",
-          "cp38"
-        ],
-        "PDFNetPython3-8.0.3-cp38-cp38-manylinux2010_i686.whl": [
-          "Ej7FLE+meAepVQ8m2RlpJmD3F1BIeYqNOpvACpbVCNc=",
-          "cp38"
-        ],
-        "PDFNetPython3-8.0.3-cp38-cp38-manylinux2010_x86_64.whl": [
-          "AiRiVfWF9OuxKe4veqTljbh/otfPaHPVT4+9aKNfXOk=",
-          "cp38"
-        ],
-        "PDFNetPython3-8.0.3-cp38-cp38-manylinux2014_i686.whl": [
-          "/b6zD2nhjPHl3LT1Eu0wDpxoXXz4ZmpZ6uOq5d7zVJg=",
-          "cp38"
-        ],
-        "PDFNetPython3-8.0.3-cp38-cp38-manylinux2014_x86_64.whl": [
-          "Qw+2KMZE0S1DayCJAdTsw2v3amQFMr+UKcttvJO2Ulo=",
-          "cp38"
-        ],
-        "PDFNetPython3-8.0.3-cp38-cp38-win32.whl": [
-          "NzB4z5Dd6OXXhiQwYYzB+QvCfgNmADhpVY3jCR8BTNc=",
-          "cp38"
-        ],
-        "PDFNetPython3-8.0.3-cp38-cp38-win_amd64.whl": [
-          "IDPfNsqefOt9jrhGy4RH1W544g4pIY4Or9DNurbU8Do=",
-          "cp38"
-        ]
-      }
-    },
-    "8.1.0": {
-      "wheels": {
-        "PDFNetPython3-8.1.0-cp35-cp35m-macosx_10_15_intel.whl": [
-          "fZfvhxjE2lVIennz5htK6nX9FFeRIKNQa45aFvROh2k=",
-          "cp35"
-        ],
-        "PDFNetPython3-8.1.0-cp35-cp35m-manylinux1_i686.whl": [
-          "nZMAFloiYWgRVVa8yQojLbvGEe37TbSdja4mfbI8cIs=",
-          "cp35"
-        ],
-        "PDFNetPython3-8.1.0-cp35-cp35m-manylinux1_x86_64.whl": [
-          "GCVtmFNEtqmFeB7kplb3MFORMPNojz2hXx3hPw4dsoE=",
-          "cp35"
-        ],
-        "PDFNetPython3-8.1.0-cp35-cp35m-manylinux2010_i686.whl": [
-          "jCBt7k9wS3g5OIwrz2YgXuWwXCa3mJhmHd90b5gI5ZU=",
-          "cp35"
-        ],
-        "PDFNetPython3-8.1.0-cp35-cp35m-manylinux2010_x86_64.whl": [
-          "Dg0Zxi4OQR0bIt9O1bu1VP0ha3lV8JbBmZ5rVxj6omY=",
-          "cp35"
-        ],
-        "PDFNetPython3-8.1.0-cp35-cp35m-manylinux2014_i686.whl": [
-          "IQsxbGyTqUwYc/L0MMntcaVbcAGgdjGWc4Q36hpTqx0=",
-          "cp35"
-        ],
-        "PDFNetPython3-8.1.0-cp35-cp35m-manylinux2014_x86_64.whl": [
-          "eZU5XVNGOMIIuiuJEfvH1t3Ws9/Ljhmc4Nmh8CuLCvI=",
-          "cp35"
-        ],
-        "PDFNetPython3-8.1.0-cp35-cp35m-win32.whl": [
-          "PZsfsn2l/2GcamXS3neuJSHIR3WMrQGXcxqEEcPI8FE=",
-          "cp35"
-        ],
-        "PDFNetPython3-8.1.0-cp35-cp35m-win_amd64.whl": [
-          "nxIqKEaLMmQYUVeiKk1l5AExk04NmNjHjgCLMLLR50Q=",
-          "cp35"
-        ],
-        "PDFNetPython3-8.1.0-cp36-cp36m-macosx_10_15_intel.whl": [
-          "rYo0Ry8uKe4TZfLbyGkKkGftHsgDCfDBk06cD4Te2g8=",
-          "cp36"
-        ],
-        "PDFNetPython3-8.1.0-cp36-cp36m-manylinux1_i686.whl": [
-          "OE4+h4vhJeNADqj8f7YmfLEd4v40XnlKEom/Tou0M8c=",
-          "cp36"
-        ],
-        "PDFNetPython3-8.1.0-cp36-cp36m-manylinux1_x86_64.whl": [
-          "kEpR5vxV/mC+Vdri+GCngpRbU+EKLQ9Z/3+cHV5jlfM=",
-          "cp36"
-        ],
-        "PDFNetPython3-8.1.0-cp36-cp36m-manylinux2010_i686.whl": [
-          "vbLDDFXTY3BDjapCEfDV6kAF8uQLKq+UeCpoqgEYqQQ=",
-          "cp36"
-        ],
-        "PDFNetPython3-8.1.0-cp36-cp36m-manylinux2010_x86_64.whl": [
-          "jqZFjOF7Dfn2z/Adxp0hNUijOv/CbLnooCdmKOGZk+k=",
-          "cp36"
-        ],
-        "PDFNetPython3-8.1.0-cp36-cp36m-manylinux2014_i686.whl": [
-          "6PICwiirq9XdvMfRn4NaCkPAXhHKpSFPFs8VZ/GDkSc=",
-          "cp36"
-        ],
-        "PDFNetPython3-8.1.0-cp36-cp36m-manylinux2014_x86_64.whl": [
-          "8hswd0FdddnQilSOkbLgdzlPorBsuELYhMGGiqjQ1sM=",
-          "cp36"
-        ],
-        "PDFNetPython3-8.1.0-cp36-cp36m-win32.whl": [
-          "3ySsVXk8A3PCdJGY8WF1q3m3oiWFP41dliw0gxP1E8k=",
-          "cp36"
-        ],
-        "PDFNetPython3-8.1.0-cp36-cp36m-win_amd64.whl": [
-          "JP7n6mXNOmUl7Ob/wU084/Fp6cv2ReWc6G5woqVmM24=",
-          "cp36"
-        ],
-        "PDFNetPython3-8.1.0-cp37-cp37m-macosx_10_15_x86_64.whl": [
-          "EqkaC7/QSwI0JulIbi9dcR/5oAncPJe9UbUGC+OlwSU=",
-          "cp37"
-        ],
-        "PDFNetPython3-8.1.0-cp37-cp37m-manylinux1_i686.whl": [
-          "Xcy19NpHSPBZ+eEA4K+RAlTU3ZUUmE39o72gbjdMPXY=",
-          "cp37"
-        ],
-        "PDFNetPython3-8.1.0-cp37-cp37m-manylinux1_x86_64.whl": [
-          "Mce8Qjr4FI2vWH3X1YqO65qXN9gvC+wA4EMO0OSYRj0=",
-          "cp37"
-        ],
-        "PDFNetPython3-8.1.0-cp37-cp37m-manylinux2010_i686.whl": [
-          "9AICzMMnnm6FJBrJ4xbYo//GV2+Ef72JHUT1cjeFNsU=",
-          "cp37"
-        ],
-        "PDFNetPython3-8.1.0-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "sOxkapVXgA5rUifRdO0YxuQXgkQ9bngptyLlVu6TEr8=",
-          "cp37"
-        ],
-        "PDFNetPython3-8.1.0-cp37-cp37m-manylinux2014_i686.whl": [
-          "rmHfJZT6h5h7laBQE8TTdowaXZUFjkfjZZuVUKCR/mk=",
-          "cp37"
-        ],
-        "PDFNetPython3-8.1.0-cp37-cp37m-manylinux2014_x86_64.whl": [
-          "SQez/Qmxwj7qtRDGjYaEtesvo3Gim/xdZVr7PcokxbA=",
-          "cp37"
-        ],
-        "PDFNetPython3-8.1.0-cp37-cp37m-win32.whl": [
-          "Q1WTQ1CK/6N2j3516ZzKJRY5qE+s/8mFjb3p9OTjw08=",
-          "cp37"
-        ],
-        "PDFNetPython3-8.1.0-cp37-cp37m-win_amd64.whl": [
-          "VLVZgHRYM+GttkCV9PJ5B8mD9sIlkIaACT8/CYs8ANQ=",
-          "cp37"
-        ],
-        "PDFNetPython3-8.1.0-cp38-cp38-macosx_10_15_x86_64.whl": [
-          "B5SJnKZBDBOBUU8aIGvpgV4Q5VnIgw41H86ShoP/Ygs=",
-          "cp38"
-        ],
-        "PDFNetPython3-8.1.0-cp38-cp38-manylinux1_i686.whl": [
-          "cJZtQbGCPUoWVsVA5RCy3+RtiGcnFJAUlTu3Jm9oWyc=",
-          "cp38"
-        ],
-        "PDFNetPython3-8.1.0-cp38-cp38-manylinux1_x86_64.whl": [
-          "lPA7OvwyW4d3ZI6qLHx/nEyQqmhT0Bckpl42kq6H8Bc=",
-          "cp38"
-        ],
-        "PDFNetPython3-8.1.0-cp38-cp38-manylinux2010_i686.whl": [
-          "C7zYlXfWtQY1P7NvD0DaAuHx8R5vXC2To/DNcR3JrF8=",
-          "cp38"
-        ],
-        "PDFNetPython3-8.1.0-cp38-cp38-manylinux2010_x86_64.whl": [
-          "3Uas7fJf2s473EhlmVllfeYbcQ4iI8oqZtvIecl72Ss=",
-          "cp38"
-        ],
-        "PDFNetPython3-8.1.0-cp38-cp38-manylinux2014_i686.whl": [
-          "I0zgzak/2Yq4oF7LNemJa1/0VTxAYg1PBtUl35poZAA=",
-          "cp38"
-        ],
-        "PDFNetPython3-8.1.0-cp38-cp38-manylinux2014_x86_64.whl": [
-          "FpTupp+/O3ZPSN10aoDtQxulkAmAjJB+dkPd9FX+YNA=",
-          "cp38"
-        ],
-        "PDFNetPython3-8.1.0-cp38-cp38-win32.whl": [
-          "S+7gOHe8kpBlAw0/pNPWvTwoQPq7kylInpEpKfYK4tI=",
-          "cp38"
-        ],
-        "PDFNetPython3-8.1.0-cp38-cp38-win_amd64.whl": [
-          "rVvF/1WZ8Hz2su/hUZrUCKN/yYrWUERsW0o4ZpE2grw=",
-          "cp38"
-        ]
-      }
-    },
     "9.0.0": {
       "wheels": {
         "PDFNetPython3-9.0.0-cp35-cp35m-macosx_10_15_intel.whl": [
@@ -97632,6 +97420,274 @@
         ],
         "PDFNetPython3-9.4.2-cp39-cp39-win_amd64.whl": [
           "N89gECboJkW7Y5dklx0N4GPD5HCLdQfmTl99WofAaWs=",
+          "cp39"
+        ]
+      }
+    },
+    "9.5.0": {
+      "wheels": {
+        "PDFNetPython3-9.5.0-cp310-cp310-win32.whl": [
+          "LzOoKiKHBNaFejkHXNjHoHoUprlcLkywLpkNeVeFqKE=",
+          "cp310"
+        ],
+        "PDFNetPython3-9.5.0-cp310-cp310-win_amd64.whl": [
+          "oERLtr1/QnVRxVuzW1PO4G2I0k7BotHdWHLg9L+L6rM=",
+          "cp310"
+        ],
+        "PDFNetPython3-9.5.0-cp311-cp311-win32.whl": [
+          "sj9s8jYfIVbndObcqMEhY5x4r3vNPx9c0qZ4H/zejp4=",
+          "cp311"
+        ],
+        "PDFNetPython3-9.5.0-cp311-cp311-win_amd64.whl": [
+          "LLzMXoYZliZcDW1CugfNgR5p7pbpjvzI5cLBKPymAuo=",
+          "cp311"
+        ],
+        "PDFNetPython3-9.5.0-cp35-cp35m-win32.whl": [
+          "ZtRvQXAPvzfG1zqus3It/9andneMCGyjt6QG5SdJJ/s=",
+          "cp35"
+        ],
+        "PDFNetPython3-9.5.0-cp35-cp35m-win_amd64.whl": [
+          "0MJhSv39XEdyiiW8QraXUTXxGgaU9H4aqBB9gUE7YAw=",
+          "cp35"
+        ],
+        "PDFNetPython3-9.5.0-cp36-cp36m-win32.whl": [
+          "98SFy0eBEaRkuXeYDh7HuOdmxpAAnogC5gbEChkDucI=",
+          "cp36"
+        ],
+        "PDFNetPython3-9.5.0-cp36-cp36m-win_amd64.whl": [
+          "QKjudf6sRlKFKA9cgSvZmdZ/GM1lr5Na4zNvmZMCSj0=",
+          "cp36"
+        ],
+        "PDFNetPython3-9.5.0-cp37-cp37m-win32.whl": [
+          "G2My3LEu8Z+7zp1X78p7hFB4lcNEYFxyHN4hSqg6ttI=",
+          "cp37"
+        ],
+        "PDFNetPython3-9.5.0-cp37-cp37m-win_amd64.whl": [
+          "Rsm+Spo6w0GC7eOSYI1upIBbJjDYR2cZp6AMaIpsvy4=",
+          "cp37"
+        ],
+        "PDFNetPython3-9.5.0-cp38-cp38-win32.whl": [
+          "LCDXLqv7IkPc56U0pVrHrb0/4t3V1jxECeZH3JDEGno=",
+          "cp38"
+        ],
+        "PDFNetPython3-9.5.0-cp38-cp38-win_amd64.whl": [
+          "RqziC+OvgmOQwmuFOj2QhJuS4K3XuSLCL8M6pcNwjvg=",
+          "cp38"
+        ],
+        "PDFNetPython3-9.5.0-cp39-cp39-win32.whl": [
+          "/Rs0OVFNju8A0hU0ZYwosESw99ZYrO6MHkvdOsOOk1E=",
+          "cp39"
+        ],
+        "PDFNetPython3-9.5.0-cp39-cp39-win_amd64.whl": [
+          "ruIpm9zG6wVK/oXzUzxnF+BDvWAO+soZxc5BoJssZf8=",
+          "cp39"
+        ],
+        "PDFNetPython3-9.5-cp310-cp310-macosx_10_15_universal2.whl": [
+          "1cZN58ko2uTS6BRr3I/eIt9zqTc9fT+wQeoyTUn5WP8=",
+          "cp310"
+        ],
+        "PDFNetPython3-9.5-cp310-cp310-manylinux1_i686.whl": [
+          "Nf+nCrIpLgf65KL82hfIqJARmv8bGJr3pcB9CnXCVZk=",
+          "cp310"
+        ],
+        "PDFNetPython3-9.5-cp310-cp310-manylinux1_x86_64.whl": [
+          "9uME9z2hrX14p//agAT9fMjsz4z4Z0kjVEZtyJUwNsA=",
+          "cp310"
+        ],
+        "PDFNetPython3-9.5-cp310-cp310-manylinux2010_i686.whl": [
+          "U81RC+KrSC5x87tIIiOMifyjq3QdOvX1RFFvzI3iFRg=",
+          "cp310"
+        ],
+        "PDFNetPython3-9.5-cp310-cp310-manylinux2010_x86_64.whl": [
+          "DiWFRo/M2M6+hr+JEEkkvKj39X9rfOaEADPyeiY613M=",
+          "cp310"
+        ],
+        "PDFNetPython3-9.5-cp310-cp310-manylinux2014_aarch64.whl": [
+          "2fokSEZ8OLSd0C5NEe19+oRygo+ji9GpH5s9SHdkVsA=",
+          "cp310"
+        ],
+        "PDFNetPython3-9.5-cp310-cp310-manylinux2014_i686.whl": [
+          "yNCfun+hO9P6e3NMZ3AjbqIcYc+xoWoxn6XhspcYXIA=",
+          "cp310"
+        ],
+        "PDFNetPython3-9.5-cp310-cp310-manylinux2014_x86_64.whl": [
+          "RvHeAK+g3x5jNE4UpO1RC/zRDzKuCW7hrCbArRHVico=",
+          "cp310"
+        ],
+        "PDFNetPython3-9.5-cp311-cp311-macosx_10_15_universal2.whl": [
+          "1X62++vkodx/cH4dgetUgRpWrm8HEqhOQyopegqG0+s=",
+          "cp311"
+        ],
+        "PDFNetPython3-9.5-cp311-cp311-manylinux1_i686.whl": [
+          "fIpQaOLM9SbYhdYAv+rPAsB/VoCTXudF31Z/W/Y8TSo=",
+          "cp311"
+        ],
+        "PDFNetPython3-9.5-cp311-cp311-manylinux1_x86_64.whl": [
+          "kjyCSYxeECXjJ2c1+KBnxBG5nkevNeLFa683GX36jmI=",
+          "cp311"
+        ],
+        "PDFNetPython3-9.5-cp311-cp311-manylinux2010_i686.whl": [
+          "eCMOhaQh9jd53zlb+tIck2dHHNV6t+/tWgd9CbYQk/0=",
+          "cp311"
+        ],
+        "PDFNetPython3-9.5-cp311-cp311-manylinux2010_x86_64.whl": [
+          "Ee6QbvsA3ESNZBnmvCEg8r5TnEO1bfezQk3v/IUwEAo=",
+          "cp311"
+        ],
+        "PDFNetPython3-9.5-cp311-cp311-manylinux2014_aarch64.whl": [
+          "W3gS1Fu1m8WRDRETDsGUiOUNdGbNaPb1WowWqLxf9CY=",
+          "cp311"
+        ],
+        "PDFNetPython3-9.5-cp311-cp311-manylinux2014_i686.whl": [
+          "4b4mV1hSgH3x7SPRbVWFQRSlBlS3jbD7OG9REKeHdZA=",
+          "cp311"
+        ],
+        "PDFNetPython3-9.5-cp311-cp311-manylinux2014_x86_64.whl": [
+          "O/AU61h4Iai73Uu8qETw0+K7a7O9C86lXqhDfxs7JFQ=",
+          "cp311"
+        ],
+        "PDFNetPython3-9.5-cp35-cp35m-macosx_10_15_intel.whl": [
+          "QNJn2MAwV7jH4k9myEwzCjFwnyqi8yYFU0apVXWnlV0=",
+          "cp35"
+        ],
+        "PDFNetPython3-9.5-cp35-cp35m-manylinux1_i686.whl": [
+          "DfbOIpe0IQrqhl1XUQ8ttW73vzGn2UvIv/uoHh1aHDM=",
+          "cp35"
+        ],
+        "PDFNetPython3-9.5-cp35-cp35m-manylinux1_x86_64.whl": [
+          "c9vx18+t6jwTi2CNzGheT9hZrY2RdhIXePCF2H4LADk=",
+          "cp35"
+        ],
+        "PDFNetPython3-9.5-cp35-cp35m-manylinux2010_i686.whl": [
+          "YgrCoZYURjH0o+PG9EiW4XhTpZ0/btU8L+fMVptNlGw=",
+          "cp35"
+        ],
+        "PDFNetPython3-9.5-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "+5QTshUrGvTT1FrJHWX5okHeCC0mp8RdjygcSzK/Su8=",
+          "cp35"
+        ],
+        "PDFNetPython3-9.5-cp35-cp35m-manylinux2014_i686.whl": [
+          "uXbHNO4yBfMv+RMxPrcFL6hIJdvy/yhmKTtyN8g1rl4=",
+          "cp35"
+        ],
+        "PDFNetPython3-9.5-cp35-cp35m-manylinux2014_x86_64.whl": [
+          "o7z2q+gXYb1/0EbSREl1RYxNsLvVfWejDOrJokM427A=",
+          "cp35"
+        ],
+        "PDFNetPython3-9.5-cp36-cp36m-macosx_10_15_intel.whl": [
+          "X7i9uBPYzh9IJuboVGnGkwprHSDF7NdNvz9Xk05HJXM=",
+          "cp36"
+        ],
+        "PDFNetPython3-9.5-cp36-cp36m-manylinux1_i686.whl": [
+          "BOv4VGFgOl9cPzz395inHSQH+sEEa7zrXMrM2AXiXMc=",
+          "cp36"
+        ],
+        "PDFNetPython3-9.5-cp36-cp36m-manylinux1_x86_64.whl": [
+          "7KJ7zBcTUdCDwOH8SdudSlC7chbDdJr4s6fjsh0ZqRc=",
+          "cp36"
+        ],
+        "PDFNetPython3-9.5-cp36-cp36m-manylinux2010_i686.whl": [
+          "vpLUh4/B+f8Sd5BvASCk2G13su4io+tFgLyE7jcJEHM=",
+          "cp36"
+        ],
+        "PDFNetPython3-9.5-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "mPJ6bNwA+CS2fTyxR+k+lRccmMHURL6yV/S9DPdnSEs=",
+          "cp36"
+        ],
+        "PDFNetPython3-9.5-cp36-cp36m-manylinux2014_i686.whl": [
+          "XvzDdwo+87jdB8eJgexp0zRBgbmMKd+Cghhf5rcE548=",
+          "cp36"
+        ],
+        "PDFNetPython3-9.5-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "gNBG66pLNS7TkW7jrxbMiaVtsnqQeOxznOXClZ3A8d4=",
+          "cp36"
+        ],
+        "PDFNetPython3-9.5-cp37-cp37m-macosx_10_15_intel.whl": [
+          "mItVsQv8pagF4ivfv6RJ86NsiQkx+8DXD2w4kIKCwP0=",
+          "cp37"
+        ],
+        "PDFNetPython3-9.5-cp37-cp37m-manylinux1_i686.whl": [
+          "buRgr3DHMQWfjY3Y4PAGa4GkL10TUdCRv7WRxgasIxs=",
+          "cp37"
+        ],
+        "PDFNetPython3-9.5-cp37-cp37m-manylinux1_x86_64.whl": [
+          "vNImDTJ5qnvOR0mx/SPN4bB+pQW9WpoSBd/6gVFnRHE=",
+          "cp37"
+        ],
+        "PDFNetPython3-9.5-cp37-cp37m-manylinux2010_i686.whl": [
+          "1rbd9eqvhk5hHi6detyd7pD/CgFT4GYOQCSSWN5h/7s=",
+          "cp37"
+        ],
+        "PDFNetPython3-9.5-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "ElVscaLLt6E5MwNZ0aIVDUZa0vPoYrIsxYp2ir/7PcA=",
+          "cp37"
+        ],
+        "PDFNetPython3-9.5-cp37-cp37m-manylinux2014_i686.whl": [
+          "S9b17aGw5/d3ymZoNDlm63Z0Wu1TxrU8x+x06M4lsrI=",
+          "cp37"
+        ],
+        "PDFNetPython3-9.5-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "o98BhJR6NgM0oohgInoGG21YCjt0xyrd8KjM9+c7c5Q=",
+          "cp37"
+        ],
+        "PDFNetPython3-9.5-cp38-cp38-macosx_10_15_intel.whl": [
+          "0G0JmfF9EiTWb5o72V56LkHamtBPM//8zr1Dv9yjLsM=",
+          "cp38"
+        ],
+        "PDFNetPython3-9.5-cp38-cp38-manylinux1_i686.whl": [
+          "gNc5TvO7qB01URHmSL1WJRUuJ0/wsnrBsnotgkryYP0=",
+          "cp38"
+        ],
+        "PDFNetPython3-9.5-cp38-cp38-manylinux1_x86_64.whl": [
+          "9o1pZOrY6r4Q+m5gE8+h75T7C6C6CBU6ToToMS+dEXQ=",
+          "cp38"
+        ],
+        "PDFNetPython3-9.5-cp38-cp38-manylinux2010_i686.whl": [
+          "tJZsEn8C6ktDnovfqv0cvieGpH8TQklbhtW9KXINWqk=",
+          "cp38"
+        ],
+        "PDFNetPython3-9.5-cp38-cp38-manylinux2010_x86_64.whl": [
+          "Hjl7RscD9/V/BuXfta0qRFiDSC7Gdj6zo1a/t/kPRQ8=",
+          "cp38"
+        ],
+        "PDFNetPython3-9.5-cp38-cp38-manylinux2014_i686.whl": [
+          "rLDMjqX0YbDM0hDtCge5S8SYP0gvx/mkFT+CUbih1As=",
+          "cp38"
+        ],
+        "PDFNetPython3-9.5-cp38-cp38-manylinux2014_x86_64.whl": [
+          "p+s2at0gaVnzGfBmRnK95CUw0ycByRInib0pOmr6gZc=",
+          "cp38"
+        ],
+        "PDFNetPython3-9.5-cp39-cp39-macosx_10_15_universal2.whl": [
+          "+0rI+FBYY4oUYHzBh7WTlz3PZU5nt0UsziuVfjpJsAo=",
+          "cp39"
+        ],
+        "PDFNetPython3-9.5-cp39-cp39-manylinux1_i686.whl": [
+          "qav9n69g7N9oL/xYYFM0eWddksbnloTJvGg8u4mwmvQ=",
+          "cp39"
+        ],
+        "PDFNetPython3-9.5-cp39-cp39-manylinux1_x86_64.whl": [
+          "iGHHtnb7WLLoDK7f6ElrIQSFoXv0zp7l/3KIf/oQX3I=",
+          "cp39"
+        ],
+        "PDFNetPython3-9.5-cp39-cp39-manylinux2010_i686.whl": [
+          "xxqJYDoD8lOzGPvWv993yGpfAPs8VTfAXTvQzE+g33w=",
+          "cp39"
+        ],
+        "PDFNetPython3-9.5-cp39-cp39-manylinux2010_x86_64.whl": [
+          "DRY0gYGSbk69F2vZzNz+iEfGAgJpRiKdaNnmRdgJ2jY=",
+          "cp39"
+        ],
+        "PDFNetPython3-9.5-cp39-cp39-manylinux2014_aarch64.whl": [
+          "cM/9gtEHUAfMsBpAYuJpLK4nY7h3p0SKCM9FhT8xuPc=",
+          "cp39"
+        ],
+        "PDFNetPython3-9.5-cp39-cp39-manylinux2014_i686.whl": [
+          "H4uVBxJGbInN+Uy1f+8vOihRWLldCEk0AU4wafRqr2Y=",
+          "cp39"
+        ],
+        "PDFNetPython3-9.5-cp39-cp39-manylinux2014_x86_64.whl": [
+          "ViFy+bWlvC151mw0/A9VuOPftgw8l8gdwdang3lczv4=",
           "cp39"
         ]
       }
@@ -129776,6 +129832,18 @@
       "wheels": {
         "roboflow-0.2.29-py3-none-any.whl": [
           "9fqxRrxufgHvS5dh31j8UWK0m8d+9O44r47E7qJN9oM=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.30": {
+      "sdist": [
+        "GpcVRLGgofzP7c5WrdcXVpUs5kaHL0/cgTFIAn7RxUI=",
+        "roboflow-0.2.30.tar.gz"
+      ],
+      "wheels": {
+        "roboflow-0.2.30-py3-none-any.whl": [
+          "33TRkhLvqWoDMElKSSo+uVzLhHXQgUoTyOndcU1YXn4=",
           "py3"
         ]
       }

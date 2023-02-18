@@ -23207,6 +23207,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.5": {
+      "sdist": [
+        "Iy6qsxBlp6OVd6TJFKWvkVX9Prcbij58NtJstkLhV3U=",
+        "crosscompute-views-map-0.1.5.tar.gz"
+      ],
+      "wheels": {
+        "crosscompute_views_map-0.1.5-py3-none-any.whl": [
+          "J21ROHeJ7PdE3mx38EKGeTnp4EOvOU1NVYN0dAW3YA4=",
+          "py3"
+        ]
+      }
     }
   },
   "crypto-data-fetcher": {
@@ -114562,6 +114574,18 @@
         ]
       }
     },
+    "1.0.19": {
+      "sdist": [
+        "Qse1+pSJ15xWaQXQCn1EJlfNnu5oLRcby6tW9X+0PNk=",
+        "PyQuantimClient-1.0.19.tar.gz"
+      ],
+      "wheels": {
+        "PyQuantimClient-1.0.19-py3-none-any.whl": [
+          "h5UY3ydVZigGUnWQhduyn1Q75IWsJuRbq3K9QC6RyQs=",
+          "py3"
+        ]
+      }
+    },
     "1.0.2": {
       "sdist": [
         "mhtwrrJMjGPgXAzZ++Cs1d8asoFHRPWdGzeR7/If/To=",
@@ -142348,6 +142372,46 @@
         ],
         "triton-2.0.0.dev20230208-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "jsLIMUhKkBLnhQ0cYKKdNpLn98KV6w/x7PgtgfLuyfQ=",
+          "pp39"
+        ]
+      }
+    },
+    "2.0.0.dev20230217": {
+      "wheels": {
+        "triton-2.0.0.dev20230217-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "75EySGZpMJAkPnAET71dSFbfx8JnNRA82cy9ANvCCO8=",
+          "cp310"
+        ],
+        "triton-2.0.0.dev20230217-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "pi1dz0UjuZjE2B3TwRu65X1THnGiinMrpPy8KW62WVI=",
+          "cp311"
+        ],
+        "triton-2.0.0.dev20230217-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "iVoYBD3NSTHh5oNTv9JDoYvaiZTN4xDUGFPhp6a6GoI=",
+          "cp36"
+        ],
+        "triton-2.0.0.dev20230217-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "W8AH2ZNWV0JGrm5mPGKHKj59g8LY0OpfonToFfsx9D8=",
+          "cp37"
+        ],
+        "triton-2.0.0.dev20230217-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "kp/21KFJFayDEq9fwen2VgAX7dYW/m5dLdXjvBriWkI=",
+          "cp38"
+        ],
+        "triton-2.0.0.dev20230217-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "6gwAIVrnlWxU9n9QhisB0bC5byI2Zd9xoClU8n33j+E=",
+          "cp39"
+        ],
+        "triton-2.0.0.dev20230217-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "PXSW/ZJDckmPOroR+oR05DxvCy9HYnLVE1vBlOYis+8=",
+          "pp37"
+        ],
+        "triton-2.0.0.dev20230217-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "MhC3UQcWzAhLrRF10bmpGrMRSM5zFfF7RKzG3JqejgM=",
+          "pp38"
+        ],
+        "triton-2.0.0.dev20230217-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "DGnGbA3kQQW/gp4ryW5xhnxgSX4xGwjMthP5Tvcfirc=",
           "pp39"
         ]
       }

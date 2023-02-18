@@ -101793,6 +101793,12 @@
         "a49XuRSjK+/tBxO7nXs6J1MA6OYkeea3C7+j62b2nZ0=",
         "pegasus-wms.dax-5.0.4.tar.gz"
       ]
+    },
+    "5.0.5": {
+      "sdist": [
+        "bKwE0k9FCcQwN0WgKIak1buSlyyoRdRKmeUkxdwc+IM=",
+        "pegasus-wms.dax-5.0.5.tar.gz"
+      ]
     }
   },
   "pelican-autostatic": {
@@ -113365,6 +113371,10 @@
         "pymaf-0.3.1-cp38-cp38-manylinux2014_x86_64.whl": [
           "4H5Jrbkh9GVX2zbUJa776trdVfJeyGBwfqavdJsNYAY=",
           "cp38"
+        ],
+        "pymaf-0.3.1-py3-none-any.whl": [
+          "gBMHN14mzyN5k46TOkNOsa1ePfTYwgXUR04ik8nUQLc=",
+          "py3"
         ]
       }
     }
@@ -119132,6 +119142,30 @@
       "wheels": {
         "PyTimbre-0.5.16-py3-none-any.whl": [
           "Aygz2QkHEw6lGCcvkNGMXKImTXCUvI7++vuEyNSkH7M=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.17": {
+      "sdist": [
+        "S6ltIKNwt9M10BaJeDDHOsYNdF0mqlhsfKNZ6RkqCCM=",
+        "PyTimbre-0.5.17.tar.gz"
+      ],
+      "wheels": {
+        "PyTimbre-0.5.17-py3-none-any.whl": [
+          "ezgPeQAC8tSxkG13Zg+CQX67/9ltpGZ1dpoKcCFUvDo=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.18": {
+      "sdist": [
+        "87Mpjr6w6zVHG1nR39JWN3cFvIUFh7otKnNw2QBHvcI=",
+        "PyTimbre-0.5.18.tar.gz"
+      ],
+      "wheels": {
+        "PyTimbre-0.5.18-py3-none-any.whl": [
+          "BjbcdclREGCfCJiDh9P9fNmIy7AzUUopeqaq7IxEdIU=",
           "py3"
         ]
       }

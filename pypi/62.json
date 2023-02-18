@@ -16494,6 +16494,18 @@
         ]
       }
     },
+    "0.10.0": {
+      "sdist": [
+        "WqtV1NRyYTJ9CrbH920rB5+T9iWRfuEY3Z5ji5Txkp8=",
+        "bluesky-kafka-0.10.0.tar.gz"
+      ],
+      "wheels": {
+        "bluesky_kafka-0.10.0-py3-none-any.whl": [
+          "i4JgXWEhPZSE5owgpj0D8kJGp3Wzcp/cP8tyWcysUXg=",
+          "py3"
+        ]
+      }
+    },
     "0.2.0": {
       "sdist": [
         "HhaZckDCypyn/up5gQpj/3Cvo1oXfHd4GO5l/dKuvZs=",
@@ -17909,6 +17921,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.74": {
+      "sdist": [
+        "fYVUXYbjXbQk4oEAvQPmpXXYmiZtLfDFfhyCdCwyHZQ=",
+        "botocore-a-la-carte-customer-profiles-1.29.74.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_customer_profiles-1.29.74-py3-none-any.whl": [
+          "bGk+8i2iWnms6Tuau+g3HT+JCzlpqRUMRUvTsOuNgpg=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-route53": {
@@ -18295,6 +18319,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.74": {
+      "sdist": [
+        "T113TxYH0YYk36RngbwPJfwZKs3i0rUIDjkNOO8afL8=",
+        "botocore-a-la-carte-route53-1.29.74.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_route53-1.29.74-py3-none-any.whl": [
+          "B7G/tX19zJP1YeZgeJEMVtSO0CsgaVCUziPjgfjZl4g=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-timestream-query": {
@@ -18678,6 +18714,18 @@
       "wheels": {
         "botocore_a_la_carte_timestream_query-1.29.73-py3-none-any.whl": [
           "DVtjsty/vFvNLpIe6fZTH3V2DxhFEB89jlNlXRh3TYg=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.74": {
+      "sdist": [
+        "B17yMm2Bfy2KDvdRWUi7Mg7Sp+EgdOGBpFzssUk4cmU=",
+        "botocore-a-la-carte-timestream-query-1.29.74.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_timestream_query-1.29.74-py3-none-any.whl": [
+          "MZXkVMFqhG0L+uJ8gbOLzm80MSHNJjwwsZhXiWbiRVc=",
           "py3"
         ]
       }
@@ -33788,6 +33836,18 @@
         ]
       }
     },
+    "4.0.29": {
+      "sdist": [
+        "2X8wWwJiFISrkydxhmVxvAIyCOb2LFzlaQniJaTe9kU=",
+        "cyberdrop-dl-4.0.29.tar.gz"
+      ],
+      "wheels": {
+        "cyberdrop_dl-4.0.29-py3-none-any.whl": [
+          "jLbxm+YgVvJHzkAXs2fJOzbPU38/GGBdtnV5BxJ2yCo=",
+          "py3"
+        ]
+      }
+    },
     "4.0.3": {
       "sdist": [
         "KMC8gFaV92AKuSX4bI2iYw9deiIkf7LhBKH7KtV7cxg=",
@@ -33796,6 +33856,18 @@
       "wheels": {
         "cyberdrop_dl-4.0.3-py3-none-any.whl": [
           "m0Bag1T1bP1iFQc4xNFNhJc2QMCGwtaU104cpO4nx+s=",
+          "py3"
+        ]
+      }
+    },
+    "4.0.31": {
+      "sdist": [
+        "xcMmQG0kpn1CmPaYzX6rFfHvN8GUmH/iONoSQ6pWwXY=",
+        "cyberdrop-dl-4.0.31.tar.gz"
+      ],
+      "wheels": {
+        "cyberdrop_dl-4.0.31-py3-none-any.whl": [
+          "EvNTB+xMrdYuTOwngO9tf7cbxk8tmr67Qa4aw+/OR00=",
           "py3"
         ]
       }
@@ -92466,10 +92538,34 @@
     }
   },
   "odoo14-addon-resource-booking": {
+    "14.0.1.0.1": {
+      "wheels": {
+        "odoo14_addon_resource_booking-14.0.1.0.1-py3-none-any.whl": [
+          "0GYqddvcKMqoLsNOgeeZT/h7rDxim/jbyJMbJnbFQxk=",
+          "py3"
+        ]
+      }
+    },
     "14.0.1.0.1.dev2": {
       "wheels": {
         "odoo14_addon_resource_booking-14.0.1.0.1.dev2-py3-none-any.whl": [
           "bZcLN1FG7YN+uSEBXTMe9MpdIdXqaIxM51hwbl67QnM=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.1.1.0": {
+      "wheels": {
+        "odoo14_addon_resource_booking-14.0.1.1.0-py3-none-any.whl": [
+          "i8YZEaIWZtotUQvK10KGOdjNAwuVJfVMGSa9A+tLNrI=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.1.1.1.dev1": {
+      "wheels": {
+        "odoo14_addon_resource_booking-14.0.1.1.1.dev1-py3-none-any.whl": [
+          "auUbMvf+WZkM53GliBulS7x2qtoQj1yVQmf8FMh3hQc=",
           "py3"
         ]
       }

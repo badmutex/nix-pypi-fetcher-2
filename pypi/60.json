@@ -27494,6 +27494,10 @@
         "deepsparse-1.4.0.tar.gz"
       ],
       "wheels": {
+        "deepsparse-1.4.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "KcPTWSXSjJy6HnHeD2I/SlDm1Q7rvZByIqnqmEVm0KM=",
+          "cp310"
+        ],
         "deepsparse-1.4.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "FLkTfKsbJj1Xa+bj1QyrkKgiBSPzetkMP8Rct2l4FaI=",
           "cp37"
@@ -28282,6 +28286,12 @@
       "sdist": [
         "BMrUBbV9DZ4GAWlsEQ6c25Mok2dckJWURa/RgTrGl24=",
         "dessert-1.4.5.tar.gz"
+      ]
+    },
+    "1.4.6": {
+      "sdist": [
+        "7gClxoAUq0zPbQg33penU+udcuYgPNFlq+x3a6lLjdo=",
+        "dessert-1.4.6.tar.gz"
       ]
     }
   },
@@ -44089,6 +44099,20 @@
         "tJfUBEtyAZLjnAcgmpgOV+uX/4VD4lnrat4bN/uYCCk=",
         "frogp1228_nester-1.0.10.tar.gz"
       ]
+    }
+  },
+  "frostfs-testlib-plugin-sbercloud": {
+    "1.2.0": {
+      "sdist": [
+        "rdp3Sl+lsYuarnzOJrFFRu7uFLJQszqLo5vluMZWnOI=",
+        "frostfs-testlib-plugin-sbercloud-1.2.0.tar.gz"
+      ],
+      "wheels": {
+        "frostfs_testlib_plugin_sbercloud-1.2.0-py3-none-any.whl": [
+          "9iweTO/o8G81P8rncHvYR7Qtx2ms90ZDwBJi0cPK7nQ=",
+          "py3"
+        ]
+      }
     }
   },
   "fsm-engine": {
@@ -118228,6 +118252,18 @@
       "wheels": {
         "ReFrame_HPC-4.0.4-py3-none-any.whl": [
           "08jOfyU0uN+HsCCh0RIc6Flv3PvJf1FbLQkNQX7SgaI=",
+          "py3"
+        ]
+      }
+    },
+    "4.0.5": {
+      "sdist": [
+        "kg895W3pw/RkqM6esGeKZtOwZWqXCp/Yt5vcBQ5BXb0=",
+        "ReFrame-HPC-4.0.5.tar.gz"
+      ],
+      "wheels": {
+        "ReFrame_HPC-4.0.5-py3-none-any.whl": [
+          "/QPjL5XMQXj72ov5O08SU7KMAz3397tEmSmMy9pCKN0=",
           "py3"
         ]
       }

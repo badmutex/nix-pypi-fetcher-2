@@ -11683,6 +11683,18 @@
           "py3"
         ]
       }
+    },
+    "0.12.0": {
+      "sdist": [
+        "ssP4zifbD10JKddRDi2Yqg9bi5i96iMZDjFfyR9bS+8=",
+        "binarylane_cli-0.12.0.tar.gz"
+      ],
+      "wheels": {
+        "binarylane_cli-0.12.0-py3-none-any.whl": [
+          "CjoRl3QA9aRKJobydT+OwotQPEy3K3f5KuQxNmcFR0c=",
+          "py3"
+        ]
+      }
     }
   },
   "bipbop-microservices": {
@@ -12692,6 +12704,18 @@
       "wheels": {
         "botocore_a_la_carte_ses-1.29.73-py3-none-any.whl": [
           "Ur5orbXceWVc1u+LRFShJuL0VCiQnooMieZnMyCAyz8=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.74": {
+      "sdist": [
+        "XA5EnGaGZPj17tlZ1NmIdIBrOveZVs6JM739Zuwg3J4=",
+        "botocore-a-la-carte-ses-1.29.74.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_ses-1.29.74-py3-none-any.whl": [
+          "h2ibkEz+gwieLIB1Vl0T5zpHXhYf1TlIZrRzrNpgop4=",
           "py3"
         ]
       }
@@ -38735,6 +38759,12 @@
         "HXbilthWl3YSmUolvsYVIsWt57zGNFxFNXPYYplmfKg=",
         "dkist_processing_vbi-1.1.3.tar.gz"
       ]
+    },
+    "1.1.4": {
+      "sdist": [
+        "E3csxAU+v3Iptb2yBI8VfGGJu2+tIyNvdEPq8CBzTIU=",
+        "dkist_processing_vbi-1.1.4.tar.gz"
+      ]
     }
   },
   "dkrywczuk": {
@@ -42211,6 +42241,20 @@
         "Va7aLTBc+mVWcAP3CkH723eaA7AQYz2qJJR9lyiEZw0=",
         "easycsv-0.8.0.tar.gz"
       ]
+    }
+  },
+  "easymsgbox": {
+    "0.1.0": {
+      "sdist": [
+        "jZWlzYD+PZfkwQGyv8/+ZcsEQ2Dsima7phCEWLkOwTs=",
+        "easymsgbox-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "easymsgbox-0.1.0-py3-none-any.whl": [
+          "FuMxdg07GBEiFfdpJweIZ+jMcfs0OtUY6wr0Tj+YpQM=",
+          "py3"
+        ]
+      }
     }
   },
   "easyshop.login": {
@@ -140332,6 +140376,62 @@
         ],
         "slipcover-0.2.2-cp39-cp39-win_amd64.whl": [
           "JCOAcE66tG0eJAnNXNEhV0/TJPtU6AMS2qF69a0xiXw=",
+          "cp39"
+        ]
+      }
+    },
+    "0.3.0": {
+      "sdist": [
+        "XvBvqABx0Nek+s3w/nMPOrPsSAvffSB3MNMsqu+Bw+g=",
+        "slipcover-0.3.0.tar.gz"
+      ],
+      "wheels": {
+        "slipcover-0.3.0-cp310-cp310-macosx_11_7_universal2.whl": [
+          "wLCk005dGpzt9mlnbhrCWpa1rqnKavD5YKXzxpmEQEk=",
+          "cp310"
+        ],
+        "slipcover-0.3.0-cp310-cp310-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "hIn8BaF8+O3PQe1uq287NUl+JYHE3tVzzXWvV4w/TTE=",
+          "cp310"
+        ],
+        "slipcover-0.3.0-cp310-cp310-win_amd64.whl": [
+          "u/dvGRoOPbEz3qAU90jDCCN1MXIx5A0zbua7050Hic8=",
+          "cp310"
+        ],
+        "slipcover-0.3.0-cp311-cp311-macosx_10_9_universal2.whl": [
+          "Xmb/yVqzdylKorUUMY0exvrQcHBkfVzsSL8EHhdWoO0=",
+          "cp311"
+        ],
+        "slipcover-0.3.0-cp311-cp311-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "4yAzJgHMV1f5TInZRrMdb8TQPCGjlsIcG1zCq4JedNM=",
+          "cp311"
+        ],
+        "slipcover-0.3.0-cp311-cp311-win_amd64.whl": [
+          "dllZa/4fzz+wRPqLIKE1i7nRx+rfzcj1VIuuSS2P6Lc=",
+          "cp311"
+        ],
+        "slipcover-0.3.0-cp38-cp38-macosx_10_15_universal2.whl": [
+          "I8gnN4f+xQuvHusr+ls1CN3J+Xmx6llE5hhmSluIH2s=",
+          "cp38"
+        ],
+        "slipcover-0.3.0-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "gnh2CArQ2fgic0ifH3XDgQvpQU0ROTY2nbjO1cAogqk=",
+          "cp38"
+        ],
+        "slipcover-0.3.0-cp38-cp38-win_amd64.whl": [
+          "mVYxoNuUkDPaWcYUSLX3v83UwQzavRSEtUUNEQqBGlE=",
+          "cp38"
+        ],
+        "slipcover-0.3.0-cp39-cp39-macosx_11_7_universal2.whl": [
+          "SkkWuRTERvawrVR3LDr3OGnBZztJhL9Vbtw+rvimeNg=",
+          "cp39"
+        ],
+        "slipcover-0.3.0-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "+PYPuKCgmFKk8SmlxYTgo1DxBvqJEf3hEfUlAPWlAzI=",
+          "cp39"
+        ],
+        "slipcover-0.3.0-cp39-cp39-win_amd64.whl": [
+          "7MLPeZPE0c+OeajP3W40nsOVZ5hCk7PNgkZ7XMC4RJI=",
           "cp39"
         ]
       }

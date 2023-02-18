@@ -10348,6 +10348,18 @@
         ]
       }
     },
+    "2.2.71": {
+      "sdist": [
+        "dQawVNOzPs5Py4FNt9wo27Kjw1pX+wSRkZUwD782ePU=",
+        "aws-cdk.asset-awscli-v1-2.2.71.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.asset_awscli_v1-2.2.71-py3-none-any.whl": [
+          "aW8cPgZQDyh7yZS22Kh54sjFUMygEUagDc0QtAcBsMw=",
+          "py3"
+        ]
+      }
+    },
     "2.2.8": {
       "sdist": [
         "x6mDsZ3F88uEgJdSF66MCtZl04TifvqGlwmro2tZGI0=",
@@ -11054,6 +11066,18 @@
       "wheels": {
         "aws_cdk.asset_node_proxy_agent_v5-2.0.6-py3-none-any.whl": [
           "d7C+omdhNx4Ntoo0zoGUsvpZMx/110EseOkkLKMTtcY=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.60": {
+      "sdist": [
+        "gkPtKeUJghIUoXOyI/VIMitmBGHcMHiY3f/q7jcgVp8=",
+        "aws-cdk.asset-node-proxy-agent-v5-2.0.60.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.asset_node_proxy_agent_v5-2.0.60-py3-none-any.whl": [
+          "9B6s5S+JglaYi31O8TxO9r3Bz8I2ec+aLyMkcDP1FfA=",
           "py3"
         ]
       }
@@ -16225,6 +16249,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.74": {
+      "sdist": [
+        "W32uS/ray28sRBZHmZ6CuTFXRIhktReDlJCVoeg1U18=",
+        "botocore-a-la-carte-forecastquery-1.29.74.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_forecastquery-1.29.74-py3-none-any.whl": [
+          "2z1gOasTDHgDQEM16xN2xXJJCAGn4O+xZZMAksPympM=",
+          "py3"
+        ]
+      }
     }
   },
   "braket-daq": {
@@ -19270,6 +19306,18 @@
       "wheels": {
         "clean_ioc-0.0.2-py3-none-any.whl": [
           "eGVdipOHp+5hP5HHI4wLFr1OlC9EtHs1YYHGxf4TmKs=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "nNYWLJDnkdwtGCG7CvkAFN9V6mL29+riutY+EBEsuFs=",
+        "clean_ioc-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "clean_ioc-0.0.3-py3-none-any.whl": [
+          "bMWvWs/Tkv3RPiiabmPy1RnAlc5bwvnCTZavhUPH4Ak=",
           "py3"
         ]
       }
@@ -42998,6 +43046,12 @@
       "sdist": [
         "MsvNGnuEhAFqoxcKeAGZXsYbv4+kDyF+Nw51DPm76uo=",
         "eqalert-3.3.5.tar.gz"
+      ]
+    },
+    "3.4.1": {
+      "sdist": [
+        "ESlffv4RDg1RIk5RWTilI9eUW9ZEg+2zT+mO/u9xS8o=",
+        "eqalert-3.4.1.tar.gz"
       ]
     }
   },
@@ -81711,6 +81765,20 @@
       ]
     }
   },
+  "neuralnetoperator": {
+    "0.0.0": {
+      "sdist": [
+        "ekCiDXej9iJPZtNcrOAy88B+sOenkAV0KRXA1Opez8E=",
+        "neuralnetoperator-0.0.0.tar.gz"
+      ],
+      "wheels": {
+        "neuralnetoperator-0.0.0-py3-none-any.whl": [
+          "jumUQMmEZHI4YvW/NwLG3Y5OGFHv0DuTT7J6pqVgbW0=",
+          "py3"
+        ]
+      }
+    }
+  },
   "neurosynth": {
     "0.3.1": {
       "sdist": [
@@ -87285,6 +87353,14 @@
           "py3"
         ]
       }
+    },
+    "14.0.20230217.0": {
+      "wheels": {
+        "odoo14_addons_oca_account_invoicing-14.0.20230217.0-py3-none-any.whl": [
+          "Yq09VcMY/VDsraji3TENh8GLYzOXkPtVelH+eWZsn7s=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo14-addons-oca-l10n-usa": {
@@ -89110,6 +89186,18 @@
       "wheels": {
         "opentelemetry_instrumentation-0.36b0-py3-none-any.whl": [
           "g7pK59UpK1sz4PhRzFx22PkRlrmzUngA/BOFXDM4OsI=",
+          "py3"
+        ]
+      }
+    },
+    "0.37b0": {
+      "sdist": [
+        "KhcqfvjTUzLySpfK9re2L+QYpIz4Qa4rza7TOP6je0E=",
+        "opentelemetry_instrumentation-0.37b0.tar.gz"
+      ],
+      "wheels": {
+        "opentelemetry_instrumentation-0.37b0-py3-none-any.whl": [
+          "Db1NhpYIZnud+vOZFDEsWXk3DV/F+qNmePXiX6VPBFs=",
           "py3"
         ]
       }
@@ -99016,6 +99104,12 @@
         "pulumi_command-0.7.0.tar.gz"
       ]
     },
+    "0.7.1": {
+      "sdist": [
+        "r5MFPUElO6J3EEb1WnO0jatK/wlghZULrBBnvJRiNaE=",
+        "pulumi_command-0.7.1.tar.gz"
+      ]
+    },
     "0.7.1a1672772158": {
       "sdist": [
         "0ztApmkcHS4TJwi9doWOrWaGrfYsO9rU5dzea9ZBm58=",
@@ -99056,6 +99150,12 @@
       "sdist": [
         "HP52IbhhHTt9Rv9DJveo/bIgC47gDY3HT0TziB/+En4=",
         "pulumi_command-0.7.1a1676394151.tar.gz"
+      ]
+    },
+    "0.7.1a1676676792": {
+      "sdist": [
+        "5dha2YhGWwR93O3E3W92n4F8lYkCPI4qZMMpk1w6dzY=",
+        "pulumi_command-0.7.1a1676676792.tar.gz"
       ]
     },
     "4.5.0": {

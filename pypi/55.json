@@ -3575,6 +3575,18 @@
           "py3"
         ]
       }
+    },
+    "1.7.3": {
+      "sdist": [
+        "vB2bcXv8PfGeZZe92YfhPnx+n6Yz8Qd8i9cNX6vhKVM=",
+        "animdl-1.7.3.tar.gz"
+      ],
+      "wheels": {
+        "animdl-1.7.3-py3-none-any.whl": [
+          "r4gr/r4tHSw9VCBJjHwiEYQnTmpTdZS2N7HeQWQ0YP8=",
+          "py3"
+        ]
+      }
     }
   },
   "ankisiyuan": {
@@ -19255,6 +19267,38 @@
         "bliss_audio-0.1.4-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
           "q5Is0R19FLeBT8L9o44WPXI31bJjqQv+1af+LXVJR5A=",
           "cp39"
+        ]
+      }
+    },
+    "0.1.5": {
+      "wheels": {
+        "bliss_audio-0.1.5-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "n4uBiFNUSoQsgTogJKwO+2fOBzmDldaiTvzCoImJH30=",
+          "cp310"
+        ],
+        "bliss_audio-0.1.5-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "OmxBLxVIS2qpBqSK/5b8GC651eKlSUWbwVHDVpd4BJ4=",
+          "cp311"
+        ],
+        "bliss_audio-0.1.5-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "SS9Qj+nZQVtAel7LOsAkCI1MqzGtvaJXZ8KQwBTz6aI=",
+          "cp37"
+        ],
+        "bliss_audio-0.1.5-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "cGyr7K4dHL5hZlF3LQY2lbNC53ewFA6oGJeIuRhIDzA=",
+          "cp38"
+        ],
+        "bliss_audio-0.1.5-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "42hlkAhTtOFLBnHX578STNtyh6rqfv89OISA0w2K1cY=",
+          "cp39"
+        ],
+        "bliss_audio-0.1.5-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "PQhc4BgUAB3OaOQUVfvbOw3qJ4+j/4mqlQ2bOl0dbEI=",
+          "pp38"
+        ],
+        "bliss_audio-0.1.5-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "njEAb3OS9L5Y1l1GTihO+9NLmS6HknpfWrWwQlPCdkM=",
+          "pp39"
         ]
       }
     }
@@ -103121,6 +103165,80 @@
         "pyfakers-0.1.0-py2.py3-none-manylinux1_x86_64.whl": [
           "mMOim7fZYss8kn6PLY5EnQuWrXEY4bppQ8fIU9TU+7E=",
           "py2.py3"
+        ]
+      }
+    }
+  },
+  "pyfembed": {
+    "0.1.1": {
+      "sdist": [
+        "6YogXGcm2E7NLDy+DdH84F/jXGpCia1ve0NFeOmXFnE=",
+        "pyfembed-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "pyfembed-0.1.1-py3-none-any.whl": [
+          "3eVT1jsGcNky+2Ffki2EuUUnJwARoIcQiqMgDFQeSGQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "SN9ZFK3LVyF0g7tktrDX9X4E2F79D11suYccCrVQdU4=",
+        "pyfembed-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "pyfembed-0.1.2-py3-none-any.whl": [
+          "8fDXTV2rEvtz+dYH2v34CKZpAMr0Oie+UD0sl/75uoE=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.3": {
+      "sdist": [
+        "9goFLT5PbsmHn6C/USi2TBuLSkoCsPjCbzYEFv0xfek=",
+        "pyfembed-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "pyfembed-0.1.3-py3-none-any.whl": [
+          "WBq/jBPkO0od0fbIKmWsDFBRFkS4nOH+59yyNePt0vY=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.4": {
+      "sdist": [
+        "P+4p3NflpRG+eDTpXjgfCQ5nYOzQ2Ms5Vi1sNeGYCMc=",
+        "pyfembed-0.1.4.tar.gz"
+      ],
+      "wheels": {
+        "pyfembed-0.1.4-py3-none-any.whl": [
+          "2bgiGb2g+PtizK5xdxds7KCmpuV+ZDF49qTV2xRyS4o=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.5": {
+      "sdist": [
+        "hWsiDyKFdT50ik0cYs/FjKOLcaaNEwrzFDhuN7DdVRA=",
+        "pyfembed-0.1.5.tar.gz"
+      ],
+      "wheels": {
+        "pyfembed-0.1.5-py3-none-any.whl": [
+          "tHGwSQkH0AfR/K60eCpERYeoiLMPwbIqvjBlpAxc5MY=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.6": {
+      "sdist": [
+        "xifs4OnAjzhK5ZONkJwZBFXDQmnhfRuPM6UTMOhPRxQ=",
+        "pyfembed-0.1.6.tar.gz"
+      ],
+      "wheels": {
+        "pyfembed-0.1.6-py3-none-any.whl": [
+          "B+/oT8f+YCSpunYRcWHlkDdrpiYmt1xQ5Zfr4ix1O+U=",
+          "py3"
         ]
       }
     }

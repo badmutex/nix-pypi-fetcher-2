@@ -81795,6 +81795,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.25": {
+      "sdist": [
+        "l2DXbfY7uxU1oihf8zIYO9yafQLU9Zid7iJdJy2lRWg=",
+        "mpfi-0.0.25.tar.gz"
+      ],
+      "wheels": {
+        "mpfi-0.0.25-py3-none-any.whl": [
+          "c8Ru1xij5H/M0qe2FBdpnkgFAZzzdDh5AT7FY9SQBq8=",
+          "py3"
+        ]
+      }
     }
   },
   "mpythonconn": {
@@ -96934,6 +96946,14 @@
       "wheels": {
         "odoo_addon_scheduler_error_mailer-15.0.1.0.0.3-py3-none-any.whl": [
           "lmwhqlFXe+bfPPgM0Qkr2K3qJPhedx+fqDYd1L/r5UM=",
+          "py3"
+        ]
+      }
+    },
+    "15.0.1.0.0.4": {
+      "wheels": {
+        "odoo_addon_scheduler_error_mailer-15.0.1.0.0.4-py3-none-any.whl": [
+          "ozxXI6FolPUyYvdqnqxPWdnh2tj6d3aU/pA7xSaGObY=",
           "py3"
         ]
       }
@@ -130268,6 +130288,74 @@
         ],
         "robotpy_commands_v2-2023.3.2.2-cp39-cp39-win_amd64.whl": [
           "PBd6iIhavrla/R6aPTTTQVEbZFZnYXOxqhC0/nLWIeg=",
+          "cp39"
+        ]
+      }
+    },
+    "2023.4.1.0": {
+      "sdist": [
+        "m8l7FpSDokHzAvkuoceNuDOg+7TfnN2j7dkxZKChKiE=",
+        "robotpy-commands-v2-2023.4.1.0.tar.gz"
+      ],
+      "wheels": {
+        "robotpy_commands_v2-2023.4.1.0-cp310-cp310-macosx_10_16_x86_64.whl": [
+          "fbU33SkwWeU3E/DDw72Q1mujLgpxx/7VLGzHMO6w9RE=",
+          "cp310"
+        ],
+        "robotpy_commands_v2-2023.4.1.0-cp310-cp310-manylinux_2_35_x86_64.whl": [
+          "mA8F8CXLww4L/QFqRHEmy1g86DL+h0Ai8N02eH67I2s=",
+          "cp310"
+        ],
+        "robotpy_commands_v2-2023.4.1.0-cp310-cp310-win_amd64.whl": [
+          "Tj2oFkmNxcYLHhzaSIp72dSoaJ7iMPbXUzHFnuElGSM=",
+          "cp310"
+        ],
+        "robotpy_commands_v2-2023.4.1.0-cp311-cp311-macosx_11_0_universal2.whl": [
+          "Miq2DqCkpngX50cZ8b4U6IWsQblSgOmiZycVGZ+AIJ8=",
+          "cp311"
+        ],
+        "robotpy_commands_v2-2023.4.1.0-cp311-cp311-manylinux_2_35_x86_64.whl": [
+          "jNBWRjfxBHJdmB5moHNXdaltGGqQPA0Yik/a3/S0img=",
+          "cp311"
+        ],
+        "robotpy_commands_v2-2023.4.1.0-cp311-cp311-win_amd64.whl": [
+          "sTjU0QJsqg0cSrAwd/jn6CCAnAPiZjX3+yGJCvYI2tI=",
+          "cp311"
+        ],
+        "robotpy_commands_v2-2023.4.1.0-cp37-cp37m-macosx_10_16_x86_64.whl": [
+          "ZXpeshe/3ANSWRDRBbtWmOSeCFjl5xqHiYDoBcMVeKw=",
+          "cp37"
+        ],
+        "robotpy_commands_v2-2023.4.1.0-cp37-cp37m-manylinux_2_35_x86_64.whl": [
+          "UTIzpmutmAfSrMfGHZ4eWTJ7i1DYvIqIspH5Rc8BpJc=",
+          "cp37"
+        ],
+        "robotpy_commands_v2-2023.4.1.0-cp37-cp37m-win_amd64.whl": [
+          "VHpUOJrvg0W6eLKzFfl42Jhef/Kz1+tEm0zx2AHBkTg=",
+          "cp37"
+        ],
+        "robotpy_commands_v2-2023.4.1.0-cp38-cp38-macosx_10_16_x86_64.whl": [
+          "V+4hhOBeM1fazQ8xprLHF3CoP9uSbqqcIevtUPYDftI=",
+          "cp38"
+        ],
+        "robotpy_commands_v2-2023.4.1.0-cp38-cp38-manylinux_2_35_x86_64.whl": [
+          "n3z2EobbaSmU6P3C9Qp4DiJf54y6ijBbIcUfIkqjfWw=",
+          "cp38"
+        ],
+        "robotpy_commands_v2-2023.4.1.0-cp38-cp38-win_amd64.whl": [
+          "R4NJzi1uVb85JGvs+5fAAel/ME/xo1zxluDk3Q98Ot0=",
+          "cp38"
+        ],
+        "robotpy_commands_v2-2023.4.1.0-cp39-cp39-macosx_10_16_x86_64.whl": [
+          "PiVktUgEv5XIrecCJCm6jtKcVK/Arq4d6nEw25e4PE4=",
+          "cp39"
+        ],
+        "robotpy_commands_v2-2023.4.1.0-cp39-cp39-manylinux_2_35_x86_64.whl": [
+          "X577uAKLC6fv+32i/XxY3LvqPaYqcg74JM6waXbyjok=",
+          "cp39"
+        ],
+        "robotpy_commands_v2-2023.4.1.0-cp39-cp39-win_amd64.whl": [
+          "iD0RFJpZjhkE+GQOx2lEJHvBqP4Une1BvgwA1kNUBvE=",
           "cp39"
         ]
       }

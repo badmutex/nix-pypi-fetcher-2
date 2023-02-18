@@ -30557,6 +30557,20 @@
       }
     }
   },
+  "dongfang-xianglin-tang-curiosties-of-lotus-asia-zun-20101124": {
+    "2023.2.18.0": {
+      "sdist": [
+        "n4SOQ3gK4x7GcxvMZaaO4vMOAppsFMv6R5uRCkKUySU=",
+        "dongfang-xianglin-tang-curiosties-of-lotus-asia-zun-20101124-2023.2.18.0.tar.gz"
+      ],
+      "wheels": {
+        "dongfang_xianglin_tang_curiosties_of_lotus_asia_zun_20101124-2023.2.18.0-py3-none-any.whl": [
+          "OxqhZjAwFGlTWXz3e5O7kQEuUN1HoUwgAb20vjN3Mow=",
+          "py3"
+        ]
+      }
+    }
+  },
   "dongjing-xinqingnian-202103-202108-pt4": {
     "2022.11.2.0": {
       "sdist": [
@@ -36448,6 +36462,20 @@
       "wheels": {
         "ergo_ai-1.9.0-py3-none-any.whl": [
           "U6i3KqDFfCZaTu/AVJWuyGal69nni0D5MHkDKPRNnK0=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "escape-speed-jiugangwang-20131205": {
+    "2023.2.19.0": {
+      "sdist": [
+        "3jOUdpqU+nKfwEdtJV2CKhvjQD1wtQyoMSX0pESBVw8=",
+        "escape-speed-jiugangwang-20131205-2023.2.19.0.tar.gz"
+      ],
+      "wheels": {
+        "escape_speed_jiugangwang_20131205-2023.2.19.0-py3-none-any.whl": [
+          "OC11BSlMe6BL6Ys48d2Tudld88ofbWwnDRoF+qpuZUw=",
           "py3"
         ]
       }
@@ -95822,6 +95850,14 @@
         ]
       }
     },
+    "9.0.1.2.0.99.dev25": {
+      "wheels": {
+        "odoo9_addon_sale_order_type-9.0.1.2.0.99.dev25-py2-none-any.whl": [
+          "9BiGSMxWkrL0tZO7uLOUQHUysF61DccjEpH2UQ1LGjY=",
+          "py2"
+        ]
+      }
+    },
     "9.0.1.2.0.99.dev3": {
       "wheels": {
         "odoo9_addon_sale_order_type-9.0.1.2.0.99.dev3-py2-none-any.whl": [
@@ -128899,6 +128935,18 @@
           "py3"
         ]
       }
+    },
+    "0.5.0": {
+      "sdist": [
+        "lW/VktGCeyHFWiEjO18AtPgHQCr2JQozKYvG4mUIHiM=",
+        "shoal-0.5.0.tar.gz"
+      ],
+      "wheels": {
+        "shoal-0.5.0-py3-none-any.whl": [
+          "AigJkTzVuUXPgXVmb030t6wH1ZP7SJIroZ7lnJn8obA=",
+          "py3"
+        ]
+      }
     }
   },
   "shoki": {
@@ -150324,6 +150372,74 @@
         ],
         "wpilib-2023.3.2.1-cp39-cp39-win_amd64.whl": [
           "2XHc6C28RvTDrOJXAuOT2OJI+NYOkD7QnjvjUEhwUGo=",
+          "cp39"
+        ]
+      }
+    },
+    "2023.4.1.0": {
+      "sdist": [
+        "rs5IOx7+lts8UcWtzmvkMI3wZrTLQSm9crwIigE6xf0=",
+        "wpilib-2023.4.1.0.tar.gz"
+      ],
+      "wheels": {
+        "wpilib-2023.4.1.0-cp310-cp310-macosx_10_16_x86_64.whl": [
+          "pcY/o0sL2lQxpac7Wr88FpxxxsjDC8BtewYgOIJwk4o=",
+          "cp310"
+        ],
+        "wpilib-2023.4.1.0-cp310-cp310-manylinux_2_35_x86_64.whl": [
+          "pkX+kC1s4sgcwTIVgAOJEXuzI/FkWAOcY4u0kAj/Gmw=",
+          "cp310"
+        ],
+        "wpilib-2023.4.1.0-cp310-cp310-win_amd64.whl": [
+          "WoqFofNyU1qS3f0m1jKNAw+DJ/MRqQmQoR7ay/DAUfo=",
+          "cp310"
+        ],
+        "wpilib-2023.4.1.0-cp311-cp311-macosx_11_0_universal2.whl": [
+          "WN+TaQyxMjfye3+NNCityHkPgdFUbBH32dlGC2TkkDM=",
+          "cp311"
+        ],
+        "wpilib-2023.4.1.0-cp311-cp311-manylinux_2_35_x86_64.whl": [
+          "m+KqnJFzMAJoqUNkMLx7ffBzFaxtB6++PdOsLAzSyzY=",
+          "cp311"
+        ],
+        "wpilib-2023.4.1.0-cp311-cp311-win_amd64.whl": [
+          "Xq/nBx+lw5qtvRIMY4KOMATTS2c3a6rzjM7ujohmVEs=",
+          "cp311"
+        ],
+        "wpilib-2023.4.1.0-cp37-cp37m-macosx_10_16_x86_64.whl": [
+          "ue1wT9/0+UTAFG2Eaj2heu2IauXoRHA73TZxa9aAHhg=",
+          "cp37"
+        ],
+        "wpilib-2023.4.1.0-cp37-cp37m-manylinux_2_35_x86_64.whl": [
+          "/Qb6/J4BC61hgqE0t4gyfMdJI5aIqzW0ZT0jdTbOJXk=",
+          "cp37"
+        ],
+        "wpilib-2023.4.1.0-cp37-cp37m-win_amd64.whl": [
+          "2IB0CvhLaMK8+gxTpK6IGxsRjuiCseg6mREOvDf5Jgk=",
+          "cp37"
+        ],
+        "wpilib-2023.4.1.0-cp38-cp38-macosx_10_16_x86_64.whl": [
+          "c09s47GNNQDteCFNeAfK/ZEqGe/ytNJ5Z/6kyaYPpBU=",
+          "cp38"
+        ],
+        "wpilib-2023.4.1.0-cp38-cp38-manylinux_2_35_x86_64.whl": [
+          "QSqvX4GUiWmvIg2Yy1pAGhuUm2lkVUPi4zaac15ixKE=",
+          "cp38"
+        ],
+        "wpilib-2023.4.1.0-cp38-cp38-win_amd64.whl": [
+          "80hXA6WEl/dNK3t+ou85gkUTLPTrkPgNzA5k/0VFD2w=",
+          "cp38"
+        ],
+        "wpilib-2023.4.1.0-cp39-cp39-macosx_10_16_x86_64.whl": [
+          "AnSm/3Oob6dweVPFPJtkb8FqZgWp8VD23iuOXRdvzRM=",
+          "cp39"
+        ],
+        "wpilib-2023.4.1.0-cp39-cp39-manylinux_2_35_x86_64.whl": [
+          "IKCJcoNW0VA6OJ+2azyq04bjl8r1FsH+r09WjSP+i5g=",
+          "cp39"
+        ],
+        "wpilib-2023.4.1.0-cp39-cp39-win_amd64.whl": [
+          "WV79lZHWr1aDJJvCsdpc4S76yYhMb02OeQJoAcPeXsw=",
           "cp39"
         ]
       }

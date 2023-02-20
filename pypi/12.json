@@ -20606,6 +20606,30 @@
     }
   },
   "ci-rvm": {
+    "0.10.0b1": {
+      "sdist": [
+        "asP5X4CYWq7DAsW9FJp1yQN/T5uCynsMpeFYootgImg=",
+        "ci_rvm-0.10.0b1.tar.gz"
+      ],
+      "wheels": {
+        "ci_rvm-0.10.0b1-py3-none-any.whl": [
+          "c5bvPaddceJWsDLp2EPu2hloAPATM66ZRDLKcItpnig=",
+          "py3"
+        ]
+      }
+    },
+    "0.10.0b2": {
+      "sdist": [
+        "CpoCqIaSJsoNugUeg7ywp0xYFgLVBDGOKpcyrwxGEgE=",
+        "ci_rvm-0.10.0b2.tar.gz"
+      ],
+      "wheels": {
+        "ci_rvm-0.10.0b2-py3-none-any.whl": [
+          "KfLsCG1mL2UGf4MhDNDjdMnaBAshbMqIA1XBuqwRn2k=",
+          "py3"
+        ]
+      }
+    },
     "0.9.0a1": {
       "sdist": [
         "n83kzQMppd1eVOuYEU6WS2LzCiqW7ffL3OwVA8piV3o=",
@@ -133335,6 +133359,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.833": {
+      "sdist": [
+        "2bWjP6J/UOtwwAZ83kkg5qoPhsfoJ0RZt+/n5Gip7dM=",
+        "tencentcloud-sdk-python-bi-3.0.833.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_bi-3.0.833-py2.py3-none-any.whl": [
+          "l77deZ3dnPX0Te+ksUpRyikhZPs4ED8KxGsHmeZEWJw=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tencentcloud-sdk-python-lp": {
@@ -140054,6 +140090,18 @@
       "wheels": {
         "tencentcloud_sdk_python_lp-3.0.832-py2.py3-none-any.whl": [
           "Z1C778DvoieejIREYIbWLnaF9XPG101WcBqk7/pHBA4=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.833": {
+      "sdist": [
+        "p8rvvpRly7vH+p3xUBMW5VQE7QR7D9owjvQyrB/+wLs=",
+        "tencentcloud-sdk-python-lp-3.0.833.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_lp-3.0.833-py2.py3-none-any.whl": [
+          "Qx2J4fPf3JwWbOZC3zD5FI9lPahgDZK0X/EDtuns1XM=",
           "py2.py3"
         ]
       }

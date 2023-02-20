@@ -59629,6 +59629,22 @@
           "py2.py3"
         ]
       }
+    },
+    "2022.6.23.3.0": {
+      "wheels": {
+        "lammps_manylinux_2_28-2022.6.23.3.0-py2.py3-none-manylinux_2_28_aarch64.whl": [
+          "8h6y6V7nCwmj9dERpUNBVOsCBQghsVDq40uI7Psd6To=",
+          "py2.py3"
+        ],
+        "lammps_manylinux_2_28-2022.6.23.3.0-py2.py3-none-manylinux_2_28_ppc64le.whl": [
+          "pAuPv5Y3e9l0alBA+ZktTDIaB2xD4RWe+EBzPUFTbjM=",
+          "py2.py3"
+        ],
+        "lammps_manylinux_2_28-2022.6.23.3.0-py2.py3-none-manylinux_2_28_x86_64.whl": [
+          "f3ua4bLyYu+QSD4onk61As9qn1si7XXMYLMVI36TcYo=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "lammpstools": {
@@ -129435,6 +129451,30 @@
           "py2.py3"
         ]
       }
+    },
+    "2.4": {
+      "sdist": [
+        "QY4zTkUSDt9kjanmmybh6TnYx4lkHA2kfzzKIji541s=",
+        "static_ffmpeg-2.4.tar.gz"
+      ],
+      "wheels": {
+        "static_ffmpeg-2.4-py2.py3-none-any.whl": [
+          "AoUGZrSvABM17vmxqpOZQKff2Qzbrt/ZpoyV4sQcwzk=",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.5": {
+      "sdist": [
+        "dxAeK3r+ppMBd5h9gOhBRHee8ybnfn0+DonPS36UqRs=",
+        "static_ffmpeg-2.5.tar.gz"
+      ],
+      "wheels": {
+        "static_ffmpeg-2.5-py2.py3-none-any.whl": [
+          "BGYjwQVzE5B0bG8kkx0i4Xifcmeg3qTkIgbQL4v0JWU=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "staticmetrics": {
@@ -140052,6 +140092,18 @@
       "wheels": {
         "tencentcloud_sdk_python_vm-3.0.832-py2.py3-none-any.whl": [
           "AUJtOLBV1FG/W1WggMaNj7SV+telc1ibzpZQMzBn7GU=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.833": {
+      "sdist": [
+        "UdTTNDII69d2SAmh3DdakKep0sIYpzbwSXRuFJJtHAQ=",
+        "tencentcloud-sdk-python-vm-3.0.833.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_vm-3.0.833-py2.py3-none-any.whl": [
+          "/qH3v9FmTr22CbJ5fUSB5nZvI+dZr5MDh2J6QQoc0k4=",
           "py2.py3"
         ]
       }
@@ -155074,6 +155126,20 @@
       "wheels": {
         "zhiye_zhanxing_quanshu-2022.8.10.0-py3-none-any.whl": [
           "aozg8jQTNTK8sYtFS5MEqdnjvjVhfJ1ruRj7mZ5P860=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "zhongjie-de-chitianshi-xixiegui-mijiaer-wuyu-jinggui-ye-20160601": {
+    "2023.2.20.0": {
+      "sdist": [
+        "q6YISplGEPY5iuY3M/z7Zn342rahTvPzxcKqAO7X0Y0=",
+        "zhongjie-de-chitianshi-xixiegui-mijiaer-wuyu-jinggui-ye-20160601-2023.2.20.0.tar.gz"
+      ],
+      "wheels": {
+        "zhongjie_de_chitianshi_xixiegui_mijiaer_wuyu_jinggui_ye_20160601-2023.2.20.0-py3-none-any.whl": [
+          "SH0F2Ot7L6CdZ/4CBB2y1l5/tPSXe5Euuv+0I5PPWO0=",
           "py3"
         ]
       }

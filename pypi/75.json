@@ -20311,6 +20311,18 @@
           "py3"
         ]
       }
+    },
+    "1.1.6": {
+      "sdist": [
+        "FCqhvogFgjB4y8QLrvTSpwhbM/IWWaflZG0Ggw7wqAc=",
+        "ckanext-webview-1.1.6.tar.gz"
+      ],
+      "wheels": {
+        "ckanext_webview-1.1.6-py3-none-any.whl": [
+          "LVvoZYnh6RTiiKA0UGEoMaR6l1s59EZw1sQbzPLxHlA=",
+          "py3"
+        ]
+      }
     }
   },
   "classifier-model": {
@@ -69706,6 +69718,18 @@
       "wheels": {
         "liblip-0.76-cp39-cp39-macosx_10_9_x86_64.whl": [
           "gp/48Q7QgcL5VAs5ez/XBI9ZZm/+3T8nSr/ZEtsfm0A=",
+          "cp39"
+        ]
+      }
+    },
+    "0.77": {
+      "sdist": [
+        "5ySAmUW7YsnrJ/18GjeMlpyr9bxDD+Imc1RTV2D5ey8=",
+        "liblip-0.77.tar.gz"
+      ],
+      "wheels": {
+        "liblip-0.77-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "UFNOYXZ0MMRAZehH2RiZodo/GIKKlHrJueQu3RD0cGo=",
           "cp39"
         ]
       }
@@ -123007,6 +123031,20 @@
       ]
     }
   },
+  "python-logstash-async2": {
+    "2.5.1": {
+      "sdist": [
+        "ODdwfh53s4TMevCQ7lZ6sJKqXr4wwhivv5H0BV7JmsY=",
+        "python-logstash-async2-2.5.1.tar.gz"
+      ],
+      "wheels": {
+        "python_logstash_async2-2.5.1-py2.py3-none-any.whl": [
+          "iFandy/d9JrSJq+Q0yBwh/q3S3NU8Gx71rfchHHKyYw=",
+          "py2.py3"
+        ]
+      }
+    }
+  },
   "python-miningbot": {
     "0.0.1": {
       "sdist": [
@@ -128540,6 +128578,18 @@
       "wheels": {
         "resc_vcs_scanner-1.0.1-py3-none-any.whl": [
           "CjeVtcMeNGevSYtZlgbv9tDEhd+mNIa2wIF1dfrEfxE=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.2": {
+      "sdist": [
+        "YVDVJSdLq0IqKWyXF/mhsN+gBjKigyFBu0rRhVEDHYM=",
+        "resc_vcs_scanner-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "resc_vcs_scanner-1.0.2-py3-none-any.whl": [
+          "xJER4vQF4LZMpCXPeEBpZPl4JftjoJ+1RNkQSgh/ibA=",
           "py3"
         ]
       }
@@ -155106,6 +155156,34 @@
         ],
         "xia_pusher_flask-0.0.2-cp39-none-win_amd64.whl": [
           "fT8k8gO5alZOcXUyl3TLogRO/DOtTBt9Itb+v4hoCTs=",
+          "cp39"
+        ]
+      }
+    },
+    "0.0.4": {
+      "wheels": {
+        "xia_pusher_flask-0.0.4-cp310-none-macosx_11_0_x86_64.whl": [
+          "NI50XJhQKxbUhQbCM9j+Vy1rdncXYF6BeBgI0ixWqMI=",
+          "cp310"
+        ],
+        "xia_pusher_flask-0.0.4-cp310-none-manylinux1_x86_64.whl": [
+          "4xXLnZQvev+SFHWH7IybPJ69G6ZcXHFSCzaGDvopQyY=",
+          "cp310"
+        ],
+        "xia_pusher_flask-0.0.4-cp310-none-win_amd64.whl": [
+          "EdtZcyAbiP4Z96PreGqZwOf2fE5p9oWB85Cw7+XK1fE=",
+          "cp310"
+        ],
+        "xia_pusher_flask-0.0.4-cp39-none-macosx_11_0_x86_64.whl": [
+          "ju5cdgLW4fFI3X6oQigrwWNC9u90b1AbcuyDn6d0Iqg=",
+          "cp39"
+        ],
+        "xia_pusher_flask-0.0.4-cp39-none-manylinux1_x86_64.whl": [
+          "xqxFkJmppx0y4BGLPHFOmY/Ae1hAHpXXQ2ZU9SSkMXM=",
+          "cp39"
+        ],
+        "xia_pusher_flask-0.0.4-cp39-none-win_amd64.whl": [
+          "i5wTGjEXA+p7UVEul3kL+DTG12UtilfgFTwCDwf8iQA=",
           "cp39"
         ]
       }

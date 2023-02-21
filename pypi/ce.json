@@ -9419,6 +9419,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.75": {
+      "sdist": [
+        "PXYUypmulj0VWwS0RHsklx/a4y04WUHzfukgXn+CWJk=",
+        "botocore-a-la-carte-savingsplans-1.29.75.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_savingsplans-1.29.75-py3-none-any.whl": [
+          "0nkZpTA5FdS3+37jdvBKg2YfTTRz0sryZnJc06ObvdM=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-sso-admin": {
@@ -9814,6 +9826,18 @@
       "wheels": {
         "botocore_a_la_carte_sso_admin-1.29.74-py3-none-any.whl": [
           "VdVlk0fYGq9Y/Ek4kfLErf8yW17ozAveW75x/IBWG/I=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.75": {
+      "sdist": [
+        "TIUPp8Fxl4m7RsSgcswZoxdNy04Rg32man0z8UiIK2M=",
+        "botocore-a-la-carte-sso-admin-1.29.75.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_sso_admin-1.29.75-py3-none-any.whl": [
+          "85fOZbPDPQOzkqxOsVH4/3Klu30Ps9W/i+HFGq3ILdU=",
           "py3"
         ]
       }
@@ -52148,14 +52172,38 @@
     }
   },
   "imgraph": {
-    "0.0.1": {
+    "0.0.2": {
       "sdist": [
-        "CP3cunhaH5ospD4gfjcUfhbuNGO1RwZgOvFq73MqwLY=",
-        "imgraph-0.0.1.tar.gz"
+        "F3+B/73IDJoNtSgztNJNdNH0J4HW3zbJJi6Zk9v2dUY=",
+        "imgraph-0.0.2.tar.gz"
       ],
       "wheels": {
-        "imgraph-0.0.1-py3-none-any.whl": [
-          "BPzHtlkwgJzaSryRNRSrSK8+GOAX1DthWkpdnZzYgM0=",
+        "imgraph-0.0.2-py3-none-any.whl": [
+          "iPhbQb+wvGZsXmvjb3p1IOFD/z1ATmCVcJIYM8Q8Xa4=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "kggXYls6FU+nZ/AF6c+V/nbadgdP6Eqm7AaFByc1eM0=",
+        "imgraph-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "imgraph-0.0.3-py3-none-any.whl": [
+          "EVSsKxI5HIjSJO7gJfgi75RqTjqrLqi/OTwurVmh2DM=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4": {
+      "sdist": [
+        "8g9VrRpksTKjWH8+VuhKkiVao0kpQUcB0pAe1HlfDNM=",
+        "imgraph-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "imgraph-0.0.4-py3-none-any.whl": [
+          "mjc2vfZUfL1t+L/hciMuKLvGGOTxXQ9QY12zhdxDHt4=",
           "py3"
         ]
       }
@@ -76608,6 +76656,30 @@
       "wheels": {
         "muffin_rest-4.2.7-py3-none-any.whl": [
           "CgU3oJbPhgRufsl90EifPJr95l6VnODNO2QP433dxCY=",
+          "py3"
+        ]
+      }
+    },
+    "4.3.0": {
+      "sdist": [
+        "z2gulisPhSG1WA2KXT27CHXtrxrgQKuBY0zaBkYoYts=",
+        "muffin-rest-4.3.0.tar.gz"
+      ],
+      "wheels": {
+        "muffin_rest-4.3.0-py3-none-any.whl": [
+          "Rbabyh5umOF0Z5McPi9kPRGjyaksCL5ZRcpAEfXuNvk=",
+          "py3"
+        ]
+      }
+    },
+    "4.3.1": {
+      "sdist": [
+        "ftOmFq+cCAGwF4kiBTS2Uypyu8NRu8jI8p/eQ9sbRKw=",
+        "muffin-rest-4.3.1.tar.gz"
+      ],
+      "wheels": {
+        "muffin_rest-4.3.1-py3-none-any.whl": [
+          "xTjAnZY+fYoJ1oQHyP5caSLtuRAbmK8iKEqILJys2iE=",
           "py3"
         ]
       }
@@ -144958,6 +145030,18 @@
         ]
       }
     },
+    "6.0.12.8": {
+      "sdist": [
+        "GTBIaaidSa8AvmgeeyZ0FN8hP064ljTESV+mLo+UK58=",
+        "types-PyYAML-6.0.12.8.tar.gz"
+      ],
+      "wheels": {
+        "types_PyYAML-6.0.12.8-py3-none-any.whl": [
+          "UxSkslgJmbLqBrLl+ad2PYYNbgnN8hwOlWHaqcvWAXg=",
+          "py3"
+        ]
+      }
+    },
     "6.0.2": {
       "sdist": [
         "hrHRPu06mEEmQ3ba4PwxaLC1k6Fipk7/66Bm79cZhXI=",
@@ -154416,6 +154500,42 @@
       "sdist": [
         "mje94EFXg2c2JBvF1FC7WJ3De7a5TwcRZtgg0q4beH0=",
         "wavepy2-0.0.9.tar.gz"
+      ]
+    },
+    "1.0.0": {
+      "sdist": [
+        "zLivxkQseWdXqp0ecbdk33mqjqlGRotPf/D2s4EJudE=",
+        "wavepy2-1.0.0.tar.gz"
+      ]
+    },
+    "1.0.1": {
+      "sdist": [
+        "3csCqD/MTn0xWjaDwEDBJUb30DPAYX1EORyYhQNalEg=",
+        "wavepy2-1.0.1.tar.gz"
+      ]
+    },
+    "1.0.2": {
+      "sdist": [
+        "3uKC03UOK0C6YEWowov2cVgDdZB1FbTbeT3db7wKF90=",
+        "wavepy2-1.0.2.tar.gz"
+      ]
+    },
+    "1.0.3": {
+      "sdist": [
+        "+O8eG9JCS0/vutNOPsSWFwSAahLvIREF90EUgSgbtS8=",
+        "wavepy2-1.0.3.tar.gz"
+      ]
+    },
+    "1.0.4": {
+      "sdist": [
+        "XH7ksV2fvr0AWf3qHNEfBE2GlluzqHeqn8MkLksA0VM=",
+        "wavepy2-1.0.4.tar.gz"
+      ]
+    },
+    "1.0.5": {
+      "sdist": [
+        "1k4ofyyH6c3yPuZxbWCH3H6+W7SOXp8Q+gTScFDBEns=",
+        "wavepy2-1.0.5.tar.gz"
       ]
     }
   },

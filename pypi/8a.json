@@ -16517,6 +16517,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.75": {
+      "sdist": [
+        "eyNQ1N/mRSh/quAjPJVPs/7HHGQ8X13l2a8Gt6WQ2wc=",
+        "botocore-a-la-carte-backup-1.29.75.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_backup-1.29.75-py3-none-any.whl": [
+          "866jLl9B/5032v7t5aHHZ4UsmXhmIL/XD6w7rtP4WMo=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-devicefarm": {
@@ -16915,6 +16927,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.75": {
+      "sdist": [
+        "NjjAN6dQdpuC3N0blZQt6QYQGEjXlQe7ivlbJnutDsg=",
+        "botocore-a-la-carte-devicefarm-1.29.75.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_devicefarm-1.29.75-py3-none-any.whl": [
+          "AWZMeCwYrmTIi/NZ1+T9YFlrGPihr6Vh1jYLyxlJmwY=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-fis": {
@@ -17310,6 +17334,18 @@
       "wheels": {
         "botocore_a_la_carte_fis-1.29.74-py3-none-any.whl": [
           "2Ge5kJw3PxpZzRJwrWX87v9SHacDIxf31EoqFvPlMm4=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.75": {
+      "sdist": [
+        "C5hYwXedEmLiBGdQvFKy3HbiZUF4jIcFCzXWXVp2Ia8=",
+        "botocore-a-la-carte-fis-1.29.75.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_fis-1.29.75-py3-none-any.whl": [
+          "+NNK1FQEy0ycYsK7R9GaxShewVTKh9KiYfI1O06Q7lQ=",
           "py3"
         ]
       }
@@ -45370,6 +45406,18 @@
         ]
       }
     },
+    "2.0.35": {
+      "sdist": [
+        "PnAjiy3gD6eIRFC70lxVPcDXkN0DlMNjEKtkLXyZl5I=",
+        "fantasy-hockey-notifier-cdk-2.0.35.tar.gz"
+      ],
+      "wheels": {
+        "fantasy_hockey_notifier_cdk-2.0.35-py3-none-any.whl": [
+          "s0cisiqIZTrTiv9Fnn3jrORiMMK0+egOlt2Q1efBYaM=",
+          "py3"
+        ]
+      }
+    },
     "2.0.4": {
       "sdist": [
         "fpTC89rveAaV5GVO/60pxaZLUrtsW1bciuJHnMb2Q/Y=",
@@ -65100,6 +65148,18 @@
       "wheels": {
         "lager_cli-0.1.172-py3-none-any.whl": [
           "ui5zhuijn8B67jheRKEnhZmaZd/+CsQcWDx+6pIKngQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.173": {
+      "sdist": [
+        "55nBm8/T9vUfqw8yoTkQ7JelwSdhpIKlOlEXGbbpugo=",
+        "lager-cli-0.1.173.tar.gz"
+      ],
+      "wheels": {
+        "lager_cli-0.1.173-py3-none-any.whl": [
+          "96WwDjbV+aLrjdx91Iftsd7xogTpjyt99HNo6J1SSqM=",
           "py3"
         ]
       }
@@ -136061,6 +136121,20 @@
       }
     }
   },
+  "tales-of-vesperia-bomu-chuanshuo-yanzuo-20200303": {
+    "2023.2.21.0": {
+      "sdist": [
+        "HjqPLrjtClpt7/0TkLzyJlE5JBnkjoiDNw/DtMeNHEY=",
+        "tales-of-vesperia-bomu-chuanshuo-yanzuo-20200303-2023.2.21.0.tar.gz"
+      ],
+      "wheels": {
+        "tales_of_vesperia_bomu_chuanshuo_yanzuo_20200303-2023.2.21.0-py3-none-any.whl": [
+          "AEJnMhYheuPQQaCweqGZPu081iCpNSHiv5G+bRlQdyk=",
+          "py3"
+        ]
+      }
+    }
+  },
   "taming-transformers": {
     "0.0.1": {
       "sdist": [
@@ -148980,6 +149054,34 @@
         ],
         "xia_engine_bigquery-0.1.0-cp39-none-win_amd64.whl": [
           "Lvnk20vvWWoy4UL7ofADUmCCiWk19+ArziLpSquMfRE=",
+          "cp39"
+        ]
+      }
+    },
+    "0.1.2": {
+      "wheels": {
+        "xia_engine_bigquery-0.1.2-cp310-none-macosx_11_0_x86_64.whl": [
+          "p8V3y2OgaA9V6BYhzv5mXEOZjZG3rmbF0sigXPBrfSk=",
+          "cp310"
+        ],
+        "xia_engine_bigquery-0.1.2-cp310-none-manylinux1_x86_64.whl": [
+          "ftBDmE4743VWcD1/Eq3refU/FM52foaNBePwE6G1X4g=",
+          "cp310"
+        ],
+        "xia_engine_bigquery-0.1.2-cp310-none-win_amd64.whl": [
+          "l0J4wCD/MIy5dbOyMikZVVhceCcDhLcSCmGLrxitO7I=",
+          "cp310"
+        ],
+        "xia_engine_bigquery-0.1.2-cp39-none-macosx_11_0_x86_64.whl": [
+          "ZgOCuhaNsx+DsjheH937PWUKRrzM0o9vBL79VBAAhEM=",
+          "cp39"
+        ],
+        "xia_engine_bigquery-0.1.2-cp39-none-manylinux1_x86_64.whl": [
+          "XaM7dAd6R01odx21hesv5AKOwLnU+c9oM/9s05WKsAs=",
+          "cp39"
+        ],
+        "xia_engine_bigquery-0.1.2-cp39-none-win_amd64.whl": [
+          "L8+YmPPR+MAhoNxJPTn0x9P0nnhDn7gqAoNH3+VE/tw=",
           "cp39"
         ]
       }

@@ -8657,6 +8657,12 @@
         "9p2VMWsyedFLmQJ7L5oCkKUuQz93HyTCPl5Jq+sk214=",
         "bamboo_connect-0.0.6.tar.gz"
       ]
+    },
+    "0.0.7": {
+      "sdist": [
+        "YfJkYW6rTBRs8hz23xQWQo/E2GPpWTeS0UprLwDaqX8=",
+        "bamboo_connect-0.0.7.tar.gz"
+      ]
     }
   },
   "baricentric": {
@@ -13006,6 +13012,18 @@
       "wheels": {
         "botocore_a_la_carte_healthlake-1.29.74-py3-none-any.whl": [
           "nSlcc+x3BP3UhtMUeCSHLG0FoZZY2RdmlPDyogz2kn4=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.75": {
+      "sdist": [
+        "6qBna2w/cZEqoQ6ncbBYrUrNOtarJuWVM491utz2etY=",
+        "botocore-a-la-carte-healthlake-1.29.75.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_healthlake-1.29.75-py3-none-any.whl": [
+          "BMbofr2Pceyi7sfm2rkaHyN30ZdaI1dOxVr4a91wCCw=",
           "py3"
         ]
       }
@@ -44165,6 +44183,20 @@
       }
     }
   },
+  "hatch-test": {
+    "0.0.1": {
+      "sdist": [
+        "UNorn6abADpVySppbsCGJU3ljOtXjKz/vQI8shFdv78=",
+        "hatch_test-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "hatch_test-0.0.1-py3-none-any.whl": [
+          "2khPYvNg0bnzKq+SqL+2ma7+AZBJxidZPts97J73lNQ=",
+          "py3"
+        ]
+      }
+    }
+  },
   "headlines": {
     "0.0.0a0": {
       "wheels": {
@@ -48990,6 +49022,78 @@
       "wheels": {
         "inels_mqtt_new-0.2.0-py3-none-any.whl": [
           "Y+zAcubL4P68mbqR6/HVjadztf8WQJM2cKRfquFydFg=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.1b0": {
+      "sdist": [
+        "Axr7eXTLSApYaCqfBmBj7ovIHcxnKPea5rXKHes1Hls=",
+        "inels-mqtt-new-0.2.1b0.tar.gz"
+      ],
+      "wheels": {
+        "inels_mqtt_new-0.2.1b0-py3-none-any.whl": [
+          "+AQuRFDtLkYNvdQOPKW2rSpTqg0nf8uEYT+NcAThkY4=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.1b1": {
+      "sdist": [
+        "1Xq7P4VjtPopKdTYaahy440YM8Xrf1x8tpPXAbb/BXo=",
+        "inels-mqtt-new-0.2.1b1.tar.gz"
+      ],
+      "wheels": {
+        "inels_mqtt_new-0.2.1b1-py3-none-any.whl": [
+          "b28dHL10QaOfl0pztN4EJpl76fXGrgljalDOlTiq8xo=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.1b2": {
+      "sdist": [
+        "H6kYdG6usJzeDiKTCiGU6scEWPE1S3wDZKRgVSmbJLo=",
+        "inels-mqtt-new-0.2.1b2.tar.gz"
+      ],
+      "wheels": {
+        "inels_mqtt_new-0.2.1b2-py3-none-any.whl": [
+          "KmgXoV7Z6P+ZWWZOGizvogFgVBM7C3w2tYPv+Byc6QA=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.1b3": {
+      "sdist": [
+        "VpKhZAt21GfdT/S6MXJFgspWwaBLKmPOGVM2iXGVcro=",
+        "inels-mqtt-new-0.2.1b3.tar.gz"
+      ],
+      "wheels": {
+        "inels_mqtt_new-0.2.1b3-py3-none-any.whl": [
+          "BqOt58pKMUs3Na7GU9w8LCxQEBEf4Wrg+PK0hiaJQc4=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.1b4": {
+      "sdist": [
+        "uDXnFg/Zy5sVK7PMKYTq+H2xhiOwGacomHmx86SHwrk=",
+        "inels-mqtt-new-0.2.1b4.tar.gz"
+      ],
+      "wheels": {
+        "inels_mqtt_new-0.2.1b4-py3-none-any.whl": [
+          "mLRGOssuZmz7C2tTnQPBRwIgyoChT86XkkPS9H7OM9M=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.1b5": {
+      "sdist": [
+        "Pnq68W1DkZRdww1QN6HwlKFSJC50SYwJ9mz0ypN2324=",
+        "inels-mqtt-new-0.2.1b5.tar.gz"
+      ],
+      "wheels": {
+        "inels_mqtt_new-0.2.1b5-py3-none-any.whl": [
+          "dIv2LmrIQOQH5FyUkwO2nz6vKDUDEspszRet8AxYF/k=",
           "py3"
         ]
       }
@@ -88998,6 +89102,18 @@
         ]
       }
     },
+    "0.3.3.dev42": {
+      "sdist": [
+        "+MpVAyCfzBqugDZr/+j0fkSKjpF7/cSt1bqIX9XFBA0=",
+        "psyke-0.3.3.dev42.tar.gz"
+      ],
+      "wheels": {
+        "psyke-0.3.3.dev42-py3-none-any.whl": [
+          "cg+P+vLED/RY761jRMGvWiwDzBQZg7oNiu9vJ8wIDxg=",
+          "py3"
+        ]
+      }
+    },
     "0.3.3.dev7": {
       "sdist": [
         "RV5LdyCmI+gQG5P/lVXiC7LLiQHleEoKv/2E1ZZWqpI=",
@@ -126259,6 +126375,20 @@
       ]
     }
   },
+  "taxmin-raqam-gen": {
+    "0.0.1": {
+      "sdist": [
+        "+FwFXqD9at9Ked5L/BQAh8/+ZMNmZkNaTKq76QaKbIc=",
+        "taxmin_raqam_gen-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "taxmin_raqam_gen-0.0.1-py3-none-any.whl": [
+          "Xv/TMp5jb5aDDHVKxd/HL1M8cdYc7BikwCEQ4Z1799w=",
+          "py3"
+        ]
+      }
+    }
+  },
   "tccm-client-python": {
     "1.0.0": {
       "sdist": [
@@ -132021,6 +132151,18 @@
           "py3"
         ]
       }
+    },
+    "0.13.0.3": {
+      "sdist": [
+        "tXhNdRy6yLYP9MeWxQdmbdHrG+dLBplsNwoNsDUBbTw=",
+        "types-pep8-naming-0.13.0.3.tar.gz"
+      ],
+      "wheels": {
+        "types_pep8_naming-0.13.0.3-py3-none-any.whl": [
+          "psVklu0WNR/RXxetSNOCMGjW3fV0nkZ9tQzuTMLYOQY=",
+          "py3"
+        ]
+      }
     }
   },
   "types-pyscreeze": {
@@ -132092,6 +132234,18 @@
       "wheels": {
         "types_PyScreeze-0.1.0.5-py3-none-any.whl": [
           "2WhqqfnYz1daR9M2+vK8an/5r6JuN06XONL6ikht6oc=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.0.6": {
+      "sdist": [
+        "/A8/o7ftFoIh0PnWi6/t0DdgJ+CACwS+izCQtGTHgsQ=",
+        "types-PyScreeze-0.1.0.6.tar.gz"
+      ],
+      "wheels": {
+        "types_PyScreeze-0.1.0.6-py3-none-any.whl": [
+          "6Ihf+9lEhmfQmoXhbdk1l1eO0H5E/V/eyjEyGscO0sk=",
           "py3"
         ]
       }
@@ -141632,6 +141786,20 @@
       "wheels": {
         "wxyz_datagrid-0.5.1-py3-none-any.whl": [
           "1qgNEILxEvgJD7gaR5AkNJgh94SCW378iFjTuX4sOU4=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "x0-neng-zhe-jiutiao-cou-yeshantou-20200316": {
+    "2023.2.21.0": {
+      "sdist": [
+        "GLAQl+cVv7a7JNsL7rSSi49MP25Vwt34ImUGudRJ+ms=",
+        "x0-neng-zhe-jiutiao-cou-yeshantou-20200316-2023.2.21.0.tar.gz"
+      ],
+      "wheels": {
+        "x0_neng_zhe_jiutiao_cou_yeshantou_20200316-2023.2.21.0-py3-none-any.whl": [
+          "Uzt0OsPplIJKTIBDyL95Itb3sPRv0zlgkPRqh3qQORQ=",
           "py3"
         ]
       }

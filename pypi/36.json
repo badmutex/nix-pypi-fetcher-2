@@ -26676,6 +26676,24 @@
     }
   },
   "cyberpay-utils-lib": {
+    "0.0.10": {
+      "sdist": [
+        "evoXZe+AEkreuphX1ALntsDmVSFu/cqJnlA6SXOuHWw=",
+        "cyberpay-utils-lib-0.0.10.tar.gz"
+      ]
+    },
+    "0.0.11": {
+      "sdist": [
+        "oc/rIegLTajBv1BuMtlmhrs1vkqvHj0URa2Yp/hLwdg=",
+        "cyberpay-utils-lib-0.0.11.tar.gz"
+      ]
+    },
+    "0.0.12": {
+      "sdist": [
+        "gH4DBsPV6ginx5azYxulHBSpEgQhF875nF4EIt2BRjA=",
+        "cyberpay-utils-lib-0.0.12.tar.gz"
+      ]
+    },
     "0.0.2": {
       "sdist": [
         "9f8dW2iadb2ulshaFgYt2DXCnCnRHB0yXEjyjfvRUSk=",
@@ -26716,6 +26734,12 @@
       "sdist": [
         "rhvP3SgJdnK4gfXwM0GI1tOxtB9XMD9jnH6IFd8Iga4=",
         "cyberpay-utils-lib-0.0.8.tar.gz"
+      ]
+    },
+    "0.0.9": {
+      "sdist": [
+        "VcPDghgEDNgM/mARrZa8/WZd7YTOeHAXa6DP/htY0II=",
+        "cyberpay-utils-lib-0.0.9.tar.gz"
       ]
     }
   },
@@ -44475,6 +44499,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.6": {
+      "sdist": [
+        "O4DqrH7IsOFdcj8HFf7/CNrYCg78FchDiFPiOUPytoo=",
+        "elabapi-python-0.1.6.tar.gz"
+      ],
+      "wheels": {
+        "elabapi_python-0.1.6-py3-none-any.whl": [
+          "04bx0cAQ0e4+s36aK/6B9qyQJk0/Dgwodb3xaSYuUMk=",
+          "py3"
+        ]
+      }
     }
   },
   "elastic-helper": {
@@ -51353,6 +51389,14 @@
       ]
     }
   },
+  "geofake": {
+    "0.0.1": {
+      "sdist": [
+        "8P5a8zffBvJE3cZR/BJYDtAnXemgPf6C/WPHf098KW0=",
+        "GeoFake-0.0.1.tar.gz"
+      ]
+    }
+  },
   "geometry-app": {
     "1.0.0": {
       "sdist": [
@@ -51365,6 +51409,14 @@
           "py3"
         ]
       }
+    }
+  },
+  "geospractice": {
+    "0.0.1": {
+      "sdist": [
+        "XnMU8oAhHkjkClSP/pX29W7Fvz6f5kj9+KqrG/Xh2RU=",
+        "geospractice-0.0.1.tar.gz"
+      ]
     }
   },
   "geotrigger-python": {
@@ -99211,6 +99263,18 @@
           "py3"
         ]
       }
+    },
+    "0.4.0": {
+      "sdist": [
+        "Nc7dlpPJkkvmChXupxPoAtutgOVEi+33JXRjYBmXWhs=",
+        "openworld-sdk-python-core-0.4.0.tar.gz"
+      ],
+      "wheels": {
+        "openworld_sdk_python_core-0.4.0-py3-none-any.whl": [
+          "zW9JGeQoNcHs9S90IqUE6CwcvMmemBzm4Pu7GszltVU=",
+          "py3"
+        ]
+      }
     }
   },
   "openwrt-wac": {
@@ -106090,6 +106154,42 @@
       "wheels": {
         "pepperize.cdk_ssm_parameters_cross_region-0.0.235-py3-none-any.whl": [
           "XyYyy6ZksQXaY1wt7lx6MCecU8qfGb0tjMc1Dr0w1wE=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.236": {
+      "sdist": [
+        "IJadtXWgs9X4oyR8JCoPd+gHUMNVbaUPEBIxxbZplNg=",
+        "pepperize.cdk-ssm-parameters-cross-region-0.0.236.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.cdk_ssm_parameters_cross_region-0.0.236-py3-none-any.whl": [
+          "7yMeRzi4C2RnNHysFVle5WlRHG2Jsbs+x48cRhiwB4A=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.237": {
+      "sdist": [
+        "lSYEH3zp06k9vZQddcvwf+e0uIJFkMIwMY8cA9xcHgA=",
+        "pepperize.cdk-ssm-parameters-cross-region-0.0.237.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.cdk_ssm_parameters_cross_region-0.0.237-py3-none-any.whl": [
+          "nmoMhVtgW3sC7CuyRz1bwz+62YlfLcQ5hW61OyLhzag=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.238": {
+      "sdist": [
+        "mTJPYTsCmuoJQsD6Tdrpq4Lkp7/eTEcbheH4YTogDjU=",
+        "pepperize.cdk-ssm-parameters-cross-region-0.0.238.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.cdk_ssm_parameters_cross_region-0.0.238-py3-none-any.whl": [
+          "4aBRu+crsIEemFRR9zqkZ6inraKw/sH5C1eRjLPVvvg=",
           "py3"
         ]
       }
@@ -144678,6 +144778,14 @@
       "wheels": {
         "tf_model_optimization_nightly-0.7.3.dev20230220-py2.py3-none-any.whl": [
           "v1/dmuRmzohvPwDMeYDMsrue7AHPcmi4cfcZZDEAecE=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.7.3.dev20230221": {
+      "wheels": {
+        "tf_model_optimization_nightly-0.7.3.dev20230221-py2.py3-none-any.whl": [
+          "RpCCbM2YeeWnDCj1zOYlHCBm2FkPhVif/fN/zDTMy3M=",
           "py2.py3"
         ]
       }

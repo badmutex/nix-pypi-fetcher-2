@@ -2935,6 +2935,18 @@
           "py3"
         ]
       }
+    },
+    "1.1.7": {
+      "sdist": [
+        "K6PYZzg8uDxUr/32DRJkdQ19UNKSAxb5IGoa4XY0o9U=",
+        "alibabacloud_schedulerx220190430_py2-1.1.7.tar.gz"
+      ],
+      "wheels": {
+        "alibabacloud_schedulerx220190430_py2-1.1.7-py3-none-any.whl": [
+          "jv1bp7aQwAv2vM7aeUdiO82KiInTB+avYzyUEearBcY=",
+          "py3"
+        ]
+      }
     }
   },
   "alibabacloud-vcs20190430": {
@@ -19827,6 +19839,26 @@
         "channelflowlib-0.6.4-py2-none-any.whl": [
           "umxrsT5E98o13Rdk1Ll54Zm0VzTfvNT0/fks360FYT0=",
           "py2"
+        ],
+        "channelflowlib-0.6.4-py3-none-any.whl": [
+          "XCG1azgtsawEPjlXusxaBO4pwcBC31p2kRHPNOUEs5o=",
+          "py3"
+        ]
+      }
+    },
+    "0.6.5": {
+      "wheels": {
+        "channelflowlib-0.6.5-py3-none-any.whl": [
+          "CUT1+IZSgySRK2oVfy7pG7RkTnHMHBigOZv4G9PSI1Y=",
+          "py3"
+        ]
+      }
+    },
+    "0.6.6": {
+      "wheels": {
+        "channelflowlib-0.6.6-py3-none-any.whl": [
+          "1XUZWguFZLsWOzOLRqiHJmWemdM2DlsNeN8y9IJL91w=",
+          "py3"
         ]
       }
     }
@@ -30290,6 +30322,14 @@
       "wheels": {
         "cryptodataset-0.3.4-py3-none-any.whl": [
           "d0g2dMDaK0d7nP/l+K0zt/7HKv7CjrD5CV6j93xLPjk=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.5": {
+      "wheels": {
+        "cryptodataset-0.3.5-py3-none-any.whl": [
+          "9dOlwGAE+AobWqvUAmOoNUJ4xrJmVS3LpPVr4Wujscc=",
           "py3"
         ]
       }
@@ -42087,6 +42127,20 @@
         "evalidator-0.1.4-py2.py3-none-any.whl": [
           "wwAJ62Mw5m1IQXtQrg/aMVnSxELNO7goGt9jPPsnjGk=",
           "py2.py3"
+        ]
+      }
+    }
+  },
+  "eve-pytorch": {
+    "0.0.3": {
+      "sdist": [
+        "dcbdaP4N2lnWKrkf3fj3WS3UBaovaqtPjj0K5Dob3wQ=",
+        "eve_pytorch-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "eve_pytorch-0.0.3-py3-none-any.whl": [
+          "sleSdHToVIaT7bBVO6ZjG6Bq73PFpG49a2ZRIvLI5qk=",
+          "py3"
         ]
       }
     }
@@ -63079,6 +63133,12 @@
         "aan3YeePIloQODzdTisNPnXvNIt9d2IUkvAmv6OtPxU=",
         "ilus-1.2.2.tar.gz"
       ]
+    },
+    "1.3.0": {
+      "sdist": [
+        "s2mQkMF0Ah5yPetMeVSl2bKRJy4w4IgAhih8cWXTUVU=",
+        "ilus-1.3.0.tar.gz"
+      ]
     }
   },
   "image2base64": {
@@ -68291,6 +68351,54 @@
           "py3"
         ]
       }
+    },
+    "0.1.0": {
+      "sdist": [
+        "4dcytECQKSOdTL/9UjhyTqX9s+s7G0qQJXRkSCeTu0Q=",
+        "kedro_auto_catalog-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "kedro_auto_catalog-0.1.0-py3-none-any.whl": [
+          "TXmOn7WKVAhRG+uDl0UyKa2fwvylje2o56gFBHqnz4w=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.0.dev0": {
+      "sdist": [
+        "KdoKGH+jXTTd0hHi6fe/WRT7udMtxKQrlOGngnYFKJk=",
+        "kedro_auto_catalog-0.1.0.dev0.tar.gz"
+      ],
+      "wheels": {
+        "kedro_auto_catalog-0.1.0.dev0-py3-none-any.whl": [
+          "HwdfmuFdcZPVFbdQ3hEvNK8l2KE4MEOfFWlGgL5VV18=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "OMsY0KcsOolRZ2kai36DiL/+3yqb154VpTxsAHZuA+s=",
+        "kedro_auto_catalog-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "kedro_auto_catalog-0.1.1-py3-none-any.whl": [
+          "LHTGIZGuisxh4fKjudTOjWTVDvdoyoRuGRkmPRKL61A=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1.dev0": {
+      "sdist": [
+        "H+kqf1FVC60JYV/p2/nQLJrr6XXhy9X6P7626s8NWCA=",
+        "kedro_auto_catalog-0.1.1.dev0.tar.gz"
+      ],
+      "wheels": {
+        "kedro_auto_catalog-0.1.1.dev0-py3-none-any.whl": [
+          "OAMDyGOJfXfQajqwwgosf0+NVOUAE3WyTrc8PUg8et0=",
+          "py3"
+        ]
+      }
     }
   },
   "ken-perlin-noise": {
@@ -70380,6 +70488,12 @@
       "sdist": [
         "mmnAL5/yxm/0R35zvj9QzDHZ4oU8zmGt15pM6t6odQw=",
         "libsw3-0.1.8.tar.gz"
+      ]
+    },
+    "0.1.9": {
+      "sdist": [
+        "iJpenpjDmUGm2gmeDX77Q7XOT0hyKrL7r7TiY8mJN24=",
+        "libsw3-0.1.9.tar.gz"
       ]
     }
   },
@@ -97988,6 +98102,14 @@
       "wheels": {
         "ppasr-2.4.2-py3-none-any.whl": [
           "eie0qYhLRy4KNuAkJFk6l2IsjDboguW9JI1mVfXusMM=",
+          "py3"
+        ]
+      }
+    },
+    "2.4.3": {
+      "wheels": {
+        "ppasr-2.4.3-py3-none-any.whl": [
+          "WEMEslO19BMo2INB1KZywUyYVdweZ8EO3XX1fBcId3I=",
           "py3"
         ]
       }

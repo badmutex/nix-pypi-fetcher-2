@@ -6866,6 +6866,18 @@
         ]
       }
     },
+    "9.2.39": {
+      "sdist": [
+        "QTOtN2jU7n9PD82K02D8iNW1h0MXoeKcL5xl61oXG7s=",
+        "archr-9.2.39.tar.gz"
+      ],
+      "wheels": {
+        "archr-9.2.39-py3-none-manylinux2014_x86_64.whl": [
+          "DIIcniB4LmfSP7Ju8IiwyB1HOE+txOrhfXNRwBBNbuI=",
+          "py3"
+        ]
+      }
+    },
     "9.2.4": {
       "sdist": [
         "1CCAQYRjNHhPmuBAr26wknBPwGFjfvbIL/ClNtRRhKs=",
@@ -11828,6 +11840,18 @@
         ]
       }
     },
+    "1.194.0": {
+      "sdist": [
+        "sBibSEIADmxIrp+3yyn+rwaTjYX2Hhcz2Uj8NvfzHk4=",
+        "aws-cdk.aws-kinesis-1.194.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_kinesis-1.194.0-py3-none-any.whl": [
+          "R5UAONkiPoywBQCxu1lb0qdfeSpzClhKoUD76NAuFKY=",
+          "py3"
+        ]
+      }
+    },
     "1.2.0": {
       "sdist": [
         "mL8YMiL4SZbp1e1G4T+3mmb7rnjE4v+L8bt4yj9gDVA=",
@@ -16200,6 +16224,18 @@
       "wheels": {
         "botocore_a_la_carte_dlm-1.29.75-py3-none-any.whl": [
           "6LXVR6FJCq4788vk4VXAIxTnqFG9lzLSsA2/ycq9dvM=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.76": {
+      "sdist": [
+        "zVl95l/2RHZbKo+dR8ttb+m6v/e2y0ThvKb9E+D6ygo=",
+        "botocore-a-la-carte-dlm-1.29.76.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_dlm-1.29.76-py3-none-any.whl": [
+          "q5Xw1S5xqkb3sjJO8IOzvWlLUk3aaJuj7NrEYVheQho=",
           "py3"
         ]
       }
@@ -87599,6 +87635,14 @@
           "py3"
         ]
       }
+    },
+    "14.0.1.1.1.dev2": {
+      "wheels": {
+        "odoo14_addon_fieldservice_geoengine-14.0.1.1.1.dev2-py3-none-any.whl": [
+          "YoNFVUc96TZDPvcXp3NcV8y52aAPBwB/e4VxyYuzQlY=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo14-addon-intrastat-product": {
@@ -87838,6 +87882,14 @@
       "wheels": {
         "odoo14_addon_intrastat_product-14.0.2.1.3-py3-none-any.whl": [
           "8eZ7phhZil1SyPkaZR0dH91GTZyluZlKJmHcUm7DO50=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.2.1.4": {
+      "wheels": {
+        "odoo14_addon_intrastat_product-14.0.2.1.4-py3-none-any.whl": [
+          "tTUHguR2JDG8yrZj84jThY559sxBD9vDMO3ZdjldADI=",
           "py3"
         ]
       }
@@ -94058,6 +94110,14 @@
       "wheels": {
         "ovos_ocp_news_plugin-0.0.2a4-py3-none-any.whl": [
           "bUK0h58gcSzjrDHldLL1s1nClZgDQEw3MnDVkNfRTCo=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "wheels": {
+        "ovos_ocp_news_plugin-0.0.3-py3-none-any.whl": [
+          "WPwSuYWxd0cYXaxeSEePXwuQZyVk1zII6BZfv37y0jo=",
           "py3"
         ]
       }
@@ -112398,6 +112458,30 @@
       "wheels": {
         "pymsx-0.1.0-py3-none-any.whl": [
           "CCmvlBqA/fz+woMyTaziuYV859GReTi6fB4C2jatfow=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "ACZhbAb9/6rMhcXPd14zv5CJ8oxrFbclsxbAAVogA0s=",
+        "pymsx-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "pymsx-0.1.1-py3-none-any.whl": [
+          "pdzksxmFowoFClPECyaE9O3c5hZbZn66ueYNG5q16Y8=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "YmHMNdHPREMTvjL1V7VLzW455DR41q3tUD+E+ZEpgn0=",
+        "pymsx-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "pymsx-0.1.2-py3-none-any.whl": [
+          "9RMv0Rwrvlh3j8MXyvlfgmxgMI8xL3oqH8Ryem4UCB0=",
           "py3"
         ]
       }
@@ -145224,6 +145308,18 @@
       "wheels": {
         "tencentcloud_sdk_python_ckafka-3.0.834-py2.py3-none-any.whl": [
           "VPytpGnBcVat4T1QoRNs900COgjrdDianay3qt7s00o=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.835": {
+      "sdist": [
+        "Y2SaDm7VrQ8e8a/AQr2D9w0UGCi27W2qwedexlOmgw0=",
+        "tencentcloud-sdk-python-ckafka-3.0.835.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_ckafka-3.0.835-py2.py3-none-any.whl": [
+          "ccHbJUwl6GlZiWGjZqFNjwdpjRfpl33dkOCnjy5+eX8=",
           "py2.py3"
         ]
       }

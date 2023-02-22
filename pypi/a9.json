@@ -8514,6 +8514,18 @@
         ]
       }
     },
+    "1.194.0": {
+      "sdist": [
+        "BzfC1+uIn16ZDYW4aIdAPBqQlUcqe4zB3XuahEGtj70=",
+        "aws-cdk.aws-mediastore-1.194.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_mediastore-1.194.0-py3-none-any.whl": [
+          "OR/+xMdrAUNGBSyadlrEf8dKi6UqQlfPuIlYUxSfcyU=",
+          "py3"
+        ]
+      }
+    },
     "1.2.0": {
       "sdist": [
         "a4wSzrFxZk3ycNC761FRSLISkZ56nPPVS9d6pyV0LTo=",
@@ -15678,6 +15690,18 @@
       "wheels": {
         "botocore_a_la_carte_dynamodb-1.29.75-py3-none-any.whl": [
           "g3fTod7XECNWbKVYBN0N9DRoQ6aWLXRXsMwZfR1V2t8=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.76": {
+      "sdist": [
+        "P+gk9xkHPpE29Qnb6yAAM1rBJc6JJKaDUN0apIlzFdc=",
+        "botocore-a-la-carte-dynamodb-1.29.76.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_dynamodb-1.29.76-py3-none-any.whl": [
+          "8FFK+1808PxVQ06wUHgqpn22gppHR2uImHgaUGHPtbk=",
           "py3"
         ]
       }
@@ -54359,6 +54383,32 @@
         "cpwfSAi15dJ6gl4jbeVUek/lnITmPPVUxi+gBtjfPOo=",
         "hyppy-0.1.1.zip"
       ]
+    }
+  },
+  "hyprxa": {
+    "0.0.1": {
+      "sdist": [
+        "dIJ84R0KJOAWYagEeJMtgUa49XJV8bpgKKrMSL6uKCQ=",
+        "hyprxa-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "hyprxa-0.0.1-py3-none-any.whl": [
+          "CkQO+Es6826CjrjWy/SPlridq+HZhu6L71HVn5SOwo8=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "YFQt2p2o+RN1h7QZxoqB/0uVtoYxCKy8TO+wEW/1wRc=",
+        "hyprxa-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "hyprxa-0.0.2-py3-none-any.whl": [
+          "N9NYzYMz90lAHiWeKk/FcjwpiMuXomBlnrTLNfSxknk=",
+          "py3"
+        ]
+      }
     }
   },
   "i3-workspace-rollback": {
@@ -116346,6 +116396,18 @@
         ]
       }
     },
+    "1.3.1478.post7": {
+      "sdist": [
+        "sD6oV539HhFqAFxoZfFE9nTtnnR7gIAr+ob2nDBYiZY=",
+        "pycollimator-1.3.1478.post7.tar.gz"
+      ],
+      "wheels": {
+        "pycollimator-1.3.1478.post7-py3-none-any.whl": [
+          "56izyuLBIhftwx4iMC9bq9K/kkWHR289JiOfTFVhCQY=",
+          "py3"
+        ]
+      }
+    },
     "1.3.298": {
       "sdist": [
         "vmyWQgKib+u8pXly0nb2Okm2BaVT8eWvVL7TvmytmmM=",
@@ -131962,6 +132024,22 @@
         ],
         "rocketsim-0.2.1-cp37-abi3-win_amd64.whl": [
           "4zqe2olvhA9LUBtgkGdgVVWy64hcCvL0HO9wChJ/zCk=",
+          "cp37"
+        ]
+      }
+    },
+    "0.2.3": {
+      "sdist": [
+        "WWrulA7XkMPQFD+F8zjHZo6KYJ8h2jcwPtTNtJIt86A=",
+        "rocketsim-0.2.3.tar.gz"
+      ],
+      "wheels": {
+        "rocketsim-0.2.3-cp37-abi3-manylinux_2_31_x86_64.whl": [
+          "GsqO5qhSowXXsGnuM+RFrLo4+GHvbJ5zSY1yDmsoefs=",
+          "cp37"
+        ],
+        "rocketsim-0.2.3-cp37-abi3-win_amd64.whl": [
+          "j7XMy7BwAJPAfn6yjSDSgNf3q2AJ4aAvYtcOP4gFxFg=",
           "cp37"
         ]
       }
@@ -152062,6 +152140,18 @@
       "wheels": {
         "tencentcloud_sdk_python_ft-3.0.834-py2.py3-none-any.whl": [
           "Ir9hLzrS1TBmRkqk1ZagONrIiV8NsiskgxOlD8v5e+U=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.835": {
+      "sdist": [
+        "Sbr3pg/LOwb5P2r1jzlnaPoKx72dRzdazmIRz87bsJg=",
+        "tencentcloud-sdk-python-ft-3.0.835.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_ft-3.0.835-py2.py3-none-any.whl": [
+          "s2EIPiHah7TUDANSiFxJ0yNOpaHv3fhPJkJL1oI4tSk=",
           "py2.py3"
         ]
       }

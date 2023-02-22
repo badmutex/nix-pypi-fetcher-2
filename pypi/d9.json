@@ -6654,6 +6654,18 @@
         ]
       }
     },
+    "1.194.0": {
+      "sdist": [
+        "QvAA6Z4nRgL6JjVbYgJ7s89+tjv/VxzBRtlCtuCiqyY=",
+        "aws-cdk.aws-codestarconnections-1.194.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_codestarconnections-1.194.0-py3-none-any.whl": [
+          "hR5MxWLENtoHx9o4zo7zYT+mfGrXD30cpNb+ZIYETrk=",
+          "py3"
+        ]
+      }
+    },
     "1.28.0": {
       "sdist": [
         "TLEtmU16JgCCPZa9Rz9vWlb6s5O6deR/2+BWqGEc9wY=",
@@ -7936,6 +7948,18 @@
       "wheels": {
         "aws_cdk.aws_location_alpha-2.65.0a0-py3-none-any.whl": [
           "t8SDebc+NRkAV6IYxfIuohvnMALagvKs2VZ2ctjfj+E=",
+          "py3"
+        ]
+      }
+    },
+    "2.66.0a0": {
+      "sdist": [
+        "ppqeXG5TylyRBOpsV6FgnXgfV6sKJp1CZbh4mMS6yo8=",
+        "aws-cdk.aws-location-alpha-2.66.0a0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_location_alpha-2.66.0a0-py3-none-any.whl": [
+          "VZSLZ74uu5zW2+7Pj0IP5gAMSbUtUAKtfAlDPfkLRc4=",
           "py3"
         ]
       }
@@ -13024,6 +13048,18 @@
       "wheels": {
         "botocore_a_la_carte_healthlake-1.29.75-py3-none-any.whl": [
           "BMbofr2Pceyi7sfm2rkaHyN30ZdaI1dOxVr4a91wCCw=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.76": {
+      "sdist": [
+        "23Z697am8ZuW51MjmLLwHJVQpSk090qB4tqqSg2y3po=",
+        "botocore-a-la-carte-healthlake-1.29.76.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_healthlake-1.29.76-py3-none-any.whl": [
+          "fY/Fu3iSc1tIqQ4OW2OFuJCb7jX1PHX5+3t+E+MqY2Q=",
           "py3"
         ]
       }
@@ -32293,6 +32329,38 @@
           "py3"
         ]
       }
+    },
+    "0.1.0": {
+      "wheels": {
+        "edge_ai-0.1.0-py3-none-any.whl": [
+          "hIwWqMhXnFx2Sn/sVwqRr7qW1CHPGR293C1qXi6Z10Q=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "PIFTaXZWtrV7AVC62fXnpOo5EZMzA3v/GFVrba5CEMk=",
+        "edge_ai-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "edge_ai-0.1.1-py3-none-any.whl": [
+          "ism1Uwo2rC7o2/1SDxbIDOtWWDZW2u2TqA2dyfppms8=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "TpZaCmvZbdriuWW6mnzHcWrTnL2XAxZwahoXcb31X7I=",
+        "edge_ai-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "edge_ai-0.1.2-py3-none-any.whl": [
+          "uhxuUIi/kfLJnPWg6UMaErjl2GkbWSqWYsBe6WV8jow=",
+          "py3"
+        ]
+      }
     }
   },
   "edge-srt-to-speech": {
@@ -49082,6 +49150,42 @@
       "wheels": {
         "inels_mqtt_new-0.2.1b10-py3-none-any.whl": [
           "AHluxZASBwIe1CuLmCvMjpCQ8F1+AApHktzAvE5PHn0=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.1b11": {
+      "sdist": [
+        "H0CFKLoiJG7RvEeNtkDEoG3Y0/5KUPwKUUsinjn2y34=",
+        "inels-mqtt-new-0.2.1b11.tar.gz"
+      ],
+      "wheels": {
+        "inels_mqtt_new-0.2.1b11-py3-none-any.whl": [
+          "mVyee7VMDlb18xCWPFzQPkQ1yGjqvQgdu4lsvyJwhXQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.1b12": {
+      "sdist": [
+        "aWO5sgPSPonsfX00xTxngo/Lk3ODJPSIILgad5M2tiY=",
+        "inels-mqtt-new-0.2.1b12.tar.gz"
+      ],
+      "wheels": {
+        "inels_mqtt_new-0.2.1b12-py3-none-any.whl": [
+          "151BxL2k8yR6lLe7VrozhouUM85FWTu2oOwHDsW5vCw=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.1b13": {
+      "sdist": [
+        "CCC4MuMoCOkpa1DxRkVp1HJVU9o9lIMaoxtfI19SDSI=",
+        "inels-mqtt-new-0.2.1b13.tar.gz"
+      ],
+      "wheels": {
+        "inels_mqtt_new-0.2.1b13-py3-none-any.whl": [
+          "t261eEjL2GmDFQjH0ta/vL1YPuGugqj9zrZW5F80qX0=",
           "py3"
         ]
       }
@@ -85139,6 +85243,18 @@
           "py3"
         ]
       }
+    },
+    "1.3.1": {
+      "sdist": [
+        "zneKI10c3QeXeTsaTmZT5NcILWo7TqYRWVulEuk7AIQ=",
+        "poetry_polylith_plugin-1.3.1.tar.gz"
+      ],
+      "wheels": {
+        "poetry_polylith_plugin-1.3.1-py3-none-any.whl": [
+          "Q8hVTUm7y3Bhyr8+Bd4EkyW2fVpVh3j19wd+9dGQtAU=",
+          "py3"
+        ]
+      }
     }
   },
   "polib": {
@@ -85866,6 +85982,18 @@
       "wheels": {
         "policyengine_canada-0.38.1-py3-none-any.whl": [
           "14AKC4IaCfz7ELuQLhbU3ixoKf4g8xr7BbMCl+an2dQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.39.0": {
+      "sdist": [
+        "Mn2HVkhhvxv4wFJGAJquqpE8rAZntKfJHF4L04PkHgY=",
+        "policyengine-canada-0.39.0.tar.gz"
+      ],
+      "wheels": {
+        "policyengine_canada-0.39.0-py3-none-any.whl": [
+          "tH7zf17K0aIjtE6f07aRiwwMs6Vmn9mIIyQIHc201eQ=",
           "py3"
         ]
       }
@@ -89206,6 +89334,18 @@
       "wheels": {
         "psyke-0.3.3.dev42-py3-none-any.whl": [
           "cg+P+vLED/RY761jRMGvWiwDzBQZg7oNiu9vJ8wIDxg=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.3.dev43": {
+      "sdist": [
+        "4ICXVewoA/NKSB5+ykKIQDKvVqZJACSGwPtvr+GZ02c=",
+        "psyke-0.3.3.dev43.tar.gz"
+      ],
+      "wheels": {
+        "psyke-0.3.3.dev43-py3-none-any.whl": [
+          "D5P11384Bjq7hOePDFn/HyZhBT2+Qm4eRcDMtlIyddw=",
           "py3"
         ]
       }

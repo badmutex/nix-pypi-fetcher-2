@@ -8955,6 +8955,18 @@
           "py3"
         ]
       }
+    },
+    "1.194.0": {
+      "sdist": [
+        "vgDz8u1aobKK8Woo0QqJWHW2V3h48njrhILYuIGsTNU=",
+        "aws-cdk.aws-opensearchserverless-1.194.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_opensearchserverless-1.194.0-py3-none-any.whl": [
+          "ph2U9Qyh+2XupXirhRMMCxKeAfOklXTG17AfcL3vwGE=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-cloudtrail-events-schema": {
@@ -108080,6 +108092,26 @@
         ]
       }
     },
+    "9.2.39": {
+      "sdist": [
+        "IQCMvP4o/aV+/tkP9SS5tlSNAdI6yRxYPczdF9jm1aY=",
+        "pyvex-9.2.39.tar.gz"
+      ],
+      "wheels": {
+        "pyvex-9.2.39-py3-none-macosx_10_9_x86_64.whl": [
+          "tQCMGMPhQEODxYXkaeVGqkAmlY2oSEhU4hN/uKcxcns=",
+          "py3"
+        ],
+        "pyvex-9.2.39-py3-none-manylinux2014_x86_64.whl": [
+          "0tvHrDDJ8NHQK5L0gSJb6M1bHG447Rc0N0355vrhO+Q=",
+          "py3"
+        ],
+        "pyvex-9.2.39-py3-none-win_amd64.whl": [
+          "Im1lVAdhpCg5tVBIsdUMs9s1Tkiwt81LeB/6BZDQoGo=",
+          "py3"
+        ]
+      }
+    },
     "9.2.4": {
       "sdist": [
         "r+dmf5qIjiN5vmdzBmPORnPWPrjLKGks+OAdZXdAbOc=",
@@ -140251,6 +140283,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.835": {
+      "sdist": [
+        "9T+Z5N5pVD1Lb1Z2XeWZEDhFu2+L4TAHsiIv5GX97gQ=",
+        "tencentcloud-sdk-python-vm-3.0.835.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_vm-3.0.835-py2.py3-none-any.whl": [
+          "976hNsKqjBXWjvSYNOGSSwtWwd/sULoP7txh7c2Q9Zo=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tendenci-case-studies": {
@@ -155636,6 +155680,14 @@
       "wheels": {
         "zymod-0.0.1.14-py3-none-any.whl": [
           "nT4VPbVjb2cMr5RFXfWUKUJZVWdFjKYQzijAS5eIs40=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.1.16": {
+      "wheels": {
+        "zymod-0.0.1.16-py3-none-any.whl": [
+          "NZBIo3pIMNRLfoQYuYcUncLUen3kraT0sGcaOpgX6O8=",
           "py3"
         ]
       }

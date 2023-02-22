@@ -18931,6 +18931,18 @@
           "py3"
         ]
       }
+    },
+    "1.194.0": {
+      "sdist": [
+        "SvccKXv3YZ2UmqjlvPOlE2bLdGc9ZP/Ud9QbN/ICUwI=",
+        "aws-cdk.aws-finspace-1.194.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_finspace-1.194.0-py3-none-any.whl": [
+          "XAQKbsvKnSImESlALGaDf0u89PQSrI3LO8GEj9S60is=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-parallelcluster-node": {
@@ -23131,6 +23143,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.76": {
+      "sdist": [
+        "exHwFNbzhEhn/xBI1chq/jktTbY7KHmpfJkUkcj3TGM=",
+        "botocore-a-la-carte-mediaconnect-1.29.76.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_mediaconnect-1.29.76-py3-none-any.whl": [
+          "oTCxu4/JRJK5Hk59OmKrOQpEY7trF34kEAV0sK4igzA=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-sms-voice": {
@@ -23538,6 +23562,18 @@
       "wheels": {
         "botocore_a_la_carte_sms_voice-1.29.75-py3-none-any.whl": [
           "d6yF0xxkKvJiO4hyh04GP0WC+J3sVxfW2ACRX5NiWro=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.76": {
+      "sdist": [
+        "8EzqNMPAED2vLtfPT8oz1YrtuJkkeFCz0/YUQSrAnkk=",
+        "botocore-a-la-carte-sms-voice-1.29.76.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_sms_voice-1.29.76-py3-none-any.whl": [
+          "SczTb5pAO5soGk/8JDD69Rc2afBrbXGSyPg0uaZhifk=",
           "py3"
         ]
       }
@@ -31891,6 +31927,32 @@
         "tBMf79NaNbdRxckPDyoQKj9GfPLiFRg0vcjtm0q5IBw=",
         "cppex-1.0.tar.gz"
       ]
+    }
+  },
+  "cronus-eater": {
+    "0.1.0a1": {
+      "sdist": [
+        "9pZaQcVayHR1W3ljXPV6yra/r1vfhBJ9WgKaUGoD9FM=",
+        "cronus_eater-0.1.0a1.tar.gz"
+      ],
+      "wheels": {
+        "cronus_eater-0.1.0a1-py3-none-any.whl": [
+          "N91z8XLOXWCAdjxb6zcgmUZI4XUnSiRlYnvBuZLMU20=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.0a2": {
+      "sdist": [
+        "zfAx2N/DjFwls16i3dvtRgd8BrJBN+NqEG2I25KRGwk=",
+        "cronus_eater-0.1.0a2.tar.gz"
+      ],
+      "wheels": {
+        "cronus_eater-0.1.0a2-py3-none-any.whl": [
+          "lbpXUrRP/B3iLZzs4gyIrbNrC53eb6ilYAd39Cbzqvg=",
+          "py3"
+        ]
+      }
     }
   },
   "crowd": {
@@ -48372,6 +48434,34 @@
         ]
       }
     },
+    "1.10.0rc4": {
+      "wheels": {
+        "epam.indigo-1.10.0rc4-py3-none-macosx_10_7_intel.whl": [
+          "yAp9Fv3592wyr3wx40lEK6I05W68NO33rZdKVEwKRZ8=",
+          "py3"
+        ],
+        "epam.indigo-1.10.0rc4-py3-none-macosx_11_0_arm64.whl": [
+          "+Pe8K9PcaVhxUmC+f622QdnhT+xlhKCneyHX402o2XM=",
+          "py3"
+        ],
+        "epam.indigo-1.10.0rc4-py3-none-manylinux1_x86_64.whl": [
+          "ymdz0kMJwW/NnSyxxk91AQb5olBgiPwIUT4xtmmUQp4=",
+          "py3"
+        ],
+        "epam.indigo-1.10.0rc4-py3-none-manylinux2014_aarch64.whl": [
+          "5SUeSHDJrktSjNQhGlOonugcsVsiKZIlTCeOiQ8XT50=",
+          "py3"
+        ],
+        "epam.indigo-1.10.0rc4-py3-none-win32.whl": [
+          "AUBZbcrRDH4rZ5ij+8Dpa6jcHiTrzyYxgv1oDR0XkBU=",
+          "py3"
+        ],
+        "epam.indigo-1.10.0rc4-py3-none-win_amd64.whl": [
+          "B1wT77m3lBhoui5cFfuV2fClWhqZMdkxDfYgutA9r5Y=",
+          "py3"
+        ]
+      }
+    },
     "1.4.0b0": {
       "wheels": {
         "epam.indigo-1.4.0b0-py2-none-macosx_10_7_intel.whl": [
@@ -62014,6 +62104,26 @@
       "wheels": {
         "iQual-0.1.0-py3-none-any.whl": [
           "Zr/gxW0+Ok0beCqw1+PQOarztZNxNNvDhy90NFTtP7o=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "c+JKQHI0jpjn/f0aDbGZbxneBmjcRreA0NiZQgnq7JY=",
+        "iQual-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "iQual-0.1.1-py3-none-any.whl": [
+          "c7IoqS5rMmgl3nWCVaLXtPO6voPm9VNNQT0TCowF+PE=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "wheels": {
+        "iQual-0.1.2-py3-none-any.whl": [
+          "oU5z/r97AnsIALXgsSyr5fvebhQ6z3hNhxJ1x40rmmU=",
           "py3"
         ]
       }
@@ -131620,6 +131730,18 @@
       "wheels": {
         "tencentcloud_sdk_python_captcha-3.0.834-py2.py3-none-any.whl": [
           "rx0dY0TuOYlnEBqKUNA6EwXmwEdRN1DgmIQfH22zQEM=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.835": {
+      "sdist": [
+        "hk+QYwcRxrgViWzaIW2om6hLau8Lc9h1/7xU4D6D/vI=",
+        "tencentcloud-sdk-python-captcha-3.0.835.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_captcha-3.0.835-py2.py3-none-any.whl": [
+          "K7V5qZdkTRk12nTek425XDZIUgDIJ0v7w1KZ6OmabW0=",
           "py2.py3"
         ]
       }

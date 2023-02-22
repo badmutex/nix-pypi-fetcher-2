@@ -5898,6 +5898,18 @@
         ]
       }
     },
+    "4.3.0": {
+      "sdist": [
+        "YnYWeG7TXeG1D9KwrJ0b3YeA1d6d5PNQAaN8w/L5iRM=",
+        "apache-airflow-providers-apache-beam-4.3.0.tar.gz"
+      ],
+      "wheels": {
+        "apache_airflow_providers_apache_beam-4.3.0-py3-none-any.whl": [
+          "gFdLhTDWzTQt4Rj9va+6r4rnqUr7h94bBZuGAcAqqwg=",
+          "py3"
+        ]
+      }
+    },
     "4.3.0rc1": {
       "sdist": [
         "Ayj/b1zKwXQl5bQJr7ZjkfAgggNg7yB5xtEyLUKht9E=",
@@ -17953,6 +17965,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.76": {
+      "sdist": [
+        "wHIqFfOhIbyE93z/5Q9nnqaQl4/EXPiyQ/RHxENoioQ=",
+        "botocore-a-la-carte-connectparticipant-1.29.76.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_connectparticipant-1.29.76-py3-none-any.whl": [
+          "hWIL2n82DdDu4yx445Ts4vUdxyeWfZJo9bdyvpNYiCM=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-lakeformation": {
@@ -18360,6 +18384,18 @@
       "wheels": {
         "botocore_a_la_carte_lakeformation-1.29.75-py3-none-any.whl": [
           "Q41uMwixfHSpmJ0N7b/u/qru8QmnaPpn2T54Cm6YWQ0=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.76": {
+      "sdist": [
+        "d9I/Q52z+KfFO2K1dksQW33ObNYmq9gYkTnqcIMCO3U=",
+        "botocore-a-la-carte-lakeformation-1.29.76.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_lakeformation-1.29.76-py3-none-any.whl": [
+          "L8SiHTL6PR4pIjQEWKhOGgViBHEIT2fAQvh9BOdI2+0=",
           "py3"
         ]
       }
@@ -87247,6 +87283,14 @@
           "py3"
         ]
       }
+    },
+    "0.4.3": {
+      "wheels": {
+        "nds-0.4.3-py3-none-any.whl": [
+          "pHjhSoKIwMY0JN8zZMb3ezxb3KTIQmJvJLIM2y+S284=",
+          "py3"
+        ]
+      }
     }
   },
   "nearly-solid": {
@@ -103510,6 +103554,18 @@
       "wheels": {
         "poetry_git_version_plugin-0.0.6-py3-none-any.whl": [
           "YRX5BzuSc6VT6Xzypwj6XDQy3YzImsv/cvDV8I5m3JE=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.7": {
+      "sdist": [
+        "BM4+uS7VuvyWkwo5bz7x/u11Dx5O0lOJ+AojTsHbZOU=",
+        "poetry_git_version_plugin-0.0.7.tar.gz"
+      ],
+      "wheels": {
+        "poetry_git_version_plugin-0.0.7-py3-none-any.whl": [
+          "o+Ia+qxnED1HrmaiVpP0DNYNvZkUyot4v47K4VmL/hU=",
           "py3"
         ]
       }
@@ -120792,6 +120848,54 @@
       "wheels": {
         "rubbrband-0.1.4-py3-none-any.whl": [
           "GUIdx4ytrE1whRLmFvkaOlkWf9OviHnYfPqOsME8Cuk=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.5": {
+      "sdist": [
+        "j13bH1xeL7UPjIx1pknVkIEjBKbQ8ahkUnb/iW9J+1Q=",
+        "rubbrband-0.1.5.tar.gz"
+      ],
+      "wheels": {
+        "rubbrband-0.1.5-py3-none-any.whl": [
+          "D8KbKlA55zjkkFcknb9ZaTiRiT2sAUlMpcc1Idnr6+o=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.6": {
+      "sdist": [
+        "Bj1d+WDasUYtX0TIbJkNCCuKEtn52HkvrN1RVcI8IJk=",
+        "rubbrband-0.1.6.tar.gz"
+      ],
+      "wheels": {
+        "rubbrband-0.1.6-py3-none-any.whl": [
+          "8cB8ufp61v3WwNzs92m9wVAbEL5ykJ59v6Pl6jF7J+g=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.7": {
+      "sdist": [
+        "92F7Gz5VSmz6Q1ZF3XWl1RqG7E7r0XVP+KbbBXm75XY=",
+        "rubbrband-0.1.7.tar.gz"
+      ],
+      "wheels": {
+        "rubbrband-0.1.7-py3-none-any.whl": [
+          "hDfcr9T/m47P0/wVxS43ig8toJOPvbW7dvN17SCK5gA=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.8": {
+      "sdist": [
+        "gUVuLaZ/K+KtgkBZz4fXonj6U/5Mlq2xfGZYjfVwyKg=",
+        "rubbrband-0.1.8.tar.gz"
+      ],
+      "wheels": {
+        "rubbrband-0.1.8-py3-none-any.whl": [
+          "+QNGCXljf8m6geEJ+zBI5wnMaPAbAr/6NQxudYKyQG4=",
           "py3"
         ]
       }

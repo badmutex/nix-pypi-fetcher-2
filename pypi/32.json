@@ -3426,6 +3426,18 @@
         ]
       }
     },
+    "3.5.1": {
+      "sdist": [
+        "LN1X9JYAzvOaqWWbGOf/NglCh0v8dAcfLiQM17D4t0o=",
+        "apache-airflow-providers-docker-3.5.1.tar.gz"
+      ],
+      "wheels": {
+        "apache_airflow_providers_docker-3.5.1-py3-none-any.whl": [
+          "Xoan+/QPb0aDd5rgZrQl3GtEnTT9Gl3wSuiGvIzHSUE=",
+          "py3"
+        ]
+      }
+    },
     "3.5.1rc1": {
       "sdist": [
         "UmbWiixGHAMr9YsV8kDbsIe1m+Owg90ewu/3jldUNzs=",
@@ -4738,6 +4750,32 @@
       "wheels": {
         "async_easy_utils-0.1.3-py3-none-any.whl": [
           "kBsRjytjnnfSOcjs/97sVe5LT7s1j3dEbUYhXZCmu4k=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "async-faceit-api": {
+    "0.1.0": {
+      "sdist": [
+        "e/qYbYdR4FhLQQaoBOyBa443iW9GRshzwv7Gd8tcGJQ=",
+        "async_faceit_api-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "async_faceit_api-0.1.0-py3-none-any.whl": [
+          "Dwry5dDWEejbhzqmol/QsPZE5lDRrXnh8Tmj4m/uxcA=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "zCzeG6mfZjPsgSsT90A8V8ZYGfksg3S7r4LuWWjZtsg=",
+        "async_faceit_api-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "async_faceit_api-0.1.1-py3-none-any.whl": [
+          "x0rz56sXybxc2nqT31uWpUMicyIKZeVjfUa9tIklQi8=",
           "py3"
         ]
       }
@@ -8326,6 +8364,18 @@
       "wheels": {
         "aws_cdk.core-1.193.0-py3-none-any.whl": [
           "tokChEBek8XIQLwGujombTa3To0t74N8cyOwlmh42PE=",
+          "py3"
+        ]
+      }
+    },
+    "1.194.0": {
+      "sdist": [
+        "Xhdq0Pa35Q/Szw0LyWhYTmPRTCF0/se7fnnEgUo6WxU=",
+        "aws-cdk.core-1.194.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.core-1.194.0-py3-none-any.whl": [
+          "wJrSlzMjspocp/SwRzryCXzv0516vxtW0angt8aP6Ro=",
           "py3"
         ]
       }
@@ -109169,6 +109219,14 @@
       }
     }
   },
+  "pyfolio-tekton": {
+    "1.0": {
+      "sdist": [
+        "0e7LWrYQs7qg+eEXBSaUixN3/4/DS8SOsM/qJddTsgs=",
+        "pyfolio-tekton-1.0.tar.gz"
+      ]
+    }
+  },
   "pyformatters-bel-table": {
     "0.5.0": {
       "sdist": [
@@ -116234,6 +116292,42 @@
         ]
       }
     },
+    "1.0.17": {
+      "sdist": [
+        "w1N2TbEYuKbAQtXivbh5aGm6FMCY/OahxcI9J44kpDA=",
+        "qiplot-1.0.17.tar.gz"
+      ],
+      "wheels": {
+        "qiplot-1.0.17-py3-none-any.whl": [
+          "sw12AYo1xgGpy8XLPUVtTPN407fQxqlUCyLkA2/JhKw=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.18": {
+      "sdist": [
+        "682Nx1kjqsqMp07ZcIq+mRofhekQj/XhlciQyWPrpcs=",
+        "qiplot-1.0.18.tar.gz"
+      ],
+      "wheels": {
+        "qiplot-1.0.18-py3-none-any.whl": [
+          "WQFjRnB4EQJjWrE6R3XDphLGnRXq/MlZU47nPXLb6b8=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.19": {
+      "sdist": [
+        "HjAZLQJfhUoAZXA9CSpu/kNwKtWgE/T+zi3LuEIO6LI=",
+        "qiplot-1.0.19.tar.gz"
+      ],
+      "wheels": {
+        "qiplot-1.0.19-py3-none-any.whl": [
+          "dQXXMTDd9LZRtJQ6vXTabrNQ9p3LAhTSkoQ1TLrOdnM=",
+          "py3"
+        ]
+      }
+    },
     "1.0.2": {
       "sdist": [
         "MDnV53Bz9R9rhE1aD+i+Wy4lniESkL1mHt8Db66UtTs=",
@@ -122968,6 +123062,12 @@
       "sdist": [
         "WZflVq9zOejBd8w8xVTPfw2sx/PRNfkWzFqXJBBL0uA=",
         "sagemaker-2.133.0.tar.gz"
+      ]
+    },
+    "2.134.0": {
+      "sdist": [
+        "yMit0gGXUK9oHbh9c0hs7e5Go+C5/n1OzIFZW1YldVY=",
+        "sagemaker-2.134.0.tar.gz"
       ]
     },
     "2.14.0": {
@@ -139638,6 +139738,18 @@
       "wheels": {
         "tinybird_cdk-0.0.8-py3-none-any.whl": [
           "c3/ZHiRJSaQzIO8iQKhnq7MDXMpuHv1N3GV+6KqPI1E=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.9": {
+      "sdist": [
+        "cdDbci6fT39Z30Krrummgp5BOhnrQTbW8fl50bqWcw0=",
+        "tinybird-cdk-0.0.9.tar.gz"
+      ],
+      "wheels": {
+        "tinybird_cdk-0.0.9-py3-none-any.whl": [
+          "+9BANOBJfoQxonyPUbHio9XqwVjYIQY6N8WqEypnxNc=",
           "py3"
         ]
       }

@@ -6103,6 +6103,54 @@
           "cp39"
         ]
       }
+    },
+    "2.1.59": {
+      "wheels": {
+        "anki-2.1.59.post1-cp39-abi3-macosx_10_13_x86_64.whl": [
+          "t2Gbq9LWv0+ggK98xj66RF3HkCWdr9JEwWjPeVV7LDw=",
+          "cp39"
+        ],
+        "anki-2.1.59.post1-cp39-abi3-macosx_11_0_arm64.whl": [
+          "Jpxr4yx/g+OQ1FLm78JupGAq4YJRQh+dCTlLFgoyynA=",
+          "cp39"
+        ],
+        "anki-2.1.59.post1-cp39-abi3-manylinux_2_28_x86_64.whl": [
+          "78WNvG1yGY5EGRFTdPmIKfg+ZCMqZsbblKgZF3oZI1s=",
+          "cp39"
+        ],
+        "anki-2.1.59.post1-cp39-abi3-manylinux_2_31_aarch64.whl": [
+          "uDcJfv7rPM234kkftJP4dMazaD5taYPEd4+nPCdpgtQ=",
+          "cp39"
+        ],
+        "anki-2.1.59.post1-cp39-abi3-win_amd64.whl": [
+          "U5jT3dVjY+ojUEQCpbFIAT+VDciD3FXycfU5IQWabmU=",
+          "cp39"
+        ]
+      }
+    },
+    "2.1.60": {
+      "wheels": {
+        "anki-2.1.60-cp39-abi3-macosx_10_13_x86_64.whl": [
+          "20Oh1T2DR14j6LFuJmYGJfbJkWTj5VgX5f7CxchHyCY=",
+          "cp39"
+        ],
+        "anki-2.1.60-cp39-abi3-macosx_11_0_arm64.whl": [
+          "tGNae8lQ5qfiL3drMFzttaxyewHpavJYCN6ypb3q5KI=",
+          "cp39"
+        ],
+        "anki-2.1.60-cp39-abi3-manylinux_2_28_x86_64.whl": [
+          "80JXshFl4wxLbxeQGaf04gCoCrZM8vx+igo70JkJmkE=",
+          "cp39"
+        ],
+        "anki-2.1.60-cp39-abi3-manylinux_2_31_aarch64.whl": [
+          "V1aXulK6F6ktBmbDr81mKNLPLWwJwxGTXb9Kiu9wb+M=",
+          "cp39"
+        ],
+        "anki-2.1.60-cp39-abi3-win_amd64.whl": [
+          "5PKIFkMsN9MYVh7ZhjCTqZxYYOyfxmOAivwDJaK9iVE=",
+          "cp39"
+        ]
+      }
     }
   },
   "another-statistic-distributions": {
@@ -80620,6 +80668,30 @@
         ]
       }
     },
+    "0.1.474": {
+      "sdist": [
+        "RjXDHWcqmjjsErtYlnTYM90G/dAW07zmqOjM0RTYAP8=",
+        "lusid-drive-sdk-preview-0.1.474.tar.gz"
+      ],
+      "wheels": {
+        "lusid_drive_sdk_preview-0.1.474-py3-none-any.whl": [
+          "yWSp42PIpkW0Mn5XUkk95sMPVBibCF9dwU+/5r3zpOQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.475": {
+      "sdist": [
+        "od22bQuLBdmMUN7o+8wftcn4swdBOU71dlvlj3GhQsQ=",
+        "lusid-drive-sdk-preview-0.1.475.tar.gz"
+      ],
+      "wheels": {
+        "lusid_drive_sdk_preview-0.1.475-py3-none-any.whl": [
+          "i1L+B0Gy1Vi12kCyUpTYrqBFG4OEMasWQBoV2nrIA4o=",
+          "py3"
+        ]
+      }
+    },
     "0.1.84": {
       "sdist": [
         "9c+ICxLXqOobFhJUe8acNE+mK4O61k8qlwB/Afqv44c=",
@@ -94454,6 +94526,14 @@
       "wheels": {
         "odoo13_addons_oca_server_tools-13.0.20221001.0-py3-none-any.whl": [
           "zK8u0/v2PsB+LO+WfXIhuQHitZRb76FbCmZH8+g5gXY=",
+          "py3"
+        ]
+      }
+    },
+    "13.0.20230221.0": {
+      "wheels": {
+        "odoo13_addons_oca_server_tools-13.0.20230221.0-py3-none-any.whl": [
+          "Uc1XTxjsxRCkdxK847lTMMhlEF/a3HULOu0D5PGrafs=",
           "py3"
         ]
       }
@@ -129074,6 +129154,18 @@
       "wheels": {
         "sectxt-0.8-py3-none-any.whl": [
           "hWBg1kpIviEbFwJ2c4OOuoQOZCzy8Ooq6NJ/vyPdX90=",
+          "py3"
+        ]
+      }
+    },
+    "0.8.1": {
+      "sdist": [
+        "+QTIsQ74MS5Vk5mpsQe0Uf0E53SZYq+L1g8cl6nvNbs=",
+        "sectxt-0.8.1.tar.gz"
+      ],
+      "wheels": {
+        "sectxt-0.8.1-py3-none-any.whl": [
+          "KCRMfiDIuoSq70RF/ENc1DupTI5oT0S7/jJcBnNOguQ=",
           "py3"
         ]
       }

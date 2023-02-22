@@ -449,6 +449,12 @@
         "pC3Ec7FrLZ6PRFBXozcXYKGbmAV+MhDc235hn1Ppt2w=",
         "3ETool-0.8.0.tar.gz"
       ]
+    },
+    "0.8.1": {
+      "sdist": [
+        "0NYs7ThoVJHzhQ16VrfhMdnC8FqnM8bgIsDJ0I9c++c=",
+        "3ETool-0.8.1.tar.gz"
+      ]
     }
   },
   "acc2psql": {
@@ -25501,6 +25507,18 @@
           "py3"
         ]
       }
+    },
+    "1.7.1": {
+      "sdist": [
+        "wqp2KejQZy3mvkyKjxL4A7UIQstuAvEGOufdETq1UKQ=",
+        "dataclass_mapper-1.7.1.tar.gz"
+      ],
+      "wheels": {
+        "dataclass_mapper-1.7.1-py3-none-any.whl": [
+          "wNvFyfDeHu3y/FscFcAM9xuaL29UAUqqBZ6mj+vc1Co=",
+          "py3"
+        ]
+      }
     }
   },
   "datadistillr": {
@@ -27090,6 +27108,18 @@
       "wheels": {
         "dcentrapi-0.1.5-py3-none-any.whl": [
           "5sJ3dtC9fqE5UX5rPeOy9V8lBfUpP4L8envmUvEjpZQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.6": {
+      "sdist": [
+        "FFT37wrQaYAdO0TcZYm9VMFKdH9zGkFKdDzSlS7eBwM=",
+        "dcentrapi-0.1.6.tar.gz"
+      ],
+      "wheels": {
+        "dcentrapi-0.1.6-py3-none-any.whl": [
+          "ztgGqtv2wW57EhMqSxM1fJzFmgfo+noIrbVm8xPxhG8=",
           "py3"
         ]
       }
@@ -37354,6 +37384,38 @@
         ],
         "eclipse_zenoh_flow-0.4.0_alpha.1-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "52blMQTQga75dSqgTELsDKF28+BBbZ2VW/iRuEqzZQ0=",
+          "cp37"
+        ]
+      }
+    },
+    "0.4.0a2": {
+      "sdist": [
+        "K6oszr2qV8UDkvXycPD81xOXI0QV0fjZrQ57brapnHg=",
+        "eclipse_zenoh_flow-0.4.0_alpha.2.tar.gz"
+      ],
+      "wheels": {
+        "eclipse_zenoh_flow-0.4.0_alpha.2-cp37-abi3-macosx_10_7_x86_64.whl": [
+          "OdzlRFt/R+ldOa9/D5p6FpwCLApJxYojpR8/MN6AAH4=",
+          "cp37"
+        ],
+        "eclipse_zenoh_flow-0.4.0_alpha.2-cp37-abi3-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "ZxBqzLCdi9bMS2K9qE0BbwGtdV7c9gqA44QQkVZHRrk=",
+          "cp37"
+        ],
+        "eclipse_zenoh_flow-0.4.0_alpha.2-cp37-abi3-manylinux_2_12_i686.manylinux2010_i686.whl": [
+          "L3Q3geUyQySSyDadl1uVfPvHGb4yzu0/QzylbktlZt0=",
+          "cp37"
+        ],
+        "eclipse_zenoh_flow-0.4.0_alpha.2-cp37-abi3-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "EDcWrSRzVmXAqvP5yv5HXOoigMZNUFp0ORaSy/8Uy7g=",
+          "cp37"
+        ],
+        "eclipse_zenoh_flow-0.4.0_alpha.2-cp37-abi3-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "+KarxMdA5y9Hb1rTwCmqlyR+Zy0xgC/OkKcwxIjhVcU=",
+          "cp37"
+        ],
+        "eclipse_zenoh_flow-0.4.0_alpha.2-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "qZWZfq7WAhKbFplsjj0JRkyK+fu1+dnQDQeNLUqu/MY=",
           "cp37"
         ]
       }
@@ -83147,6 +83209,14 @@
           "py3"
         ]
       }
+    },
+    "13.0.1.0.2": {
+      "wheels": {
+        "odoo13_addon_l10n_nl_location_nuts-13.0.1.0.2-py3-none-any.whl": [
+          "JRMomlYpl4HMxFXMDsEeXK7A6CM9Zh5ovquBvgXOmB8=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo13-addon-mail-optional-autofollow": {
@@ -121344,6 +121414,18 @@
       "wheels": {
         "sime_library-0.8-py3-none-any.whl": [
           "XGLdNPT42O6ZRVVFrR5I2tIFOhMSR047IO/Cl2lr1lQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.9": {
+      "sdist": [
+        "K0l0Gznp4gyAmK1rUnF/zTI9ltuSb4LhSe9aRMApG0Y=",
+        "sime_library-0.9.tar.gz"
+      ],
+      "wheels": {
+        "sime_library-0.9-py3-none-any.whl": [
+          "SmmmeF4wRmc368cs58rBZlB2ZbNC1PC+8R8GuMdcR2g=",
           "py3"
         ]
       }

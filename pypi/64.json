@@ -35258,16 +35258,16 @@
         "databricks-connect-10.4.18.tar.gz"
       ]
     },
+    "10.4.21": {
+      "sdist": [
+        "PS6lBTO0pSw771bbXjWbqO8F89IdeCwAn5N0M0/NRoA=",
+        "databricks-connect-10.4.21.tar.gz"
+      ]
+    },
     "10.4.6": {
       "sdist": [
         "Dezqn6rZysRhDQFUuTgXdoJL9dn21Bx2QlryBG9MtR0=",
         "databricks-connect-10.4.6.tar.gz"
-      ]
-    },
-    "10.4.8": {
-      "sdist": [
-        "rZmn70lJLhdk6gK8Vmj5mor71kHagq6jy57x7Q6REVM=",
-        "databricks-connect-10.4.8.tar.gz"
       ]
     },
     "10.4.9": {
@@ -35282,6 +35282,12 @@
         "databricks-connect-11.3.0b0.tar.gz"
       ]
     },
+    "11.3.6": {
+      "sdist": [
+        "kAUBA9V1st5UxXihrXQjyk+1ahsum/VEcNfDK1he/Pc=",
+        "databricks-connect-11.3.6.tar.gz"
+      ]
+    },
     "5.5.3": {
       "sdist": [
         "fnpHi/gCx9us3nZfiUFLt0/DNXihquLVXtBrmmkJzQw=",
@@ -35292,12 +35298,6 @@
       "sdist": [
         "T1AUBC2nTgs60SvvAdn05N46GYuNofHGTTtxclQyZTA=",
         "databricks-connect-6.4.1.tar.gz"
-      ]
-    },
-    "6.4.28": {
-      "sdist": [
-        "T6yBy3lDCO8VdKIAoJY5dcKB/Wuc4rSuFBIANkmT48A=",
-        "databricks-connect-6.4.28.tar.gz"
       ]
     },
     "6.4.49": {
@@ -35324,28 +35324,10 @@
         "databricks-connect-7.3.41.tar.gz"
       ]
     },
-    "7.3.42": {
-      "sdist": [
-        "fzbSLiPpAct00zp+P7oVnsJacEttD9slUTqCrukMRSs=",
-        "databricks-connect-7.3.42.tar.gz"
-      ]
-    },
-    "7.3.43": {
-      "sdist": [
-        "aHI9FJko988msaRami7cC+V+WjeTEiDI/wmV1UI5tms=",
-        "databricks-connect-7.3.43.tar.gz"
-      ]
-    },
     "7.3.45": {
       "sdist": [
         "IWjYki4WHRhevw92zECijKmWAaTPJjH/KREoUkqXe9U=",
         "databricks-connect-7.3.45.tar.gz"
-      ]
-    },
-    "7.3.46": {
-      "sdist": [
-        "7j62FXC+zroQYNqOMYk3iJ2VToq7iZXVkKGJNHmBaTQ=",
-        "databricks-connect-7.3.46.tar.gz"
       ]
     },
     "7.3.47": {
@@ -35378,10 +35360,10 @@
         "databricks-connect-7.3.55.tar.gz"
       ]
     },
-    "7.3.9": {
+    "7.3.58": {
       "sdist": [
-        "94lRXzvhvR+IBDEQ1ihZsBqWYeOEqB8XaPyk5LtJo1g=",
-        "databricks-connect-7.3.9.tar.gz"
+        "47T2/t6iUltjKQKADO3z/LmQTFMGp2R5un0wpcyLTI4=",
+        "databricks-connect-7.3.58.tar.gz"
       ]
     },
     "8.1.11": {
@@ -35438,12 +35420,6 @@
         "databricks-connect-9.1.20.tar.gz"
       ]
     },
-    "9.1.21": {
-      "sdist": [
-        "oNZKnWixfZsg/0JbhnQDSgWbvhA085bFjCrRD+3f65s=",
-        "databricks-connect-9.1.21.tar.gz"
-      ]
-    },
     "9.1.22": {
       "sdist": [
         "Q7FEJPi7Gv6KWPo9MEyCLEybc+vQI5A2DUHCcwCz75o=",
@@ -35466,6 +35442,12 @@
       "sdist": [
         "ZSVuZFnubVTfOxVFBtdYBgowTfCZqQzJdzQUfcoTkpA=",
         "databricks-connect-9.1.30.tar.gz"
+      ]
+    },
+    "9.1.33": {
+      "sdist": [
+        "+fWe8E058X9JOhnuuyk1jlSCokaSoIociRuWQa6+Gn8=",
+        "databricks-connect-9.1.33.tar.gz"
       ]
     },
     "9.1.8": {
@@ -148274,6 +148256,14 @@
       "wheels": {
         "torch_model_archiver_nightly-2023.2.21-py3-none-any.whl": [
           "nFCmurpP2MVYzUL6IvPcwzkiHVrijbQ9tFQ67d0u5lU=",
+          "py3"
+        ]
+      }
+    },
+    "2023.2.22": {
+      "wheels": {
+        "torch_model_archiver_nightly-2023.2.22-py3-none-any.whl": [
+          "GKGetGzeGkizQIAeMsPHv18xWBt1SBC/Ul2QAutvpOM=",
           "py3"
         ]
       }

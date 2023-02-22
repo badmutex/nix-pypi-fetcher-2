@@ -2978,11 +2978,13 @@
         "airflow-provider-bigquery-reservation-0.0.1.tar.gz"
       ]
     },
-    "0.0.2": {
-      "sdist": [
-        "7+Zw/3mGOWblfJwX7hCmWS+4uYlJEewMgD/5dkvdJOY=",
-        "airflow-provider-bigquery-reservation-0.0.2.tar.gz"
-      ]
+    "0.1.0": {
+      "wheels": {
+        "airflow_provider_bigquery_reservation-0.1.0-py3-none-any.whl": [
+          "MD/8raVmLhIPcdXTL15OLz1TkNnL54JGG72lbfggtlY=",
+          "py3"
+        ]
+      }
     }
   },
   "alaas": {
@@ -13908,6 +13910,18 @@
         ]
       }
     },
+    "0.0.36": {
+      "sdist": [
+        "kKQOJtzOdJG3p2AkDlBQYuZAUoI0umRLLR1V5N5Ik4g=",
+        "blctools-0.0.36.tar.gz"
+      ],
+      "wheels": {
+        "blctools-0.0.36-py3-none-any.whl": [
+          "0VY4Vh5ZjvzHH7d0bIoJJ92+VqIEsRHuhSaiL7K3b4g=",
+          "py3"
+        ]
+      }
+    },
     "0.0.4": {
       "sdist": [
         "FVtdt4LFVQAb6nc0KEnEIvjH0WHDxAyrR5pwqiedVDo=",
@@ -23827,6 +23841,44 @@
       }
     }
   },
+  "cookie-python": {
+    "0.2.0": {
+      "sdist": [
+        "L0u4g1t060JW43oob1dNKZfRRU44r46v0apsqgwMCUI=",
+        "cookie_python-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "cookie_python-0.2.0-py3-none-any.whl": [
+          "RYJVV2LsOV0GFayQdjp6XUpjGnmZSKlDqnxFc9Acxic=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.1": {
+      "sdist": [
+        "eZ67KfPphotDbPhJkfH8r3IveS2gDWjXKUO0SH7v1YU=",
+        "cookie_python-0.2.1.tar.gz"
+      ],
+      "wheels": {
+        "cookie_python-0.2.1-py3-none-any.whl": [
+          "ashAVQAJT0DNgjXq+oT4v+7qGAbLPgkigsVOth6SveE=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.2": {
+      "sdist": [
+        "HCxh5KVs22Pm3JKJ7Dzdz5jJUhE9JYaWMsuZs9/NYgU=",
+        "cookie_python-0.2.2.tar.gz"
+      ],
+      "wheels": {
+        "cookie_python-0.2.2-py3-none-any.whl": [
+          "WcSrWsjylb8sA039zL4LhSFoUMrVe1O2SRrWS1DzWHI=",
+          "py3"
+        ]
+      }
+    }
+  },
   "coolab": {
     "1.0.0": {
       "sdist": [
@@ -25372,6 +25424,18 @@
       "wheels": {
         "crawles-0.1.7-py3-none-any.whl": [
           "0YjOOFHosJHdX74TvmO3LlWzG24iV0OPPJlHSXrPWPI=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.8": {
+      "sdist": [
+        "FYvcTLZWivmwDKTKqvG0OSF/iYplvkuHslkxTL+cGEc=",
+        "crawles-0.1.8.tar.gz"
+      ],
+      "wheels": {
+        "crawles-0.1.8-py3-none-any.whl": [
+          "Fx6ukiRL6aOtN2P+E3A4Qpyc55ArWtVcZhDjsenSdIA=",
           "py3"
         ]
       }
@@ -33048,38 +33112,14 @@
     }
   },
   "django-iubenda": {
-    "0.1.7.dev0": {
+    "0.1.11.dev0": {
       "sdist": [
-        "k1gvRMsn5W1/MLdiHVTm1p3vjeYvSOf9yLSNLP+GmKY=",
-        "django-iubenda-0.1.7.dev0.tar.gz"
+        "F3sIeLVlLnLyFXfAJvQ84G14P6ydG3tVH1nWEWQzg6I=",
+        "django-iubenda-0.1.11.dev0.tar.gz"
       ],
       "wheels": {
-        "django_iubenda-0.1.7.dev0-py2.py3-none-any.whl": [
-          "oaVeodAfptRT7BxsycC2SxO0hfEjRh5zKZ8TE/sJ0sk=",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.1.8.dev0": {
-      "sdist": [
-        "bw1s4fq0SWjWgg3N1mZJtwP6IQGQxJHHYUjAz52vj4Q=",
-        "django-iubenda-0.1.8.dev0.tar.gz"
-      ],
-      "wheels": {
-        "django_iubenda-0.1.8.dev0-py2.py3-none-any.whl": [
-          "Ai/OWhPwzsqMNS7msr8X4Zjv/bFlQmIKq5RRiUY3b8g=",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.1.9.dev0": {
-      "sdist": [
-        "91zxOces1uNf7c3oxfstDmcRBzkwpQ/HilmwJapef6o=",
-        "django-iubenda-0.1.9.dev0.tar.gz"
-      ],
-      "wheels": {
-        "django_iubenda-0.1.9.dev0-py2.py3-none-any.whl": [
-          "YHtNLM9Lm46bn7B+7b3LFvj9bTRIDoi8WGRP0PHHonI=",
+        "django_iubenda-0.1.11.dev0-py2.py3-none-any.whl": [
+          "xZ/QVeJgUBZBi0ucDT6ktIrRgDfWuzDJ2cfdyxN+uHE=",
           "py2.py3"
         ]
       }
@@ -77742,6 +77782,14 @@
         ]
       }
     },
+    "15.0.1.0.2": {
+      "wheels": {
+        "odoo_addon_base_rest_demo-15.0.1.0.2-py3-none-any.whl": [
+          "NULglbI4yp9KhACcEfJynsqV5GCPaGsLWQfu0fYtDT0=",
+          "py3"
+        ]
+      }
+    },
     "16.0.1.0.0.4": {
       "wheels": {
         "odoo_addon_base_rest_demo-16.0.1.0.0.4-py3-none-any.whl": [
@@ -80342,6 +80390,14 @@
       "wheels": {
         "odoo14_addon_project_task_default_stage-14.0.1.1.1.dev6-py3-none-any.whl": [
           "gWE0p/5uj2nYBrbzPqHM/kDfFckoRVQpumecQ+leJB4=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.1.1.1.dev7": {
+      "wheels": {
+        "odoo14_addon_project_task_default_stage-14.0.1.1.1.dev7-py3-none-any.whl": [
+          "z5gXBqgGtPbIdGZa/k0ATr8a3gEiNTqL0u55X+ZC3f8=",
           "py3"
         ]
       }
@@ -85813,6 +85869,14 @@
           "py3"
         ]
       }
+    },
+    "0.5.7": {
+      "wheels": {
+        "parzen_estimator-0.5.7-py3-none-any.whl": [
+          "0tRi2s9k9dYfQqhkiyo5A/hIHhFansO1veFv3j1Kgj4=",
+          "py3"
+        ]
+      }
     }
   },
   "path-analysis-toolbox": {
@@ -91280,6 +91344,18 @@
       "wheels": {
         "pepperize.projen_awscdk_app_ts-0.0.38-py3-none-any.whl": [
           "+/GuUAfOa6//S+fa9hCAGLa3fMhyIQmZBW11IVquGcI=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.380": {
+      "sdist": [
+        "lngGs0NqR6LOIh++pcrux9Oy8o+BwJSU+usYo4/A27I=",
+        "pepperize.projen-awscdk-app-ts-0.0.380.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.projen_awscdk_app_ts-0.0.380-py3-none-any.whl": [
+          "phSQQMyLxaHGrY1mEtP5Bd/ODYvuMFUwZ1J7Zdx83Ys=",
           "py3"
         ]
       }
@@ -105510,6 +105586,18 @@
       "wheels": {
         "pyutilb-1.0.4-py3-none-any.whl": [
           "/lzvjzqvYfWLoGBMJQycAxSttck21ub9+tGc7RyeJ/g=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.5": {
+      "sdist": [
+        "qLrr/x1J8mmUShDcws+KyCSYm7V5aALnxoXCej6PFvk=",
+        "pyutilb-1.0.5.tar.gz"
+      ],
+      "wheels": {
+        "pyutilb-1.0.5-py3-none-any.whl": [
+          "Zv89lWlmdtPn7Rr1JJiR1kgrESzgHdybHlvzSJ+0zhU=",
           "py3"
         ]
       }
@@ -139404,6 +139492,18 @@
       "wheels": {
         "watchmen_storage_mssql-16.4.7-py3-none-any.whl": [
           "0BSxmfORYz+uQbydKD3IuYs1xC5Y2ZAH/ERCJUleqTw=",
+          "py3"
+        ]
+      }
+    },
+    "16.4.8": {
+      "sdist": [
+        "V5bTI1KPyN2WR+IyrkgPsoHHSz57WI/VwSS0HlV3xL8=",
+        "watchmen_storage_mssql-16.4.8.tar.gz"
+      ],
+      "wheels": {
+        "watchmen_storage_mssql-16.4.8-py3-none-any.whl": [
+          "nfUcp5cnkBCepXQIN/bua6wfEELy5oqLrV729P1c9rQ=",
           "py3"
         ]
       }

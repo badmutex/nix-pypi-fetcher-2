@@ -15422,6 +15422,18 @@
         ]
       }
     },
+    "8.11": {
+      "sdist": [
+        "6z27mb8qR0YXz3LDgNtgiruEHvsmgjr0CW4d0MkWPLU=",
+        "boris-behav-obs-8.11.tar.gz"
+      ],
+      "wheels": {
+        "boris_behav_obs-8.11-py3-none-any.whl": [
+          "cofNDJWZyw2uTdrKJjnX4RdORhvpnDLXxdX/dQnRCG0=",
+          "py3"
+        ]
+      }
+    },
     "8.9": {
       "sdist": [
         "ItDPkywPZx7sWOjAWUdU2zMfNFcE+WYQjcZ7E9TqCDg=",
@@ -76043,6 +76055,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.0rc4": {
+      "sdist": [
+        "CCIYmSLdUAjqXDEWo4mTXOgINYNT8UpK8H3sgvvw/tg=",
+        "orchestrator-core-1.0.0rc4.tar.gz"
+      ],
+      "wheels": {
+        "orchestrator_core-1.0.0rc4-py3-none-any.whl": [
+          "GdP857Ppy6w9Z5Naa7x6F+WebsvaDpnEpVOGPMbNfKk=",
+          "py3"
+        ]
+      }
     }
   },
   "os-xcode-tools": {
@@ -120292,6 +120316,14 @@
       "wheels": {
         "tf_estimator_nightly-2.13.0.dev2023022109-py2.py3-none-any.whl": [
           "tbBY68RC7IgsB5lM1rd74G2bI5xAWGRGa2jFjFVOmng=",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.13.0.dev2023022209": {
+      "wheels": {
+        "tf_estimator_nightly-2.13.0.dev2023022209-py2.py3-none-any.whl": [
+          "o/mgxGEqpR5OX32YMVsblO5FX1H32Ao2AIgl/hByHbE=",
           "py2.py3"
         ]
       }

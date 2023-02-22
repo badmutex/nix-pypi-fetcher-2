@@ -8135,6 +8135,18 @@
           "py2.py3"
         ]
       }
+    },
+    "4.1.2": {
+      "sdist": [
+        "57XoKOyaKC09kZdrU7mx8sTjSuNEHSIjX7QOBIJd9qg=",
+        "azure-kusto-data-4.1.2.tar.gz"
+      ],
+      "wheels": {
+        "azure_kusto_data-4.1.2-py2.py3-none-any.whl": [
+          "5XPO5FHfXCo/BTRNWAGw0RuZDI9qZYOcb/CXLSaaPoM=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "azure-mgmt-redis": {
@@ -24356,6 +24368,18 @@
       "wheels": {
         "cw2-2.1.0-py3-none-any.whl": [
           "LOkA1yAjhXL1mZeh6qCwRz0uNNOJfgv5zJBU66ez+MU=",
+          "py3"
+        ]
+      }
+    },
+    "2.1.1": {
+      "sdist": [
+        "/ehm9Fe5r5Ou2tpkOH+Y/9bxPAFkWAKDCS/97He+Rd4=",
+        "cw2-2.1.1.tar.gz"
+      ],
+      "wheels": {
+        "cw2-2.1.1-py3-none-any.whl": [
+          "yF+xtsXLAuEDdesYkGohOYrycLXm3Ttg+Hz9DU0a9vQ=",
           "py3"
         ]
       }
@@ -66750,6 +66774,72 @@
       "wheels": {
         "llmhub-0.2.3-py3-none-any.whl": [
           "8NKLqsVn5yheX48vMCsO/YSiCtlCPVkPD9fjemBXevE=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "lnmetrics-api": {
+    "0.0.1": {
+      "sdist": [
+        "xvPkfwJDNCmUaGmjTrJkrkkYsoy57yQjC9prj02ELy8=",
+        "lnmetrics.api-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "lnmetrics.api-0.0.1-py3-none-any.whl": [
+          "BxiLVZwp58qYLhiegCjNsBpHaPIiC3rTrNGoLeT8Y8U=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "lCF1P5u5Yw2trnpg3xtU0DGcOo4nmJDnva0yt+osoCM=",
+        "lnmetrics.api-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "lnmetrics.api-0.0.2-py3-none-any.whl": [
+          "QPDlCruZJnvJgy82QUWtRNJsMVc/mX9WTGd53VmEZiI=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "Y6uVl31DPQWE+vjZ/Zl5kkkgtGcn6EbksTsjljKBtis=",
+        "lnmetrics.api-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "lnmetrics_api-0.0.3-py3-none-any.whl": [
+          "uy1sHakWsepzxECbjoUc6LlrupwRUI+ETv1Cg0qfwJo=",
+          "py3"
+        ],
+        "lnmetrics.api-0.0.3-py3-none-any.whl": [
+          "mcv7zhWYcjr9ABnciMbqx36SQpK8bTIJqQRYMsUPKw4=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4": {
+      "sdist": [
+        "9mdZXZJCNm2Ya1xgx+R+8wf9aZvcCZTGKiFgIo9XQ54=",
+        "lnmetrics.api-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "lnmetrics.api-0.0.4-py3-none-any.whl": [
+          "kOZR7ETh7/43WFagYUVD7tBkbg58mTS0+s5kuVtgHrg=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.5": {
+      "sdist": [
+        "939yTKtuOzxX36Ve2SLPQRpRjqYCR5NJtgjy4aVpW34=",
+        "lnmetrics_api-0.0.5.tar.gz"
+      ],
+      "wheels": {
+        "lnmetrics_api-0.0.5-py3-none-any.whl": [
+          "SwYkaEI7StbPsNjn+l65gSyOxUpiOqc+jXZLx4cYPy0=",
           "py3"
         ]
       }
@@ -120871,6 +120961,14 @@
           "py3"
         ]
       }
+    },
+    "1.1.30": {
+      "wheels": {
+        "rapidocr_openvino-1.1.30-py3-none-any.whl": [
+          "HjXpwWcb737V/1RLQ4gP7uUJB8qak/YSIvFB7x88Jbg=",
+          "py3"
+        ]
+      }
     }
   },
   "raptus.multilanguageconstraint": {
@@ -132372,6 +132470,32 @@
       "wheels": {
         "snowflake_sql_api_client-2.0.6-py3-none-any.whl": [
           "cIXVuEdrR153c1xvDH745gas1fBabd3IPXSXeE5GNVc=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "snowsession": {
+    "0.0.1": {
+      "sdist": [
+        "q7V7IS3H+79bBHTWIief3AmWq1TRQYy36sr0QMX8Nt4=",
+        "snowsession-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "snowsession-0.0.1-py3-none-any.whl": [
+          "ucId5/uSwD8zZMisz/xYRtc9iJriu7Zmt7SWDGyOTvM=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "lOw9LTF0tX6P8c3y5PdnTwkCiWpcmESDmgg5+rjfa7A=",
+        "snowsession-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "snowsession-0.0.2-py3-none-any.whl": [
+          "zSefbRHhDAUeG0jJK8fL3KLJJceCCa3gPW4xBVUhdLs=",
           "py3"
         ]
       }
@@ -154887,6 +155011,18 @@
           "py3"
         ]
       }
+    },
+    "16.4.8": {
+      "sdist": [
+        "syu5O1X7ulnLkv8MID/lA7xN3LZ++UKYVZCuydiL06A=",
+        "watchmen_meta-16.4.8.tar.gz"
+      ],
+      "wheels": {
+        "watchmen_meta-16.4.8-py3-none-any.whl": [
+          "hxoMfHf+c4PZHiB7MOxAu8UoDNHKpgGa+ucSv59nIw8=",
+          "py3"
+        ]
+      }
     }
   },
   "water-sort-puzzle": {
@@ -159852,6 +159988,18 @@
       "wheels": {
         "yq-3.1.0-py3-none-any.whl": [
           "oaz/0yV6C45GDxp+wa5a9GRpROgQ99cJkISzEEqgV2k=",
+          "py3"
+        ]
+      }
+    },
+    "3.1.1": {
+      "sdist": [
+        "hT80KxVi3e6XkDjsjs7lQFzdm2p8uB7WzbgBjJ6AJjM=",
+        "yq-3.1.1.tar.gz"
+      ],
+      "wheels": {
+        "yq-3.1.1-py3-none-any.whl": [
+          "t9mI/26EyAEufW7t/ICSiAij/ts01QAAH/2mm2up8fw=",
           "py3"
         ]
       }

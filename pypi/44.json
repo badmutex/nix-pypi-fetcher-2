@@ -12547,6 +12547,20 @@
       }
     }
   },
+  "azure-monitor-opentelemetry": {
+    "1.0.0b9": {
+      "sdist": [
+        "lTbYbaQrNcQTGB36uzxBo1RarkMCT+b9hBSn6ibRgXc=",
+        "azure-monitor-opentelemetry-1.0.0b9.tar.gz"
+      ],
+      "wheels": {
+        "azure_monitor_opentelemetry-1.0.0b9-py2.py3-none-any.whl": [
+          "+HQ4oDty93DWutfFnHRF3mvK8OVXGMElJP6tzFVfPkY=",
+          "py2.py3"
+        ]
+      }
+    }
+  },
   "azuremgmt-appconfiguration": {
     "0.1.0": {
       "sdist": [
@@ -17303,6 +17317,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.77": {
+      "sdist": [
+        "Tf7cfJWd8i+DuLZn388+meOHIWk87E3Xlfs8u3q0kXo=",
+        "botocore-a-la-carte-iotthingsgraph-1.29.77.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_iotthingsgraph-1.29.77-py3-none-any.whl": [
+          "T2ofT+J4uyTkoJDZyC5EX5oxo6CrqF+Q6U8qMkrUjhk=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-xray": {
@@ -17722,6 +17748,18 @@
       "wheels": {
         "botocore_a_la_carte_xray-1.29.76-py3-none-any.whl": [
           "AwRRQP9m7FFtJjWsVd4IFXQa9kKo+g7PLVTFG2WfieI=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.77": {
+      "sdist": [
+        "R2ZZM0LiRCOyRBQQ56iXDuKfrwpyLQLZ/b5I2WtRUs4=",
+        "botocore-a-la-carte-xray-1.29.77.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_xray-1.29.77-py3-none-any.whl": [
+          "AjhW7mdZi8OkSb2NelE2X+D4wws62IlqwqQvBqyl9AU=",
           "py3"
         ]
       }
@@ -19042,6 +19080,42 @@
       "wheels": {
         "byu_pytest_utils-0.3.8-py3-none-any.whl": [
           "IWQgDR2F2PWQqpM0Le+90x/xrDYBLvs2/VQw2p6TP1g=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.0": {
+      "sdist": [
+        "nymzoY3X8g9iC1nlFBmdD8+rEgf6xBcnj7TuNm+Qhhw=",
+        "byu_pytest_utils-0.4.0.tar.gz"
+      ],
+      "wheels": {
+        "byu_pytest_utils-0.4.0-py3-none-any.whl": [
+          "NlU6I7Lh5hnNBBw3QqcQe73ongiaMRzR0QCXQN2kB/c=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.1": {
+      "sdist": [
+        "l53vgP2sYW7+t3kwkFIGTlClL70IjQfaiQ760O+LHok=",
+        "byu_pytest_utils-0.4.1.tar.gz"
+      ],
+      "wheels": {
+        "byu_pytest_utils-0.4.1-py3-none-any.whl": [
+          "8Uz3P9EZtalwOIoYX74Imhbwo8ahnjQY+DHSeTVcH6k=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.2": {
+      "sdist": [
+        "GaCdkAig6LCsfoVXL4WmndPVEF+2HLSYJgGgsC98Lv4=",
+        "byu_pytest_utils-0.4.2.tar.gz"
+      ],
+      "wheels": {
+        "byu_pytest_utils-0.4.2-py3-none-any.whl": [
+          "u+MbqU8hQGwQsG1MjZLDoa6eYO/k197u8QMTsEwhAAA=",
           "py3"
         ]
       }
@@ -41336,6 +41410,18 @@
       "wheels": {
         "diycrate-0.2.11.3a5-py3-none-any.whl": [
           "OxgmHB/VtBoDt7U1mJD9nvZ/r0YQI9YRFuw1D1p+bZI=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.11.3a6": {
+      "sdist": [
+        "3+/0NIc5iHBqacYLg1fbta10/0SrfyjTImKT2++b3mE=",
+        "diycrate-0.2.11.3a6.tar.gz"
+      ],
+      "wheels": {
+        "diycrate-0.2.11.3a6-py3-none-any.whl": [
+          "u0d+37gJ16PYwdYib0i4Jrot+8XB3M6rvwWPcfZ0aVc=",
           "py3"
         ]
       }
@@ -139996,6 +140082,18 @@
       "wheels": {
         "tencentcloud_sdk_python_mna-3.0.835-py2.py3-none-any.whl": [
           "nlwf5M5hfiL8fkzgzvoBPItdCwWC83DdEpQdv+u30mw=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.836": {
+      "sdist": [
+        "bD5SkPzkkwEE7VH5iQHmnKtBNIuN2Zyhtv6dDayZ65Q=",
+        "tencentcloud-sdk-python-mna-3.0.836.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_mna-3.0.836-py2.py3-none-any.whl": [
+          "fl0OWw4SaBGhi7yAPPm1HLZap6tEtjfHUWVseGDQhQQ=",
           "py2.py3"
         ]
       }

@@ -52350,6 +52350,18 @@
         ]
       }
     },
+    "1.2.8": {
+      "sdist": [
+        "PzN9EJUAptukWF/w2fNy90GRLD0LCBIFXNdlhXBBHNI=",
+        "flytekitplugins-onnxtensorflow-1.2.8.tar.gz"
+      ],
+      "wheels": {
+        "flytekitplugins_onnxtensorflow-1.2.8-py3-none-any.whl": [
+          "vbrvBRuGzQEuophpFjovViQcNhM9m3zjfhk2X31R+/0=",
+          "py3"
+        ]
+      }
+    },
     "1.3.0b0": {
       "sdist": [
         "f85+Z54IfoiLG9U5JrCCISZ9HURSNdL3v2bqHkTo4hU=",
@@ -58236,6 +58248,18 @@
       "wheels": {
         "gps_tracker-0.8.0-py3-none-any.whl": [
           "ZDOC/gNWqss9sJIHoIXs3wSMrgjaGzIvumy/1yxqonE=",
+          "py3"
+        ]
+      }
+    },
+    "0.8.1": {
+      "sdist": [
+        "Iyf8gY+1s/6e4A99CQBOfDRncOjkkifrS3uA5nqEHDw=",
+        "gps_tracker-0.8.1.tar.gz"
+      ],
+      "wheels": {
+        "gps_tracker-0.8.1-py3-none-any.whl": [
+          "ko1WS/ngFNpitGU2wz3vsZYzt9f8adgXIZxfAPm98XQ=",
           "py3"
         ]
       }
@@ -68840,6 +68864,42 @@
         ]
       }
     },
+    "0.11.7": {
+      "sdist": [
+        "RUwSsw7W1cLAZSynr8JE2Yy7VUjKrpUqFFcvvcJfPAk=",
+        "jpeglib-0.11.7.tar.gz"
+      ],
+      "wheels": {
+        "jpeglib-0.11.7-cp38-abi3-macosx_10_9_universal2.whl": [
+          "CSTlJpq4iqxUndSGpCAblOITTrA+/I8H/TXsaVshuUc=",
+          "cp38"
+        ],
+        "jpeglib-0.11.7-cp38-abi3-macosx_10_9_x86_64.whl": [
+          "gMDN4u533Xduelw/Pmyhjx72d3K3EaUYfiOJ7v8i7cg=",
+          "cp38"
+        ],
+        "jpeglib-0.11.7-cp38-abi3-macosx_11_0_arm64.whl": [
+          "/YTDGxXbfyMg5Kbap/3YQbhe9z6kdWXRpdXVixk83Jw=",
+          "cp38"
+        ],
+        "jpeglib-0.11.7-cp38-abi3-manylinux_2_12_i686.manylinux2010_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "QxPaoKtYY6ekGfnZOFGG2B38KPjZoQx0ph61jjAaZIA=",
+          "cp38"
+        ],
+        "jpeglib-0.11.7-cp38-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "xCPjZLHu8fcxbP3YUqykq/RrFaAJLDE8i0L4tiM25qU=",
+          "cp38"
+        ],
+        "jpeglib-0.11.7-cp38-abi3-win32.whl": [
+          "DTnlH4Ez2W3ghLulyWIlYFszvn9x0BRzGKALvi0xelk=",
+          "cp38"
+        ],
+        "jpeglib-0.11.7-cp38-abi3-win_amd64.whl": [
+          "SC5IufuEQxo25ZHU4cQfGlfNH8zExLDhPisFivXlnsA=",
+          "cp38"
+        ]
+      }
+    },
     "0.4.10": {
       "sdist": [
         "jukcO+2jpqT1C+ENq7+SE7p8T3nC1M86rJqKeK7YOos=",
@@ -73430,6 +73490,116 @@
       "wheels": {
         "LbSoftConfDb2Clients-2.0.0-py3-none-any.whl": [
           "jCyCBU53G96j7ngiHtR5RWEUWSYa5uXaIzuMa541Ov0=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "lcapygui": {
+    "0.3.11": {
+      "sdist": [
+        "PjcsPnjkDOK3hWpqhJt2d+gDN4WElB930Loibkg3T2k=",
+        "lcapygui-0.3.11.tar.gz"
+      ],
+      "wheels": {
+        "lcapygui-0.3.11-py3-none-any.whl": [
+          "kaBwib2H36gqPfl9sQAqTnPHrQLeC0SajFEQU+eyFIk=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.12": {
+      "sdist": [
+        "cs6SRcPLduUzvjZdQSlnToHqc/LYhGTV+/aX/4pNCNs=",
+        "lcapygui-0.3.12.tar.gz"
+      ],
+      "wheels": {
+        "lcapygui-0.3.12-py3-none-any.whl": [
+          "80NU/Fy4JMPa7FSuXiJbCC6jx40ZuPvhpqsanC7AWL0=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.13": {
+      "sdist": [
+        "CpKES+eFsqjE4doYoDgG5SX2Id46WB75n5aYO5Mqyxo=",
+        "lcapygui-0.3.13.tar.gz"
+      ],
+      "wheels": {
+        "lcapygui-0.3.13-py3-none-any.whl": [
+          "qVx4SCpEk+9zdA6e1UBlax4Vx7lzaFevvEO3g+QyPoA=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.3": {
+      "sdist": [
+        "sPlccIWu+KW43PWVJQQa3e+yCRmc9WbpegSBK1S/ihs=",
+        "lcapygui-0.3.3.tar.gz"
+      ],
+      "wheels": {
+        "lcapygui-0.3.3-py3-none-any.whl": [
+          "7SBweqcd18s0P+nODZP/03GeuXW7E1hZGGZoSVx+HG0=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.4": {
+      "sdist": [
+        "h5tz0FgQbQEjNAA0Rf+8VyQ3qcGSnGoNc7RkngNZvqY=",
+        "lcapygui-0.3.4.tar.gz"
+      ],
+      "wheels": {
+        "lcapygui-0.3.4-py3-none-any.whl": [
+          "3tE+u0dfkSyMcFMV2H5KwFI/3UOSAxoIsKIAM62+fIk=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.6": {
+      "sdist": [
+        "2EeIwTLlCsLjssV985+cDkONbrxQBgXYgk+xgs4Px7c=",
+        "lcapygui-0.3.6.tar.gz"
+      ],
+      "wheels": {
+        "lcapygui-0.3.6-py3-none-any.whl": [
+          "xeLnn1zTB7OjsAtzx4812W8R5EPdRP1Lmu9f4YpeYKs=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.7": {
+      "sdist": [
+        "T1o7JWG8Kz9ukRH2H9OqhfjtVee41fHIvEn77HGE0oc=",
+        "lcapygui-0.3.7.tar.gz"
+      ],
+      "wheels": {
+        "lcapygui-0.3.7-py3-none-any.whl": [
+          "XxKsbQjMtvktiOXpYEAbYRLtlPSXza0k3D3SDdmCZo0=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.8": {
+      "sdist": [
+        "zlEqOgT/kh2zkECRGtgwEeguByIlF3UVQNlTMZYBD1k=",
+        "lcapygui-0.3.8.tar.gz"
+      ],
+      "wheels": {
+        "lcapygui-0.3.8-py3-none-any.whl": [
+          "q99CWzhBrbC5/N6rDHvM9kuxs6ph+lTwPdbW1jb0PQQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.9": {
+      "sdist": [
+        "+5oAQar/Y/8vxL71lhCsKN94Ql4CEj2EoVim7Ap9wys=",
+        "lcapygui-0.3.9.tar.gz"
+      ],
+      "wheels": {
+        "lcapygui-0.3.9-py3-none-any.whl": [
+          "KRI0S92JG9ovDG3z1iO0XZnh5qBZo6O0ggyh7y3/Bgw=",
           "py3"
         ]
       }
@@ -81900,6 +82070,16 @@
       "wheels": {
         "myconfig-0.2.9-py3-none-any.whl": [
           "r8dVTiIeGX/xSHUINXpa0J8TbH2Qd6wN3r6IbzvNuVs=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "myo-classification": {
+    "0.0.2": {
+      "wheels": {
+        "myo_classification-0.0.2-py3-none-any.whl": [
+          "Oh+GPoISDsCM1Js4Uqi5Yt4oauxp+fVoRoBEjuWN75I=",
           "py3"
         ]
       }
@@ -121085,6 +121265,26 @@
           "py3"
         ]
       }
+    }
+  },
+  "pystackql": {
+    "1.0.0": {
+      "sdist": [
+        "dcDmHxRWb0rbuu8lgbWI4+bwGEMa3NkZ2cR+tVu8EQU=",
+        "pystackql-1.0.0.tar.gz"
+      ]
+    },
+    "1.0.1": {
+      "sdist": [
+        "GD6W3VI0oxmNfVVZJ5xFHmC8a16rnkqVQCzGx95SuGE=",
+        "pystackql-1.0.1.tar.gz"
+      ]
+    },
+    "1.0.2": {
+      "sdist": [
+        "d8g+/jjXJXVghXiDKuXw4abF2BqwOFkibeIosAVWyEM=",
+        "pystackql-1.0.2.tar.gz"
+      ]
     }
   },
   "pystasm": {

@@ -53264,6 +53264,14 @@
         ]
       }
     },
+    "3.1.27": {
+      "wheels": {
+        "huaweicloudsdkcdn-3.1.27-py2.py3-none-any.whl": [
+          "p4TO1MSCsLhuHq8w7mxuRi12p91YvjM13LUw1XgctAc=",
+          "py2.py3"
+        ]
+      }
+    },
     "3.1.3": {
       "wheels": {
         "huaweicloudsdkcdn-3.1.3-py2.py3-none-any.whl": [
@@ -53874,6 +53882,14 @@
         ]
       }
     },
+    "3.1.27": {
+      "wheels": {
+        "huaweicloudsdkdas-3.1.27-py2.py3-none-any.whl": [
+          "LkvFJXlLv/t6rU1ySaQIEm0OUzXfvbouwH50w3uSzTI=",
+          "py2.py3"
+        ]
+      }
+    },
     "3.1.3": {
       "wheels": {
         "huaweicloudsdkdas-3.1.3-py2.py3-none-any.whl": [
@@ -54464,6 +54480,14 @@
       "wheels": {
         "huaweicloudsdkgaussdbforopengauss-3.1.26-py2.py3-none-any.whl": [
           "VvWAYsfvGzlQqDkazld8mo9l60kWcOcGP+nZagOeNY4=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.27": {
+      "wheels": {
+        "huaweicloudsdkgaussdbforopengauss-3.1.27-py2.py3-none-any.whl": [
+          "ygJPNI5W+gRf8w20YWhClx4dFouPM6f9pr0VGnIQTEM=",
           "py2.py3"
         ]
       }
@@ -82295,6 +82319,16 @@
       }
     }
   },
+  "odoo-addon-web-select-all-companies": {
+    "16.0.1.0.0.3": {
+      "wheels": {
+        "odoo_addon_web_select_all_companies-16.0.1.0.0.3-py3-none-any.whl": [
+          "dCpLRVv7gnygHhyuUY+lSBoIulnqLaBDtmEWkxaH7Qs=",
+          "py3"
+        ]
+      }
+    }
+  },
   "odoo10-addon-auth-supplier": {
     "10.0.1.0.0": {
       "wheels": {
@@ -83378,6 +83412,14 @@
       "wheels": {
         "odoo13_addon_l10n_nl_location_nuts-13.0.1.0.2-py3-none-any.whl": [
           "JRMomlYpl4HMxFXMDsEeXK7A6CM9Zh5ovquBvgXOmB8=",
+          "py3"
+        ]
+      }
+    },
+    "13.0.1.1.0": {
+      "wheels": {
+        "odoo13_addon_l10n_nl_location_nuts-13.0.1.1.0-py3-none-any.whl": [
+          "XY3dwteydUSYsfBal+tZadTiJ96v7A91OSBv2/rjKKA=",
           "py3"
         ]
       }
@@ -142656,6 +142698,18 @@
         "th2_grpc_check1-3.6.0.dev4104241273.tar.gz"
       ]
     },
+    "3.6.0.dev4252519508": {
+      "sdist": [
+        "Wx/WkKDfI6h1gUgHLEr+hcyplx63n44/MVLgZ8wCgig=",
+        "th2_grpc_check1-3.6.0.dev4252519508.tar.gz"
+      ]
+    },
+    "3.6.0.dev4252579873": {
+      "sdist": [
+        "Esxun2erEMKqw58D2PhMZ+FbEHbsQBbNljkK/b0/vF4=",
+        "th2_grpc_check1-3.6.0.dev4252579873.tar.gz"
+      ]
+    },
     "3.6.1.dev2910563095": {
       "sdist": [
         "UGT4dD1fJFpISNh/2nnIyi/cEU6rOeqx8jieEvIEGL4=",
@@ -157266,6 +157320,42 @@
       "wheels": {
         "yasuo-1.0.1-py3-none-any.whl": [
           "YyXw8V2WoAZczbPxmVWjKSkrM7JcgWT5pUUNXhBd5Wo=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.0": {
+      "sdist": [
+        "BMA6zSrgO3AqIEX1D1+uwY/cAQeembKaidJxlAOjuF0=",
+        "yasuo-2.0.0.tar.gz"
+      ],
+      "wheels": {
+        "yasuo-2.0.0-py3-none-any.whl": [
+          "pRZpnIjMU2wkvs8W73Kp70s6B2TK9qIRVYEfv66FQ80=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.1": {
+      "sdist": [
+        "KWZc2OoAsUNl4/epChOAIU+66L8ABRuM/A+QUkMG024=",
+        "yasuo-2.0.1.tar.gz"
+      ],
+      "wheels": {
+        "yasuo-2.0.1-py3-none-any.whl": [
+          "H6O+MlgNAf/iQ89b9wdbch6qewFIPGZ9ltOcDbw73zI=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.2": {
+      "sdist": [
+        "6G/hhS8CS4JywP5YzlFC09nzgVkViNDcM4Pa4dAZlCY=",
+        "yasuo-2.0.2.tar.gz"
+      ],
+      "wheels": {
+        "yasuo-2.0.2-py3-none-any.whl": [
+          "5vzuOaHmymnp2SCJhYdSeEnB2N3M3F0P4wuDBuKl14Y=",
           "py3"
         ]
       }

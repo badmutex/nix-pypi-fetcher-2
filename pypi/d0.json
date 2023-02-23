@@ -15434,6 +15434,18 @@
         ]
       }
     },
+    "8.11.1": {
+      "sdist": [
+        "hU7Nhi1jxNdvLYNmeyDjS7j7lCrnnGjLYMKT/5jrge0=",
+        "boris-behav-obs-8.11.1.tar.gz"
+      ],
+      "wheels": {
+        "boris_behav_obs-8.11.1-py3-none-any.whl": [
+          "mOtF780ftXyG39tZdFYXncXFaslauuLuO+3iKfjMEjc=",
+          "py3"
+        ]
+      }
+    },
     "8.9": {
       "sdist": [
         "ItDPkywPZx7sWOjAWUdU2zMfNFcE+WYQjcZ7E9TqCDg=",
@@ -22128,6 +22140,12 @@
       "sdist": [
         "CjUj/351QCfgjsMU2b+1tnQEKFxvV1pofY3mWzCeOKM=",
         "cloudinary-cli-1.6.0.tar.gz"
+      ]
+    },
+    "1.6.1": {
+      "sdist": [
+        "AWpbjoOipCBfGHNCIti4/o4J7SAncn4YCDvnbhzUzNo=",
+        "cloudinary-cli-1.6.1.tar.gz"
       ]
     }
   },
@@ -48633,6 +48651,14 @@
           "py2.py3"
         ]
       }
+    },
+    "3.1.27": {
+      "wheels": {
+        "huaweicloudsdkdwr-3.1.27-py2.py3-none-any.whl": [
+          "TcM+bDZkSW2Nkg+NIdYCMJ3PR4hmpvLjFt0BOaDbINY=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "huginn": {
@@ -73814,6 +73840,14 @@
       "wheels": {
         "odoo9_addon_stock_picking_digitized_signature-9.0.1.0.0.99.dev3-py2-none-any.whl": [
           "uD8+h6T7Uxk29vDgEIwLHbmyTn6dxnqBfCwtyLMBTpc=",
+          "py2"
+        ]
+      }
+    },
+    "9.0.1.0.0.99.dev4": {
+      "wheels": {
+        "odoo9_addon_stock_picking_digitized_signature-9.0.1.0.0.99.dev4-py2-none-any.whl": [
+          "2S2jceOU3Wlv/vgpBAOU6RG4L7sErXV2haGZyd044xQ=",
           "py2"
         ]
       }
@@ -120402,6 +120436,14 @@
         ]
       }
     },
+    "2.13.0.dev2023022309": {
+      "wheels": {
+        "tf_estimator_nightly-2.13.0.dev2023022309-py2.py3-none-any.whl": [
+          "M3DQ1wODx2uuWPB2qEP7rdZIioBYIgJKN0Dd8Me9g3c=",
+          "py2.py3"
+        ]
+      }
+    },
     "2.3.0.dev2020031201": {
       "wheels": {
         "tf_estimator_nightly-2.3.0.dev2020031201-py2.py3-none-any.whl": [
@@ -135988,6 +136030,30 @@
         ]
       }
     },
+    "0.10.1": {
+      "sdist": [
+        "ip63tRvDNoO2RpFcBzv6+GNksN5Id8vYMqo6qqAsLTE=",
+        "vrobbler-0.10.1.tar.gz"
+      ],
+      "wheels": {
+        "vrobbler-0.10.1-py3-none-any.whl": [
+          "7sHwSCmo+zxVOC6nf7rrum2OdaOJ0JwsSaLIjW4pGO4=",
+          "py3"
+        ]
+      }
+    },
+    "0.10.2": {
+      "sdist": [
+        "EGjJIW/Ryr21wsCF+2WaIgjpsqFEW/hOSNKBlOz9lRw=",
+        "vrobbler-0.10.2.tar.gz"
+      ],
+      "wheels": {
+        "vrobbler-0.10.2-py3-none-any.whl": [
+          "vRKlp6bkjuPAnQNTVZzhnBeWWXVjFyA/7YskTTpFDEY=",
+          "py3"
+        ]
+      }
+    },
     "0.2.0": {
       "sdist": [
         "JqCIR11H53we7kZJUFaF5PMuuxFB4Swji1xyUBMA6O0=",
@@ -137038,6 +137104,18 @@
       "wheels": {
         "wemportal-0.0.2-py3-none-any.whl": [
           "Dh5ZN0j58XMBV4HA7aiPQnXrJkCu6nkkBXHRlBDWowg=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "zRc63la2aoKl4B5HopGhlfnRtTvxjNGR8K60kQXiJDM=",
+        "wemportal-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "wemportal-0.0.3-py3-none-any.whl": [
+          "rOKFbO5eDdSiGVda+f2sdnrZIH97BWhdZFgd+EzDe1w=",
           "py3"
         ]
       }
@@ -140288,6 +140366,30 @@
       "wheels": {
         "ytdl_sub-2023.2.23.post1-py3-none-any.whl": [
           "TYEiKQahXDyV4DLKDM8+qvDHYiOKG9ovGHwfEPN0T4g=",
+          "py3"
+        ]
+      }
+    },
+    "2023.2.23.post2": {
+      "sdist": [
+        "BPzVkmNjxqlrcGBOmpkSgVMBq8w1vqCelG60YXBKh2Q=",
+        "ytdl-sub-2023.2.23.post2.tar.gz"
+      ],
+      "wheels": {
+        "ytdl_sub-2023.2.23.post2-py3-none-any.whl": [
+          "8hGZHtQdR12THYNkH3CCodXmXk0WK8CuJ1cxhVSRzuw=",
+          "py3"
+        ]
+      }
+    },
+    "2023.2.23.post3": {
+      "sdist": [
+        "6T2D+GkEYl0QQVrUVszKPv8V8wC+o6/QIhdi3kiIc4Q=",
+        "ytdl-sub-2023.2.23.post3.tar.gz"
+      ],
+      "wheels": {
+        "ytdl_sub-2023.2.23.post3-py3-none-any.whl": [
+          "e1AzmEKajl6WrEabH3j+t+b5440mhCUbqkb5WNUE8Is=",
           "py3"
         ]
       }

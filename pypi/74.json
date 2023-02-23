@@ -12936,6 +12936,18 @@
         ]
       }
     },
+    "0.1.1b20230223": {
+      "sdist": [
+        "BvEAGCrzYPiieAwDRNFNAsEwXXdhAayP0aVLirCb3bk=",
+        "autogluon.cloud-0.1.1b20230223.tar.gz"
+      ],
+      "wheels": {
+        "autogluon.cloud-0.1.1b20230223-py3-none-any.whl": [
+          "JkYQ6RZRfFYRt5ydBeO2QmSxnL08otnY9aV/6g0dUcA=",
+          "py3"
+        ]
+      }
+    },
     "0.1b20221229": {
       "sdist": [
         "ETK2odII4rOCP1WhQsFyJ+5WWkhOgItWPTKq6uCY2WM=",
@@ -29653,6 +29665,20 @@
       }
     }
   },
+  "dataexec": {
+    "0.0.1": {
+      "sdist": [
+        "n8G8tiqmjirWJk0X3IYstpyheEkvomhtldQRFWimZOo=",
+        "dataexec-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "dataexec-0.0.1-py3-none-any.whl": [
+          "HHOMeqe/gfPTFWc3am6h+Pw4Vvb9lIWpPkEnmZbGDwc=",
+          "py3"
+        ]
+      }
+    }
+  },
   "datascience-packages": {
     "0.1": {
       "sdist": [
@@ -44217,6 +44243,18 @@
           "py3"
         ]
       }
+    },
+    "0.8.7": {
+      "sdist": [
+        "+SoSbLt8MEqwI5Rap2m9Sca5+4fbfETpz+lpdRJOpi4=",
+        "fastapi_stack_utils-0.8.7.tar.gz"
+      ],
+      "wheels": {
+        "fastapi_stack_utils-0.8.7-py3-none-any.whl": [
+          "vaq+3VUhSkooTpwEVVD6q2bfxyjB5RI0PpxixHrjIg8=",
+          "py3"
+        ]
+      }
     }
   },
   "fastcap": {
@@ -51328,6 +51366,18 @@
       "wheels": {
         "generalpy-1.11.1-py3-none-any.whl": [
           "NL2cVrU2aOZ73Pa5utC/Hasyg5xLvAN2D68QQcMvJD4=",
+          "py3"
+        ]
+      }
+    },
+    "1.11.2": {
+      "sdist": [
+        "Owu036VVChCP/1jqt+K9ig3IwOklDQDx5nDj9mMatP8=",
+        "generalpy-1.11.2.tar.gz"
+      ],
+      "wheels": {
+        "generalpy-1.11.2-py3-none-any.whl": [
+          "nACbCao++ySOw3+F3n3JmClGTQxS2j+J1U80tApvn9U=",
           "py3"
         ]
       }
@@ -59992,14 +60042,14 @@
         ]
       }
     },
-    "0.1.22": {
+    "0.1.31": {
       "sdist": [
-        "EyNaT69K/VJoTf+JekF/6Bsp8zojgTC7XXNEBOOuwcw=",
-        "jupyter2hashnode-0.1.22.tar.gz"
+        "LYvRwG1lPK1CjqpVv8Lt7nJveAs3n37C9gToEe4pGQk=",
+        "jupyter2hashnode-0.1.31.tar.gz"
       ],
       "wheels": {
-        "jupyter2hashnode-0.1.22-py3-none-any.whl": [
-          "pBLky1n85syyZ/eXhCKEZNyrGyX3QtK8dgbQJ3dzINg=",
+        "jupyter2hashnode-0.1.31-py3-none-any.whl": [
+          "gKpIM1vYqtJ/OZ4NPOt8LRCU24sz/s6ExQa6ml8Dpao=",
           "py3"
         ]
       }
@@ -73018,6 +73068,18 @@
       "wheels": {
         "mllesson-0.0.8-py3-none-any.whl": [
           "Z4jdeMgGlOlL5vaierUQv3YvWtkmnw+xP5cH4Ronmks=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.9": {
+      "sdist": [
+        "SrHoD7S0vD/Hru2DcMOtT/qzR+d0c+ywc421NyfGjNk=",
+        "mllesson-0.0.9.tar.gz"
+      ],
+      "wheels": {
+        "mllesson-0.0.9-py3-none-any.whl": [
+          "7pXs/1tVY6ZULkF7CPss3MbjgLmO047fw1lStJG6RNQ=",
           "py3"
         ]
       }
@@ -105039,6 +105101,30 @@
           "py3"
         ]
       }
+    },
+    "0.1.0a2": {
+      "sdist": [
+        "5qEqlSUffS7xjeDRVHWD2NflHJNskWs9W1nuCI3C++c=",
+        "polywrap_plugin-0.1.0a2.tar.gz"
+      ],
+      "wheels": {
+        "polywrap_plugin-0.1.0a2-py3-none-any.whl": [
+          "PndDQKDMx/cTdXYfVs3V/StetaCt8jnk4NATd2iChsk=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.0a3": {
+      "sdist": [
+        "uxE8Kj1tzQp907MTObIVZZqDMTIkz8ENfVPoabEHW9g=",
+        "polywrap_plugin-0.1.0a3.tar.gz"
+      ],
+      "wheels": {
+        "polywrap_plugin-0.1.0a3-py3-none-any.whl": [
+          "S16TIhuVbG5B2GIwJ3JDA3duVjELK9WOCORvHplSFaQ=",
+          "py3"
+        ]
+      }
     }
   },
   "portmin": {
@@ -117758,6 +117844,20 @@
       "wheels": {
         "pyrpg-1.5.0-py3-none-any.whl": [
           "5P4WBpXDLY+V/b8BcOeoYI5cornb8nLummDnOLtfTkU=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "pyscos2000": {
+    "0.1.0": {
+      "sdist": [
+        "y0vOG7cf/g9xF2V7t+boKUZLrLdV0GX5k7SwNW+CG78=",
+        "pyscos2000-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "pyscos2000-0.1.0-py3-none-any.whl": [
+          "GOseFyZ3/GYD0p8gvLp+cwhfkvpdJe64EnzBE7/OzVk=",
           "py3"
         ]
       }
@@ -138676,6 +138776,18 @@
       "wheels": {
         "stalcraft_api-0.2.4-py3-none-any.whl": [
           "GoZuHCOAzpsRPLaXvXGEFxS+yV78os9unXqPv8bm/JM=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.5": {
+      "sdist": [
+        "8z2oEgRSg4+ScbWakbTyKTzBWjyJkJRwkovV7sjUzAA=",
+        "stalcraft_api-0.2.5.tar.gz"
+      ],
+      "wheels": {
+        "stalcraft_api-0.2.5-py3-none-any.whl": [
+          "u2t9PSWu0hTVMs/OHE5gWK0tlWdozu54RNxKIiX703E=",
           "py3"
         ]
       }

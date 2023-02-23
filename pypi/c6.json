@@ -2575,6 +2575,18 @@
           "py3"
         ]
       }
+    },
+    "0.3.60": {
+      "sdist": [
+        "NvySKjP9N3ckLWAP4RMKp0Aw1Snsicv/hKr7OeVvzds=",
+        "ae_core-0.3.60.tar.gz"
+      ],
+      "wheels": {
+        "ae_core-0.3.60-py3-none-any.whl": [
+          "rDIvb3PRqGUaz5U61qdghn/sLtla3k2ajmG4OPJxA4E=",
+          "py3"
+        ]
+      }
     }
   },
   "aes-metadata-collector": {
@@ -2982,6 +2994,14 @@
       "wheels": {
         "airflow_provider_bigquery_reservation-0.1.0-py3-none-any.whl": [
           "MD/8raVmLhIPcdXTL15OLz1TkNnL54JGG72lbfggtlY=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.0": {
+      "wheels": {
+        "airflow_provider_bigquery_reservation-0.2.0-py3-none-any.whl": [
+          "KlnyHrEPpHavnifKH6n6N6mXN3q154gVAODD9UJv+uw=",
           "py3"
         ]
       }
@@ -5092,6 +5112,12 @@
       "sdist": [
         "sLY5McYiDfirF+6vK3mZMHLD7hf7+L5JID+kF4icmgo=",
         "alphaz-0.7.1.1.tar.gz"
+      ]
+    },
+    "0.7.2": {
+      "sdist": [
+        "MstcMtoUVWhg3tPWAy+1Pt9Y/sj07Uthjw84EmMWd/M=",
+        "alphaz-0.7.2.tar.gz"
       ]
     }
   },
@@ -48669,6 +48695,18 @@
           "py2.py3"
         ]
       }
+    },
+    "0.4.0": {
+      "sdist": [
+        "mlONT7YTXHkuewPVS4t9c2WI6Zc6A6jIzIygZ8gEpCo=",
+        "fastbt-0.4.0.tar.gz"
+      ],
+      "wheels": {
+        "fastbt-0.4.0-py2.py3-none-any.whl": [
+          "P4Oi2/iPguahGvoWWOVAkahEVtkAVesgg+XGmi9ALh4=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "fastdameraulevenshtein": {
@@ -79857,6 +79895,14 @@
           "py3"
         ]
       }
+    },
+    "13.0.1.1.0": {
+      "wheels": {
+        "odoo13_addon_sale_order_ubl-13.0.1.1.0-py3-none-any.whl": [
+          "yDSB1b75vT9stqwwRHXNRkgMFZQD0aKcNEiarDO0ksc=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo13-addon-shopfloor-delivery-shipment-mobile": {
@@ -81354,6 +81400,14 @@
       "wheels": {
         "odoo9_addon_stock_picking_mass_assign-9.0.1.0.0.99.dev7-py2-none-any.whl": [
           "OhlE2ucNT7h5DVmNFodAwU7ID+N/FFSc/qBFBEyXc7I=",
+          "py2"
+        ]
+      }
+    },
+    "9.0.1.0.0.99.dev8": {
+      "wheels": {
+        "odoo9_addon_stock_picking_mass_assign-9.0.1.0.0.99.dev8-py2-none-any.whl": [
+          "64HmnUDlYj+lg+mf2lgd9qs/2hagtWxYfHf6YaO0KVE=",
           "py2"
         ]
       }
@@ -91428,6 +91482,18 @@
       "wheels": {
         "pepperize.projen_awscdk_app_ts-0.0.380-py3-none-any.whl": [
           "phSQQMyLxaHGrY1mEtP5Bd/ODYvuMFUwZ1J7Zdx83Ys=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.381": {
+      "sdist": [
+        "Nw43b8aSCCuWKteEzMMxYP60wrhWhtIavYhI20rDtKU=",
+        "pepperize.projen-awscdk-app-ts-0.0.381.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.projen_awscdk_app_ts-0.0.381-py3-none-any.whl": [
+          "EqHD/4227CVDhaae0AE0ITQZWUCIJmBs4ELxeTiIDgQ=",
           "py3"
         ]
       }
@@ -111915,6 +111981,84 @@
         "3zIs8D7meI+I8jXPKbwNddBwe0dtQ+8Bi7VkD5udo24=",
         "ruruki-1.4.2.tar.gz"
       ]
+    }
+  },
+  "rz-bindings": {
+    "0.5.0": {
+      "wheels": {
+        "rz_bindings-0.5.0-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "RwHyHXUeVU8ybJRnWSsH1RxRzNcW7bOiwYoll2dQCc8=",
+          "cp310"
+        ],
+        "rz_bindings-0.5.0-cp310-cp310-manylinux_2_24_i686.whl": [
+          "UQcla9GWWZZa5LQP3Kj+7Gw7+Jnf2ue1G072V2kdMjE=",
+          "cp310"
+        ],
+        "rz_bindings-0.5.0-cp310-cp310-manylinux_2_24_x86_64.whl": [
+          "ZE9FSwBZSNosNAiCS+vaGOhbp2chYi1K6wXyUiWlHPg=",
+          "cp310"
+        ],
+        "rz_bindings-0.5.0-cp310-cp310-musllinux_1_1_i686.whl": [
+          "iGtrhCOMEV+B1uZQ/QuVKCiNWD/tsRb6lS+/vYNyozI=",
+          "cp310"
+        ],
+        "rz_bindings-0.5.0-cp310-cp310-musllinux_1_1_x86_64.whl": [
+          "W5DTU8S3JsV9DdonidfIVMY5xK19K0thQLnl7ayN2xY=",
+          "cp310"
+        ],
+        "rz_bindings-0.5.0-cp310-cp310-win_amd64.whl": [
+          "RmN7WvVt8x+azfVkjHxbxHJ/CAGXFY/y79VRfnR6Mi0=",
+          "cp310"
+        ],
+        "rz_bindings-0.5.0-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "R4rKSojD9bQhTqcWgIDQ9xFSF2Pd2E7GiuES3aYe15c=",
+          "cp38"
+        ],
+        "rz_bindings-0.5.0-cp38-cp38-manylinux_2_24_i686.whl": [
+          "bHvJy2ZFdJsH2e5QaBR3qzvq0Cx7UKYquYA1ucKYZ1w=",
+          "cp38"
+        ],
+        "rz_bindings-0.5.0-cp38-cp38-manylinux_2_24_x86_64.whl": [
+          "A43W0Iq+VH48N9fRqzdXSbEKS3eRHZTJaPrrY5GPyRs=",
+          "cp38"
+        ],
+        "rz_bindings-0.5.0-cp38-cp38-musllinux_1_1_i686.whl": [
+          "zwn+b+jOhxPO6eoX1owxTVzTP+wm+2NhDJcGs/hcfKI=",
+          "cp38"
+        ],
+        "rz_bindings-0.5.0-cp38-cp38-musllinux_1_1_x86_64.whl": [
+          "A8te+tJaScN6xkqBNNfqSNEGHXI2zAc0uKpYtUeM4Bo=",
+          "cp38"
+        ],
+        "rz_bindings-0.5.0-cp38-cp38-win_amd64.whl": [
+          "FqCETpXPwNIn7O7O6NmxdEXb+eg/c5Ka5fBpVM/XcMk=",
+          "cp38"
+        ],
+        "rz_bindings-0.5.0-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "aMvk4JoF/0Xq2Kay/FGswd3FhNigl3YJDNBC1SGkENU=",
+          "cp39"
+        ],
+        "rz_bindings-0.5.0-cp39-cp39-manylinux_2_24_i686.whl": [
+          "AQvZ+4sTUT+jX3Tept89kSRTMVpyK2kYwCSGqZkcEZo=",
+          "cp39"
+        ],
+        "rz_bindings-0.5.0-cp39-cp39-manylinux_2_24_x86_64.whl": [
+          "ycmNnAw6QqbGGuaB/YFdbLnmp/K5jM/RN4T6zcTsBmw=",
+          "cp39"
+        ],
+        "rz_bindings-0.5.0-cp39-cp39-musllinux_1_1_i686.whl": [
+          "DpAgdmaoUuVbx23GJhbbH1aJiun3Tq7pEIWGiw2apRo=",
+          "cp39"
+        ],
+        "rz_bindings-0.5.0-cp39-cp39-musllinux_1_1_x86_64.whl": [
+          "XDv/uO3yJwrbY/bmeg3xv3hvWgkIQGv7a54rmme4rYU=",
+          "cp39"
+        ],
+        "rz_bindings-0.5.0-cp39-cp39-win_amd64.whl": [
+          "vD+HAlRI0hVBHrEtK3Xe8tcFwl9uzN865otJ+9HMiis=",
+          "cp39"
+        ]
+      }
     }
   },
   "s2protocol": {
@@ -137918,6 +138062,18 @@
         ]
       }
     },
+    "0.17.5": {
+      "sdist": [
+        "sh/R/HC+DSHw9+W6ReP+OiIBEy1tBzu4JlyIrR3LaVo=",
+        "vt-py-0.17.5.tar.gz"
+      ],
+      "wheels": {
+        "vt_py-0.17.5-py3-none-any.whl": [
+          "qqe8gl4B7nXuUUa36MDyWa2vZzCBIHcM1TmDTJQGBj4=",
+          "py3"
+        ]
+      }
+    },
     "0.4.0": {
       "sdist": [
         "xV+lwxvuPrUT47FPEqY2VteYmbRvPGB3ZRqxYqUuLgo=",
@@ -139580,14 +139736,14 @@
         ]
       }
     },
-    "16.4.8": {
+    "16.4.9": {
       "sdist": [
-        "V5bTI1KPyN2WR+IyrkgPsoHHSz57WI/VwSS0HlV3xL8=",
-        "watchmen_storage_mssql-16.4.8.tar.gz"
+        "J+TSskLxWMaeZTb8QrsJ+bFwXJ8nUbhf9AIveuIAmGk=",
+        "watchmen_storage_mssql-16.4.9.tar.gz"
       ],
       "wheels": {
-        "watchmen_storage_mssql-16.4.8-py3-none-any.whl": [
-          "nfUcp5cnkBCepXQIN/bua6wfEELy5oqLrV729P1c9rQ=",
+        "watchmen_storage_mssql-16.4.9-py3-none-any.whl": [
+          "jaRlsbb0r0xDpXrkDoDo6olfawTNMT3LaeLZ4+81JVE=",
           "py3"
         ]
       }

@@ -25120,6 +25120,12 @@
         "covmatic-stations-2.19.1.tar.gz"
       ]
     },
+    "2.19.10": {
+      "sdist": [
+        "ncbZVqvM3+DSDLEjHWxvJewUThiNFa9z3uQ+Vg+tbug=",
+        "covmatic-stations-2.19.10.tar.gz"
+      ]
+    },
     "2.19.2": {
       "sdist": [
         "Q0bUwv/INvoL7DzdeCj7N8oJfg16X4KECNnxPhIm7S4=",
@@ -57848,6 +57854,14 @@
       "wheels": {
         "huaweicloudsdkges-3.1.26-py2.py3-none-any.whl": [
           "fQYZ67pi2ub/nLYmgCJMbwXzQP+OklE/cJ7CqaLtUVc=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.27": {
+      "wheels": {
+        "huaweicloudsdkges-3.1.27-py2.py3-none-any.whl": [
+          "XwraNwVv1Txrea7zYLuJ3unvyeFOKs0r1LIbkeOkCL8=",
           "py2.py3"
         ]
       }
@@ -99827,6 +99841,14 @@
       ]
     }
   },
+  "optionchainmonthlyjoshuahrs": {
+    "0.1": {
+      "sdist": [
+        "2rzjbnkE/BRvv3QwzlduG4RTo5HwtdRoza2DYHfhra4=",
+        "OptionChainMonthlyJoshuaHrs-0.1.tar.gz"
+      ]
+    }
+  },
   "optplus": {
     "0.1.1": {
       "sdist": [
@@ -106334,6 +106356,18 @@
         ]
       }
     },
+    "0.0.239": {
+      "sdist": [
+        "0QA+Aem7L9QaGD5dzUbdFjsL+P+JE/WXV6PE5QJm2Vo=",
+        "pepperize.cdk-ssm-parameters-cross-region-0.0.239.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.cdk_ssm_parameters_cross_region-0.0.239-py3-none-any.whl": [
+          "A8+/+CB6x+gkdHIfexTcM+P+o3vo1fVpnl+kq1tgSYE=",
+          "py3"
+        ]
+      }
+    },
     "0.0.24": {
       "sdist": [
         "8dMP2+G+7JgdlD2Ety+dNRNam/5sCcFXrtdLE8tVoaI=",
@@ -111476,6 +111510,18 @@
         ]
       }
     },
+    "0.0.10": {
+      "sdist": [
+        "vraLj0lBpy6YDyDXvNBKHWUHaZtbAYU9pp7UXuonodc=",
+        "politicsnlp-0.0.10.tar.gz"
+      ],
+      "wheels": {
+        "politicsnlp-0.0.10-py3-none-any.whl": [
+          "ONBOUpzLKcAkeP74R+Nled0y2jW5e9h/CXj+PH9YpjQ=",
+          "py3"
+        ]
+      }
+    },
     "0.0.2": {
       "sdist": [
         "09OcAdhg75hwL8u6JxBNSBmk8KmYqKQ5eorO5dCixMw=",
@@ -111532,6 +111578,18 @@
       "wheels": {
         "politicsnlp-0.0.7-py3-none-any.whl": [
           "wmxBO6BB5ECd25TKFE+DsAo+BYr+3zu2BFx1ReXdUDE=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.9": {
+      "sdist": [
+        "os/4oU9wwLYspQgwBQ3uPQBliLJGOj5PBTPfdL1ndbk=",
+        "politicsnlp-0.0.9.tar.gz"
+      ],
+      "wheels": {
+        "politicsnlp-0.0.9-py3-none-any.whl": [
+          "YypxJnIouSsSuHqSUfm1EVhCCyuflBLeWbjwFAUiwKg=",
           "py3"
         ]
       }
@@ -139531,6 +139589,18 @@
           "py3"
         ]
       }
+    },
+    "0.4.0": {
+      "sdist": [
+        "rO136NXrXu1cj1DMeUTa3uxos83Pnd0BnbdsqKnrE+Q=",
+        "SPLayout-0.4.0.tar.gz"
+      ],
+      "wheels": {
+        "SPLayout-0.4.0-py3-none-any.whl": [
+          "NhgKnnG+eJVGspAfnhAujyRElNQDDzth2gE4zFbVIPU=",
+          "py3"
+        ]
+      }
     }
   },
   "spoffy": {
@@ -143273,6 +143343,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.2": {
+      "sdist": [
+        "6OIwHmrV/IQ1U0T+SHpcwqNA3/v0qhhDnCO093z+drY=",
+        "textwatermark-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "textwatermark-0.1.2-py3-none-any.whl": [
+          "Qf+4zB4v711qPLeG3Weycs5qyZdT3H21QdLXTEeQ+Go=",
+          "py3"
+        ]
+      }
     }
   },
   "tf-model-optimization-nightly": {
@@ -145064,6 +145146,14 @@
       "wheels": {
         "tf_model_optimization_nightly-0.7.3.dev20230222-py2.py3-none-any.whl": [
           "8HJH9mBxolFhW9jy6MCuxkVH1Hwqz0f3PC6Mvg70I5Q=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.7.3.dev20230223": {
+      "wheels": {
+        "tf_model_optimization_nightly-0.7.3.dev20230223-py2.py3-none-any.whl": [
+          "dSiB4rTeoa1KN/w3NhFPEcf/ZBc9IzTyiqo9Mk0NUa8=",
           "py2.py3"
         ]
       }

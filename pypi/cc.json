@@ -10480,6 +10480,18 @@
         ]
       }
     },
+    "2.2.80": {
+      "sdist": [
+        "xTC3753olRs2/VEcQa4NzfhSTxa69hpujcTCvlHtSfs=",
+        "aws-cdk.asset-awscli-v1-2.2.80.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.asset_awscli_v1-2.2.80-py3-none-any.whl": [
+          "K3VwChiOdADNEfMjol/kYik7JCKO09KPXP5PkerUhVg=",
+          "py3"
+        ]
+      }
+    },
     "2.2.9": {
       "sdist": [
         "54yTGIhOa7mR54iwuWFAN7r1lka30XciTVzUsFBT9tU=",
@@ -11246,6 +11258,18 @@
       "wheels": {
         "aws_cdk.asset_node_proxy_agent_v5-2.0.65-py3-none-any.whl": [
           "y/MZQnO6xSv0TqvID/o9vlk8PEoMWFtBtxuzjTesrN4=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.66": {
+      "sdist": [
+        "KifC4LH21ivyazBpxPuZ6kxm3XLrC2pLJR9CBZP70V4=",
+        "aws-cdk.asset-node-proxy-agent-v5-2.0.66.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.asset_node_proxy_agent_v5-2.0.66-py3-none-any.whl": [
+          "HY4AMQX9AMfqB+cNdWoFFKBlBaGxy3s4AHdS6lcJQxs=",
           "py3"
         ]
       }
@@ -16490,6 +16514,18 @@
       "wheels": {
         "botocore_a_la_carte_forecastquery-1.29.77-py3-none-any.whl": [
           "xrXFbSjMfxU4LWFD5sRW4k+RjOgNL/kMtaDOmqcWsrU=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.78": {
+      "sdist": [
+        "e9jv5Kh9C8Q2L7/FtO2a/c6dkawBnFS69naodOujCgA=",
+        "botocore-a-la-carte-forecastquery-1.29.78.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_forecastquery-1.29.78-py3-none-any.whl": [
+          "E8aHkLllum1HZHAq+pLeP6vbk2G5jIS3Cq0RwejOtvM=",
           "py3"
         ]
       }
@@ -99209,6 +99245,114 @@
           "py3"
         ]
       }
+    },
+    "0.8.1": {
+      "sdist": [
+        "g04jFqYklH0VLbYkFXKz7An5Ra3f/IJAUXsscbnDaQ4=",
+        "psygnal-0.8.1.tar.gz"
+      ],
+      "wheels": {
+        "psygnal-0.8.1-cp310-cp310-macosx_10_16_arm64.whl": [
+          "1hyzuzcc5BXjW7uUspvtOZV5YQsIHRoSMCOuwSqP+i8=",
+          "cp310"
+        ],
+        "psygnal-0.8.1-cp310-cp310-macosx_10_16_x86_64.whl": [
+          "SqOFbKP0D/yU8L8RT8OJ1H6jpAzU/niBgcWnqSYr8kU=",
+          "cp310"
+        ],
+        "psygnal-0.8.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "V10x6HAQlVQx7/iLyhKwX7FOWGUqQdT3hk3Y2ldJMdg=",
+          "cp310"
+        ],
+        "psygnal-0.8.1-cp310-cp310-musllinux_1_1_x86_64.whl": [
+          "tPe3EjSi7D9FOgrlwTP6v58hOLY5XaCfYKyg5k7HFWQ=",
+          "cp310"
+        ],
+        "psygnal-0.8.1-cp310-cp310-win_amd64.whl": [
+          "tHrOnEGs+I0xVuxguzFtiLxq5d3IpEuKy1Gz0YMdhLQ=",
+          "cp310"
+        ],
+        "psygnal-0.8.1-cp311-cp311-macosx_10_16_arm64.whl": [
+          "JxxJLLqhMWTkjs1ZLXhxN3gfPrjB7ie201iG70jLVYQ=",
+          "cp311"
+        ],
+        "psygnal-0.8.1-cp311-cp311-macosx_10_16_x86_64.whl": [
+          "bJB1lG6gSLE4/rZSLNuS390pHKqr1LZNEETkQyFLJrI=",
+          "cp311"
+        ],
+        "psygnal-0.8.1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "1/E9muGLmWweP3QfZQujaRFqQV+xdhcUTFxWRkVVF68=",
+          "cp311"
+        ],
+        "psygnal-0.8.1-cp311-cp311-musllinux_1_1_x86_64.whl": [
+          "8BXp4SmfQIOsxRs068oXIBwvso++BHOkQQEDhQiTnRw=",
+          "cp311"
+        ],
+        "psygnal-0.8.1-cp311-cp311-win_amd64.whl": [
+          "dt7VQK8h8lEjvw/lYbdcMThaQTavOYhGE1CcUL1n710=",
+          "cp311"
+        ],
+        "psygnal-0.8.1-cp37-cp37m-macosx_10_16_x86_64.whl": [
+          "3rvUGHg4xM/YQ86p30DJ6h8yChb7Fe9hmCvsxqDenUs=",
+          "cp37"
+        ],
+        "psygnal-0.8.1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "XYcl8J7Ish+OQzNS9F7o2bVlPfQogSaJ7/nSGnAyQGI=",
+          "cp37"
+        ],
+        "psygnal-0.8.1-cp37-cp37m-musllinux_1_1_x86_64.whl": [
+          "R9dJ2HIZvWAphwSYRl/DvbBxGtmR3hdaD7PU2sCRcII=",
+          "cp37"
+        ],
+        "psygnal-0.8.1-cp37-cp37m-win_amd64.whl": [
+          "/o6Ha30bffWy1PxERJyuz+E8EAYraTfXnaQ3zGeYAdM=",
+          "cp37"
+        ],
+        "psygnal-0.8.1-cp38-cp38-macosx_10_16_arm64.whl": [
+          "Uv4EY0XRotwXudCW623oGKejUOwiiXTbFQikMa5evEA=",
+          "cp38"
+        ],
+        "psygnal-0.8.1-cp38-cp38-macosx_10_16_x86_64.whl": [
+          "a7p6NUlq6IsxZKR4V0aKTPyxcfHLiwk6cxQBfrkFjgY=",
+          "cp38"
+        ],
+        "psygnal-0.8.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "yVBRE9g1Vz5IWmf/W6RuR/cFqYhbfrfKGCRzYMKyG9U=",
+          "cp38"
+        ],
+        "psygnal-0.8.1-cp38-cp38-musllinux_1_1_x86_64.whl": [
+          "J+M5rjvrVXx/aP2en7FkT3FCLXVEa1j/klvWhL3I4gk=",
+          "cp38"
+        ],
+        "psygnal-0.8.1-cp38-cp38-win_amd64.whl": [
+          "cJmZ8h1lFRyWAQVlze+ijvpHshI9vgZcDHthRRm0LGI=",
+          "cp38"
+        ],
+        "psygnal-0.8.1-cp39-cp39-macosx_10_16_arm64.whl": [
+          "9TkQFP+pV4EMJGlS6wcpoQMNCgOYNtuXJrgo++xKSjc=",
+          "cp39"
+        ],
+        "psygnal-0.8.1-cp39-cp39-macosx_10_16_x86_64.whl": [
+          "v8zebm8qfxrMxNDyygdqV5J/awAS6tHUVIaaBGm9tcw=",
+          "cp39"
+        ],
+        "psygnal-0.8.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "gK00NqN43T5DWhd5fdf5AjNFHGfn4aM+Tya903dWgZA=",
+          "cp39"
+        ],
+        "psygnal-0.8.1-cp39-cp39-musllinux_1_1_x86_64.whl": [
+          "Y2POxbM1mg2f4doWyOZ5q4DHdlEEG/6cnXaKfrTLZvU=",
+          "cp39"
+        ],
+        "psygnal-0.8.1-cp39-cp39-win_amd64.whl": [
+          "2qzydUVy2P1iMVQe5c2DDRpunK17t/6d7T4z7/3mTmo=",
+          "cp39"
+        ],
+        "psygnal-0.8.1-py3-none-any.whl": [
+          "0uJG8KqIGu+VQOY+6vZUUYeHnUjNQvRg2oZUpYIiZ5Q=",
+          "py3"
+        ]
+      }
     }
   },
   "pulathisi": {
@@ -137849,6 +137993,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.837": {
+      "sdist": [
+        "piuA9bVeg/8XQp6WkNcT3Vqm1a4YAiVL0nHb+kpmhxg=",
+        "tencentcloud-sdk-python-tia-3.0.837.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_tia-3.0.837-py2.py3-none-any.whl": [
+          "UvcWy5jvz6Xgwd/hhhLsgpy1k7TUWHyW7WOR+Q4LAMQ=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tentaclio-databricks-pyodbc": {
@@ -152436,6 +152592,18 @@
       "wheels": {
         "webint_posts-0.0.7-py3-none-any.whl": [
           "S8xZBkUa3mUmQRLgWMkA35BRu6NrK7gI+LaI7i/VoGY=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.8": {
+      "sdist": [
+        "bHj+UlBOHaYRSEj9c+xMACpF0OSLYbyQXNd83DDx1Nc=",
+        "webint_posts-0.0.8.tar.gz"
+      ],
+      "wheels": {
+        "webint_posts-0.0.8-py3-none-any.whl": [
+          "+ioBEGObpdLh3j+TrxjdIP3lZWws60MyxTLunMJMXr0=",
           "py3"
         ]
       }

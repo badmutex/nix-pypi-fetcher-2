@@ -12556,6 +12556,18 @@
     }
   },
   "azure-monitor-opentelemetry": {
+    "1.0.0b10": {
+      "sdist": [
+        "EuUMpY5CBNTajs4Q2ktGNpgsgnyXoTZaOBjZfxqvz7U=",
+        "azure-monitor-opentelemetry-1.0.0b10.tar.gz"
+      ],
+      "wheels": {
+        "azure_monitor_opentelemetry-1.0.0b10-py2.py3-none-any.whl": [
+          "V7REXdzhrmtWBXh5edlUpn39aQZzsfFkGIvZ9HGrGMk=",
+          "py2.py3"
+        ]
+      }
+    },
     "1.0.0b9": {
       "sdist": [
         "lTbYbaQrNcQTGB36uzxBo1RarkMCT+b9hBSn6ibRgXc=",
@@ -17337,6 +17349,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.78": {
+      "sdist": [
+        "PpxIzhFM5CIq7tAlqFCJFZud0gTHptyQu70Cr1nqkKs=",
+        "botocore-a-la-carte-iotthingsgraph-1.29.78.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_iotthingsgraph-1.29.78-py3-none-any.whl": [
+          "aBkbT1u8S3sHkzi4iPDFyw+Ckos90jit+s8kHLp04Dk=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-xray": {
@@ -17768,6 +17792,18 @@
       "wheels": {
         "botocore_a_la_carte_xray-1.29.77-py3-none-any.whl": [
           "AjhW7mdZi8OkSb2NelE2X+D4wws62IlqwqQvBqyl9AU=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.78": {
+      "sdist": [
+        "y4CaOlkAOYSuiTU+0ITPj7cWzEc+eEVmwYTgYyxBQ84=",
+        "botocore-a-la-carte-xray-1.29.78.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_xray-1.29.78-py3-none-any.whl": [
+          "lDMqO9hm4Rpi892sfNevKzS7LX+ndEeQgwYizJZw72Y=",
           "py3"
         ]
       }
@@ -64173,6 +64209,32 @@
       }
     }
   },
+  "icon-resize": {
+    "0.2.0": {
+      "sdist": [
+        "MiUT9LohzFClZILYTWslOA7Bbds/V3ABKyvQ19NHNTw=",
+        "icon_resize-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "icon_resize-0.2.0-py3-none-any.whl": [
+          "FG0a8c4wpAI1n0O4r1a0QAplrlEj8ucJu95SgFyUqXM=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.1": {
+      "sdist": [
+        "nuwTszVosCEA7TY3TnA01/LHeeWyqtlZ0SF5tuOVfbg=",
+        "icon_resize-0.2.1.tar.gz"
+      ],
+      "wheels": {
+        "icon_resize-0.2.1-py3-none-any.whl": [
+          "dIIxwN63NreSduvopw2y0SSTE2IUGDyjQoTEQZh4oIo=",
+          "py3"
+        ]
+      }
+    }
+  },
   "idataapi-transform": {
     "0.1": {
       "wheels": {
@@ -76406,6 +76468,18 @@
       "wheels": {
         "mne-1.3.0-py3-none-any.whl": [
           "1c9YhWWHgPyZ6FN+Z4Y3Uo+8PurlceEld/9YNG8I6a8=",
+          "py3"
+        ]
+      }
+    },
+    "1.3.1": {
+      "sdist": [
+        "DQYm0xh90O5vh0DQVGYKG1/OTIefgUt0WxPFpYe68ys=",
+        "mne-1.3.1.tar.gz"
+      ],
+      "wheels": {
+        "mne-1.3.1-py3-none-any.whl": [
+          "gFv46emfP8XhHVBMjyAJY8xIm2YUzdPpMif4GPf9y+g=",
           "py3"
         ]
       }
@@ -124290,6 +124364,12 @@
       "sdist": [
         "epejcgjjYWRhZCwNg+8Pm8uAnr4j7f0wdeOlx1IpFiM=",
         "sagemath-standard-10.0b1.tar.gz"
+      ]
+    },
+    "10.0b2": {
+      "sdist": [
+        "SzEfvfS3j/Uc6tMSN/+5qsEQPUIesWLMFHYfQo09m4I=",
+        "sagemath-standard-10.0b2.tar.gz"
       ]
     },
     "9.3": {

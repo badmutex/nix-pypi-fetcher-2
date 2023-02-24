@@ -18693,6 +18693,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.78": {
+      "sdist": [
+        "6eqSxfdu3rLs2u5ZSfInfyRzhMdzyfd1Iw/WOKYJtos=",
+        "botocore-a-la-carte-synthetics-1.29.78.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_synthetics-1.29.78-py3-none-any.whl": [
+          "D5aoKJVU9FtfjeAbu/KgkOv1LjjjTB99VZJtPGdY53k=",
+          "py3"
+        ]
+      }
     }
   },
   "botv": {
@@ -26547,6 +26559,12 @@
         "52fwFmnSRXloRwZtPJ2S8FOmF3HHG1vFCmjIMm/wN2Y=",
         "core_module_excel_uploader_app-2.1.0.tar.gz"
       ]
+    },
+    "2.2.0": {
+      "sdist": [
+        "s9RqxsQXA/n5iWK3ldiwNQKBaUTfh11FkhgGLSSsD4s=",
+        "core_module_excel_uploader_app-2.2.0.tar.gz"
+      ]
     }
   },
   "core-news": {
@@ -34158,6 +34176,12 @@
       "sdist": [
         "HTzlYKrYJFg3rrGdyWZ/1mO6vELbArzOIkOoKhhIYl8=",
         "didis-0.0.22.tar.gz"
+      ]
+    },
+    "0.0.24": {
+      "sdist": [
+        "7EwG4TXAVRpUIRdbhk6ekwOZvmp79V3HgTXWYBmZYnQ=",
+        "didis-0.0.24.tar.gz"
       ]
     },
     "0.0.3": {
@@ -54384,6 +54408,12 @@
       "sdist": [
         "js7m5yPhvQNGOAfaGYeGAr6Ngp0hSYj6V5QeXBWfmpc=",
         "girder-hashsum-download-3.1.17.dev2.tar.gz"
+      ]
+    },
+    "3.1.17.dev5": {
+      "sdist": [
+        "FBibOB9gUlDm0jlNpebZGwfw1KxM2qS/NeaJFT5JYmY=",
+        "girder-hashsum-download-3.1.17.dev5.tar.gz"
       ]
     },
     "3.1.2": {
@@ -95699,6 +95729,18 @@
           "py3"
         ]
       }
+    },
+    "1.26.78": {
+      "sdist": [
+        "FItpb9O3KFtYQAWaOc0Br0MnqL81IKN0UrdqpcnWJMk=",
+        "mypy-boto3-ecs-1.26.78.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_ecs-1.26.78-py3-none-any.whl": [
+          "f1NUAmucbpPJtwaEsU5sABsJchxEiTfj/g45yqoz328=",
+          "py3"
+        ]
+      }
     }
   },
   "mypygameworkflow": {
@@ -98173,6 +98215,14 @@
           "py3"
         ]
       }
+    },
+    "0.2.4a1": {
+      "wheels": {
+        "neon_skill_caffeinewiz-0.2.4a1-py3-none-any.whl": [
+          "OdhDPF1C/WqxdiNK1eG3Z3Em0TBwqHx1p7KJURje6SQ=",
+          "py3"
+        ]
+      }
     }
   },
   "nereo-django-cas-ng": {
@@ -99887,6 +99937,20 @@
       ]
     }
   },
+  "nplot": {
+    "2.0.0": {
+      "sdist": [
+        "aoyEoWrr2uR9sIayK3ZdwDRMPkmcwXfsa9yNIe7cSn0=",
+        "nplot-2.0.0.tar.gz"
+      ],
+      "wheels": {
+        "nplot-2.0.0-py3-none-any.whl": [
+          "9CmLBLEXXzmIoY1RIpNmtgEdJrM+h/oVqEXYBAbAkA0=",
+          "py3"
+        ]
+      }
+    }
+  },
   "nr.utils.io": {
     "0.1.0": {
       "sdist": [
@@ -99914,14 +99978,6 @@
     }
   },
   "nso-oc": {
-    "0.0.0.dev0": {
-      "wheels": {
-        "nso_oc-0.0.0.dev0-py3-none-any.whl": [
-          "5jnUj1Uj3XJuPS94V0cB51oAjJXPKKamGJPtscu8n20=",
-          "py3"
-        ]
-      }
-    },
     "0.0.1": {
       "sdist": [
         "eVDDLzYuqB0Z0iJE3yD/YT7NyijGdk5dLKlwNIyEUzk=",
@@ -99930,6 +99986,48 @@
       "wheels": {
         "nso_oc-0.0.1-py3-none-any.whl": [
           "RtN0rVmAxFUJp4+FsY61RiSohptqNpVfkLzFcF2R6yY=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.1.dev0": {
+      "sdist": [
+        "Dft7Zo0KPzCWPn0HCS3eKojfvMayV2VP93BfV7aQPtU=",
+        "nso-oc-0.0.1.dev0.tar.gz"
+      ]
+    },
+    "0.0.1.dev1": {
+      "sdist": [
+        "YvTD6Wqracc5E/K9HIoRq0Q9TbZOGLtFcbYtT/RaSBw=",
+        "nso-oc-0.0.1.dev1.tar.gz"
+      ]
+    },
+    "0.0.2": {
+      "sdist": [
+        "5KVE85hL7agLIqCZ4+UrDpAnH1NWYn/enH5M57Ta++E=",
+        "nso-oc-0.0.2.tar.gz"
+      ]
+    },
+    "0.0.3": {
+      "sdist": [
+        "nupdhhL4HvnacPD8QnIVUi6ElwQXeoKw51giDHAKshw=",
+        "nso-oc-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "nso_oc-0.0.3-py3-none-any.whl": [
+          "cH3WUOU3aAlnYBIopa8sBaB27lCpj+9DIck+yYZKQUk=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3.dev0": {
+      "sdist": [
+        "x65J8vCckkwO4bx6xY5q8EeXo8ERfon4WjErHNwHlyw=",
+        "nso-oc-0.0.3.dev0.tar.gz"
+      ],
+      "wheels": {
+        "nso_oc-0.0.3.dev0-py3-none-any.whl": [
+          "1kb8QxQ8yova30GT0PfgK4bZ4drbvI+40f6Rj1ajp8A=",
           "py3"
         ]
       }

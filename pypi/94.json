@@ -12243,6 +12243,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.78": {
+      "sdist": [
+        "L1FZQVwA75F/qpOMrJ4W4tsiKNBIMKpiPwGjmuZB/fI=",
+        "botocore-a-la-carte-ec2-1.29.78.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_ec2-1.29.78-py3-none-any.whl": [
+          "wve66bPsvkXA5n1Iv7n5Zk71gQQU/al67PMTsa2kEbo=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-kinesis-video-webrtc-storage": {
@@ -12674,6 +12686,18 @@
       "wheels": {
         "botocore_a_la_carte_kinesis_video_webrtc_storage-1.29.77-py3-none-any.whl": [
           "ouFyPPOFcwYeqKGhc/DlkY0qT8VWFh0DAQmpQjH+/g8=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.78": {
+      "sdist": [
+        "GH/X2caF6wKJl4dAy9clS5QfWkqQNCdWoiyBtwzd5Y8=",
+        "botocore-a-la-carte-kinesis-video-webrtc-storage-1.29.78.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_kinesis_video_webrtc_storage-1.29.78-py3-none-any.whl": [
+          "i2BoR83cE4y0XC4sHVlgBSfQMFo19INYZ8JNDKmfQQw=",
           "py3"
         ]
       }
@@ -23602,6 +23626,30 @@
       "wheels": {
         "datayoga_core-1.65.0-py3-none-any.whl": [
           "zcu4mvGTDRQ5Mu04tf53cYaaBR1NKsZBTlj9CQu7LzQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.66.0": {
+      "sdist": [
+        "dLBxQMh720JhiDQ8K401KwJZqTWI3N1OKtVfDzsvNwM=",
+        "datayoga_core-1.66.0.tar.gz"
+      ],
+      "wheels": {
+        "datayoga_core-1.66.0-py3-none-any.whl": [
+          "b15Rg8TYKLO0xdnTscTukl4uK7rC3gLn8gdNqaDeTJo=",
+          "py3"
+        ]
+      }
+    },
+    "1.67.0": {
+      "sdist": [
+        "n6xKWuBMU8JteI/jR+mZDgWKP1NXbzJh+Tp86MBvGLc=",
+        "datayoga_core-1.67.0.tar.gz"
+      ],
+      "wheels": {
+        "datayoga_core-1.67.0-py3-none-any.whl": [
+          "xRkfpjjrte3BXVuah3BA2SnWxl2Gq1LjqCgo/J6CbuE=",
           "py3"
         ]
       }
@@ -68706,6 +68754,12 @@
       "sdist": [
         "pzmmJH4/eZ8dqIfcmTLUElic9y0mxuRAm/VTp9G0aqk=",
         "localstack-ext-1.4.1.dev20230222112352.tar.gz"
+      ]
+    },
+    "1.4.1.dev20230223204826": {
+      "sdist": [
+        "i6pH0FUvOXLZxghy2XkjSQmTB35joYzFO3Snv0EDL8o=",
+        "localstack-ext-1.4.1.dev20230223204826.tar.gz"
       ]
     }
   },

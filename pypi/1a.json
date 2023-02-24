@@ -19374,6 +19374,18 @@
         ]
       }
     },
+    "1.16.15": {
+      "sdist": [
+        "/J6RF3Q1feoiQggbqmPRK7W5GVwBQyiAj9Cg8hpGg9E=",
+        "cca_zoo-1.16.15.tar.gz"
+      ],
+      "wheels": {
+        "cca_zoo-1.16.15-py3-none-any.whl": [
+          "sM8xvl8ASj3QjML+nRbLhulYfyBz6eWx6TOue3yYT0w=",
+          "py3"
+        ]
+      }
+    },
     "1.16.2": {
       "sdist": [
         "4JaqPbtujyoQKzLh2bSYQccrTXAdL59GX2guF2Xv0qI=",
@@ -49276,6 +49288,18 @@
         ]
       }
     },
+    "3.11.1": {
+      "sdist": [
+        "MiV00vH4MSbbKpqPFwgbwCmaI9bV1ewiv4CB4GSP68I=",
+        "fslpy-3.11.1.tar.gz"
+      ],
+      "wheels": {
+        "fslpy-03.11.1-py2.py3-none-any.whl": [
+          "qrCeKdKdmjGmBkzV1XunFP2r92vCoZGO/+bxRJ0W85Y=",
+          "py2.py3"
+        ]
+      }
+    },
     "3.2.0": {
       "sdist": [
         "ryhUJeeVgkOO5bwn+Pfx5daF4jD3YsZ/TPIhoYN4G70=",
@@ -75367,6 +75391,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.3": {
+      "sdist": [
+        "NlwK2RdJYaOLGAdIdj3nFHqgUluBUleMJ7b6FwnZh10=",
+        "koopmanlab-1.0.3.tar.gz"
+      ],
+      "wheels": {
+        "koopmanlab-1.0.3-py3-none-any.whl": [
+          "gTnh/Ntoq8wc93AhtW+uaIcujGvDUBy6JCkexyMGisE=",
+          "py3"
+        ]
+      }
     }
   },
   "krakenio": {
@@ -90821,6 +90857,20 @@
       ]
     }
   },
+  "ngdi": {
+    "0.1.0": {
+      "sdist": [
+        "wGYII9b3KdxXM+6nh2nyXAxJUwbmLejpmf+lrBwzYQw=",
+        "ngdi-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "ngdi-0.1.0-py3-none-any.whl": [
+          "86jzhMQoPGXcg5NChek+crB6DZD9boEtD89Tx5St/4c=",
+          "py3"
+        ]
+      }
+    }
+  },
   "nimbus-scrapyd-api": {
     "0.1.0": {
       "wheels": {
@@ -96283,6 +96333,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.0": {
+      "sdist": [
+        "3gVMSFcesUDklhO8tK2wdLV6FAno/zoX4lLQ85erqTg=",
+        "otx-1.0.0.tar.gz"
+      ]
+    },
+    "1.0.0rc1": {
+      "sdist": [
+        "98RKTMlWry+zeUAq1kmVwwxf9q31Jf4cqfOf84+hkiA=",
+        "otx-1.0.0rc1.tar.gz"
+      ]
     }
   },
   "outbreaker": {
@@ -121895,6 +121957,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.1": {
+      "sdist": [
+        "hxYzAj5MPy0arwYdRMOtBLgYvw/LUrUgoSQ8mSwSadc=",
+        "rayter_generator-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "rayter_generator-1.0.1-py3-none-any.whl": [
+          "T33ffIqOwcqVIG+rzFSG5rZgQ0Dk+iC3uKrIYNR1/nA=",
+          "py3"
+        ]
+      }
     }
   },
   "rbpy-rb": {
@@ -136335,6 +136409,44 @@
       }
     }
   },
+  "synthdog": {
+    "0.1": {
+      "sdist": [
+        "cvDvatQjHoSfZWPMYXgsZ3NR6O8KBPhE/5ieYiENXIs=",
+        "synthdog-0.1.tar.gz"
+      ],
+      "wheels": {
+        "synthdog-0.1-py3-none-any.whl": [
+          "WeODAO5df1mxDhZhxRGQv3csHJWtDSHAsxCTKroJ9vU=",
+          "py3"
+        ]
+      }
+    },
+    "0.2": {
+      "sdist": [
+        "bhSyP4QzLIgZ0AaR0+a7hYNI9VFppKyfS1ha82TT9hM=",
+        "synthdog-0.2.tar.gz"
+      ],
+      "wheels": {
+        "synthdog-0.2-py3-none-any.whl": [
+          "gZgy9+TwQL5hiFc+ECSgONyGCVWjxHa6IBIW3naJ5QI=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.1": {
+      "sdist": [
+        "2ZBMmbC4HKekWvCxbpeGgIm7wmPw6GOeGd66TaHIB2s=",
+        "synthdog-0.2.1.tar.gz"
+      ],
+      "wheels": {
+        "synthdog-0.2.1-py3-none-any.whl": [
+          "2U8A+jlCtbGuCeoEj33kTb8IHAIgbOxRGwIVH41vKKE=",
+          "py3"
+        ]
+      }
+    }
+  },
   "syslogen": {
     "1.3.0": {
       "sdist": [
@@ -142940,6 +143052,18 @@
       "wheels": {
         "userify-2-py3-none-any.whl": [
           "H+SiWNwe81uzLrXmnbrD0ixxfQP66Ds9cFPAVvf0oio=",
+          "py3"
+        ]
+      }
+    },
+    "2.1": {
+      "sdist": [
+        "PdvstMhaWrL+0jcL6Rwe45Yl7MoagTLmZN3JxeqnzW4=",
+        "userify-2.1.tar.gz"
+      ],
+      "wheels": {
+        "userify-2.1-py3-none-any.whl": [
+          "ayMjyJfRj1amTQmxjKvzzUkvNsa71v/6wTmTMbLW5T0=",
           "py3"
         ]
       }

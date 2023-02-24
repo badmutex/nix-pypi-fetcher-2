@@ -14907,6 +14907,18 @@
           "py3"
         ]
       }
+    },
+    "2.3.0b20230224": {
+      "wheels": {
+        "bigdl_friesian_spark3-2.3.0b20230224-py3-none-macosx_10_11_x86_64.whl": [
+          "FsUd1Fi+DXmTIBnPEUJE5ptZ+RljQTmspbBgv8lGdY4=",
+          "py3"
+        ],
+        "bigdl_friesian_spark3-2.3.0b20230224-py3-none-manylinux1_x86_64.whl": [
+          "p/3cw1yLsF8JKaYSX1f67MLrW0trMipsWkF7/TG+dSI=",
+          "py3"
+        ]
+      }
     }
   },
   "binsinfo": {
@@ -125948,10 +125960,28 @@
         "returnn-1.20230222.124006.tar.gz"
       ]
     },
+    "1.20230224.141051": {
+      "sdist": [
+        "F7I75xMGAmnbw9n88rQPX2Jz9fmQofLXgtWpoMMcXJM=",
+        "returnn-1.20230224.141051.tar.gz"
+      ]
+    },
+    "1.20230224.144852": {
+      "sdist": [
+        "y4RzXjfrcsoapdOdI3HrPdml/yiMumXeilM7c4SB3MM=",
+        "returnn-1.20230224.144852.tar.gz"
+      ]
+    },
     "1.20230224.15018": {
       "sdist": [
         "UZ8q7hnMFhuAQnMYymPDov9GmYIszxgPROCSkm0E4BI=",
         "returnn-1.20230224.15018.tar.gz"
+      ]
+    },
+    "1.20230224.154303": {
+      "sdist": [
+        "+iVqScgKtVzqr3yOLD3/SLGk3EPywnEM1u20vkaJMjk=",
+        "returnn-1.20230224.154303.tar.gz"
       ]
     },
     "1.20230224.20601": {
@@ -138148,6 +138178,18 @@
       "wheels": {
         "tasksource-0.0.24-py3-none-any.whl": [
           "lH2O/gZ3m7A/PvI2C2IUz0GxxXDvb9/3EODMIg5oseo=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.25": {
+      "sdist": [
+        "AtPmGgV6ktNjSLPyATFpq3K/oiRkl4LklN4M0L2kUzQ=",
+        "tasksource-0.0.25.tar.gz"
+      ],
+      "wheels": {
+        "tasksource-0.0.25-py3-none-any.whl": [
+          "1c33Y+zhsN7DS2lmIF0owlDpdYpHm8mLX/V4jcOs/xw=",
           "py3"
         ]
       }

@@ -910,6 +910,58 @@
         ]
       }
     },
+    "1.2.22": {
+      "wheels": {
+        "accera_llvm-1.2.22-cp310-cp310-macosx_11_0_x86_64.whl": [
+          "6jm70SxiN4d3bqmJUJrdE81BOQUm9YzzuM5aWiP9gZw=",
+          "cp310"
+        ],
+        "accera_llvm-1.2.22-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "NovI1todqHg3lvkPbpdfv7S6xmBcj1cOE7m/oQ9px4Q=",
+          "cp310"
+        ],
+        "accera_llvm-1.2.22-cp310-cp310-win_amd64.whl": [
+          "MWUSF6xToiLmymYlKv1l725mYnkfPFBIZny9JszOgmM=",
+          "cp310"
+        ],
+        "accera_llvm-1.2.22-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "0tSWnHwqEQ9yjLH+NJfIdjuy9AlEhh0Y2+K72OmtVNU=",
+          "cp37"
+        ],
+        "accera_llvm-1.2.22-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "3PKUff9i4YseNmrhv/GIqFvmy/podv/1zytmb2F/Zg4=",
+          "cp37"
+        ],
+        "accera_llvm-1.2.22-cp37-cp37m-win_amd64.whl": [
+          "5x+KXo+UTavTi/9FgMfUuywthVHvMOBuF4Ps+1pwiRY=",
+          "cp37"
+        ],
+        "accera_llvm-1.2.22-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "O9cbdrMwXqYFewXJzOce+KJ6AHKouTj3ayR5mWFq5Fo=",
+          "cp38"
+        ],
+        "accera_llvm-1.2.22-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ALXTsPTORXBJPEex9D1L2P7/shOOTcitzzKovik+Vrc=",
+          "cp38"
+        ],
+        "accera_llvm-1.2.22-cp38-cp38-win_amd64.whl": [
+          "gpdC1Y4Wwj6gQ5X1dAhU+BEW4h1MHq0DUpkG3pzc7Ao=",
+          "cp38"
+        ],
+        "accera_llvm-1.2.22-cp39-cp39-macosx_11_0_x86_64.whl": [
+          "nO4EFtqqDVsOKe7FBWnefXrqMTpkD1IHJY7W7Q+8zeg=",
+          "cp39"
+        ],
+        "accera_llvm-1.2.22-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "IfZNY7H6BJuCtPl1Oo/1W4moe+Caw3Os5A+UMlTGO6E=",
+          "cp39"
+        ],
+        "accera_llvm-1.2.22-cp39-cp39-win_amd64.whl": [
+          "+Dpik8hVfbJ/7n77GIgyAMzek0dfHvOv/8/twWjTRgU=",
+          "cp39"
+        ]
+      }
+    },
     "1.2.8": {
       "wheels": {
         "accera_llvm-1.2.8-cp310-cp310-macosx_10_15_x86_64.whl": [
@@ -26460,6 +26512,12 @@
       "sdist": [
         "foB6epeIKA0X/8YyOv24EVYyCUw94C8iLM3lYaX1fnE=",
         "canonical-0.24.0.tar.gz"
+      ]
+    },
+    "0.24.1": {
+      "sdist": [
+        "z2pvU3vM5Tsr0qwuLZ56nKuCW5FDcJGc0qB4wAbPV9A=",
+        "canonical-0.24.1.tar.gz"
       ]
     },
     "0.3.0": {
@@ -62263,6 +62321,18 @@
           "py3"
         ]
       }
+    },
+    "3.4.3": {
+      "sdist": [
+        "CTSkoYdEghsqrTvJRwhfsK573zolEWNPecocI1UmQfA=",
+        "gitlabform-3.4.3.tar.gz"
+      ],
+      "wheels": {
+        "gitlabform-3.4.3-py3-none-any.whl": [
+          "6wDkrGabUkP5jf5ZFRI+Mof7Ype05sUbj9J7XS0n7rY=",
+          "py3"
+        ]
+      }
     }
   },
   "gitlabirced": {
@@ -78031,6 +78101,20 @@
       }
     }
   },
+  "love-course-2016-2019": {
+    "2023.2.24.0": {
+      "sdist": [
+        "vXRvLlW4kMhthUGAL6fpESERnMzyFg8QGD2Wz1h2Noo=",
+        "love-course-2016-2019-2023.2.24.0.tar.gz"
+      ],
+      "wheels": {
+        "love_course_2016_2019-2023.2.24.0-py3-none-any.whl": [
+          "V0YuB4j6uArdUfjEfclSlOEx3Fg0ajkS4FtnAVhdIco=",
+          "py3"
+        ]
+      }
+    }
+  },
   "ls2ncdu": {
     "0.0.1": {
       "sdist": [
@@ -92474,6 +92558,16 @@
       "wheels": {
         "odoo14_addon_base_search_mail_content-14.0.1.0.1.dev8-py3-none-any.whl": [
           "hgx3ySHIN76CWwuTFqZXyGFCRd7AP4P0zImPN1B5fsY=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "odoo14-addon-delivery-postlogistics-dangerous-goods": {
+    "14.0.1.0.1.dev3": {
+      "wheels": {
+        "odoo14_addon_delivery_postlogistics_dangerous_goods-14.0.1.0.1.dev3-py3-none-any.whl": [
+          "w4GQt46g9/Ju4LVl0cExwJbML4Qojpe/VMR/DbqFgtE=",
           "py3"
         ]
       }
@@ -121264,6 +121358,18 @@
       "wheels": {
         "rubics_cube-0.0.2-py3-none-any.whl": [
           "DSP3PSSUQUQCF9Cocl8cFM25wGqfm3+oJkaF6tnLMIo=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.0": {
+      "sdist": [
+        "GmNcMxMS6V4bSpdHQMhlOw3bVT/EEgHkcCS+CzkEX/0=",
+        "rubics_cube-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "rubics_cube-0.1.0-py3-none-any.whl": [
+          "tJ4cZdhY39FV8ugBpq5Af+6Bs9tbhCAev0NyS9wI7Q8=",
           "py3"
         ]
       }

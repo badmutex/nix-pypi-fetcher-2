@@ -8445,6 +8445,18 @@
           "py3"
         ]
       }
+    },
+    "2.66.1a0": {
+      "sdist": [
+        "ogJfP9hX9jDn2mV8ZFQUqvg6NRbJJ9/hqlr0c0MWO0E=",
+        "aws-cdk.aws-sagemaker-alpha-2.66.1a0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_sagemaker_alpha-2.66.1a0-py3-none-any.whl": [
+          "YTt+EmQo9DLJS4hs0k2MsZRl7kuss/aZRtpubdqJHGs=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-cdk.aws-workspaces": {
@@ -33480,6 +33492,18 @@
       "wheels": {
         "dallecli-0.3.0-py2.py3-none-any.whl": [
           "ZUYiMok0ahQkbPCy6RGdOwlm8d9iIFJyyV5bhkppsAU=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.4.0": {
+      "sdist": [
+        "TMLsjeMpu7ciQWptsMuakvo3yrY1c6DOZ46JMJ+H4E0=",
+        "dallecli-0.4.0.tar.gz"
+      ],
+      "wheels": {
+        "dallecli-0.4.0-py2.py3-none-any.whl": [
+          "Eutjm1ESBr2u0kGD157+Ds28bu0ew988GRxFvVp4drQ=",
           "py2.py3"
         ]
       }
@@ -122254,14 +122278,22 @@
         ]
       }
     },
-    "6.4.8": {
+    "6.4.9": {
       "wheels": {
-        "quarkstudio-6.4.8-cp310-cp310-win_amd64.whl": [
-          "fJuqnj2DzCR/hAy24OiCNZTy3Nh4k9JPqYazSUG8PQg=",
+        "quarkstudio-6.4.9-cp310-cp310-manylinux1_x86_64.whl": [
+          "+nUBkSkupKNUgq604Sz0twdIheL4ye38eA7V7mbeycc=",
           "cp310"
         ],
-        "quarkstudio-6.4.8-cp311-cp311-win_amd64.whl": [
-          "gqMdtTcq4Dh31Xz28YprgGVw33ukcpNciZDtrBGTk/8=",
+        "quarkstudio-6.4.9-cp310-cp310-win_amd64.whl": [
+          "nhoudtH/BTaU7qWbbC1PvBnZMLL6ggpTQRVabVwfpOo=",
+          "cp310"
+        ],
+        "quarkstudio-6.4.9-cp311-cp311-manylinux1_x86_64.whl": [
+          "fs5RS78fQ4O54c0bRJI+xgeSyC5ffoDabA8oqDnf7I4=",
+          "cp311"
+        ],
+        "quarkstudio-6.4.9-cp311-cp311-win_amd64.whl": [
+          "n2VNePwwxSp0zrtNgDAzOtB0T/YqBsNJ97ESISi5AbE=",
           "cp311"
         ]
       }
@@ -129860,6 +129892,18 @@
       "wheels": {
         "scrape_up-0.1.1-py3-none-any.whl": [
           "tW13zBRhxWiGTGrvNE1sOZMgHfIK5QhV0A8ux6cjxUY=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.0": {
+      "sdist": [
+        "SAR3h/BwqoGK1qozqa8EZkfOI241hTRndYMC3BG8REQ=",
+        "scrape_up-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "scrape_up-1.0.0-py3-none-any.whl": [
+          "ee8CwA2wgjg0x4uhjbD1DfKB7ega8CwZz0cnEA/q/NE=",
           "py3"
         ]
       }

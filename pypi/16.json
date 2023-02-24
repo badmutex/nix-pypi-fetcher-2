@@ -35141,6 +35141,12 @@
         "L2EXVDAG2RdPwWMpBCUizAcy+RNPAGHJqeQmWGAg0vw=",
         "distributions_jks-1.0.tar.gz"
       ]
+    },
+    "1.0.1": {
+      "sdist": [
+        "LLfweod0GzpBbS/gzRh6ViUpp9X/D5xa/30TAvU0rAo=",
+        "distributions_jks-1.0.1.tar.gz"
+      ]
     }
   },
   "distributions-nisarg": {
@@ -39938,6 +39944,18 @@
       "wheels": {
         "doc_ufcn-0.1.9rc1-py3-none-any.whl": [
           "7J0zIwx+nq0+OnSKmzHqfkm5NHqUXVf05y88gmj6I+g=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.9rc2": {
+      "sdist": [
+        "jvO0BzFXB8uj07LaMi5CFgMLwQ+UdPauscxnJJ3ZyOE=",
+        "doc-ufcn-0.1.9rc2.tar.gz"
+      ],
+      "wheels": {
+        "doc_ufcn-0.1.9rc2-py3-none-any.whl": [
+          "dR6o4jED5wmYeziiqXdvqISklD9akqE1bnqQmctRRoI=",
           "py3"
         ]
       }
@@ -83535,6 +83553,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.1rc0": {
+      "sdist": [
+        "qzw6C4NaBJIidnlMtP9HcU7m5t3GolHdc3qysLCWTQ4=",
+        "neptune_client-1.0.1rc0.tar.gz"
+      ],
+      "wheels": {
+        "neptune_client-1.0.1rc0-py3-none-any.whl": [
+          "gtsJPqjG4KBa3oEj3HNbYDzrQZGBBp3euezEwX0T9P4=",
+          "py3"
+        ]
+      }
     }
   },
   "nereo-python-cas": {
@@ -93270,6 +93300,14 @@
       "wheels": {
         "ovos_plugin_common_play-0.0.4a10-py3-none-any.whl": [
           "y0LLfSuAvdw0Gbh9UyXDoCOvzdJig3f2T5nbq3+vGDc=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4a11": {
+      "wheels": {
+        "ovos_plugin_common_play-0.0.4a11-py3-none-any.whl": [
+          "4PpaBXNVP2hOCfojnRzrX164q7DyvaLobzGxjhujs6k=",
           "py3"
         ]
       }
@@ -120983,6 +121021,20 @@
         "scadat-0.4.8-py2-none-any.whl": [
           "uSfCF0p0CXTwfI3n1cfRqDLfP7PlMLTdOwfG7dAQfe0=",
           "2.7"
+        ]
+      }
+    }
+  },
+  "scampy": {
+    "1.0.3": {
+      "sdist": [
+        "uNLMI0l9XOmHWIdEYxyUx48O1Dgqumh0EdHbKydk67U=",
+        "scampy-1.0.3.tar.gz"
+      ],
+      "wheels": {
+        "scampy-1.0.3-py3-none-any.whl": [
+          "2hA/eEmjVn1wzmjbffTXPAZRxQWQYk4C8moDEwDhiSY=",
+          "py3"
         ]
       }
     }

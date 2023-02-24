@@ -12948,6 +12948,18 @@
         ]
       }
     },
+    "0.1.1b20230224": {
+      "sdist": [
+        "8oDEMzTaR3r4pNNnH2U9S4Z/a2ZhHb3x5A1r+/JXCqw=",
+        "autogluon.cloud-0.1.1b20230224.tar.gz"
+      ],
+      "wheels": {
+        "autogluon.cloud-0.1.1b20230224-py3-none-any.whl": [
+          "05FILyTwWhqaHh1s4zQahvLrinAAabNyiZmmcBICuPU=",
+          "py3"
+        ]
+      }
+    },
     "0.1b20221229": {
       "sdist": [
         "ETK2odII4rOCP1WhQsFyJ+5WWkhOgItWPTKq6uCY2WM=",
@@ -14007,6 +14019,20 @@
           "py3"
         ]
       }
+    }
+  },
+  "aws-ossm": {
+    "0.1.0": {
+      "sdist": [
+        "AAPSGVD3qpIe9vX51PaA3ggdri8jynHzwFb6rytp8nw=",
+        "aws-ossm-0.1.0.tar.gz"
+      ]
+    },
+    "1.0.0": {
+      "sdist": [
+        "z32sUxAEM0dbxy1FRCaQc++6px6Vo2V4KHUZeNCYqGA=",
+        "aws-ossm-1.0.0.tar.gz"
+      ]
     }
   },
   "aws-solutions-konstruk.aws-dynamodb-stream-lambda": {
@@ -46250,6 +46276,22 @@
       "wheels": {
         "finetuner_stubs-0.12.6-py3-none-any.whl": [
           "yKeGb/hI13M4vzzA0dMBxsAnqDMxqBXkMENQ4an8yLs=",
+          "py3"
+        ]
+      }
+    },
+    "0.12.7rc1": {
+      "wheels": {
+        "finetuner_stubs-0.12.7rc1-py3-none-any.whl": [
+          "GrFjK4cO9uvIaLo5FDZKtD+loH37+leIcDrkW+rk+ok=",
+          "py3"
+        ]
+      }
+    },
+    "0.12.7rc2": {
+      "wheels": {
+        "finetuner_stubs-0.12.7rc2-py3-none-any.whl": [
+          "IHBwSUbDs25nSGIroMQLlL337OgtC9hiyGyiAO1fR+s=",
           "py3"
         ]
       }
@@ -105184,6 +105226,18 @@
       "wheels": {
         "polywrap_plugin-0.1.0a3-py3-none-any.whl": [
           "S16TIhuVbG5B2GIwJ3JDA3duVjELK9WOCORvHplSFaQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.0a4": {
+      "sdist": [
+        "8MnkZZqS9tkYjcGOHIIFSQ/JvEtmzHNtz0qOadThWuI=",
+        "polywrap_plugin-0.1.0a4.tar.gz"
+      ],
+      "wheels": {
+        "polywrap_plugin-0.1.0a4-py3-none-any.whl": [
+          "fcHlQD1+jZr3XnoOmMU2vy5bgs92MyObPQvnIKfQE84=",
           "py3"
         ]
       }

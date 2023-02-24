@@ -82330,26 +82330,26 @@
     }
   },
   "mecord-cli": {
-    "0.0.1": {
+    "0.0.3": {
       "sdist": [
-        "AuBnBJwVrTZ0wK/yPbPNOUPfl0nElwNbz6RTTXz23II=",
-        "mecord-cli-0.0.1.tar.gz"
+        "Jll4QvQkN6V20TmyewhNUsuKJHRvQy9VGZzSxvG9q3o=",
+        "mecord-cli-0.0.3.tar.gz"
       ],
       "wheels": {
-        "mecord_cli-0.0.1-py3-none-any.whl": [
-          "5e9C2VzImpMwZt5LcYF7lS07oe3z0JEWsBvb/douwzw=",
+        "mecord_cli-0.0.3-py3-none-any.whl": [
+          "S8cyd+i+VGHoP+byDSG4VH2WIxCwnzlpQ/dVWb/56l0=",
           "py3"
         ]
       }
     },
-    "0.0.2": {
+    "0.0.4": {
       "sdist": [
-        "kF9vAC5VyqbUGB+9ysvEWRpGrIOeFiI9yYTs9rV4iio=",
-        "mecord-cli-0.0.2.tar.gz"
+        "Rt3v8DK9h8YZobHDJMsF4/LC756+l6cTx967A4cIweY=",
+        "mecord-cli-0.0.4.tar.gz"
       ],
       "wheels": {
-        "mecord_cli-0.0.2-py3-none-any.whl": [
-          "gU9yYYW9B3AsHsIYkkKTu8g38zKTms8zL65HSJCbagk=",
+        "mecord_cli-0.0.4-py3-none-any.whl": [
+          "pblm0raTofac8yG6PZg3xIRfxdKwIDv9qcUl/4pEmL8=",
           "py3"
         ]
       }
@@ -93191,6 +93191,14 @@
           "py2.py3"
         ]
       }
+    },
+    "1.1.8b20230224": {
+      "wheels": {
+        "multi_model_server-1.1.8b20230224-py2.py3-none-any.whl": [
+          "GjaUQtS5rJXFnHjZ2DJNiJSV2Jg+Sw86bFnbV+tSOFg=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "multiple-permissions": {
@@ -100806,6 +100814,22 @@
       "wheels": {
         "odoo12_addon_cooperator-12.0.6.4.0.99.dev2-py3-none-any.whl": [
           "y+sLi/JVW/XbsyTYDs6VbJX5CL+mTkB2KPYgVscOyg0=",
+          "py3"
+        ]
+      }
+    },
+    "12.0.6.4.1": {
+      "wheels": {
+        "odoo12_addon_cooperator-12.0.6.4.1-py3-none-any.whl": [
+          "RWP1GfEzvocS3+gufHhClZxAa9XtIO6h3yGNXMKCSUw=",
+          "py3"
+        ]
+      }
+    },
+    "12.0.6.4.2": {
+      "wheels": {
+        "odoo12_addon_cooperator-12.0.6.4.2-py3-none-any.whl": [
+          "b11/Epb09RJF7XokPpmw/EOHDTzRloEPINMQYM8O7WA=",
           "py3"
         ]
       }
@@ -123308,6 +123332,50 @@
         ],
         "pySPlisHSPlasH-2.12.1-cp39-cp39-win_amd64.whl": [
           "ZHAtxqGq8WghioqFVEVZjMRohWjj3pHdJ2uz7AX7mtc=",
+          "cp39"
+        ]
+      }
+    },
+    "2.12.2": {
+      "wheels": {
+        "pySPlisHSPlasH-2.12.2-cp310-cp310-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "dIlVXjyJkeTlB+C/jbiQMpVE+NFcBvSZ5gR3ccsyqbw=",
+          "cp310"
+        ],
+        "pySPlisHSPlasH-2.12.2-cp310-cp310-win_amd64.whl": [
+          "ndAKFcVd15uZWKP7rvgBfCp3Ks9vch060K0mUMh6NLg=",
+          "cp310"
+        ],
+        "pySPlisHSPlasH-2.12.2-cp36-cp36m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "mXm8Cxd7Re1zEusmTQgkaO+8HtVQbgPHczsglSbEoiA=",
+          "cp36"
+        ],
+        "pySPlisHSPlasH-2.12.2-cp36-cp36m-win_amd64.whl": [
+          "xCqLm9FjDb13O+8Xk34D9ync0EcFpwHgigidmnU5uk8=",
+          "cp36"
+        ],
+        "pySPlisHSPlasH-2.12.2-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "EF0df+B5vGgu/nDSdLHWU/Kc++vUXDgEvvLtrvHHxBM=",
+          "cp37"
+        ],
+        "pySPlisHSPlasH-2.12.2-cp37-cp37m-win_amd64.whl": [
+          "DHunkzzhkkhqScOvorxu3sk/GVOyAcfIlYob0+/V6/Q=",
+          "cp37"
+        ],
+        "pySPlisHSPlasH-2.12.2-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "2MhyEviUssKh3oPyiNmFsac8ecg80Xc/8hnv1QWt+Eg=",
+          "cp38"
+        ],
+        "pySPlisHSPlasH-2.12.2-cp38-cp38-win_amd64.whl": [
+          "UFJIxVGfHH2UW2dswUzfBxuyndIAg5y65UHCvUnf2a8=",
+          "cp38"
+        ],
+        "pySPlisHSPlasH-2.12.2-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "5tYjeju8B7Zw+ielE60hT8u9yTf1Sd9p9Qz64CMrSAU=",
+          "cp39"
+        ],
+        "pySPlisHSPlasH-2.12.2-cp39-cp39-win_amd64.whl": [
+          "Z32lUr1bLFs1RbvryW02aGX+xR9nofYosFpL8umimYM=",
           "cp39"
         ]
       }
@@ -148809,6 +148877,30 @@
           "py3"
         ]
       }
+    },
+    "0.2.3": {
+      "sdist": [
+        "zBE/JoHwvXm0XusRSBfb133meGAI6hSY3PD/5zSR6u4=",
+        "translatesubs-0.2.3.tar.gz"
+      ],
+      "wheels": {
+        "translatesubs-0.2.3-py3-none-any.whl": [
+          "JBSkFThFEES3It+El4M/JJpIkcfqmzu7oGuoHPwZEXA=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.4": {
+      "sdist": [
+        "k3Mjj2MK4ZKXyMIQ2vBBc88BSWbW8oZBpdWB28BdFVY=",
+        "translatesubs-0.2.4.tar.gz"
+      ],
+      "wheels": {
+        "translatesubs-0.2.4-py3-none-any.whl": [
+          "hlyAb144baz5T6JSUpDSssVV8M+3DC6AmegNWr0F0DM=",
+          "py3"
+        ]
+      }
     }
   },
   "trianglechain": {
@@ -159814,6 +159906,16 @@
       "wheels": {
         "yourtube-0.7.0-py3-none-any.whl": [
           "98W3K5CYpI4nXSBAnf6obgS55Gf25/3ycMYNp1m2z9Q=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "youtube-api2": {
+    "0.1": {
+      "wheels": {
+        "youtube_api2-0.1-py3-none-any.whl": [
+          "C5uIsQvCugaotrQzHEBz4uCtU+K4ioSCzhVRjeHNWvk=",
           "py3"
         ]
       }

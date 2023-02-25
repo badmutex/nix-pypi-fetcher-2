@@ -4036,6 +4036,10 @@
     },
     "2.8.0": {
       "wheels": {
+        "anyon-2.8.0-cp310-cp310-macosx_10_9_universal2.whl": [
+          "ki7J88NLbWjjbrzfVYewV14slNdRiAHDuEtlPPVhjBY=",
+          "cp310"
+        ],
         "anyon-2.8.0-cp310-cp310-manylinux1_x86_64.whl": [
           "uakbpr8z21Rk10oZ9tubBR5Bas31opeX/Y0qgPWQzlQ=",
           "cp310"
@@ -4043,6 +4047,10 @@
         "anyon-2.8.0-cp310-cp310-win_amd64.whl": [
           "QeFUGmjQnd4gzVFdeALdpaU5WMt40aK/6go1TRfPDrA=",
           "cp310"
+        ],
+        "anyon-2.8.0-cp311-cp311-macosx_10_9_universal2.whl": [
+          "WXX64rj7AltdIpHEAojGuyPUZ7boSz/QKnx+JIpJwF8=",
+          "cp311"
         ],
         "anyon-2.8.0-cp311-cp311-manylinux1_x86_64.whl": [
           "CQ14o+rlEBVnfkcfFP4RfJzJl4bmQaGb9xJwEdZJsOc=",
@@ -10896,6 +10904,18 @@
       "wheels": {
         "botocore_a_la_carte_firehose-1.29.78-py3-none-any.whl": [
           "RFP/KvktvL+M4IN9i9e8hcT/727KnftSKd2AIVNFXGU=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.79": {
+      "sdist": [
+        "04TL4ijEHtrAAwC+ffWvlhVLeYkCm6ihopB2p723UKg=",
+        "botocore-a-la-carte-firehose-1.29.79.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_firehose-1.29.79-py3-none-any.whl": [
+          "cvjW6KLuLxeGYXJbzuctIgZDnUD41c3MffbtFn0k6gM=",
           "py3"
         ]
       }
@@ -39107,6 +39127,14 @@
           "py3"
         ]
       }
+    },
+    "1.0.1": {
+      "wheels": {
+        "fds.sdk.FactSetESG-1.0.1-py3-none-any.whl": [
+          "jGfMBFxJBe6nLRQSEp/OoT1xtnvWo9tFryJMPwBh3Ok=",
+          "py3"
+        ]
+      }
     }
   },
   "feacher": {
@@ -57994,6 +58022,18 @@
       "wheels": {
         "jupyter_compare_view-0.2.0-py3-none-any.whl": [
           "4GztfQYvt66k2RePxTGO/cQELmnYrvcBL3Dp3YtC+oo=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.1": {
+      "sdist": [
+        "LJMjtBfLqye+KnMeyvZ94z9GU2ZfpWe+78bZ5whJSEk=",
+        "jupyter_compare_view-0.2.1.tar.gz"
+      ],
+      "wheels": {
+        "jupyter_compare_view-0.2.1-py3-none-any.whl": [
+          "PX4vz3L5cu9ZsrCn8uYpSvpk6JxSKlrffWR1JWcqMGw=",
           "py3"
         ]
       }
@@ -101294,6 +101334,18 @@
       "wheels": {
         "plom-0.13.0-py3-none-any.whl": [
           "2Q3OnDDdZz9vm61C+508Wk/6StbZRpnrWGoqzOkw9uw=",
+          "py3"
+        ]
+      }
+    },
+    "0.13.1": {
+      "sdist": [
+        "UCiDSLLDqvmtFYWXbPey/cYmWWE7SGP7IbJOmPk7Ky4=",
+        "plom-0.13.1.tar.gz"
+      ],
+      "wheels": {
+        "plom-0.13.1-py3-none-any.whl": [
+          "5g0lZvlVFcbmqgzEs6cGIT/7GbXT8ruUohJ0NftF+Bs=",
           "py3"
         ]
       }

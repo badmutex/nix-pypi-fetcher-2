@@ -26184,6 +26184,12 @@
         "colossalai-nightly-2023.1.9.tar.gz"
       ]
     },
+    "2023.2.25": {
+      "sdist": [
+        "qVtE9hJeop6+DdHkYPf/EDGBvLciDwHVFs3LHNw09xQ=",
+        "colossalai-nightly-2023.2.25.tar.gz"
+      ]
+    },
     "2023.2.4": {
       "sdist": [
         "qIhFzq/ox5NxwyOdhLO85g0xh6qMDRE0qMypzjpXtok=",
@@ -34657,6 +34663,18 @@
         "QCczCVdGbRSk9pLmtJlxfnQ789hHf0dNCjzy0xyBeK8=",
         "dict2xml-1.7.2.tar.gz"
       ]
+    },
+    "1.7.3": {
+      "sdist": [
+        "AqXBmND+zf61JkTp2QUgCjbAMeEcIBNi19IX32hLwV0=",
+        "dict2xml-1.7.3.tar.gz"
+      ],
+      "wheels": {
+        "dict2xml-1.7.3-py3-none-any.whl": [
+          "+EnhrsJ3+T0IdIJGG2uK/d5h3zRpGCmKykxCvPmJX20=",
+          "py3"
+        ]
+      }
     }
   },
   "dictum-backend-vertica": {
@@ -40916,6 +40934,14 @@
       "wheels": {
         "e2eAIOK_denas-1.0.1b2023022105-py3-none-any.whl": [
           "oqhbN6pAQVbQUnN/TiRDf3nYnJOdf9oBkuiG5jcjuBA=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.1b2023022500": {
+      "wheels": {
+        "e2eAIOK_denas-1.0.1b2023022500-py3-none-any.whl": [
+          "5SW6/QioWknN62Pp4tYJKiFgYt6D2lqvSmZfYfjGrfI=",
           "py3"
         ]
       }
@@ -58290,6 +58316,38 @@
         ],
         "histomicstk-1.2.5.dev2-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "7aYOTvK9NyK3sCDMeQcIpdPUp2xxkKyZeaLdFj5swxg=",
+          "cp39"
+        ]
+      }
+    },
+    "1.2.5.dev3": {
+      "sdist": [
+        "LR1RhCr7cOlNkKgFEsD0blajb1EdS3WB2mVTFRmGd6k=",
+        "histomicstk-1.2.5.dev3.tar.gz"
+      ],
+      "wheels": {
+        "histomicstk-1.2.5.dev3-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "GIcjSqe+EeIP/V3j9Uundh4XnVj58+IYLiF0sXdSGpk=",
+          "cp310"
+        ],
+        "histomicstk-1.2.5.dev3-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "6y1TGciW1VPW3A7eNV9I8T0aoApS1P/AYZRWxuuiAlw=",
+          "cp311"
+        ],
+        "histomicstk-1.2.5.dev3-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "bcM7+phj67i24Lgz/89kT258QZpYvh7iez946c2p90g=",
+          "cp36"
+        ],
+        "histomicstk-1.2.5.dev3-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "BWbjwVTVcNpdQJzoWf2Axj9w2/6OU7kYtlj8YmdLe8M=",
+          "cp37"
+        ],
+        "histomicstk-1.2.5.dev3-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "nZE/yzNtuomGxkoCiwp+ceppBDhmU7H/+2S6X7zElyY=",
+          "cp38"
+        ],
+        "histomicstk-1.2.5.dev3-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "NQUjkQrTlLOJHPcKYXM3awIp7f0sF+rQN3kGdCSI+sg=",
           "cp39"
         ]
       }
@@ -82682,6 +82740,14 @@
       "wheels": {
         "nmc_met_base-0.1.5.0-py3-none-any.whl": [
           "HaB5qG6azEfA1v6yS3IBraLlEa3HM986jO84ChXldeE=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.5.1": {
+      "wheels": {
+        "nmc_met_base-0.1.5.1-py3-none-any.whl": [
+          "Y4Beg9bfm2O+IY4wZaChq3ElNgQyogV4UxuOJLbpawU=",
           "py3"
         ]
       }

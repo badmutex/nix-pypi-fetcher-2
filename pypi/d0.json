@@ -16095,6 +16095,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.79": {
+      "sdist": [
+        "p1CApSiNOOIj2FDsGlwx+ow/djE/sZRazV9qFfoIi5Q=",
+        "botocore-a-la-carte-chime-sdk-voice-1.29.79.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_chime_sdk_voice-1.29.79-py3-none-any.whl": [
+          "5SpcssolC9pOeMlnBTAYuK5KO28Z68wYxlsc7vjUsLU=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-mwaa": {
@@ -16538,6 +16550,18 @@
       "wheels": {
         "botocore_a_la_carte_mwaa-1.29.78-py3-none-any.whl": [
           "s1sFpwodQf0Tg8ZJtTWVmIzIxM63lr6czYshudpBaAI=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.79": {
+      "sdist": [
+        "ZP4EzAJZ3HqjWHzjnADMU82/HH9CBIchrsG5WpM+1pg=",
+        "botocore-a-la-carte-mwaa-1.29.79.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_mwaa-1.29.79-py3-none-any.whl": [
+          "CYfcLy+H8iG2oH9DHmp2at770OOC7MOZeKDCzR32hF8=",
           "py3"
         ]
       }
@@ -19122,6 +19146,12 @@
       "sdist": [
         "agMxWw2vWstqiNk7vow6Wg/Kp+5+25gvKBfwr20Y2tY=",
         "bw2data-3.6.5.tar.gz"
+      ]
+    },
+    "3.6.6": {
+      "sdist": [
+        "POH3uSQvDap3YuT5hYivOs1bkhUwcTlXoe2rv9JXlFM=",
+        "bw2data-3.6.6.tar.gz"
       ]
     },
     "4.0.dev1": {
@@ -37729,6 +37759,14 @@
           "py3"
         ]
       }
+    },
+    "0.21.2": {
+      "wheels": {
+        "fds.sdk.ExchangeDataFeedSnapshotAPIEntireExchange-0.21.2-py3-none-any.whl": [
+          "Y4kBKByNWpI8EdG+dKl/wfU+TUI70Hfm+KKBUwJwAc4=",
+          "py3"
+        ]
+      }
     }
   },
   "fds.sdk.factsetownershipreportbuilder": {
@@ -37752,6 +37790,14 @@
       "wheels": {
         "fds.sdk.FactSetOwnershipReportBuilder-1.0.0-py3-none-any.whl": [
           "lH95ZFdOUOZkvdV55iHFAjFsOLUtL2ZZZMxPrYPj7y0=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.1": {
+      "wheels": {
+        "fds.sdk.FactSetOwnershipReportBuilder-1.0.1-py3-none-any.whl": [
+          "J73z1yHQl5odNZx3el36M+nea1vt+ZyMuz9uedfgwSU=",
           "py3"
         ]
       }
@@ -52726,6 +52772,18 @@
       "wheels": {
         "kartograf-0.0.2-py3-none-any.whl": [
           "qAUg+NWsnq2tKUuWF2Lo2CfzHudawVyvt2ouZlUEV78=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "repsPhwvt6Iz2hWzGoiYsPkTAW7SKtQgB/r1q4dJXIQ=",
+        "kartograf-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "kartograf-0.0.3-py3-none-any.whl": [
+          "+B+0xMoJ5fAReKeX7NUmeG+uIO8oDrfaEFGpT4AHyQ4=",
           "py3"
         ]
       }
@@ -68812,6 +68870,18 @@
       "wheels": {
         "np_services-0.1.32-py3-none-any.whl": [
           "T2l2NJr+kLqtViHeD1laSJjk79Bumvay98a9mnQVbrw=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.33": {
+      "sdist": [
+        "GBzkgfX9ziDj2jBHkU8TsjnKDE5qB1H1uvPAHwuK7vg=",
+        "np_services-0.1.33.tar.gz"
+      ],
+      "wheels": {
+        "np_services-0.1.33-py3-none-any.whl": [
+          "pCF+IunMSWFyxfGrVbBEJvkEkkLCXbqrM/DXeGkkwyw=",
           "py3"
         ]
       }
@@ -98370,10 +98440,10 @@
     }
   },
   "senstreamlib": {
-    "0.7": {
+    "1.0": {
       "sdist": [
-        "C+Ldfipi3fGU6X6tTiqKspUSh8UNZTdqoQ2I12Po4oo=",
-        "senstreamlib-0.7.tar.gz"
+        "8rF5kgZ5mt/elmpCf4sXGmysy/naDh0/c5buWDqxI+s=",
+        "senstreamlib-1.0.tar.gz"
       ]
     }
   },

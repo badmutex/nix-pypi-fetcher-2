@@ -430,6 +430,12 @@
         "abjad-ext-nauert-3.15.tar.gz"
       ]
     },
+    "3.16": {
+      "sdist": [
+        "VQJvLXnqGUwHvVxhYwksKg3kGu+vSziavThtGXaXRHo=",
+        "abjad-ext-nauert-3.16.tar.gz"
+      ]
+    },
     "3.2": {
       "sdist": [
         "CN4gdJE6aQAJp1KTfqMBTRgG/tvHrAeLtEuET9nkeeA=",
@@ -65293,6 +65299,20 @@
       ]
     }
   },
+  "mlflow-cortex": {
+    "1.0.0": {
+      "sdist": [
+        "zFWnsZj07JCw6v9/7KFqDE+Eb7W25U5U2/r/+eONMhI=",
+        "mlflow_cortex-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "mlflow_cortex-1.0.0-py3-none-any.whl": [
+          "txbqnGvMMbphdrWsmUlUAzilA17N135S7O7M8yXU8y4=",
+          "py3"
+        ]
+      }
+    }
+  },
   "mock-idp": {
     "0.1.0": {
       "wheels": {
@@ -78488,6 +78508,14 @@
       "wheels": {
         "neuronsphere-1.0.11-py3-none-any.whl": [
           "xCH/qTX4n8V03YEOR0CgZj1iBRGoK/+Hlxy5/111Uqg=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.17": {
+      "wheels": {
+        "neuronsphere-1.0.17-py3-none-any.whl": [
+          "yT+onKSwgcveTZ08Hfi4Py7+wWruK0tPThElTg+dMNA=",
           "py3"
         ]
       }
@@ -117079,6 +117107,14 @@
           "py3"
         ]
       }
+    },
+    "0.1.5": {
+      "wheels": {
+        "rtdip_sdk-0.1.5-py3-none-any.whl": [
+          "TOZn9a1YShl+xaXGu5lyYnKWhKsI22e+V0k12cNHEps=",
+          "py3"
+        ]
+      }
     }
   },
   "rtfraptor": {
@@ -118524,6 +118560,18 @@
       "wheels": {
         "scikit_ntk-1.1.2-py3-none-any.whl": [
           "VJAUUxi+8z3Pq0MzVvnXpwIdbOydcHblD+7PDzo+YjM=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.3": {
+      "sdist": [
+        "9vo7WyasCNXxD1Ywi0Yl62u3awNQogU2ExdJ/NbjTg4=",
+        "scikit_ntk-1.1.3.tar.gz"
+      ],
+      "wheels": {
+        "scikit_ntk-1.1.3-py3-none-any.whl": [
+          "LRClggJlDl0KmVFQu0EQqjtgg6nAqRJvzbYumoYBC5I=",
           "py3"
         ]
       }

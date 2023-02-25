@@ -94133,6 +94133,16 @@
       }
     }
   },
+  "odoo-addon-partner-country-lang": {
+    "15.0.1.0.0.2": {
+      "wheels": {
+        "odoo_addon_partner_country_lang-15.0.1.0.0.2-py3-none-any.whl": [
+          "i4stF+fhjjBrDGuyPm2mADq9a+uILISoCIiJMS0LAbw=",
+          "py3"
+        ]
+      }
+    }
+  },
   "odoo-addon-product-manufacturer": {
     "15.0.1.0.1": {
       "wheels": {
@@ -98626,6 +98636,26 @@
         ],
         "opencv_contrib_python_headless_rolling-4.7.0.68-cp37-abi3-win_amd64.whl": [
           "Fr7xMtMVaP2RUoHH0lY0kKlRww31Z71NiwcHmp5z8ys=",
+          "cp37"
+        ]
+      }
+    },
+    "4.7.0.72": {
+      "wheels": {
+        "opencv_contrib_python_headless_rolling-4.7.0.72-cp37-abi3-macosx_10_16_x86_64.whl": [
+          "V8Jr5YJjltj4a2qVyr6F8Bn2JCYaGp/FcGsuX9xvhQM=",
+          "cp37"
+        ],
+        "opencv_contrib_python_headless_rolling-4.7.0.72-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "RbxeWsyMSbc2mboDvjKXSDHphUkaooN62qCM+Ps9U7E=",
+          "cp37"
+        ],
+        "opencv_contrib_python_headless_rolling-4.7.0.72-cp37-abi3-win32.whl": [
+          "HZliNbRzYSrsDPgsmpDBdAW9EbgqZdIshpUxaeu25zY=",
+          "cp37"
+        ],
+        "opencv_contrib_python_headless_rolling-4.7.0.72-cp37-abi3-win_amd64.whl": [
+          "jxRJufqr+9jHHIT4I9lOOdQQ20Bi1jg0NoWjw5k334E=",
           "cp37"
         ]
       }
@@ -103188,6 +103218,18 @@
       "wheels": {
         "phronesitron-0.1.7-py2.py3-none-any.whl": [
           "W5gUg3McO0nfBd8rtJpOQEaAzezV8zpqvDIygqCECP4=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.1.8": {
+      "sdist": [
+        "6RhbIlw80FqF9cfgWU2zwCMZTqEmSnZ8QvVvceZGoGw=",
+        "phronesitron-0.1.8.tar.gz"
+      ],
+      "wheels": {
+        "phronesitron-0.1.8-py2.py3-none-any.whl": [
+          "j8McdzdXyj0CZdp9JQXSIcJnu8jlThQdkjbhXthZLek=",
           "py2.py3"
         ]
       }

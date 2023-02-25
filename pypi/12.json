@@ -17023,6 +17023,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.79": {
+      "sdist": [
+        "IkKBW1uNd9HMCSnjtsKXsFWewmBvMRV9lJrALQwTCkI=",
+        "botocore-a-la-carte-lexv2-runtime-1.29.79.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_lexv2_runtime-1.29.79-py3-none-any.whl": [
+          "YwnV4xRGgXGR/T36Wh9xu7KTDBY3rO1ABUqXtGxJQjk=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-refreshable-credentials": {
@@ -23628,6 +23640,20 @@
       "sdist": [
         "cQATRGjNBjBMIQUDsVN4rNwXFPgQwky8qTa2uc3lZas=",
         "crackqcli-0.4.1.tar.gz"
+      ]
+    }
+  },
+  "craftproof": {
+    "1.41": {
+      "sdist": [
+        "IYHlv1x0H16fSToZHt5b+yNHV5Q0SdhaCPlXszVb47E=",
+        "craftproof-1.41.tar.gz"
+      ]
+    },
+    "6.75": {
+      "sdist": [
+        "QjvvAQ3XDFl8MPo8CZ03GGdJAg++/tzvsZPvUsWpeVo=",
+        "craftproof-6.75.tar.gz"
       ]
     }
   },
@@ -35757,6 +35783,26 @@
       }
     }
   },
+  "dtnf31": {
+    "0.1.0": {
+      "sdist": [
+        "SIhwNFjI7iZWNrh4+XGU+mBrJdOlO0i9ecA10iMSSg4=",
+        "DTNF31-0.1.0.tar.gz"
+      ]
+    },
+    "0.1.1": {
+      "sdist": [
+        "ptmUl5y7PGjHC2nWUf3umark2MX4VigqSXS7BTg5ecc=",
+        "DTNF31-0.1.1.tar.gz"
+      ]
+    },
+    "0.1.2": {
+      "sdist": [
+        "8SiS3/OWXXlDrNCUJFQDNUF08xJflfnnqoUx6uwUTMY=",
+        "DTNF31-0.1.2.tar.gz"
+      ]
+    }
+  },
   "dtype-filters": {
     "0.0.1": {
       "wheels": {
@@ -42032,6 +42078,14 @@
       "wheels": {
         "fds.sdk.FactSetTermsandConditions-1.0.0-py3-none-any.whl": [
           "gc6pKdbfdkqabjYMW1OvPUlvEQ95uWMrdIEvciFX7EY=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.1": {
+      "wheels": {
+        "fds.sdk.FactSetTermsandConditions-1.0.1-py3-none-any.whl": [
+          "7Yomf2Ojunvk4mvW3rhIpLd/Qb8/zaeqnVc+icPwxgo=",
           "py3"
         ]
       }
@@ -66758,26 +66812,14 @@
     }
   },
   "lunation": {
-    "0.0.1": {
+    "0.0.3": {
       "sdist": [
-        "L2Djp8zvEPnN9w63JFN1weNL3W68moDUW0A36nOWT3I=",
-        "lunation-0.0.1.tar.gz"
+        "nm/+lk2PGcAhpWNy1eEdGIc1fPZw+dWvh32LcZjAr/A=",
+        "lunation-0.0.3.tar.gz"
       ],
       "wheels": {
-        "lunation-0.0.1-py3-none-any.whl": [
-          "V4uWObVL6ZXzZkmQ4rNdA/UVWOb0u24Mrlpu1kqVA7s=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.2": {
-      "sdist": [
-        "/4D3w0FnjySFB3fJo4/LPzpq2VnMN25QZcj3gfR3mIk=",
-        "lunation-0.0.2.tar.gz"
-      ],
-      "wheels": {
-        "lunation-0.0.2-py3-none-any.whl": [
-          "It0YjDDsJt3sC8hKqVTfriV/WjQ2fMzj3WxS+RoT+Ks=",
+        "lunation-0.0.3-py3-none-any.whl": [
+          "OiQVOcbSCuE017+gRkPaUMF5yBms/WylQoELF5Jv/HA=",
           "py3"
         ]
       }
@@ -69906,6 +69948,78 @@
       "wheels": {
         "mjzy-0.3.3-py3-none-any.whl": [
           "1Fj+bEIUuX0KoEu/GxDjJLY21cKPL/P852CzQj/8RTk=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.4": {
+      "sdist": [
+        "L1KMgTx8rUZ6GaeEfxhXP+emlubuSseo6+LMpkw50XY=",
+        "mjzy-0.3.4.tar.gz"
+      ],
+      "wheels": {
+        "mjzy-0.3.4-py3-none-any.whl": [
+          "cAVPY0/8yByqYHKjg9LZCSRNoY39vhKep+xSt82kjqI=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.5": {
+      "sdist": [
+        "FhHF+ji7Cir4wskFWY+MRli+4NYhqI2IcA4b5A45lC4=",
+        "mjzy-0.3.5.tar.gz"
+      ],
+      "wheels": {
+        "mjzy-0.3.5-py3-none-any.whl": [
+          "ISESyn67Kw1WgEsyMFADax7MkaQZ4CBVHwmKMgcdEz0=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.6": {
+      "sdist": [
+        "LdXAs1KzpqqPrZsQE0QbHKdbRhy10WZxT/6RGPPlBzw=",
+        "mjzy-0.3.6.tar.gz"
+      ],
+      "wheels": {
+        "mjzy-0.3.6-py3-none-any.whl": [
+          "iXqKc1/oNFaVzmToO9XdWv+HFHIsXOvV0+8yTmFCpjU=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.7": {
+      "sdist": [
+        "bQCAqQSizTJLCaUG6HH5wu1O4hgd36E8hdupiTh5bHM=",
+        "mjzy-0.3.7.tar.gz"
+      ],
+      "wheels": {
+        "mjzy-0.3.7-py3-none-any.whl": [
+          "sof7a4wvB2INnWH1+2ZVSUbvxbpeF/G1atDNSTmZ84o=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.8": {
+      "sdist": [
+        "YaZUUpfxhffeQtKDMP+5s3n6SbZp9/7qcGZK16tirT8=",
+        "mjzy-0.3.8.tar.gz"
+      ],
+      "wheels": {
+        "mjzy-0.3.8-py3-none-any.whl": [
+          "5FhmRHNDdK1AUAb3D9vd/eIdSLnPUCggX/nm4HFulSQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.9": {
+      "sdist": [
+        "e/wbWlBIWNrVdtxVW5XQMtv2Z8KRbC2h5E1q8NDmVhE=",
+        "mjzy-0.3.9.tar.gz"
+      ],
+      "wheels": {
+        "mjzy-0.3.9-py3-none-any.whl": [
+          "fEf5zIa/+agLeMH78qi2Zw3ROv6wKtIQ5v4KFEOSG9k=",
           "py3"
         ]
       }
@@ -95004,6 +95118,18 @@
         ]
       }
     },
+    "0.0.11": {
+      "sdist": [
+        "LaTMF1pNbXsbqp/LMT9NTWHYYfNr1Su15AB+UXBwAzw=",
+        "probed-0.0.11.tar.gz"
+      ],
+      "wheels": {
+        "probed-0.0.11-py3-none-any.whl": [
+          "O7PG2do3Esv/ylY0DtY3oBYZ+lPXSIf5CzmtpaNtFsk=",
+          "py3"
+        ]
+      }
+    },
     "0.0.2": {
       "sdist": [
         "81wOATjPCKz52C8/xcgB7GpqIxdsYH0uHhYqKhX/HlM=",
@@ -104208,6 +104334,12 @@
       "sdist": [
         "srbwi0kLXSuU3MrML1Cab19sN/Nb+Yv37rEwND0NYok=",
         "pypacker-5.1.tar.gz"
+      ]
+    },
+    "5.3": {
+      "sdist": [
+        "/Hx0p9bbp9/W++b0sV8suwwiNG/1ck/w2ikk6jeFAns=",
+        "pypacker-5.3.tar.gz"
       ]
     }
   },

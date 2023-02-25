@@ -20443,6 +20443,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.2": {
+      "sdist": [
+        "atEEEUCaq84Ipf5t46ufEjRk6hCZ2JdzlpllTGFPzNg=",
+        "citation_docket-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "citation_docket-0.1.2-py3-none-any.whl": [
+          "1Gop+AEQNFIog9TOKccFHJVxB/56fmvQDvDiVvrkwHA=",
+          "py3"
+        ]
+      }
     }
   },
   "cjmls": {
@@ -23992,6 +24004,18 @@
       "wheels": {
         "construct_gallery-1.0.0.post2-py3-none-any.whl": [
           "KLSjUoH8Y14NPSijwn/Po2tpm1DuBCALlwoVIGjHpDE=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.0.post3": {
+      "sdist": [
+        "3wXIrBbdeNYFfffzzRnPso90aLD4/12ASLxHwrJEeiE=",
+        "construct-gallery-1.0.0.post3.tar.gz"
+      ],
+      "wheels": {
+        "construct_gallery-1.0.0.post3-py3-none-any.whl": [
+          "FhV5AObiM60cDG2CTVRQBIPkhg3vBddksaCApQ+KZ64=",
           "py3"
         ]
       }
@@ -84807,6 +84831,14 @@
           "py3"
         ]
       }
+    },
+    "15.0.1.0.0.5": {
+      "wheels": {
+        "odoo_addon_hr_holidays_natural_period-15.0.1.0.0.5-py3-none-any.whl": [
+          "NF9SJSVoY3ilgq0XOldiRN0BSqqlX+Hdrt2jdU9sl38=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo-addon-sale-coupon-limit": {
@@ -97534,6 +97566,14 @@
       "sdist": [
         "1WwbzImZZQB4qEhjHvwNrvtCMIqvNQWLwFymiknq1Ak=",
         "pxolly-1.0.3.tar.gz"
+      ]
+    }
+  },
+  "py-encoderam": {
+    "9.12": {
+      "sdist": [
+        "GGvXvBR4x1VC4rqiEUrdO1jEAiVYX82xBHZwcXDzctg=",
+        "py-encoderam-9.12.tar.gz"
       ]
     }
   },
@@ -112969,6 +113009,14 @@
       }
     }
   },
+  "randtool": {
+    "1.7": {
+      "sdist": [
+        "jrN2xzcrUE2rhUjKp3ircp4Tc1JBlIuOprL+jqL0jl8=",
+        "randtool-1.7.tar.gz"
+      ]
+    }
+  },
   "raptus.article.hidecolumns": {
     "2.0b3": {
       "sdist": [
@@ -117881,6 +117929,74 @@
           "cp39"
         ]
       }
+    },
+    "2023.4.2.0": {
+      "sdist": [
+        "TU4lnRwGXpIoR/FPclT+0gzoTSyc/GEQtH1I2tjUeJQ=",
+        "robotpy-cscore-2023.4.2.0.tar.gz"
+      ],
+      "wheels": {
+        "robotpy_cscore-2023.4.2.0-cp310-cp310-macosx_10_16_x86_64.whl": [
+          "wYU22ZjZNGN+rP4/XrX77Pspzro/eC810xFt2vl0qnU=",
+          "cp310"
+        ],
+        "robotpy_cscore-2023.4.2.0-cp310-cp310-manylinux_2_35_x86_64.whl": [
+          "92XlTO7t78OUMmgpZD0kX/jYkPjj/McVbyS0k8jcn14=",
+          "cp310"
+        ],
+        "robotpy_cscore-2023.4.2.0-cp310-cp310-win_amd64.whl": [
+          "KIFQLzG3eFAWxZXu9eNvpZlgWppVkNP+HtHHWanCe2s=",
+          "cp310"
+        ],
+        "robotpy_cscore-2023.4.2.0-cp311-cp311-macosx_11_0_universal2.whl": [
+          "6LEQsRZFFhvnLFdmX4GE0zorr1FSEzVJDCWPnMgFiE4=",
+          "cp311"
+        ],
+        "robotpy_cscore-2023.4.2.0-cp311-cp311-manylinux_2_35_x86_64.whl": [
+          "aDOfMwSkY0rGofR/cmO4aV7U9E2dKwAF8sNNCl1KL50=",
+          "cp311"
+        ],
+        "robotpy_cscore-2023.4.2.0-cp311-cp311-win_amd64.whl": [
+          "kBdZSgvdcWD5JNotcgZwhwVXNEdUHBPRSwfwt4AzquU=",
+          "cp311"
+        ],
+        "robotpy_cscore-2023.4.2.0-cp37-cp37m-macosx_10_16_x86_64.whl": [
+          "OtBJJY8NEI71jMiYkaNu/MPIZXlrsYw3ELwhhV8hp1E=",
+          "cp37"
+        ],
+        "robotpy_cscore-2023.4.2.0-cp37-cp37m-manylinux_2_35_x86_64.whl": [
+          "Pbiu6n54Hm+Z29aOhtp+JdfJv7578VEn22CTja6y4uM=",
+          "cp37"
+        ],
+        "robotpy_cscore-2023.4.2.0-cp37-cp37m-win_amd64.whl": [
+          "bveq+jwDtkCndHVbWIwe81tJs72nLe5tgkUr4mFiPGM=",
+          "cp37"
+        ],
+        "robotpy_cscore-2023.4.2.0-cp38-cp38-macosx_10_16_x86_64.whl": [
+          "z7MFGQCJH/I7/jHRptiP9OMpIo/Hc/5G+B5ZGOGJ6P4=",
+          "cp38"
+        ],
+        "robotpy_cscore-2023.4.2.0-cp38-cp38-manylinux_2_35_x86_64.whl": [
+          "hzs+CB7YUbhOgHcOCj5okOoNeq+RrMG90noqT0EtuMQ=",
+          "cp38"
+        ],
+        "robotpy_cscore-2023.4.2.0-cp38-cp38-win_amd64.whl": [
+          "1DeF+f4/tPJUDiQrQdiu/bUaPwelVRXdSj/w9JoODis=",
+          "cp38"
+        ],
+        "robotpy_cscore-2023.4.2.0-cp39-cp39-macosx_10_16_x86_64.whl": [
+          "CaRAlE3T3G5RvCsspyzhZAjhx6riisJXs9M7NbGWITM=",
+          "cp39"
+        ],
+        "robotpy_cscore-2023.4.2.0-cp39-cp39-manylinux_2_35_x86_64.whl": [
+          "7YCEJVfdEAj1j3K1gK0bL9ZldVT+kig3VzH4TENhFLs=",
+          "cp39"
+        ],
+        "robotpy_cscore-2023.4.2.0-cp39-cp39-win_amd64.whl": [
+          "ZbyI0O3zc7hujOQDPUAWKlpNK7DtgLhp+8bprGpCyPs=",
+          "cp39"
+        ]
+      }
     }
   },
   "robotpy-halsim-lowfi": {
@@ -121409,6 +121525,22 @@
           "py3"
         ]
       }
+    }
+  },
+  "selfinforand": {
+    "9.53": {
+      "sdist": [
+        "Q29EDRVnFwixH242GBbEJm9u8W28D7AfrcSQhrec0V8=",
+        "selfinforand-9.53.tar.gz"
+      ]
+    }
+  },
+  "selflibcv": {
+    "3.82": {
+      "sdist": [
+        "KK8a0exfrYcnagWpNFUtndacXe+tyuDJBkRMKfyQdA4=",
+        "selflibcv-3.82.tar.gz"
+      ]
     }
   },
   "sen14348-exporter": {
@@ -135899,6 +136031,18 @@
           "py3"
         ]
       }
+    },
+    "0.7.0.dev20230225": {
+      "sdist": [
+        "rIlA2yuciziBZvFDRAoiFnQnbqPZT+RBTMFlvAOfVjs=",
+        "tensorcircuit-nightly-0.7.0.dev20230225.tar.gz"
+      ],
+      "wheels": {
+        "tensorcircuit_nightly-0.7.0.dev20230225-py3-none-any.whl": [
+          "S0nQjsrF/0ZaOZ+YZN9vyKBEIze/SykkHRRrtV3bgcg=",
+          "py3"
+        ]
+      }
     }
   },
   "tensorflow-juanji-shenjingwangluo-shiyong-zhinan-chuyi": {
@@ -139364,6 +139508,14 @@
       "sdist": [
         "MomWjmf38yfhBx9oxtSN0oizdJ78TIHTNWb14ARb/o0=",
         "tpRigToolkit-tools-symmesh-0.0.1.tar.gz"
+      ]
+    }
+  },
+  "tpurlintel": {
+    "10.29": {
+      "sdist": [
+        "m2w5p7/77RHX09M/CRxD3T8nak7KgDh+w8A4zH3lXrI=",
+        "tpurlintel-10.29.tar.gz"
       ]
     }
   },
@@ -147008,6 +147160,62 @@
         ],
         "xia_broadcast-0.0.1-cp39-none-win_amd64.whl": [
           "la7AKpq9YyYXLbSNfwefQ/dhAwEnxXRapEX7epwaAGM=",
+          "cp39"
+        ]
+      }
+    },
+    "0.0.2": {
+      "wheels": {
+        "xia_broadcast-0.0.2-cp310-none-macosx_11_0_x86_64.whl": [
+          "XuEkDxRChxIA8OSFBqQwnaS76atZ/YfesH2binoudF8=",
+          "cp310"
+        ],
+        "xia_broadcast-0.0.2-cp310-none-manylinux1_x86_64.whl": [
+          "5R5dI69JqZMWuTHCEk1qe8KfwsCkfIuh56t1N3/0Wso=",
+          "cp310"
+        ],
+        "xia_broadcast-0.0.2-cp310-none-win_amd64.whl": [
+          "zFsDpy97uc2qWtimSTQ6FQCY4Y+6uLtx6WaomQLahY4=",
+          "cp310"
+        ],
+        "xia_broadcast-0.0.2-cp39-none-macosx_11_0_x86_64.whl": [
+          "l1XAKpRGfeOa6ln9o31O2fNzXO+ILAQm7jJMkkOaMlo=",
+          "cp39"
+        ],
+        "xia_broadcast-0.0.2-cp39-none-manylinux1_x86_64.whl": [
+          "IR0fh8kjGV6qDD6FlFx/ltw2qU1ns5mqnbH85KynmBM=",
+          "cp39"
+        ],
+        "xia_broadcast-0.0.2-cp39-none-win_amd64.whl": [
+          "cL4Dkp4fbHql6VcSfCeKoQ7iPGoKu/4tF7jJDZs6Y3I=",
+          "cp39"
+        ]
+      }
+    },
+    "0.0.3": {
+      "wheels": {
+        "xia_broadcast-0.0.3-cp310-none-macosx_11_0_x86_64.whl": [
+          "SBJy+XEmhU8T0E6/cpoFjDGtXGyb/Bm+In00WX9Vxrw=",
+          "cp310"
+        ],
+        "xia_broadcast-0.0.3-cp310-none-manylinux1_x86_64.whl": [
+          "pV1WRiRChEd/eylow16OFAfS2XWdfIUqi5AvkM+OG9Y=",
+          "cp310"
+        ],
+        "xia_broadcast-0.0.3-cp310-none-win_amd64.whl": [
+          "ORGD6Mhdi7BGf7HyDeb5HfzAiPsLBY/Zcntl6FM4sGw=",
+          "cp310"
+        ],
+        "xia_broadcast-0.0.3-cp39-none-macosx_11_0_x86_64.whl": [
+          "+0gchufRlHi6xyfmx3fHCFwvMTm2iZuSVu5sl6hlI4o=",
+          "cp39"
+        ],
+        "xia_broadcast-0.0.3-cp39-none-manylinux1_x86_64.whl": [
+          "ZsGoKrT79apwsxK62Uaz2ovezcHipX8CNTfbgIb4Ve0=",
+          "cp39"
+        ],
+        "xia_broadcast-0.0.3-cp39-none-win_amd64.whl": [
+          "z/zt+cYCeonjny7rSJ3cgyFRd82CFxq1Xc792+R+Xzs=",
           "cp39"
         ]
       }

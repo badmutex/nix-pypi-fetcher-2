@@ -75621,6 +75621,12 @@
         "vr7ieFPKjbUK0wr8PF0rwt/dBK/K2F6/P0ubXSQD+fY=",
         "mgtoolkit-1.0.7.tar.gz"
       ]
+    },
+    "1.1.0": {
+      "sdist": [
+        "HcADyYejNB734mqFL2Ogmu/S1Mk5XULURTgKyI5u6Ng=",
+        "mgtoolkit-1.1.0.tar.gz"
+      ]
     }
   },
   "mgtron": {
@@ -110481,6 +110487,18 @@
           "py3"
         ]
       }
+    },
+    "0.3.3": {
+      "sdist": [
+        "/lFYX1FT234+wA9fcSd8B2ytlyikY3gXArCon7pvx5Y=",
+        "quantile-scatter-0.3.3.tar.gz"
+      ],
+      "wheels": {
+        "quantile_scatter-0.3.3-py3-none-any.whl": [
+          "pVBmRK0KK3dsrO4DOKvNtVZ0H0yityoT3F+6FC5l9uI=",
+          "py3"
+        ]
+      }
     }
   },
   "quartet-masterdata": {
@@ -140714,6 +140732,26 @@
         ],
         "tf_nightly_cpu_aws-2.13.0.dev20230224-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
           "K0kiuni/qFJksFXOOaDOOkX2PLUmNPGFcctjP9+Xt6E=",
+          "cp39"
+        ]
+      }
+    },
+    "2.13.0.dev20230225": {
+      "wheels": {
+        "tf_nightly_cpu_aws-2.13.0.dev20230225-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "jxTE2TPcd/J43gxiER+D/m9eAVJv0QR+schAJa6Bt3Q=",
+          "cp310"
+        ],
+        "tf_nightly_cpu_aws-2.13.0.dev20230225-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "/JoRmUFexYzQfC3VVx6TBuhU1MMwQy7x5TlWGHkzK24=",
+          "cp311"
+        ],
+        "tf_nightly_cpu_aws-2.13.0.dev20230225-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "B92LeV2wiS0iVG/gDiWYNJPS3SNxBmPU7Ag3rXM34YA=",
+          "cp38"
+        ],
+        "tf_nightly_cpu_aws-2.13.0.dev20230225-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "XhuE881qH6BbSy1ySICTps5A6uFkh6RKAM7n7cWZyvk=",
           "cp39"
         ]
       }

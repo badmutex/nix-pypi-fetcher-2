@@ -147,6 +147,18 @@
           "py3"
         ]
       }
+    },
+    "0.6.0": {
+      "sdist": [
+        "6tIHuYsJIc+5udQZlSXru1HfpKnz/Yur9sTyQVMxSTg=",
+        "abuse_whois-0.6.0.tar.gz"
+      ],
+      "wheels": {
+        "abuse_whois-0.6.0-py3-none-any.whl": [
+          "AQfTxWHI+lIfqygvxvfuuvgobXP92gECjKGS3heX89I=",
+          "py3"
+        ]
+      }
     }
   },
   "ac-messager": {
@@ -10796,42 +10808,6 @@
     }
   },
   "bigdl-friesian-spark3": {
-    "0.14.0b20220121": {
-      "wheels": {
-        "bigdl_friesian_spark3-0.14.0b20220121-py3-none-macosx_10_11_x86_64.whl": [
-          "yfWKmOTmzw7vcKvaakK8jWMt8jmLsKSFNAbS5m7+USQ=",
-          "py3"
-        ],
-        "bigdl_friesian_spark3-0.14.0b20220121-py3-none-manylinux1_x86_64.whl": [
-          "GbVNtpRg5HVLAm9IiL/R3bzv7GiGIsy5yVAoSIejm4Q=",
-          "py3"
-        ]
-      }
-    },
-    "0.14.0b20220122": {
-      "wheels": {
-        "bigdl_friesian_spark3-0.14.0b20220122-py3-none-macosx_10_11_x86_64.whl": [
-          "F5guaoNNEoPTPfHAecIhUkDmJ7ePcw1TNN6MRfpU6LM=",
-          "py3"
-        ],
-        "bigdl_friesian_spark3-0.14.0b20220122-py3-none-manylinux1_x86_64.whl": [
-          "XIWElLi2JXxBxofMiPIdPPxdGOMH3gS9HkpXxsh7YVM=",
-          "py3"
-        ]
-      }
-    },
-    "0.14.0b20220123": {
-      "wheels": {
-        "bigdl_friesian_spark3-0.14.0b20220123-py3-none-macosx_10_11_x86_64.whl": [
-          "p7/T9Ps2cTOlxltWDFEqq7bX0Ts5LZj22OGV8qC8shA=",
-          "py3"
-        ],
-        "bigdl_friesian_spark3-0.14.0b20220123-py3-none-manylinux1_x86_64.whl": [
-          "Lrcz/6RYwKbhLlt7eDspoFtxQoU0iURT11AnjDWV7lg=",
-          "py3"
-        ]
-      }
-    },
     "0.14.0b20220124": {
       "wheels": {
         "bigdl_friesian_spark3-0.14.0b20220124-py3-none-macosx_10_11_x86_64.whl": [
@@ -14928,6 +14904,14 @@
         ],
         "bigdl_friesian_spark3-2.3.0b20230225-py3-none-manylinux1_x86_64.whl": [
           "+/G5mUP9Y4EHtCvDVZ6M+CRKnDtskcc7cSvfP+DlzM4=",
+          "py3"
+        ]
+      }
+    },
+    "2.3.0b20230226": {
+      "wheels": {
+        "bigdl_friesian_spark3-2.3.0b20230226-py3-none-manylinux1_x86_64.whl": [
+          "2yUxPtCP/Yw8GQKzq75LZPRpAPTQ9Lbyn/rqfRpHgeU=",
           "py3"
         ]
       }
@@ -66060,6 +66044,60 @@
       "sdist": [
         "/BdTvzED1LuHHMus7pjmV7bi9KwhF4jGSldHD1OnOUM=",
         "kenu_ai-0.2.5.tar.gz"
+      ]
+    },
+    "0.2.5.post6": {
+      "sdist": [
+        "6G2eGWsRiNzOJDgE1Mdj0McGCcazzeWFXZvVccep5Vo=",
+        "kenu_ai-0.2.5.post6.tar.gz"
+      ],
+      "wheels": {
+        "kenu_ai-0.2.5.post6-py3-none-any.whl": [
+          "KVXer08iFx2sYwgjjWrBBxdb0QvM0NIqB4yT05KnMEA=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.6": {
+      "sdist": [
+        "wQrt4/PEk+c+k0uCIA5XIqZQOB/H+qA7EZYmUepJgmg=",
+        "kenu_ai-0.2.6.tar.gz"
+      ],
+      "wheels": {
+        "kenu_ai-0.2.6-py3-none-any.whl": [
+          "NMRSyVSIrjNevZsGTWZYjFuAV2WhruE4UIvRzqjbaO4=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.7": {
+      "sdist": [
+        "P9G8IFMISi2Cbl+FHfya8JBi1hmJYodPNkK1hPXUUX8=",
+        "kenu-ai-0.2.7.tar.gz"
+      ],
+      "wheels": {
+        "kenu_ai-0.2.7-py3-none-any.whl": [
+          "LZr1gZdsW6suedZjI3nLAnEpHPgLYX4A4jaqQleihiA=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.8": {
+      "sdist": [
+        "mXI6XUjW8xqBUvTMrxgFpX+1rMo7uUggExNjmn44SEM=",
+        "kenu-ai-0.2.8.tar.gz"
+      ]
+    },
+    "0.2.9": {
+      "sdist": [
+        "CEH6FnMrIAJrlbSQNfVM8vuG01YD/e7CwGSiE0MsLu4=",
+        "kenu-ai-0.2.9.tar.gz"
+      ]
+    },
+    "0.3.1": {
+      "sdist": [
+        "vLlgAthoOPP4IhVPG/X01QsND8CXartOArx0fIqCbjM=",
+        "kenu-ai-0.3.1.tar.gz"
       ]
     }
   },
@@ -139888,6 +139926,42 @@
       "wheels": {
         "tkforms-1.2.0-py3-none-any.whl": [
           "YJw6FJ+R89VrlkjC9PqZe0mOdHd4n9xcFUIy5sAIi4w=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.0": {
+      "sdist": [
+        "lqEUy/lbbnDUXo4TC8skIlauWKxC7dnRTsl1QWZJ0Hk=",
+        "tkforms-2.0.0.tar.gz"
+      ],
+      "wheels": {
+        "tkforms-2.0.0-py3-none-any.whl": [
+          "oNP9UDSA7grX4R44kNWoeirHIQboEKejuU/VJFKN/Ao=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.1": {
+      "sdist": [
+        "UJtaNvPJlX7hioY7PRxRXoIFEgQRVfNK9ymhRV0uwpo=",
+        "tkforms-2.0.1.tar.gz"
+      ],
+      "wheels": {
+        "tkforms-2.0.1-py3-none-any.whl": [
+          "KNFrJhqLeUct5qS528gCt/6tJcJd11S0aEhphCkp2cY=",
+          "py3"
+        ]
+      }
+    },
+    "2.1.0": {
+      "sdist": [
+        "a3yKOCQsCGhqJDMPyGDYhkkEGwRi86fiEkETwCpp30k=",
+        "tkforms-2.1.0.tar.gz"
+      ],
+      "wheels": {
+        "tkforms-2.1.0-py3-none-any.whl": [
+          "t+Pvez1ObQNyQNgdy2Ytou96vWhEkqgAeOdzI4BUXgY=",
           "py3"
         ]
       }

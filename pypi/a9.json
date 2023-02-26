@@ -9957,6 +9957,18 @@
           "py2.py3"
         ]
       }
+    },
+    "2.0.2": {
+      "sdist": [
+        "OnLIjNl15diiXqBUD0d67fT2CmUvb6/igxAIqhliikA=",
+        "aws_lambda_event-2.0.2.tar.gz"
+      ],
+      "wheels": {
+        "aws_lambda_event-2.0.2-py2.py3-none-any.whl": [
+          "MPLafQP0u3D/q58zCChku56DPwaTo1AGbIMAjuolc6Y=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "aws-lambda-stream": {
@@ -24248,6 +24260,12 @@
       "sdist": [
         "tvkPfi4hlYHsVZHVc5AYN1NFqaxIvrADMDsmB/c/wzo=",
         "courier-pythonfilter-3.0.3.tar.gz"
+      ]
+    },
+    "3.0.4": {
+      "sdist": [
+        "wSG/8dvIHsWXttFZxLu9v4lVqgNyfNro1fXp00s+Id8=",
+        "courier-pythonfilter-3.0.4.tar.gz"
       ]
     }
   },
@@ -53240,6 +53258,18 @@
         ],
         "hashcrack_jtr-23.2.19-py3-none-win_amd64.whl": [
           "YN+JoZOBj+3L4C1txIW/a/mfGBTAM43VJwextVa+cow=",
+          "py3"
+        ]
+      }
+    },
+    "23.2.26": {
+      "wheels": {
+        "hashcrack_jtr-23.2.26-py3-none-manylinux1_x86_64.whl": [
+          "4z2NwA9sSlFIGEipNWEY8SCsnlh1jgVqES4btNM+y/c=",
+          "py3"
+        ],
+        "hashcrack_jtr-23.2.26-py3-none-win_amd64.whl": [
+          "8Dm6oKxGL+1h37o84LYo4ActxwWzzA65/B/Wo/+xtA4=",
           "py3"
         ]
       }

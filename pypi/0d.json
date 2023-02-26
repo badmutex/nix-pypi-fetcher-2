@@ -42753,6 +42753,18 @@
           "py2.py3"
         ]
       }
+    },
+    "1.17.0": {
+      "sdist": [
+        "SRrYFB/TjDboS4g90xXAYyYzhgzXK2etfXZJQzQ0Wks=",
+        "django-sp-1.17.0.tar.gz"
+      ],
+      "wheels": {
+        "django_sp-1.17.0-py2.py3-none-any.whl": [
+          "LGAOJpJ98k4Om0VIiuDL04FqtzZyXjR4B9LWwQJV/a0=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "django-staticblog": {
@@ -121703,6 +121715,20 @@
       }
     }
   },
+  "rustgrok": {
+    "0.1.0": {
+      "sdist": [
+        "7QY+CN4v/XugCwPRyUw61iTZIOrUhjI6PgVMLg8rTJI=",
+        "rustgrok-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "rustgrok-0.1.0-cp39-cp39-manylinux_2_34_x86_64.whl": [
+          "2Tl7XMRUHTVDGCd3UdFExZ798sJufexFUn0h4lGmskw=",
+          "cp39"
+        ]
+      }
+    }
+  },
   "s3-npcmr": {
     "0.0.1": {
       "sdist": [
@@ -132768,6 +132794,18 @@
       "wheels": {
         "state_machine_semaphore-0.1.195-py3-none-any.whl": [
           "SjAKx/Z7JYpUJd9GM/w2le2TlOpu8h36k1BijCSEkYk=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.196": {
+      "sdist": [
+        "GaIcufPlgBca6BL4YbeDr9x0Q9RY7HxPhunRb56jcrM=",
+        "state-machine-semaphore-0.1.196.tar.gz"
+      ],
+      "wheels": {
+        "state_machine_semaphore-0.1.196-py3-none-any.whl": [
+          "mjeJyP0j99r9Kd1NiN4bAGtguqS7MKScCvf+d3lRA64=",
           "py3"
         ]
       }

@@ -10572,6 +10572,18 @@
         ]
       }
     },
+    "22.9.13": {
+      "sdist": [
+        "quIsBzpVlTYnjekGSsREtsJQMKPVPw4cmKsvXiRFzV0=",
+        "backend.ai-common-22.9.13.tar.gz"
+      ],
+      "wheels": {
+        "backend.ai_common-22.9.13-py3-none-any.whl": [
+          "XEa8PXE56x5PlhwF9EHEaiiZpwGHiuUQWQeQrGh/UIc=",
+          "py3"
+        ]
+      }
+    },
     "22.9.2": {
       "sdist": [
         "VkmNH5xZ/N6b0P3aLKe+iilZJha/UW/GiEjnNqf92vw=",
@@ -53482,6 +53494,18 @@
       "wheels": {
         "idem_gcp-0.12.0-py3-none-any.whl": [
           "6FjjU9ctT1WOZQ7aVlVfH/ZOIXTcHIYpZQuGkTmU5ws=",
+          "py3"
+        ]
+      }
+    },
+    "0.13.0": {
+      "sdist": [
+        "wF62kuwaZNaHL7yQysYWHMyABxMdQcODNa8oBHuJVEg=",
+        "idem_gcp-0.13.0.tar.gz"
+      ],
+      "wheels": {
+        "idem_gcp-0.13.0-py3-none-any.whl": [
+          "9V89brMRgA4PjlBplz49ZKa7QlqhhQi3+rJp0eV1ktM=",
           "py3"
         ]
       }
@@ -101499,6 +101523,18 @@
           "py3"
         ]
       }
+    },
+    "2.1.1": {
+      "sdist": [
+        "bx9X+RY9vl+Ejv2gyPVJZ7ovduQxNcRxjKEZjaEcDEU=",
+        "pretix-zugferd-2.1.1.tar.gz"
+      ],
+      "wheels": {
+        "pretix_zugferd-2.1.1-py3-none-any.whl": [
+          "XnRgsOKL39vDeNdgdK4EO4wcYzsNho/srQ+xdVKpQ8g=",
+          "py3"
+        ]
+      }
     }
   },
   "printobject": {
@@ -114475,6 +114511,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.3": {
+      "sdist": [
+        "StCUXDisDdO/XfRr2+4GaBrunEjokQAZP/FyhX1bIjM=",
+        "python-mpv-1.0.3.tar.gz"
+      ],
+      "wheels": {
+        "python_mpv-1.0.3-py3-none-any.whl": [
+          "0KDpJm9WCp3gvWCt2TuoNXfFjj2QTysafnGha5JJqDo=",
+          "py3"
+        ]
+      }
     }
   },
   "python-nss": {
@@ -115478,6 +115526,74 @@
         ],
         "pyvroom-0.0.15-cp39-cp39-win_amd64.whl": [
           "JTbiyMQ8JapgOr9ESIdJxIFs7K2ww85UJYS7NQNXprc=",
+          "cp39"
+        ]
+      }
+    },
+    "0.0.16": {
+      "sdist": [
+        "tVdaSlD/UJWhFJDcGsg+29Oj3UYEI9N8O/q3mRQ+4JQ=",
+        "pyvroom-0.0.16.tar.gz"
+      ],
+      "wheels": {
+        "pyvroom-0.0.16-cp310-cp310-macosx_10_14_x86_64.whl": [
+          "IuDVUx8JWHRvCEJtljzttCp0CqkdbWoGf6T/lg8R9wc=",
+          "cp310"
+        ],
+        "pyvroom-0.0.16-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "oJT3ZFmPaudH6ObRSgutZGZYYaVaSUkCO8LMNlxAUz0=",
+          "cp310"
+        ],
+        "pyvroom-0.0.16-cp310-cp310-win_amd64.whl": [
+          "mE7GWdpATdlai50fr4K/zNgMeRve+U/1cApzClA7EDE=",
+          "cp310"
+        ],
+        "pyvroom-0.0.16-cp311-cp311-macosx_10_14_x86_64.whl": [
+          "jVVbNNd9AwMpQOj3nqdUUMW4bTigBee0FXFv+EeNDlU=",
+          "cp311"
+        ],
+        "pyvroom-0.0.16-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "9Wnf2zpChMVuvNQNqVywojR+tD7VyZo3RpGfesErc2k=",
+          "cp311"
+        ],
+        "pyvroom-0.0.16-cp311-cp311-win_amd64.whl": [
+          "21Kw8J1mCUdCKgqKkW8mW5f8+CXjTqmvHwj9kkr4gm8=",
+          "cp311"
+        ],
+        "pyvroom-0.0.16-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "aDI86Ww8bthNrdw5zHB27ZbJN10GFudhbbJKq04hYf8=",
+          "cp37"
+        ],
+        "pyvroom-0.0.16-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "lXdJj8iuo9SVqbChhJiHUzcvCgGVFSwiHnnGJKU2cFQ=",
+          "cp37"
+        ],
+        "pyvroom-0.0.16-cp37-cp37m-win_amd64.whl": [
+          "HyjGKkzQgDGEaBm696Bx951hVE+dehLKQy7FJB+Vg4U=",
+          "cp37"
+        ],
+        "pyvroom-0.0.16-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "18srQA8Q63zFmBNysBYyP+lypWIQYDez0hTYOKgVNA0=",
+          "cp38"
+        ],
+        "pyvroom-0.0.16-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "CuhhvnYziKyK9ZCjIllZmtVgpRd6tr34+mMbA62YT0M=",
+          "cp38"
+        ],
+        "pyvroom-0.0.16-cp38-cp38-win_amd64.whl": [
+          "P5EQApMHlH2kf5XKWQPf4EavSO6YJ9GnooNJYNZ1GTk=",
+          "cp38"
+        ],
+        "pyvroom-0.0.16-cp39-cp39-macosx_10_14_x86_64.whl": [
+          "6Kt0jgY5gTQNeI+qiUaShlHAlltxmbmzXSGgxgeFFfU=",
+          "cp39"
+        ],
+        "pyvroom-0.0.16-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Lnd3fyDVOvr3wEDBXFqRtALLMtRIE5BWjCynIO9G6Xg=",
+          "cp39"
+        ],
+        "pyvroom-0.0.16-cp39-cp39-win_amd64.whl": [
+          "t+gJ7K9CZ2p+ecB6TZnRZ3aFiP+dFn4GMs3tUG4KfDo=",
           "cp39"
         ]
       }
@@ -123320,6 +123436,18 @@
       "wheels": {
         "rovio_ingest-1.0.3.dev17-py3-none-any.whl": [
           "DtxKPpLwEnfxlYDEVADA3gxf8vnZt5DoRuk4uBmWX6I=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.3.dev32": {
+      "sdist": [
+        "PZ6gmHU+0sseRrqKFJsHfvlAjUQMZnZyeRsMnzV4R1s=",
+        "rovio-ingest-1.0.3.dev32.tar.gz"
+      ],
+      "wheels": {
+        "rovio_ingest-1.0.3.dev32-py3-none-any.whl": [
+          "vCGV+J+KL52t70YiL/FGfKb4Ct8P9ojyx/RJ6mmu6AI=",
           "py3"
         ]
       }
@@ -136568,6 +136696,14 @@
       "wheels": {
         "stix_shifter_utils-4.0.16-py2.py3-none-any.whl": [
           "qJq3LagbYCvtBQoJtjqFe4JOSGB+zhts2g9mc8SMm3A=",
+          "py2.py3"
+        ]
+      }
+    },
+    "4.0.16.dev764": {
+      "wheels": {
+        "stix_shifter_utils-4.0.16.dev764-py2.py3-none-any.whl": [
+          "2hTeKu6UEaztwXao6ZTtHEovOsoNn4BN8KlrglMpxts=",
           "py2.py3"
         ]
       }

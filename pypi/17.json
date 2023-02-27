@@ -64607,6 +64607,14 @@
           "cp39"
         ]
       }
+    },
+    "0.11": {
+      "wheels": {
+        "ipcvideo-0.11-cp39-cp39-win_amd64.whl": [
+          "zH09oTpnCk/616Zyh2DtAGmAEweg03E8PdwYjk3tgts=",
+          "cp39"
+        ]
+      }
     }
   },
   "ipregexo": {
@@ -72428,6 +72436,42 @@
         ],
         "KratosCoSimulationApplication-9.2.2-cp39-cp39-win_amd64.whl": [
           "9W7yWV9R9hLhm9xuk/HiiOweeEF6+LBkqzJpXIOOYwM=",
+          "cp39"
+        ]
+      }
+    },
+    "9.3": {
+      "wheels": {
+        "KratosCoSimulationApplication-9.3-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ABXzDKTmTtK61715dhIl6E6ka3y8lQjK30436aXZUug=",
+          "cp310"
+        ],
+        "KratosCoSimulationApplication-9.3-cp310-cp310-win_amd64.whl": [
+          "b4PNJzcUaWWXv9jJ2+RhVS00x/zZAa/3rDlPhPJbP+g=",
+          "cp310"
+        ],
+        "KratosCoSimulationApplication-9.3-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "iyicE0sWmFBAsbi+IySG4YBQ2dcqopAAEyLf9Dc4Z+w=",
+          "cp311"
+        ],
+        "KratosCoSimulationApplication-9.3-cp311-cp311-win_amd64.whl": [
+          "978iKwwJgr6VllH/pDmCGLVwDzetA+rOnyROz29TCWE=",
+          "cp311"
+        ],
+        "KratosCoSimulationApplication-9.3-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "veQHySI/U3PihhCV/HNAMKQehc7PkwSGQiD7ATuQf08=",
+          "cp38"
+        ],
+        "KratosCoSimulationApplication-9.3-cp38-cp38-win_amd64.whl": [
+          "YSUl92pXt93Mi0wG3APB1xtmqDFdZp4D4hN0Phez7KE=",
+          "cp38"
+        ],
+        "KratosCoSimulationApplication-9.3-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "MXJ+JbSjBy9trAJvvvQsf2NDibvngNZLP5mZCq/ZcTg=",
+          "cp39"
+        ],
+        "KratosCoSimulationApplication-9.3-cp39-cp39-win_amd64.whl": [
+          "Z7g4RBsH2WPKtbbNkBTTg+MBkDcNpf5+bw61OhcHVAU=",
           "cp39"
         ]
       }
@@ -134485,6 +134529,18 @@
         "Kftx/K/TQRK+7jR++71hqsF31+QdELJoMfoTz8Dd0eg=",
         "sphinx-btn-0.1.0.tar.gz"
       ]
+    },
+    "0.1.1": {
+      "sdist": [
+        "JmiWPPSgtCqetTQi40mDC8XfdefaylXzsrRYL0hBQss=",
+        "sphinx-btn-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "sphinx_btn-0.1.1-py3-none-any.whl": [
+          "0Ac1gAi+hQokqYLl5ho/1SSnO7hiNiqED0O/F5jxZD8=",
+          "py3"
+        ]
+      }
     }
   },
   "sphinx-full-swaggerui": {
@@ -139502,14 +139558,14 @@
     }
   },
   "tiktoktts": {
-    "1.0": {
+    "1.1": {
       "sdist": [
-        "2IBkjGSYY9Ya0mC8q0kVCrZdbXCtxMhomLLrZM9m9Sc=",
-        "tiktoktts-1.0.tar.gz"
+        "Z1Ei+W4LhF60oQxMpqOXHZCRvrif8UJ24kY3eee5Wq4=",
+        "tiktoktts-1.1.tar.gz"
       ],
       "wheels": {
-        "tiktoktts-1.0-py3-none-any.whl": [
-          "eKrlYos+HJHu+0J91V8MV/EACm/InRL4W/WtFNp3DpY=",
+        "tiktoktts-1.1-py3-none-any.whl": [
+          "RZnD7Fyv0oulO3mjbMOyl4aNb0E60pZCTug5hvbRDWc=",
           "py3"
         ]
       }

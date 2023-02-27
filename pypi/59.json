@@ -20461,6 +20461,20 @@
       }
     }
   },
+  "common-task-system-server": {
+    "1.0.0": {
+      "sdist": [
+        "toH+R+hUFc+s7ymy+WEiKWTnTWEhbbvSCfdQTxbdDGo=",
+        "common-task-system-server-1.0.0.tar.gz"
+      ]
+    },
+    "1.0.1": {
+      "sdist": [
+        "XCPuUzvYBWsN29Quh7nHufjvpRhxlnkede0hUL9RbZ8=",
+        "common-task-system-server-1.0.1.tar.gz"
+      ]
+    }
+  },
   "comtool-plugin-myplugin2": {
     "1.0.0": {
       "sdist": [
@@ -65426,6 +65440,18 @@
       "wheels": {
         "mlflow_cortex-1.0.0-py3-none-any.whl": [
           "txbqnGvMMbphdrWsmUlUAzilA17N135S7O7M8yXU8y4=",
+          "py3"
+        ]
+      }
+    },
+    "1.10.0": {
+      "sdist": [
+        "6F9O9Am7xF2YOZgGj78vVNgJax6a9aUpGJ4sxaxnvG8=",
+        "mlflow_cortex-1.10.0.tar.gz"
+      ],
+      "wheels": {
+        "mlflow_cortex-1.10.0-py3-none-any.whl": [
+          "hb7yE7arhQFp2ejNLqY2tliM1LK+SZnyk37Ic1qL9cY=",
           "py3"
         ]
       }
@@ -131398,6 +131424,14 @@
         ]
       }
     },
+    "4.0.16.dev764": {
+      "wheels": {
+        "stix_shifter_modules_carbonblack-4.0.16.dev764-py2.py3-none-any.whl": [
+          "zkoq0gPoZqrD4Muc4kAeB/OWNbBlrbpE671pDkuyTo0=",
+          "py2.py3"
+        ]
+      }
+    },
     "4.0.17": {
       "wheels": {
         "stix_shifter_modules_carbonblack-4.0.17-py2.py3-none-any.whl": [
@@ -151538,6 +151572,18 @@
       "wheels": {
         "wedoc-0.1.18-py3-none-any.whl": [
           "SFc7KXSMRaB/o7E/EAQrvJGauj/YHOfsG16t0AdZgLo=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.19": {
+      "sdist": [
+        "z+/QreH3PTB6SkHoHC49IV9BoY7eN2hWrEY7V5Apqks=",
+        "wedoc-0.1.19.tar.gz"
+      ],
+      "wheels": {
+        "wedoc-0.1.19-py3-none-any.whl": [
+          "AOIVer8D4KHhBmdBRZK0TVp4CzERzHMq9hexWAaHtx8=",
           "py3"
         ]
       }

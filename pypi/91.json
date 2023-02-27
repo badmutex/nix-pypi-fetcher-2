@@ -60491,6 +60491,12 @@
         "jGYHEXLmOFxYXKWP+vxsc9LVlRsnb3HQBgIfxTECLUA=",
         "jetson-stats-4.1.5.tar.gz"
       ]
+    },
+    "4.2.0.dev1": {
+      "sdist": [
+        "rxKHwP8SqM/8LjMkkO2HsGhRT9rmQoMhxwn8HORIJWo=",
+        "jetson-stats-4.2.0.dev1.tar.gz"
+      ]
     }
   },
   "jgf": {
@@ -98615,6 +98621,12 @@
         "MuDLdnBGOWlH+vl3y4rtGaa0k9Pog4dcCKi+umHZTAM=",
         "PassportEye-2.2.0.tar.gz"
       ]
+    },
+    "2.2.1": {
+      "sdist": [
+        "zICh+UrzWXBM9YsjbJzjRNrXY0rroZYZiUwFkQoKxcQ=",
+        "PassportEye-2.2.1.tar.gz"
+      ]
     }
   },
   "passwordcracker": {
@@ -123554,6 +123566,12 @@
         "reqif-0.0.32.tar.gz"
       ]
     },
+    "0.0.33": {
+      "sdist": [
+        "j/46UUoioiBxHKLv0byftQ50Py57/IVkH+uZ4467YOs=",
+        "reqif-0.0.33.tar.gz"
+      ]
+    },
     "0.0.4": {
       "sdist": [
         "AIbXrydpNQkHB32f6Dcyc7R6CLC5Y3lCC+cbfWUNq2c=",
@@ -142725,6 +142743,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.838": {
+      "sdist": [
+        "dJ5VWhdNqG7v1CxOUiptHcxbkDM+fzBrPqzzM2yHXzI=",
+        "tencentcloud-sdk-python-mps-3.0.838.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_mps-3.0.838-py2.py3-none-any.whl": [
+          "lLemvAty7U79LTUciRfJ3jyDvOeEoBLUGC4CRek5IRc=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tensor-print": {
@@ -155630,6 +155660,20 @@
       "wheels": {
         "yibenhei_gongzhonghao_2018_part1-2022.12.11.0-py3-none-any.whl": [
           "9imkrEcXThQEqeZzMBqvqAG6o9twakGJMmOE8f6qV0s=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "yjt": {
+    "1.0": {
+      "sdist": [
+        "hDqt4vjjQm/UhWIMorUTi0+LRuO06fSlIr5EnRvlDaU=",
+        "yjt-1.0.tar.gz"
+      ],
+      "wheels": {
+        "yjt-1.0-py3-none-any.whl": [
+          "PYgp102e5I/HH2YkJskcK9GyiCTWi4nIVeUYEOSxZ9o=",
           "py3"
         ]
       }

@@ -14915,6 +14915,18 @@
           "py3"
         ]
       }
+    },
+    "2.3.0b20230228": {
+      "wheels": {
+        "bigdl_friesian_spark3-2.3.0b20230228-py3-none-macosx_10_11_x86_64.whl": [
+          "FdMNlj8dZOuD6eOQl9Yc6Bi1u9pHaABMZ2q3DskFkck=",
+          "py3"
+        ],
+        "bigdl_friesian_spark3-2.3.0b20230228-py3-none-manylinux1_x86_64.whl": [
+          "T+QlNdX+fgnAOijbAsInSZ2nnuNU9oo8K+Wlg5CdlTE=",
+          "py3"
+        ]
+      }
     }
   },
   "binsinfo": {
@@ -49830,6 +49842,18 @@
       "wheels": {
         "gardener_cicd_libs-1.1993.0-py3-none-any.whl": [
           "xJ8vLH006dcIUuAzZ5HbwFyYltmOe2wYoZSHBeb6zS0=",
+          "py3"
+        ]
+      }
+    },
+    "1.1994.0": {
+      "sdist": [
+        "g8+p//2IOeea8DMgemchYnn9yjQY04l8kq+aJizPfEU=",
+        "gardener-cicd-libs-1.1994.0.tar.gz"
+      ],
+      "wheels": {
+        "gardener_cicd_libs-1.1994.0-py3-none-any.whl": [
+          "RVafENYqfC5CjZi1l/AeseqG/IsoNuapbbEDQooU644=",
           "py3"
         ]
       }
@@ -85412,6 +85436,14 @@
       "sdist": [
         "ZOjvjGyUEEaMACml1x8E4k4TcbOw7Msg7e0BOpqn6p4=",
         "mwtab-1.2.5.tar.gz"
+      ]
+    }
+  },
+  "my-ctl": {
+    "1.0.1": {
+      "sdist": [
+        "XMRZ1bpUF3fmuQ4+GlPs92fJlh8q+al3bPqULH0iIAo=",
+        "my-ctl-1.0.1.tar.gz"
       ]
     }
   },

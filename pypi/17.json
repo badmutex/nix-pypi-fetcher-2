@@ -2429,6 +2429,18 @@
           "py3"
         ]
       }
+    },
+    "2.0.3": {
+      "sdist": [
+        "pL7vR5SQRavRdpBqDW76SxaezFLdMLrpyhaTV4G1BRo=",
+        "aiida-gaussian-2.0.3.tar.gz"
+      ],
+      "wheels": {
+        "aiida_gaussian-2.0.3-py3-none-any.whl": [
+          "GYUo8h3wtCYOt+IeTznk8SlEIx2P1RlxBGC21gqIyvc=",
+          "py3"
+        ]
+      }
     }
   },
   "aiida-icl": {
@@ -31449,6 +31461,20 @@
       ]
     }
   },
+  "deki": {
+    "0.0.1.dev1": {
+      "sdist": [
+        "cK+1IvhCGsCSOsXoikiwkdr4QcvGVm2iAHXCha9WFPM=",
+        "deki-0.0.1.dev1.tar.gz"
+      ],
+      "wheels": {
+        "deki-0.0.1.dev1-py3-none-any.whl": [
+          "3u1EtG/DpUM69obAwcBTzY7IMJhrdoQQM0jCi1qAV6I=",
+          "py3"
+        ]
+      }
+    }
+  },
   "delegatorbot": {
     "1.0.10": {
       "sdist": [
@@ -34442,6 +34468,18 @@
       "wheels": {
         "demisto_py-3.2.7-py3-none-any.whl": [
           "MuSJMZcNa1qmn1Je3xD7bp7kwZDIjnxttX+EeQ0ra4Y=",
+          "py3"
+        ]
+      }
+    },
+    "3.2.8": {
+      "sdist": [
+        "1n7FHVpKbBDzsKQBUXML/l+KTxGzuGMVTiQV9wntdpw=",
+        "demisto-py-3.2.8.tar.gz"
+      ],
+      "wheels": {
+        "demisto_py-3.2.8-py3-none-any.whl": [
+          "3fkKEWboW4vX8VQqWjycY4P5oZx/808Zfu4+uUIBgME=",
           "py3"
         ]
       }
@@ -54326,6 +54364,12 @@
       "sdist": [
         "wuGkLxwLRyvoT7cmsRIiHMDVVFjw9zyyrsi4rQxb/Ec=",
         "gns3-server-2.2.37.tar.gz"
+      ]
+    },
+    "2.2.38": {
+      "sdist": [
+        "Ay0IczJUXhDhffSpQj8B3acA4a8eRrIqsV8mcpvxijQ=",
+        "gns3-server-2.2.38.tar.gz"
       ]
     },
     "2.2.5": {
@@ -77038,6 +77082,18 @@
         ]
       }
     },
+    "0.13.8": {
+      "sdist": [
+        "uPW0Vp6ZurbApQuAEPPwEZaASMgW6nippp2Az17Bslk=",
+        "localcosmos_server-0.13.8.tar.gz"
+      ],
+      "wheels": {
+        "localcosmos_server-0.13.8-py3-none-any.whl": [
+          "+fc+luX1K7gQs5iPF+a9BKMBxfWgBxslLrdG0HJydCk=",
+          "py3"
+        ]
+      }
+    },
     "0.2": {
       "sdist": [
         "SnDYQhUlPXR/6WGWdaX40Ci4sQblybjOyfWADaGmqtk=",
@@ -96890,6 +96946,18 @@
       "wheels": {
         "pdfcmd-1.6-py3-none-any.whl": [
           "7Cd8LTos/Iwei8ybzKeQY/cLU89qK3nyuRzszEnWSnM=",
+          "py3"
+        ]
+      }
+    },
+    "1.7": {
+      "sdist": [
+        "7SL6aWStu87fw47GEd3rbZU3h4eYB2a4d+Z6nEeVKvw=",
+        "pdfcmd-1.7.tar.gz"
+      ],
+      "wheels": {
+        "pdfcmd-1.7-py3-none-any.whl": [
+          "108VPYGWCi55LZKa+Q5WfkR5Y0gzjnL6a73OGFo/39g=",
           "py3"
         ]
       }
@@ -139649,6 +139717,18 @@
           "py3"
         ]
       }
+    },
+    "1.2": {
+      "sdist": [
+        "3PgOp8eUlo2F+VSD575D8JFxxYtv0xf+UFA3AU3hWbI=",
+        "tiktoktts-1.2.tar.gz"
+      ],
+      "wheels": {
+        "tiktoktts-1.2-py3-none-any.whl": [
+          "0Bm0MvJhgyswJCz6nO3WgtvuFWPzjqWO9XYA6Xmx+KY=",
+          "py3"
+        ]
+      }
     }
   },
   "tileserver": {
@@ -145823,6 +145903,18 @@
           "py3"
         ]
       }
+    },
+    "0.3.1": {
+      "sdist": [
+        "rjPMXux+zvST3uu66TWSgH1YamqLdfqV7eLFSxtB7Q0=",
+        "uagents-0.3.1.tar.gz"
+      ],
+      "wheels": {
+        "uagents-0.3.1-py3-none-any.whl": [
+          "U16C75JodiYGMc43tZ9kAO40rLiYyFFObaeLChtpHyE=",
+          "py3"
+        ]
+      }
     }
   },
   "ubpy": {
@@ -147026,14 +147118,14 @@
     }
   },
   "upander": {
-    "0.0.2": {
+    "0.1.0": {
       "sdist": [
-        "0TyVJXwod5kxZ+k5axXc9U0nOQt7NJDu5KKl0HeNoqA=",
-        "upander-0.0.2.tar.gz"
+        "mRiuCSBw54zFhTBta/jODhmwAjp0ac7SaF1voBp8VXU=",
+        "upander-0.1.0.tar.gz"
       ],
       "wheels": {
-        "upander-0.0.2-py3-none-any.whl": [
-          "XO/M7MM8HLkzVg+ChuG11e6BVMGVNtw4vK5tb7oyQZ8=",
+        "upander-0.1.0-py3-none-any.whl": [
+          "O99qYqPMWQDODb/Tx9+I42khdpGz7VK2Chdp2d+2W5M=",
           "py3"
         ]
       }

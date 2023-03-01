@@ -31345,6 +31345,36 @@
       ]
     }
   },
+  "core-universal": {
+    "2.3.7": {
+      "wheels": {
+        "core_universal-2.3.7-py2.py3-none-macosx_10_7_x86_64.whl": [
+          "LuXxkXzx1dCwEewKvFuCRsgCq1BrR3qeKu+GyJC5M2g=",
+          "py2.py3"
+        ],
+        "core_universal-2.3.7-py2.py3-none-macosx_11_0_arm64.whl": [
+          "gpV9yHnUzI3yWZZMA9JJ5jsbvDiRAcizauSe4kPZWhU=",
+          "py2.py3"
+        ],
+        "core_universal-2.3.7-py2.py3-none-manylinux1_x86_64.whl": [
+          "VkDTrkkxhvtR5iybwK1MVQdSdy/isksvJRBI2GYW2Uk=",
+          "py2.py3"
+        ],
+        "core_universal-2.3.7-py2.py3-none-manylinux2014_aarch64.whl": [
+          "vcSnum/pKF/UiJylh6fGAwCKS3nUV2JhJv0C5j3bvZU=",
+          "py2.py3"
+        ],
+        "core_universal-2.3.7-py2.py3-none-musllinux_1_2_x86_64.whl": [
+          "xOE6ua+dHUMTxHB4TXgdnaKW/Eq7ZgTELYGdlufSdK8=",
+          "py2.py3"
+        ],
+        "core_universal-2.3.7-py2.py3-none-win_amd64.whl": [
+          "oXnJjDOq14R4UUkFnWGPccw7nim9WbC5IKKmdSeQuyo=",
+          "py2.py3"
+        ]
+      }
+    }
+  },
   "coreindicators": {
     "1.0.0": {
       "sdist": [
@@ -47808,6 +47838,12 @@
       "sdist": [
         "RNRzQgy1ViLX/0hBlADWsvX3H4Ia+0XGdSFNsAm5/9Q=",
         "energinet-ml-sdk-0.10.1.dev276.tar.gz"
+      ]
+    },
+    "0.10.1.dev277": {
+      "sdist": [
+        "qWEJaPBMVWtYfMYEKZkuFzOQCnM6X2y59L+IKIyvp24=",
+        "energinet-ml-sdk-0.10.1.dev277.tar.gz"
       ]
     },
     "0.5.16": {
@@ -70325,6 +70361,30 @@
           "py3"
         ]
       }
+    },
+    "0.1.5": {
+      "sdist": [
+        "mrnjBfg5KZtP+WUSeWA0/FJkbbnMSFiXplNnXmhyJjE=",
+        "invokelint-0.1.5.tar.gz"
+      ],
+      "wheels": {
+        "invokelint-0.1.5-py3-none-any.whl": [
+          "Zi6cldWTu+vKANxsQJNPyBJoIO1/gRhDFLUZ/bx59T0=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.0": {
+      "sdist": [
+        "0HKJxUyntLVOENPZ4tCU6ST9bsx+z9bRcH3NGqK1fRc=",
+        "invokelint-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "invokelint-0.2.0-py3-none-any.whl": [
+          "i9JbzPksQMIaAZ2OHevq8s+KUOLJrGMZhYX3QPneC0Q=",
+          "py3"
+        ]
+      }
     }
   },
   "ion-detective": {
@@ -83361,6 +83421,42 @@
           "py3"
         ]
       }
+    },
+    "0.5.515": {
+      "sdist": [
+        "KtPShYKF7HsJ+tH5g9c6JMg9jTo8kxjDa9gTJ7yVbNQ=",
+        "modern-greek-inflexion-0.5.515.tar.gz"
+      ],
+      "wheels": {
+        "modern_greek_inflexion-0.5.515-py3-none-any.whl": [
+          "+CEE318ofBQd6y/KnghuHvls2oKXqdFUXDhldukir7o=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.516": {
+      "sdist": [
+        "v3klUJAdeuMyFDjCAirn2AofI5h0Wg8BwoD2ux9PuF4=",
+        "modern-greek-inflexion-0.5.516.tar.gz"
+      ],
+      "wheels": {
+        "modern_greek_inflexion-0.5.516-py3-none-any.whl": [
+          "aCp3+CL4xJURWnaBhz08U6LXy/p7KWVDIlgUKMiDHQ8=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.517": {
+      "sdist": [
+        "CvyzRkrYIgcWLWZuKYgFpp6sC6TPOjCWDgWql1caPAE=",
+        "modern-greek-inflexion-0.5.517.tar.gz"
+      ],
+      "wheels": {
+        "modern_greek_inflexion-0.5.517-py3-none-any.whl": [
+          "12KcQSnTBKzD4l4so4i7sgbPxfsbvRwz9dlegY57zT4=",
+          "py3"
+        ]
+      }
     }
   },
   "modularconfig": {
@@ -85508,6 +85604,18 @@
       "wheels": {
         "mypy_boto3_omics-1.26.19-py3-none-any.whl": [
           "E/CBUBpF7mC9ktWwjPqFsvIbkbTBUTTuDQqpK8PcpZs=",
+          "py3"
+        ]
+      }
+    },
+    "1.26.81": {
+      "sdist": [
+        "mXhIyiwePk+lxxYR3eWjfn6pGciGI31ni4OfwfDLHfs=",
+        "mypy-boto3-omics-1.26.81.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_omics-1.26.81-py3-none-any.whl": [
+          "c+OE7xOocdajfXQwsRQnvR2QF5hW0FMgv+gMvkKTDnc=",
           "py3"
         ]
       }
@@ -105246,6 +105354,18 @@
       "wheels": {
         "preemo_worker_sdk-0.1.1-py3-none-any.whl": [
           "ZtRMvP4lKkTh2h9ZGRzJJtPhiSgnM0GHYMmuMoMERzo=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "n234BeE3X6o2wqh+RJz9V8bboovhHES9VCKj8M3wCfg=",
+        "preemo_worker_sdk-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "preemo_worker_sdk-0.1.2-py3-none-any.whl": [
+          "Uvbkzg0BvxcK13T44mGVyq7aVQqJTTPNzgGPNBEOe9U=",
           "py3"
         ]
       }
@@ -133206,6 +133326,18 @@
         ]
       }
     },
+    "0.1.199": {
+      "sdist": [
+        "AOjqVppl8YyHQwahboSyU6v+5cBTlMiVmidUKgAziaU=",
+        "state-machine-semaphore-0.1.199.tar.gz"
+      ],
+      "wheels": {
+        "state_machine_semaphore-0.1.199-py3-none-any.whl": [
+          "xUXN8CUm2h/FP0NVJnSLqo9cJhoVlWmjQbOsuvriWvk=",
+          "py3"
+        ]
+      }
+    },
     "0.1.2": {
       "sdist": [
         "/H5uW90jV1Rtf1OL5HcslhfsfST5YtIBh46bJaTXja0=",
@@ -134710,6 +134842,18 @@
       "wheels": {
         "statsforecast-1.4.0-py3-none-any.whl": [
           "AaRokkErmvBE5Csn93MXLX9w0aHPrQoRR0Juzdi8KOE=",
+          "py3"
+        ]
+      }
+    },
+    "1.5.0": {
+      "sdist": [
+        "MZblKQjYokOdcy3En00/CunFmTviNiLM7dFSsWcb6AI=",
+        "statsforecast-1.5.0.tar.gz"
+      ],
+      "wheels": {
+        "statsforecast-1.5.0-py3-none-any.whl": [
+          "+v48cXCvWbUdcgtntsgEbtlaR0JC0HvdRAcN/d4o6cQ=",
           "py3"
         ]
       }

@@ -9523,6 +9523,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.81": {
+      "sdist": [
+        "fe9yCOef8X1k2C0B/Ha7jWQ7Lwn68lILssxWSfvdjpM=",
+        "botocore-a-la-carte-savingsplans-1.29.81.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_savingsplans-1.29.81-py3-none-any.whl": [
+          "nWLoUHU6LK2GCjjknYwjsV/ixlopha3Dn87gwXn3W+I=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-sso-admin": {
@@ -9990,6 +10002,18 @@
       "wheels": {
         "botocore_a_la_carte_sso_admin-1.29.80-py3-none-any.whl": [
           "MsJrT18CX4ke5TO34aXRA0L5xGKcuMEmStLy58GFPoY=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.81": {
+      "sdist": [
+        "24pcnPJNltD1WiuaVjxUE9Q23rCOkPbl7oCM/CdtKNc=",
+        "botocore-a-la-carte-sso-admin-1.29.81.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_sso_admin-1.29.81-py3-none-any.whl": [
+          "/jnKtsRTIizhWEhLIIRxNKNmCYN4+MyC+PbmpJAtuMc=",
           "py3"
         ]
       }
@@ -17792,6 +17816,18 @@
       "wheels": {
         "com.castsoftware.uc.oneclick-0.1.6-py3-none-any.whl": [
           "pbo/+MfpKZY4DWYogw4E7e+RMaB2LqtelAc8kuPx+ew=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.7": {
+      "sdist": [
+        "AT8TuYOl1wh69+w5KqJPlQwqY5Wy7Na1AH52eQksFo4=",
+        "com.castsoftware.uc.oneclick-0.1.7.tar.gz"
+      ],
+      "wheels": {
+        "com.castsoftware.uc.oneclick-0.1.7-py3-none-any.whl": [
+          "aAlKMUP8vwhj1R1HamUXGYGpVCFog4estep0i2wRguc=",
           "py3"
         ]
       }
@@ -61140,6 +61176,18 @@
         ]
       }
     },
+    "3.39.0": {
+      "sdist": [
+        "Kl3DO11FPdNWTFUNhROYS6dTXBG2WO5hZtCY994rDVs=",
+        "labelbox-3.39.0.tar.gz"
+      ],
+      "wheels": {
+        "labelbox-3.39.0-py3-none-any.whl": [
+          "BFCejHithYM1Jnp2UfluXr08ns9lllQIpShdxcvRX/I=",
+          "py3"
+        ]
+      }
+    },
     "3.4.0": {
       "sdist": [
         "rADm26BUCHSKBpT7BM4mYR8Q9e2RL0by+XUYJFoWWuY=",
@@ -87132,18 +87180,6 @@
     }
   },
   "odoo-tools": {
-    "0.0.65": {
-      "sdist": [
-        "aX9dIUyvGyMbwEZnN7ixwevcibVyMDH7MLy2Dk83eHk=",
-        "odoo-tools-0.0.65.tar.gz"
-      ],
-      "wheels": {
-        "odoo_tools-0.0.65-py3-none-any.whl": [
-          "9/Jf9/i23+CSuaMYUOAtCRi0hR60dx4Vs05B0C7NJnM=",
-          "py3"
-        ]
-      }
-    },
     "0.1.0": {
       "sdist": [
         "+x5FheWV2zyE7BaDaobyCmCsTah6CU8zJoxzcFn1wSE=",
@@ -120575,6 +120611,44 @@
         "robodk-5.5.4-py2.py3-none-any.whl": [
           "E7QURiCVHqW5ISmMUixZsZJyp413M/KIoxBvanA7UlM=",
           "py2.py3"
+        ]
+      }
+    }
+  },
+  "robotcode-modifiers": {
+    "0.26.2": {
+      "sdist": [
+        "Jggc/aotTHdw8SZKS7rnDzB3CLlLvYudcCvEbXUFYXo=",
+        "robotcode_modifiers-0.26.2.tar.gz"
+      ],
+      "wheels": {
+        "robotcode_modifiers-0.26.2-py3-none-any.whl": [
+          "/s6bHuDPdIkXQY67hCfs+98GG+Umx/jS0COAIjPhUQU=",
+          "py3"
+        ]
+      }
+    },
+    "0.27.0": {
+      "sdist": [
+        "RU9E8eRPo/Z/+R7+2exqlVaD+MILZeqU0qnOMYwhQK8=",
+        "robotcode_modifiers-0.27.0.tar.gz"
+      ],
+      "wheels": {
+        "robotcode_modifiers-0.27.0-py3-none-any.whl": [
+          "lGahAQ0ysStQRMyQTDyaFJkncNklYpCWlnPLhso2TOw=",
+          "py3"
+        ]
+      }
+    },
+    "0.27.1": {
+      "sdist": [
+        "8tM/LMLx6nxXnLndOOoOlEDlvROm7OQTv8V8qtHc1fI=",
+        "robotcode_modifiers-0.27.1.tar.gz"
+      ],
+      "wheels": {
+        "robotcode_modifiers-0.27.1-py3-none-any.whl": [
+          "TqVNg53nW5SIn9EE39b0OnOL+k1+4u24DMUJp8mhRRE=",
+          "py3"
         ]
       }
     }
@@ -154725,6 +154799,18 @@
         "/oVcg2d43keRQjBq/i+ucLeSxb7jw+fttI2rmWsLBDo=",
         "waiter_client-1.5.6.tar.gz"
       ]
+    },
+    "1.5.7": {
+      "sdist": [
+        "HrGaQSPZKkxvxf8gTtJSgBF7n2kC797dcQVdPZlyvTQ=",
+        "waiter_client-1.5.7.tar.gz"
+      ],
+      "wheels": {
+        "waiter_client-1.5.7-py3-none-any.whl": [
+          "e+C8zjSeWt0Re8Db8AGtSu4Vbq0+moWAQEXA1TCTzCI=",
+          "py3"
+        ]
+      }
     }
   },
   "wanting-yingyu-201809-201812": {
@@ -157258,6 +157344,14 @@
       "wheels": {
         "xmind2zantao-2.0.1-py2-none-any.whl": [
           "uWWkqocCKidGf4iLYJl0bcmySk3iCyBLYX0QAdiny8g=",
+          "py2"
+        ]
+      }
+    },
+    "2.0.2": {
+      "wheels": {
+        "xmind2zantao-2.0.2-py2-none-any.whl": [
+          "TXFffy3xuRbxOFnO06q4dzYahjEpVVWDMvXtuz//UwM=",
           "py2"
         ]
       }

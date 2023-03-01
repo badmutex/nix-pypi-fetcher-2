@@ -10149,6 +10149,14 @@
       }
     }
   },
+  "awsdc": {
+    "0.0.2": {
+      "sdist": [
+        "7Ai6jfJpr9uEDftqH45tI6jNU2zH/br2gKugLVGG7Zo=",
+        "awsDc-0.0.2.tar.gz"
+      ]
+    }
+  },
   "awsscout2": {
     "3.0.0": {
       "sdist": [
@@ -16163,6 +16171,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.81": {
+      "sdist": [
+        "dOWE9goWV+emu2DIEKP7zGCpD+Dtmd8YBhjNKPQVXHE=",
+        "botocore-a-la-carte-chime-sdk-voice-1.29.81.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_chime_sdk_voice-1.29.81-py3-none-any.whl": [
+          "jql/llWXQBTl46SjMwEnBKpmCEewkMMFjQV4WOdN9QA=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-mwaa": {
@@ -16630,6 +16650,18 @@
       "wheels": {
         "botocore_a_la_carte_mwaa-1.29.80-py3-none-any.whl": [
           "tsix062VnFVxGMweqAThX2+lndG70GX6lmWmUeX1geI=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.81": {
+      "sdist": [
+        "KQopB3vQ7BY0freRYu27WMsPGGh8eC/w9EchpxN0p10=",
+        "botocore-a-la-carte-mwaa-1.29.81.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_mwaa-1.29.81-py3-none-any.whl": [
+          "oYfC/Uy6zHKE3MglcVz8F6wbm2j1nSs6A2CACGIL224=",
           "py3"
         ]
       }
@@ -27853,6 +27885,44 @@
         "DKnIvbmSXWFPjmFnJXzpdXPhVInNSSLQPkkZJh+JPRA=",
         "dbmodel-0.1.7.tar.gz"
       ]
+    }
+  },
+  "dbpal": {
+    "0.0.0": {
+      "sdist": [
+        "loMJQ2D7Fy5IUmXyrkMiYQ3udlXGyNMEEjV/VoER4Ts=",
+        "dbpal-0.0.0.tar.gz"
+      ],
+      "wheels": {
+        "dbpal-0.0.0-py3-none-any.whl": [
+          "nozN9ScIxTWsulwTVW9yqjaXobWCfBoSZ4H5coKCBjo=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.1": {
+      "sdist": [
+        "8ouQBwHLsZAhq/gGvlLee4oFqFpw0o0TeABjd54fB5w=",
+        "dbpal-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "dbpal-0.0.1-py3-none-any.whl": [
+          "ebeRrTn+IGMMDpzEdYv76Z/07WJRbDUmftdUaJGDWFE=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "MV0pJt9GYir3TRJg62X5rp90hIqvntAmrgsZZA50Iso=",
+        "dbpal-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "dbpal-0.0.2-py3-none-any.whl": [
+          "C0Y4P4bLFb5ugG/R1dXv7FX503u/SA0L78IY9gUBq2Y=",
+          "py3"
+        ]
+      }
     }
   },
   "dbrows": {
@@ -58947,6 +59017,18 @@
           "py3"
         ]
       }
+    },
+    "1.7.0": {
+      "sdist": [
+        "jV6fC41/1QebtfnR7nwpz1Z04TdcyVAOCwNH5Vbc7EE=",
+        "local-attention-1.7.0.tar.gz"
+      ],
+      "wheels": {
+        "local_attention-1.7.0-py3-none-any.whl": [
+          "moK8qQ7E7wYOEYTm8veSXvNwkpXipcce2mPl17qFTVQ=",
+          "py3"
+        ]
+      }
     }
   },
   "logclassify": {
@@ -69773,6 +69855,18 @@
           "py3"
         ]
       }
+    },
+    "11.4.4.55": {
+      "wheels": {
+        "nvidia_cusolver_cu12-11.4.4.55-py3-none-manylinux1_x86_64.whl": [
+          "1JEYzFhX6HNT/fjgYxNCn+fpW0PDs4jgtA67FlRoYRs=",
+          "py3"
+        ],
+        "nvidia_cusolver_cu12-11.4.4.55-py3-none-win_amd64.whl": [
+          "X+gIEQzq+UrMvXwUaHnKQw9ly5ZnPPCKJ5hRVWUNBX4=",
+          "py3"
+        ]
+      }
     }
   },
   "nvidia-pylibraft-cu111": {
@@ -78372,6 +78466,14 @@
       "wheels": {
         "PennyLane_AQT-0.27.0-py3-none-any.whl": [
           "cEA2vMiKbxZ3hw9qfalEiQrQPOoow6lY/Gg20XYZnsc=",
+          "py3"
+        ]
+      }
+    },
+    "0.29.0": {
+      "wheels": {
+        "PennyLane_AQT-0.29.0-py3-none-any.whl": [
+          "MAd0sBi8WbLj3SXMOeBDnly6aBnVvmYkUveSk9oNR44=",
           "py3"
         ]
       }
@@ -115041,6 +115143,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.840": {
+      "sdist": [
+        "McEZwuv+UoXATdfXwAf9aEknqQOyU9iwJf5LMUnD6co=",
+        "tencentcloud-sdk-python-dasb-3.0.840.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_dasb-3.0.840-py2.py3-none-any.whl": [
+          "02kmF1RUfYzhYGDuvDuYDN+/+XyA2dtSyy8F+rXLNWw=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tensorflow-cpu-test-package": {
@@ -139505,6 +139619,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.2": {
+      "sdist": [
+        "TNO9WqJnmpey8nV9W4BVKRPjDjy3Sf9MW4q5MS0fwh8=",
+        "XAISuite-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "XAISuite-1.0.2-py3-none-any.whl": [
+          "UwCV6F44KNBWKMuY7zhNSKd4vp/DBP01W4HjwB4ZXNY=",
+          "py3"
+        ]
+      }
     }
   },
   "xbox-webapi": {
@@ -140982,6 +141108,18 @@
       "wheels": {
         "ytdl_sub-2023.2.25-py3-none-any.whl": [
           "Zp//9NJgxT4MoEMrS5uqT2y+VbJ1KUSPEDDPTn6aflI=",
+          "py3"
+        ]
+      }
+    },
+    "2023.3.1": {
+      "sdist": [
+        "kCh6XNzKqMvln9AbSRO8v1uJFumgLLfpA+FdzvvBhKM=",
+        "ytdl-sub-2023.3.1.tar.gz"
+      ],
+      "wheels": {
+        "ytdl_sub-2023.3.1-py3-none-any.whl": [
+          "o00xWht8YDrYz5dg6NyXczFXEjU1KHf2j1ls38Yu+Bk=",
           "py3"
         ]
       }

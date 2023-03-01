@@ -17663,6 +17663,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.81": {
+      "sdist": [
+        "EpDznyFIYxwLfp+ujywUYdfQKXZF5SqzVfCPiFUFqpo=",
+        "botocore-a-la-carte-s3-1.29.81.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_s3-1.29.81-py3-none-any.whl": [
+          "3QihPIdI0PH8o1Dw2bj+51xjo5ITrH3foZ2gTLlQuD4=",
+          "py3"
+        ]
+      }
     }
   },
   "botspot": {
@@ -20878,6 +20890,18 @@
       "wheels": {
         "ciditel_utilities-0.1-py3-none-any.whl": [
           "Iwcz9bcT5Kuh3ZFh0a4KHpM8A6EDFQ/d+D81XZV5DMQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.2": {
+      "sdist": [
+        "Hp0vjmx8ridJ164FZkVEoNxLEpL0s5bAxwpgrI786T4=",
+        "ciditel_utilities-0.2.tar.gz"
+      ],
+      "wheels": {
+        "ciditel_utilities-0.2-py3-none-any.whl": [
+          "3BGonAneraeZgDMr5sHYvAXWBiydxD5oxUGH236OjG4=",
           "py3"
         ]
       }
@@ -30040,6 +30064,18 @@
       "wheels": {
         "crazy_thursday-2023.2.9.1-py3-none-any.whl": [
           "FweXYg0FNEJ80Kt/5K1wTXkTlb89sdo1sF4ZASig/l4=",
+          "py3"
+        ]
+      }
+    },
+    "2023.3.1.0": {
+      "sdist": [
+        "LE2VDLR5ibLth7KOeT14CsspFcVrXQM560TiB22n230=",
+        "crazy-thursday-2023.3.1.0.tar.gz"
+      ],
+      "wheels": {
+        "crazy_thursday-2023.3.1.0-py3-none-any.whl": [
+          "NLni78dxdHlKK9C0/WYubHJNfe3WTcXhDf6eg9oJKKw=",
           "py3"
         ]
       }
@@ -44650,6 +44686,14 @@
       "wheels": {
         "dvtTestKit-0.0.17-py3-none-any.whl": [
           "kKBDgsXFHVxufleVZh7UXW+T3zX6AGtCj0dgLEibTks=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.18": {
+      "wheels": {
+        "dvtTestKit-0.0.18-py3-none-any.whl": [
+          "vimGYBwyKeN421OA4QHhE8O88riNyN+paoDQkQFDKHQ=",
           "py3"
         ]
       }
@@ -111360,6 +111404,18 @@
         ]
       }
     },
+    "13.0.2": {
+      "sdist": [
+        "vO1XHZirWUHXBgCGCIlQLKYxdCNllz/3JV4ASkihrB4=",
+        "proactive-jupyter-kernel-13.0.2.zip"
+      ],
+      "wheels": {
+        "proactive_jupyter_kernel-13.0.2-py3-none-any.whl": [
+          "FXVqfSZlSetjV2FM0Sx4QDW/QTKtfqXzWvfoQgLwwsw=",
+          "py3"
+        ]
+      }
+    },
     "13.1.0.2210112142.dev0": {
       "sdist": [
         "ogwCyL+WovPuVjQqxYQNWyWhtf+tD88xzRjQNA7cV58=",
@@ -113462,6 +113518,18 @@
       "wheels": {
         "proactive_jupyter_kernel-13.1.0.2302280241.dev0-py3-none-any.whl": [
           "3Ol2DGnNUsifXgLBAIbTpfMjmDkDIAz19VZ0ydqogAM=",
+          "py3"
+        ]
+      }
+    },
+    "13.1.0.2303010242.dev0": {
+      "sdist": [
+        "sLMoLiYSS4LwtzY4usss/Mn6GDDY8AgDQJhKssurDp8=",
+        "proactive-jupyter-kernel-13.1.0.2303010242.dev0.zip"
+      ],
+      "wheels": {
+        "proactive_jupyter_kernel-13.1.0.2303010242.dev0-py3-none-any.whl": [
+          "oXqn/lnt1qcvVTE1mhbo50sIyjSN9J7J5ZFBt57S9og=",
           "py3"
         ]
       }
@@ -135213,6 +135281,30 @@
           "py3"
         ]
       }
+    },
+    "1.9.0": {
+      "sdist": [
+        "3MtLDK/sB7Jkdexfi9bZ5LOqg26PbTwj8TkLINY5ZRo=",
+        "sentinel-server-1.9.0.tar.gz"
+      ],
+      "wheels": {
+        "sentinel_server-1.9.0-py3-none-any.whl": [
+          "HEp9yNEn0ieBx0opuT1AiYgBF8jj27aHqzL7EhHSeyE=",
+          "py3"
+        ]
+      }
+    },
+    "1.9.1": {
+      "sdist": [
+        "nQmAVSArnzDCRjHTHqve2hBVfXHLqG4cLJHMkIsYHxc=",
+        "sentinel-server-1.9.1.tar.gz"
+      ],
+      "wheels": {
+        "sentinel_server-1.9.1-py3-none-any.whl": [
+          "TMa98dM3xjV0GmIDVe2+B6GQobmoQeLGhMmWH728uyg=",
+          "py3"
+        ]
+      }
     }
   },
   "sentinel5dl": {
@@ -142158,6 +142250,14 @@
       "wheels": {
         "stix_shifter_modules_alertflex-4.0.16.dev764-py2.py3-none-any.whl": [
           "zhsXKSaUNFozw5qqGjIlYP1Uza2zhyF4h9NIPQBVFuM=",
+          "py2.py3"
+        ]
+      }
+    },
+    "4.0.16.dev765": {
+      "wheels": {
+        "stix_shifter_modules_alertflex-4.0.16.dev765-py2.py3-none-any.whl": [
+          "eMVjGoWkXte2/wmOQF3jt5NWgCpOhCcSksy+3Of+DeE=",
           "py2.py3"
         ]
       }
@@ -150570,6 +150670,18 @@
       "wheels": {
         "tencentcloud_sdk_python_irp-3.0.839-py2.py3-none-any.whl": [
           "tLdkGzDtJBcNFaBm7M+qfgnFnOAyjncLiRxRqAn+FBY=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.840": {
+      "sdist": [
+        "u1B4a5NtXC/vJNJJ+sNvE3IuNb8lyWUhfO04l7qVo+w=",
+        "tencentcloud-sdk-python-irp-3.0.840.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_irp-3.0.840-py2.py3-none-any.whl": [
+          "RTKdJhBSb6LOcbmWjcNhGFk1Likky23aJs267jQhTck=",
           "py2.py3"
         ]
       }

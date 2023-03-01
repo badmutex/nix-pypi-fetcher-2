@@ -4088,6 +4088,18 @@
         ]
       }
     },
+    "2.13.0": {
+      "sdist": [
+        "SV5u8gI1i70ErgbTCIUfSGIGWhVicJ7eFseA+uw4t5g=",
+        "allure-pytest-bdd-2.13.0.tar.gz"
+      ],
+      "wheels": {
+        "allure_pytest_bdd-2.13.0-py3-none-any.whl": [
+          "u/CYOuuZYciZgsZEl/0nBTfQJgrzXTmFXXcv4tqZfIA=",
+          "py3"
+        ]
+      }
+    },
     "2.8.10": {
       "sdist": [
         "JmHUEzRQTFfO0EC+K+tgzPZxXXMg6nBllUFkCF8110I=",
@@ -11322,6 +11334,18 @@
       "wheels": {
         "autogluon.timeseries-0.7.0b20230228-py3-none-any.whl": [
           "6E8hvS1+lpEzORxOQz9ydnQjg+UStq16s1EBi7o9Qxk=",
+          "py3"
+        ]
+      }
+    },
+    "0.7.0b20230301": {
+      "sdist": [
+        "oAmci92HcF5NcDKWUW1ZdZ4FBses6WJHG8jC3y8rUy4=",
+        "autogluon.timeseries-0.7.0b20230301.tar.gz"
+      ],
+      "wheels": {
+        "autogluon.timeseries-0.7.0b20230301-py3-none-any.whl": [
+          "DICeMdcLnY9W3+1rA2UzAsoIkMn+07Sm69yo5hqoAyk=",
           "py3"
         ]
       }
@@ -72369,6 +72393,12 @@
         "n9M9+OFkCRMLo3VHNnFBfJA3UVgl+L4jDuMT6rjoE5s=",
         "mergin-client-0.8.0.tar.gz"
       ]
+    },
+    "0.8.1": {
+      "sdist": [
+        "Msuzf1/TPTD3Lf23HmTdQVH9LZF4cZtdRTQom5TwTUc=",
+        "mergin-client-0.8.1.tar.gz"
+      ]
     }
   },
   "message-client-part": {
@@ -75846,6 +75876,18 @@
       "wheels": {
         "modelon_impact_client-3.0.0.dev10-py3-none-any.whl": [
           "dMfkF0d1hdryLZmAViIiaCznIItvmsZj1XmvL1ARqsc=",
+          "py3"
+        ]
+      }
+    },
+    "3.0.0.dev11": {
+      "sdist": [
+        "8aILhXpW6/xd2T5qV8/jkYuIXrd3TdiVfKzrP5gumYM=",
+        "modelon_impact_client-3.0.0.dev11.tar.gz"
+      ],
+      "wheels": {
+        "modelon_impact_client-3.0.0.dev11-py3-none-any.whl": [
+          "YEH2Y4oz8nny0/jznNMxSC7ySUi8RuPb/TrvTd9Dr08=",
           "py3"
         ]
       }
@@ -140938,6 +140980,14 @@
       "wheels": {
         "triton_model_analyzer-1.24.0-py3-none-manylinux1_x86_64.whl": [
           "9nkGYC+RolWk8Njgcn7HR5IH2ueMx6kiKQoWMcoEz4A=",
+          "py3"
+        ]
+      }
+    },
+    "1.25.0": {
+      "wheels": {
+        "triton_model_analyzer-1.25.0-py3-none-manylinux1_x86_64.whl": [
+          "X8HNwkh9riTojRBCWYq53c9kw3u+XOcT4mQoRl04KcQ=",
           "py3"
         ]
       }

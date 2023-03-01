@@ -13044,6 +13044,18 @@
         ]
       }
     },
+    "2.20.0": {
+      "sdist": [
+        "dkosFTIwuPZyKgHVQbc0DzK25S8ZQKKajRBvAP+rf2c=",
+        "awswrangler-2.20.0.tar.gz"
+      ],
+      "wheels": {
+        "awswrangler-2.20.0-py3-none-any.whl": [
+          "GGsEgqdSCj8udyDnQTegp0YEh9Lh6bRz1z4oaNUg0uE=",
+          "py3"
+        ]
+      }
+    },
     "2.3.0": {
       "sdist": [
         "XzafzPeR6A76e7cElhgoV/NSMydfZq5i1Hbmi+iJIWU=",
@@ -76240,6 +76252,42 @@
         ]
       }
     },
+    "1.12.431": {
+      "sdist": [
+        "l0pkomidGJ1w2k6hJVB1eh8asxCDWSdvaODnhZlZa3o=",
+        "luminesce-sdk-preview-1.12.431.tar.gz"
+      ],
+      "wheels": {
+        "luminesce_sdk_preview-1.12.431-py3-none-any.whl": [
+          "3M/aurZOYB+Z8Jun5Mud3p4fNTNLGgWOA9ruaTU0cRY=",
+          "py3"
+        ]
+      }
+    },
+    "1.12.432": {
+      "sdist": [
+        "hlgzenHh0Rr2ce0EvtNB2JUgiBWSJ5L2OFU/+Uabck8=",
+        "luminesce-sdk-preview-1.12.432.tar.gz"
+      ],
+      "wheels": {
+        "luminesce_sdk_preview-1.12.432-py3-none-any.whl": [
+          "ei6TCN0PBvaHNSPSydMUWaWf8y6gpIodoxuHi2SMLZw=",
+          "py3"
+        ]
+      }
+    },
+    "1.12.434": {
+      "sdist": [
+        "xxDEXnGG9ooXmJDbW+Jn2T9aXjgP8w91EcyKiTn89/4=",
+        "luminesce-sdk-preview-1.12.434.tar.gz"
+      ],
+      "wheels": {
+        "luminesce_sdk_preview-1.12.434-py3-none-any.whl": [
+          "8dUT8PjQxUxXtnrt6h63Fd6hdB4SSbuAYAt1G8q08pc=",
+          "py3"
+        ]
+      }
+    },
     "1.12.57": {
       "sdist": [
         "IJPLBGFPuWF575vmkfgZ+/mWRwywWfWHrLXiVzlu9i0=",
@@ -126256,6 +126304,18 @@
         ]
       }
     },
+    "0.1.23": {
+      "sdist": [
+        "JHbKEe8fNSv53mLdI64yhAi7dhy9eCxQVv46LDGnAeQ=",
+        "rekuest-0.1.23.tar.gz"
+      ],
+      "wheels": {
+        "rekuest-0.1.23-py3-none-any.whl": [
+          "KGj8MmJj/RT0uG98dgaVmu2mBbxVe34BjDgi6/fyAeE=",
+          "py3"
+        ]
+      }
+    },
     "0.1.3": {
       "sdist": [
         "UEfOcuZWYOKXeYUltRN1hQ/4/Nl7wUMVKMan4N7eDlc=",
@@ -128055,6 +128115,68 @@
         "lCZZcnH6hKch4Y8CFtcKgcWxJo0ewaI0YuY/yiZMAyI=",
         "rvect-0.1.0.0.zip"
       ]
+    }
+  },
+  "rwkv": {
+    "0.0.1": {
+      "sdist": [
+        "oLtqhc3BuQrFaN3KV5FXakVgej1Zmh6yJpvWCW7rIb0=",
+        "rwkv-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "rwkv-0.0.1-py3-none-any.whl": [
+          "cx9cSbQFvrn76bHG1f+fhKLJ1GIUG1cT0NppMMyuBGk=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "t3cHKsPf74YqaK2xDi/GL0l4cmVGa3X+j/E9TLLNmN4=",
+        "rwkv-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "rwkv-0.0.2-py3-none-any.whl": [
+          "2kZgntS672VozUkDuv/Luuza0Xm8VcaDdhaa3DoI0YA=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "0C+bPV5gKumuzommsiB9BE8byUm4Q1cOGbPz+ANJfVg=",
+        "rwkv-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "rwkv-0.0.3-py3-none-any.whl": [
+          "Rw7MQiHNW57PgmQvFwGA9cYsku3p8U37Y2f7IkJAZHE=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4": {
+      "sdist": [
+        "V6GIs6LTsN/lrQLxtH4zedi/NB5auUhjITZZUHRBsXY=",
+        "rwkv-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "rwkv-0.0.4-py3-none-any.whl": [
+          "9UCGLZZML7G76U7JxKeezM5c5wdwNg83uotOAphIdtM=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.5": {
+      "sdist": [
+        "Ufd7CsIUNRK3e4NS+lNgVL5hNTGdgdyqrmvuWC2vFEU=",
+        "rwkv-0.0.5.tar.gz"
+      ],
+      "wheels": {
+        "rwkv-0.0.5-py3-none-any.whl": [
+          "Sen35fKOY4mFHu3nL2QOQvAeGtHgP/Gj4XnH1TE33q0=",
+          "py3"
+        ]
+      }
     }
   },
   "rwsuis": {
@@ -134602,6 +134724,18 @@
       "wheels": {
         "speechmatics_python-1.6.4-py3-none-any.whl": [
           "3JTBRHYYhZL+/ZFi6p3QG7Pm4K2GUgLUXTK1M9YVvMg=",
+          "py3"
+        ]
+      }
+    },
+    "1.7.0": {
+      "sdist": [
+        "vjeM1KCFv9HviCCcUU9hyL7SD/wAHqFFfwvfVhBQNWc=",
+        "speechmatics-python-1.7.0.tar.gz"
+      ],
+      "wheels": {
+        "speechmatics_python-1.7.0-py3-none-any.whl": [
+          "GMpRoOxkrDn7OXDMmqASUsPSFtelthViQHPJDaGVRZY=",
           "py3"
         ]
       }

@@ -27909,6 +27909,50 @@
           "cp39"
         ]
       }
+    },
+    "11.6.0": {
+      "wheels": {
+        "cupy_cuda12x-11.6.0-cp310-cp310-manylinux1_x86_64.whl": [
+          "M/sD82gMAf4rpffcGvkl/eUkxg13qMPn7jZVSd17kis=",
+          "cp310"
+        ],
+        "cupy_cuda12x-11.6.0-cp310-cp310-win_amd64.whl": [
+          "xS8F+rOPd+UzeYYYNL6rVJ7iqlQJL0DkYPimIIiA284=",
+          "cp310"
+        ],
+        "cupy_cuda12x-11.6.0-cp311-cp311-manylinux1_x86_64.whl": [
+          "Tt9a16+JdierIrFc8jQPSE4peQvfoKlf7KS/h/uBo7Y=",
+          "cp311"
+        ],
+        "cupy_cuda12x-11.6.0-cp311-cp311-win_amd64.whl": [
+          "Vnjpnt6KZlWa9Vx4UbMJ1WuNOLZKhVLjjezxRo9/opw=",
+          "cp311"
+        ],
+        "cupy_cuda12x-11.6.0-cp37-cp37m-manylinux1_x86_64.whl": [
+          "+MGrx73Vj4FYLCc3w0rMrGW7RfMUlitx/MfpfaOxwL0=",
+          "cp37"
+        ],
+        "cupy_cuda12x-11.6.0-cp37-cp37m-win_amd64.whl": [
+          "Rywk6Wbn8ElM6TnX0rdb6YFbfdbGTLbJlvI1/0NlAgs=",
+          "cp37"
+        ],
+        "cupy_cuda12x-11.6.0-cp38-cp38-manylinux1_x86_64.whl": [
+          "scYcjbBBShSWiTew5kGe2g0bc2b/Gimaqt3RBKxA01Y=",
+          "cp38"
+        ],
+        "cupy_cuda12x-11.6.0-cp38-cp38-win_amd64.whl": [
+          "1d5alKXd+lGCpkEUYueI+sv0nH1THcc0PZ/Mf0dYA58=",
+          "cp38"
+        ],
+        "cupy_cuda12x-11.6.0-cp39-cp39-manylinux1_x86_64.whl": [
+          "K8XaD148A9z1C/oUQq3XTh7GKJGJTb1N75aG9HocuII=",
+          "cp39"
+        ],
+        "cupy_cuda12x-11.6.0-cp39-cp39-win_amd64.whl": [
+          "lDrAhHKEoWt4EjYaMk7nMsZFgfKV8HKq1Q1P0GpOoIQ=",
+          "cp39"
+        ]
+      }
     }
   },
   "curies": {
@@ -57049,6 +57093,16 @@
         "HqT16sT9nJnEJzqB8wly8yMx8Q6NaqtKAmgU/QbaVCM=",
         "hither-0.8.1.tar.gz"
       ]
+    }
+  },
+  "hmd-lib-containers": {
+    "0.1.18": {
+      "wheels": {
+        "hmd_lib_containers-0.1.18-py3-none-any.whl": [
+          "QTHCrq2yb8zhgo+wmM7X68s9/mOO9axGskhzF+1HU94=",
+          "py3"
+        ]
+      }
     }
   },
   "hnswlib-prebuilt-sandybridge": {
@@ -86959,6 +87013,14 @@
           "py3"
         ]
       }
+    },
+    "15.0.20230301.0": {
+      "wheels": {
+        "odoo_addons_oca_event-15.0.20230301.0-py3-none-any.whl": [
+          "193FGoduX6ALuzhf+x0ubd7E09+FTU8lihdhJcmkdNY=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo-addons-oca-mis-builder-contrib": {
@@ -91870,6 +91932,18 @@
       "wheels": {
         "openai_helper-0.1.38-py3-none-any.whl": [
           "0HNEim1I62rMS/wo+lQ3SmcXX081chEEpIvhs2HGfMo=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.39": {
+      "sdist": [
+        "o1ylsohNjEPtDlk7TaFDwuDSktpq1AaTSjO6rFsnnvs=",
+        "openai-helper-0.1.39.tar.gz"
+      ],
+      "wheels": {
+        "openai_helper-0.1.39-py3-none-any.whl": [
+          "l6C0x15vxCn6cj45VujVEcIdsvhPASG5rvVxrp//V6Y=",
           "py3"
         ]
       }
@@ -137569,6 +137643,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.841": {
+      "sdist": [
+        "90zmIVEscS4nDHVIpcHUYZPVv6t5SDUigchfvsWxbjU=",
+        "tencentcloud-sdk-python-sts-3.0.841.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_sts-3.0.841-py2.py3-none-any.whl": [
+          "lto1BoDeniwH+arjZx9EiFxwIjBgd5iJnMRTOpQfolo=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tencentyun": {
@@ -142163,6 +142249,14 @@
           "py3"
         ]
       }
+    },
+    "2.4.2.post2": {
+      "wheels": {
+        "types_aiobotocore_billingconductor-2.4.2.post2-py3-none-any.whl": [
+          "gE2kgEcJ8PTdOsrHFAB+hR3P8xjpOvNho+oUwuUyDtE=",
+          "py3"
+        ]
+      }
     }
   },
   "types-aiobotocore-eks": {
@@ -142390,6 +142484,18 @@
       "wheels": {
         "types_aiobotocore_eks-2.4.2-py3-none-any.whl": [
           "T3CbC5A3YltBVTymFWBT9uy2qIHyGZZUXMDMK5C4mJU=",
+          "py3"
+        ]
+      }
+    },
+    "2.4.2.post2": {
+      "sdist": [
+        "Sy6HPQegLiaMENYFJ1u6cTv+VWWGueJ2f63DPV5qmGg=",
+        "types-aiobotocore-eks-2.4.2.post2.tar.gz"
+      ],
+      "wheels": {
+        "types_aiobotocore_eks-2.4.2.post2-py3-none-any.whl": [
+          "t4Msd1HmXxTB7vQiKM4eh63D/XHHBZgngL/t1uTPcw4=",
           "py3"
         ]
       }
@@ -145650,6 +145756,18 @@
       "wheels": {
         "webui2-2.0.3-py3-none-any.whl": [
           "nVaK8MDk8IWuj0nOiEmhB7b7Xc7EMhbv8QtG6SEjOno=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.6": {
+      "sdist": [
+        "5dG7RtvnM2+OnBlAxGpKuv+Ye1q/vNF2YORXxoCFsws=",
+        "webui2-2.0.6.tar.gz"
+      ],
+      "wheels": {
+        "webui2-2.0.6-py3-none-any.whl": [
+          "7B0E82Ket+Xr8Q4Cy3BYR4JoQKiZssx0BfUpGeYL3QE=",
           "py3"
         ]
       }

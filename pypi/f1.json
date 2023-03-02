@@ -23234,6 +23234,18 @@
         ]
       }
     },
+    "0.2.11.1": {
+      "sdist": [
+        "UB3CosN5BVFtKSx2IxX7owGof+IDo1BkBtHzrbqV3Yc=",
+        "databricks-automl-runtime-0.2.11.1.tar.gz"
+      ],
+      "wheels": {
+        "databricks_automl_runtime-0.2.11.1-py2.py3-none-any.whl": [
+          "Oa4x+uDcInTnrhzMi+J7WVye5P025CFXl6y5X/PUhus=",
+          "py2.py3"
+        ]
+      }
+    },
     "0.2.12": {
       "sdist": [
         "dMRXpTm7jpj3hVDoRg8ucPVsgRwiHdcn2lBPT4Qxsw4=",
@@ -23470,6 +23482,18 @@
       "wheels": {
         "databricks_automl_runtime-0.2.6.4-py2.py3-none-any.whl": [
           "M5ebPyYttIatW7he57pEqyGTgURHMoelFhX+iGmXUOo=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.2.6.5": {
+      "sdist": [
+        "TzqAP6GdsYavE9H0qYGvwBadnv3D/K7P3gdArk7GONA=",
+        "databricks-automl-runtime-0.2.6.5.tar.gz"
+      ],
+      "wheels": {
+        "databricks_automl_runtime-0.2.6.5-py2.py3-none-any.whl": [
+          "caZnQh0b/01gHtHEujF6EAwZGWgByEKM6PU90XzRUbo=",
           "py2.py3"
         ]
       }
@@ -25486,6 +25510,74 @@
       "wheels": {
         "didppy-0.1.0-cp37-abi3-manylinux_2_34_x86_64.whl": [
           "dt2C/tqPNPZ3uwJOpmp0mpMNiiS1ypW/tT2XzCZ+YRk=",
+          "cp37"
+        ]
+      }
+    },
+    "0.2.0": {
+      "sdist": [
+        "BTJ1YOaMg3BZj7mizxnwJ/Q6KSaguj8MGLxs6iqNiG4=",
+        "didppy-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "didppy-0.2.0-cp37-abi3-macosx_10_7_x86_64.whl": [
+          "PU8agUIgDPh9huew07PmmOMkCkU4ul7YIz5ldsWrBTM=",
+          "cp37"
+        ],
+        "didppy-0.2.0-cp37-abi3-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "hlZ7jHU9yj+Deo6QYf6FG3gbXpxLl6Dy4ZEwOs1J3s0=",
+          "cp37"
+        ],
+        "didppy-0.2.0-cp37-abi3-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "RKgB9S6SQm7sC2TOLZAKEFFOG73ZF+ZvvYWv3UKju6o=",
+          "cp37"
+        ],
+        "didppy-0.2.0-cp37-abi3-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "6onB8ixHHJMDV6EkoIWMZhFLdPvyWIXq849T2YHY8kE=",
+          "cp37"
+        ],
+        "didppy-0.2.0-cp37-abi3-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "WEhqLtTFkzp8FISo115qjlpv9IY20m5nP6xI/aO43P4=",
+          "cp37"
+        ],
+        "didppy-0.2.0-cp37-abi3-manylinux_2_17_ppc64.manylinux2014_ppc64.whl": [
+          "3izQxpDM9cETL6M1JIiBErvD/g2XvUscmng9EgF9+Uk=",
+          "cp37"
+        ],
+        "didppy-0.2.0-cp37-abi3-manylinux_2_17_s390x.manylinux2014_s390x.whl": [
+          "caw1yyUwDg+MxtjcY3Y7DiB3Z55ehVNfTLtqPDSFw7I=",
+          "cp37"
+        ],
+        "didppy-0.2.0-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "FWfxmTimzXpXVXGzF7xBv3iu7Dem4bOUsWTRtd9AiAE=",
+          "cp37"
+        ],
+        "didppy-0.2.0-cp37-abi3-manylinux_2_5_i686.manylinux1_i686.whl": [
+          "f4Z71KUkKHfrBEf+lMDn4087R+3cA0DmJkz2wr9vu8w=",
+          "cp37"
+        ],
+        "didppy-0.2.0-cp37-abi3-musllinux_1_2_aarch64.whl": [
+          "MnU3nPlSIgyeXhvYHD7iOkKe+33LPykS5R+686lpXPw=",
+          "cp37"
+        ],
+        "didppy-0.2.0-cp37-abi3-musllinux_1_2_armv7l.whl": [
+          "uPhyBvHC3yDfKqoYWTY+5Ahc92GlaNouS0l9V7HVwus=",
+          "cp37"
+        ],
+        "didppy-0.2.0-cp37-abi3-musllinux_1_2_i686.whl": [
+          "aAlk9ZrrIpzkR6B5b3Oc0PNH16GgekiXtbYvrqpAX6o=",
+          "cp37"
+        ],
+        "didppy-0.2.0-cp37-abi3-musllinux_1_2_x86_64.whl": [
+          "Ed94JjuAfazqMgYYH8/JnMyannr3pfKRQi8w6oeuY8M=",
+          "cp37"
+        ],
+        "didppy-0.2.0-cp37-abi3-win32.whl": [
+          "4m3eWsxg9ehdhLYWsXRVSxVjEjex9Y3mENKgPVPsd9M=",
+          "cp37"
+        ],
+        "didppy-0.2.0-cp37-abi3-win_amd64.whl": [
+          "CqlcGk52VaZ2FBVHOdGEqseaviuIDtRuZhNYcqKVJBU=",
           "cp37"
         ]
       }
@@ -39912,6 +40004,18 @@
       "wheels": {
         "dudraw-1.6.2-py3-none-any.whl": [
           "T9KIi7CspHerz56Ty9WpLoXsNy98Y3Pj26GFj9qaDVA=",
+          "py3"
+        ]
+      }
+    },
+    "1.8.0": {
+      "sdist": [
+        "9259XJS05zuwQOUCNUuW+sNsTidSoY4l8dvzJ8npmBk=",
+        "dudraw-1.8.0.tar.gz"
+      ],
+      "wheels": {
+        "dudraw-1.8.0-py3-none-any.whl": [
+          "CTbwob3lvfG8ItA85Eq5FLNIUF5HhdjzgHuFCOD0mw4=",
           "py3"
         ]
       }
@@ -83393,6 +83497,20 @@
         "0OdaKG7eo2sx/lVtvk6EplvmwkERk/kzmEGtQnpRElI=",
         "neck-1.0.0.zip"
       ]
+    }
+  },
+  "neo-vendors": {
+    "0.1.0": {
+      "sdist": [
+        "n8wLdUT/EF8iiRXM82A2QM8Ay2Vp6+WCyWiT3lsfMVM=",
+        "neo_vendors-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "neo_vendors-0.1.0-py3-none-any.whl": [
+          "/H80c3IE8khek6778zhR+WR58KPV4/QrSH8ly9vSq1s=",
+          "py3"
+        ]
+      }
     }
   },
   "neptune-dnsoverhttps-protocol": {
@@ -145565,6 +145683,18 @@
           "py3"
         ]
       }
+    },
+    "2.4.2.post2": {
+      "sdist": [
+        "7AyF9R+Z9SxjLYDcCe2upLkN3ApHBRR5CIIVsbLkPbE=",
+        "types-aiobotocore-elbv2-2.4.2.post2.tar.gz"
+      ],
+      "wheels": {
+        "types_aiobotocore_elbv2-2.4.2.post2-py3-none-any.whl": [
+          "SWmJiOBRsGb17yy/bcDKeGBAQr12UGaYHoSG7M2xfYg=",
+          "py3"
+        ]
+      }
     }
   },
   "types-aiobotocore-snowball": {
@@ -145795,6 +145925,18 @@
           "py3"
         ]
       }
+    },
+    "2.4.2.post2": {
+      "sdist": [
+        "XeCsjMbG21sOjK+ceOyrsCbbrPjHD9Il7ubm8SmEgJU=",
+        "types-aiobotocore-snowball-2.4.2.post2.tar.gz"
+      ],
+      "wheels": {
+        "types_aiobotocore_snowball-2.4.2.post2-py3-none-any.whl": [
+          "0WFj8oYxBAy0w62y6TDFnAMTbHOIhWQ61SK94xPKD3s=",
+          "py3"
+        ]
+      }
     }
   },
   "types-aiobotocore-voice-id": {
@@ -146022,6 +146164,18 @@
       "wheels": {
         "types_aiobotocore_voice_id-2.4.2-py3-none-any.whl": [
           "nMffWzkul62FM6SM5NeuAmxEvMeQ8uKadyP2bVnjiVg=",
+          "py3"
+        ]
+      }
+    },
+    "2.4.2.post2": {
+      "sdist": [
+        "/FOFF4u+MEech3zUdyfHAvdJHepnCJZRhAyjrUHpLAc=",
+        "types-aiobotocore-voice-id-2.4.2.post2.tar.gz"
+      ],
+      "wheels": {
+        "types_aiobotocore_voice_id-2.4.2.post2-py3-none-any.whl": [
+          "+4HYWNfCYCKxlU/WgQLNt4mtZVgF4OfjlYCgC0mBkr8=",
           "py3"
         ]
       }

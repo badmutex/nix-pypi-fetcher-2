@@ -9535,6 +9535,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.82": {
+      "sdist": [
+        "d7iAOoPnzCnfa97v0Y3HbiHqKghMFmFlDCP9RD0kSkA=",
+        "botocore-a-la-carte-savingsplans-1.29.82.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_savingsplans-1.29.82-py3-none-any.whl": [
+          "R9ICfkFVdcMVTLeDNZlXa18+owKCeYxqgmzgXWRlKsI=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-sso-admin": {
@@ -10014,6 +10026,18 @@
       "wheels": {
         "botocore_a_la_carte_sso_admin-1.29.81-py3-none-any.whl": [
           "/jnKtsRTIizhWEhLIIRxNKNmCYN4+MyC+PbmpJAtuMc=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.82": {
+      "sdist": [
+        "13mndqH4Iy95uLyvF0PgrcY8PyOnJU3s6peEqfFBimE=",
+        "botocore-a-la-carte-sso-admin-1.29.82.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_sso_admin-1.29.82-py3-none-any.whl": [
+          "QEe7dYVAJk4+CN6J8E+K+8VBtLhIJwSdM4L96ogdjCE=",
           "py3"
         ]
       }
@@ -87119,6 +87143,16 @@
       }
     }
   },
+  "odoo-addon-dms-attachment-link": {
+    "15.0.1.0.0.2": {
+      "wheels": {
+        "odoo_addon_dms_attachment_link-15.0.1.0.0.2-py3-none-any.whl": [
+          "h+M6tRqga3En9W24pSINupRTWrpGVKSaBQt+uo6RDcw=",
+          "py3"
+        ]
+      }
+    }
+  },
   "odoo-addon-hr-employee-birth-name": {
     "15.0.1.0.0.3": {
       "wheels": {
@@ -87278,6 +87312,18 @@
       "wheels": {
         "odoo_tools-0.1.5-py3-none-any.whl": [
           "aAXzE7UXKEGGnXOXo6T4PRdmpa1MI/JmC/XRTzgg+xM=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.6": {
+      "sdist": [
+        "nbMTftFL1MbDQV6RQsPMkfo25ofz73xoMLEZ5SJvHQo=",
+        "odoo-tools-0.1.6.tar.gz"
+      ],
+      "wheels": {
+        "odoo_tools-0.1.6-py3-none-any.whl": [
+          "X31T1onrH1aIIIn7P8hyHJMoHMf7Xo1Hp0XGej1f5QQ=",
           "py3"
         ]
       }
@@ -104340,6 +104386,12 @@
         "pulumi_alicloud-3.31.0a1676395236.tar.gz"
       ]
     },
+    "3.32.0a1677719592": {
+      "sdist": [
+        "BRgfAoltHAcWXhJgkuyZwfaVEN5QrngKOZiK+oPjXsk=",
+        "pulumi_alicloud-3.32.0a1677719592.tar.gz"
+      ]
+    },
     "3.4.0": {
       "sdist": [
         "rJzVO3HcflmfT17d41cbSphn8RjAUGpVyV6r1A+//QM=",
@@ -109409,6 +109461,16 @@
         "2E/gD6LhLhg6byfjbcVPfJMwWiukRRBKRSDltcvdjro=",
         "Pyll-0.4.3.tar.gz"
       ]
+    }
+  },
+  "pyloadanimate": {
+    "0.1.0": {
+      "wheels": {
+        "pyloadanimate-0.1.0-py3-none-any.whl": [
+          "TxDSGKTQUCEY0Pnl75epGlpr2BqcG/8DJKR6//u4vdM=",
+          "py3"
+        ]
+      }
     }
   },
   "pylon-lib": {
@@ -132173,6 +132235,32 @@
       }
     }
   },
+  "synapseml-opencv": {
+    "1.0.0": {
+      "sdist": [
+        "jhTFN1pHyLu3PhI/xGzeg+YkU+liOOE37mHPvsowBqo=",
+        "synapseml-opencv-1.0.0.tar.gz"
+      ]
+    },
+    "100.0.0": {
+      "sdist": [
+        "/aysjAR5GIfV2XoCXt+A4FhoASR9ZErKzBhlfmbA45U=",
+        "synapseml-opencv-100.0.0.tar.gz"
+      ]
+    },
+    "2.0.0": {
+      "sdist": [
+        "ex0QPKD55N1QyGID1RdExcU9OesSfVLbpfkwtIjKSq4=",
+        "synapseml-opencv-2.0.0.tar.gz"
+      ]
+    },
+    "25.0.0": {
+      "sdist": [
+        "or8ySd/Gq4RXvJ1ZX2ZLQDXX3AL5p4EvhfPFlrFvBts=",
+        "synapseml-opencv-25.0.0.tar.gz"
+      ]
+    }
+  },
   "synbols": {
     "0.1.1": {
       "sdist": [
@@ -140731,6 +140819,22 @@
           "py3"
         ]
       }
+    },
+    "2.0.5": {
+      "wheels": {
+        "tkvue-2.0.5-py3-none-any.whl": [
+          "BuQ+DTOcxPdrnmCWUhaf7fleFQeQNC5izWmRvgcpbgw=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.5a2": {
+      "wheels": {
+        "tkvue-2.0.5a2-py3-none-any.whl": [
+          "UhdJoPXsVFTH5SvXB/nHw/iNP2atptbAbpf7WbwTYYg=",
+          "py3"
+        ]
+      }
     }
   },
   "tmtool": {
@@ -145285,6 +145389,18 @@
           "py3"
         ]
       }
+    },
+    "2.4.2.post2": {
+      "sdist": [
+        "eZQ6ujnwf/4Yu2HmERpi3JxwCbyPOxSCBCQNnEC5FUk=",
+        "types-aiobotocore-gamesparks-2.4.2.post2.tar.gz"
+      ],
+      "wheels": {
+        "types_aiobotocore_gamesparks-2.4.2.post2-py3-none-any.whl": [
+          "1JPl3NXiDjk9TCm6Dm7A6V6oIcqkxtKylWN9EEuzj4g=",
+          "py3"
+        ]
+      }
     }
   },
   "types-aiobotocore-opsworkscm": {
@@ -145512,6 +145628,18 @@
       "wheels": {
         "types_aiobotocore_opsworkscm-2.4.2-py3-none-any.whl": [
           "QaDfNfTqkKkUXBrqQNhvX7NX9AGVKboF4Fdqp9abbj8=",
+          "py3"
+        ]
+      }
+    },
+    "2.4.2.post2": {
+      "sdist": [
+        "BakqOYI1GUtXP6KJ0tnsEcAmo+Qqv2Fv8nJUXjATKxo=",
+        "types-aiobotocore-opsworkscm-2.4.2.post2.tar.gz"
+      ],
+      "wheels": {
+        "types_aiobotocore_opsworkscm-2.4.2.post2-py3-none-any.whl": [
+          "PyquTnozy4Py7++swq5wgxPEt4DIaotnhVphLJnbgc0=",
           "py3"
         ]
       }
@@ -152776,6 +152904,18 @@
       "wheels": {
         "vipersci-0.3.0-py2.py3-none-any.whl": [
           "H5LouvarBdUJJT26UcXIcwMneoLJ1ryH9tqHIiqvg5g=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.4.0": {
+      "sdist": [
+        "trfs9TSl88fPNsvuodyyQvXM7Q3hEHsCLHfz42rxkhI=",
+        "vipersci-0.4.0.tar.gz"
+      ],
+      "wheels": {
+        "vipersci-0.4.0-py2.py3-none-any.whl": [
+          "mr5iHDO7+Wxrcng6G9jbKz3Bal5gDdB6/hTzfFWXB2w=",
           "py2.py3"
         ]
       }

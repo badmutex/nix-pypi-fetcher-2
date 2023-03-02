@@ -16085,6 +16085,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.82": {
+      "sdist": [
+        "/uS+iPWd8/XaS6HJDK6CcYyO8J0fU43DFUwegaEDh6o=",
+        "botocore-a-la-carte-chime-sdk-media-pipelines-1.29.82.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_chime_sdk_media_pipelines-1.29.82-py3-none-any.whl": [
+          "SFgKYXVPxKZmZkvF3KRiypw5ZAfF8ib/59WtfQufzd8=",
+          "py3"
+        ]
+      }
     }
   },
   "bottle-tools": {
@@ -101188,6 +101200,12 @@
         "proactive-13.1.0.2303010240.dev0.zip"
       ]
     },
+    "13.1.0.2303020238.dev0": {
+      "sdist": [
+        "GR1c49ALpUKtcbjWg7UThBEhqVRePfW1I/HrdqrPjrM=",
+        "proactive-13.1.0.2303020238.dev0.zip"
+      ]
+    },
     "13.1.1.2212182207.dev0": {
       "sdist": [
         "hcTQsCB22rsAzxYjV/+6nG22zFdUzgINev+tcAa3OSM=",
@@ -123182,6 +123200,18 @@
         "robotframework-ride-1.7.4b2.tar.gz"
       ]
     },
+    "2.0": {
+      "sdist": [
+        "OLufmOQRJhvIkh4DuzXwpnPWLRfaYck6MohpMuTZEO0=",
+        "robotframework-ride-2.0.zip"
+      ],
+      "wheels": {
+        "robotframework_ride-2.0-py3-none-any.whl": [
+          "d2DB8Fu/UaDlyGcXnGF+cako4YLjkbZEKWj9/AK5g6Q=",
+          "py3"
+        ]
+      }
+    },
     "2.0a1": {
       "sdist": [
         "Wk3Ldrzr5R0aQLUg3FRdFUjQ6IT1Slle+TkWMSJ4eHw=",
@@ -140636,6 +140666,34 @@
         ],
         "torch_directml-0.1.13.1.dev230119-cp39-cp39-win_amd64.whl": [
           "eUz8neF8ZFotGB1cZQJsdQsCFT0LuoYefudd0kQzB38=",
+          "cp39"
+        ]
+      }
+    },
+    "0.1.13.1.dev230301": {
+      "wheels": {
+        "torch_directml-0.1.13.1.dev230301-cp310-cp310-manylinux2010_x86_64.whl": [
+          "bNDW8fKk1fcqiDTXbUBBCmv0BxnM3WHGXpjkPMbZCi8=",
+          "cp310"
+        ],
+        "torch_directml-0.1.13.1.dev230301-cp310-cp310-win_amd64.whl": [
+          "6dy70ulGFXLspoUtUGg9IOIWadJ0842Q2iIT8LBScEk=",
+          "cp310"
+        ],
+        "torch_directml-0.1.13.1.dev230301-cp38-cp38-manylinux2010_x86_64.whl": [
+          "9xMBlU6+Q+80f1Nr+pSRGEwLaWhc52eTV+NAA06yBHk=",
+          "cp38"
+        ],
+        "torch_directml-0.1.13.1.dev230301-cp38-cp38-win_amd64.whl": [
+          "n2fwEnizeEUUKR/6xsjgKlO4otyEWk+dT/jkcWoDbOI=",
+          "cp38"
+        ],
+        "torch_directml-0.1.13.1.dev230301-cp39-cp39-manylinux2010_x86_64.whl": [
+          "i6YedUoSG0Bf5sHaDkLjtrx5HpKGm+nAnNoOQSjLEIU=",
+          "cp39"
+        ],
+        "torch_directml-0.1.13.1.dev230301-cp39-cp39-win_amd64.whl": [
+          "SczdfioQWZs4z9SIoGjU2AI7JZRnQqI3BoAJCfEacME=",
           "cp39"
         ]
       }

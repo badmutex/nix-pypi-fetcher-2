@@ -4088,6 +4088,10 @@
     },
     "2.8.1": {
       "wheels": {
+        "anyon-2.8.1-cp310-cp310-macosx_10_9_universal2.whl": [
+          "6Vg6wTj3EU473zORkG+6ZWFtTKdRzRRSAAlhpP+b728=",
+          "cp310"
+        ],
         "anyon-2.8.1-cp310-cp310-manylinux1_x86_64.whl": [
           "Go/mO2N0sufrIvDv1/jJgvD3fXMUqlkWYLylwnFMfIc=",
           "cp310"
@@ -4095,6 +4099,10 @@
         "anyon-2.8.1-cp310-cp310-win_amd64.whl": [
           "IwxKRc/qerKkyfBf67eJ5zwKaHTVIPDsThkC29gjWYw=",
           "cp310"
+        ],
+        "anyon-2.8.1-cp311-cp311-macosx_10_9_universal2.whl": [
+          "BWHwPmct3i4v3HyGQE7m9hDsjjOMfencN691bpJS4PY=",
+          "cp311"
         ],
         "anyon-2.8.1-cp311-cp311-manylinux1_x86_64.whl": [
           "uyPGHzwe97a+NrWFmiD1HzhgXvtNwqUTWmA/U5M/NdM=",
@@ -7975,6 +7983,32 @@
       }
     }
   },
+  "azureml-data": {
+    "1.0.0": {
+      "sdist": [
+        "fdLOxbMw8Io+hnDF+EaftA8N6vR9IV3p+2/K/6GEvmA=",
+        "azureml-data-1.0.0.tar.gz"
+      ]
+    },
+    "100.0.0": {
+      "sdist": [
+        "xML/hWm0qLp98dKAlrIYLCEk1jrJYp2pEyErA75L9sA=",
+        "azureml-data-100.0.0.tar.gz"
+      ]
+    },
+    "2.0.0": {
+      "sdist": [
+        "ZvYYYfeg8t9zf0nUk6GR71LuC0GSOphR3NF4WbxaDeQ=",
+        "azureml-data-2.0.0.tar.gz"
+      ]
+    },
+    "25.0.0": {
+      "sdist": [
+        "bXxM8AVpynYNoqS3iNhFpT/ldyWO4vCE7adwV+xYlsA=",
+        "azureml-data-25.0.0.tar.gz"
+      ]
+    }
+  },
   "backend.ai-plugin": {
     "22.3.10": {
       "sdist": [
@@ -8464,6 +8498,18 @@
       "wheels": {
         "backend.ai_plugin-23.3.0.dev0-py3-none-any.whl": [
           "UZNrFpacGroisuTttJhkUpqmH5nUOKATU8XJUTloewI=",
+          "py3"
+        ]
+      }
+    },
+    "23.3.0a1": {
+      "sdist": [
+        "n/VfPeRy5bBYBe4iVn6ntzI6Zlf8cOa9Xxy98unaEBs=",
+        "backend.ai-plugin-23.3.0a1.tar.gz"
+      ],
+      "wheels": {
+        "backend.ai_plugin-23.3.0a1-py3-none-any.whl": [
+          "mGqvrUJ1lZx+4fxB8AC0EVpB8Km8wcyjtv5vcMf90fA=",
           "py3"
         ]
       }
@@ -11022,6 +11068,18 @@
       "wheels": {
         "botocore_a_la_carte_firehose-1.29.81-py3-none-any.whl": [
           "EpyYF/7Kl40BQ01sDP+tK319CmCac0wyF0MeMvN+dqA=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.82": {
+      "sdist": [
+        "0oUHATz5Nih9/ZJ9ZCm7qo73ydcFigdxFGSVgnlXil8=",
+        "botocore-a-la-carte-firehose-1.29.82.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_firehose-1.29.82-py3-none-any.whl": [
+          "bsAIRapzYwYcV2i1YdEvDYyMGiAZC5ZrtrJcyEbiG20=",
           "py3"
         ]
       }
@@ -93070,6 +93128,34 @@
         ]
       }
     },
+    "1.8.12": {
+      "sdist": [
+        "UHT/37KPVCdtuftx3ijIPlJcM16FNwzuTY9Vn6Cxhmo=",
+        "OctoBot-Commons-1.8.12.tar.gz"
+      ],
+      "wheels": {
+        "OctoBot_Commons-1.8.12-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "bzNMJ5fb9aWQ/TbKMzqPfXiwyYwR7wPD7cDKzsXzkiA=",
+          "cp38"
+        ],
+        "OctoBot_Commons-1.8.12-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "OVW6fMTZmFcVoZjjpqRwgf5uJj3he68cCNxd97TpaWI=",
+          "cp38"
+        ],
+        "OctoBot_Commons-1.8.12-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "SghH6v1s3zDOBAlzaWCeeFPtccAv9uWdNnCuvbWlAz8=",
+          "cp38"
+        ],
+        "OctoBot_Commons-1.8.12-cp38-cp38-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "eyyKDP2F6kIgijTsZnHVMi0thPAj3zwy/1Fv0XeNVhU=",
+          "cp38"
+        ],
+        "OctoBot_Commons-1.8.12-cp38-cp38-win_amd64.whl": [
+          "na963jRTTekSS4qqNSonTcymDpg7eVup4gJnxsUPOdI=",
+          "cp38"
+        ]
+      }
+    },
     "1.8.2": {
       "sdist": [
         "pCmQBwqpfL4iegt/X8w8mS+JVl3TNso1m+gw6XAhhvU=",
@@ -98882,6 +98968,12 @@
       "sdist": [
         "F5GlL07LvrtC/VOdz9ns1fAWmepKCiGa+a6Y2fWMBpI=",
         "paperstack-1.1.9.tar.gz"
+      ]
+    },
+    "1.2.0": {
+      "sdist": [
+        "BhX6PyWyWe6+6SrHXN3Anf5EwdAi8i+kOkkOsLCCyEY=",
+        "paperstack-1.2.0.tar.gz"
       ]
     }
   },

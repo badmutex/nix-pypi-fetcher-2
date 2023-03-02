@@ -13713,6 +13713,14 @@
       }
     }
   },
+  "barrier3d": {
+    "2.0.1": {
+      "sdist": [
+        "W1zr+cWK7Q+FBSds4AoQvXBx0Lw+DdYdPB6emsiyQ7I=",
+        "barrier3d-2.0.1.tar.gz"
+      ]
+    }
+  },
   "baseextensions": {
     "1.0.0": {
       "sdist": [
@@ -16141,6 +16149,18 @@
           "py3"
         ]
       }
+    },
+    "0.7.6": {
+      "sdist": [
+        "7bJvWElVbwUKyZAt5FX+iVt1LAOzbonC8zknpSrXxrI=",
+        "biglist-0.7.6.tar.gz"
+      ],
+      "wheels": {
+        "biglist-0.7.6-py3-none-any.whl": [
+          "Oi5BIoUJtHJbCcyNGGyHPY3hM2WPjVxjEgYTcenY6/o=",
+          "py3"
+        ]
+      }
     }
   },
   "binance-downloader": {
@@ -18049,6 +18069,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.82": {
+      "sdist": [
+        "kY4kEri0rxHVtTA1pQv0hw7jle4OoIvwvhXck/zSNg4=",
+        "botocore-a-la-carte-connectparticipant-1.29.82.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_connectparticipant-1.29.82-py3-none-any.whl": [
+          "qRfXj1ZmzMmGshl808qaJksixwUyMb2hc86xDmvcrF4=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-lakeformation": {
@@ -18528,6 +18560,18 @@
       "wheels": {
         "botocore_a_la_carte_lakeformation-1.29.81-py3-none-any.whl": [
           "sFSkox4LIcCRs+EaSXbE5rH1o9z1MFF5apsvECEjUxA=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.82": {
+      "sdist": [
+        "t1/85dRXT3QEQSdbeoPO2P29QFIPc2m84lAgIJXoiF0=",
+        "botocore-a-la-carte-lakeformation-1.29.82.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_lakeformation-1.29.82-py3-none-any.whl": [
+          "5iTbVnj872S9YvtDpbJLl3D63Q1f5/gSl9lbj78lEP0=",
           "py3"
         ]
       }
@@ -42516,6 +42560,32 @@
       "wheels": {
         "fast_pagerank-0.0.4-py3-none-any.whl": [
           "XYz39ZVGkNgOf0tGcGBvF60rLB2aqP6r3E1OQkLequU=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "fastapi-cruddy-framework": {
+    "0.0.1": {
+      "sdist": [
+        "eB7rMzfiLI4oTYZ8SZflFyNBmaz4JbUuD/pu9Ta6VQI=",
+        "fastapi_cruddy_framework-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "fastapi_cruddy_framework-0.0.1-py3-none-any.whl": [
+          "NWaRkoUzWyY0yT2aRgGiOFHPrh4NUiCYUA948+PWbcU=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "ls9H7zwRappYAAgBBvYEkKeZ9XCK1TSQaZvlGGKvPb0=",
+        "fastapi_cruddy_framework-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "fastapi_cruddy_framework-0.0.2-py3-none-any.whl": [
+          "SUJW0bvhrsV7xZL8z6UcuGQLZa438sOxKuvSli/F7Ok=",
           "py3"
         ]
       }
@@ -126374,6 +126444,42 @@
         ]
       }
     },
+    "0.15.0": {
+      "wheels": {
+        "silabs_mltk-0.15.0-1677717333-cp37-cp37m-win_amd64.whl": [
+          "qNdh/1ux9RgHz3YNc1gZJIA/R3JFLojwmITTzyyMiGM=",
+          "cp37"
+        ],
+        "silabs_mltk-0.15.0-1677717367-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "5tTTTastmKkljFN2kFw56Euoj8A0axlQK2cV+yoKibk=",
+          "cp37"
+        ],
+        "silabs_mltk-0.15.0-1677717755-cp38-cp38-manylinux2014_x86_64.whl": [
+          "YIbWopzluYAcRpF+/gVuIBPdzHy4F/NsW4BjLhbdOLg=",
+          "cp38"
+        ],
+        "silabs_mltk-0.15.0-1677718234-cp39-cp39-manylinux2014_x86_64.whl": [
+          "IOxS7DlRH231OtF3ffeCaUAm8/eb2aBz8KGh5aK42PU=",
+          "cp39"
+        ],
+        "silabs_mltk-0.15.0-1677718633-cp310-cp310-manylinux2014_x86_64.whl": [
+          "iLfk6YlKE//EgrJy6L1ZE5r7nR457Fh1vfcZHWAe9TI=",
+          "cp310"
+        ],
+        "silabs_mltk-0.15.0-1677718780-cp38-cp38-win_amd64.whl": [
+          "FYuzgHG6wseu5YmNTkwpoen2elqwKVPRh8V9us68GbI=",
+          "cp38"
+        ],
+        "silabs_mltk-0.15.0-1677719365-cp39-cp39-win_amd64.whl": [
+          "roN8HtFLXkSk4KXMfXTILTG5l4+5CqRYVvi00dZ5V/s=",
+          "cp39"
+        ],
+        "silabs_mltk-0.15.0-1677720031-cp310-cp310-win_amd64.whl": [
+          "l2VQMVhqSw7U4A+h+HcT7pP/JbdNt9r60DgKlRW3Vjs=",
+          "cp310"
+        ]
+      }
+    },
     "0.6.0": {
       "wheels": {
         "silabs_mltk-0.6.0-1651004007-cp39-cp39-win_amd64.whl": [
@@ -140487,6 +140593,18 @@
           "py3"
         ]
       }
+    },
+    "2.4.2.post2": {
+      "sdist": [
+        "41cJVl2mFcq6sX1sO0NbO74VIL6/X4cvz8ImBVMAVXc=",
+        "types-aiobotocore-dax-2.4.2.post2.tar.gz"
+      ],
+      "wheels": {
+        "types_aiobotocore_dax-2.4.2.post2-py3-none-any.whl": [
+          "iQY/wuvTLMlWTNjhXEDjiTY6KeEgYJekw5nV7mjlv80=",
+          "py3"
+        ]
+      }
     }
   },
   "types-aiobotocore-mediaconvert": {
@@ -140717,6 +140835,18 @@
           "py3"
         ]
       }
+    },
+    "2.4.2.post2": {
+      "sdist": [
+        "f8kTpzxeDoXepYODCAg0x7XFrDe57yV3+/tdfo2gcZA=",
+        "types-aiobotocore-mediaconvert-2.4.2.post2.tar.gz"
+      ],
+      "wheels": {
+        "types_aiobotocore_mediaconvert-2.4.2.post2-py3-none-any.whl": [
+          "AJ0QDcSmqi0WXTLoGwtnTHOPRq8A2SFFUgVS88aXdME=",
+          "py3"
+        ]
+      }
     }
   },
   "types-aiobotocore-mediastore-data": {
@@ -140944,6 +141074,18 @@
       "wheels": {
         "types_aiobotocore_mediastore_data-2.4.2-py3-none-any.whl": [
           "vySn10t3NGxWCZPEduQDKL3nApTH5xzBEg3GqOXxaGA=",
+          "py3"
+        ]
+      }
+    },
+    "2.4.2.post2": {
+      "sdist": [
+        "PPVxn8IogMW3qOiafxfBQuTQdaFYbHTMxJK/8dMJtFY=",
+        "types-aiobotocore-mediastore-data-2.4.2.post2.tar.gz"
+      ],
+      "wheels": {
+        "types_aiobotocore_mediastore_data-2.4.2.post2-py3-none-any.whl": [
+          "4yvzWFyFZxbkCftYs6C28ZM8TnIGWxDu+hTa4DHeyaU=",
           "py3"
         ]
       }

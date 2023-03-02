@@ -4086,30 +4086,22 @@
         ]
       }
     },
-    "2.8.1": {
+    "2.8.5": {
       "wheels": {
-        "anyon-2.8.1-cp310-cp310-macosx_10_9_universal2.whl": [
-          "6Vg6wTj3EU473zORkG+6ZWFtTKdRzRRSAAlhpP+b728=",
+        "anyon-2.8.5-cp310-cp310-manylinux1_x86_64.whl": [
+          "WcS7ivi3GrA+TKJkk0yhZ1pPh04VlUinLFmS9SPATf4=",
           "cp310"
         ],
-        "anyon-2.8.1-cp310-cp310-manylinux1_x86_64.whl": [
-          "Go/mO2N0sufrIvDv1/jJgvD3fXMUqlkWYLylwnFMfIc=",
+        "anyon-2.8.5-cp310-cp310-win_amd64.whl": [
+          "1aqpVoHw0u67IHBUNISgfQckzrLcMg/z+as9e9DlFk0=",
           "cp310"
         ],
-        "anyon-2.8.1-cp310-cp310-win_amd64.whl": [
-          "IwxKRc/qerKkyfBf67eJ5zwKaHTVIPDsThkC29gjWYw=",
-          "cp310"
-        ],
-        "anyon-2.8.1-cp311-cp311-macosx_10_9_universal2.whl": [
-          "BWHwPmct3i4v3HyGQE7m9hDsjjOMfencN691bpJS4PY=",
+        "anyon-2.8.5-cp311-cp311-manylinux1_x86_64.whl": [
+          "L6a47O4AzrJ5EaGruYVI9BYOeoJLdnJCIjsRT7yXB7M=",
           "cp311"
         ],
-        "anyon-2.8.1-cp311-cp311-manylinux1_x86_64.whl": [
-          "uyPGHzwe97a+NrWFmiD1HzhgXvtNwqUTWmA/U5M/NdM=",
-          "cp311"
-        ],
-        "anyon-2.8.1-cp311-cp311-win_amd64.whl": [
-          "UvAd04WBYYLDcBlkjtovHASNXFViVVAdLaHiL6NdLpE=",
+        "anyon-2.8.5-cp311-cp311-win_amd64.whl": [
+          "LXpE9In5mNPpvfNlKj2eWXGzZKDPx/OsCAMys2xQK/E=",
           "cp311"
         ]
       }
@@ -13550,182 +13542,14 @@
     }
   },
   "cdndrive": {
-    "2020.12.13.0": {
+    "2022.3.20.1": {
       "sdist": [
-        "bAO9FbkSS2Y+MKjkT0HpKTfHthfkl7EG7lpdGlHK3kY=",
-        "CDNDrive-2020.12.13.0.tar.gz"
+        "F4W0Fyaf/iROpaiSvE4E+tsNRxEZwPCXztRWUnCWSrI=",
+        "CDNDrive-2022.3.20.1.tar.gz"
       ],
       "wheels": {
-        "CDNDrive-2020.12.13.0-py3-none-any.whl": [
-          "RB6rzk54P5+9YvyQCGRDEocnLXVPgyAjwSBlChxKC9o=",
-          "py3"
-        ]
-      }
-    },
-    "2020.3.20": {
-      "sdist": [
-        "lSktS13CScmsV0QuU8JZoG7l6Vzi92ID8lxDXcPqC7A=",
-        "CDNDrive-2020.3.20.tar.gz"
-      ],
-      "wheels": {
-        "CDNDrive-2020.3.20-py3-none-any.whl": [
-          "oYbujVzAAdt44cpoWDnmbutXeRL17g7jzXXjOpcT7Ac=",
-          "py3"
-        ]
-      }
-    },
-    "2020.3.20.1": {
-      "sdist": [
-        "TUgXNB2Q7UVHr5BuQmf9Z1WeCBUDgF0G+uswpZhsWYQ=",
-        "CDNDrive-2020.3.20.1.tar.gz"
-      ],
-      "wheels": {
-        "CDNDrive-2020.3.20.1-py3-none-any.whl": [
-          "nkVhClQ+nCAsnB8j4yiSYZugGUBDhzSkT2nGJUSlOHg=",
-          "py3"
-        ]
-      }
-    },
-    "2020.4.10": {
-      "sdist": [
-        "B5lTDWR2V/3YjrlzLAO8XRo4qFD6magbP2bYa1o5Lw8=",
-        "CDNDrive-2020.4.10.tar.gz"
-      ],
-      "wheels": {
-        "CDNDrive-2020.4.10-py3-none-any.whl": [
-          "X1Plp4jctBggP6QTOAaBO8d9h62YVC7LhKRu4GakqgA=",
-          "py3"
-        ]
-      }
-    },
-    "2020.4.10.1": {
-      "sdist": [
-        "hY2yLuFTNDffsdfL3hZtZqUIGIIEQwOLTiVoh8Ywl5I=",
-        "CDNDrive-2020.4.10.1.tar.gz"
-      ],
-      "wheels": {
-        "CDNDrive-2020.4.10.1-py3-none-any.whl": [
-          "qoIHvsIOr199DxZrgKE/2qsLZZbBYI957bX27j6kYKk=",
-          "py3"
-        ]
-      }
-    },
-    "2020.4.30": {
-      "sdist": [
-        "PF7R68sXooboOAxoCLKkxNKhLTCKJctrrISbhW38qHs=",
-        "CDNDrive-2020.4.30.tar.gz"
-      ],
-      "wheels": {
-        "CDNDrive-2020.4.30-py3-none-any.whl": [
-          "IeAYtfnn27/ja3N27/eT62Ineb8HaMlHu77Zh62V+EA=",
-          "py3"
-        ]
-      }
-    },
-    "2020.8.16": {
-      "sdist": [
-        "ZFiiKzji44du+XrhESFRU9kiu5Ny2dsqf8e5auUHjT4=",
-        "CDNDrive-2020.8.16.tar.gz"
-      ],
-      "wheels": {
-        "CDNDrive-2020.8.16-py3-none-any.whl": [
-          "fqpAoe7PS8WUtW18kzmhotLa9IlnL7rc2zpEVzy7Bl8=",
-          "py3"
-        ]
-      }
-    },
-    "2020.8.16.1": {
-      "sdist": [
-        "zGIEMuehbCho2BZdukKepYBL/Gb62TXVZ3OQVyuksFI=",
-        "CDNDrive-2020.8.16.1.tar.gz"
-      ],
-      "wheels": {
-        "CDNDrive-2020.8.16.1-py3-none-any.whl": [
-          "rMkjfbBqwmyQbCZCdSXwUX9eLvIUgLECk99KeCyS2jQ=",
-          "py3"
-        ]
-      }
-    },
-    "2020.9.28.0": {
-      "sdist": [
-        "sNo3S1aCFKimPBI3IR6Ivlt5DB5vb8Y/AOcKycL+4GU=",
-        "CDNDrive-2020.9.28.0.tar.gz"
-      ],
-      "wheels": {
-        "CDNDrive-2020.9.28.0-py3-none-any.whl": [
-          "b1uAi+6GtusWrP108DpPpv2UkZL6lzNm/A9V3ijBFvE=",
-          "py3"
-        ]
-      }
-    },
-    "2021.2.24.0": {
-      "sdist": [
-        "Mk56/MBfsgGvfWx1hbvktgcl+QlrYK8VFwt6vQ/Fwr4=",
-        "CDNDrive-2021.2.24.0.tar.gz"
-      ],
-      "wheels": {
-        "CDNDrive-2021.2.24.0-py3-none-any.whl": [
-          "uy2arMM/2oKlFVeNbHSLyM7dSpW2q87G1fqg3w0sTL8=",
-          "py3"
-        ]
-      }
-    },
-    "2021.5.4.0": {
-      "sdist": [
-        "QT6JBZKHebNW+E/vIKUgKJ8XB4QmAOII9/fzND0/LOc=",
-        "CDNDrive-2021.5.4.0.tar.gz"
-      ],
-      "wheels": {
-        "CDNDrive-2021.5.4.0-py3-none-any.whl": [
-          "8V/JiLofNm38CYHgbg1QHyGvoeR5casNGItOQcIcShs=",
-          "py3"
-        ]
-      }
-    },
-    "2021.9.17.0": {
-      "sdist": [
-        "zZlpqRbpBa2x/krIfnKrW1x/o641KvDUHwVYsBR/O8g=",
-        "CDNDrive-2021.9.17.0.tar.gz"
-      ],
-      "wheels": {
-        "CDNDrive-2021.9.17.0-py3-none-any.whl": [
-          "vdK6TE1005r3wqumE5RnQbHKQm5k+sda8RRFjnmIltA=",
-          "py3"
-        ]
-      }
-    },
-    "2021.9.17.1": {
-      "sdist": [
-        "3RhG9GH7SIV9Ju6qRpEWGafNQQ+yLvtkXNfOk6pUyM0=",
-        "CDNDrive-2021.9.17.1.tar.gz"
-      ],
-      "wheels": {
-        "CDNDrive-2021.9.17.1-py3-none-any.whl": [
-          "UhzbfdvOumVJJlkaIkhY17jpC9aJ8cu9Mm0uM4wby2Y=",
-          "py3"
-        ]
-      }
-    },
-    "2022.3.20.0": {
-      "sdist": [
-        "Co4VLWStzgW7raIwTfM57EAQC39TzWeodzYdE+1/g6c=",
-        "CDNDrive-2022.3.20.0.tar.gz"
-      ],
-      "wheels": {
-        "CDNDrive-2022.3.20.0-py3-none-any.whl": [
-          "hnqinu8SR9jD32dxzaY8fgE41JqWIYbSuYOJSym5zkQ=",
-          "py3"
-        ]
-      }
-    },
-    "2023.2.5.0": {
-      "sdist": [
-        "1atCrOnu86kDG2go3RKTFeIsTNve0dumvhh6aLNjL2k=",
-        "CDNDrive-2023.2.5.0.tar.gz"
-      ],
-      "wheels": {
-        "CDNDrive-2023.2.5.0-py3-none-any.whl": [
-          "Ww8cLQmXch2vshUWyUSjYdZzsyN+0wVrZvGAbatO22c=",
+        "CDNDrive-2022.3.20.1-py3-none-any.whl": [
+          "uBLVLaui4m4vFn1G0qQVkjKYuL4WKxSfImausau7PYA=",
           "py3"
         ]
       }
@@ -43973,6 +43797,12 @@
         "mYS5vYTSvRdTW2Riy+V4JMJ69rbrv0CptA9ihNKfiFc=",
         "flask-restful-swagger-3-0.4.9.tar.gz"
       ]
+    },
+    "0.5.0": {
+      "sdist": [
+        "KKrouVzuhudJG4Wa5VM2SX8GTLf7L1WXui3NayrorVc=",
+        "flask-restful-swagger-3-0.5.0.tar.gz"
+      ]
     }
   },
   "flask-restplus-with-webargs": {
@@ -59077,6 +58907,18 @@
           "py3"
         ]
       }
+    },
+    "0.5.2": {
+      "sdist": [
+        "ZfRSB5xI3zHOb3iC0IakmcsiaIjzlYdZ3glBpeHMDnk=",
+        "kafka_connect_api-0.5.2.tar.gz"
+      ],
+      "wheels": {
+        "kafka_connect_api-0.5.2-py3-none-any.whl": [
+          "/O1JPHjdxLeu07ZoXQoU2OpBH4R+iPAMME4iA4xgf5c=",
+          "py3"
+        ]
+      }
     }
   },
   "kaijia-gongzhu-wuyu-kaijia-shaonv-wuyu-yecun-zhe-20170626": {
@@ -61666,6 +61508,12 @@
       "sdist": [
         "jybqFVN/Z8nDjWtuOWRngikBZ5Dttyrs4Fb/qFaEE8Y=",
         "kontocheck-6.13.2.tar.gz"
+      ]
+    },
+    "6.14.0": {
+      "sdist": [
+        "aaRPIs855oY1Um9syaG6/m72BelR0rY/9+xzdqZd7iM=",
+        "kontocheck-6.14.0.tar.gz"
       ]
     }
   },
@@ -98974,6 +98822,12 @@
       "sdist": [
         "BhX6PyWyWe6+6SrHXN3Anf5EwdAi8i+kOkkOsLCCyEY=",
         "paperstack-1.2.0.tar.gz"
+      ]
+    },
+    "1.2.1": {
+      "sdist": [
+        "jazOnwg31VnJTbawRKcuHkH5axf9/CCDCpQF/atQHKc=",
+        "paperstack-1.2.1.tar.gz"
       ]
     }
   },

@@ -22113,6 +22113,30 @@
           "py3"
         ]
       }
+    },
+    "2.0.4": {
+      "sdist": [
+        "CuzYUTJ2FID+I+bDvUkzwXsNSeb7ehXPLOV1tFzNiVU=",
+        "cloud-shepherd-2.0.4.tar.gz"
+      ],
+      "wheels": {
+        "cloud_shepherd-2.0.4-py3-none-any.whl": [
+          "6CUwca/VlYLz0Mpwq3kCjw0jArtfrEEIF37Z8l/OjIg=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.5": {
+      "sdist": [
+        "MeHTxkmlaaMz1A80emsrqxnzPN0vy65XH316yyQ3CvU=",
+        "cloud-shepherd-2.0.5.tar.gz"
+      ],
+      "wheels": {
+        "cloud_shepherd-2.0.5-py3-none-any.whl": [
+          "dg26A3PwZdtahpQRB7YeiVrCIwsaNdumwjcr0HLtFEk=",
+          "py3"
+        ]
+      }
     }
   },
   "cloudinary-cli": {
@@ -48991,6 +49015,14 @@
           "py2.py3"
         ]
       }
+    },
+    "3.1.28": {
+      "wheels": {
+        "huaweicloudsdkdwr-3.1.28-py2.py3-none-any.whl": [
+          "Q3suuKMLECBfauX1drF9n1cU08d9XSzUqZTqk9znJy0=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "huginn": {
@@ -59062,6 +59094,18 @@
       "wheels": {
         "local_attention-1.7.0-py3-none-any.whl": [
           "moK8qQ7E7wYOEYTm8veSXvNwkpXipcce2mPl17qFTVQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.7.1": {
+      "sdist": [
+        "g6xriqdjBPHodv2/tKQ9Wu3VM+oKeI9rvx6oOVMrQBc=",
+        "local-attention-1.7.1.tar.gz"
+      ],
+      "wheels": {
+        "local_attention-1.7.1-py3-none-any.whl": [
+          "aZcry8h/2cWT7UgUOgTQK79NBR54To9z7Lirw6NgotA=",
           "py3"
         ]
       }
@@ -106405,6 +106449,18 @@
           "py3"
         ]
       }
+    },
+    "0.6.3": {
+      "sdist": [
+        "0g6aOrXWymGFo6NgyB5hRGmRKYjAdijy/9TzGl2Xz6g=",
+        "sonus-0.6.3.tar.gz"
+      ],
+      "wheels": {
+        "sonus-0.6.3-py3-none-any.whl": [
+          "Rns4RG94LdGn0v60sAPbVEBkOkIavHPsQN25NhrEpGw=",
+          "py3"
+        ]
+      }
     }
   },
   "soothsayer-utils": {
@@ -115541,6 +115597,12 @@
         "Nle6IOQ/ZPU6r6XOc42M5VoyqHyrvOCQ6Sec950ojO4=",
         "textpruner-1.1.post1.tar.gz"
       ]
+    },
+    "1.1.post2": {
+      "sdist": [
+        "5VjZnvlSVSyOWqxpr+ZRLRJgDxCj1gQkBdncBb41Tt4=",
+        "textpruner-1.1.post2.tar.gz"
+      ]
     }
   },
   "texttaglib": {
@@ -121116,6 +121178,14 @@
       "wheels": {
         "tf_estimator_nightly-2.13.0.dev2023030109-py2.py3-none-any.whl": [
           "qmxP8YqWX7KlzBwlNnbRTQWwajhcwLd6cQwe+CUqRyk=",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.13.0.dev2023030209": {
+      "wheels": {
+        "tf_estimator_nightly-2.13.0.dev2023030209-py2.py3-none-any.whl": [
+          "wcrPv9MSoHUHx22+ySHhWjHxgCIIu6SP2wyiUi7cNN4=",
           "py2.py3"
         ]
       }
@@ -141322,6 +141392,42 @@
       "wheels": {
         "ytdl_sub-2023.3.2-py3-none-any.whl": [
           "vkx9e7+Cm3c5Y3kO48Wn48hGWczhSiIxDcCibtNmboY=",
+          "py3"
+        ]
+      }
+    },
+    "2023.3.2.post1": {
+      "sdist": [
+        "tGaChcZ/cq5ZgaiGlqy29sLu4wXUjzAOQa2QSGalMuo=",
+        "ytdl-sub-2023.3.2.post1.tar.gz"
+      ],
+      "wheels": {
+        "ytdl_sub-2023.3.2.post1-py3-none-any.whl": [
+          "7UtQQnUKJlBlXoXT2G6zrgYSkDAtPD/8qMdJDT/n+Qg=",
+          "py3"
+        ]
+      }
+    },
+    "2023.3.2.post2": {
+      "sdist": [
+        "W+UUEbHjVXMrPqQU1NBBQDz94yccnHi98U5dhJ1ffSk=",
+        "ytdl-sub-2023.3.2.post2.tar.gz"
+      ],
+      "wheels": {
+        "ytdl_sub-2023.3.2.post2-py3-none-any.whl": [
+          "mA/J9z4xB9sHJuhxdxvK6Oio3Na0Dn+OtehUxGkJYqY=",
+          "py3"
+        ]
+      }
+    },
+    "2023.3.2.post3": {
+      "sdist": [
+        "m9p7XjrIfxr9wL+DZPoBtQjUS8PhyHyewKaR8o/aGWw=",
+        "ytdl-sub-2023.3.2.post3.tar.gz"
+      ],
+      "wheels": {
+        "ytdl_sub-2023.3.2.post3-py3-none-any.whl": [
+          "wzUXSNvF6upu7zLQNid9Er1zb9j7eVLAtOp09MqupP8=",
           "py3"
         ]
       }

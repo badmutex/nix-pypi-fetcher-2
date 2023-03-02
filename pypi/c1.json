@@ -4205,6 +4205,18 @@
           "py2.py3"
         ]
       }
+    },
+    "1.2": {
+      "sdist": [
+        "gICw53FcPjxeaFQkScRB6B91YCHNFs2nJ0MHlH2HOnA=",
+        "apollinaire-1.2.tar.gz"
+      ],
+      "wheels": {
+        "apollinaire-1.2-py2.py3-none-any.whl": [
+          "8TcwZ4X466t9B4jxz41BpOHzuLrvLzEqSiEbFf0UVWc=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "appengine-fixture-loader": {
@@ -24524,6 +24536,12 @@
         "cupy-wheel-11.5.0.tar.gz"
       ]
     },
+    "11.6.0": {
+      "sdist": [
+        "o+vkz4HHlkEMXlLs5ogRs7UmE+bTufCffbO39ZAEILU=",
+        "cupy-wheel-11.6.0.tar.gz"
+      ]
+    },
     "12.0.0a1": {
       "sdist": [
         "RJ9acRwj4+aX97/uTopxq3VR2s59igo53sXqNPboeC4=",
@@ -24552,6 +24570,12 @@
       "sdist": [
         "g57/0TbVg5DMaPagxm7TvYCqOMN5hsabDCUejbPN6vo=",
         "cupy-wheel-12.0.0b3.tar.gz"
+      ]
+    },
+    "12.0.0rc1": {
+      "sdist": [
+        "GXDK+yF6jCDzbmPbZqAClFkgERugT6QRNBopET+ptjI=",
+        "cupy-wheel-12.0.0rc1.tar.gz"
       ]
     }
   },
@@ -28175,6 +28199,20 @@
         "AKVnylwPHpujUlmCqtS60qO9FtnzqNBIcQrz/XduOSY=",
         "demo_lxw-1.01.001.tar.gz"
       ]
+    }
+  },
+  "demo-python-example": {
+    "1.0": {
+      "sdist": [
+        "8/nBz/aKalmvXoME/cMpPPaiRUIeDhhpXfT4Dl2U/fA=",
+        "demo-python-example-1.0.tar.gz"
+      ],
+      "wheels": {
+        "demo_python_example-1.0-py3-none-any.whl": [
+          "O4OUIh6AX6C8RshArHG+MgxQmVLNjDb4u6BM2m5DT4k=",
+          "py3"
+        ]
+      }
     }
   },
   "demo-reader-eb": {
@@ -51192,6 +51230,14 @@
         ]
       }
     },
+    "3.1.28": {
+      "wheels": {
+        "huaweicloudsdkcc-3.1.28-py2.py3-none-any.whl": [
+          "6s0uPjX365l5tRi29r+uXAiRXpX1qikFwoAB/BcpD9E=",
+          "py2.py3"
+        ]
+      }
+    },
     "3.1.3": {
       "wheels": {
         "huaweicloudsdkcc-3.1.3-py2.py3-none-any.whl": [
@@ -51798,6 +51844,14 @@
       "wheels": {
         "huaweicloudsdkcloudrtc-3.1.27-py2.py3-none-any.whl": [
           "O3meCCpxNBiJ7b32J/bmLQzmrrE+xluuyB3XVz3GtsM=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.28": {
+      "wheels": {
+        "huaweicloudsdkcloudrtc-3.1.28-py2.py3-none-any.whl": [
+          "GeMXs5SoIZx3aQcvIS4jrz1SNHaeCaBnaBsx4D1MZkc=",
           "py2.py3"
         ]
       }
@@ -52788,6 +52842,14 @@
         ]
       }
     },
+    "3.1.28": {
+      "wheels": {
+        "huaweicloudsdkcloudtest-3.1.28-py2.py3-none-any.whl": [
+          "JNOZas/0c8d6MfqCSncGjdven6bxsOcoPXBPFNJXNyM=",
+          "py2.py3"
+        ]
+      }
+    },
     "3.1.3": {
       "wheels": {
         "huaweicloudsdkcloudtest-3.1.3-py2.py3-none-any.whl": [
@@ -53306,6 +53368,14 @@
       "wheels": {
         "huaweicloudsdkdws-3.1.27-py2.py3-none-any.whl": [
           "fKcsHB8Gniso6ju9OoRFD14GX8v0/lbEwxtYXXnfskg=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.28": {
+      "wheels": {
+        "huaweicloudsdkdws-3.1.28-py2.py3-none-any.whl": [
+          "r52GsotiPFGiFvzqOKfPU6Pi2SFu+vN7aP1ARSsjb8Y=",
           "py2.py3"
         ]
       }
@@ -75364,6 +75434,18 @@
         ]
       }
     },
+    "0.19.1": {
+      "sdist": [
+        "8twWjtOA4B13lzrSKmT/8Td8xyo9GsS87UI/KCWNCkI=",
+        "myst-parser-0.19.1.tar.gz"
+      ],
+      "wheels": {
+        "myst_parser-0.19.1-py3-none-any.whl": [
+          "NWs4rvKe0JFEKFrSIuXDy3qOf66AFdU9ukDbuLn3Piw=",
+          "py3"
+        ]
+      }
+    },
     "0.3.0": {
       "wheels": {
         "myst_parser-0.3.0-py2.py3-none-any.whl": [
@@ -84287,6 +84369,14 @@
           "py3"
         ]
       }
+    },
+    "16.0.1.0.0.3": {
+      "wheels": {
+        "odoo_addon_purchase_last_price_info-16.0.1.0.0.3-py3-none-any.whl": [
+          "06FTrK+BlDsl33sqtEf3Zcgr5nGAL0c8Lg8+82gMJmk=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo-downloader": {
@@ -89884,6 +89974,18 @@
       "wheels": {
         "openlineage_dbt-0.20.6-py3-none-any.whl": [
           "B9z6CxmowD1Qo+HYdcKYJv8vTYgPVR4EQ69DVJxuij8=",
+          "py3"
+        ]
+      }
+    },
+    "0.21.0": {
+      "sdist": [
+        "o6OAhfFllF7zLxydAy7C3pQt9NiifnFVxerQwtnWAWA=",
+        "openlineage-dbt-0.21.0.tar.gz"
+      ],
+      "wheels": {
+        "openlineage_dbt-0.21.0-py3-none-any.whl": [
+          "j4kgKSIzDwCda9S2VJLdXJ/xWUo+CXtR+fxvr0x04uI=",
           "py3"
         ]
       }
@@ -121231,6 +121333,18 @@
           "py3"
         ]
       }
+    },
+    "0.7.0": {
+      "sdist": [
+        "sKMCX2Zd8Ml1KfWgFloPjSLZn5RnNjgj/somXSLsqQs=",
+        "quri_parts_stim-0.7.0.tar.gz"
+      ],
+      "wheels": {
+        "quri_parts_stim-0.7.0-py3-none-any.whl": [
+          "MzvUrapVwzpBFCsNQ6sT1KV7Mc7V4AlDuGB8/dah4mA=",
+          "py3"
+        ]
+      }
     }
   },
   "qvapay": {
@@ -123788,6 +123902,18 @@
       "wheels": {
         "rovio_ingest-1.0.3.dev32-py3-none-any.whl": [
           "vCGV+J+KL52t70YiL/FGfKb4Ct8P9ojyx/RJ6mmu6AI=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.3.dev34": {
+      "sdist": [
+        "WZDV+qkk8OKFlfPIOSq17Rniy96x2du2kQZjvDcBhAs=",
+        "rovio-ingest-1.0.3.dev34.tar.gz"
+      ],
+      "wheels": {
+        "rovio_ingest-1.0.3.dev34-py3-none-any.whl": [
+          "Yvhpg6i6PxvpN/IUbmFtDd4atBF2rfxRfQUxZZg5FKc=",
           "py3"
         ]
       }
@@ -141160,6 +141286,18 @@
       "wheels": {
         "tartube-2.4.255-py3-none-any.whl": [
           "K2rz6x0nMEQ008g8OdOJNhxTPaW1SLNB4cyptCMJVf4=",
+          "py3"
+        ]
+      }
+    },
+    "2.4.260": {
+      "sdist": [
+        "WtsbtgsP/a2hlqZxdd2SHHkGVO5sK0Lh1zFjku1K/LE=",
+        "tartube-2.4.260.tar.gz"
+      ],
+      "wheels": {
+        "tartube-2.4.260-py3-none-any.whl": [
+          "+tpWLyhIkXLcKDfacTcnINHHgQ4CHCG3l+fudgE2WuI=",
           "py3"
         ]
       }

@@ -1999,6 +1999,20 @@
       }
     }
   },
+  "alibabacloud-companyreg20200306-py2": {
+    "1.0.0": {
+      "sdist": [
+        "/reTWsjUaolHhQeAu937Sdylt98flmBSXsRyVIXgRt8=",
+        "alibabacloud_companyreg20200306_py2-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "alibabacloud_companyreg20200306_py2-1.0.0-py3-none-any.whl": [
+          "kSXPlmBHStJOEVVpgS1gbT5qPjrLvKYfjK+Pcr1KRrA=",
+          "py3"
+        ]
+      }
+    }
+  },
   "alibabacloud-openitag20220616-py2": {
     "1.0.0": {
       "sdist": [
@@ -6864,6 +6878,18 @@
       "wheels": {
         "benchling_sdk-1.6.0a9-py3-none-any.whl": [
           "7sG9Pp90siNfePxSwHQY/VSSk5/3RhJ1rS416b3ytsk=",
+          "py3"
+        ]
+      }
+    },
+    "1.7.0a0": {
+      "sdist": [
+        "9pgeVzkJSpWZLVllOMbUnn5fnYRg2Pp6HKj/K7UmFKM=",
+        "benchling_sdk-1.7.0a0.tar.gz"
+      ],
+      "wheels": {
+        "benchling_sdk-1.7.0a0-py3-none-any.whl": [
+          "fDmD6ccK3fxS19Ys1t8uvPh2YJmcxhKtTB+hHafN1Lk=",
           "py3"
         ]
       }
@@ -15322,6 +15348,14 @@
       "sdist": [
         "seoha77pI/oqgG+e1jKZaD//iCa95T4cbdo/yaM+CtE=",
         "checkurl-0.0.1.tar.gz"
+      ]
+    }
+  },
+  "chromesafeq": {
+    "0.0.1": {
+      "sdist": [
+        "IfT5Hj6TckNMESo2COc3QIp13relkjPO679iJxRP/7E=",
+        "ChromeSafeQ-0.0.1.tar.gz"
       ]
     }
   },
@@ -35895,185 +35929,29 @@
         "VBk2wjTNLZnN4wfEZek/K4heuUn7Gtcn0h4Q9j6wh7M=",
         "enpassreaderlib-0.1.2.tar.gz"
       ]
+    },
+    "0.2.1": {
+      "sdist": [
+        "xTagAcZFgGyEP/AZt8/88TEtJcxl13SjkKeeAnkHsdw=",
+        "enpassreaderlib-0.2.1.tar.gz"
+      ]
+    },
+    "0.2.2": {
+      "sdist": [
+        "BbEDJzRun4ith1vNQ3Q1BdRky1WvZJC+ZM+8ldSfKx0=",
+        "enpassreaderlib-0.2.2.tar.gz"
+      ]
     }
   },
   "epubcrawler": {
-    "2021.11.14.0": {
+    "2023.2.14.1": {
       "sdist": [
-        "0S0zyEkLY/Dr+/Ec0M/VF7xSyV2Mnku9rWex5QEfs0c=",
-        "EpubCrawler-2021.11.14.0.tar.gz"
+        "I4zjrfXR2gDGLB1QkLsLbCthOO+//Ceqt/u6+VKebH4=",
+        "EpubCrawler-2023.2.14.1.tar.gz"
       ],
       "wheels": {
-        "EpubCrawler-2021.11.14.0-py3-none-any.whl": [
-          "MSFj31gl2HwfXK/qRWfoXZhmeH2DzU6ihNgs9xJXbd4=",
-          "py3"
-        ]
-      }
-    },
-    "2021.8.20.0": {
-      "sdist": [
-        "nk6/cfnfSXb/1Dxg+MG6RQQs/91RgIyz058wllMNyBo=",
-        "EpubCrawler-2021.8.20.0.tar.gz"
-      ],
-      "wheels": {
-        "EpubCrawler-2021.8.20.0-py3-none-any.whl": [
-          "6c4cR2wl/ksp0lMbqFrVaHLMpKV2bE+DmiGFqEjwvcM=",
-          "py3"
-        ]
-      }
-    },
-    "2021.8.21.0": {
-      "sdist": [
-        "2tb9LWJ+VlGB0xLK9T5beZ95mzPf40bTKbBnYt70YMA=",
-        "EpubCrawler-2021.8.21.0.tar.gz"
-      ],
-      "wheels": {
-        "EpubCrawler-2021.8.21.0-py3-none-any.whl": [
-          "TUjM3jVOQTTiNmf5knQQ6z0cjizoNtY/cNbWHT9XPE4=",
-          "py3"
-        ]
-      }
-    },
-    "2021.8.21.1": {
-      "sdist": [
-        "sYL+FeZv69apelJLMYOzfdTtVPTN2OHVKNYmKUE0uRg=",
-        "EpubCrawler-2021.8.21.1.tar.gz"
-      ],
-      "wheels": {
-        "EpubCrawler-2021.8.21.1-py3-none-any.whl": [
-          "KsddSWc/sXroGI8q9Fmk8TSM4WotL9lJ0eu5AHdhzR4=",
-          "py3"
-        ]
-      }
-    },
-    "2021.8.23.0": {
-      "sdist": [
-        "S2uaiv6vOzl6bzpGVR2GPocOodKmKB6ivHAxYhvEGcw=",
-        "EpubCrawler-2021.8.23.0.tar.gz"
-      ],
-      "wheels": {
-        "EpubCrawler-2021.8.23.0-py3-none-any.whl": [
-          "05OpcnRPQKdcYHSxNGL+eDLFdhaiTIuR3wacIBwVPQk=",
-          "py3"
-        ]
-      }
-    },
-    "2021.8.23.1": {
-      "sdist": [
-        "BQym6chzRqq+XByA79LNt3CVFJ/sDaZW+DlmPaHgUt8=",
-        "EpubCrawler-2021.8.23.1.tar.gz"
-      ],
-      "wheels": {
-        "EpubCrawler-2021.8.23.1-py3-none-any.whl": [
-          "Bv/YqEiPjq2ueyAFvqjb8Hpn2fytLkiEHeI5aBFWd8E=",
-          "py3"
-        ]
-      }
-    },
-    "2021.8.30.0": {
-      "sdist": [
-        "bzSIv3noR61CqFuoDECY5zkL1bFN4BiVCtSvq0gNQZs=",
-        "EpubCrawler-2021.8.30.0.tar.gz"
-      ],
-      "wheels": {
-        "EpubCrawler-2021.8.30.0-py3-none-any.whl": [
-          "0vdet8LbTpJ1ejHE6nStDGNR7m6lX6EDEeO8QcEXg3k=",
-          "py3"
-        ]
-      }
-    },
-    "2021.9.24.0": {
-      "sdist": [
-        "OenEMoIBFI4TtZFZZkCtqU6qnoAwJdU221HPA7TterM=",
-        "EpubCrawler-2021.9.24.0.tar.gz"
-      ],
-      "wheels": {
-        "EpubCrawler-2021.9.24.0-py3-none-any.whl": [
-          "Cui1sYvOQ6ILE3LnMr7ZyklS2HsyYXkOtXfWss320LY=",
-          "py3"
-        ]
-      }
-    },
-    "2021.9.4.0": {
-      "sdist": [
-        "TMBDqKGKC2ItQ0hiHUpMutL2aSq+KEPW/T0whsNaUG4=",
-        "EpubCrawler-2021.9.4.0.tar.gz"
-      ],
-      "wheels": {
-        "EpubCrawler-2021.9.4.0-py3-none-any.whl": [
-          "QsW0FVwynAJJ0VxBdrKa/u6l7kfFD0NOghqv4Kq83oE=",
-          "py3"
-        ]
-      }
-    },
-    "2022.2.24.0": {
-      "sdist": [
-        "O2b4N4gz4S2OVx99eweQatNq87sLjixFL0afqz7hJeI=",
-        "EpubCrawler-2022.2.24.0.tar.gz"
-      ],
-      "wheels": {
-        "EpubCrawler-2022.2.24.0-py3-none-any.whl": [
-          "W5I30Vdcq94gjWqvnX5bHKTo1Wh5dhIx6D2wHIXcyN0=",
-          "py3"
-        ]
-      }
-    },
-    "2022.3.25.0": {
-      "sdist": [
-        "SOh/RdIB85IISM7oVObVd9wC7P/jT2ZiqV2SH3pjToQ=",
-        "EpubCrawler-2022.3.25.0.tar.gz"
-      ],
-      "wheels": {
-        "EpubCrawler-2022.3.25.0-py3-none-any.whl": [
-          "l2JA39ZKfs24Q+/5xb3SHLrzgKDyE/EomnaxMvFtsrs=",
-          "py3"
-        ]
-      }
-    },
-    "2022.5.30.0": {
-      "sdist": [
-        "RIRJX44elsjGJhN92wMw18ol0thiCbt90mZJwwP/2mM=",
-        "EpubCrawler-2022.5.30.0.tar.gz"
-      ],
-      "wheels": {
-        "EpubCrawler-2022.5.30.0-py3-none-any.whl": [
-          "qGSA5KceawwVi3rDKA4J9N0pLa/G32RoDrZ538UHGDE=",
-          "py3"
-        ]
-      }
-    },
-    "2022.8.20.0": {
-      "sdist": [
-        "s634W+HOordPQN01GWSaNTf5zZqGym/e77rcj75Sgj4=",
-        "EpubCrawler-2022.8.20.0.tar.gz"
-      ],
-      "wheels": {
-        "EpubCrawler-2022.8.20.0-py3-none-any.whl": [
-          "jsIbzInBqXo/AhKel2j4+purz6Jp0GzZA8yQyTmEehc=",
-          "py3"
-        ]
-      }
-    },
-    "2023.1.18.0": {
-      "sdist": [
-        "4Vfn21K3JiHsg3nY0TZz9YY62Dlepi9mTdDnAPJkl0w=",
-        "EpubCrawler-2023.1.18.0.tar.gz"
-      ],
-      "wheels": {
-        "EpubCrawler-2023.1.18.0-py3-none-any.whl": [
-          "P7Qe0bfg0or0upbYq7fUUeOYa1oQzXkH6TseQhKlvSU=",
-          "py3"
-        ]
-      }
-    },
-    "2023.2.14.0": {
-      "sdist": [
-        "d1/bgMqwsPDJAOkA9q5+6ceua0znbHYtExsHbJPnpk4=",
-        "EpubCrawler-2023.2.14.0.tar.gz"
-      ],
-      "wheels": {
-        "EpubCrawler-2023.2.14.0-py3-none-any.whl": [
-          "FYfl+DMBXyoDALaOXOWOLgTyavPUEbnecHO/e8PuJKM=",
+        "EpubCrawler-2023.2.14.1-py3-none-any.whl": [
+          "f166QpWtPKioDy99OnefHDUFiQWAO8WvszdYdUFvjFE=",
           "py3"
         ]
       }
@@ -47008,6 +46886,12 @@
       "sdist": [
         "evEE1aZd1D2CfMFzUbXaxdABEqyzfqA48i+RMorPPvo=",
         "graphql-api-1.2.30.tar.gz"
+      ]
+    },
+    "1.2.31": {
+      "sdist": [
+        "nVDO3co/GFDle9Ola6KxmIcVkSKN4sSXvrP0c/6iAbs=",
+        "graphql-api-1.2.31.tar.gz"
       ]
     },
     "1.2.4": {
@@ -109471,6 +109355,22 @@
           "py3"
         ]
       }
+    },
+    "0.1.1": {
+      "wheels": {
+        "pyloadanimate-0.1.1-py2.py3-none-any.whl": [
+          "HnIvM3Y6Jcu1qHuQ3gbcb0vnY0Bp0jnIN1iZAkVzekA=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "wheels": {
+        "pyloadanimate-0.1.2-py2.py3-none-any.whl": [
+          "TkyLLqUQd2OLjsutrcOOLvdYcdVTjZLVaKgrBrxuZ40=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "pylon-lib": {
@@ -123856,6 +123756,18 @@
       "wheels": {
         "SciAssist-0.0.26-py3-none-any.whl": [
           "Iv41Hd/qSNPHtAdMR9Uk6F3lYkx9coMGJBhaOTFaD2w=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.27": {
+      "sdist": [
+        "59b8Xi1mzsw8z3pojqgnKP1htjsK6n7bGgaHmTkjv7w=",
+        "SciAssist-0.0.27.tar.gz"
+      ],
+      "wheels": {
+        "SciAssist-0.0.27-py3-none-any.whl": [
+          "iWcfhx/zdGHsOZIntM5gA/8oLoAqKYJAVRz9SBYlgVQ=",
           "py3"
         ]
       }

@@ -4088,6 +4088,10 @@
     },
     "2.8.5": {
       "wheels": {
+        "anyon-2.8.5-cp310-cp310-macosx_10_9_universal2.whl": [
+          "1Ok9fPsGod8C5QrTYdDPkENU2AM8VsIRUGZZOeNaCZg=",
+          "cp310"
+        ],
         "anyon-2.8.5-cp310-cp310-manylinux1_x86_64.whl": [
           "WcS7ivi3GrA+TKJkk0yhZ1pPh04VlUinLFmS9SPATf4=",
           "cp310"
@@ -4095,6 +4099,10 @@
         "anyon-2.8.5-cp310-cp310-win_amd64.whl": [
           "1aqpVoHw0u67IHBUNISgfQckzrLcMg/z+as9e9DlFk0=",
           "cp310"
+        ],
+        "anyon-2.8.5-cp311-cp311-macosx_10_9_universal2.whl": [
+          "MMJ2pgTJoA9L2SeK45brxz+Gul8YmuWbFtdtwQO9pkY=",
+          "cp311"
         ],
         "anyon-2.8.5-cp311-cp311-manylinux1_x86_64.whl": [
           "L6a47O4AzrJ5EaGruYVI9BYOeoJLdnJCIjsRT7yXB7M=",
@@ -8390,6 +8398,18 @@
         ]
       }
     },
+    "22.9.15": {
+      "sdist": [
+        "vGC5UAkhLQkVEuQ6ETLF9kpomDBJZGctFtcBbIBeYwA=",
+        "backend.ai-plugin-22.9.15.tar.gz"
+      ],
+      "wheels": {
+        "backend.ai_plugin-22.9.15-py3-none-any.whl": [
+          "yjHw/hPUP/coC6UR7JEXBXF7zERNtiPdI9yLwkmdJck=",
+          "py3"
+        ]
+      }
+    },
     "22.9.2": {
       "sdist": [
         "05BIIiC/UsgavgPnEJCe2cNutyLBZEf5qHtPHHo3n0E=",
@@ -11072,6 +11092,18 @@
       "wheels": {
         "botocore_a_la_carte_firehose-1.29.82-py3-none-any.whl": [
           "bsAIRapzYwYcV2i1YdEvDYyMGiAZC5ZrtrJcyEbiG20=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.83": {
+      "sdist": [
+        "ZoDa2vbK+ZDa0HesE+vVyEtSf3VTJ6mLYrcfeL+gmNo=",
+        "botocore-a-la-carte-firehose-1.29.83.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_firehose-1.29.83-py3-none-any.whl": [
+          "a3ZAqEDX7AdM295VUprdj7BV5SUNRsHG52HYl6+lWWQ=",
           "py3"
         ]
       }
@@ -43803,6 +43835,12 @@
         "KKrouVzuhudJG4Wa5VM2SX8GTLf7L1WXui3NayrorVc=",
         "flask-restful-swagger-3-0.5.0.tar.gz"
       ]
+    },
+    "0.5.1": {
+      "sdist": [
+        "aCYeanILgLjuz85Np+MXWesIzriC6ONC0wo85GNzrIo=",
+        "flask-restful-swagger-3-0.5.1.tar.gz"
+      ]
     }
   },
   "flask-restplus-with-webargs": {
@@ -47790,6 +47828,18 @@
       "wheels": {
         "genomad-1.4.0-py3-none-any.whl": [
           "3A8MHN7EdA20/o3xfdFHUkFRR3H5zdnS+enYaVvqtio=",
+          "py3"
+        ]
+      }
+    },
+    "1.5.0": {
+      "sdist": [
+        "0J8KV7v+iunPkSLrzp6it4fOVuyZm3nBxkc1+pftOFM=",
+        "genomad-1.5.0.tar.gz"
+      ],
+      "wheels": {
+        "genomad-1.5.0-py3-none-any.whl": [
+          "0rXXLV+8r92Vbxn2rFcr5R5FdDgt1ciqlPr6YB+RXlI=",
           "py3"
         ]
       }
@@ -98829,6 +98879,12 @@
         "jazOnwg31VnJTbawRKcuHkH5axf9/CCDCpQF/atQHKc=",
         "paperstack-1.2.1.tar.gz"
       ]
+    },
+    "1.2.2": {
+      "sdist": [
+        "Lm5Fo/phvW9DAohanQPhNWs55DaufBHgUJ7du26wgfY=",
+        "paperstack-1.2.2.tar.gz"
+      ]
     }
   },
   "paraphrase-googletranslate": {
@@ -118450,6 +118506,46 @@
         ],
         "pywry-0.3.4-cp39-none-win_amd64.whl": [
           "oZvnj3JtQaZ2D/uUbi+JXZaAMLWYd15/6Bd1sRb41B4=",
+          "cp39"
+        ]
+      }
+    },
+    "0.3.5": {
+      "sdist": [
+        "uKmzCD8vcIslrOAYBqzfXhzEyOOTwDyhgD+J1RKRAVA=",
+        "pywry-0.3.5.tar.gz"
+      ],
+      "wheels": {
+        "pywry-0.3.5-cp310-cp310-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "JBQfikIF34TyNH2sloZhtjJLMsDRmN5glwgJTbwOK10=",
+          "cp310"
+        ],
+        "pywry-0.3.5-cp310-none-win_amd64.whl": [
+          "xt7eU5D2SA2Z+LgfCB5Sasj7F8cgMui0/tl8jWwAtxI=",
+          "cp310"
+        ],
+        "pywry-0.3.5-cp311-cp311-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "MH8pgG2GRSZoGu2M78y8eo6BGTNI/glZmle/KWEeCkA=",
+          "cp311"
+        ],
+        "pywry-0.3.5-cp311-none-win_amd64.whl": [
+          "B/TtaAip7D3ofVzxWgxPXZVJWAICgP20KvgHLqHI6Uc=",
+          "cp311"
+        ],
+        "pywry-0.3.5-cp38-cp38-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "3a68c1bAKeSoJ5MVVI33fgEn60dAYb5uaViTUtMBttc=",
+          "cp38"
+        ],
+        "pywry-0.3.5-cp38-none-win_amd64.whl": [
+          "mpnqtRG7JZUAfmgZUqHww1d6MPeYJ9qaNiHMuwSirPU=",
+          "cp38"
+        ],
+        "pywry-0.3.5-cp39-cp39-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "+t4t2hjttvYgkPThzuHbBauZtTpba5WgfGcBnzjIwoE=",
+          "cp39"
+        ],
+        "pywry-0.3.5-cp39-none-win_amd64.whl": [
+          "ar7cTWG9EwEcW4sXU72ElbhZgPOU422SnF/PqOQfaFU=",
           "cp39"
         ]
       }

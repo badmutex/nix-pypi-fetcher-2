@@ -12324,6 +12324,18 @@
         ]
       }
     },
+    "1.195.0": {
+      "sdist": [
+        "08IpwwvdXyHceo0gHJ503uom+fGwf7T73VWnarTYvsE=",
+        "aws-cdk.aws-amplify-1.195.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_amplify-1.195.0-py3-none-any.whl": [
+          "MkQYR7T/O6auBZJB4VXhOcPtNOuab3JPWad1HpzWB8s=",
+          "py3"
+        ]
+      }
+    },
     "1.2.0": {
       "sdist": [
         "cvPHSUo6cKIjz4sXTZtFcITKdqPl8Ae/4uFIbTYzYhY=",
@@ -14878,6 +14890,18 @@
       "wheels": {
         "aws_cdk.aws_emrcontainers-1.194.0-py3-none-any.whl": [
           "98T7fF1KtmWxBdaJS6fQ6VD4s9giYWSFQaXC6PYRxk4=",
+          "py3"
+        ]
+      }
+    },
+    "1.195.0": {
+      "sdist": [
+        "x2UsFmA31P1/0Lx7ZboYo3134suLvs5U2Vi1zgg4Sjc=",
+        "aws-cdk.aws-emrcontainers-1.195.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_emrcontainers-1.195.0-py3-none-any.whl": [
+          "P6+RrQ60wtcrqr7aI8zVY2YZmVj3CoBeSOZ0L9JRBK0=",
           "py3"
         ]
       }
@@ -19036,6 +19060,18 @@
       "wheels": {
         "botocore_a_la_carte_synthetics-1.29.82-py3-none-any.whl": [
           "QWP8qI1L8qzNGUqBuniw9H5WDH9vwVcp4sanPGOqA4A=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.83": {
+      "sdist": [
+        "gpeTI/J6C0qpP/zO/9eqCSd3tznIDqXYRbppVaAO7vM=",
+        "botocore-a-la-carte-synthetics-1.29.83.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_synthetics-1.29.83-py3-none-any.whl": [
+          "xs9hvAIKbzfB2N0JER0QQiyMcDe0qn+YahTnuR5tguc=",
           "py3"
         ]
       }
@@ -42294,6 +42330,18 @@
       "sdist": [
         "d9XnpqYcW5YDy1x6egU7490BxyXv1zqE3yfXNOsDOXc=",
         "dsmlibrary-1.0.33.tar.gz"
+      ]
+    },
+    "1.0.34": {
+      "sdist": [
+        "bmbP0kZD03/N8VeDVuzyX8cztlGXD22yfNMoqIntYzI=",
+        "dsmlibrary-1.0.34.tar.gz"
+      ]
+    },
+    "1.0.35": {
+      "sdist": [
+        "FH+10YOWlQNM0JqSPmdPPKXlYUU5HfaJfd2jF1JlY3s=",
+        "dsmlibrary-1.0.35.tar.gz"
       ]
     },
     "1.0.4": {
@@ -103417,6 +103465,14 @@
           "py3"
         ]
       }
+    },
+    "14.0.2.0.1.dev1": {
+      "wheels": {
+        "odoo14_addon_account_banking_sepa_credit_transfer-14.0.2.0.1.dev1-py3-none-any.whl": [
+          "mCzPGsoIlH9otT6v/2jt2XGjFJOn3h/lW1xV0W2V6Po=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo14-addon-account-payment-order-return": {
@@ -153657,9 +153713,25 @@
       }
     },
     "0.5.7": {
+      "sdist": [
+        "qrUMJwFS77z3HzxqvzZ/+wCvoT+zgIeZ1JuC5AYWw+k=",
+        "uitk-0.5.7.tar.gz"
+      ],
       "wheels": {
         "uitk-0.5.7-py3-none-any.whl": [
           "ZQNqeHG5KjaSlTkZe3oMmPv/Vapho4hTBLsh+KBhvrg=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.9": {
+      "sdist": [
+        "AOtPMTpTpjGMXCC0xpdYfWeBNC0DpnJEwhEt21oDoKE=",
+        "uitk-0.5.9.tar.gz"
+      ],
+      "wheels": {
+        "uitk-0.5.9-py3-none-any.whl": [
+          "5ddDwfLglfbWywRsK96T1xQkN5vl+dhkjwDUIGocNt4=",
           "py3"
         ]
       }
@@ -158086,6 +158158,14 @@
       "wheels": {
         "yang.connector-23.1-py3-none-any.whl": [
           "vklqzCVCLD4SSZSGnCCc+7+jE2XdBgeZhE2hzJMUkVg=",
+          "py3"
+        ]
+      }
+    },
+    "23.2": {
+      "wheels": {
+        "yang.connector-23.2-py3-none-any.whl": [
+          "EUxko1QohGihTwcROzEkEHq8XNMyvUiEUW+0+hFJtQg=",
           "py3"
         ]
       }

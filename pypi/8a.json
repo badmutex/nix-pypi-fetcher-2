@@ -16675,6 +16675,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.83": {
+      "sdist": [
+        "UltplhhnaXK9ux5lAyS1v3zE39gNHmfShx3dW44xu3w=",
+        "botocore-a-la-carte-backup-1.29.83.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_backup-1.29.83-py3-none-any.whl": [
+          "nUzh5XN3s/OcRhh7gSJBxF5p1FK13mdbs9N7Xih+10E=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-devicefarm": {
@@ -17169,6 +17181,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.83": {
+      "sdist": [
+        "2LxCauPl20bDK6XzRR9lalWQ331itLRqPRmfAPeKXx0=",
+        "botocore-a-la-carte-devicefarm-1.29.83.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_devicefarm-1.29.83-py3-none-any.whl": [
+          "qRU18HNcCy/HnOYtNkKei0SLPB72dpLEkh6jPigv63o=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-fis": {
@@ -17660,6 +17684,18 @@
       "wheels": {
         "botocore_a_la_carte_fis-1.29.82-py3-none-any.whl": [
           "FOkSjrAbYciW3ePRc7MSb5Fv1vIG1JyxAgfs40mEEwM=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.83": {
+      "sdist": [
+        "xUBazUA85kfNk1N79nflmRxg8JB14TJ7DgrPvu1ELj4=",
+        "botocore-a-la-carte-fis-1.29.83.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_fis-1.29.83-py3-none-any.whl": [
+          "uHQXc7J2K9T/I6J7pG71zK3xvApsjlHZamVfnOIH0/U=",
           "py3"
         ]
       }
@@ -45944,6 +45980,18 @@
       "wheels": {
         "fantasy_hockey_notifier_cdk-2.0.44-py3-none-any.whl": [
           "VjuCZjO31K5dKqLKtqloH4wqmxSMfNA/PMNMKbaglMQ=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.45": {
+      "sdist": [
+        "J8XT13bgYIh+vlydOx+vTRewRLIQKawqDmKRfRmrjGE=",
+        "fantasy-hockey-notifier-cdk-2.0.45.tar.gz"
+      ],
+      "wheels": {
+        "fantasy_hockey_notifier_cdk-2.0.45-py3-none-any.whl": [
+          "Ll/rNvVjewT6/0siTCVpDeKr9gmMKJtWeCPtPKv5eNw=",
           "py3"
         ]
       }
@@ -85251,6 +85299,32 @@
       ]
     }
   },
+  "ngram-extration": {
+    "0.0.1": {
+      "sdist": [
+        "5PI8bDUHrt0AfzGAZYxajuS5CrRl5gkqgWJ0Axegj6c=",
+        "ngram_extration-0.0.1.tar.gz"
+      ]
+    },
+    "0.0.2": {
+      "sdist": [
+        "ftULqPRzBKxseUSSPzlFEtTwP+Dm2ovEccE0GzGgFFw=",
+        "ngram_extration-0.0.2.tar.gz"
+      ]
+    },
+    "0.0.3": {
+      "sdist": [
+        "AgFIJ4k2Yl7CJfhGcGit02akHERhpjQ38Qc4EslZj0E=",
+        "ngram_extration-0.0.3.tar.gz"
+      ]
+    },
+    "0.0.4": {
+      "sdist": [
+        "gHIVDrLcmPfTlFrQhuMkK3YSmBVAAZY7cxpUjBcq6tI=",
+        "ngram_extration-0.0.4.tar.gz"
+      ]
+    }
+  },
   "ngtextprocess": {
     "0.0": {
       "sdist": [
@@ -103092,6 +103166,54 @@
         ],
         "pyats.utils-23.1-cp39-cp39-musllinux_1_2_x86_64.whl": [
           "eHWJNu+US4MmdCNit/+ghQZOXJky5uuLTFOGw1jWFb8=",
+          "cp39"
+        ]
+      }
+    },
+    "23.2": {
+      "wheels": {
+        "pyats.utils-23.2-cp310-cp310-macosx_11_0_arm64.whl": [
+          "oKcR4iTxkxOo8ytcaa7DhMHvH0le9Pv82JdW/+ep6Fo=",
+          "cp310"
+        ],
+        "pyats.utils-23.2-cp310-cp310-macosx_11_0_x86_64.whl": [
+          "BOvvnE/WVMDdwxI6EnWQn5DKsBaT1K+hApSqBIQ9dE4=",
+          "cp310"
+        ],
+        "pyats.utils-23.2-cp310-cp310-manylinux2014_x86_64.whl": [
+          "+Fe73M5eTUa1PeSD/zxBlubXSXJ6sli/9uQsa5sU7qA=",
+          "cp310"
+        ],
+        "pyats.utils-23.2-cp37-cp37m-macosx_11_0_x86_64.whl": [
+          "VhGQjE7xLrBnGqxoYz0QC8FOLPSbok4QZFrZeH3xg5U=",
+          "cp37"
+        ],
+        "pyats.utils-23.2-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "9oTRbQCi26kcF4U9WTzI0neBChVCL7Fy26eoKrtqy28=",
+          "cp37"
+        ],
+        "pyats.utils-23.2-cp38-cp38-macosx_11_0_arm64.whl": [
+          "jPVNkpnRL0g4bO14MEaj5/OTG7AUJ7zjgMoN3B3OKkk=",
+          "cp38"
+        ],
+        "pyats.utils-23.2-cp38-cp38-macosx_11_0_x86_64.whl": [
+          "qqwkNh3KlCyuGhwUJ9aNmWV1HBZWi88Od89yxaByVJo=",
+          "cp38"
+        ],
+        "pyats.utils-23.2-cp38-cp38-manylinux2014_x86_64.whl": [
+          "854ah67iJdc/O/v5tzgtjnMYoZjllYxhtq2ERJoH1SQ=",
+          "cp38"
+        ],
+        "pyats.utils-23.2-cp39-cp39-macosx_11_0_arm64.whl": [
+          "njDyAXDXYv/QHBPGHxAX7mTPTEE2x98v7LJFJlG23gE=",
+          "cp39"
+        ],
+        "pyats.utils-23.2-cp39-cp39-macosx_11_0_x86_64.whl": [
+          "UF9rWpxC3u4ty9GVIBSYSHPc/jptbpL2cTsCMf+PJyU=",
+          "cp39"
+        ],
+        "pyats.utils-23.2-cp39-cp39-manylinux2014_x86_64.whl": [
+          "wLsDCc3nSHh90rpqVtx9ImL3twdUNoLF7C6wVp+3A+Y=",
           "cp39"
         ]
       }
@@ -130341,6 +130463,30 @@
           "py3"
         ]
       }
+    },
+    "1.0.5": {
+      "sdist": [
+        "PeGxYkEfZ0wd2F5T2KVWJUsc90xo4WulZcgJRLeXtu4=",
+        "simspy-1.0.5.tar.gz"
+      ],
+      "wheels": {
+        "simspy-1.0.5-py3-none-any.whl": [
+          "DsvcTv9MZ8pNxS+LUQHyVOsNhzh6DoRf4LPORY/2NOk=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.6": {
+      "sdist": [
+        "so+3Mi8DEzHGxjfHwcT42DIHvpBRBN/7YWwX3OPHDdg=",
+        "simspy-1.0.6.tar.gz"
+      ],
+      "wheels": {
+        "simspy-1.0.6-py3-none-any.whl": [
+          "oMvHzdlXLnCV0B2jBKy0VLf1d1V7P1HrqAw3GVEevC4=",
+          "py3"
+        ]
+      }
     }
   },
   "simutil": {
@@ -150358,6 +150504,34 @@
         ],
         "xia_engine_bigquery-0.1.2-cp39-none-win_amd64.whl": [
           "L8+YmPPR+MAhoNxJPTn0x9P0nnhDn7gqAoNH3+VE/tw=",
+          "cp39"
+        ]
+      }
+    },
+    "0.1.3": {
+      "wheels": {
+        "xia_engine_bigquery-0.1.3-cp310-none-macosx_11_0_x86_64.whl": [
+          "CBAoURUNrmwB4mT6sPxwTOTKt2LPK221qklV/gJIBEc=",
+          "cp310"
+        ],
+        "xia_engine_bigquery-0.1.3-cp310-none-manylinux1_x86_64.whl": [
+          "jbBN8dTPQTGxWesz+xW4/jFA/eaxxCRm6P5V4tliUsk=",
+          "cp310"
+        ],
+        "xia_engine_bigquery-0.1.3-cp310-none-win_amd64.whl": [
+          "1/K+FCgsLuf1u3MZUJOUYSuBfDV0ChVvP4a1d/8aEVg=",
+          "cp310"
+        ],
+        "xia_engine_bigquery-0.1.3-cp39-none-macosx_11_0_x86_64.whl": [
+          "DQJuyOZZTzPfZQFYZeyhcjol453iSudz0h671FBbJN4=",
+          "cp39"
+        ],
+        "xia_engine_bigquery-0.1.3-cp39-none-manylinux1_x86_64.whl": [
+          "Hw+I96V5og3qQ8oucEJVFWTtrpRmhxPT5Nv86DgxKGU=",
+          "cp39"
+        ],
+        "xia_engine_bigquery-0.1.3-cp39-none-win_amd64.whl": [
+          "A95nEygIYdqFqL/2YPtwVGZIUv/RO1TCtaGje/ECWjk=",
           "cp39"
         ]
       }

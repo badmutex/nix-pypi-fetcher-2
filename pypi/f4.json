@@ -431,6 +431,18 @@
           "py3"
         ]
       }
+    },
+    "5.7.2": {
+      "sdist": [
+        "/YQeU5jlKtVpClVfPExXrdE3DKPExI8q5ZA41LSHdtA=",
+        "aceql-5.7.2.tar.gz"
+      ],
+      "wheels": {
+        "aceql-5.7.2-py3-none-any.whl": [
+          "CqZ8/57iNgubZU/1gAkBj4VtVcTSkqYAj3yZWG29nso=",
+          "py3"
+        ]
+      }
     }
   },
   "aco": {
@@ -8204,6 +8216,18 @@
       "wheels": {
         "aws_cdk.aws_neptune-1.194.0-py3-none-any.whl": [
           "WiAaD/+SiWrWtjQzE6bSvYGriZbsgoyknDvrHYQBKoM=",
+          "py3"
+        ]
+      }
+    },
+    "1.195.0": {
+      "sdist": [
+        "ssoczw2WsUFb9+CZaH5Kco4hg7DKYQ4PmyqOCtzJI5w=",
+        "aws-cdk.aws-neptune-1.195.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_neptune-1.195.0-py3-none-any.whl": [
+          "pWnsvlP1PMn4yRp3wv20wjCWanmuovgIKzznKycZlmo=",
           "py3"
         ]
       }
@@ -46314,6 +46338,30 @@
     }
   },
   "galaxy-datasets": {
+    "0.0.10": {
+      "sdist": [
+        "SGMVsaP5mvwztRC1bLBjZLxIAggDQgxY1YQBa5nErlk=",
+        "galaxy-datasets-0.0.10.tar.gz"
+      ],
+      "wheels": {
+        "galaxy_datasets-0.0.10-py3-none-any.whl": [
+          "KtheEDEHqGOS2f+sGHAT2znXS8IlG/wwBIxdR8TGqaY=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.11": {
+      "sdist": [
+        "wj1etLNKuTgezLKY1v8O22JUXEoSRT2zsh1nLds1Aj4=",
+        "galaxy-datasets-0.0.11.tar.gz"
+      ],
+      "wheels": {
+        "galaxy_datasets-0.0.11-py3-none-any.whl": [
+          "YUNPef1zKcWAY7oA4qklOWlapfyYAbeYniqb/wGOS9Y=",
+          "py3"
+        ]
+      }
+    },
     "0.0.2": {
       "sdist": [
         "4daRtJ/zWhWdajlh9ot46N+lGj1kbr0y6kwlCAMg5zU=",
@@ -46382,6 +46430,18 @@
       "wheels": {
         "galaxy_datasets-0.0.7-py3-none-any.whl": [
           "y75FINUUwgPq2fvPhmQnObzvRo57/OhZocyxVjMZz1c=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.8": {
+      "sdist": [
+        "MBXhabseKLCPkAIxeFUvp/umBrachMzScwP1g/MOm8E=",
+        "galaxy-datasets-0.0.8.tar.gz"
+      ],
+      "wheels": {
+        "galaxy_datasets-0.0.8-py3-none-any.whl": [
+          "W9l3ITVj/mH/5Yz8zoQiezUU40IxDLrhH3ozOPmVHo4=",
           "py3"
         ]
       }
@@ -100327,6 +100387,18 @@
         "L2g9TLLxHb1NnXG0DfhKSjvUg9UASy1Mql8T1jxqaOw=",
         "pafdc_pycts-0.3.3.tar.gz"
       ]
+    },
+    "0.3.4": {
+      "sdist": [
+        "uA5oOfMoKYrMj9vyVbabCS4FHfK/+j5ES/Frr17fxSI=",
+        "pafdc_pycts-0.3.4.tar.gz"
+      ],
+      "wheels": {
+        "pafdc_pycts-0.3.4-py3-none-any.whl": [
+          "y0X4v3dO3J6HX14y2/p6Sm1u+JxzUTmDFKYYpo/Swi4=",
+          "py3"
+        ]
+      }
     }
   },
   "pagsegurocts123": {
@@ -104726,6 +104798,12 @@
       "sdist": [
         "lj2nXbRkvHQZvVihI9Ix13kCvJ/xMOwg6lOUzVFcj+c=",
         "plotguy-1.0.1.tar.gz"
+      ]
+    },
+    "1.0.2": {
+      "sdist": [
+        "HJDzyiCZkrv9bIJeW4oxiN9BivnZMsWwO0NFrEU2bAI=",
+        "plotguy-1.0.2.tar.gz"
       ]
     }
   },
@@ -145329,6 +145407,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.842": {
+      "sdist": [
+        "iEdHXTjUvmMpvpQD8/VtQ5m9pRM709d1aPPb4J5R9Cg=",
+        "tencentcloud-sdk-python-dnspod-3.0.842.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_dnspod-3.0.842-py2.py3-none-any.whl": [
+          "yY4cmKblMvavRs/CdudBLrLPRMqe3dbQ1d1/dDpnNMA=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tensiometer": {
@@ -146698,6 +146788,42 @@
       "wheels": {
         "tfduck_bsd-0.16.7-py3-none-any.whl": [
           "vTMB8/vlqzwTEeUJqP0cj8HWvpo2E22gZ1nc3eAVQEc=",
+          "py3"
+        ]
+      }
+    },
+    "0.16.8": {
+      "sdist": [
+        "6xOEUQvED09OyEBBDMT0Gaze1r/Oor3sXlEOJ8UtIbM=",
+        "tfduck-bsd-0.16.8.tar.gz"
+      ],
+      "wheels": {
+        "tfduck_bsd-0.16.8-py3-none-any.whl": [
+          "rTQHDbZv49ndXcdev/TEftgz91ar0TavUFlewFUs0eU=",
+          "py3"
+        ]
+      }
+    },
+    "0.16.9": {
+      "sdist": [
+        "88ocARxnWQtFMXFVSc75l2OtG8Bz4iYnbrNyslaRt5I=",
+        "tfduck-bsd-0.16.9.tar.gz"
+      ],
+      "wheels": {
+        "tfduck_bsd-0.16.9-py3-none-any.whl": [
+          "ktWWRM+33uTfSa4al9Q/8sqvdyJ+vDotl0+7KLycwHA=",
+          "py3"
+        ]
+      }
+    },
+    "0.17.0": {
+      "sdist": [
+        "JUQz/07QG3t0Bu4Xv4yxN3elsGN7J1ThWiDF8b9U7Aw=",
+        "tfduck-bsd-0.17.0.tar.gz"
+      ],
+      "wheels": {
+        "tfduck_bsd-0.17.0-py3-none-any.whl": [
+          "Dan7w+Cjqx8RohDSRb1CIDx4Bh/U789QeWocZDcekN0=",
           "py3"
         ]
       }

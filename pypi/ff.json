@@ -11996,6 +11996,18 @@
         ]
       }
     },
+    "1.195.0": {
+      "sdist": [
+        "m780goFYmmR/FhOm8JmgFXammExnquhazWPoAzlbfl8=",
+        "aws-cdk.aws-kinesis-1.195.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_kinesis-1.195.0-py3-none-any.whl": [
+          "h6THXXEMqM7DW/nbQ8i5C6GSg9F9KkzeqoW4Jeu4D2g=",
+          "py3"
+        ]
+      }
+    },
     "1.2.0": {
       "sdist": [
         "mL8YMiL4SZbp1e1G4T+3mmb7rnjE4v+L8bt4yj9gDVA=",
@@ -16478,6 +16490,18 @@
       "wheels": {
         "botocore_a_la_carte_dlm-1.29.82-py3-none-any.whl": [
           "6GmEuFm+8HKOeS4vpJ07gtO1bm0VV2Vy8EQXDtWQiO0=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.83": {
+      "sdist": [
+        "q8x5Tj8vD73WVQsgrIrVrRcP45ituCI2kP8SfJ4U6OE=",
+        "botocore-a-la-carte-dlm-1.29.83.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_dlm-1.29.83-py3-none-any.whl": [
+          "UFI2jkeU77aUeGTSu9dNU51SqCQe8Lm5PtnjBVNxGqw=",
           "py3"
         ]
       }
@@ -25670,6 +25694,18 @@
       "wheels": {
         "cdk_iam_floyd-0.485.0-py3-none-any.whl": [
           "UWsqhvV41dhoNTXaZrySTDH3tLFam85ruHdmuPZA9V0=",
+          "py3"
+        ]
+      }
+    },
+    "0.486.0": {
+      "sdist": [
+        "6AeZzBsnKS/6yHQegLz2r0+p0jlj/SKlxy2RjInsnic=",
+        "cdk-iam-floyd-0.486.0.tar.gz"
+      ],
+      "wheels": {
+        "cdk_iam_floyd-0.486.0-py3-none-any.whl": [
+          "hWz+Y7iJFXyG4VuJ2Mt4YNzFi9iexW/9MCQIgycYXmM=",
           "py3"
         ]
       }
@@ -35357,6 +35393,20 @@
         "fSMuj23I+VkMmM/hhvy8snpbA080jR4rIXVDmetsXgA=",
         "dadan-0.2.2.tar.gz"
       ]
+    }
+  },
+  "dagster-duckdb-polars": {
+    "0.17.21": {
+      "sdist": [
+        "ed9rrdBvcpN+t6KYsGQiVLnRGzm5ItV84hZ7OktgMgM=",
+        "dagster-duckdb-polars-0.17.21.tar.gz"
+      ],
+      "wheels": {
+        "dagster_duckdb_polars-0.17.21-py3-none-any.whl": [
+          "RkYJEMBT5EIp/1kVpGMBEX+6OrC9yNVqZf9Tc0dbw5w=",
+          "py3"
+        ]
+      }
     }
   },
   "damemysql": {
@@ -146404,6 +146454,18 @@
       "wheels": {
         "tencentcloud_sdk_python_ckafka-3.0.841-py2.py3-none-any.whl": [
           "xHSlvyOITmllVIzlTl26E/f1xrX0s26AmASg8yf6IhU=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.842": {
+      "sdist": [
+        "VbVLVXOKQCT2Wczu4I3fGavdEBWBOXXxIIfAZ7sgo7M=",
+        "tencentcloud-sdk-python-ckafka-3.0.842.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_ckafka-3.0.842-py2.py3-none-any.whl": [
+          "MqH2ak4a+X6nFCbywuIUUyHIAJEKpr3exf6lO2a2md4=",
           "py2.py3"
         ]
       }

@@ -7303,6 +7303,18 @@
           "py3"
         ]
       }
+    },
+    "1.195.0": {
+      "sdist": [
+        "m0UkM6MfKo0tNRXT94yD9Y62lsuoyxw9++qXbByoBLc=",
+        "aws-cdk.assertions-1.195.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.assertions-1.195.0-py3-none-any.whl": [
+          "HB66M1CEYB9OIEqsU0RN1uSiML+U+vPPr9X8f2GTpPQ=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-cdk.aws-eks-legacy": {
@@ -8610,6 +8622,18 @@
       "wheels": {
         "aws_cdk.aws_eks_legacy-1.194.0-py3-none-any.whl": [
           "C1L0Q9MUsM4rOvCSK+rn+mNCJaE4g8Ab12PBrYzFCLM=",
+          "py3"
+        ]
+      }
+    },
+    "1.195.0": {
+      "sdist": [
+        "/7aYW+a+MCwLbI7BqTUfqHmlgc8pDtXUtXXEijL8O18=",
+        "aws-cdk.aws-eks-legacy-1.195.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_eks_legacy-1.195.0-py3-none-any.whl": [
+          "xTJm6vqnrvYb7bstycen5zJeyMriVl8nR4F8PRDM7jY=",
           "py3"
         ]
       }
@@ -10268,6 +10292,18 @@
       "wheels": {
         "aws_cdk.aws_emrserverless-1.194.0-py3-none-any.whl": [
           "wkyxw14Kn+bsUS2+hKb5Z+FokjFOsi1qqB4NPwjo7fw=",
+          "py3"
+        ]
+      }
+    },
+    "1.195.0": {
+      "sdist": [
+        "3YY4FOPC0pBaiol+03EMFSMCsdTXOYbKo99dw3DvwBY=",
+        "aws-cdk.aws-emrserverless-1.195.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_emrserverless-1.195.0-py3-none-any.whl": [
+          "Z7v1+EQtuHDwHXFf+2v1+Sfw1VmKVZlquztDYisvnBY=",
           "py3"
         ]
       }
@@ -18179,6 +18215,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.83": {
+      "sdist": [
+        "M26AjHYMU7wn09oJy6zyrtCIiO06HJCl2cLpPBQR5Vc=",
+        "botocore-a-la-carte-customer-profiles-1.29.83.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_customer_profiles-1.29.83-py3-none-any.whl": [
+          "7sLcXNLblfYmCvQijdGR6SnfsXmD6DJRSeSLTWEMkIE=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-route53": {
@@ -18673,6 +18721,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.83": {
+      "sdist": [
+        "Et7V0ffJFqf+V6yOFWj7i3GL133AnpksHCcx1mAfay8=",
+        "botocore-a-la-carte-route53-1.29.83.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_route53-1.29.83-py3-none-any.whl": [
+          "CyMFjb37HN2AX991O4HgwntnEbTid74BELwKdDaJ/KY=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-timestream-query": {
@@ -19164,6 +19224,18 @@
       "wheels": {
         "botocore_a_la_carte_timestream_query-1.29.82-py3-none-any.whl": [
           "Ibdl4wxoWJVcQJzHPSjF5Bw+hqy4NoRPG8dCUot44bs=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.83": {
+      "sdist": [
+        "ohJJmu7+Xwkb3zLHRMJFcpPfYp2BIrx9uwUBD1psFTU=",
+        "botocore-a-la-carte-timestream-query-1.29.83.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_timestream_query-1.29.83-py3-none-any.whl": [
+          "CEdWQZaSjXwV7OlJOfGCUmCzB9ScmPqQu9TH/NmU6J4=",
           "py3"
         ]
       }
@@ -34804,6 +34876,30 @@
         ]
       }
     },
+    "4.0.63": {
+      "sdist": [
+        "XCYY/UjO5ivRzobHz6p2ZXmgLI9xqYTqh1IIEdqaXqo=",
+        "cyberdrop-dl-4.0.63.tar.gz"
+      ],
+      "wheels": {
+        "cyberdrop_dl-4.0.63-py3-none-any.whl": [
+          "bT12mk+6Fd1dR9NnWXC10cDb8jBdl9RTi/api1YNwy0=",
+          "py3"
+        ]
+      }
+    },
+    "4.0.64": {
+      "sdist": [
+        "V2oy7WZUzHZNHQ8YnXz2AvexyE4MBHPI1b58E1z6SEc=",
+        "cyberdrop-dl-4.0.64.tar.gz"
+      ],
+      "wheels": {
+        "cyberdrop_dl-4.0.64-py3-none-any.whl": [
+          "stB7AyhD8EqFYzbtRWo1/usw4dhNeY5hdnGnj0xUYQw=",
+          "py3"
+        ]
+      }
+    },
     "4.0.7": {
       "sdist": [
         "JaGQ6ql22XfObRbN9QAWTKLgxsoHU5pvAXY08kKsORE=",
@@ -39788,6 +39884,18 @@
       "wheels": {
         "discord_linker_pythonapi-0.2.4-py3-none-any.whl": [
           "GaLOOBCP8h5u9lOqA9sigjaiozJaFMi6QNzf4uTPIAA=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.5": {
+      "sdist": [
+        "I3qcjIjgPb7SMHWLzblDcKPYIxb+DG6e4wpJeNfJRN8=",
+        "discord_linker_pythonapi-0.2.5.tar.gz"
+      ],
+      "wheels": {
+        "discord_linker_pythonapi-0.2.5-py3-none-any.whl": [
+          "9pRmtxEyjyfGVMrD0DxlH15qdLWv4EROTEWnlpky17Y=",
           "py3"
         ]
       }
@@ -77289,6 +77397,44 @@
       ]
     }
   },
+  "legacyversion": {
+    "0.0.4": {
+      "sdist": [
+        "cCT0aI4VkXKmNN5j2JxVH87i8ES0szPqDapesQuWwNY=",
+        "LegacyVersion-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "LegacyVersion-0.0.4-py3-none-any.whl": [
+          "l01nE+RDKsrBqHb29ykOWjJmP6zCarV5KwaoWhleJx8=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.0": {
+      "sdist": [
+        "evJGpJy8PeRZOtZmre+ODZjqPZTKDmXAUUbOrd914xs=",
+        "LegacyVersion-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "LegacyVersion-1.0.0-py3-none-any.whl": [
+          "JpoQRVgiEKENzI/GJeE4/NXbl7solgltJxN6Eq+JRDI=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.1": {
+      "sdist": [
+        "sCjrpX/l5HmL1gPYRK5f5rOGIW7tfkHDUzlvc5rlpt8=",
+        "LegacyVersion-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "LegacyVersion-1.0.1-py3-none-any.whl": [
+          "e4odXC/O83AQ4/uKNtA5BwXUrbQDvpssAJwkzjRwtyU=",
+          "py3"
+        ]
+      }
+    }
+  },
   "lektor-google-search": {
     "0.1": {
       "sdist": [
@@ -94213,6 +94359,14 @@
           "py3"
         ]
       }
+    },
+    "14.0.1.2.2.dev2": {
+      "wheels": {
+        "odoo14_addon_resource_booking-14.0.1.2.2.dev2-py3-none-any.whl": [
+          "t1zD9tGXrRjMlRaHzVEVXybAT8Sbe77e76SRrbevYQg=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo14-addon-stock-picking-warn-message": {
@@ -100412,6 +100566,12 @@
       "sdist": [
         "C8CpfhU8s2n9gjcejSkT7OHIX+MmDU4/NpP4TZvEIpw=",
         "pulumi_mongodbatlas-3.7.0a1675879083.tar.gz"
+      ]
+    },
+    "3.8.0a1677785879": {
+      "sdist": [
+        "TwJwHo8pcWvyv2kzqhAEgRtC8A6KwEfE0J5aFgXKAR8=",
+        "pulumi_mongodbatlas-3.8.0a1677785879.tar.gz"
       ]
     }
   },
@@ -137130,6 +137290,18 @@
       "wheels": {
         "tencentcloud_sdk_python_cynosdb-3.0.841-py2.py3-none-any.whl": [
           "2W8aXto+6mnSF8yFabGjfRJI2z1pFxuct/0ef8q4O/s=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.842": {
+      "sdist": [
+        "QoEUOQG4upFaA+3ZO52TZU39RKAttlwZmtRZACPLtDY=",
+        "tencentcloud-sdk-python-cynosdb-3.0.842.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_cynosdb-3.0.842-py2.py3-none-any.whl": [
+          "dc16g7Tt3WdKDGDMG2iVr4c1ZFoHtiDH+dhqFdQd65Y=",
           "py2.py3"
         ]
       }

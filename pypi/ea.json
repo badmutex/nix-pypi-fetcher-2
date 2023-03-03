@@ -2888,6 +2888,18 @@
     }
   },
   "airflow-pentaho-plugin": {
+    "0.0.0": {
+      "sdist": [
+        "bmUBGWJONiNiK07zYQuNYbWcGGWouIGm7siUofn054E=",
+        "airflow-pentaho-plugin-0.0.0.tar.gz"
+      ],
+      "wheels": {
+        "airflow_pentaho_plugin-0.0.0-py3-none-any.whl": [
+          "5JWy8epxRnCsY+qZCzJOyYLbcDIUx4hIk8RWIK5Ntjg=",
+          "py3"
+        ]
+      }
+    },
     "0.1.0b3": {
       "sdist": [
         "Vfi0SLq1mqyW4wdqixyEmXt+/l4OVjElXk84O6RR2tI=",
@@ -2959,6 +2971,30 @@
         "ScIeY7wR08ECI8XQ+LKBbt2OZhhJSegoTv7sl7PfJBk=",
         "airflow-pentaho-plugin-1.0.16.tar.gz"
       ]
+    },
+    "1.0.17": {
+      "sdist": [
+        "GPRFwThn2rHEZTimldM7IncrckFy64yfX0MYCot50c0=",
+        "airflow-pentaho-plugin-1.0.17.tar.gz"
+      ],
+      "wheels": {
+        "airflow_pentaho_plugin-1.0.17-py3-none-any.whl": [
+          "fxv7tm4zOw6kFrgZMoavEsmOjHoPsiZg2oVZjeTBW8o=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.18": {
+      "sdist": [
+        "aoTMOn6kfRdiG78XTntZ0kMXm7GeMYXkh2XtPjyqIqY=",
+        "airflow-pentaho-plugin-1.0.18.tar.gz"
+      ],
+      "wheels": {
+        "airflow_pentaho_plugin-1.0.18-py3-none-any.whl": [
+          "GguS7XF+x5OePnNkikkcRliw96SNn8mzss0Kpr5ss84=",
+          "py3"
+        ]
+      }
     },
     "1.0.2": {
       "sdist": [
@@ -94539,6 +94575,32 @@
       }
     }
   },
+  "nlp-processor-test": {
+    "0.0.1": {
+      "sdist": [
+        "cVAiLN+E9vH1LMJryHL+7Y/DM1hYcu2tzn/86wA5Qjs=",
+        "nlp_processor_test-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "nlp_processor_test-0.0.1-py3-none-any.whl": [
+          "il5Xax7VrjaSKbVUUfEtM9qq/BCweIMgwxwD7DGGSSg=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "4EqsXukTyPKH7Jasw8VinDZnsE46ydBf1pT/364i26A=",
+        "nlp_processor_test-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "nlp_processor_test-0.0.2-py3-none-any.whl": [
+          "MutbRZJN+BuPKARzgnsBFbi7e/13GUWFGcQQu3r1DPU=",
+          "py3"
+        ]
+      }
+    }
+  },
   "nn-for-dummies": {
     "0.0.42": {
       "sdist": [
@@ -126478,6 +126540,18 @@
       "wheels": {
         "rekuest-0.1.25-py3-none-any.whl": [
           "QM7Qyj8cu9LcgkHa52DbOj55QPmQmejgU7XwrbMshwA=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.26": {
+      "sdist": [
+        "/O+m0L3TFeW1mShH8qFb/g7/kInHRw+Vw+UhiIFF7mM=",
+        "rekuest-0.1.26.tar.gz"
+      ],
+      "wheels": {
+        "rekuest-0.1.26-py3-none-any.whl": [
+          "9ZBBbDGRnlMB206eUw9yi7bFwZQEw31FLWcELu9H/p0=",
           "py3"
         ]
       }
@@ -159382,6 +159456,46 @@
         ],
         "yaramod-3.18.0.dev0-cp39-cp39-win_amd64.whl": [
           "T55L3SVhc7/V2CHqnpagNcfo90BBk2LU6EOjMYYfWxw=",
+          "cp39"
+        ]
+      }
+    },
+    "3.19.0": {
+      "sdist": [
+        "FsDLxQQ3GGwufn6FHLuGe1sWVVYnMZa7R9HXaemo2Wg=",
+        "yaramod-3.19.0.tar.gz"
+      ],
+      "wheels": {
+        "yaramod-3.19.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "SypawkD6Oy92LQyVNeVdf1LWgr91YGrFGgRlxjdnwew=",
+          "cp310"
+        ],
+        "yaramod-3.19.0-cp310-cp310-win_amd64.whl": [
+          "POyi+3KI95ob/9EuXdP4CqNhDsiU4gWpRnGjTqPWpgc=",
+          "cp310"
+        ],
+        "yaramod-3.19.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "B/eJgq/LPM/lJ7QrdCeHnwoKrZG7uT4+OO9o8jnT5cI=",
+          "cp311"
+        ],
+        "yaramod-3.19.0-cp311-cp311-win_amd64.whl": [
+          "KmEC3ZJeSleUSdwgDB7qGE+Ig7KLYZ0/FpatuDoVfto=",
+          "cp311"
+        ],
+        "yaramod-3.19.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "9221kkevBSdw6jrEBVsmlJOpjUWs2JXQ+zhzbKu9JS8=",
+          "cp38"
+        ],
+        "yaramod-3.19.0-cp38-cp38-win_amd64.whl": [
+          "wByAo2t+Z57BzACtLNhHMkTcK+PwpZk06pfN1fvbjpE=",
+          "cp38"
+        ],
+        "yaramod-3.19.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "O1E1ivsadK9XG+BLT0XlgeBe+jQEWmtmDiT6zG9UsYA=",
+          "cp39"
+        ],
+        "yaramod-3.19.0-cp39-cp39-win_amd64.whl": [
+          "JnBTFUosvaprlWGSVkCAp0OSeYvTFsAOz814Kda949Q=",
           "cp39"
         ]
       }

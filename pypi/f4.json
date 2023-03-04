@@ -10245,6 +10245,20 @@
       }
     }
   },
+  "basana": {
+    "1.0.0": {
+      "sdist": [
+        "DYo/HWDvPJ2n8EQQmpco0cK1NI7mykkPp6txXnL4pnE=",
+        "basana-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "basana-1.0.0-py3-none-any.whl": [
+          "JPgWIzFzO7LcDxyAtCaQ2CbP/zdXfuH08kFCwOPz/QU=",
+          "py3"
+        ]
+      }
+    }
+  },
   "base-api-connector": {
     "0.1.0": {
       "wheels": {
@@ -92526,10 +92540,22 @@
         "oakvar-2.8.18.tar.gz"
       ]
     },
+    "2.8.19": {
+      "sdist": [
+        "j9IrEZPlmFNvVydexm7f3ke9IG6MMMYl500+OKD6CFk=",
+        "oakvar-2.8.19.tar.gz"
+      ]
+    },
     "2.8.2": {
       "sdist": [
         "meYLgOAB/JkLV4pWjZ3lXGhpx1ecP1+LrzRZTxbkJGQ=",
         "oakvar-2.8.2.tar.gz"
+      ]
+    },
+    "2.8.20": {
+      "sdist": [
+        "WPFzdfTEazK3zLn8sskmOu2oaoCQ0t88Hjl1C2ZTzB4=",
+        "oakvar-2.8.20.tar.gz"
       ]
     },
     "2.8.3": {
@@ -151583,6 +151609,18 @@
           "py3"
         ]
       }
+    },
+    "2.2.3": {
+      "sdist": [
+        "Z2qQVb6tCrP8YwuwDo6egKU4zAQiyMud5/fSVtE0YM4=",
+        "trame-vtk-2.2.3.tar.gz"
+      ],
+      "wheels": {
+        "trame_vtk-2.2.3-py3-none-any.whl": [
+          "JKcXC13fowZKDuNW+BXtJTyYdEGEXHA+iMqAWVMXUTE=",
+          "py3"
+        ]
+      }
     }
   },
   "transdict": {
@@ -162826,6 +162864,44 @@
       "wheels": {
         "willowtree-0.1.2-py3-none-any.whl": [
           "zybrb5PNLpKWFroI6frXVZ6vOh7vHYxeKwnKdcrVUIU=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "windows-hotkey-checker": {
+    "0.1.7": {
+      "sdist": [
+        "ohyfVmGMPyUL6ZaG45Uh85Tg02abFIiGKL8RUXaZWzM=",
+        "windows_hotkey_checker-0.1.7.tar.gz"
+      ],
+      "wheels": {
+        "windows_hotkey_checker-0.1.7-py3-none-any.whl": [
+          "19TQUdZaoX3a27JcBGemBOb5cbsbFuQuaewCAhPGdAc=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.8": {
+      "sdist": [
+        "OVnKZEqLxDQtuYfZPy/yYe27NRB9QbeM4kXi+IG0yOI=",
+        "windows_hotkey_checker-0.1.8.tar.gz"
+      ],
+      "wheels": {
+        "windows_hotkey_checker-0.1.8-py3-none-any.whl": [
+          "+6oDNFCb15TYWYK0kKrGNbh88SNyFhQ0kW8y3SYIbSw=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.9": {
+      "sdist": [
+        "mFbX4eE51uZlrm3+Mbr3rjNI0n/FKZ6NkPLRzhfohic=",
+        "windows_hotkey_checker-0.1.9.tar.gz"
+      ],
+      "wheels": {
+        "windows_hotkey_checker-0.1.9-py3-none-any.whl": [
+          "NmeUrrfcN5mF7Xtc+QL32+9vimfueC224p46FU7gRfA=",
           "py3"
         ]
       }

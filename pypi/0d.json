@@ -5841,6 +5841,18 @@
           "py3"
         ]
       }
+    },
+    "9.2.8": {
+      "sdist": [
+        "VN9d5jf/0GucBw5KOU2dtPsPACrGKjzohsZuFSe9kUc=",
+        "angrop-9.2.8.tar.gz"
+      ],
+      "wheels": {
+        "angrop-9.2.8-py3-none-any.whl": [
+          "fN2O+aNlyx9RkWrG8RRpXkW0ScCJj8YfEHcnlyFJxLA=",
+          "py3"
+        ]
+      }
     }
   },
   "anidouga-anidb.py": {
@@ -18078,6 +18090,18 @@
       "wheels": {
         "aws_solutions_constructs.aws_lambda_stepfunctions-2.32.0-py3-none-any.whl": [
           "3kpFK1i+wmJg90fS/+JRfFW1Z50H5P+Oo4zZNjCD5kk=",
+          "py3"
+        ]
+      }
+    },
+    "2.33.0": {
+      "sdist": [
+        "WSxlm7g7tQCw+J9EDyKZFNER/bvD16k7eNnThyIWZ28=",
+        "aws-solutions-constructs.aws-lambda-stepfunctions-2.33.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_lambda_stepfunctions-2.33.0-py3-none-any.whl": [
+          "plyt8P4nhO6OJ2MNGNgaw5TKcuul5LLzX8FHs7ow6xk=",
           "py3"
         ]
       }
@@ -31348,6 +31372,34 @@
     }
   },
   "core-universal": {
+    "2.3.10": {
+      "wheels": {
+        "core_universal-2.3.10-py2.py3-none-macosx_10_7_x86_64.whl": [
+          "hMH37CfjNmLsGdvKAgQG0IxCw0Awwtd6HhYQnm0Xs2g=",
+          "py2.py3"
+        ],
+        "core_universal-2.3.10-py2.py3-none-macosx_11_0_arm64.whl": [
+          "lWGFnprJwIb8vFWag31X5wd76IelPKWf5+U5+cSl5UI=",
+          "py2.py3"
+        ],
+        "core_universal-2.3.10-py2.py3-none-manylinux1_x86_64.whl": [
+          "CEmneNrnQowM98YphIOMB5t63AMF6M2cOe68jRpGMDA=",
+          "py2.py3"
+        ],
+        "core_universal-2.3.10-py2.py3-none-manylinux2014_aarch64.whl": [
+          "AdYz1N7hJy+brpzDPD2QePY+4XNEsjXpEn/+hbZFsQ4=",
+          "py2.py3"
+        ],
+        "core_universal-2.3.10-py2.py3-none-musllinux_1_2_x86_64.whl": [
+          "DD9FNfTT3WooTqK+OXu7FpcrCRIAmd0NT5dWNEuu0SY=",
+          "py2.py3"
+        ],
+        "core_universal-2.3.10-py2.py3-none-win_amd64.whl": [
+          "AlC7nhmzfzckVDwGXWaToM375zrSqkaHYskXnBKsDHs=",
+          "py2.py3"
+        ]
+      }
+    },
     "2.3.7": {
       "wheels": {
         "core_universal-2.3.7-py2.py3-none-macosx_10_7_x86_64.whl": [
@@ -70561,6 +70613,26 @@
           "py3"
         ]
       }
+    },
+    "0.3.2": {
+      "sdist": [
+        "mSEK7kYoHYnxG6lmvc3qBiDT3/e+v3QUgCUaoP3D4uI=",
+        "invokelint-0.3.2.tar.gz"
+      ],
+      "wheels": {
+        "invokelint-0.3.2-py3-none-any.whl": [
+          "C6o2R8atWKkgOyps7Tv2p5aT3W4d+pPg5czogttgddM=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.0": {
+      "wheels": {
+        "invokelint-0.4.0-py3-none-any.whl": [
+          "w5OC+HS9mV2EVVxLpwKPNxekYGZGlaq5TT5f4BHbzck=",
+          "py3"
+        ]
+      }
     }
   },
   "ion-detective": {
@@ -82453,6 +82525,30 @@
           "py3"
         ]
       }
+    },
+    "0.5.4": {
+      "sdist": [
+        "xrpQZ1qm6tgrGsnQDUf1Xhpill2tf0ApfKFC8t66wd8=",
+        "mitzu-0.5.4.tar.gz"
+      ],
+      "wheels": {
+        "mitzu-0.5.4-py3-none-any.whl": [
+          "BLJgXWCS7JyFpC2Jt171JyfEWgPEqI9JFGy5TZx2spY=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.5": {
+      "sdist": [
+        "yYUm/0R6CApeW/9pAZQrdKFQ2vzsUaBAvayzd7Hy7Qc=",
+        "mitzu-0.5.5.tar.gz"
+      ],
+      "wheels": {
+        "mitzu-0.5.5-py3-none-any.whl": [
+          "PawUrV+WtMCPfg3nPCGBNz+Mt3iTpHteonbifoy8HpY=",
+          "py3"
+        ]
+      }
     }
   },
   "mixed-effect": {
@@ -83738,6 +83834,54 @@
       "wheels": {
         "modern_greek_inflexion-0.5.525-py3-none-any.whl": [
           "Qy/ZlY+KNzmDS1k2qLTFNDV602i+FvV0t6hM1wm+T3w=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.526": {
+      "sdist": [
+        "I/sdhht+yVHXy82GG5JEwYgckohZXVb+SCAKrF2K2Oc=",
+        "modern-greek-inflexion-0.5.526.tar.gz"
+      ],
+      "wheels": {
+        "modern_greek_inflexion-0.5.526-py3-none-any.whl": [
+          "a7UidsbWsUldqnVAAaMHfLqTXvjUdX49xVv91IaQAkY=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.527": {
+      "sdist": [
+        "DOzOstm/QejligBLaCVkFUQxVBSvHQocrQxODwMOm58=",
+        "modern-greek-inflexion-0.5.527.tar.gz"
+      ],
+      "wheels": {
+        "modern_greek_inflexion-0.5.527-py3-none-any.whl": [
+          "7sv4l5SBUjGQlS+hiXkiWIB612ekImHA/hlXzt5ouCw=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.530": {
+      "sdist": [
+        "YIycZH2QAW4MrJj+THhgfryem8VdQnsi4Ch9/K6+RMA=",
+        "modern-greek-inflexion-0.5.530.tar.gz"
+      ],
+      "wheels": {
+        "modern_greek_inflexion-0.5.530-py3-none-any.whl": [
+          "s+vIDRudiv5Hz087YuOmSxa5QlHop+YwL7XlOK05LDI=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.532": {
+      "sdist": [
+        "ErjqBjbAhnnae3HzS0SxaesnRy7gKsgO9OJUNthE+LA=",
+        "modern-greek-inflexion-0.5.532.tar.gz"
+      ],
+      "wheels": {
+        "modern_greek_inflexion-0.5.532-py3-none-any.whl": [
+          "lAkorgte0Ver6W37M5tCEEUK39HbmTTC4pZ0RsGWOHE=",
           "py3"
         ]
       }
@@ -133678,6 +133822,18 @@
         ]
       }
     },
+    "0.1.202": {
+      "sdist": [
+        "z8dQNIV3X13l3fi11VJAArcWUOUivulVWss0jNPVgT0=",
+        "state-machine-semaphore-0.1.202.tar.gz"
+      ],
+      "wheels": {
+        "state_machine_semaphore-0.1.202-py3-none-any.whl": [
+          "L2Bkza+aF17nPUNkf9Lz+cWtlHttshyP06rze0SVBz4=",
+          "py3"
+        ]
+      }
+    },
     "0.1.21": {
       "sdist": [
         "pf/4rzGla/pjNSDpbHZNLNDluYTa2KveXzsA3z1JEyg=",
@@ -136192,6 +136348,22 @@
         ],
         "stonemark-0.3.1-py3-none-any.whl": [
           "50auL7gkR66NUz32gcjABZ2SNnW50XHIuwoO/CqQQHQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.2": {
+      "sdist": [
+        "goXOsDUKVP6KB5wX60xw106IBQkhqqRMNMgD5ojkhac=",
+        "stonemark-0.3.2.tar.gz"
+      ],
+      "wheels": {
+        "stonemark-0.3.2-py2-none-any.whl": [
+          "UTF2s+Tqj0qqeCoUcepsTVtasOIHFMszmgQwYLHylVE=",
+          "py2"
+        ],
+        "stonemark-0.3.2-py3-none-any.whl": [
+          "ihVcv5at3GqasWRNi2HNkiiBnEb8GNjLq7amPDER6Xg=",
           "py3"
         ]
       }

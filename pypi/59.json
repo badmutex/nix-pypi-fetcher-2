@@ -8520,14 +8520,14 @@
     }
   },
   "auger-oca": {
-    "1.1.0": {
+    "2.0.0": {
       "sdist": [
-        "VR1ET8pMX8KQt3clgVJKMx29EqCpyY7geL/AxNUB3wI=",
-        "auger_oca-1.1.0.tar.gz"
+        "neHapdNvJsgAiPsZVReX7slPA32u6KwVYM532YKU2qY=",
+        "auger_oca-2.0.0.tar.gz"
       ],
       "wheels": {
-        "auger_oca-1.1.0-py3-none-any.whl": [
-          "T/JmP9/5ChC8C3Edct7wezpQ6mwdOdlvsJZLdIA7MBk=",
+        "auger_oca-2.0.0-py3-none-any.whl": [
+          "0PCmEqqvV9Kp+PcFhK/1WJ7F4PJZa/QchyjeShkdJNo=",
           "py3"
         ]
       }
@@ -10674,6 +10674,34 @@
         ],
         "azure_cognitiveservices_speech-1.25.1b1-py3-none-win_amd64.whl": [
           "QJ6T5BNmti6BkptWV55DJUTgFhniqEBWIJjG/0qUrQ0=",
+          "py3"
+        ]
+      }
+    },
+    "1.26.0": {
+      "wheels": {
+        "azure_cognitiveservices_speech-1.26.0-py3-none-macosx_10_14_x86_64.whl": [
+          "XUw5ZwGbwTiB4c+IBd4q0ODE/8ReNERLga7632SrIfY=",
+          "py3"
+        ],
+        "azure_cognitiveservices_speech-1.26.0-py3-none-macosx_11_0_arm64.whl": [
+          "LGwzQtX9UvxyJo16B5yPTy7Z9UuFCm5AxOdH71lfrm0=",
+          "py3"
+        ],
+        "azure_cognitiveservices_speech-1.26.0-py3-none-manylinux1_x86_64.whl": [
+          "iTd+EuDjH0qXIbapX1sVeJhSE959xi0pmduMwOvdFfc=",
+          "py3"
+        ],
+        "azure_cognitiveservices_speech-1.26.0-py3-none-manylinux2014_aarch64.whl": [
+          "IviAKg3AeJUv5raFdzrVFAQ0l2HJc3/8Sv6se0hnbB8=",
+          "py3"
+        ],
+        "azure_cognitiveservices_speech-1.26.0-py3-none-win32.whl": [
+          "fy/0xyj+SL0EnfI/1w0ke0po5oiSNAkWzWZaw6ZHBPE=",
+          "py3"
+        ],
+        "azure_cognitiveservices_speech-1.26.0-py3-none-win_amd64.whl": [
+          "4J0+EByBp7QcQFRPIFW37i6Ty1SuYMsejV1QEh3daPk=",
           "py3"
         ]
       }
@@ -91644,6 +91672,12 @@
       "sdist": [
         "7sePiUrCCscz5NjFyb1n5X+/PAHgMj1KN2PxoU9MoE4=",
         "ph4-upsmonit-0.0.6.tar.gz"
+      ]
+    },
+    "0.0.7": {
+      "sdist": [
+        "DQLvreoHJrV3p8jBmKOMjrQwee7XSraPetxelPvA1cY=",
+        "ph4-upsmonit-0.0.7.tar.gz"
       ]
     }
   },

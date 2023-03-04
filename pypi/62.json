@@ -39971,6 +39971,18 @@
           "py3"
         ]
       }
+    },
+    "0.2.6": {
+      "sdist": [
+        "cJ3bIYk+PEa2erE7edTuE2aJl/BiP9DFBfy2dKfDAiE=",
+        "discord_linker_pythonapi-0.2.6.tar.gz"
+      ],
+      "wheels": {
+        "discord_linker_pythonapi-0.2.6-py3-none-any.whl": [
+          "TKHyw8aw0w7efQNSIuebnpVU8mBdgVHL0wcFyDv9640=",
+          "py3"
+        ]
+      }
     }
   },
   "diskutil-parser": {
@@ -78968,21 +78980,49 @@
         "liblinear-multicore-2.46.1.tar.gz"
       ],
       "wheels": {
+        "liblinear_multicore-2.46.1-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "0p2bJTgX2d7J/sP2JacfEXMyngF2sovcJ4hOrKknMNI=",
+          "cp310"
+        ],
         "liblinear_multicore-2.46.1-cp310-cp310-win_amd64.whl": [
           "+H+cQrB1eQtlYIugOa1hUTW2ULJJa7ORtUJfr4HYcAc=",
           "cp310"
+        ],
+        "liblinear_multicore-2.46.1-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "9cMxNF4zo0czLkHvEziIsRAlK1mdtPHtqYd1idRk3Vs=",
+          "cp311"
+        ],
+        "liblinear_multicore-2.46.1-cp311-cp311-win_amd64.whl": [
+          "Wi25cVdCOEeXckFh0wAtLbhCYRH+a8p2VwSaCVNWgZE=",
+          "cp311"
+        ],
+        "liblinear_multicore-2.46.1-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "Ucm5fWM46frbiL2EHy+sB2VZelsKOIUPugqpsZvGSVY=",
+          "cp36"
         ],
         "liblinear_multicore-2.46.1-cp36-cp36m-win_amd64.whl": [
           "ewaJErFVAaDIFnExmjzMHZjkj+tPYGKj4yCX0C3Zxms=",
           "cp36"
         ],
+        "liblinear_multicore-2.46.1-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "uex/A06gXFmNK5mem8+KfI4gv2Gy87DrOAuw/vVDTtA=",
+          "cp37"
+        ],
         "liblinear_multicore-2.46.1-cp37-cp37m-win_amd64.whl": [
           "Xm7Pr+QjSHjwkl8Tdpx1M22wLcY2D0KGiDiUmd6U9qk=",
           "cp37"
         ],
+        "liblinear_multicore-2.46.1-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "tq7jvoKisaBoqmDNKR8Isb2IMGy0nrrQUPwO9zsV2IE=",
+          "cp38"
+        ],
         "liblinear_multicore-2.46.1-cp38-cp38-win_amd64.whl": [
           "OkHFtmi711Al56J0qBClQvFXKGtEVH0R4S3Gu/pxz2g=",
           "cp38"
+        ],
+        "liblinear_multicore-2.46.1-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "QOSgt6EToO9WXFiqQStzIOJSas/WemZDaIvYDUs2PAM=",
+          "cp39"
         ],
         "liblinear_multicore-2.46.1-cp39-cp39-win_amd64.whl": [
           "9JoQJeBosPYrxhU0cg+xGVxQ51pHHjZiSvPdimo0Zyo=",

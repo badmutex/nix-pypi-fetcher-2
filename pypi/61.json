@@ -4067,6 +4067,32 @@
       }
     }
   },
+  "aiodispatch": {
+    "0.0.1": {
+      "sdist": [
+        "vwNtgKdbpeZ3+L0w6EyDt5AIEIJT/2cW4LfttK3F8yQ=",
+        "aiodispatch-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "aiodispatch-0.0.1-py3-none-any.whl": [
+          "L8wM0ST0NhhcgrWrnmC5X+oqAfX1nGG9TeBhRK0Krxo=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "f5r54X/FMXPCFtcvP6nSJ8iYqu8eN8bWV0XDOd7+eVM=",
+        "aiodispatch-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "aiodispatch-0.0.2-py3-none-any.whl": [
+          "jMwkKtb7a/3OjS+zhGca9WCqA9zWxViLHoc3dWDxlqM=",
+          "py3"
+        ]
+      }
+    }
+  },
   "aioftp": {
     "0.0.1": {
       "wheels": {
@@ -16256,6 +16282,18 @@
       "wheels": {
         "biglist-0.7.7b1-py3-none-any.whl": [
           "uq9jYQ0+XUfRt6GZWh5lWxyN/D/bAzAsjHRDzbBmEDE=",
+          "py3"
+        ]
+      }
+    },
+    "0.7.7b2": {
+      "sdist": [
+        "A9C5haoxcqVv9uieS+E+2npjDMmrnCGi2PWTFJo4IpQ=",
+        "biglist-0.7.7b2.tar.gz"
+      ],
+      "wheels": {
+        "biglist-0.7.7b2-py3-none-any.whl": [
+          "wZ825ni/idKz2uRHHHrPzPw/Af22EQZmVaTrqcs7OVg=",
           "py3"
         ]
       }
@@ -54761,6 +54799,16 @@
       }
     }
   },
+  "hikka-tl-new": {
+    "2.0.0": {
+      "wheels": {
+        "Hikka_TL_New-2.0.0-py3-none-any.whl": [
+          "cliGLbpQNqzQTOavVDtjJqnSOEbqJo/OnY+vAVwRrZ0=",
+          "py3"
+        ]
+      }
+    }
+  },
   "hinomaru": {
     "0.0.1.dev0": {
       "sdist": [
@@ -61622,110 +61670,14 @@
     }
   },
   "it4u-web-crawler": {
-    "1.0.0": {
+    "1.0.10": {
       "sdist": [
-        "fXfogi9U77QVpYBC0tr0lV+Msae1KDevCE3weW4c2eg=",
-        "it4u_web_crawler-1.0.0.tar.gz"
+        "aSS7Ydg1pMSWS8jvKNy+FYkWZHBgjT6O2bAbkTl0Id0=",
+        "it4u_web_crawler-1.0.10.tar.gz"
       ],
       "wheels": {
-        "it4u_web_crawler-1.0.0-py3-none-any.whl": [
-          "jH6RVUDKgJljcP50UhDZ8UdczJXzr4KQ0AJnTd6irgY=",
-          "py3"
-        ]
-      }
-    },
-    "1.0.1": {
-      "sdist": [
-        "oDHD0qeA80+CvKnJ+CrP9kBKapoust0vFqNFkORbMfk=",
-        "it4u_web_crawler-1.0.1.tar.gz"
-      ],
-      "wheels": {
-        "it4u_web_crawler-1.0.1-py3-none-any.whl": [
-          "MeOXq7x+0vpcFzWcmOiwM92VDiqELdM9OdUWv1vd6d8=",
-          "py3"
-        ]
-      }
-    },
-    "1.0.2": {
-      "sdist": [
-        "qYiqM2+Lug+hpW2G6dF4t2Q4zUAU3pvVSqZ3WcOImjQ=",
-        "it4u_web_crawler-1.0.2.tar.gz"
-      ],
-      "wheels": {
-        "it4u_web_crawler-1.0.2-py3-none-any.whl": [
-          "ypjj3yCMCUbjzqJo9cadEc5Qbnrgt+IymbH6UGvTjms=",
-          "py3"
-        ]
-      }
-    },
-    "1.0.3": {
-      "sdist": [
-        "Y2YqVyKAQ2EuIqnsL0jlZYuFF9TisHHBPUOblhjeR28=",
-        "it4u_web_crawler-1.0.3.tar.gz"
-      ],
-      "wheels": {
-        "it4u_web_crawler-1.0.3-py3-none-any.whl": [
-          "kU9WiHKyYKNg7R4YrjirYASH94MvCzK26h46JV9OlJ0=",
-          "py3"
-        ]
-      }
-    },
-    "1.0.4": {
-      "sdist": [
-        "NFuXEEwhl7ikqWejClztPGDfi364PwtSluPSyD7+Gy8=",
-        "it4u_web_crawler-1.0.4.tar.gz"
-      ],
-      "wheels": {
-        "it4u_web_crawler-1.0.4-py3-none-any.whl": [
-          "QfFiz++JmAkehCyso+MNOkKnTnoNBrYJ0bL6DFjzTrY=",
-          "py3"
-        ]
-      }
-    },
-    "1.0.5": {
-      "sdist": [
-        "7LTE3nftbcmCe/H+RStiAsYlnDclBLEsxRHdF3dFTrk=",
-        "it4u_web_crawler-1.0.5.tar.gz"
-      ],
-      "wheels": {
-        "it4u_web_crawler-1.0.5-py3-none-any.whl": [
-          "2zkyzudHTGNH15Wqx185Uq6wJd8lG5ZPifFp5XZHscA=",
-          "py3"
-        ]
-      }
-    },
-    "1.0.6": {
-      "sdist": [
-        "WITtESbA3v5mi4FMWMyZwU9CEfgFHd7y3I3NaN4Plv8=",
-        "it4u_web_crawler-1.0.6.tar.gz"
-      ],
-      "wheels": {
-        "it4u_web_crawler-1.0.6-py3-none-any.whl": [
-          "ofdUnYdjJnnruL0hjeZPQZmWifDz8K13Zej1E6af2R4=",
-          "py3"
-        ]
-      }
-    },
-    "1.0.7": {
-      "sdist": [
-        "wltEKR7A6szyQ9WD/44BdbuhHekO5gbTQVJvGAXWLxo=",
-        "it4u_web_crawler-1.0.7.tar.gz"
-      ],
-      "wheels": {
-        "it4u_web_crawler-1.0.7-py3-none-any.whl": [
-          "pg/SlDC6H3aLV6iGC7ngJ5DXPvizUlC7Q8IjeTsCsSY=",
-          "py3"
-        ]
-      }
-    },
-    "1.0.8": {
-      "sdist": [
-        "fsHHDhzGsiOlTdBXSz52/pD84RWV8+FgQJqYfrby6yU=",
-        "it4u_web_crawler-1.0.8.tar.gz"
-      ],
-      "wheels": {
-        "it4u_web_crawler-1.0.8-py3-none-any.whl": [
-          "JapskBhK4m52EiJYkztqRvIMK8aQ7yPeemwXdPrk81c=",
+        "it4u_web_crawler-1.0.10-py3-none-any.whl": [
+          "C1LITWvgZga1IQ2yhkevqN4ClKYwLRjZgE2G9YW6t0I=",
           "py3"
         ]
       }

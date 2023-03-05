@@ -27386,6 +27386,14 @@
           "K2H5ZWHuh7XR5AKBttkIyApFTVKdzvlH1PIpu6P2jnQ=",
           "cp310"
         ],
+        "cvxopt-1.3.0-cp311-cp311-win32.whl": [
+          "4JDBqcchQlvEqGgHqKt63DOfqEVCNAe2/o2aZvkH1kc=",
+          "cp311"
+        ],
+        "cvxopt-1.3.0-cp311-cp311-win_amd64.whl": [
+          "epUyFRKUh0+0fixgJ/y//6YzTOWESW0EIAAbQ5KaIRg=",
+          "cp311"
+        ],
         "cvxopt-1.3.0-cp36-cp36m-macosx_10_9_x86_64.whl": [
           "0KrZAgheF8YY0OI4yASg5BbttwHFsCMQA84roeCj51E=",
           "cp36"
@@ -31190,6 +31198,18 @@
       "wheels": {
         "django_ace-1.14.0-py3-none-any.whl": [
           "3gYbwRQEPlsp78Rb+EMQt/b0MRuk9TI+bQa349JyFEU=",
+          "py3"
+        ]
+      }
+    },
+    "1.15.3": {
+      "sdist": [
+        "OKjLpAkBd8iMrxCq1vQO58By0ITGNV/chIv1KKOL5zM=",
+        "django-ace-1.15.3.tar.gz"
+      ],
+      "wheels": {
+        "django_ace-1.15.3-py3-none-any.whl": [
+          "TnwKDJrP0uMQCgBHhfZTmE2YAm1fycDHDbjI3Ymcv+0=",
           "py3"
         ]
       }

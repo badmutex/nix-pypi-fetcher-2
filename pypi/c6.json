@@ -1852,10 +1852,10 @@
     }
   },
   "add-swap-space": {
-    "3.0": {
+    "4.0": {
       "sdist": [
-        "zrYnfjDtF3qgbOtZbzqee+HsaIK4ciQM4wVOGoZC+DI=",
-        "add-swap-space-3.0.tar.gz"
+        "BfVUm6VLs1WIWCCpZ4LiFTsAjFxrQjMobNyImnL8gxA=",
+        "add-swap-space-4.0.tar.gz"
       ]
     }
   },
@@ -14064,6 +14064,18 @@
       "wheels": {
         "blctools-0.0.40-py3-none-any.whl": [
           "LR6sb+5GrK3U3ElPRSGU/Jb57X5fvmZowpwQKBYFD88=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.41": {
+      "sdist": [
+        "aqworZChPxpiHpZuLr2A+8iTPKxJNnFPERTFtSI0YLI=",
+        "blctools-0.0.41.tar.gz"
+      ],
+      "wheels": {
+        "blctools-0.0.41-py3-none-any.whl": [
+          "irNyNteViQLW8hRlcNEH5LKUaGk3l/PEjru0VdfmMjo=",
           "py3"
         ]
       }
@@ -32314,6 +32326,32 @@
       "wheels": {
         "django_decorator_include-3.0-py3-none-any.whl": [
           "/nqWr7I/Zty8YifTxIQw5TzFcE6rMIQd24vZQOXqilo=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "django-dialogform": {
+    "1.0b1": {
+      "sdist": [
+        "SxU8UxB8Bsl6SO69Su42KguJp+IYO+bCICQF1LNYSSQ=",
+        "django-dialogform-1.0b1.tar.gz"
+      ],
+      "wheels": {
+        "django_dialogform-1.0b1-py3-none-any.whl": [
+          "yUf2jKVpUz7hlJszYU3qhju5TTWfY4ZWTYakNFIPuhI=",
+          "py3"
+        ]
+      }
+    },
+    "1.0b2": {
+      "sdist": [
+        "lzYwGT9s8GrgSPm6ICMuEv+fB/arBDxIF5J83//pmbA=",
+        "django-dialogform-1.0b2.tar.gz"
+      ],
+      "wheels": {
+        "django_dialogform-1.0b2-py3-none-any.whl": [
+          "pxdL4p694++TJi28oczPNLtnLbkN7e2zq8gM1xykMCY=",
           "py3"
         ]
       }
@@ -78491,6 +78529,14 @@
           "py3"
         ]
       }
+    },
+    "15.0.2.0.0": {
+      "wheels": {
+        "odoo_addon_account_banking_sepa_credit_transfer-15.0.2.0.0-py3-none-any.whl": [
+          "PpKOBsUJphVc/BxU+xb0OefGwtCQ9Ksa9LECK5YGNcY=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo-addon-account-journal-general-sequence": {
@@ -122008,6 +122054,18 @@
       "wheels": {
         "sveltish-1.2.0-py3-none-any.whl": [
           "Pr/6AoQim9ikZgrrJ3/ri3T0CLg0QNKJ6qjd5WUX8Lk=",
+          "py3"
+        ]
+      }
+    },
+    "1.2.3": {
+      "sdist": [
+        "StEQvDM1hRyZU3oIfunal5cGVFl1/mdMY+WFdivW/JQ=",
+        "sveltish-1.2.3.tar.gz"
+      ],
+      "wheels": {
+        "sveltish-1.2.3-py3-none-any.whl": [
+          "kXi+RMiT1gYNYP/8BEgL0igN0x49DNaimzuEiVuqQoo=",
           "py3"
         ]
       }

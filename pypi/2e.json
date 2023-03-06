@@ -24311,6 +24311,18 @@
           "py2.py3"
         ]
       }
+    },
+    "0.1.5": {
+      "sdist": [
+        "9QzI0YkQY1yHWWjOkxf2HwDpgnWsc1EQAODx299F3bw=",
+        "corals-0.1.5.tar.gz"
+      ],
+      "wheels": {
+        "corals-0.1.5-py2.py3-none-any.whl": [
+          "2CguZZpkv79PpBcsOywtK9Btrv2aQsKRPD1IUiOEMQA=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "core-dev": {
@@ -45517,6 +45529,20 @@
       ]
     }
   },
+  "flake8-assert-finder": {
+    "1.0": {
+      "sdist": [
+        "wTV5S3cKD88NapDXM82MZpXR+aniVT1x9AzaWTWyzAo=",
+        "flake8-assert-finder-1.0.tar.gz"
+      ],
+      "wheels": {
+        "flake8_assert_finder-1.0-py3-none-any.whl": [
+          "5FRBCxDtWHGHZW9CveQxGLnOMY/yLJYjc2vhvIUgNQ0=",
+          "py3"
+        ]
+      }
+    }
+  },
   "flamapy-smt": {
     "1.0.0": {
       "sdist": [
@@ -52870,6 +52896,18 @@
         ]
       }
     },
+    "0.4.21": {
+      "sdist": [
+        "gRVVUDTKqfftpu66GHiKkR0sIImTCWBTqx3UF95vIPY=",
+        "gpt_index-0.4.21.tar.gz"
+      ],
+      "wheels": {
+        "gpt_index-0.4.21-py3-none-any.whl": [
+          "MeVHrya4s7vNAIXOL5BF86j5q8YvW8Fv7UhgNRvG3tQ=",
+          "py3"
+        ]
+      }
+    },
     "0.4.4": {
       "sdist": [
         "iNDkFsjwUNnjEQMmSaXSDffdqXPj6U8hJkZLU8yOr6k=",
@@ -60193,6 +60231,20 @@
         "image_dataset_loader-0.0.0-py3-none-any.whl": [
           "vK2UQp5lELDnrzOij9higpn65mPo/yVZ33ElplWA4ys=",
           "py3"
+        ]
+      }
+    }
+  },
+  "imanalys": {
+    "0.1.28": {
+      "sdist": [
+        "mWXzZHGu2ww4m/6QEp3us0LN4S9r5FRinqBnBfLepYA=",
+        "imanalys-0.1.28.tar.gz"
+      ],
+      "wheels": {
+        "imanalys-0.1.28-py2.py3-none-any.whl": [
+          "cVpU9dYa64X4JYWGgEqctLfKQqwGJrlzrlmwlbLRml4=",
+          "py2.py3"
         ]
       }
     }
@@ -69358,6 +69410,12 @@
       "sdist": [
         "d30Tckj5DG2uvKJuNPwVG671HYjsLsIXB98GKKvX5R0=",
         "libcnmc-23.17.1.tar.gz"
+      ]
+    },
+    "23.18.0": {
+      "sdist": [
+        "mx8qxbIrf5l4gM9CHRVMgef65QwuLDNcIFQbkY31r6w=",
+        "libcnmc-23.18.0.tar.gz"
       ]
     },
     "23.2.0": {
@@ -85415,6 +85473,18 @@
           "py3"
         ]
       }
+    },
+    "2.0.1": {
+      "sdist": [
+        "HKowRDJYXURv2mrLYetPVslDPpcqAB+AMXI/LQSW45M=",
+        "oarepo-model-builder-ui-2.0.1.tar.gz"
+      ],
+      "wheels": {
+        "oarepo_model_builder_ui-2.0.1-py3-none-any.whl": [
+          "IsTvxPnQAi9RwgsRdIzSmas7h45lqAEXUX4cC0zSsRs=",
+          "py3"
+        ]
+      }
     }
   },
   "oauth1-py3": {
@@ -89726,6 +89796,16 @@
       "wheels": {
         "odoo14_addon_hr_expense_analytic_distribution-14.0.1.0.1.dev5-py3-none-any.whl": [
           "KfaEON8Hr32bXCC4+5dZXE75sHAfm9ybUiTbby0NMEY=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "odoo14-addon-l10n-it-bill-of-entry": {
+    "14.0.1.0.1.dev2": {
+      "wheels": {
+        "odoo14_addon_l10n_it_bill_of_entry-14.0.1.0.1.dev2-py3-none-any.whl": [
+          "SHTw+eJN1y7/do0PEVwdh22BkA0CSKnxwRjLLLu4yhw=",
           "py3"
         ]
       }

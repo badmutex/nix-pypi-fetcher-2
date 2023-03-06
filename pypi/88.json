@@ -14905,6 +14905,74 @@
           "py2.py3"
         ]
       }
+    },
+    "0.3.0rc1": {
+      "sdist": [
+        "TgyPuQJEieuwB8G7DJhbyA94j29bVFYc7XC4cYH+PV0=",
+        "chromo-0.3.0rc1.tar.gz"
+      ],
+      "wheels": {
+        "chromo-0.3.0rc1-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "LWw4SMYB3NP/lIwYrjBkIMKLjuG0RjLGYsYSPXKoh6M=",
+          "cp310"
+        ],
+        "chromo-0.3.0rc1-cp310-cp310-macosx_11_0_arm64.whl": [
+          "3R79hXh7MtySv0Rv/QeGwui0xTzIPzNq52NyFI+Ce+w=",
+          "cp310"
+        ],
+        "chromo-0.3.0rc1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "BQmbSWY2ybmNQ7UQJOrURGMuI7eQ43WgvF4fQLwKJgk=",
+          "cp310"
+        ],
+        "chromo-0.3.0rc1-cp310-cp310-win_amd64.whl": [
+          "ONpsBFEXJVS3kTATLoVta7pJnkVSFPf4DX8ypgTDEoY=",
+          "cp310"
+        ],
+        "chromo-0.3.0rc1-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "mEn+SGEjS8zwWWj+KpXrp2l1HhndsB/M4vhg1OAucug=",
+          "cp311"
+        ],
+        "chromo-0.3.0rc1-cp311-cp311-macosx_11_0_arm64.whl": [
+          "/vXDQaRRrT6Kp2RpPLQR+JPuwcFbMx/VCNOS3KXq0mk=",
+          "cp311"
+        ],
+        "chromo-0.3.0rc1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "sbIWd3wW/NeZhxjyXJolryP3QpJzJRvTUvJueU8aZj8=",
+          "cp311"
+        ],
+        "chromo-0.3.0rc1-cp311-cp311-win_amd64.whl": [
+          "fkPnnaEx9Kj/F43R8p4ocNFbJZJRYbrwod3+emH0jIo=",
+          "cp311"
+        ],
+        "chromo-0.3.0rc1-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "AmgoZCjbh+ZK15oZy/yBuBBIoxSPrdCS5wRn5ZurMEU=",
+          "cp38"
+        ],
+        "chromo-0.3.0rc1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "7o8Uui/3VLF8wcncc56TRdc+0o8qHAb2tQeSyxgkSiA=",
+          "cp38"
+        ],
+        "chromo-0.3.0rc1-cp38-cp38-win_amd64.whl": [
+          "fUjDHFwKNETghVpf6Yhuk1S9l9Bml+zNCPBzBnhF3Uo=",
+          "cp38"
+        ],
+        "chromo-0.3.0rc1-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "vpiHJ92Frdn66LaaGUDL/HHaCSXpcL1g7KXj/ELDi1w=",
+          "cp39"
+        ],
+        "chromo-0.3.0rc1-cp39-cp39-macosx_11_0_arm64.whl": [
+          "ImnfMUrQiP2CX/nUFG3OyHrlsQAKYocCB+3xwk6a5Hw=",
+          "cp39"
+        ],
+        "chromo-0.3.0rc1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "VmYESRSlg6BwVLW11pGoyL8ySW6ND0MjyULaPdXIWm4=",
+          "cp39"
+        ],
+        "chromo-0.3.0rc1-cp39-cp39-win_amd64.whl": [
+          "LEZz6YKDO3vxjyptxlMaEwM6cWLa2p77sbINNvwOPb8=",
+          "cp39"
+        ]
+      }
     }
   },
   "churn": {
@@ -17240,6 +17308,18 @@
       "wheels": {
         "conda_pip_minimal-0.1.8-py3-none-any.whl": [
           "as4QCvkPpvV+F4tMM6h64JKhXxwQfLcYu5WfcTQTTc4=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.9": {
+      "sdist": [
+        "HBoj6kl3XAv2SRsak7//Be64samEPdR9ifU/DLkETYM=",
+        "conda_pip_minimal-0.1.9.tar.gz"
+      ],
+      "wheels": {
+        "conda_pip_minimal-0.1.9-py3-none-any.whl": [
+          "VxYgAzTluOyB+Ravv9vyQ84IKCPbG1hxOuJYAcqHqQo=",
           "py3"
         ]
       }
@@ -54318,6 +54398,18 @@
       "wheels": {
         "idoit_scaleup-0.0.5-py3-none-any.whl": [
           "/aKwXdOwgN5yVf3dOvHZp5qvV9OipPz65I53vb5Unw4=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.6": {
+      "sdist": [
+        "C/kxiWNubyaP/xxWtaVqw4fU3WGPGzhyZiqwZxHa1/M=",
+        "idoit_scaleup-0.0.6.tar.gz"
+      ],
+      "wheels": {
+        "idoit_scaleup-0.0.6-py3-none-any.whl": [
+          "gWbjPqiMFUXVjamu+0Ll6FVzeKKay9FaAQIeh3CiqPI=",
           "py3"
         ]
       }
@@ -108475,6 +108567,20 @@
       }
     }
   },
+  "pyhttprequests": {
+    "0.0.8": {
+      "sdist": [
+        "B962jakyXZ6SXS/QuuUbhdvO6yLGmguvxWnSKk7SWEI=",
+        "pyhttprequests-0.0.8.tar.gz"
+      ],
+      "wheels": {
+        "pyhttprequests-0.0.8-py3-none-any.whl": [
+          "faLvRt973Lihd/lFqWkm6kjZ+1+KxsKSSK0V7CCHUHo=",
+          "py3"
+        ]
+      }
+    }
+  },
   "pyialarmxr": {
     "1.0.1": {
       "sdist": [
@@ -119590,6 +119696,18 @@
       "wheels": {
         "quorum_data_py-1.0.0-py3-none-any.whl": [
           "dyyTIQNOqX1grXAF/H+BJRFYKYyU8KZV0tMsGUI42mw=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.1": {
+      "sdist": [
+        "U2+ueSPSVgro+DmNTM/QPnNkpSzzrijxlvaySmVGVZw=",
+        "quorum_data_py-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "quorum_data_py-1.0.1-py3-none-any.whl": [
+          "rLDTG95oXhnV5Jcpamyr4m5GrUs8LCTWKufGsARWl3I=",
           "py3"
         ]
       }

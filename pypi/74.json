@@ -13114,6 +13114,18 @@
         ]
       }
     },
+    "0.1.1b20230306": {
+      "sdist": [
+        "9KnU7LbF6as9xiNSnRiq0fr15+gDIqj0iw+lCsQHkc4=",
+        "autogluon.cloud-0.1.1b20230306.tar.gz"
+      ],
+      "wheels": {
+        "autogluon.cloud-0.1.1b20230306-py3-none-any.whl": [
+          "KNb1UsviTcvhX/K57Y7DMg5Pj2SctfABtKdX+bEu4Zo=",
+          "py3"
+        ]
+      }
+    },
     "0.1b20221229": {
       "sdist": [
         "ETK2odII4rOCP1WhQsFyJ+5WWkhOgItWPTKq6uCY2WM=",
@@ -20207,6 +20219,32 @@
       }
     }
   },
+  "brainstrokeclassifier": {
+    "0.0.1": {
+      "wheels": {
+        "BrainStrokeClassifier-0.0.1-py3-none-any.whl": [
+          "ePtp+U3zsQ+qiCIW9U8s8uWLm5TdKblQEwT0ZqRqrM8=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "wheels": {
+        "BrainStrokeClassifier-0.0.2-py3-none-any.whl": [
+          "+q/PtWn6PEHy3MSRedhfghakZMtC8soeokRb2+zLcOs=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "wheels": {
+        "BrainStrokeClassifier-0.0.3-py3-none-any.whl": [
+          "qKPj/AeGS2vTKEh6/YYUwoIw+vGJ7O1S9Ka3L7L1I2E=",
+          "py3"
+        ]
+      }
+    }
+  },
   "brawl-stars-unlimited-gems-ios-v-9734": {
     "8.706": {
       "sdist": [
@@ -21856,6 +21894,94 @@
         ],
         "caio-0.9.11-py3-none-any.whl": [
           "KH96WY2El1iPDwV465A0Owyf84A7V8JOWPVHkzMxMr8=",
+          "py3"
+        ]
+      }
+    },
+    "0.9.12": {
+      "sdist": [
+        "0r5VNzjdeT+KAaYDFvLFKE+/FSIZJBwMZ8oF9lCjejc=",
+        "caio-0.9.12.tar.gz"
+      ],
+      "wheels": {
+        "caio-0.9.12-cp310-cp310-macosx_10_9_universal2.whl": [
+          "3zlefhwgJbPzLb7/IKi2SRlZ+sj71anC1FK/H1wMor8=",
+          "cp310"
+        ],
+        "caio-0.9.12-cp310-cp310-macosx_11_0_x86_64.whl": [
+          "rNMbeCjGaDvEbkZ6MjWfCMaG1MJafmRcApoHw2aF/qc=",
+          "cp310"
+        ],
+        "caio-0.9.12-cp310-cp310-manylinux_2_12_x86_64.manylinux2010_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "wLf/tWHKXCTn8ICqpz67FDrmWb1pZFp0izMnYsOJNJ8=",
+          "cp310"
+        ],
+        "caio-0.9.12-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "YoXXcq46VedYsb07w08JV1fkr0XcwwoYO+z5u96tjO0=",
+          "cp310"
+        ],
+        "caio-0.9.12-cp311-cp311-macosx_10_9_universal2.whl": [
+          "GN8Mrs+qkKuayE/3GXX88jQlVLb2XvaQSTNyBLi1r0I=",
+          "cp311"
+        ],
+        "caio-0.9.12-cp311-cp311-manylinux_2_12_x86_64.manylinux2010_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "flabg+m0HRLglBkNDhpUZhCCmmVgn0KaGEXjJQ1MWAQ=",
+          "cp311"
+        ],
+        "caio-0.9.12-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "eDP4H1jnajWF/1mBPmP6J4cxyNJv7+Uq4S54PTjI+uo=",
+          "cp311"
+        ],
+        "caio-0.9.12-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "qh2rd6ygsmcrmjZPFKA+dkxdgRwK4TlfZhorj2cj+Vg=",
+          "cp37"
+        ],
+        "caio-0.9.12-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "82bFle2hMKGE83LUWNZHsKyHmkbocnV2SNTim2zqEq0=",
+          "cp37"
+        ],
+        "caio-0.9.12-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "J1n+GVfQ7/s7w4s1CLIPo3YQv/kAXzkm9XDmwG6QFWc=",
+          "cp37"
+        ],
+        "caio-0.9.12-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "nmUGBxfifHAs12qQvjMlDK5GvjKjAJeBzjgshnX6dVE=",
+          "cp37"
+        ],
+        "caio-0.9.12-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "qCBMan6jyWBXq7o9oWkBkLPK4MPwPYHptePJmXi1u24=",
+          "cp38"
+        ],
+        "caio-0.9.12-cp38-cp38-macosx_11_0_universal2.whl": [
+          "gguz7yPODUCW+CKo/ql/8sI53QNR+liIAdLeYn35q5g=",
+          "cp38"
+        ],
+        "caio-0.9.12-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "qponlzoDx3eTTezVd75XemGhiL7nInKz3Deny8Xu35E=",
+          "cp38"
+        ],
+        "caio-0.9.12-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "PWtCRkSsN86E+d2ZdX0p58/wEBjTsx+OwKOPLVIWFlw=",
+          "cp38"
+        ],
+        "caio-0.9.12-cp39-cp39-macosx_10_9_universal2.whl": [
+          "FRkqKOBUzVkUia+C9LEJPxUzjrIBojmaM3Rh/wu9n8k=",
+          "cp39"
+        ],
+        "caio-0.9.12-cp39-cp39-macosx_11_0_x86_64.whl": [
+          "VTF9LJBHmlgQjPvWgWuF5YTmHEi0ImnFX2nPREOFcGg=",
+          "cp39"
+        ],
+        "caio-0.9.12-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "sYMY0EytfvmF/C+4bUP4Zro0we40RThfI3DW+EPAXGk=",
+          "cp39"
+        ],
+        "caio-0.9.12-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "c8INj8ffsUC31X5p5vF+FjfSrEqevg9fjJS1b4fFwIc=",
+          "cp39"
+        ],
+        "caio-0.9.12-py3-none-any.whl": [
+          "uBsycUeOkfGOesHz5PkUugkkNkhXuo4n8DudCuqRXKg=",
           "py3"
         ]
       }
@@ -40909,6 +41035,18 @@
           "py2.py3"
         ]
       }
+    },
+    "4.0.0": {
+      "sdist": [
+        "aYp6spxKe6QU3/q99yQfPFrZdQrFi4ICLoIn5IqvzAc=",
+        "eduvpn_client-4.0.0.tar.gz"
+      ],
+      "wheels": {
+        "eduvpn_client-4.0.0-py2.py3-none-any.whl": [
+          "BVcSbuxDvr75gXlHimhvpplP0Jpox/FgFhZp6A/KWGo=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "ehispassword": {
@@ -46668,6 +46806,14 @@
       "wheels": {
         "finetuner_stubs-0.12.7rc4-py3-none-any.whl": [
           "zAjrLW4/bBeYRwSiexjZc6/X9MikeWM5lREn79QrN0I=",
+          "py3"
+        ]
+      }
+    },
+    "0.12.8rc1": {
+      "wheels": {
+        "finetuner_stubs-0.12.8rc1-py3-none-any.whl": [
+          "dNHHOmjpmQEZj2MVWVX6cCjZja+l35sUKgxuw6ubw3M=",
           "py3"
         ]
       }
@@ -105774,6 +105920,42 @@
         ]
       }
     },
+    "0.1.0a12": {
+      "sdist": [
+        "9WOauD37/DK+g7U3m5yP5nnsxWAi7QBp5CF+l1uABwk=",
+        "polywrap_plugin-0.1.0a12.tar.gz"
+      ],
+      "wheels": {
+        "polywrap_plugin-0.1.0a12-py3-none-any.whl": [
+          "trk0L2+CIrhe0TYbVkJa2IYCnktR2GRKTrqj2wAG2DE=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.0a13": {
+      "sdist": [
+        "0N0F1ZUG0UNLMKrgt9HgFumxYZ6knlf5KXHB9XjupnY=",
+        "polywrap_plugin-0.1.0a13.tar.gz"
+      ],
+      "wheels": {
+        "polywrap_plugin-0.1.0a13-py3-none-any.whl": [
+          "LaYWn4ZkgYIoE03fALyBu0jcDmqF3EtuExK+qc9pZiE=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.0a14": {
+      "sdist": [
+        "dNYGKWaP3JwUSdBNh/AW17AJaNqmI+ap3IlA4X0xKT4=",
+        "polywrap_plugin-0.1.0a14.tar.gz"
+      ],
+      "wheels": {
+        "polywrap_plugin-0.1.0a14-py3-none-any.whl": [
+          "eOmTWgaAfT9RFituoMlkjaQZJ3+GY0PLzArsA7Uy3R0=",
+          "py3"
+        ]
+      }
+    },
     "0.1.0a2": {
       "sdist": [
         "5qEqlSUffS7xjeDRVHWD2NflHJNskWs9W1nuCI3C++c=",
@@ -121302,10 +121484,10 @@
         "pyvisafungen-1.0.1.tar.gz"
       ]
     },
-    "1.6": {
+    "1.7": {
       "sdist": [
-        "ahwI5HJ7PuY1ToAd0K4LbvQ2FxJMNvOM/fEyjNJzw2s=",
-        "pyvisafungen-1.6.tar.gz"
+        "STQ2wcbpcTAo9zEYsrzOgcGgNRDcrZ4KZ2r/Oq57FeI=",
+        "pyvisafungen-1.7.tar.gz"
       ]
     }
   },
@@ -148834,6 +149016,18 @@
         ]
       }
     },
+    "1.21.2": {
+      "sdist": [
+        "ZJxOubv/Kslj1rLxZjsOzfxQxh+FxZLQONQYmYaXAWI=",
+        "ubcpdk-1.21.2.tar.gz"
+      ],
+      "wheels": {
+        "ubcpdk-1.21.2-py3-none-any.whl": [
+          "gTG5I6HMXwxq4AnMEMkNcVa4bzL7wTgf3tpbL0gDja4=",
+          "py3"
+        ]
+      }
+    },
     "1.3.0": {
       "sdist": [
         "xznni0NwQRAGWj3N8JrlVgPsVTEp+gfLIfaPZZNLFGM=",
@@ -154095,6 +154289,20 @@
         "OtBesrO6YtKlRiPuYCJR/Cwm+ZtoK0gELlrPSRF83sA=",
         "xgbauto-1.0.2.tar.gz"
       ]
+    }
+  },
+  "xgh-survey-technical-requirements": {
+    "0.0.0": {
+      "sdist": [
+        "7oG10PkXm6nWG7W7za0EXIR8QTxJ2tzm/vR8RP/cyDc=",
+        "xgh_survey_technical_requirements-0.0.0.tar.gz"
+      ],
+      "wheels": {
+        "xgh_survey_technical_requirements-0.0.0-py3-none-any.whl": [
+          "Dad3lq0axWWLyCUN9f6azYBijOjzP2LuQOM2oxfWdiY=",
+          "py3"
+        ]
+      }
     }
   },
   "xia-cloudmailin": {

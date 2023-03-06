@@ -404,6 +404,30 @@
         ]
       }
     },
+    "0.0.12": {
+      "sdist": [
+        "beeAzd/BELHicqThOwQ7pVJbxOtnA29lCmJsZG5D0Jc=",
+        "adadmire-0.0.12.tar.gz"
+      ],
+      "wheels": {
+        "adadmire-0.0.12-py3-none-any.whl": [
+          "kKAYYbROrwPcoNHPNVl2SUMSwfO+QBLg0tfxB/RVB/c=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.13": {
+      "sdist": [
+        "z2vzuhd0tmgf9357z576Exhagr2Lw7wd4XO6HXeLvJM=",
+        "adadmire-0.0.13.tar.gz"
+      ],
+      "wheels": {
+        "adadmire-0.0.13-py3-none-any.whl": [
+          "DQ3sYKt0n2aSvvyn9BKJS+CzJynRaNHoBQxD4OydV84=",
+          "py3"
+        ]
+      }
+    },
     "0.0.8": {
       "sdist": [
         "sph1lYZfHSxA5Z3F0pQXS9Tf1iUQJAstZJLumIQ5aeg=",
@@ -15992,6 +16016,30 @@
         ]
       }
     },
+    "0.1.20": {
+      "sdist": [
+        "lAB2NxTHk1UIEsYhDLc2bynOqpKACTY20cxwCdkTJIY=",
+        "checkatlas-0.1.20.tar.gz"
+      ],
+      "wheels": {
+        "checkatlas-0.1.20-py3-none-any.whl": [
+          "3VnpdW3Sm5hltjvrRaJSAGR7PS8vY/bF8BaqM0usmxY=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.21": {
+      "sdist": [
+        "lF7xfemDA8yUx8ilZx0wZsRRM8DAkulTc9wTRBweNYU=",
+        "checkatlas-0.1.21.tar.gz"
+      ],
+      "wheels": {
+        "checkatlas-0.1.21-py3-none-any.whl": [
+          "IXwEoQ3fVTRb3lFH7vx7khR4OFob+GPfWRD8x+zNNqo=",
+          "py3"
+        ]
+      }
+    },
     "0.1.3": {
       "sdist": [
         "XOtJ2R5pgl0qpsy4nea8PJ32ipURlynNZJ2zRKi0B7g=",
@@ -25634,6 +25682,74 @@
         ],
         "didppy-0.2.0-cp37-abi3-win_amd64.whl": [
           "CqlcGk52VaZ2FBVHOdGEqseaviuIDtRuZhNYcqKVJBU=",
+          "cp37"
+        ]
+      }
+    },
+    "0.3.0": {
+      "sdist": [
+        "cHz3ZfdgQYtFbebWLveDSbEp+v+5vH2+nD1dwASjAaE=",
+        "didppy-0.3.0.tar.gz"
+      ],
+      "wheels": {
+        "didppy-0.3.0-cp37-abi3-macosx_10_7_x86_64.whl": [
+          "PB6mpaqZt/uQRdgIGnu1iTL3JIOQOzRzrhMmCBekWOI=",
+          "cp37"
+        ],
+        "didppy-0.3.0-cp37-abi3-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "IyjNVl4ugX6cvTDbJ4ilJbVYXdPBQCTam6MDnZv5IWE=",
+          "cp37"
+        ],
+        "didppy-0.3.0-cp37-abi3-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "xpaqYirpVbUGv9WXdINACrt08i9nYHMtZX56um8HJkI=",
+          "cp37"
+        ],
+        "didppy-0.3.0-cp37-abi3-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "Mjg495QTArQbcYJszyPg26U1IeadVl9fyYbFFYad6Ik=",
+          "cp37"
+        ],
+        "didppy-0.3.0-cp37-abi3-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "TGrQ15b9Rml5888Do9eWeaGIiE5ps2DCTbgDWTnYK6M=",
+          "cp37"
+        ],
+        "didppy-0.3.0-cp37-abi3-manylinux_2_17_ppc64.manylinux2014_ppc64.whl": [
+          "JjUHyDGTghQHQge7Ovic4hvB0arYPQKGK3/RQo4te1s=",
+          "cp37"
+        ],
+        "didppy-0.3.0-cp37-abi3-manylinux_2_17_s390x.manylinux2014_s390x.whl": [
+          "m+8N/6NmX/GwNjKwxLYZxBnH4PhCd9ce6zaAHTbfLoU=",
+          "cp37"
+        ],
+        "didppy-0.3.0-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ywLZLp7M8i9Q2lEdDOrhvTHenhWFbjY5Sj0NlwuH9Ds=",
+          "cp37"
+        ],
+        "didppy-0.3.0-cp37-abi3-manylinux_2_5_i686.manylinux1_i686.whl": [
+          "aJ376sB+OJuuVcSKkueo2lgTXnvotfBl3slfxy7MPZk=",
+          "cp37"
+        ],
+        "didppy-0.3.0-cp37-abi3-musllinux_1_2_aarch64.whl": [
+          "men9pBxRjhqRDmqo/PUfsPWQgQssBUclF8zJywi1Re8=",
+          "cp37"
+        ],
+        "didppy-0.3.0-cp37-abi3-musllinux_1_2_armv7l.whl": [
+          "zrGDN7kLq+b8zumk2mM+XhgP7wX2MWHl5A29F4YI7Uk=",
+          "cp37"
+        ],
+        "didppy-0.3.0-cp37-abi3-musllinux_1_2_i686.whl": [
+          "5bPkOz9oKvCUPVPSmCPSRo/DPmR11lPS/jpUmUktnEw=",
+          "cp37"
+        ],
+        "didppy-0.3.0-cp37-abi3-musllinux_1_2_x86_64.whl": [
+          "UI6ckXw13W51RZl7MK4Q1yyrb23t/JJAU+U9iJVnydM=",
+          "cp37"
+        ],
+        "didppy-0.3.0-cp37-abi3-win32.whl": [
+          "GBXII+w4f5kWYQBxN9WZbqbSBf1qF8rWkCZXsahp1BE=",
+          "cp37"
+        ],
+        "didppy-0.3.0-cp37-abi3-win_amd64.whl": [
+          "NGmiinyTMEs1HiDClfTJe51DVSQhwphhrTLJ9HfTdRM=",
           "cp37"
         ]
       }
@@ -75467,6 +75583,12 @@
         "aP0OQqEC6i3wTRFz6aPyexXvxC6nTDAG+dUsBrc6WRo=",
         "lexicalrichness-0.4.1.tar.gz"
       ]
+    },
+    "0.5.0": {
+      "sdist": [
+        "Eoc08DR8XApaIfe45QW6edXVSkWnzyGwY5AsWwA0yC0=",
+        "lexicalrichness-0.5.0.tar.gz"
+      ]
     }
   },
   "li-autenticador": {
@@ -83730,6 +83852,18 @@
       "wheels": {
         "neo_vendors-0.9.10-py3-none-any.whl": [
           "2YgBA1O3vHyXCgORZe0nnXNsX+R8aiAJ7FUQbnfpwi4=",
+          "py3"
+        ]
+      }
+    },
+    "0.9.11": {
+      "sdist": [
+        "eRyj3lXnNbaYfMJe74RwHKTafOhPEycNj2pcLjFmlUI=",
+        "neo_vendors-0.9.11.tar.gz"
+      ],
+      "wheels": {
+        "neo_vendors-0.9.11-py3-none-any.whl": [
+          "ymJ5jssLC1o9SaiGm4MMmzpTOOWCy4BBdLaxV6CzBKo=",
           "py3"
         ]
       }
@@ -125276,6 +125410,18 @@
       "wheels": {
         "qcrepocleaner-1.0-py3-none-any.whl": [
           "X2wSbTbZOs+aaZLIepOjsYiZ7ZxBpuk5NjwOooLlA+I=",
+          "py3"
+        ]
+      }
+    },
+    "1.1": {
+      "sdist": [
+        "VtlMom3G6mb4Sl+0OL+VU89HEiIDXYUyGdDF9XiMBec=",
+        "qcrepocleaner-1.1.tar.gz"
+      ],
+      "wheels": {
+        "qcrepocleaner-1.1-py3-none-any.whl": [
+          "0+Mo5Fmc4W+zUFp76LNyhzbghAjUU+BhWqmhTsnjKzs=",
           "py3"
         ]
       }

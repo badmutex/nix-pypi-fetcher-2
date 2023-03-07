@@ -21930,6 +21930,12 @@
         "clip-server-0.8.2.dev16.tar.gz"
       ]
     },
+    "0.8.2.dev17": {
+      "sdist": [
+        "OnApP+NKHn0xLRzE7ZRtNE0RFfzoFLh9numwxm/69Qc=",
+        "clip-server-0.8.2.dev17.tar.gz"
+      ]
+    },
     "0.8.2.dev4": {
       "sdist": [
         "zkia8SPv7XDcazSY48h3OuZtK9RLm8pGWighjzINRw0=",
@@ -45696,6 +45702,18 @@
         ]
       }
     },
+    "3.4.0": {
+      "sdist": [
+        "0JYeLgfZtT6XmCPZO9oNOdPYknj4DGV9gaXLaFedx7M=",
+        "garpix_user-3.4.0.tar.gz"
+      ],
+      "wheels": {
+        "garpix_user-3.4.0-py3-none-any.whl": [
+          "eaeCNZrLQFFj2OPcSvTCOTcjnxP2uoTYFozWVrTj83I=",
+          "py3"
+        ]
+      }
+    },
     "3.4.0rc1": {
       "sdist": [
         "qDTIcyoSdL8TAnfG2A+QhEQ2mclAtcK03gSY6gpa64Y=",
@@ -45716,6 +45734,30 @@
       "wheels": {
         "garpix_user-3.4.0rc2-py3-none-any.whl": [
           "SSJFWznwCJaXgwV0CrK3X9iI8KGcK9tb97ZojGNcnQ0=",
+          "py3"
+        ]
+      }
+    },
+    "3.4.0rc3": {
+      "sdist": [
+        "H2UyCaHLKOJJiHKRXUM43IV5IQLKan/Ur8L16tr070Q=",
+        "garpix_user-3.4.0rc3.tar.gz"
+      ],
+      "wheels": {
+        "garpix_user-3.4.0rc3-py3-none-any.whl": [
+          "lYq15HnmlZV9xXVpt+zgy+5ZHNpE3KuEtxgD5iZ0CLA=",
+          "py3"
+        ]
+      }
+    },
+    "3.4.0rc4": {
+      "sdist": [
+        "QT+9hP69b1nIEohiFTQ+he+3+VZQ0zyhG7IJx7VWUrA=",
+        "garpix_user-3.4.0rc4.tar.gz"
+      ],
+      "wheels": {
+        "garpix_user-3.4.0rc4-py3-none-any.whl": [
+          "SPPjQBzg7hERqxEZPC0xpcAvy8muLC7cQa0nMrFr9cA=",
           "py3"
         ]
       }
@@ -74051,6 +74093,78 @@
         "SL5On16gqU4trTgTm4gEHUMyWhb3CgRAryTM5yap7co=",
         "mwdust-1.2.tar.gz"
       ]
+    },
+    "1.3": {
+      "sdist": [
+        "geQtyynytQL5DdwCe/Y9lpoGUdz8YtlVW5rmn+dYB5U=",
+        "mwdust-1.3.tar.gz"
+      ],
+      "wheels": {
+        "mwdust-1.3-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "ymArLJmXP6Dnl+Y7J7XfW+sp27+XjeRcZ3jOTuFxt44=",
+          "cp310"
+        ],
+        "mwdust-1.3-cp310-cp310-macosx_11_0_arm64.whl": [
+          "6u/UDpcwJp+zW/3tBLvqcf5rT29TAJjAMZikycq7Fno=",
+          "cp310"
+        ],
+        "mwdust-1.3-cp310-cp310-manylinux_2_12_x86_64.manylinux2010_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "odELZc/oNCu0PSyep3RGJPA8eBnScqJD4QtCPDkjB54=",
+          "cp310"
+        ],
+        "mwdust-1.3-cp310-cp310-win_amd64.whl": [
+          "krDLdjtOB4wfxGTX9Vlsx0cd3IyFo9KlHv3jXIxz/0c=",
+          "cp310"
+        ],
+        "mwdust-1.3-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "L+xdfLNAU2qib+oLvzR7wkrDy7q69OF6fF1cGLD8qr8=",
+          "cp311"
+        ],
+        "mwdust-1.3-cp311-cp311-macosx_11_0_arm64.whl": [
+          "G3y5roE9ntq8H64cp/5d0wV4FsE9S6ke6ljkfQeZItw=",
+          "cp311"
+        ],
+        "mwdust-1.3-cp311-cp311-manylinux_2_12_x86_64.manylinux2010_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "eokAsAxtK4owXOGePST99dDd2AEh1rDhANozIt6Byds=",
+          "cp311"
+        ],
+        "mwdust-1.3-cp311-cp311-win_amd64.whl": [
+          "IcNEWE2c5M/0+ZHO9plhixbuC9e9jVqKMXw0SK7Rzp4=",
+          "cp311"
+        ],
+        "mwdust-1.3-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "oFphGhpeoEboHCtIjMFD4UxMi5RwetCBXNFoAuQ6oOM=",
+          "cp38"
+        ],
+        "mwdust-1.3-cp38-cp38-macosx_11_0_arm64.whl": [
+          "IybTlKaJx5HWvBwLDBdF4zVMwzWiv9fwTEVQfPecMTc=",
+          "cp38"
+        ],
+        "mwdust-1.3-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "XNPolHwt9vRnVtN9WNc4cfTaaiHJ/AmFADRnShXkH4E=",
+          "cp38"
+        ],
+        "mwdust-1.3-cp38-cp38-win_amd64.whl": [
+          "d7mo7bKU5BB8H8aAv9OlFm9BWMjiwSvLX6vGziUN8bA=",
+          "cp38"
+        ],
+        "mwdust-1.3-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "j8dxEKz7VSZYeZmJOsPKiJ5vaYs3PtOMShWlCD6ArYo=",
+          "cp39"
+        ],
+        "mwdust-1.3-cp39-cp39-macosx_11_0_arm64.whl": [
+          "KlY/34aucgtJcXGWMIFv582GaApI9k5Bp5HT2pmrB8o=",
+          "cp39"
+        ],
+        "mwdust-1.3-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "weMHhp0tx1UrXW1oc4a5Ab0nIdm41DfQvZs75g0/gnc=",
+          "cp39"
+        ],
+        "mwdust-1.3-cp39-cp39-win_amd64.whl": [
+          "oytzI+/4aMQkqWOdXRf71pxxdqyd4rUmQ8tVFMeBbsY=",
+          "cp39"
+        ]
+      }
     }
   },
   "my-awesome-helloworld-script-shockn745": {
@@ -133905,6 +134019,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.4": {
+      "sdist": [
+        "48OC/KP6GJiueLAluKpt/qgadd9x05TZrhZVuvU14yE=",
+        "tchan-0.1.4.tar.gz"
+      ],
+      "wheels": {
+        "tchan-0.1.4-py3-none-any.whl": [
+          "INJnBW57ggyKewcOol3V3uMlXZUSwOZG5p9tk9j558g=",
+          "py3"
+        ]
+      }
     }
   },
   "tdbuild": {
@@ -137378,6 +137504,18 @@
       "wheels": {
         "tensorcircuit_nightly-0.7.0.dev20230306-py3-none-any.whl": [
           "QF0LxW/PovpQdOD9RTBqdpLAp8clX8joHhbWdR9Sryg=",
+          "py3"
+        ]
+      }
+    },
+    "0.7.0.dev20230307": {
+      "sdist": [
+        "CNC1Tn1Fn6GY5gr9H887Yd7gYIs3K/pyODC70eydb8A=",
+        "tensorcircuit-nightly-0.7.0.dev20230307.tar.gz"
+      ],
+      "wheels": {
+        "tensorcircuit_nightly-0.7.0.dev20230307-py3-none-any.whl": [
+          "Gx1MS3fGc6tSqwghFfImrgbi3snzmbyDElK/BaVq9UQ=",
           "py3"
         ]
       }

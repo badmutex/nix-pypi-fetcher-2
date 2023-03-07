@@ -52986,6 +52986,18 @@
         ]
       }
     },
+    "0.4.22": {
+      "sdist": [
+        "YgBYWMi3zGqzbEiEQzCjF2c0/5RhNxb1cWrfqaDcq68=",
+        "gpt_index-0.4.22.tar.gz"
+      ],
+      "wheels": {
+        "gpt_index-0.4.22-py3-none-any.whl": [
+          "U7Hk2UtfoOgV/25Ke8irOZo+UsI/D6C+phg3T7IUDjE=",
+          "py3"
+        ]
+      }
+    },
     "0.4.4": {
       "sdist": [
         "iNDkFsjwUNnjEQMmSaXSDffdqXPj6U8hJkZLU8yOr6k=",
@@ -69502,6 +69514,12 @@
       "sdist": [
         "mx8qxbIrf5l4gM9CHRVMgef65QwuLDNcIFQbkY31r6w=",
         "libcnmc-23.18.0.tar.gz"
+      ]
+    },
+    "23.19.0": {
+      "sdist": [
+        "Bz7BSEoE5HGnS+0tqwjdyilxB7m2VttVGavK1T/ruro=",
+        "libcnmc-23.19.0.tar.gz"
       ]
     },
     "23.2.0": {
@@ -88719,6 +88737,14 @@
           "py2.py3"
         ]
       }
+    },
+    "11.0.4.4.0.99.dev1": {
+      "wheels": {
+        "odoo11_addon_l10n_es_aeat_mod303-11.0.4.4.0.99.dev1-py2.py3-none-any.whl": [
+          "I/cwt1zuNXIk9RrilzTsVRhpoRZFWPSF4yT0tKGTB8A=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "odoo11-addon-mail-drop-target": {
@@ -89915,6 +89941,14 @@
           "py3"
         ]
       }
+    },
+    "14.0.1.0.1.dev3": {
+      "wheels": {
+        "odoo14_addon_l10n_it_bill_of_entry-14.0.1.0.1.dev3-py3-none-any.whl": [
+          "aazYQGg04RNwPK5P9pjDNWXCbSH5JWuKcugCAS3QOmo=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo14-addon-l10n-it-fatturapa-out-wt": {
@@ -90100,6 +90134,16 @@
       "wheels": {
         "odoo14_addon_web_search_with_and-14.0.1.0.1.dev3-py3-none-any.whl": [
           "qegIADiMNeqSdu0q4kfQCbJpw+gYW6CV2SXSZOnPLlk=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "odoo14-addon-website-require-login": {
+    "14.0.1.0.1.dev2": {
+      "wheels": {
+        "odoo14_addon_website_require_login-14.0.1.0.1.dev2-py3-none-any.whl": [
+          "Pd62OPPIE18cozjNxdl00jMtO50TxIdz71Zfbr+MCr0=",
           "py3"
         ]
       }
@@ -101256,6 +101300,18 @@
       "wheels": {
         "pybpa-0.3.3-py3-none-any.whl": [
           "pWHhO/5dcorfKwbslThuHtLXsy9ziPnTIbiHetX+o/I=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.4": {
+      "sdist": [
+        "mbVrfoxY9gPfCbkhS37RgmvWomtmEI+uCriBsKOVTKo=",
+        "pybpa-0.3.4.tar.gz"
+      ],
+      "wheels": {
+        "pybpa-0.3.4-py3-none-any.whl": [
+          "2wobHzmFX0WDDunyvAdbxH4htiHjIkSKCD1uGGT0J10=",
           "py3"
         ]
       }
@@ -113620,6 +113676,26 @@
         ]
       }
     },
+    "0.3.0": {
+      "wheels": {
+        "rerun_sdk-0.3.0-cp38-abi3-macosx_10_7_x86_64.whl": [
+          "9edT17j4rp3TLACZ6BLdKgpef9MJilP7jnA6WYf5iYE=",
+          "cp38"
+        ],
+        "rerun_sdk-0.3.0-cp38-abi3-macosx_11_0_arm64.whl": [
+          "xrqLo8IdWuNT2M8R+V6jWzo3SN3Z0w4gmFvqRLUk8xE=",
+          "cp38"
+        ],
+        "rerun_sdk-0.3.0-cp38-abi3-manylinux_2_31_x86_64.whl": [
+          "m8vMGtBmcbVma8aTYthmpegy5l+WJPh6K7YF4gMbWAk=",
+          "cp38"
+        ],
+        "rerun_sdk-0.3.0-cp38-abi3-win_amd64.whl": [
+          "ONSXhAsaobOn2YwzsS2rbQg3wYW+F1KwnSo5N+zSvII=",
+          "cp38"
+        ]
+      }
+    },
     "0.3.0a0": {
       "wheels": {
         "rerun_sdk-0.3.0a0-cp38-abi3-macosx_10_7_x86_64.whl": [
@@ -116224,6 +116300,14 @@
       "wheels": {
         "sbom_manager-0.2.0-py2.py3-none-any.whl": [
           "7MwPqbXF5K+w3F1BCUHwWRUmDvdRuwh75MNeTQMCOkg=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.3.0": {
+      "wheels": {
+        "sbom_manager-0.3.0-py2.py3-none-any.whl": [
+          "bz9l6Mdz8OCb/kJowZMQDuCaZu6CSxA6BZ/H4Pq5PFs=",
           "py2.py3"
         ]
       }

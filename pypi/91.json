@@ -17746,17 +17746,17 @@
     }
   },
   "cmdr": {
-    "0.0.1": {
+    "0.1.0rc1": {
       "sdist": [
-        "wJMd3vxP8FYgHAX+2eDkLw5axrS4sdR/iaS6CWHMuT0=",
-        "cmdr-0.0.1.tar.gz"
-      ]
-    },
-    "0.0.2": {
-      "sdist": [
-        "IPwbufgAWvlJU4vR1JWnP93JaT8Dt4AfZvlj2em89aU=",
-        "cmdr-0.0.2.tar.gz"
-      ]
+        "cbSd7D76rCg4K895bBz0i25NilTyHoZkzUzVMtx0uEk=",
+        "cmdr-0.1.0rc1.tar.gz"
+      ],
+      "wheels": {
+        "cmdr-0.1.0rc1-py3-none-any.whl": [
+          "koaQNx+F+Q8RSM6mSv5LuAsf3f07vLVe8zeu1E23ic0=",
+          "py3"
+        ]
+      }
     }
   },
   "cmsplugin-youtube": {
@@ -43128,6 +43128,18 @@
         ]
       }
     },
+    "1.4.0": {
+      "sdist": [
+        "gkv4IXTMXaCrGswsyRWjN03O3FBC0LF2vktpK19eLAA=",
+        "flytekitplugins-awsbatch-1.4.0.tar.gz"
+      ],
+      "wheels": {
+        "flytekitplugins_awsbatch-1.4.0-py3-none-any.whl": [
+          "c54BbYkI483t+r9UUxzd/+Pk9wKw4xbx+pxLn9YyWHc=",
+          "py3"
+        ]
+      }
+    },
     "1.4.0b0": {
       "sdist": [
         "a8RkH5A6VgqKmgQFn4LS3wOehwiCCzFSzlybXEQISqw=",
@@ -45342,6 +45354,18 @@
       "wheels": {
         "flytekitplugins_hive-1.3.2-py3-none-any.whl": [
           "zcCaWay1JmLSdpwvfE5MTG/tXJok+dchXhMje7ptxVY=",
+          "py3"
+        ]
+      }
+    },
+    "1.4.0": {
+      "sdist": [
+        "/hvCECPNx+p7XvF2WR4+kItEslR4k4lQ7/JEHfAUsjM=",
+        "flytekitplugins-hive-1.4.0.tar.gz"
+      ],
+      "wheels": {
+        "flytekitplugins_hive-1.4.0-py3-none-any.whl": [
+          "bHEbVnePum3M+gzmQGli3P1qTzPnY5yjpVUDPcAcQiE=",
           "py3"
         ]
       }
@@ -60870,6 +60894,12 @@
       "sdist": [
         "MtQeJ1C7ONK1uhSv6oXKaqoKSKYh/X8j3cRsW1sPKEQ=",
         "jetson-stats-4.2.0rc0.tar.gz"
+      ]
+    },
+    "4.2.0rc1": {
+      "sdist": [
+        "feYe8N6d6MA4OxSGvfAGVDHY0/XsiNK0feZyd7XA1r8=",
+        "jetson-stats-4.2.0rc1.tar.gz"
       ]
     }
   },
@@ -96402,6 +96432,14 @@
     }
   },
   "odoo14-addon-maintenance-purchase": {
+    "14.0.1.0.1": {
+      "wheels": {
+        "odoo14_addon_maintenance_purchase-14.0.1.0.1-py3-none-any.whl": [
+          "Oag48iiwNSDo0ViqLfrvWPwZlv2tqa4f8v/qSxg04xA=",
+          "py3"
+        ]
+      }
+    },
     "14.0.1.0.1.dev2": {
       "wheels": {
         "odoo14_addon_maintenance_purchase-14.0.1.0.1.dev2-py3-none-any.whl": [
@@ -136177,6 +136215,18 @@
           "py3"
         ]
       }
+    },
+    "0.3.6": {
+      "sdist": [
+        "xoarTXIRqLXz7etuR7S+/21MmPJB29g1y/9gSeUym00=",
+        "taskgen-0.3.6.tar.gz"
+      ],
+      "wheels": {
+        "taskgen-0.3.6-py3-none-any.whl": [
+          "HeFaD1cPtX7GVt4FsgI4SUS5cDnl1m64x199rbqpJV4=",
+          "py3"
+        ]
+      }
     }
   },
   "taskpool": {
@@ -143560,6 +143610,18 @@
       "wheels": {
         "tencentcloud_sdk_python_mps-3.0.843-py2.py3-none-any.whl": [
           "P70d1B6Qpq5QB7v9CGsHFD93+tsGqShH4qPgIMga8wA=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.844": {
+      "sdist": [
+        "jepva7S8pr7hJIU0+x3vbygjeoSMY5fHbqg43D4q2K8=",
+        "tencentcloud-sdk-python-mps-3.0.844.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_mps-3.0.844-py2.py3-none-any.whl": [
+          "tYkVf9J+eknco8P2RwK+lsldoRZ7HPXnjX4C1W8slMM=",
           "py2.py3"
         ]
       }
@@ -152424,6 +152486,18 @@
       "wheels": {
         "wagtailsvg-0.0.36-py3-none-any.whl": [
           "TZ29w9rDJCd4ChXIcJ9tqiJpDBU0EHXKdbi1OEXqsQA=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.37": {
+      "sdist": [
+        "3E1ph0i94yA0serCJ1zxWVl8qOOZ04MOljkfdhqgys8=",
+        "wagtailsvg-0.0.37.tar.gz"
+      ],
+      "wheels": {
+        "wagtailsvg-0.0.37-py3-none-any.whl": [
+          "SzBDOAlhT7rAn5CItK7UKhv+Vvn7WBuFhgYYfLF3yms=",
           "py3"
         ]
       }

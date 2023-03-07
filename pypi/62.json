@@ -18263,6 +18263,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.85": {
+      "sdist": [
+        "4xndYU0x6sFn8g/THLoEl3pyOdz0M4kOVaL/m64qJAM=",
+        "botocore-a-la-carte-customer-profiles-1.29.85.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_customer_profiles-1.29.85-py3-none-any.whl": [
+          "1a+YVBqtgVjaLJ1JnpHgJ5Q1/7kJeEHVvLLOr2cXHoU=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-route53": {
@@ -18781,6 +18793,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.85": {
+      "sdist": [
+        "qAglif9l+wtEcPNBg9hzDGbN4cHjH//jRztHB4yzuS8=",
+        "botocore-a-la-carte-route53-1.29.85.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_route53-1.29.85-py3-none-any.whl": [
+          "n4RfsyzWWGLd23xdwlwvVkrBZfL335Mlga+av4iIjWw=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-timestream-query": {
@@ -19296,6 +19320,18 @@
       "wheels": {
         "botocore_a_la_carte_timestream_query-1.29.84-py3-none-any.whl": [
           "a+9hRduvxEJMnbn8m06kteG5xL7FMmjl1HzW/M58q38=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.85": {
+      "sdist": [
+        "cvlUH0h5DNLNWkm+SElqqRKFZzLLKWjvQKxXAKkDKcA=",
+        "botocore-a-la-carte-timestream-query-1.29.85.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_timestream_query-1.29.85-py3-none-any.whl": [
+          "Jd3D+mNVr4ftWv/fYtZumYyn9SOgl6x7MFtJooYk7sg=",
           "py3"
         ]
       }
@@ -50076,6 +50112,12 @@
         "evshell-0.0.16.tar.gz"
       ]
     },
+    "0.0.18": {
+      "sdist": [
+        "nLtXXmugqv0MxPymxzb9WCkYX22Dv+TjygzJlaAcaQ8=",
+        "evshell-0.0.18.tar.gz"
+      ]
+    },
     "0.0.6": {
       "sdist": [
         "xXAeUcYJfOEUPUmKnolNwbpNjJkiRPuNge8q8klwYHI=",
@@ -61168,6 +61210,18 @@
         ]
       }
     },
+    "0.20.1": {
+      "sdist": [
+        "9ZBh1hJGy9bXngcYJazsV/ketp+Spw/a2i1oKKbwbQg=",
+        "geemap-0.20.1.tar.gz"
+      ],
+      "wheels": {
+        "geemap-0.20.1-py2.py3-none-any.whl": [
+          "UVcpqmIC0by+9D8zibK3fr2GbLizTuKSkdQuhyGwkrs=",
+          "py2.py3"
+        ]
+      }
+    },
     "0.3.0": {
       "sdist": [
         "kQ5W0gKEsnArN0fJY+zBw4ga2xHGCil20GDUjvqkXes=",
@@ -69070,6 +69124,14 @@
       "wheels": {
         "huaweicloudsdkkafka-3.1.28-py2.py3-none-any.whl": [
           "zA7AjkjN7eucVNK0k63/USzle3PfZuaHT0s7G4v9LH0=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.29": {
+      "wheels": {
+        "huaweicloudsdkkafka-3.1.29-py2.py3-none-any.whl": [
+          "68v6zsDxkgQADd5xqPBXg+8HbDTQoSRSV3MdeaEIt+I=",
           "py2.py3"
         ]
       }
@@ -101024,6 +101086,12 @@
       "sdist": [
         "TwJwHo8pcWvyv2kzqhAEgRtC8A6KwEfE0J5aFgXKAR8=",
         "pulumi_mongodbatlas-3.8.0a1677785879.tar.gz"
+      ]
+    },
+    "3.8.0a1678132323": {
+      "sdist": [
+        "HoXi/vbxgLhgYQnRjrYemrGDj59BnNq2nAcr0r7+48k=",
+        "pulumi_mongodbatlas-3.8.0a1678132323.tar.gz"
       ]
     }
   },
@@ -137799,6 +137867,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.844": {
+      "sdist": [
+        "f727ym6x4wc8l+DfoP0LB85QVLLSVrH2FeP+9ZfnT7U=",
+        "tencentcloud-sdk-python-cynosdb-3.0.844.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_cynosdb-3.0.844-py2.py3-none-any.whl": [
+          "fXOUXe44CUNp8BlcXt4tr3XI+huOJBj5UeDIc1ZgIeU=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tenet": {
@@ -142804,6 +142884,20 @@
       "wheels": {
         "urmila_model8-1.0.0-py3-none-any.whl": [
           "S1vE5kY6Z0B7KFFZYs6goILDAhmEW0VLTfvpEcrAQ3s=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "usody-sanitize": {
+    "0.1.0b1": {
+      "sdist": [
+        "Gkp533oWg933L8FB+wU6He31T737I5k+x7Pp04jtFkc=",
+        "usody_sanitize-0.1.0b1.tar.gz"
+      ],
+      "wheels": {
+        "usody_sanitize-0.1.0b1-py3-none-any.whl": [
+          "Gzu/Akq4quLpkxV4l11fxDO5Q7Dh8YeCC4G7o3eRWYg=",
           "py3"
         ]
       }

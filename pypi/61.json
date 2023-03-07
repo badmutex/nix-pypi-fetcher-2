@@ -18289,6 +18289,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.85": {
+      "sdist": [
+        "EIQHm3KlocXPTrH6hT3olve/jXbJPlJhzQO5eAEpS80=",
+        "botocore-a-la-carte-connectparticipant-1.29.85.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_connectparticipant-1.29.85-py3-none-any.whl": [
+          "IQc3PQ5NNQK/tL9oRjbrqHJoF8yaueLGkpdIjzOTrUE=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-lakeformation": {
@@ -18804,6 +18816,18 @@
       "wheels": {
         "botocore_a_la_carte_lakeformation-1.29.84-py3-none-any.whl": [
           "FIYD46HoJ24Cuq28+jrwuxkD7t7OqCqlBwDJgpZn0WY=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.85": {
+      "sdist": [
+        "8eOJeUWdGxmQE3QUva57ztLzzYWQjJ715K5ijlkVfsY=",
+        "botocore-a-la-carte-lakeformation-1.29.85.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_lakeformation-1.29.85-py3-none-any.whl": [
+          "irZnGc4DFDVHINlW6fuxzm99HuyGKObmP3m19BlnpbQ=",
           "py3"
         ]
       }
@@ -42965,6 +42989,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.5": {
+      "sdist": [
+        "fkbxKKzrig3fNjDrDG4nPo46v/7XnIr4LkCHwMChUJQ=",
+        "fastapi_cruddy_framework-0.0.5.tar.gz"
+      ],
+      "wheels": {
+        "fastapi_cruddy_framework-0.0.5-py3-none-any.whl": [
+          "jNlAiIjSpfVBPSHtH6EnscfJuo3VAEysJkdeTmJvTGw=",
+          "py3"
+        ]
+      }
     }
   },
   "fastmonai": {
@@ -45460,6 +45496,18 @@
       "wheels": {
         "Flask_pyoidc-3.12.1-py3-none-any.whl": [
           "q0la3D+28ZuiDdB4TQ5hsFdaljEY7Pc0COYX/2mSvn8=",
+          "py3"
+        ]
+      }
+    },
+    "3.13.0": {
+      "sdist": [
+        "K9EoJmKjmdTPwlxHMxyodi69+d+RodgF+vePsnAsl0I=",
+        "Flask-pyoidc-3.13.0.tar.gz"
+      ],
+      "wheels": {
+        "Flask_pyoidc-3.13.0-py3-none-any.whl": [
+          "BpceVTT1Ldvtotg2g/P+wJ2W8ZAyn1VH1V2aarfl5kI=",
           "py3"
         ]
       }
@@ -56520,6 +56568,14 @@
       "wheels": {
         "huaweicloudsdkclassroom-3.1.28-py2.py3-none-any.whl": [
           "m3eT27t1vE6oy51D9MYjOO8xjYLEAnmVjB1C2V1MalM=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.29": {
+      "wheels": {
+        "huaweicloudsdkclassroom-3.1.29-py2.py3-none-any.whl": [
+          "PC6UdtPcaljbfwy+rPTpw3zo1bqZN+NnyZSutGdSlug=",
           "py2.py3"
         ]
       }
@@ -92684,6 +92740,14 @@
         ]
       }
     },
+    "15.0.1.0.2.1": {
+      "wheels": {
+        "odoo_addon_account_due_list-15.0.1.0.2.1-py3-none-any.whl": [
+          "0yYrjXSYo0c9+F2g8AekQNGmxgTn2Gl++FzCYrx8Cxs=",
+          "py3"
+        ]
+      }
+    },
     "16.0.1.0.1.2": {
       "wheels": {
         "odoo_addon_account_due_list-16.0.1.0.1.2-py3-none-any.whl": [
@@ -105418,6 +105482,54 @@
       "wheels": {
         "pq_ntru-0.0.4-py3-none-any.whl": [
           "veSPpx4D7cevrej2UJsQVFFy7Um1MpAXSVcdLnXO70Q=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.5": {
+      "sdist": [
+        "SE7/FVPUCJPLLnQZBPvaRUuslO9I83q4LS9ZRpuFtMQ=",
+        "pq_ntru-0.0.5.tar.gz"
+      ],
+      "wheels": {
+        "pq_ntru-0.0.5-py3-none-any.whl": [
+          "eKa0K4LhRh7bnvvq4fVFkt7er4cPeoyrjx08T5BbrZ8=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.6": {
+      "sdist": [
+        "g1nCaGIZZxifZYz8J2/zw/yI7bZJicX9HfyBMv3ovlo=",
+        "pq_ntru-0.0.6.tar.gz"
+      ],
+      "wheels": {
+        "pq_ntru-0.0.6-py3-none-any.whl": [
+          "v/+ytHRC7EQ6fzCN/t5DItUHj1tdZ/AwVOMC6YLtUe0=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.7": {
+      "sdist": [
+        "KS76O+IMHhegiShQhMPJgryKgGh1cQ04ukHykf5jt2U=",
+        "pq_ntru-0.0.7.tar.gz"
+      ],
+      "wheels": {
+        "pq_ntru-0.0.7-py3-none-any.whl": [
+          "/1KJ2J1IVFSkud3p3CaBgPImwRCFKxurDSWFCny6DWc=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.8": {
+      "sdist": [
+        "3mGixbu+DYH+GGkbvpvShv+kjLnT9zl9WfG2joRjw1A=",
+        "pq_ntru-0.0.8.tar.gz"
+      ],
+      "wheels": {
+        "pq_ntru-0.0.8-py3-none-any.whl": [
+          "OS4L1O+Oouokdof5EwNaP49/djv/HtzpcgBYqDYYtM8=",
           "py3"
         ]
       }

@@ -15059,6 +15059,18 @@
           "py3"
         ]
       }
+    },
+    "2.3.0b20230308": {
+      "wheels": {
+        "bigdl_friesian_spark3-2.3.0b20230308-py3-none-macosx_10_11_x86_64.whl": [
+          "IXF/lz+LumiWl/QBFlckWnWJJ0ErO7R8Wg+FQR5ClVE=",
+          "py3"
+        ],
+        "bigdl_friesian_spark3-2.3.0b20230308-py3-none-manylinux1_x86_64.whl": [
+          "jiL/qognbyQvvjhh0NQAlIGwX93JNT6fF7wc68AXa6s=",
+          "py3"
+        ]
+      }
     }
   },
   "binsinfo": {
@@ -33515,6 +33527,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.2": {
+      "sdist": [
+        "aGls8o6RBI8Sj5u0IbSIqZVYWc0KtIUI7DlbDeXN1c0=",
+        "djangoldp_component-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "djangoldp_component-1.0.2-py3-none-any.whl": [
+          "CwY7BxLm6PZS4mIttD0BbX9kz1fXKNRM2X5w0j9igX4=",
+          "py3"
+        ]
+      }
     }
   },
   "djangoplicity-caching-app-plugins": {
@@ -50374,6 +50398,18 @@
       "wheels": {
         "gardener_cicd_libs-1.2002.0-py3-none-any.whl": [
           "HnznZ3p+nCEoGo4E1GTkTi8BXbD1H33b2HgzCPAyOaQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.2003.0": {
+      "sdist": [
+        "H3mtjVBitH0hN0IB8uKfTEZtapkmC02f/IvKEhEOL1g=",
+        "gardener-cicd-libs-1.2003.0.tar.gz"
+      ],
+      "wheels": {
+        "gardener_cicd_libs-1.2003.0-py3-none-any.whl": [
+          "c83PazTlwFIFKySrtOE3HL0HBCOf6Wh5z7WXGQGwrj8=",
           "py3"
         ]
       }
@@ -92055,6 +92091,14 @@
           "py3"
         ]
       }
+    },
+    "15.0.1.0.0.4": {
+      "wheels": {
+        "odoo_addon_website_analytics_matomo-15.0.1.0.0.4-py3-none-any.whl": [
+          "jrJaR5iOknmx8VzwrMM/q/0gIckoBanlWQFpcy4Uu8w=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo-backup": {
@@ -95942,6 +95986,14 @@
       "wheels": {
         "odoo9_addon_partner_sector-9.0.2.0.0.99.dev5-py2-none-any.whl": [
           "D5NicLlDwp5ig95skdm4N9Tt0AhFoSvsskjM9Q+3dBk=",
+          "py2"
+        ]
+      }
+    },
+    "9.0.2.0.0.99.dev6": {
+      "wheels": {
+        "odoo9_addon_partner_sector-9.0.2.0.0.99.dev6-py2-none-any.whl": [
+          "AIaB838EKlvEg/wixZt5kX7FtcAzpz7lggxIs8goO+8=",
           "py2"
         ]
       }
@@ -116763,6 +116815,68 @@
       }
     }
   },
+  "queues-master-new": {
+    "1.0.0": {
+      "sdist": [
+        "2/DPXRDgwtQ+HjWd12nCiEURWyu8eLQ/k3FrKG1WidM=",
+        "queues_master_new-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "queues_master_new-1.0.0-py3-none-any.whl": [
+          "CCCwR7RUCTQdDUe7Tr6x/0JMkWTZOB5iRmrd1lxzBCo=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.1": {
+      "sdist": [
+        "kzWZH93PVPbnWYNdVTO5/AWPt4ruVEX8nz3fiklVrn8=",
+        "queues_master_new-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "queues_master_new-1.0.1-py3-none-any.whl": [
+          "OvJ+HdJLo4kSwNhUBdXIRDci+Oov49+rreKD9N28KBU=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.2": {
+      "sdist": [
+        "h5QyreOl7OIS5DmYShXx7ykIV17v1MQuZfpXPdP/sCc=",
+        "queues_master_new-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "queues_master_new-1.0.2-py3-none-any.whl": [
+          "YZBN3bDH2Ql4TKX4ie+gcGSosTZg+7tSkbFrEnEhg0o=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.3": {
+      "sdist": [
+        "V91WDkMqW6JwV3qR1zrYbOOWWT4SZHSTpSiTBNo4BN0=",
+        "queues_master_new-1.0.3.tar.gz"
+      ],
+      "wheels": {
+        "queues_master_new-1.0.3-py3-none-any.whl": [
+          "R52jYWohboe+p2JcRQJXUyPzIJKvPacEnad+As1Q1/8=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.4": {
+      "sdist": [
+        "SJjGo5gJnhc84MhTQUu54Zl+evhWqJHRdlBbpXEe/C8=",
+        "queues_master_new-1.0.4.tar.gz"
+      ],
+      "wheels": {
+        "queues_master_new-1.0.4-py3-none-any.whl": [
+          "vlQZ0oQKybbXdiSIb7oEnq0jnPV61JGqKYnoEpJ8Y70=",
+          "py3"
+        ]
+      }
+    }
+  },
   "quickmath": {
     "1.0.0": {
       "sdist": [
@@ -127048,6 +127162,18 @@
       "sdist": [
         "i+AgVXFodFleGJ6NEV7Xn7ZLiDFeKWFSMbdg7T/kKCk=",
         "returnn-1.20230307.232505.tar.gz"
+      ]
+    },
+    "1.20230308.123325": {
+      "sdist": [
+        "m+TK4xQhqPgZrf28HrxgI1PeYJ2YAAYEEdUHhoZ3EnM=",
+        "returnn-1.20230308.123325.tar.gz"
+      ]
+    },
+    "1.20230308.152343": {
+      "sdist": [
+        "PKkqv98BTrhFL10ZlNmJQwDrJPFIAs+zM/pkNtzPILE=",
+        "returnn-1.20230308.152343.tar.gz"
       ]
     },
     "1.20230308.1924": {
@@ -139474,6 +139600,18 @@
         ]
       }
     },
+    "0.0.28": {
+      "sdist": [
+        "puV6gKHHnhpRxcz+oKL6Nbqh/9KMLMD/GFVs9hdNXBg=",
+        "tasksource-0.0.28.tar.gz"
+      ],
+      "wheels": {
+        "tasksource-0.0.28-py3-none-any.whl": [
+          "5NCfD9Jus5+AlOt6Er+7naPMFVXovKYWcf9Q04FE3WA=",
+          "py3"
+        ]
+      }
+    },
     "0.0.3": {
       "sdist": [
         "4Qb6VkKynlH33SFkcx1jZ3YiBQ03heHE6TkA/pXjIlE=",
@@ -140114,6 +140252,12 @@
       "sdist": [
         "i3C1vjCQk8EyZqamoQqjXw7hgAIYRDkuPiRgm11ap+Y=",
         "tendril-apiserver-core-0.2.0.tar.gz"
+      ]
+    },
+    "0.2.10": {
+      "sdist": [
+        "PczNbbHvYMAhpH/ayhYcsPVQstUY6UFIzcVtkSCo3is=",
+        "tendril-apiserver-core-0.2.10.tar.gz"
       ]
     },
     "0.2.2": {

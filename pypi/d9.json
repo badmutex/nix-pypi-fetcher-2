@@ -25905,6 +25905,18 @@
           "py3"
         ]
       }
+    },
+    "1.3": {
+      "sdist": [
+        "0tJKdrqNhGUip/uoPQUcdQU0qGXB7IN/py5b5LO3yXk=",
+        "devopstestor-1.3.tar.gz"
+      ],
+      "wheels": {
+        "devopstestor-1.3-py3-none-any.whl": [
+          "n9uFIDzzC2Rvu6+RyVIfI9YwE/tWqntGQyX9O3cJvuw=",
+          "py3"
+        ]
+      }
     }
   },
   "diarypy": {
@@ -36966,6 +36978,22 @@
         ],
         "fbgemm_gpu_cpu-0.3.2-cp39-cp39-manylinux1_x86_64.whl": [
           "8qMJursPjtCy0z2A/aL9J4TTzhx2zthLkNnrZ4IkIqM=",
+          "cp39"
+        ]
+      }
+    },
+    "0.4.0rc0": {
+      "wheels": {
+        "fbgemm_gpu_cpu-0.4.0rc0-cp310-cp310-manylinux1_x86_64.whl": [
+          "rgsw5FGG9lRe4ZsdyLsuYtFX8v3p7K8SVP96h6LuSDU=",
+          "cp310"
+        ],
+        "fbgemm_gpu_cpu-0.4.0rc0-cp38-cp38-manylinux1_x86_64.whl": [
+          "iYSEdFz+mHbQv6I4XnVzaO6474Y5EpTlDNAFHpAeses=",
+          "cp38"
+        ],
+        "fbgemm_gpu_cpu-0.4.0rc0-cp39-cp39-manylinux1_x86_64.whl": [
+          "3BtpFDKLBKDNyQttvDTIb5Nj5mmYSWYvCb3fNeU6HxE=",
           "cp39"
         ]
       }
@@ -80079,6 +80107,16 @@
         "octosql_py-0.3.0-cp27-cp27m-macosx_10_14_x86_64.whl": [
           "iTZKTSTnIvhoQ78uZcCqRTe3sO1UvnGyM87030rwKzs=",
           "cp27"
+        ]
+      }
+    }
+  },
+  "odoo-addon-account-bank-statement-import-move-line": {
+    "15.0.1.0.0.2": {
+      "wheels": {
+        "odoo_addon_account_bank_statement_import_move_line-15.0.1.0.0.2-py3-none-any.whl": [
+          "kYny6ucrpSowk3doCZ6y5yre8aYUgwrKR4LGQG6XVOw=",
+          "py3"
         ]
       }
     }
@@ -133354,76 +133392,38 @@
     }
   },
   "translationpdf": {
-    "0.0.1": {
-      "sdist": [
-        "snhxyJ0ENaZ26WIQrgzrMLhT/GT1YArG9wELGcRc79I=",
-        "TranslationPDF-0.0.1.tar.gz"
-      ]
-    },
     "1.0.0": {
+      "sdist": [
+        "/GAv+WHUg85DdfXxi6+LN13H/CTEhNYqB6mp59KjUqc=",
+        "translationPdF-1.0.0.tar.gz"
+      ],
       "wheels": {
-        "TranslationPDF-1.0.0-py3-none-any.whl": [
-          "3VfgQzFvUKCLbSVrQ9Hvs9TqTdKz8TAIDoaPTLlaXA4=",
+        "translationPdF-1.0.0-py3-none-any.whl": [
+          "k5WGg8Jrs8kxVYllf9IS5vjHETIah8+u+Ndk/HEfyps=",
           "py3"
         ]
       }
     },
-    "1.0.1": {
+    "1.5.0": {
       "sdist": [
-        "TUQUQ3ooDWoVakKO3iKOwExFYX5n8ISXQBbViebQ7Ag=",
-        "TranslationPDF-1.0.1.tar.gz"
+        "9t3aqzUK6FmN41KD/xix24PE7CQfWH7UIk4hLhuiicM=",
+        "translationPdF-1.5.0.tar.gz"
       ],
       "wheels": {
-        "TranslationPDF-1.0.1-py3-none-any.whl": [
-          "GL0ballNTizgNAtZqMVj0DsfZdzcRyqwXSEkCrjR1sg=",
+        "translationPdF-1.5.0-py3-none-any.whl": [
+          "0trF6gVVygVyZDOlO9uCSEOT42P9gSADVZVPqPTqRPo=",
           "py3"
         ]
       }
     },
-    "1.0.2": {
+    "2.0.0": {
       "sdist": [
-        "+gPSQq63HrjZsabQCPv1Jx9Z3LIom64PMWbIaox8gzs=",
-        "TranslationPDF-1.0.2.tar.gz"
+        "aY8RIpT/UAZbZ1P6DkB6cSMb2lE+b0KqI5UM8y9xlxg=",
+        "translationPdF-2.0.0.tar.gz"
       ],
       "wheels": {
-        "TranslationPDF-1.0.2-py3-none-any.whl": [
-          "oCMVuBlPipbQsqblXMsXsufKX3n+GJZ+c3quXKBJxRk=",
-          "py3"
-        ]
-      }
-    },
-    "1.0.3": {
-      "sdist": [
-        "y9AGvymgkRZma2hChotTUnkz7Acj/U6TcT9iA4Te85U=",
-        "TranslationPDF-1.0.3.tar.gz"
-      ],
-      "wheels": {
-        "TranslationPDF-1.0.3-py3-none-any.whl": [
-          "GdkCPHl2vBt51xn8KdA6wqkkPMCiwkyroTJxAVc7Ly8=",
-          "py3"
-        ]
-      }
-    },
-    "1.0.4": {
-      "sdist": [
-        "f0McpdiKdjplUMlygW1QNNi4bCfcx823JQN6NhlrCc8=",
-        "TranslationPDF-1.0.4.tar.gz"
-      ],
-      "wheels": {
-        "TranslationPDF-1.0.4-py3-none-any.whl": [
-          "Q/GsAUr5FiQP0EehD8kUJ3QU93Zv05d6Zy6fQl1up9c=",
-          "py3"
-        ]
-      }
-    },
-    "1.0.5": {
-      "sdist": [
-        "108WhUKV1xcdP8meDeogHQMyBqnOYZlfaH+l0hymO34=",
-        "TranslationPDF-1.0.5.tar.gz"
-      ],
-      "wheels": {
-        "TranslationPDF-1.0.5-py3-none-any.whl": [
-          "lkVTku6kVUgINW8hivNnqbd8eSUygNc0sNDd3VysnA4=",
+        "translationPdF-2.0.0-py3-none-any.whl": [
+          "yVkXY2mZpQxljDXIzamC+Zw99qqPl/KrNFMje1+lB/c=",
           "py3"
         ]
       }
@@ -148292,6 +148292,18 @@
       "wheels": {
         "znflow-0.1.1-py3-none-any.whl": [
           "bjw/VnLjtdCRATPVs3H8zT5oQU8B0Nel08dia2TymFE=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "1yG7JgdBiDRssOW7eg36ovUa8q0Is6Bsn/NLhX4vkEE=",
+        "znflow-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "znflow-0.1.2-py3-none-any.whl": [
+          "cElYale0mqhh0dKq/3I48qI9MiBz4R5e5rCl9Vtun7c=",
           "py3"
         ]
       }

@@ -10410,28 +10410,10 @@
     }
   },
   "autonon": {
-    "0.0.1": {
+    "0.3.0.post1": {
       "sdist": [
-        "oFrzUjW9AnLIBBKmMFu4Wb8AJc4H9IYcUmO3NfChYJQ=",
-        "autonon-0.0.1.tar.gz"
-      ]
-    },
-    "0.0.2": {
-      "sdist": [
-        "q4mXpwvhwW/x0+rQmd+Bueb89ZrZ0yRY66ngeowmlvc=",
-        "autonon-0.0.2.tar.gz"
-      ]
-    },
-    "0.0.2.post1": {
-      "sdist": [
-        "KDI65nr5d8nzz5P3gd2xdBtkUnpCIcCsj2h/1jLcI1M=",
-        "autonon-0.0.2.post1.tar.gz"
-      ]
-    },
-    "0.3.0": {
-      "sdist": [
-        "31LZCph3d+6x6t1LZ5nOQYJV2I+c9H7hixJ1/xJsYE4=",
-        "autonon-0.3.0.tar.gz"
+        "ua/7KO5CcT+colN7q5w9ROMmPHUS0eQY1eTDnIz+4/4=",
+        "autonon-0.3.0.post1.tar.gz"
       ]
     }
   },
@@ -55913,6 +55895,20 @@
       }
     }
   },
+  "iqcampy": {
+    "0.0.1": {
+      "sdist": [
+        "5JQ0FrV7wREZyQccHnwsMXeHR6iCrDWBmw72zrurFoM=",
+        "iqcampy-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "iqcampy-0.0.1-py3-none-any.whl": [
+          "23ik2WOurIFkfm/5U/e9Jz/TVxxhuQ3aqhJhRQLjSaM=",
+          "py3"
+        ]
+      }
+    }
+  },
   "irdap": {
     "0.1.2": {
       "sdist": [
@@ -90522,6 +90518,14 @@
       "wheels": {
         "odoo8_addon_sale_properties_easy_creation-8.0.1.0.0.99.dev32-py2-none-any.whl": [
           "RF/XsKU//AJhr+OtDoJuG50F8dCVlKt13IZ6mWVzyWw=",
+          "py2"
+        ]
+      }
+    },
+    "8.0.1.0.0.99.dev33": {
+      "wheels": {
+        "odoo8_addon_sale_properties_easy_creation-8.0.1.0.0.99.dev33-py2-none-any.whl": [
+          "01AM7bkIutY6IZdISUYHQV1OuRa/TLRE+EW+4tIUKdc=",
           "py2"
         ]
       }
@@ -144038,6 +144042,18 @@
         ]
       }
     },
+    "1.2.6": {
+      "sdist": [
+        "ndJAi9NR33yeq5LJIzBRzG4ZaBK7Vo0u7mwzDigVU6A=",
+        "tonic-1.2.6.tar.gz"
+      ],
+      "wheels": {
+        "tonic-1.2.6-py3-none-any.whl": [
+          "f+Dg6qrfG8LiJv+BfZu8954Xs2UuongF+81JBh1QnuM=",
+          "py3"
+        ]
+      }
+    },
     "1.2.6.dev1": {
       "sdist": [
         "KdMbIDVuzqj3F4960YOUvWiDmDrhrOCWMWTFCQatLbU=",
@@ -150994,6 +151010,18 @@
       "wheels": {
         "yaclipy-0.6.2-py3-none-any.whl": [
           "Hdt2sMEbaVzTOG5xpYiqqZw+v20vgdgF9Pvsj0eq8OY=",
+          "py3"
+        ]
+      }
+    },
+    "0.7.1": {
+      "sdist": [
+        "L3apUEgL/QmFgIKnxC/yrvilRXBgZD+i60mTaSUS+ZU=",
+        "yaclipy-0.7.1.tar.gz"
+      ],
+      "wheels": {
+        "yaclipy-0.7.1-py3-none-any.whl": [
+          "8VMN7VShUH02EJRMpSryNkQpvI+K0quR9Pv/R8xuOEo=",
           "py3"
         ]
       }

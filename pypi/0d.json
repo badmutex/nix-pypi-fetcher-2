@@ -31448,6 +31448,62 @@
         ]
       }
     },
+    "2.3.13": {
+      "wheels": {
+        "core_universal-2.3.13-py2.py3-none-macosx_10_7_x86_64.whl": [
+          "DUaj1taLYpsd/mQCQfHDG8/AEaFqvFiIeCHWmqGJblM=",
+          "py2.py3"
+        ],
+        "core_universal-2.3.13-py2.py3-none-macosx_11_0_arm64.whl": [
+          "v1FTnlT4TPBbJSJSle5FZ/oeTZz5AsED4Km/uU+J/mY=",
+          "py2.py3"
+        ],
+        "core_universal-2.3.13-py2.py3-none-manylinux1_x86_64.whl": [
+          "EakKimUT421Uhj8YA6d/Ae7NzT0+37WiVRJQxeRbjvA=",
+          "py2.py3"
+        ],
+        "core_universal-2.3.13-py2.py3-none-manylinux2014_aarch64.whl": [
+          "CMpmmHhBSERRonYEBkARNQrwxTntCbi3y7Em0k3Kvnk=",
+          "py2.py3"
+        ],
+        "core_universal-2.3.13-py2.py3-none-musllinux_1_2_x86_64.whl": [
+          "cFsq9L38tLBGTFtxrBC/N0H0JK2jYO7pfyLFnz0ZVV8=",
+          "py2.py3"
+        ],
+        "core_universal-2.3.13-py2.py3-none-win_amd64.whl": [
+          "nr2g+xjWFIHpphHdCwKo+IE3MecRKcd7EPtS0QGdClo=",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.3.14": {
+      "wheels": {
+        "core_universal-2.3.14-py2.py3-none-macosx_10_7_x86_64.whl": [
+          "XjSAYgc1u3TrGQpm2ROdYxco5ioHzqDeZM7l2lyNPmE=",
+          "py2.py3"
+        ],
+        "core_universal-2.3.14-py2.py3-none-macosx_11_0_arm64.whl": [
+          "nKy9ww6rU/WiefU3NwR490xwL0YbrgrS3psUqbpGGg4=",
+          "py2.py3"
+        ],
+        "core_universal-2.3.14-py2.py3-none-manylinux1_x86_64.whl": [
+          "LPPcuMkZrL9kXG+DiO7xlHRjNKo40B8oQmU64OOl1n8=",
+          "py2.py3"
+        ],
+        "core_universal-2.3.14-py2.py3-none-manylinux2014_aarch64.whl": [
+          "n4rtU4C2kM7uagbu0X/hGTkYSU1/OL/jizjAp+lCtEg=",
+          "py2.py3"
+        ],
+        "core_universal-2.3.14-py2.py3-none-musllinux_1_2_x86_64.whl": [
+          "ZHwpzinBhFh5CvReuKYHA1E61cLuRDUnbkYpp8jGl3U=",
+          "py2.py3"
+        ],
+        "core_universal-2.3.14-py2.py3-none-win_amd64.whl": [
+          "PN9tESg052j7i9uQF9TnLgfOMxFz5w2A2bs7DT4tCmQ=",
+          "py2.py3"
+        ]
+      }
+    },
     "2.3.7": {
       "wheels": {
         "core_universal-2.3.7-py2.py3-none-macosx_10_7_x86_64.whl": [
@@ -82705,6 +82761,42 @@
           "py3"
         ]
       }
+    },
+    "0.5.6rc1": {
+      "sdist": [
+        "BgP7pUqaijfjRrmBUPKTOoVT41y/InCQP14+m/eliOA=",
+        "mitzu-0.5.6rc1.tar.gz"
+      ],
+      "wheels": {
+        "mitzu-0.5.6rc1-py3-none-any.whl": [
+          "4WQ6gQ9+CbWPozCJHaln/o5dugve7I4ThPuyXyi/K/U=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.6rc2": {
+      "sdist": [
+        "geIGEcJMdOUHU8V5msB/RFYXbhmmEGPykdmWEn7JP6s=",
+        "mitzu-0.5.6rc2.tar.gz"
+      ],
+      "wheels": {
+        "mitzu-0.5.6rc2-py3-none-any.whl": [
+          "703KaJ8oky+9kr+Al8V1uLspkKpDGU1pHnPU5LJOZOo=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.6rc3": {
+      "sdist": [
+        "u/Hriz4AkRUQE9hSn/PtSxaFdq6mfptYRDjB0TnS2MI=",
+        "mitzu-0.5.6rc3.tar.gz"
+      ],
+      "wheels": {
+        "mitzu-0.5.6rc3-py3-none-any.whl": [
+          "K4+9AG6sKbu2K2RrKQ9SdhljER82Jl2gx+kzzpXX1fI=",
+          "py3"
+        ]
+      }
     }
   },
   "mixed-effect": {
@@ -88149,6 +88241,22 @@
           "cp39"
         ]
       }
+    },
+    "1.1.0": {
+      "wheels": {
+        "navconfig-1.1.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "v/WPFBKtzUpk1zd1r0per4DAqfg4ahWhYUqyq1AzjHo=",
+          "cp310"
+        ],
+        "navconfig-1.1.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ZhOcyG2WQ6BmmkiJ1AAKENBRonKrXpMpp70L9fwEaGI=",
+          "cp311"
+        ],
+        "navconfig-1.1.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "p+sItFnvK/fmg3NmP4bbEJr5Zy3i9pOKX+EeDqNSftA=",
+          "cp39"
+        ]
+      }
     }
   },
   "nbsolutions": {
@@ -91836,6 +91944,12 @@
       "sdist": [
         "tpLd5dVLN/Ce7S+9MLVDcEDncR9j8s2y7Ebt6LaorhE=",
         "ocm_python_client-1.0.5.tar.gz"
+      ]
+    },
+    "1.0.6": {
+      "sdist": [
+        "v4VXqCC6oAYv7RTyHZ6v4BHwdLx6kYY7ZjVuW0fDEuY=",
+        "ocm_python_client-1.0.6.tar.gz"
       ]
     }
   },
@@ -104590,6 +104704,18 @@
       "wheels": {
         "playmolecule-1.5.3-py3-none-any.whl": [
           "Q/DI+pGjir23jxRyrAabimKfCreyE9i+6Q8NpfbNELw=",
+          "py3"
+        ]
+      }
+    },
+    "1.5.4": {
+      "sdist": [
+        "j5/bu0MUWICFukoOo/imGM8gN6ot6G9VhnAjeQFmHuo=",
+        "playmolecule-1.5.4.tar.gz"
+      ],
+      "wheels": {
+        "playmolecule-1.5.4-py3-none-any.whl": [
+          "kNZwhdx7iKVNkTXPhV5fTRZLHNmMi38qo8bhPhjqMOs=",
           "py3"
         ]
       }
@@ -119776,6 +119902,30 @@
       "wheels": {
         "rasgotransforms-2.7.5-py3-none-any.whl": [
           "Fsn7RRHZRNtNwB/aTfZTbtXMw+XYu4ESN5J3mmk3Vkk=",
+          "py3"
+        ]
+      }
+    },
+    "2.7.6": {
+      "sdist": [
+        "yRb1X5e1gcuteu/6cVHKx/0Pg4ReYlgvOroo2BEpaYw=",
+        "rasgotransforms-2.7.6.tar.gz"
+      ],
+      "wheels": {
+        "rasgotransforms-2.7.6-py3-none-any.whl": [
+          "asaeLeMDcZZjmiwe+TPs2qpsG0oc8ehQMWuPZaJ5jds=",
+          "py3"
+        ]
+      }
+    },
+    "2.7.7": {
+      "sdist": [
+        "IvkNwi5Sab596ePJtj8adG3NYwvguX8ovbz+V6UlVP4=",
+        "rasgotransforms-2.7.7.tar.gz"
+      ],
+      "wheels": {
+        "rasgotransforms-2.7.7-py3-none-any.whl": [
+          "u7ghHPjoX6AA1myUcGYLX3Lrx+Zx2B0GXSsmWELYkeI=",
           "py3"
         ]
       }

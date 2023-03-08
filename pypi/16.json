@@ -16434,6 +16434,18 @@
         ]
       }
     },
+    "2.0.15": {
+      "sdist": [
+        "SCk0IqguJElVlGd+7xiEjDUg5c+MH7IqS3UuJbg7efU=",
+        "bottle-swagger-2-2.0.15.tar.gz"
+      ],
+      "wheels": {
+        "bottle_swagger_2-2.0.15-py3-none-any.whl": [
+          "uSAyUc8220vTz6l+VtevZFOhzXx6QTolPPad/oT8Is8=",
+          "py3"
+        ]
+      }
+    },
     "2.0.3": {
       "sdist": [
         "L/NvPb/mJlf0l1I3KLqWxVidVfB8X1dUAUQgpoDjTLs=",
@@ -18780,6 +18792,18 @@
       "wheels": {
         "cdklabs.cdk_ethereum_node-0.0.132-py3-none-any.whl": [
           "PzPF2Jlx1T2BqAjRPg2lEVG8+DF/zuEB/9zy9nvlabs=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.133": {
+      "sdist": [
+        "SwAfZPT3orNXPTdPC0zpM83dzw1BAOZqc3+BQWP9O6M=",
+        "cdklabs.cdk-ethereum-node-0.0.133.tar.gz"
+      ],
+      "wheels": {
+        "cdklabs.cdk_ethereum_node-0.0.133-py3-none-any.whl": [
+          "LaztlitDaE5O4NcnhMQdr8GJcpM4pNPUqLg3uxW8dWs=",
           "py3"
         ]
       }
@@ -26610,6 +26634,18 @@
       "wheels": {
         "cosl-0.0.3-py3-none-any.whl": [
           "MLpzyAB50WfVeSkduOLyQ7lyqAr7MY9GFk4wu9P/uZk=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4": {
+      "sdist": [
+        "Sxc4xl9qWKh5X2h7xBoPm4xwmvmt+rHu2IksCt3YQuc=",
+        "cosl-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "cosl-0.0.4-py3-none-any.whl": [
+          "l3TMCFxgKGAhV71b7dHnJiXHX463Pt83iE/gRNR8iXI=",
           "py3"
         ]
       }
@@ -54334,6 +54370,18 @@
       "wheels": {
         "fvgp-3.3.6-py2.py3-none-any.whl": [
           "Qm7zH5oR5UOHw/4tfeCaxucZ99knjVkgmJTcos+aDxc=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.3.7": {
+      "sdist": [
+        "EzBzrVShZI28AuXoXST6SgKKlPsnOC8nr2Fb65iFfLw=",
+        "fvgp-3.3.7.tar.gz"
+      ],
+      "wheels": {
+        "fvgp-3.3.7-py2.py3-none-any.whl": [
+          "rkwvkGfOiA6/SmLWLIwSZ3nkSsavQpNRxsaMeL8Hglk=",
           "py2.py3"
         ]
       }
@@ -94398,6 +94446,14 @@
         ]
       }
     },
+    "0.0.4a13": {
+      "wheels": {
+        "ovos_plugin_common_play-0.0.4a13-py3-none-any.whl": [
+          "+WEloL3bE2viL2ZWqDIHL7H4oLfBOWZ5wPMPAp8nHB4=",
+          "py3"
+        ]
+      }
+    },
     "0.0.4a2": {
       "wheels": {
         "ovos_plugin_common_play-0.0.4a2-py3-none-any.whl": [
@@ -110795,6 +110851,18 @@
         "yC7I9n6xmasZGq9IEpM/eeydwvp9qX8EtPaH/BzBehI=",
         "pytorch_nlp_pipeline-0.0.1.tar.gz"
       ]
+    },
+    "0.1.1": {
+      "sdist": [
+        "rPMHu9q5JMEjFx5mqOia/OvWL15xPBjSrnngLUjS4DE=",
+        "pytorch_nlp_pipeline-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "pytorch_nlp_pipeline-0.1.1-py3-none-any.whl": [
+          "EBC+0rcLK7T4kgzwzu9rSt+METKcyyC488Y4Meok3ck=",
+          "py3"
+        ]
+      }
     }
   },
   "pytorch-zhongwen-guanfang-jiaocheng-1-7-chuyi": {
@@ -114768,6 +114836,30 @@
       "wheels": {
         "rapids_dependency_file_generator-1.4.0-py3-none-any.whl": [
           "gl6ikLiCNK3ulOExGcHMZQqP0ifSJhEmOg7NKUv9tfE=",
+          "py3"
+        ]
+      }
+    },
+    "1.5.0": {
+      "sdist": [
+        "dAbNLd//eTjNMZHkDDI6TzUtBWtbznIoRgIcJELi154=",
+        "rapids-dependency-file-generator-1.5.0.tar.gz"
+      ],
+      "wheels": {
+        "rapids_dependency_file_generator-1.5.0-py3-none-any.whl": [
+          "AD+onkcdTN8S1DYHwRy6lZAGHWUWwUc+RRRgFgcMm+M=",
+          "py3"
+        ]
+      }
+    },
+    "1.5.1": {
+      "sdist": [
+        "l0LKTOlk/r3cvgbI/PIsZlxpDmVGSBm6FMoXq9DbeNc=",
+        "rapids-dependency-file-generator-1.5.1.tar.gz"
+      ],
+      "wheels": {
+        "rapids_dependency_file_generator-1.5.1-py3-none-any.whl": [
+          "I+FMNxdlFPzZB34Rwbqoa3U03Xx76w6tCR5qTqoiqQo=",
           "py3"
         ]
       }
@@ -141914,6 +142006,18 @@
       "wheels": {
         "types_aiobotocore_license_manager-2.4.2.post2-py3-none-any.whl": [
           "nKry7oZSD3tb+GBvqOH4ZXR0GLn+9Hzp1hbxFKOsWW0=",
+          "py3"
+        ]
+      }
+    },
+    "2.5.0": {
+      "sdist": [
+        "kBN3+IaxTw67B5bQii7cFHkiyH/GHuKamgFPkUigmzk=",
+        "types-aiobotocore-license-manager-2.5.0.tar.gz"
+      ],
+      "wheels": {
+        "types_aiobotocore_license_manager-2.5.0-py3-none-any.whl": [
+          "72s4B6QguKblneNIEF6/onIVyzAq6NU/OUScZg+joyg=",
           "py3"
         ]
       }

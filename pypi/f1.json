@@ -43114,6 +43114,18 @@
         ]
       }
     },
+    "1.0.42": {
+      "sdist": [
+        "AQft6SXs9ClSLm2gqKvRp6E0WCvK9a4lO1Jpv5GwJBQ=",
+        "edpm-1.0.42.tar.gz"
+      ],
+      "wheels": {
+        "edpm-1.0.42-py3-none-any.whl": [
+          "zVzX+0gKDTpD/i7oD8D/xObqiigFMJZ9fXOw3neqdw0=",
+          "py3"
+        ]
+      }
+    },
     "1.0.5": {
       "sdist": [
         "heOlZqnDvZlWr+MKsqsi2pjc25im++IWrka+0UDhvvc=",
@@ -50999,6 +51011,22 @@
           "cp37"
         ]
       }
+    },
+    "3.0.0": {
+      "wheels": {
+        "findex-3.0.0-cp37-abi3-macosx_10_7_x86_64.whl": [
+          "eTCgAYJfOHgEAe2NoU4MqynfvVzckAWrzzYkYdihLXY=",
+          "cp37"
+        ],
+        "findex-3.0.0-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "r0CEs8KYmMzHzgVp4IzqituZc6+9YhiYYVeqIMVTTts=",
+          "cp37"
+        ],
+        "findex-3.0.0-cp37-abi3-win_amd64.whl": [
+          "Ld4ydDBuiffgr+4jWJ9NFyOtz1qwfr//AuKV8Ho62iY=",
+          "cp37"
+        ]
+      }
     }
   },
   "finite-state-machines": {
@@ -52696,6 +52724,18 @@
       "wheels": {
         "flytekitplugins_onnxtensorflow-1.2.1-py3-none-any.whl": [
           "n7HzXOLV2IMthGXfqm8Wu38htvU+SUtTSDHzQt3p7s4=",
+          "py3"
+        ]
+      }
+    },
+    "1.2.10": {
+      "sdist": [
+        "lZTQ/3LCZGo9LkfBu4ilFPYsGbo7Bf4Np8x+K4zv3uE=",
+        "flytekitplugins-onnxtensorflow-1.2.10.tar.gz"
+      ],
+      "wheels": {
+        "flytekitplugins_onnxtensorflow-1.2.10-py3-none-any.whl": [
+          "qQKs6JSOzPP9uwjHVhyUOc7KTvkJePsI1JDXAPZ1dJg=",
           "py3"
         ]
       }
@@ -69544,6 +69584,78 @@
         ]
       }
     },
+    "0.12.2": {
+      "sdist": [
+        "bxYRPhT1pXVPwvAdDWSwVLhPgWcSELRD1qPm8FYAeYA=",
+        "jpeglib-0.12.2.tar.gz"
+      ],
+      "wheels": {
+        "jpeglib-0.12.2-cp38-abi3-macosx_10_9_universal2.whl": [
+          "T4EXGkAO7pMRQe7e1EK6KnoUtSm/hQ9RzmOzWdu7dp4=",
+          "cp38"
+        ],
+        "jpeglib-0.12.2-cp38-abi3-macosx_10_9_x86_64.whl": [
+          "TxrBIz7NniLd9vtqya2s/o+YyITEw25g4ruhqLxYjlg=",
+          "cp38"
+        ],
+        "jpeglib-0.12.2-cp38-abi3-macosx_11_0_arm64.whl": [
+          "3DpZ0FrB567OidMlYmg8RlXNsBhhHAD4Dvbtcc8yA+A=",
+          "cp38"
+        ],
+        "jpeglib-0.12.2-cp38-abi3-manylinux_2_12_i686.manylinux2010_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "ITlcgtwnE4cIJ2VJ+gaa9oRVkLPPx3X5ICPq0JmAyjY=",
+          "cp38"
+        ],
+        "jpeglib-0.12.2-cp38-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "iD+W+3X8WreCsHqXaWMa3caG/dA4VyXB3vSU5gH6PuM=",
+          "cp38"
+        ],
+        "jpeglib-0.12.2-cp38-abi3-win32.whl": [
+          "mXIsR/+2qRyLA4rzeIQNgVBDG85pkuWzkTMecvt1G6I=",
+          "cp38"
+        ],
+        "jpeglib-0.12.2-cp38-abi3-win_amd64.whl": [
+          "efU6IJywzq6DIwdQy6uXHXWknS7uhHdzw0dL7wZ9nx0=",
+          "cp38"
+        ]
+      }
+    },
+    "0.12.3": {
+      "sdist": [
+        "6/vvrHgHrRyibsd3gi+Cj3NY7AqL+hqoDlNYOUSVf3E=",
+        "jpeglib-0.12.3.tar.gz"
+      ],
+      "wheels": {
+        "jpeglib-0.12.3-cp38-abi3-macosx_10_9_universal2.whl": [
+          "FDFm416U5Xm2jHVGh8vQ1uvlsQ+nmf0Q7tidK9CFe8w=",
+          "cp38"
+        ],
+        "jpeglib-0.12.3-cp38-abi3-macosx_10_9_x86_64.whl": [
+          "UFPM2yD2s4hDzWvCzvrRAQaRoM3OxVvq6frynfOh+t8=",
+          "cp38"
+        ],
+        "jpeglib-0.12.3-cp38-abi3-macosx_11_0_arm64.whl": [
+          "O1I7o51HgN8TrZG5uE93HMeigdSo5/5ViXPV1OpptqM=",
+          "cp38"
+        ],
+        "jpeglib-0.12.3-cp38-abi3-manylinux_2_12_i686.manylinux2010_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "p7c+1y6qG3BiXbtr7H4Qkb3ExGu4+Eh1yHuBFHDIDyw=",
+          "cp38"
+        ],
+        "jpeglib-0.12.3-cp38-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "zIQy8AIiAaUEVBX05F33zwp4D8TALF+aYPJTJBMlXo8=",
+          "cp38"
+        ],
+        "jpeglib-0.12.3-cp38-abi3-win32.whl": [
+          "AXkat1/MdPr3BZb8Aw7NVJdVkhpFmjH7BtEIhdBmBBc=",
+          "cp38"
+        ],
+        "jpeglib-0.12.3-cp38-abi3-win_amd64.whl": [
+          "m3RfRO4OyzJaxhgcXs9bxxY8Ox4pxlhRTKsc8qvJZOo=",
+          "cp38"
+        ]
+      }
+    },
     "0.4.10": {
       "sdist": [
         "jukcO+2jpqT1C+ENq7+SE7p8T3nC1M86rJqKeK7YOos=",
@@ -82520,6 +82632,12 @@
       "sdist": [
         "E5yxYdSevFHyOzd8WObqNq7bC25tOqJNHsXSy+/aLUg=",
         "musicaiz-0.1.1.tar.gz"
+      ]
+    },
+    "0.1.2": {
+      "sdist": [
+        "6/KgLDKc0vqHIN167cPAO4VQnX51uDyORonWDHco5P4=",
+        "musicaiz-0.1.2.tar.gz"
       ]
     }
   },
@@ -146507,6 +146625,18 @@
           "py3"
         ]
       }
+    },
+    "2.5.0": {
+      "sdist": [
+        "HH5WWqRANr7uVvKmmbUoja5dV9hNFiF4f/mAa9yiubw=",
+        "types-aiobotocore-elbv2-2.5.0.tar.gz"
+      ],
+      "wheels": {
+        "types_aiobotocore_elbv2-2.5.0-py3-none-any.whl": [
+          "0aiPC6KhFVUxLzBP1+ojfsqMYxaoZI6h72Qm/GLQnGw=",
+          "py3"
+        ]
+      }
     }
   },
   "types-aiobotocore-snowball": {
@@ -146746,6 +146876,18 @@
       "wheels": {
         "types_aiobotocore_snowball-2.4.2.post2-py3-none-any.whl": [
           "0WFj8oYxBAy0w62y6TDFnAMTbHOIhWQ61SK94xPKD3s=",
+          "py3"
+        ]
+      }
+    },
+    "2.5.0": {
+      "sdist": [
+        "0vuSaVl07V/zlGdaULaOiCQBic+ogD0G6SzkJGARdbY=",
+        "types-aiobotocore-snowball-2.5.0.tar.gz"
+      ],
+      "wheels": {
+        "types_aiobotocore_snowball-2.5.0-py3-none-any.whl": [
+          "nF34s3m/Nly5OYJGiHzExhvj/DJfT2UESOFhSq9baBo=",
           "py3"
         ]
       }

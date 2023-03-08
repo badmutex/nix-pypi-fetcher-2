@@ -21371,6 +21371,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.86": {
+      "sdist": [
+        "fzh6E69BwJl+gZ2l5vAoe2C/TiiCi1Kk+wsoqkWlVRM=",
+        "botocore-a-la-carte-dms-1.29.86.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_dms-1.29.86-py3-none-any.whl": [
+          "PTGKyQd6U9J/mN5aqaVBYMnuQt9AqWXucd3hGFx/lRM=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-efs": {
@@ -21898,6 +21910,18 @@
       "wheels": {
         "botocore_a_la_carte_efs-1.29.85-py3-none-any.whl": [
           "pdgiqijQnqoxNIuS9e5kjq5ETtx9LYiaO0J5zq+448w=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.86": {
+      "sdist": [
+        "Z86ej/KFNwDwJHnVZKGW7LUnKEaeojG/lZzkpfa/hp8=",
+        "botocore-a-la-carte-efs-1.29.86.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_efs-1.29.86-py3-none-any.whl": [
+          "fEPzPtGjRCDabY8KYttR822bZk2hbdhWeR24Kj9fhqc=",
           "py3"
         ]
       }
@@ -52930,6 +52954,18 @@
         ]
       }
     },
+    "1.2.10": {
+      "sdist": [
+        "FSki2Lnc932tWwGW/VFiZIbiUznMhuaURRqnjLVuoD0=",
+        "flytekit-1.2.10.tar.gz"
+      ],
+      "wheels": {
+        "flytekit-1.2.10-py3-none-any.whl": [
+          "XO8R1ApbqlgXoqoyOcfapGYR2wQCReGE233Q6ThQM6I=",
+          "py3"
+        ]
+      }
+    },
     "1.2.2": {
       "sdist": [
         "DtLcxqrRrhv1EuLF8imPU4hZGoUdlsvTwxrsaU8X0OQ=",
@@ -53170,6 +53206,18 @@
         ]
       }
     },
+    "1.3.3": {
+      "sdist": [
+        "i8rulLoS4yKsC5RRQPzwrsp2yHNtlAWQK4d1+STyYu8=",
+        "flytekit-1.3.3.tar.gz"
+      ],
+      "wheels": {
+        "flytekit-1.3.3-py3-none-any.whl": [
+          "qXann4lQJ4c6PFipsHfBuOernOlE9Dx1KysWIAPt9jo=",
+          "py3"
+        ]
+      }
+    },
     "1.4.0": {
       "sdist": [
         "ECCdOSvxLOLA5wgZOea804rx6H5etmAj1FM8sNsTRng=",
@@ -53202,6 +53250,18 @@
       "wheels": {
         "flytekit-1.4.0b1-py3-none-any.whl": [
           "arNsfBT+wHMH5bKWxzn6ARimRYwUuZpHTjjMxNbdio8=",
+          "py3"
+        ]
+      }
+    },
+    "1.4.1": {
+      "sdist": [
+        "PvKhLjj0hb6CIXjMLCfF2pWH1InjbY/fsPc7eoaRIHA=",
+        "flytekit-1.4.1.tar.gz"
+      ],
+      "wheels": {
+        "flytekit-1.4.1-py3-none-any.whl": [
+          "MZT+/saI29eI2j/7pc7c4ZC9ZqY/UCZTwR9tcg1VLDk=",
           "py3"
         ]
       }
@@ -53798,6 +53858,18 @@
       "wheels": {
         "freakble-0.6.0-py3-none-any.whl": [
           "q4+uBrDYE5y2zqiG4MZ3YTYnlF7uM1Sr9UxYk3QYPq8=",
+          "py3"
+        ]
+      }
+    },
+    "0.6.1": {
+      "sdist": [
+        "D6KQG9AWs6iRes7TA6iRnuXdFfht9yWTkXavS8+pF5A=",
+        "freakble-0.6.1.tar.gz"
+      ],
+      "wheels": {
+        "freakble-0.6.1-py3-none-any.whl": [
+          "692p40lWEV0+nSwksB7infNiuTr7SfciG9Tl7q6jTN0=",
           "py3"
         ]
       }
@@ -138687,6 +138759,32 @@
           "py3"
         ]
       }
+    },
+    "2.5.0": {
+      "sdist": [
+        "IVJTd9kyRef6MOzdwt5EtW3E/LN01A9ZSmt7fY8Zvtg=",
+        "types-aiobotocore-apprunner-2.5.0.tar.gz"
+      ],
+      "wheels": {
+        "types_aiobotocore_apprunner-2.5.0-py3-none-any.whl": [
+          "1snqh+6Rcp8XJACli7+jzRwYLXGHiG06Im5wXx/6drs=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "types-aiobotocore-license-manager-linux-subscriptions": {
+    "2.5.0": {
+      "sdist": [
+        "sZOs70XXhH2ym0HbnGHO1Il5H5a7bDhySdx7fWgg+co=",
+        "types-aiobotocore-license-manager-linux-subscriptions-2.5.0.tar.gz"
+      ],
+      "wheels": {
+        "types_aiobotocore_license_manager_linux_subscriptions-2.5.0-py3-none-any.whl": [
+          "T9jASVRfc/UX/FxavzJ6sMY8QdlE6tAzuMKI52Tk3zw=",
+          "py3"
+        ]
+      }
     }
   },
   "udata-ods": {
@@ -149438,6 +149536,18 @@
       "wheels": {
         "yabte-0.3.2-py3-none-any.whl": [
           "BjvHzS5NmXBq4Truf2/rIzfE1Sis9nx/rVQXeO4y5sk=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.3": {
+      "sdist": [
+        "mNEu0kFEHsXC71pBE3Ov5z9YDdleSgGX1iMUU4SPay4=",
+        "yabte-0.3.3.tar.gz"
+      ],
+      "wheels": {
+        "yabte-0.3.3-py3-none-any.whl": [
+          "g1SePn9vd6ADzXSEC0juVFdGZ3gHyKfNCtnbtrTY5NM=",
           "py3"
         ]
       }

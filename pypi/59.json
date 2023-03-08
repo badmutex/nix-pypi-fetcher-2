@@ -8208,6 +8208,12 @@
         "attune-project-api-0.9.1.tar.gz"
       ]
     },
+    "0.9.10": {
+      "sdist": [
+        "Y4iWbRVgQIDYhkC3NERzzapwYjD4ZjhokWNqGdOu0dA=",
+        "attune-project-api-0.9.10.tar.gz"
+      ]
+    },
     "0.9.2": {
       "sdist": [
         "dYDnnJJs0PcVPQaPkHq2nS/x+pa/yD74R1/Atv6SFGM=",
@@ -79184,6 +79190,14 @@
         ]
       }
     },
+    "1.0.29": {
+      "wheels": {
+        "neuronsphere-1.0.29-py3-none-any.whl": [
+          "5AZzzmjGZGojeMZ4K2f8542zdjxl1lJ8Yt8+ZMJMYCM=",
+          "py3"
+        ]
+      }
+    },
     "1.0.3": {
       "wheels": {
         "neuronsphere-1.0.3-py3-none-any.whl": [
@@ -81196,6 +81210,20 @@
       "wheels": {
         "nonebot_plugin_directlinker-2.4.0-py3-none-any.whl": [
           "tjbJKWm8wSTSsceMuDxmlPUkOEPqINL+TNh4/rtV7YY=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "nonebot-plugin-tuan-chatgpt": {
+    "0.1.4": {
+      "sdist": [
+        "ESlkQspztdobG3F6dR9M+gpBdA9fjtzjEBqf6KWOv0s=",
+        "nonebot_plugin_tuan_chatgpt-0.1.4.tar.gz"
+      ],
+      "wheels": {
+        "nonebot_plugin_tuan_chatgpt-0.1.4-py3-none-any.whl": [
+          "zrjSZ53qBI4lhmSrxYa26nOGvWPhZrr/GjeSWGjEoLM=",
           "py3"
         ]
       }
@@ -103937,6 +103965,20 @@
       }
     }
   },
+  "pytekla": {
+    "0.1.0b0": {
+      "sdist": [
+        "dlj7pJUqZk+xCbTLkb26f5XrCbG2W/iWCTT6rPLOu7E=",
+        "pytekla-0.1.0b0.tar.gz"
+      ],
+      "wheels": {
+        "pytekla-0.1.0b0-py3-none-any.whl": [
+          "vgK86claxnkSJ1f46CNeDhycN9M0bFNdbnHJZ2tHh24=",
+          "py3"
+        ]
+      }
+    }
+  },
   "pytest-embedded-serial-esp": {
     "0.1.0": {
       "sdist": [
@@ -109198,6 +109240,26 @@
         ],
         "pyvex-9.2.40-py3-none-win_amd64.whl": [
           "tVzXd3WpPMidFtGmVJ7q3kqFXa3EBd5NBk1Tpx+IsGY=",
+          "py3"
+        ]
+      }
+    },
+    "9.2.41": {
+      "sdist": [
+        "NYNxuWvAvx5IW1gdWv+EF321yzUPaqFBRNKVwu4ogug=",
+        "pyvex-9.2.41.tar.gz"
+      ],
+      "wheels": {
+        "pyvex-9.2.41-py3-none-macosx_10_9_x86_64.whl": [
+          "izvlDoKgFvCChmVyume4uQbb9AcXepzL6NXT/ZP1wgw=",
+          "py3"
+        ],
+        "pyvex-9.2.41-py3-none-manylinux2014_x86_64.whl": [
+          "8S0h8ey0NDqj5Zldz2RVmAOOokQwUrMCLPM9R15rNN4=",
+          "py3"
+        ],
+        "pyvex-9.2.41-py3-none-win_amd64.whl": [
+          "0zZ19zeXN6IdEq8jkdaII6iSke9/GezxDwJ1U8HVIZk=",
           "py3"
         ]
       }
@@ -132577,6 +132639,14 @@
           "py2.py3"
         ]
       }
+    },
+    "5.0.2.dev774": {
+      "wheels": {
+        "stix_shifter_modules_carbonblack-5.0.2.dev774-py2.py3-none-any.whl": [
+          "tuLAKeLe6hP2RyQpaEVgKNR072sEjQZTZYhBN3t8WcM=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "stolpy": {
@@ -141665,6 +141735,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.845": {
+      "sdist": [
+        "KrVJWizLwobg8sxrxqmjnF65/S248jvurEAdX0SvNi4=",
+        "tencentcloud-sdk-python-vm-3.0.845.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_vm-3.0.845-py2.py3-none-any.whl": [
+          "oWOp+nNXoQpdvCWy1T3h6iWL7wSJgT4iZdR89LG5Jms=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tendenci-case-studies": {
@@ -148680,6 +148762,18 @@
       "wheels": {
         "types_aiobotocore_schemas-2.4.2.post2-py3-none-any.whl": [
           "Sq/plwNloaO5/S+Ofe35alUHNC47dDUrc62/PzVHBzA=",
+          "py3"
+        ]
+      }
+    },
+    "2.5.0": {
+      "sdist": [
+        "jjjWBc2Xe6Xl6BLTW2FY7kIFdQYzN2IRRZGO/cLEnbo=",
+        "types-aiobotocore-schemas-2.5.0.tar.gz"
+      ],
+      "wheels": {
+        "types_aiobotocore_schemas-2.5.0-py3-none-any.whl": [
+          "n1S5Oz1QwXfm1tPbGTJtqZOSp35JAuzT2Ffldt7m9OM=",
           "py3"
         ]
       }

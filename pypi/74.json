@@ -13150,6 +13150,18 @@
         ]
       }
     },
+    "0.1.1b20230309": {
+      "sdist": [
+        "p0iVps3BHvVXY/HVxY89Xdvcf2IxHnCx9qFPVWRFAiI=",
+        "autogluon.cloud-0.1.1b20230309.tar.gz"
+      ],
+      "wheels": {
+        "autogluon.cloud-0.1.1b20230309-py3-none-any.whl": [
+          "WzpD17LLq8eVohBBJUeZQQziXXD4egMmybdr2QOucmw=",
+          "py3"
+        ]
+      }
+    },
     "0.1b20221229": {
       "sdist": [
         "ETK2odII4rOCP1WhQsFyJ+5WWkhOgItWPTKq6uCY2WM=",
@@ -45038,6 +45050,54 @@
       "wheels": {
         "fastkafka-0.2.0rc0-py3-none-any.whl": [
           "MzWytkZ5TrxiAyWJkrmieEFO2dzDHRHAN1XBWuwYUYw=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.1": {
+      "sdist": [
+        "hMGhFLIoGt8hy+sfJ4Vt4pecUEhNtAUVhdEODMxL55I=",
+        "fastkafka-0.2.1.tar.gz"
+      ],
+      "wheels": {
+        "fastkafka-0.2.1-py3-none-any.whl": [
+          "K9e45cDgol+9EWTdiGAcoNYB1T//WxLMX/lggRGAa7s=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.2rc0": {
+      "sdist": [
+        "vzrddf06e1P+vMtVbwuEALw5nvMppblGVMswotBuMrI=",
+        "fastkafka-0.2.2rc0.tar.gz"
+      ],
+      "wheels": {
+        "fastkafka-0.2.2rc0-py3-none-any.whl": [
+          "iU21aLHcuBbnTKGYIaw5FyX2XwJpgxqYuSVdmk+S77M=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.2rc1": {
+      "sdist": [
+        "foTL3xAvUqtv23QZhvW5eq1WSpzvKYiupUr8LIOr6DI=",
+        "fastkafka-0.2.2rc1.tar.gz"
+      ],
+      "wheels": {
+        "fastkafka-0.2.2rc1-py3-none-any.whl": [
+          "gY9Rd68uWDM/72UCvYkIX1e0ebJVsHhtt3ZX04VLKYs=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.2rc2": {
+      "sdist": [
+        "hJASPqf1NZgqTsXPqKnC5XGR/iCMPBNB29ry3e9lwrs=",
+        "fastkafka-0.2.2rc2.tar.gz"
+      ],
+      "wheels": {
+        "fastkafka-0.2.2rc2-py3-none-any.whl": [
+          "MfJn6BLfFqWU13jsxX45haY19VH5DMeCq2HkWB0kQU4=",
           "py3"
         ]
       }
@@ -95313,6 +95373,16 @@
       }
     }
   },
+  "odoo-addon-account-portal-invoice-search": {
+    "15.0.1.0.0.2": {
+      "wheels": {
+        "odoo_addon_account_portal_invoice_search-15.0.1.0.0.2-py3-none-any.whl": [
+          "R8W9P9lLr7Dfgo4mNs3uNWezpTDqyhw3HBDOki1/sUU=",
+          "py3"
+        ]
+      }
+    }
+  },
   "odoo-addon-project-parent-task-filter": {
     "15.0.1.0.0.2": {
       "wheels": {
@@ -118304,6 +118374,12 @@
       "sdist": [
         "O+3bJA0HipdW9Pa9nDwOs0R6bGKOqmhO9oj+Gxnfg4c=",
         "pyPhasesML-0.2.8.tar.gz"
+      ]
+    },
+    "0.3.0": {
+      "sdist": [
+        "x7lOPwa8SgcOvBTOxEcjfckVYqbtXpVyWpdJ2ySx7KE=",
+        "pyPhasesML-0.3.0.tar.gz"
       ]
     }
   },
@@ -148545,6 +148621,30 @@
         "Vac4UI3IV7P3D4deFtAVhZS5V9XW3A2UCoYav+klke4=",
         "typedb-protocol-2.14.1.tar.gz"
       ]
+    },
+    "2.16.0": {
+      "sdist": [
+        "r69AMCfsC0vmRBC1am9sWKoVWsugLORNvnJuxjeX2O8=",
+        "typedb-protocol-2.16.0.tar.gz"
+      ],
+      "wheels": {
+        "typedb_protocol-2.16.0-py3-none-any.whl": [
+          "yRQ36W7+vA4qO/Rke5b9oZyAwypPXHzQ2+wftQ9shBE=",
+          "py3"
+        ]
+      }
+    },
+    "2.16.1": {
+      "sdist": [
+        "Oa60+v5hOYK5Jcm52fr/Auk6bUahLwwsLZC8EUNcOo8=",
+        "typedb-protocol-2.16.1.tar.gz"
+      ],
+      "wheels": {
+        "typedb_protocol-2.16.1-py3-none-any.whl": [
+          "ekuybWZSd4FFi52D2ipAba2W/OOrjbGVJeYsWzSXx5E=",
+          "py3"
+        ]
+      }
     },
     "2.2.0": {
       "sdist": [

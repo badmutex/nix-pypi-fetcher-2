@@ -6132,6 +6132,18 @@
         ]
       }
     },
+    "4.17.0": {
+      "sdist": [
+        "GOfWXLpMkjxWLHyh/3uZQJBmTBP7YL+FuOEVGpGcbdE=",
+        "archimedes_python_client-4.17.0.tar.gz"
+      ],
+      "wheels": {
+        "archimedes_python_client-4.17.0-py3-none-any.whl": [
+          "3ras067QjUJ78xQeN0X80gIGoAcneIR8072oLvLwZuw=",
+          "py3"
+        ]
+      }
+    },
     "4.2.0": {
       "sdist": [
         "YxYkKhphWnOJHwgKcUQRLHzoBsD/Tsnt0JIHRgEAVEg=",
@@ -17962,6 +17974,18 @@
       "wheels": {
         "bbot-1.0.5.1313rc0-py3-none-any.whl": [
           "UWFvR7/ATddDs23JQ7RwDxXTcetvI5lUCOmhx7OGivQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.5.1317rc0": {
+      "sdist": [
+        "8GNx7icduFSN21XXK6AlxI0xCu22iiOwrw2KkY6APUE=",
+        "bbot-1.0.5.1317rc0.tar.gz"
+      ],
+      "wheels": {
+        "bbot-1.0.5.1317rc0-py3-none-any.whl": [
+          "kJY2XTl6CGf9Ai1QkNgqNppGWhH/x0CoWtHP/SiaKgw=",
           "py3"
         ]
       }
@@ -68514,6 +68538,14 @@
         ]
       }
     },
+    "3.1.30": {
+      "wheels": {
+        "huaweicloudsdkcloudpipeline-3.1.30-py2.py3-none-any.whl": [
+          "sA5k+sG7BSNVBCJzS+YESqamfdZB+EZ/PxnvnZ42DQk=",
+          "py2.py3"
+        ]
+      }
+    },
     "3.1.4": {
       "wheels": {
         "huaweicloudsdkcloudpipeline-3.1.4-py2.py3-none-any.whl": [
@@ -81545,6 +81577,42 @@
           "py2.py3"
         ]
       }
+    },
+    "0.8.0": {
+      "sdist": [
+        "MwwMT7rhXMGayYiqS/7cwHe1cNkoXvwGhqznuz7rsaw=",
+        "lnschema_bionty-0.8.0.tar.gz"
+      ],
+      "wheels": {
+        "lnschema_bionty-0.8.0-py2.py3-none-any.whl": [
+          "L+U3/0I5gy4If8ZiqV5Up5rQJCpSnADsN5U26JG/ceE=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.8.0rc1": {
+      "sdist": [
+        "Uvq4RasnrWVrmCi5If2ZPCJl6gFKH6fvZAYi9dCLeq8=",
+        "lnschema_bionty-0.8.0rc1.tar.gz"
+      ],
+      "wheels": {
+        "lnschema_bionty-0.8.0rc1-py2.py3-none-any.whl": [
+          "5p9AY34YLlUKQQHMVcZWV/HxN1fUPsXO70HWlB2dFvM=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.8.0rc2": {
+      "sdist": [
+        "ipjG29rqmy24XbrwJkwhlXJZJFgUjvTmVP5gv6/soY0=",
+        "lnschema_bionty-0.8.0rc2.tar.gz"
+      ],
+      "wheels": {
+        "lnschema_bionty-0.8.0rc2-py2.py3-none-any.whl": [
+          "zR3bESPdY0Yw3PVmzxePPey02FNejVn/90k0C6aycEU=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "lobster-3dengine": {
@@ -82571,6 +82639,20 @@
       ]
     }
   },
+  "mango": {
+    "0.0.1": {
+      "sdist": [
+        "uzDdwX4PkBzLpLdJBy7PDieOoof4/y1eMEChtnfL+v8=",
+        "mango-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "mango-0.0.1-py3-none-any.whl": [
+          "DfqAEAVcpSKmA+sMojKNWTDqBYuw7JToDkAYf5o4DuI=",
+          "py3"
+        ]
+      }
+    }
+  },
   "mapreducelib": {
     "66.0.0": {
       "sdist": [
@@ -83466,6 +83548,30 @@
       "wheels": {
         "mecord_cli-0.1.2-py3-none-any.whl": [
           "Yc+DU04YqkLDhRyoZpCrNy+cVmJkk/bL3xkmH37COL4=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.3": {
+      "sdist": [
+        "PL8SgoYcsYzqCu2RPW+e3IFZ34Ebkiyo0h3egS+i67w=",
+        "mecord-cli-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "mecord_cli-0.1.3-py3-none-any.whl": [
+          "KE5+xVtSzn9dHrAX3ya6NJ28Dhq1saKt82kzQMXyOYg=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.4": {
+      "sdist": [
+        "qfKk2H06YCY86Bdch2Qafnb2gnBx0PsCwCCEKMM6LWk=",
+        "mecord-cli-0.1.4.tar.gz"
+      ],
+      "wheels": {
+        "mecord_cli-0.1.4-py3-none-any.whl": [
+          "7EY3rTO/cMdUlT6AXL9rjQv7R37lv6oGHgKxMiVuulI=",
           "py3"
         ]
       }
@@ -94337,6 +94443,14 @@
           "py2.py3"
         ]
       }
+    },
+    "1.1.8b20230309": {
+      "wheels": {
+        "multi_model_server-1.1.8b20230309-py2.py3-none-any.whl": [
+          "R6jgfJur4DAulOtneiTEhEZMKjoDMV4BuxXPDRnnTiE=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "multiple-permissions": {
@@ -104339,6 +104453,14 @@
           "py2"
         ]
       }
+    },
+    "9.0.1.0.0.99.dev38": {
+      "wheels": {
+        "odoo9_addon_l10n_it_ddt-9.0.1.0.0.99.dev38-py2-none-any.whl": [
+          "2sN0WE8er1oInsNlO8o3VLSImE8LkfBItmOkDBLN4JA=",
+          "py2"
+        ]
+      }
     }
   },
   "odoo9-addon-mgmtsystem-probability": {
@@ -106742,6 +106864,18 @@
         "Orange3-ImageAnalytics-0.1.9.tar.gz"
       ]
     },
+    "0.10.0": {
+      "sdist": [
+        "v9xwXklOKZqwG63stV/CRUY9H/dlK6BL7b3B7JUIzAw=",
+        "Orange3-ImageAnalytics-0.10.0.tar.gz"
+      ],
+      "wheels": {
+        "Orange3_ImageAnalytics-0.10.0-py3-none-any.whl": [
+          "w6cpCyIq1H9UQIt4FjIencQmv1yw4C8mRo39FO/5HdI=",
+          "py3"
+        ]
+      }
+    },
     "0.2.0": {
       "sdist": [
         "LxfH30VjYWPJ39DPMjFfobc6k8lO0GlUPGAdAv1Bd+Y=",
@@ -107394,6 +107528,18 @@
       "wheels": {
         "osef-2.7.0-py3-none-any.whl": [
           "ex1FZSU1FNmNp30/j5Hk2h+FNdQWrL03J4smUw+JzsI=",
+          "py3"
+        ]
+      }
+    },
+    "2.8.0": {
+      "sdist": [
+        "Vkc0fnDILNhdsghjxf/gdk9PInKEGv6yXuMqjLj+HVA=",
+        "osef-2.8.0.tar.gz"
+      ],
+      "wheels": {
+        "osef-2.8.0-py3-none-any.whl": [
+          "o/lVpUQEBYxXcqNm2dGNZ4fmEl/RgexraB8K5iJj/B4=",
           "py3"
         ]
       }

@@ -35474,6 +35474,12 @@
         "databricks-connect-10.4.21.tar.gz"
       ]
     },
+    "10.4.22": {
+      "sdist": [
+        "C2lLLCZKuP44Cvabw2Xl+3MUYWzMxqk2Go4yqAKnqHU=",
+        "databricks-connect-10.4.22.tar.gz"
+      ]
+    },
     "10.4.6": {
       "sdist": [
         "Dezqn6rZysRhDQFUuTgXdoJL9dn21Bx2QlryBG9MtR0=",
@@ -35496,6 +35502,12 @@
       "sdist": [
         "kAUBA9V1st5UxXihrXQjyk+1ahsum/VEcNfDK1he/Pc=",
         "databricks-connect-11.3.6.tar.gz"
+      ]
+    },
+    "11.3.7": {
+      "sdist": [
+        "8zicz5FoFV0vNGep6LbWSDSUxudvrbiBbigO9IWgHaw=",
+        "databricks-connect-11.3.7.tar.gz"
       ]
     },
     "5.5.3": {
@@ -35546,12 +35558,6 @@
         "databricks-connect-7.3.47.tar.gz"
       ]
     },
-    "7.3.48": {
-      "sdist": [
-        "+Hp0gL9dvtWYwPuKbOSB5D/6wh+ONpeVG3g5oa+kuBc=",
-        "databricks-connect-7.3.48.tar.gz"
-      ]
-    },
     "7.3.49": {
       "sdist": [
         "mORC/xaMwux3ZUGtyW6tW4AxjGICBG3xM+PQReVdv1Q=",
@@ -35574,6 +35580,12 @@
       "sdist": [
         "47T2/t6iUltjKQKADO3z/LmQTFMGp2R5un0wpcyLTI4=",
         "databricks-connect-7.3.58.tar.gz"
+      ]
+    },
+    "7.3.59": {
+      "sdist": [
+        "M77GFtDn/JPJ1dEPHQ8aY+OmnSQCgPDfe7L1wKJNTIM=",
+        "databricks-connect-7.3.59.tar.gz"
       ]
     },
     "8.1.11": {
@@ -35658,6 +35670,12 @@
       "sdist": [
         "+fWe8E058X9JOhnuuyk1jlSCokaSoIociRuWQa6+Gn8=",
         "databricks-connect-9.1.33.tar.gz"
+      ]
+    },
+    "9.1.34": {
+      "sdist": [
+        "h55lNKuxdCVNFJ31HiSP7vQlNG4Igiwi/xqEakiSM8M=",
+        "databricks-connect-9.1.34.tar.gz"
       ]
     },
     "9.1.8": {
@@ -41931,6 +41949,14 @@
           "3.5"
         ]
       }
+    }
+  },
+  "dj-two-factor-social-auth": {
+    "0.1.2": {
+      "sdist": [
+        "QSJW8utk/poBfE9MdgLntZurpUTEmJaxscdLkMDANXg=",
+        "dj-two-factor-social-auth-0.1.2.tar.gz"
+      ]
     }
   },
   "django-actualities": {
@@ -69900,6 +69926,14 @@
         ]
       }
     },
+    "3.1.30": {
+      "wheels": {
+        "huaweicloudsdkcodehub-3.1.30-py2.py3-none-any.whl": [
+          "llN65My0LlAXnGQJr7C0sRRa4qOnLSvdtXYSfIxTJxs=",
+          "py2.py3"
+        ]
+      }
+    },
     "3.1.4": {
       "wheels": {
         "huaweicloudsdkcodehub-3.1.4-py2.py3-none-any.whl": [
@@ -97205,6 +97239,14 @@
           "py3"
         ]
       }
+    },
+    "16.0.1.0.0.2": {
+      "wheels": {
+        "odoo_addon_sale_automatic_workflow_payment_mode-16.0.1.0.0.2-py3-none-any.whl": [
+          "N5K59WSfjh6257j8yoGxmX5NMRvxo4t/5y/ElDHR/i8=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo-addon-stock-picking-report-undelivered-product": {
@@ -117990,6 +118032,16 @@
       "wheels": {
         "pyhashlookup-1.2.1-py3-none-any.whl": [
           "SJU+2hAri1eRavrpaIOGKbc2Qugm9TFtDqMXblCKw2o=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "pyiceberg-jdbc": {
+    "0.1.0": {
+      "wheels": {
+        "pyiceberg_jdbc-0.1.0-py3-none-any.whl": [
+          "rcUnVlQu4JJShw5liGv2KXIanUheeg7rXiwYTeffv78=",
           "py3"
         ]
       }
@@ -149530,6 +149582,14 @@
       "wheels": {
         "torch_model_archiver_nightly-2023.3.8-py3-none-any.whl": [
           "SSxGF67WVbDiT52oUyYF50gweelbdpO6BzCXAAPAbj0=",
+          "py3"
+        ]
+      }
+    },
+    "2023.3.9": {
+      "wheels": {
+        "torch_model_archiver_nightly-2023.3.9-py3-none-any.whl": [
+          "xcufoedxPKqH9mF6jBO6lOY2zxkX4NX1HOOu+Sr3dCA=",
           "py3"
         ]
       }

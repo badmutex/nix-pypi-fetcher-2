@@ -8838,6 +8838,18 @@
         ]
       }
     },
+    "1.196.0": {
+      "sdist": [
+        "PKyi8twfVWzYMUtFp9OLaGQnRCYFbpFzWtu1waYIenY=",
+        "aws-cdk.aws-ce-1.196.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_ce-1.196.0-py3-none-any.whl": [
+          "69t/qeCU2kQcORhENtLtUwI9sRw96LR3phkOus22xI0=",
+          "py3"
+        ]
+      }
+    },
     "1.36.1": {
       "sdist": [
         "/mSjT9CLHoSTSpJ7v14G4C3BXJWcfJLoyRzdN6Aw+8o=",
@@ -10960,6 +10972,18 @@
       "wheels": {
         "aws_cdk.aws_kinesisanalytics_flink_alpha-2.67.0a0-py3-none-any.whl": [
           "ZDfh3hXv2yub5yuL6+pXCd1dv9JQbvie0ZDxzgYp5Jo=",
+          "py3"
+        ]
+      }
+    },
+    "2.68.0a0": {
+      "sdist": [
+        "+pSz0QzIZbphMcMnW5Rw1tT0pu72s7TbtrDM+3HGt5w=",
+        "aws-cdk.aws-kinesisanalytics-flink-alpha-2.68.0a0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_kinesisanalytics_flink_alpha-2.68.0a0-py3-none-any.whl": [
+          "jvbLCVr1b4zucZOrqAu9/Sb/GmlOsJeA9YX5XGsp8Ls=",
           "py3"
         ]
       }
@@ -17627,6 +17651,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.87": {
+      "sdist": [
+        "edYZyE94+lxi+DTh5qjtVlsjpHezWp3zLY14P+7/Jc4=",
+        "botocore-a-la-carte-iotthingsgraph-1.29.87.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_iotthingsgraph-1.29.87-py3-none-any.whl": [
+          "JkHbikiX0MvaHMmg4vbO0+LMQTW6LnqIDpWEwpul698=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-xray": {
@@ -18166,6 +18202,18 @@
       "wheels": {
         "botocore_a_la_carte_xray-1.29.86-py3-none-any.whl": [
           "EzilsPGcgNi3xOsMNQMqhhNUtUg+dCtDRwbg7HAl51g=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.87": {
+      "sdist": [
+        "TeomA2lOFjetNFFzZrmfflyyAF0A5/B7C90Fle/Ex3c=",
+        "botocore-a-la-carte-xray-1.29.87.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_xray-1.29.87-py3-none-any.whl": [
+          "8a54Im5aU82JoPnOtR2lVdhi70lZd2dQuO1G7GPpkgg=",
           "py3"
         ]
       }
@@ -39428,6 +39476,14 @@
       "wheels": {
         "datasette_sqlite_fastrand-0.2.1a2-py3-none-any.whl": [
           "1mT6ptqkhEYOrCUrsytZqpS6hvxbVBY/2XxsbCQGzUU=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.1a3": {
+      "wheels": {
+        "datasette_sqlite_fastrand-0.2.1a3-py3-none-any.whl": [
+          "lPgs1ZiGtoxr1eTGuC1jMZHpk1hZ8bc0p+2Q337NgfA=",
           "py3"
         ]
       }
@@ -123959,6 +124015,14 @@
       ]
     }
   },
+  "robopanda": {
+    "0.0.1": {
+      "sdist": [
+        "kK9IQuo3/PKrXm3JoFOkcgUug0lWfU1R9ZX5LYDGCgU=",
+        "robopanda-0.0.1.tar.gz"
+      ]
+    }
+  },
   "robot-speech-to-text": {
     "0.0.1": {
       "sdist": [
@@ -125500,6 +125564,12 @@
       "sdist": [
         "Rd4mVdy24D39Ww1obl0UIJ4KkTro3tk8ItJFiIOoAcQ=",
         "sabia-utils-0.1.0.tar.gz"
+      ]
+    },
+    "0.1.1": {
+      "sdist": [
+        "niBdXj0/I2LpdCUhrP33g8nNuByjT2XiYWCvdLjTkYc=",
+        "sabia-utils-0.1.1.tar.gz"
       ]
     }
   },
@@ -141524,6 +141594,18 @@
       "wheels": {
         "tencentcloud_sdk_python_mna-3.0.845-py2.py3-none-any.whl": [
           "ZyQajrADladQXhDkzvil3vz1iRzbkK/iua+OXEkaj9M=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.846": {
+      "sdist": [
+        "q1HHOmNslsxw8THVgOuzSUMhC6MaEw2aqKrCFKAkDpI=",
+        "tencentcloud-sdk-python-mna-3.0.846.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_mna-3.0.846-py2.py3-none-any.whl": [
+          "T/4fe5PoJVn9hzUTqlBbEA7OQ5CB4ALuQUxRLq9hmK0=",
           "py2.py3"
         ]
       }

@@ -8491,6 +8491,18 @@
           "py3"
         ]
       }
+    },
+    "2.68.0a0": {
+      "sdist": [
+        "CUH2qUF7StGiJ+/B6lZhm4PglloUcHF0livSsrPj4gE=",
+        "aws-cdk.aws-sagemaker-alpha-2.68.0a0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_sagemaker_alpha-2.68.0a0-py3-none-any.whl": [
+          "BQ0DAACSrVQC144fIYI4oy5XK3rn/vZ7gxsYgHGBETs=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-cdk.aws-workspaces": {
@@ -10206,6 +10218,18 @@
       "wheels": {
         "aws_cdk.aws_workspaces-1.195.0-py3-none-any.whl": [
           "tI02thrrMXPrInzPFAWqoYUS5mQu2gOfZVJqGi/FCtM=",
+          "py3"
+        ]
+      }
+    },
+    "1.196.0": {
+      "sdist": [
+        "+6BTNfRSikdoNByiTcosM3SZeWDDCebSElOssCqi4qU=",
+        "aws-cdk.aws-workspaces-1.196.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_workspaces-1.196.0-py3-none-any.whl": [
+          "4e/70y9uqm0rMoSREXIkMolv4iMaoexd5pBDdGNGzNY=",
           "py3"
         ]
       }
@@ -19045,6 +19069,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.87": {
+      "sdist": [
+        "FCZTgLQXXFkjxt+SIVIMcDznIHGm1x/RmbHLb/0d+Tw=",
+        "botocore-a-la-carte-internetmonitor-1.29.87.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_internetmonitor-1.29.87-py3-none-any.whl": [
+          "t7tCeCWRKFuA9d7/X68lynxb9b6USFuCsWzZF/734j4=",
+          "py3"
+        ]
+      }
     }
   },
   "bottle-cql": {
@@ -25076,6 +25112,18 @@
       "wheels": {
         "cdk_hugo_deploy-0.0.182-py3-none-any.whl": [
           "47KuyNBxzgBpXeonHEqG/zpxkT19H4FXYxKGu1oWqhU=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.183": {
+      "sdist": [
+        "AcVPO7saY1p8RtpIklndllWWdm3JLF9noFAEvg6MjCc=",
+        "cdk-hugo-deploy-0.0.183.tar.gz"
+      ],
+      "wheels": {
+        "cdk_hugo_deploy-0.0.183-py3-none-any.whl": [
+          "tZgPVqP4+gag7PhWaYvx0WyU9b2WWzf6sAr/l9+bqQc=",
           "py3"
         ]
       }
@@ -123238,30 +123286,22 @@
         ]
       }
     },
-    "6.4.13": {
+    "6.4.15": {
       "wheels": {
-        "quarkstudio-6.4.13-cp310-cp310-macosx_10_9_universal2.whl": [
-          "/nsNAnhmfQLJvXcxVkcZZwf4pi0991U7Ujohzds3qHc=",
+        "quarkstudio-6.4.15-cp310-cp310-manylinux1_x86_64.whl": [
+          "DCJywbiP5s/Tjmv2EghGF6eee6DCbXJsK2SbMex7yB4=",
           "cp310"
         ],
-        "quarkstudio-6.4.13-cp310-cp310-manylinux1_x86_64.whl": [
-          "8aE7sWsdq2X4uTW9h9fF9mVYFL9o/OJa5zSx4AYyPyE=",
+        "quarkstudio-6.4.15-cp310-cp310-win_amd64.whl": [
+          "Rxtby4YAnAKTGyDEIyv3KlogDVfZSvzB0VtokbBQvSk=",
           "cp310"
         ],
-        "quarkstudio-6.4.13-cp310-cp310-win_amd64.whl": [
-          "KxSblhGe8OMG/CPUYK0EbGUkyFcbT4b9u/PTUbA4pTE=",
-          "cp310"
-        ],
-        "quarkstudio-6.4.13-cp311-cp311-macosx_10_9_universal2.whl": [
-          "wARavklxH9WssSBHxGFL/YwGsnOyPn1ZQqEJykdqoWc=",
+        "quarkstudio-6.4.15-cp311-cp311-manylinux1_x86_64.whl": [
+          "tQr2Cj4COABaNQyZ9VHMzk4sn3+LPWC5BipQTpgQT3Y=",
           "cp311"
         ],
-        "quarkstudio-6.4.13-cp311-cp311-manylinux1_x86_64.whl": [
-          "LTDwPWX06CSRWtecG0u1p7mKZeMA7PaKoGe7Y+8XMfY=",
-          "cp311"
-        ],
-        "quarkstudio-6.4.13-cp311-cp311-win_amd64.whl": [
-          "qlThnvMKKOvoxht20Mlvf8qG1GAK31wT3lE41PtQWLY=",
+        "quarkstudio-6.4.15-cp311-cp311-win_amd64.whl": [
+          "7e+81vQK/FHJUE2b0TfWrt5d0sSCMrcWIi3EttyK5e4=",
           "cp311"
         ]
       }

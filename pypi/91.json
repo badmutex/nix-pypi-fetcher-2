@@ -7446,6 +7446,18 @@
         ]
       }
     },
+    "1.196.0": {
+      "sdist": [
+        "/ltujyzaCZwueodV5g9Ps1iNSyUS4HhKHbKdm2jnqYk=",
+        "aws-cdk.aws-iotwireless-1.196.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_iotwireless-1.196.0-py3-none-any.whl": [
+          "f3UJmRhEpSFOUdYeEq0S0OTocfOkXoydISjkB6qW/QI=",
+          "py3"
+        ]
+      }
+    },
     "1.83.0": {
       "sdist": [
         "315sXFQZeNo9bjzF3uZTKNVIWYH/RyqGDDnRm23xl4w=",
@@ -71548,10 +71560,10 @@
     }
   },
   "monotonic-align": {
-    "0.0.3": {
+    "1.0.0": {
       "sdist": [
-        "nEsJIpiV62fvnKxM7DDEK8WvO7KXsTwNC/dwq3w6epQ=",
-        "monotonic_align-0.0.3.tar.gz"
+        "EL7Sz29fPKtxbR0UBkzuTHWc0G4OumPRmTBvDGg5/7E=",
+        "monotonic_align-1.0.0.tar.gz"
       ]
     }
   },
@@ -117452,6 +117464,12 @@
         "pytest-girder-3.1.16.dev8.tar.gz"
       ]
     },
+    "3.1.17": {
+      "sdist": [
+        "K2lGj2IZd0jBc1hR/zORwZ/2zP03FhYJa/qvjMv/yqU=",
+        "pytest-girder-3.1.17.tar.gz"
+      ]
+    },
     "3.1.17.dev11": {
       "sdist": [
         "ioIZgYX+mj1cuT3l6gEZ0VX05yIKKkvZy6qGTGMXvSk=",
@@ -143917,6 +143935,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.846": {
+      "sdist": [
+        "AollODrPRM64aBrp+9l9TmF2HsyjMPao8onRP/cjs04=",
+        "tencentcloud-sdk-python-mps-3.0.846.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_mps-3.0.846-py2.py3-none-any.whl": [
+          "NSuYXZYKdUforYBEpb6jYHYH9FRGmrlC2za5ZFrYAMU=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tensor-print": {
@@ -149806,6 +149836,20 @@
       "wheels": {
         "types_aiobotocore_pinpoint_sms_voice_v2-2.5.0-py3-none-any.whl": [
           "5AjjfXeluUhITxdjH9drFbvrvKc7onww6YOpO15+0qQ=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "types-aiobotocore-simspaceweaver": {
+    "2.5.0": {
+      "sdist": [
+        "ICeJkpnTsszqVoeenFm6Uk58LVVrTy/Nw3YfMw/7jnM=",
+        "types-aiobotocore-simspaceweaver-2.5.0.tar.gz"
+      ],
+      "wheels": {
+        "types_aiobotocore_simspaceweaver-2.5.0-py3-none-any.whl": [
+          "A7vs21VCZwCVT5ZlXkq9dhUqd42nio2ZXAw7hNa6HXc=",
           "py3"
         ]
       }

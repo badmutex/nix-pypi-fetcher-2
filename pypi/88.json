@@ -4120,58 +4120,30 @@
         ]
       }
     },
-    "2.8.0": {
+    "2.8.6": {
       "wheels": {
-        "anyon-2.8.0-cp310-cp310-macosx_10_9_universal2.whl": [
-          "ki7J88NLbWjjbrzfVYewV14slNdRiAHDuEtlPPVhjBY=",
+        "anyon-2.8.6-cp310-cp310-macosx_10_9_universal2.whl": [
+          "xM6oI9wn98l4K5cf+m4aZdx4YFS0PCR7sgL3Is6O9V0=",
           "cp310"
         ],
-        "anyon-2.8.0-cp310-cp310-manylinux1_x86_64.whl": [
-          "uakbpr8z21Rk10oZ9tubBR5Bas31opeX/Y0qgPWQzlQ=",
+        "anyon-2.8.6-cp310-cp310-manylinux1_x86_64.whl": [
+          "ayyxoo5dskRTkuQenl0SZdseXSoL8XswrMnGsg7FUik=",
           "cp310"
         ],
-        "anyon-2.8.0-cp310-cp310-win_amd64.whl": [
-          "QeFUGmjQnd4gzVFdeALdpaU5WMt40aK/6go1TRfPDrA=",
+        "anyon-2.8.6-cp310-cp310-win_amd64.whl": [
+          "RRB6TmfiqrrhR4v85edzMJEx1t5snnEy2x8f/3exyco=",
           "cp310"
         ],
-        "anyon-2.8.0-cp311-cp311-macosx_10_9_universal2.whl": [
-          "WXX64rj7AltdIpHEAojGuyPUZ7boSz/QKnx+JIpJwF8=",
+        "anyon-2.8.6-cp311-cp311-macosx_10_9_universal2.whl": [
+          "Yz3emt1qNtLxkmort+qaENLBxLEEWLURvkrgkOOVBwA=",
           "cp311"
         ],
-        "anyon-2.8.0-cp311-cp311-manylinux1_x86_64.whl": [
-          "CQ14o+rlEBVnfkcfFP4RfJzJl4bmQaGb9xJwEdZJsOc=",
+        "anyon-2.8.6-cp311-cp311-manylinux1_x86_64.whl": [
+          "F0q8/KofUZz8i3GWNo93KU8xGk8S1WIjh7rSU8GDA+Q=",
           "cp311"
         ],
-        "anyon-2.8.0-cp311-cp311-win_amd64.whl": [
-          "Cw8fPc82nd5sqtHKN1sJ6Yb0STVSsKQcmwKolt/nXDY=",
-          "cp311"
-        ]
-      }
-    },
-    "2.8.5": {
-      "wheels": {
-        "anyon-2.8.5-cp310-cp310-macosx_10_9_universal2.whl": [
-          "1Ok9fPsGod8C5QrTYdDPkENU2AM8VsIRUGZZOeNaCZg=",
-          "cp310"
-        ],
-        "anyon-2.8.5-cp310-cp310-manylinux1_x86_64.whl": [
-          "WcS7ivi3GrA+TKJkk0yhZ1pPh04VlUinLFmS9SPATf4=",
-          "cp310"
-        ],
-        "anyon-2.8.5-cp310-cp310-win_amd64.whl": [
-          "1aqpVoHw0u67IHBUNISgfQckzrLcMg/z+as9e9DlFk0=",
-          "cp310"
-        ],
-        "anyon-2.8.5-cp311-cp311-macosx_10_9_universal2.whl": [
-          "MMJ2pgTJoA9L2SeK45brxz+Gul8YmuWbFtdtwQO9pkY=",
-          "cp311"
-        ],
-        "anyon-2.8.5-cp311-cp311-manylinux1_x86_64.whl": [
-          "L6a47O4AzrJ5EaGruYVI9BYOeoJLdnJCIjsRT7yXB7M=",
-          "cp311"
-        ],
-        "anyon-2.8.5-cp311-cp311-win_amd64.whl": [
-          "LXpE9In5mNPpvfNlKj2eWXGzZKDPx/OsCAMys2xQK/E=",
+        "anyon-2.8.6-cp311-cp311-win_amd64.whl": [
+          "Yf16W+/UdYgobLsT+kkL+mfGgDpnExZZfyJyTS9WsDY=",
           "cp311"
         ]
       }
@@ -6705,6 +6677,18 @@
           "py3"
         ]
       }
+    },
+    "1.3.0": {
+      "sdist": [
+        "3K4sUIoMMDyeToTvfw7qMQySgDKnXO69kZbBEEzsTlk=",
+        "auto-group-1.3.0.tar.gz"
+      ],
+      "wheels": {
+        "auto_group-1.3.0-py3-none-any.whl": [
+          "Uvu+ut1NwoNFnWy9iyUTxuWJwhfPNb/cP2uuzmD9cV8=",
+          "py3"
+        ]
+      }
     }
   },
   "auto-pacing": {
@@ -8488,6 +8472,18 @@
       "wheels": {
         "backend.ai_plugin-22.9.16-py3-none-any.whl": [
           "TU3u8/Y2rH4r1a0j0ZHzx2w7RIH8JSpWnhUNxc9LIOc=",
+          "py3"
+        ]
+      }
+    },
+    "22.9.17": {
+      "sdist": [
+        "zdz0fnZ+btHu4TyZ7IEJe5hQ3SmQNQvbcb90/S5rNBk=",
+        "backend.ai-plugin-22.9.17.tar.gz"
+      ],
+      "wheels": {
+        "backend.ai_plugin-22.9.17-py3-none-any.whl": [
+          "ZdMfkBd3MEnglMtzB428KzPQtTbEmS2Ujk7DNiTGjGo=",
           "py3"
         ]
       }
@@ -11222,6 +11218,18 @@
       "wheels": {
         "botocore_a_la_carte_firehose-1.29.86-py3-none-any.whl": [
           "f2WcI9sfx7EGBjkhz0pRQ4/Nx6Zl4uzymBgKk93NmCk=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.87": {
+      "sdist": [
+        "Tu2G7L0G0oE7WIJdcjUmvGv+U2Y5xhO9rYcplzYhgz4=",
+        "botocore-a-la-carte-firehose-1.29.87.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_firehose-1.29.87-py3-none-any.whl": [
+          "IU3M2CutxYpzuiqgh3Tb/L3SU+/Gw0ExjnAp1fPq3cw=",
           "py3"
         ]
       }
@@ -16570,6 +16578,30 @@
       "wheels": {
         "codespell-2.2.2-py3-none-any.whl": [
           "h9/Nm9ybPLiwZ7N/CvIgRNeoTigXSt/I6qIDBWt/nsw=",
+          "py3"
+        ]
+      }
+    },
+    "2.2.3": {
+      "sdist": [
+        "X06ysR+4SPAMA7KjVFdzC6j4xdco11J1wbR1gBQ3nbQ=",
+        "codespell-2.2.3.tar.gz"
+      ],
+      "wheels": {
+        "codespell-2.2.3-py3-none-any.whl": [
+          "O801isymesv8j2XxllJ3RGgVYYCPKt+uU+MEVA4s+LI=",
+          "py3"
+        ]
+      }
+    },
+    "2.2.4": {
+      "sdist": [
+        "C0YgRzwlfZzeH/iZiyayuyCaNcK3SJ9dw0NgJCmM6Do=",
+        "codespell-2.2.4.tar.gz"
+      ],
+      "wheels": {
+        "codespell-2.2.4-py3-none-any.whl": [
+          "fZhLgTAQjm+CUkt9Cfi3vy+x45jF1LN9nivTEBRbPik=",
           "py3"
         ]
       }
@@ -40700,6 +40732,18 @@
       "wheels": {
         "fiduswriter_ojs-3.11.3-py3-none-any.whl": [
           "dspvq2nIsDh2VRuYZVretgVjrl7K9q8LaJFNXpVDgKM=",
+          "py3"
+        ]
+      }
+    },
+    "3.11.4": {
+      "sdist": [
+        "bUOlBibe28GgsrK73ncQ93b52byviiKeuK7RvWjwlFE=",
+        "fiduswriter-ojs-3.11.4.tar.gz"
+      ],
+      "wheels": {
+        "fiduswriter_ojs-3.11.4-py3-none-any.whl": [
+          "U4BehEqUMaEbD7y0KcxebRWB3zlvuc8qi3M7nRtCgN8=",
           "py3"
         ]
       }
@@ -93524,6 +93568,34 @@
         ]
       }
     },
+    "1.8.13": {
+      "sdist": [
+        "QT05WDT0hq1tmFnjEFmWljr97HoGkxWzj2I9elS7Xbs=",
+        "OctoBot-Commons-1.8.13.tar.gz"
+      ],
+      "wheels": {
+        "OctoBot_Commons-1.8.13-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "dgJp5eWOFzm1Ij4SziJzRgqC7Urh7IvRpmWSkt/jOo8=",
+          "cp38"
+        ],
+        "OctoBot_Commons-1.8.13-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "j52OdzSy3BLRDm3heCQ4d7t8Pho015S5uwFS6wdUh1w=",
+          "cp38"
+        ],
+        "OctoBot_Commons-1.8.13-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "vxOYmcj4f7ri/+YRMvTye4+2DMbzOe/Pqpo58jgYIp4=",
+          "cp38"
+        ],
+        "OctoBot_Commons-1.8.13-cp38-cp38-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "ylTKkKQ2QI4wHSToPEsT6IN+wQvn9XwE4zt6UbY1fhw=",
+          "cp38"
+        ],
+        "OctoBot_Commons-1.8.13-cp38-cp38-win_amd64.whl": [
+          "1Qulv+RR7sF1p7vM/eondmH5AARhuZnqwEBqkFnHDFY=",
+          "cp38"
+        ]
+      }
+    },
     "1.8.2": {
       "sdist": [
         "pCmQBwqpfL4iegt/X8w8mS+JVl3TNso1m+gw6XAhhvU=",
@@ -99388,6 +99460,12 @@
       "sdist": [
         "mIBt9TH3DIoNXllZYEzI5h/Zw4JqKiW4XQmI5Bjg/4k=",
         "paperstack-1.2.5.tar.gz"
+      ]
+    },
+    "1.2.6": {
+      "sdist": [
+        "YMQdJtHkgpw8ZotK62PTvsE6PCvFwF03wLdPAzoRWoU=",
+        "paperstack-1.2.6.tar.gz"
       ]
     }
   },

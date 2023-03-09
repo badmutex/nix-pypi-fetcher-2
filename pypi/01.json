@@ -12522,6 +12522,18 @@
         ]
       }
     },
+    "1.196.0": {
+      "sdist": [
+        "aMHuHMvxP3QtdhZNO5ZPvlSo5XyTiO282Yq4FN8uHvY=",
+        "aws-cdk.aws-servicecatalogappregistry-1.196.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_servicecatalogappregistry-1.196.0-py3-none-any.whl": [
+          "hHUgz+KhgJ8RVFSHauoe6GIUseHPzdiIGvpT8z7dupI=",
+          "py3"
+        ]
+      }
+    },
     "1.86.0": {
       "sdist": [
         "DGaSR0ZIdUdSgAZgWvnwrqHug49lVXq7AzsIEJe8JWY=",
@@ -17810,6 +17822,18 @@
       "wheels": {
         "botocore_a_la_carte_s3-1.29.86-py3-none-any.whl": [
           "DH5ByrUXwtJCZMWOGcW1A4zpb4SdMQCHk/czRlnLhek=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.87": {
+      "sdist": [
+        "ptCjUAuz3Z2A1kFfjQ41NpvOGwjqh/73t72XwgIgJj0=",
+        "botocore-a-la-carte-s3-1.29.87.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_s3-1.29.87-py3-none-any.whl": [
+          "eViE4Nivvjh1SygRFBGE+G0baTjLvI6M7LKt+dO72Y0=",
           "py3"
         ]
       }
@@ -30464,6 +30488,18 @@
       "wheels": {
         "crazy_thursday-2023.3.8.1-py3-none-any.whl": [
           "ZxrqpO4aqOauMQJAOdo6srjet7JrRFn5BTv60NBoY2I=",
+          "py3"
+        ]
+      }
+    },
+    "2023.3.9.0": {
+      "sdist": [
+        "edPl7WjeTNfx7cguZ/ndTow0T+WFC0IU7288bHS1g6A=",
+        "crazy-thursday-2023.3.9.0.tar.gz"
+      ],
+      "wheels": {
+        "crazy_thursday-2023.3.9.0-py3-none-any.whl": [
+          "j/u0EKLmMI1P5boXjWFxu8T/49wrcztsiEvqMxfBEQw=",
           "py3"
         ]
       }
@@ -66834,6 +66870,18 @@
         ]
       }
     },
+    "0.11.0": {
+      "sdist": [
+        "CC4C0pw4OcxgIuw9R9vX2GdwfWSFOUGq8vNYULFlsgU=",
+        "isolate-0.11.0.tar.gz"
+      ],
+      "wheels": {
+        "isolate-0.11.0-py3-none-any.whl": [
+          "RtnTrsdhHtVs01WBqdwZ56agdS2+e9CeoGSIOXaUgQs=",
+          "py3"
+        ]
+      }
+    },
     "0.2.0": {
       "sdist": [
         "TiinHrD76odIQPv1mQ+Rocfbg2dARZgx8RkP4oI9j2U=",
@@ -72452,6 +72500,42 @@
       "wheels": {
         "kamaqi-0.2.0-py3-none-any.whl": [
           "N15Cy+BAqSFKyhz1eowE9qeSDb/VdhgEJ5hYx5O9ib0=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.1": {
+      "sdist": [
+        "D7XeLwjjXoMSyECw77ZIj5RK/OWwvMMcik+lWgKM78E=",
+        "kamaqi-0.2.1.tar.gz"
+      ],
+      "wheels": {
+        "kamaqi-0.2.1-py3-none-any.whl": [
+          "27KRBLYP3J8dEDIuokOGXjh/AXMtrgmypFX53sGNl3w=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.2": {
+      "sdist": [
+        "hwmxpwO6jZcODIr8nhUgWaBglUPp/rLHxM6tdqdb3ak=",
+        "kamaqi-0.2.2.tar.gz"
+      ],
+      "wheels": {
+        "kamaqi-0.2.2-py3-none-any.whl": [
+          "t1elvXS89YHrGv0ShoPNe3hmlIDuy+BWARQxFW7FKCg=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.3": {
+      "sdist": [
+        "mKsT8kJIGc7+X8jp9Yq69Yuz7qXH5H56UL1EyOXo9c4=",
+        "kamaqi-0.2.3.tar.gz"
+      ],
+      "wheels": {
+        "kamaqi-0.2.3-py3-none-any.whl": [
+          "/+KD839reTeJ8x3V3Xa5vu/x1CHWE/Rz/zQeO8+t23E=",
           "py3"
         ]
       }
@@ -82986,6 +83070,20 @@
       "wheels": {
         "morpheus_core-0.1.9-py3-none-any.whl": [
           "/0bJUihNVVjWbPzUmj0NUHVjMWU6bFC8NYTRD80vIj8=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "morphmover": {
+    "0.0.1": {
+      "sdist": [
+        "J9ZMCVxbxYaA/LqkuK20RISNBtUuVLlTcrE4SVJiKrY=",
+        "morphmover-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "morphmover-0.0.1-py3-none-any.whl": [
+          "HNZ4dUrmrY0/NS10PW1CrrG7ZeamKGxar1DO5k/DP3g=",
           "py3"
         ]
       }
@@ -114568,6 +114666,18 @@
         ]
       }
     },
+    "13.1.0.2303090241.dev0": {
+      "sdist": [
+        "lQNQvRGRmXmwf5iwVPDpZVui+zDQMeP+sp3vtBSx1y8=",
+        "proactive-jupyter-kernel-13.1.0.2303090241.dev0.zip"
+      ],
+      "wheels": {
+        "proactive_jupyter_kernel-13.1.0.2303090241.dev0-py3-none-any.whl": [
+          "6G0YaFf97M7bIUHjgMs4JxUZdF5NrVf5o9jE9u+Qjho=",
+          "py3"
+        ]
+      }
+    },
     "13.1.1.2212182209.dev0": {
       "sdist": [
         "mOfk6JYkzS4YitisaGAXF39YlBH9tB16cm+BaTt2yjk=",
@@ -118254,6 +118364,46 @@
         ],
         "PyGenStability-0.1.2-cp39-cp39-manylinux2014_x86_64.whl": [
           "loX9ZHOX3Lt1YvxZ28wvgcahgiagTgzifPQQC6ne9zc=",
+          "cp39"
+        ]
+      }
+    },
+    "0.2.0": {
+      "sdist": [
+        "RrMjHeNdyRBovDDfV0QYV17pdUey+u96cm41YTSq3tA=",
+        "PyGenStability-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "PyGenStability-0.2.0-cp36-cp36m-macosx_10_13_x86_64.whl": [
+          "KEe2sYbIRKHHits+LkzQmazW+JAMzT5gYi3I3+ToQQE=",
+          "cp36"
+        ],
+        "PyGenStability-0.2.0-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "7msfuh6NqbQoV7OjFTynPmR+W312EdwS0qLdHGiKMjk=",
+          "cp36"
+        ],
+        "PyGenStability-0.2.0-cp37-cp37m-macosx_10_13_x86_64.whl": [
+          "6Y0C5t/btA0OlfpbaDXf3jVgYpXXyfc/YDtqkITH38w=",
+          "cp37"
+        ],
+        "PyGenStability-0.2.0-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "TZ1l1GXumCV3Jso25ZC4zLJnc3Zlba05TzlMcmuBLUc=",
+          "cp37"
+        ],
+        "PyGenStability-0.2.0-cp38-cp38-macosx_10_13_x86_64.whl": [
+          "oMtMY5n124fLKKZugi5L0DZa+/vs+Y8JyneNO8/3X1I=",
+          "cp38"
+        ],
+        "PyGenStability-0.2.0-cp38-cp38-manylinux2014_x86_64.whl": [
+          "j/HRj8dnu9s51846WEz14m1lkvzPJpIYwTaHm4/wKT8=",
+          "cp38"
+        ],
+        "PyGenStability-0.2.0-cp39-cp39-macosx_10_13_x86_64.whl": [
+          "q+BRkWT9rT7yHLcB6PyXfjv9T/WgI3wt5i7lONb29tQ=",
+          "cp39"
+        ],
+        "PyGenStability-0.2.0-cp39-cp39-manylinux2014_x86_64.whl": [
+          "U5qhQrLwfErFhmIfGz6J8cewakkDoP81MaPgv5R60dY=",
           "cp39"
         ]
       }
@@ -126345,6 +126495,12 @@
         "ikFsE+Zo1hdlnsMlRZfouoq58+0GPmYynZZ46Adr9Qk=",
         "quick_trade-7.9.4.tar.gz"
       ]
+    },
+    "7.9.5": {
+      "sdist": [
+        "yiwFufTD6BgFvoBcTDV0CvPtpcmCskIBZ3Ct/z0B1pg=",
+        "quick_trade-7.9.5.tar.gz"
+      ]
     }
   },
   "quidditas": {
@@ -131674,6 +131830,32 @@
       "wheels": {
         "retractions-0.1-py3-none-any.whl": [
           "PmTF09Z7h5DyrWvQUktXyfBzwttbpcdQZ/XVtP7UrHc=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "reversetwitterscraper": {
+    "0.1": {
+      "sdist": [
+        "yTLB05wtBKqHwpNYQlYcfwLEzJFqW7n5p3lLgMnUVYA=",
+        "ReverseTwitterScraper-0.1.tar.gz"
+      ],
+      "wheels": {
+        "ReverseTwitterScraper-0.1-py3-none-any.whl": [
+          "cKZjXEny+pzHdg2riRsaBHUfwgAJl+1cIBrNG70v+Wg=",
+          "py3"
+        ]
+      }
+    },
+    "0.2": {
+      "sdist": [
+        "vU+uf8nBl0kY/eHPEVNjjGMxh2jMg4aPm/04CufKmjU=",
+        "ReverseTwitterScraper-0.2.tar.gz"
+      ],
+      "wheels": {
+        "ReverseTwitterScraper-0.2-py3-none-any.whl": [
+          "nToXZ10PAWwLbY1an+Z4q77IpRaxHjAbmPU6FXwt8QY=",
           "py3"
         ]
       }
@@ -143911,6 +144093,14 @@
           "py2.py3"
         ]
       }
+    },
+    "5.1.0": {
+      "wheels": {
+        "stix_shifter_modules_alertflex-5.1.0-py2.py3-none-any.whl": [
+          "OoinOMFf7yduXqA2PWFjoJZF+bC6OKxpN8DBdnR6FU8=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "stock-test2": {
@@ -152064,6 +152254,18 @@
       "wheels": {
         "tencentcloud_sdk_python_irp-3.0.844-py2.py3-none-any.whl": [
           "7qWv5mrianJHWWaT1WUyX6vU0fYTzyblUdNlF6rpOJ0=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.846": {
+      "sdist": [
+        "M4yiXBmqah34gnE1+N7oNrvuqVy+j/fOTSGjzZ3/y2A=",
+        "tencentcloud-sdk-python-irp-3.0.846.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_irp-3.0.846-py2.py3-none-any.whl": [
+          "jdtmX5T6rCymaaIrjglzTcrrW8VlkHlAnCU/Wjj1wLk=",
           "py2.py3"
         ]
       }

@@ -12384,6 +12384,18 @@
         ]
       }
     },
+    "1.196.0": {
+      "sdist": [
+        "CwUzm+b4VeLNsav+Arr1+wonOOwD2EQrnfH6yYKA2IM=",
+        "aws-cdk.aws-amplify-1.196.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_amplify-1.196.0-py3-none-any.whl": [
+          "g2d5xiAXc1bT5QCT866hW2Homl+de0M8hGNiwKhcmTU=",
+          "py3"
+        ]
+      }
+    },
     "1.2.0": {
       "sdist": [
         "cvPHSUo6cKIjz4sXTZtFcITKdqPl8Ae/4uFIbTYzYhY=",
@@ -14954,6 +14966,18 @@
         ]
       }
     },
+    "1.196.0": {
+      "sdist": [
+        "astSLQ1kyqzEaXYbQzLMMWE3YxXaG1q49XJfiPb37YI=",
+        "aws-cdk.aws-emrcontainers-1.196.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_emrcontainers-1.196.0-py3-none-any.whl": [
+          "kpGQe3IUoIGnHIEWlHBuPCrHLykLN5YJFJZzRvYkaZ4=",
+          "py3"
+        ]
+      }
+    },
     "1.86.0": {
       "sdist": [
         "h+nC9M84pLE957HW2H9m04nibJ87Wanhm6hyqYLOh6g=",
@@ -16786,6 +16810,14 @@
       "wheels": {
         "Benchmark_4dn-0.5.2-py3-none-any.whl": [
           "P80/M+gagvN156VXK9gASiS16iqob1ngpD2Q7CiLEw4=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.20": {
+      "wheels": {
+        "benchmark_4dn-0.5.20-py3-none-any.whl": [
+          "aBdXT1Ju61dcHzz4fN4P87aRqgG+BDixEbDvXzGPtgE=",
           "py3"
         ]
       }
@@ -19156,6 +19188,18 @@
       "wheels": {
         "botocore_a_la_carte_synthetics-1.29.86-py3-none-any.whl": [
           "69vili1HQkJQkoiVC3qcjMTisU+Uye/AF6ZoP4JHJB8=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.87": {
+      "sdist": [
+        "R3MOSa+C50LwfErKHnqvLTWrQoZYN8uv43fmw8QcUIo=",
+        "botocore-a-la-carte-synthetics-1.29.87.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_synthetics-1.29.87-py3-none-any.whl": [
+          "9jqZOzjUqYcNdKzn/jY89DLh8LNX5300TFeLiipf86o=",
           "py3"
         ]
       }
@@ -55162,6 +55206,12 @@
       "sdist": [
         "mdE/VRJ+wfqV4bRQxdRXtfLsPHzroLbRbSWjpauQg24=",
         "girder-hashsum-download-3.1.16.dev8.tar.gz"
+      ]
+    },
+    "3.1.17": {
+      "sdist": [
+        "IEBQ+PkDusPKQrphaLx6AkK8zaAi7zpq/E3EO7vhQi8=",
+        "girder-hashsum-download-3.1.17.tar.gz"
       ]
     },
     "3.1.17.dev11": {
@@ -115489,6 +115539,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.8": {
+      "sdist": [
+        "O4yr20pUQnRSBEXcLjpSavY7rJ+OH21bS2nP01ngzsY=",
+        "py3status_amdfan-0.1.8.tar.gz"
+      ],
+      "wheels": {
+        "py3status_amdfan-0.1.8-py3-none-any.whl": [
+          "8A+02l4Ne0j0/uwBM3rzXYH+GhgrQtvvxnbXPs5tgxI=",
+          "py3"
+        ]
+      }
     }
   },
   "pyactain": {
@@ -116186,6 +116248,42 @@
       "wheels": {
         "pyeio-0.0.1-py3-none-any.whl": [
           "HzVP4nGvAlGx8tyTqt0ico937ItTRigTqucxkxBZw3g=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "VLMcqFCtiH5IDd2aom/xDKQN7Cer/MF+ho2FVr7dm0g=",
+        "pyeio-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "pyeio-0.0.2-py3-none-any.whl": [
+          "sYK3jVdmDU6pEdPbllosEytTJYAA7gKI5hsIZQOmHzE=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "7IY1HMrjlu/RAurUTi93dMwTH739ZTuVPVdRep/Wzrc=",
+        "pyeio-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "pyeio-0.0.3-py3-none-any.whl": [
+          "GNp/bKGSR3lV61wkVGw7i8feRaE+cmnTq1S7GFwTHbY=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4": {
+      "sdist": [
+        "NoonLOa9Mu/v65o6pAiEemQPFX3YWP2lu5q2ML+jvZc=",
+        "pyeio-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "pyeio-0.0.4-py3-none-any.whl": [
+          "trKQGLVX6oIACYjlnJ8t5f2Ur4EcgCYNPa/5AzGheQU=",
           "py3"
         ]
       }
@@ -136510,10 +136608,28 @@
         "spec_utils-0.28.8.tar.gz"
       ]
     },
+    "0.29.10": {
+      "sdist": [
+        "dyTkjY9d7N+cvulYazVXUS20c2YXJ5I/PPa0DQTDIns=",
+        "spec_utils-0.29.10.tar.gz"
+      ]
+    },
+    "0.29.11": {
+      "sdist": [
+        "0S0GZ5yCvFF6tpLkHXYLuz2DqLOUHMEEO6Gla7qnyW4=",
+        "spec_utils-0.29.11.tar.gz"
+      ]
+    },
     "0.29.8": {
       "sdist": [
         "FKZMFhL9KNNNLdSgf9yKBmoHnJ8tiYrXFUubNmG0G04=",
         "spec_utils-0.29.8.tar.gz"
+      ]
+    },
+    "0.29.9": {
+      "sdist": [
+        "WmOXz3zVuRqIVlQ2LSMBIRHkTZGbeKwBfDHDPdeJzbQ=",
+        "spec_utils-0.29.9.tar.gz"
       ]
     },
     "0.4.1": {

@@ -10602,6 +10602,18 @@
         ]
       }
     },
+    "1.196.0": {
+      "sdist": [
+        "I0Ji/gj1JyVRapuUaw+TKwXIDVzLtTSo/c4TD8PdPfw=",
+        "aws-cdk.aws-greengrassv2-1.196.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_greengrassv2-1.196.0-py3-none-any.whl": [
+          "dyFmsboqQSxVqIuXgr+25xQn/y5+/g/E5C0pda89GXE=",
+          "py3"
+        ]
+      }
+    },
     "1.83.0": {
       "sdist": [
         "smfhhigCImRyGZoUoKdt5YoAdjFavkIENPc/pZTxEak=",
@@ -11104,6 +11116,18 @@
       "wheels": {
         "aws_cdk.aws_identitystore-1.195.0-py3-none-any.whl": [
           "nAu5WNyA55qvCWVRgA5ZylU1ZW6m2M15/xc5/L4Gc9E=",
+          "py3"
+        ]
+      }
+    },
+    "1.196.0": {
+      "sdist": [
+        "npQTIwhF3u1ejg5DzFIv09iO/80LdkL2QCCL6kHiQBQ=",
+        "aws-cdk.aws-identitystore-1.196.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_identitystore-1.196.0-py3-none-any.whl": [
+          "yOaMyECEvTH1Yx0ki7G9tHINJhAo5R2t5R9ytlU67to=",
           "py3"
         ]
       }
@@ -21389,6 +21413,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.87": {
+      "sdist": [
+        "1Latsjv45gH/V0z1PjRtu7qsWN6iFq+NnsSsVXEVyCs=",
+        "botocore-a-la-carte-dms-1.29.87.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_dms-1.29.87-py3-none-any.whl": [
+          "g4lx9WS1z9G5GsDyMrC4rCErccwSL6fowO6xrzl/nOo=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-efs": {
@@ -21928,6 +21964,18 @@
       "wheels": {
         "botocore_a_la_carte_efs-1.29.86-py3-none-any.whl": [
           "fEPzPtGjRCDabY8KYttR822bZk2hbdhWeR24Kj9fhqc=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.87": {
+      "sdist": [
+        "sJVP1Vp6/d62IsoOwNhz2clYUjcOU5gBxdBhTxT089Y=",
+        "botocore-a-la-carte-efs-1.29.87.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_efs-1.29.87-py3-none-any.whl": [
+          "CoHiacz8T4W9JlY2+40OitfVSmupljZ+mwTDNAMCZW4=",
           "py3"
         ]
       }
@@ -74610,6 +74658,18 @@
         ]
       }
     },
+    "0.30.0.dev1": {
+      "sdist": [
+        "IlUcWpuuFWZMqwaVBUgZh4cqlMmTXQ9CcZWwv3Pv1X0=",
+        "Misago-0.30.0.dev1.tar.gz"
+      ],
+      "wheels": {
+        "Misago-0.30.0.dev1-py3-none-any.whl": [
+          "6X9qscpEUoPtI2vIQ5/+sue8fOnXt/xpQkp9qAMXXeI=",
+          "py3"
+        ]
+      }
+    },
     "0.5.5a1": {
       "sdist": [
         "n9BVfg9L//L5ip0gpZCAJXi6esr511XpgjdUNWFbzzg=",
@@ -92604,6 +92664,18 @@
       "wheels": {
         "PHX-1.6.2-py2.py3-none-any.whl": [
           "yTRV8Ye8pffVI41QppBasRuehP0lV9JcrlYBjYp9VIk=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.7.0": {
+      "sdist": [
+        "jypEGzzMjs8SXcxZXhZqo57AIJtHIBdo/q+raM/CISI=",
+        "PHX-1.7.0.tar.gz"
+      ],
+      "wheels": {
+        "PHX-1.7.0-py2.py3-none-any.whl": [
+          "ONxGJRsD+vGhOUwj3A1mlOUYWcJZorEOfNHXnJhdJDc=",
           "py2.py3"
         ]
       }
@@ -120139,6 +120211,68 @@
         "pqLxej4BdfQQ1a55sUbJt3jPjaj54CRIbMIz34oIpJs=",
         "slapos.recipe.template-5.1.tar.gz"
       ]
+    }
+  },
+  "slim-phys": {
+    "0.0.1": {
+      "sdist": [
+        "vRdqgUgce9njFxksLTkZoh/t2e8Jluj9I2QcUg838j8=",
+        "SLiM_phys-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "SLiM_phys-0.0.1-py3-none-any.whl": [
+          "myYaq/+2iWJm7b6bVunDdpqd+Z31WDMCYIhuN2NxKYw=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "08GRj0s8pzuByu2Hvu6es11TpJ3I7cSTv7433bu784c=",
+        "SLiM_phys-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "SLiM_phys-0.0.2-py3-none-any.whl": [
+          "DfeneYG1dQaK/YfTHzkq3LOggE/YbLjYl+qlJ04NL6s=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "IxD807BKIgRgMfSjX/d4uXdVhPUnSoxSh2CYMM7XHyg=",
+        "SLiM_phys-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "SLiM_phys-0.0.3-py3-none-any.whl": [
+          "3cdhQFb7/paXUxN49+krUirI3+wuuGMkCbelOsdPR6s=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4": {
+      "sdist": [
+        "MuRluiyLLLIkIzuLY6IUV4mSJ+XMZEbcrc6HSQSzfP0=",
+        "SLiM_phys-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "SLiM_phys-0.0.4-py3-none-any.whl": [
+          "fVgvXZVRp24Y7qAp+SpFFU+V7PcZzWHnw0rtx2slOdw=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.5": {
+      "sdist": [
+        "q8iukAn9y64VXSSCEQQLSBkk0W7M3RUCKyUiSaTL2Lo=",
+        "SLiM_phys-0.0.5.tar.gz"
+      ],
+      "wheels": {
+        "SLiM_phys-0.0.5-py3-none-any.whl": [
+          "WzZcWZTjJgFG/J18pTGrPGaBbhcBlUxrCg8XFEX6BwY=",
+          "py3"
+        ]
+      }
     }
   },
   "slovar": {

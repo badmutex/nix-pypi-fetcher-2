@@ -17565,6 +17565,12 @@
         "7GB2DsdeFZqfP6G4usLBq5II/YkU0r1OJcBRIuddcL8=",
         "cellar_extractor-1.0.40.tar.gz"
       ]
+    },
+    "1.0.41": {
+      "sdist": [
+        "PJuKK10Xu8sROdH8Bm25SybNKPeZD+FJ1OVaLu/VgRY=",
+        "cellar_extractor-1.0.41.tar.gz"
+      ]
     }
   },
   "cepan": {
@@ -33541,6 +33547,18 @@
         "jV2UMlInZrsdPRQcCXyG7+pW9L3LquDPfAbPLtqDtaQ=",
         "django-cqrs-2.4.11.tar.gz"
       ]
+    },
+    "2.4.13": {
+      "sdist": [
+        "rqirXmC2ymM5cqu7F4kD1tOC1XfhKCLBmapQmuR9TrE=",
+        "django_cqrs-2.4.13.tar.gz"
+      ],
+      "wheels": {
+        "django_cqrs-2.4.13-py3-none-any.whl": [
+          "HoWnB3/wDfgxrfHWTC8eYPKEfRR70BnbhBqdis/EyR0=",
+          "py3"
+        ]
+      }
     },
     "2.4.2": {
       "sdist": [
@@ -81952,6 +81970,18 @@
         ]
       }
     },
+    "0.3.3": {
+      "sdist": [
+        "vnK8AMfILLtanm4NNPnMELAaAd/UbanYLZHiyWUkc0s=",
+        "macapype-0.3.3.tar.gz"
+      ],
+      "wheels": {
+        "macapype-0.3.3-py3-none-any.whl": [
+          "Hb92Os/KgKNPJLHto4d3wu3LekXcyg43kPbKclwkUvw=",
+          "py3"
+        ]
+      }
+    },
     "0.3.dev0": {
       "sdist": [
         "zrjIZqGY4nJPrBt0RvPRAmiRZKj9YDnD3UDoEtt4Ka4=",
@@ -108311,6 +108341,14 @@
         "ThDgLzRk/Sm01DhdGNXYCFK4il+S2x+DnlycpYBQNN8=",
         "ptapi42-0.0.1.tar.gz"
       ]
+    },
+    "1.0.0": {
+      "wheels": {
+        "ptapi42-1.0.0-py3-none-any.whl": [
+          "b7hW4RlT8fL/mM+phy/DvIdqmsf/2UezNLM+DKJsE/c=",
+          "py3"
+        ]
+      }
     }
   },
   "ptmultiviews": {
@@ -117072,6 +117110,18 @@
         ]
       }
     },
+    "1.0.27": {
+      "sdist": [
+        "uG+k35HJI2jBpwO2w/lZZH7f22tMU1d87im0JBIjdlY=",
+        "PyQuantimClient-1.0.27.tar.gz"
+      ],
+      "wheels": {
+        "PyQuantimClient-1.0.27-py3-none-any.whl": [
+          "EIozY6ZUUrzcNGvgMHA7qDxVPTeuQx3CJrdZ+xFZGFo=",
+          "py3"
+        ]
+      }
+    },
     "1.0.3": {
       "sdist": [
         "ZoaNYNKcsKAKTc9VmVP1Br9UXoCqjbsSphvIuqatX/Q=",
@@ -122048,6 +122098,44 @@
       "wheels": {
         "random_audio-1.0.1-py3-none-any.whl": [
           "DYw8TE1odvFRmrtzUQd3y6w1tegnP51kABXSylqKpsw=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "random-tool": {
+    "1.0.0": {
+      "sdist": [
+        "5U+HadsebU+TAccO0hNPog1YE4IsUbodLbiGVt6C6kQ=",
+        "random_tool-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "random_tool-1.0.0-py3-none-any.whl": [
+          "BEmkXFoldeZkcNRWKhW4n827khxxe9QCjnQ6cPuo9Es=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.1": {
+      "sdist": [
+        "BqB6C4T0ckLxXpSWRaPSDz1AKGBCNLaC8MUDQossL8M=",
+        "random_tool-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "random_tool-1.0.1-py3-none-any.whl": [
+          "lwPIZVxpF7Mf0I4DkE963tHr56CjtzceDO57X6z9rXs=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.2": {
+      "sdist": [
+        "saiJr1X+CkC8MDc+8KosHeddiP1KAFxCefnSmLpMvaY=",
+        "random_tool-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "random_tool-1.0.2-py3-none-any.whl": [
+          "9QEAytCf7A1CCIBV72AImOcUkh1afpiqghELYQ0tk+g=",
           "py3"
         ]
       }
@@ -144630,6 +144718,12 @@
       "sdist": [
         "5AwjCwMiPtrWtencC0eQYQMAX78kxL3eY4b/igBFh4U=",
         "tremolo-0.0.56.tar.gz"
+      ]
+    },
+    "0.0.57": {
+      "sdist": [
+        "WQhr/5J8QliyfjQBtGCeZwVSEq+rQozYR//xPrpx3Xk=",
+        "tremolo-0.0.57.tar.gz"
       ]
     }
   },

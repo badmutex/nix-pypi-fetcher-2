@@ -89507,6 +89507,22 @@
           "py3"
         ]
       }
+    },
+    "0.6.0": {
+      "wheels": {
+        "oidia-0.6.0-py3-none-any.whl": [
+          "QLZzeMXwcWQfndE+Hf6KHcAAfOsGytf/ZSI1Gwftkn0=",
+          "py3"
+        ]
+      }
+    },
+    "0.6.1": {
+      "wheels": {
+        "oidia-0.6.1-py3-none-any.whl": [
+          "ZHWgTb+SHKGpS8AaA5rmizkgdQqtQHszyifrlDv6xw8=",
+          "py3"
+        ]
+      }
     }
   },
   "omi-async-http-client": {
@@ -124469,6 +124485,30 @@
           "py3"
         ]
       }
+    },
+    "0.0.2": {
+      "sdist": [
+        "bzS652lWfu3d+qU5IoVMjqmBDeapchWOCotNIbA5ll4=",
+        "spotube-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "spotube-0.0.2-py3-none-any.whl": [
+          "/OF9lABAzkVDR54oIQwsCifHlkDunfmI8kM2dWNVEL0=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "8ShshAAFo7x9OX02admMsxLAUFtXCQolHrulONgUavE=",
+        "spotube-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "spotube-0.0.3-py3-none-any.whl": [
+          "rXWEsvQbAdFgj94I3FU2nbbCnzeQtOEWCUvDqAON2xY=",
+          "py3"
+        ]
+      }
     }
   },
   "sprav-report-processor": {
@@ -142401,6 +142441,26 @@
           "cp39"
         ]
       }
+    },
+    "2.13.0.dev20230311": {
+      "wheels": {
+        "tf_nightly_cpu_aws-2.13.0.dev20230311-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "WyOgGnttodpzYAWJMacLN8kTEVM5WrDW8TdlPiSUGTM=",
+          "cp310"
+        ],
+        "tf_nightly_cpu_aws-2.13.0.dev20230311-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "EzsW8hNGfcPsrmdq3xTZmyaibVwjyXq+jbcJ8yTPfzA=",
+          "cp311"
+        ],
+        "tf_nightly_cpu_aws-2.13.0.dev20230311-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "YnIFrasimcpgEpPectVETVsS/suXV+hjvLTDJahhBu4=",
+          "cp38"
+        ],
+        "tf_nightly_cpu_aws-2.13.0.dev20230311-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "y12GOIp8srZJNfGb/Xi7t48Fq/lpGjYvSZbAulA5vwY=",
+          "cp39"
+        ]
+      }
     }
   },
   "tffm": {
@@ -148474,6 +148534,18 @@
         ]
       }
     },
+    "2.4.2.post3": {
+      "sdist": [
+        "XNwl2yRyC0fXTN/VXM7OffxiIWS3BL82d1lMUz0cvdo=",
+        "types-aiobotocore-personalize-runtime-2.4.2.post3.tar.gz"
+      ],
+      "wheels": {
+        "types_aiobotocore_personalize_runtime-2.4.2.post3-py3-none-any.whl": [
+          "fbbuSAjWnxkaJE65zF4/JBP2K0j2QprkDELYISGB8x8=",
+          "py3"
+        ]
+      }
+    },
     "2.5.0": {
       "sdist": [
         "ee7iGX4dunAavDbBxcwUMJWtWNvicjflB0nQPDcdbPU=",
@@ -148482,6 +148554,18 @@
       "wheels": {
         "types_aiobotocore_personalize_runtime-2.5.0-py3-none-any.whl": [
           "2ppyY9d6rZQ38/hOylkU+1VP8VF0leb5EP43wzcTM3c=",
+          "py3"
+        ]
+      }
+    },
+    "2.5.0.post1": {
+      "sdist": [
+        "dyDkCSjVbeDOkQkEGS6bYfCNLXfdmbuqudlOfW3F86w=",
+        "types-aiobotocore-personalize-runtime-2.5.0.post1.tar.gz"
+      ],
+      "wheels": {
+        "types_aiobotocore_personalize_runtime-2.5.0.post1-py3-none-any.whl": [
+          "/oNY7jqK8it9H47o4iWeIYVh2cCa7vdoGLO4p8Mv/r8=",
           "py3"
         ]
       }
@@ -148728,6 +148812,18 @@
         ]
       }
     },
+    "2.4.2.post3": {
+      "sdist": [
+        "XKHQWTYH4ITHWRPIPVnmw+z0RMju4MqRe2IcWqUzrOM=",
+        "types-aiobotocore-sms-voice-2.4.2.post3.tar.gz"
+      ],
+      "wheels": {
+        "types_aiobotocore_sms_voice-2.4.2.post3-py3-none-any.whl": [
+          "cbNxQmc3W82xt53ycszyz48RXPQH2ikrRp7s0NuWvC8=",
+          "py3"
+        ]
+      }
+    },
     "2.5.0": {
       "sdist": [
         "lUhCnQG1mS3JsNRkNzoFqJFsqpDFKec2Ji+0OQfZ4XE=",
@@ -148736,6 +148832,18 @@
       "wheels": {
         "types_aiobotocore_sms_voice-2.5.0-py3-none-any.whl": [
           "IRZxdourr61aU9C3vIgrMTzNvhKDSLWny7VHGdKNqmM=",
+          "py3"
+        ]
+      }
+    },
+    "2.5.0.post1": {
+      "sdist": [
+        "cBLL20YuzjsWF1f7p35eMP6wW0jPEkNV5xOsMBVFa2k=",
+        "types-aiobotocore-sms-voice-2.5.0.post1.tar.gz"
+      ],
+      "wheels": {
+        "types_aiobotocore_sms_voice-2.5.0.post1-py3-none-any.whl": [
+          "LLdXnXHTMsWdTEXkuwdUhD/Fz8/JIXe66L231iePPlw=",
           "py3"
         ]
       }

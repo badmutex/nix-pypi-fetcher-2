@@ -16258,18 +16258,6 @@
         ]
       }
     },
-    "0.7.4b9": {
-      "sdist": [
-        "uB7sOQ8Bt0ztS9NeGftpbjcjwYoGM8ppD/n7rYzVap8=",
-        "biglist-0.7.4b9.tar.gz"
-      ],
-      "wheels": {
-        "biglist-0.7.4b9-py3-none-any.whl": [
-          "TsS/KPzb7cW493NaVtB16A6DhTw6oBqcSIo1rtlDGVg=",
-          "py3"
-        ]
-      }
-    },
     "0.7.5": {
       "sdist": [
         "FQojs+acs/5CUwOeP2QCKy+bqT0LlEBID2K1GUuNuDg=",
@@ -16294,62 +16282,14 @@
         ]
       }
     },
-    "0.7.7b1": {
+    "0.7.7": {
       "sdist": [
-        "bi3/tZ140B5pu80UYCx8onUP5PHJyY6F2I5q3QNzSaU=",
-        "biglist-0.7.7b1.tar.gz"
+        "XlgFmvzFplytiMhkdQvXmAiLWY/2s6rTl/Tam7sEjTM=",
+        "biglist-0.7.7.tar.gz"
       ],
       "wheels": {
-        "biglist-0.7.7b1-py3-none-any.whl": [
-          "uq9jYQ0+XUfRt6GZWh5lWxyN/D/bAzAsjHRDzbBmEDE=",
-          "py3"
-        ]
-      }
-    },
-    "0.7.7b2": {
-      "sdist": [
-        "A9C5haoxcqVv9uieS+E+2npjDMmrnCGi2PWTFJo4IpQ=",
-        "biglist-0.7.7b2.tar.gz"
-      ],
-      "wheels": {
-        "biglist-0.7.7b2-py3-none-any.whl": [
-          "wZ825ni/idKz2uRHHHrPzPw/Af22EQZmVaTrqcs7OVg=",
-          "py3"
-        ]
-      }
-    },
-    "0.7.7b3": {
-      "sdist": [
-        "oFKg1WnZCk/YyTBsV2OTu+QxWYnpV50kUSIytJcu2m0=",
-        "biglist-0.7.7b3.tar.gz"
-      ],
-      "wheels": {
-        "biglist-0.7.7b3-py3-none-any.whl": [
-          "Zgihh0UtiJvWlbrbIsh0n/JyYPu/002SWTMlCU9wojg=",
-          "py3"
-        ]
-      }
-    },
-    "0.7.7b4": {
-      "sdist": [
-        "8INOD+fVL3UuR1KBduPHUH6PPKmC0K8vgxR5kx1KkiA=",
-        "biglist-0.7.7b4.tar.gz"
-      ],
-      "wheels": {
-        "biglist-0.7.7b4-py3-none-any.whl": [
-          "zcgZRgZt8L3qdzaCcP4jvPSXKHw85pU2C6f41gVmQPs=",
-          "py3"
-        ]
-      }
-    },
-    "0.7.7b5": {
-      "sdist": [
-        "jhJFgMELnf+B3YWCprA5+yx8/i4Rme7zYUBlMqyC00k=",
-        "biglist-0.7.7b5.tar.gz"
-      ],
-      "wheels": {
-        "biglist-0.7.7b5-py3-none-any.whl": [
-          "xc8/hvj/K3IrIw/rMGMPMKquBG2TeAJq9qEv3v75SzI=",
+        "biglist-0.7.7-py3-none-any.whl": [
+          "LQsLevA8ms7ROVb0ekbF0Hr4npda1/aIuCFRi5Sz2II=",
           "py3"
         ]
       }
@@ -71489,6 +71429,38 @@
           "py3"
         ]
       }
+    }
+  },
+  "mltoolbox-datalab-classification-and-regression": {
+    "1.0.0": {
+      "sdist": [
+        "wTlWBT8HtSLLeBNcCx1wIzYGLNgUvtxnFa8CjraVIHA=",
+        "mltoolbox-datalab-classification-and-regression-1.0.0.tar.gz"
+      ]
+    },
+    "1.0.1": {
+      "sdist": [
+        "GehbhxpUPnFLQutqnZR9vlGmz2FM8Elc3ayewk9Tlhs=",
+        "mltoolbox-datalab-classification-and-regression-1.0.1.tar.gz"
+      ]
+    },
+    "100.0.0": {
+      "sdist": [
+        "oaifPNlwWsWBxdZ635oZOAT/ILH/jqG154fEQZYiYtc=",
+        "mltoolbox-datalab-classification-and-regression-100.0.0.tar.gz"
+      ]
+    },
+    "2.0.0": {
+      "sdist": [
+        "MF0+Xordtvqchumvn6UCiX9FXQofEbRaIGy1dIHxwaE=",
+        "mltoolbox-datalab-classification-and-regression-2.0.0.tar.gz"
+      ]
+    },
+    "25.0.0": {
+      "sdist": [
+        "WJVB1jwtD5Tp1OP9li4hUxO3kT3Pq0OCUEEqS439fkA=",
+        "mltoolbox-datalab-classification-and-regression-25.0.0.tar.gz"
+      ]
     }
   },
   "mock-di-api": {
@@ -142108,6 +142080,18 @@
         ]
       }
     },
+    "2.4.2.post3": {
+      "sdist": [
+        "4zEJbvU4aEIN4bg/QOHxnZpVMrVBhTqghZWcKebgKyE=",
+        "types-aiobotocore-dax-2.4.2.post3.tar.gz"
+      ],
+      "wheels": {
+        "types_aiobotocore_dax-2.4.2.post3-py3-none-any.whl": [
+          "cN3RbvkDX8U70pV+rbjOCBg2sbBh4FwhjH4e+NFSqDo=",
+          "py3"
+        ]
+      }
+    },
     "2.5.0": {
       "sdist": [
         "ByhnwMYuhTpTB3M5FZv6bMnPokDAYOrbdvbRI0OygDA=",
@@ -142116,6 +142100,18 @@
       "wheels": {
         "types_aiobotocore_dax-2.5.0-py3-none-any.whl": [
           "st6QCcWJ+JcyGiOEII5kF+Sl0ZR0VLU/QZyGPfL4eyo=",
+          "py3"
+        ]
+      }
+    },
+    "2.5.0.post1": {
+      "sdist": [
+        "6oo8fCN9MtAftwu1DXyhPbXdOgEclv+neakUo5/0BNw=",
+        "types-aiobotocore-dax-2.5.0.post1.tar.gz"
+      ],
+      "wheels": {
+        "types_aiobotocore_dax-2.5.0.post1-py3-none-any.whl": [
+          "1KkYsJaj8cI6dYCH/bdJNW1qfLGmVECuwHGzvDE4sas=",
           "py3"
         ]
       }
@@ -142362,6 +142358,18 @@
         ]
       }
     },
+    "2.4.2.post3": {
+      "sdist": [
+        "5Shyx9dAc640+DWbVNQ+xs0Unz8J2nBvCpXPLcJGNs8=",
+        "types-aiobotocore-mediaconvert-2.4.2.post3.tar.gz"
+      ],
+      "wheels": {
+        "types_aiobotocore_mediaconvert-2.4.2.post3-py3-none-any.whl": [
+          "b0tyrHSccT/r6dx5lUP5EhGBpz7nym5pFSq1H1Mj0iU=",
+          "py3"
+        ]
+      }
+    },
     "2.5.0": {
       "sdist": [
         "FMhZK5NS03KWGAF69lPzWCDE2Le2omMOJ1+tPCI4WHo=",
@@ -142370,6 +142378,18 @@
       "wheels": {
         "types_aiobotocore_mediaconvert-2.5.0-py3-none-any.whl": [
           "YsplNMzwTGdyiUMs6DemvjmrS7OD/rUwgaoo4n1kfqA=",
+          "py3"
+        ]
+      }
+    },
+    "2.5.0.post1": {
+      "sdist": [
+        "Xli85mmoZMU77KKT7QIT9KIsQZPMLxANtOOh+eTmyzI=",
+        "types-aiobotocore-mediaconvert-2.5.0.post1.tar.gz"
+      ],
+      "wheels": {
+        "types_aiobotocore_mediaconvert-2.5.0.post1-py3-none-any.whl": [
+          "HNksyL2szkQkjoCMVTeiLbsY+ZEsYjAKLPsoyIVbx7c=",
           "py3"
         ]
       }
@@ -142616,6 +142636,18 @@
         ]
       }
     },
+    "2.4.2.post3": {
+      "sdist": [
+        "wCGfFeSvG/Gl1F1LmnfgaXt07bShU8wUn4IeHzEwMio=",
+        "types-aiobotocore-mediastore-data-2.4.2.post3.tar.gz"
+      ],
+      "wheels": {
+        "types_aiobotocore_mediastore_data-2.4.2.post3-py3-none-any.whl": [
+          "We1suOKC4lAjtWeGM4U/L1TLnoCZV9Jl6Mh0AsA4Jt0=",
+          "py3"
+        ]
+      }
+    },
     "2.5.0": {
       "sdist": [
         "n/078RXujDHiuiXKgkfb6kFznhVL2nU5Quyw0Ujp5NM=",
@@ -142624,6 +142656,18 @@
       "wheels": {
         "types_aiobotocore_mediastore_data-2.5.0-py3-none-any.whl": [
           "Pzxos2TUk5TfxRrBcO/0HjCPJYZWWVJCZG3JpyjrOhg=",
+          "py3"
+        ]
+      }
+    },
+    "2.5.0.post1": {
+      "sdist": [
+        "GfEJXueuAs0s2NrPXzxo3ZECx6pBVSSDtuGSSBGrJx4=",
+        "types-aiobotocore-mediastore-data-2.5.0.post1.tar.gz"
+      ],
+      "wheels": {
+        "types_aiobotocore_mediastore_data-2.5.0.post1-py3-none-any.whl": [
+          "a3cwYJRHrQ16DkfCRdcYtEqkgw8YwE9srcd3ycdcPOw=",
           "py3"
         ]
       }

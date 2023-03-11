@@ -18390,6 +18390,18 @@
         ]
       }
     },
+    "0.19.9": {
+      "sdist": [
+        "/Qu58ocuygHpVbwFmFyv0gSllKGZraD6F/TGY8tHcno=",
+        "comet_maths-0.19.9.tar.gz"
+      ],
+      "wheels": {
+        "comet_maths-0.19.9-py3-none-any.whl": [
+          "zgApMcdykyHXPGtkC6OhYtrvPp12RG7EfBMwn+nIGsE=",
+          "py3"
+        ]
+      }
+    },
     "0.2": {
       "sdist": [
         "ALwYcKd30Hs+Zc8/I+9tqs25Nmd19m6Fkte14Gw7CEY=",
@@ -66643,6 +66655,18 @@
           "py3"
         ]
       }
+    },
+    "0.39": {
+      "sdist": [
+        "6dKVPFao4MWZlLKh8fYbIbhrWmMje0xTLGwrO+hU5WA=",
+        "longalpha_utils-0.39.tar.gz"
+      ],
+      "wheels": {
+        "longalpha_utils-0.39-py3-none-any.whl": [
+          "mSwXDHOZko4mym8hqP6l2vVcsSQcyU8purC3srqbhKY=",
+          "py3"
+        ]
+      }
     }
   },
   "lonny-greeks": {
@@ -102290,18 +102314,10 @@
     }
   },
   "pec": {
-    "0.3.0": {
+    "1.0.0": {
       "wheels": {
-        "pec-0.3.0-py3-none-any.whl": [
-          "j3IjIHYqMCBpVeJXk2L1FiUCHcdIXMG3B9Sp/zjgD+Q=",
-          "py3"
-        ]
-      }
-    },
-    "0.3.1": {
-      "wheels": {
-        "pec-0.3.1-py3-none-any.whl": [
-          "PHQhKwXEkB0f3tcIOnWh1+rHhZeJNrNlao2P0dI1c2w=",
+        "pec-1.0.0-py3-none-any.whl": [
+          "YDTB2GC4fQxvs80eaPP20CWNySg84ZdVMxpWkMBSPtY=",
           "py3"
         ]
       }
@@ -116491,6 +116507,20 @@
         "rrZ0t8GmIGC1VFfZppU528efL+n7QClFTIKTdJQOmOs=",
         "pypack.singleton-1.0.2.tar.gz"
       ]
+    }
+  },
+  "pypackagescraper": {
+    "0.9.0": {
+      "sdist": [
+        "SHE6c4C9ZFRGB8WtsSamyEDRSa8FP/5tEzY/B86aaik=",
+        "pypackagescraper-0.9.0.tar.gz"
+      ],
+      "wheels": {
+        "pypackagescraper-0.9.0-py3-none-any.whl": [
+          "29ad4k5A5Zd0DblwpKvDdC/ddFpdoXDQVlFc3k9BkJE=",
+          "py3"
+        ]
+      }
     }
   },
   "pyparsebio": {
@@ -144110,6 +144140,14 @@
       "wheels": {
         "tf_model_optimization_nightly-0.7.3.dev20230310-py2.py3-none-any.whl": [
           "dyL1XGSAMbqM3qSpYccuTUYaBKeb+oIp5qvZkRjen/M=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.7.3.dev20230311": {
+      "wheels": {
+        "tf_model_optimization_nightly-0.7.3.dev20230311-py2.py3-none-any.whl": [
+          "6Lv6oecEMuqREVk9xBeOLPxZVVscSC7zjvhMu6SJ+S4=",
           "py2.py3"
         ]
       }

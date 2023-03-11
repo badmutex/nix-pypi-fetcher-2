@@ -9617,6 +9617,20 @@
       }
     }
   },
+  "bluestackspatcher": {
+    "0.10": {
+      "sdist": [
+        "3lUNWUgRbnctm1/vsf00Wj3TNiGx7oWqeXcNWfE147I=",
+        "bluestackspatcher-0.10.tar.gz"
+      ],
+      "wheels": {
+        "bluestackspatcher-0.10-py3-none-any.whl": [
+          "RmNGONLgvFEd8l6xnX1hAQJdfBPA5Drjq713h5GU9VQ=",
+          "py3"
+        ]
+      }
+    }
+  },
   "bmagick": {
     "0.1.0": {
       "sdist": [
@@ -25842,6 +25856,74 @@
         ],
         "didppy-0.3.1-cp37-abi3-win_amd64.whl": [
           "T1gFWWtDyxQUTAmqcJ2w5rneos157RxCeSjW9Ii7XmE=",
+          "cp37"
+        ]
+      }
+    },
+    "0.3.2": {
+      "sdist": [
+        "IkHjazerlXMR14GIWqW/jASmPQFZIhJU9g3VzgCs6jk=",
+        "didppy-0.3.2.tar.gz"
+      ],
+      "wheels": {
+        "didppy-0.3.2-cp37-abi3-macosx_10_7_x86_64.whl": [
+          "p57AipihgWo4MwXyROXddBpCDQu4F+V3zWf5j9fUsMM=",
+          "cp37"
+        ],
+        "didppy-0.3.2-cp37-abi3-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "kX1v1dPQYlktdSbMxtzeXCoEqUM597T9z6N4TsdZ+Zs=",
+          "cp37"
+        ],
+        "didppy-0.3.2-cp37-abi3-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "wdzMf4CKEdoM8qyEBUpUHqL2oUBUbS1aG5D8qR5kIsk=",
+          "cp37"
+        ],
+        "didppy-0.3.2-cp37-abi3-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "6bULk7AKLUBgrYC5l+3HZWQk9KWznZcd52LB7QfmqpU=",
+          "cp37"
+        ],
+        "didppy-0.3.2-cp37-abi3-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "5rosjBz6TZDd75Tzzr9UPAqej6T2Br0ZCvrbFStqpgQ=",
+          "cp37"
+        ],
+        "didppy-0.3.2-cp37-abi3-manylinux_2_17_ppc64.manylinux2014_ppc64.whl": [
+          "AMmEdxX+r3aVBF0dQkBXf4Q9NORjjTHhtCbpS6JeFto=",
+          "cp37"
+        ],
+        "didppy-0.3.2-cp37-abi3-manylinux_2_17_s390x.manylinux2014_s390x.whl": [
+          "CrOG/CVDu2NwGxUrchBslua9idt/AjFEkAaZgMe1aOs=",
+          "cp37"
+        ],
+        "didppy-0.3.2-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "40HFiM6snqw9Rn2rCRJ5tOY1g7xPaAnmzmwHH4GS2Xg=",
+          "cp37"
+        ],
+        "didppy-0.3.2-cp37-abi3-manylinux_2_5_i686.manylinux1_i686.whl": [
+          "Nf/tUF5teG5EStDBN0BEh9LdBCyssJDGNYigJPwnfLI=",
+          "cp37"
+        ],
+        "didppy-0.3.2-cp37-abi3-musllinux_1_2_aarch64.whl": [
+          "hsWDw9PutdtXoZRHhNd5Mb+QkpAYARz3SW5ExpK0dYw=",
+          "cp37"
+        ],
+        "didppy-0.3.2-cp37-abi3-musllinux_1_2_armv7l.whl": [
+          "QbCJhfnnUGRY8e9ji+GcnPTYNXKPxm7zgyIn5pl9cpc=",
+          "cp37"
+        ],
+        "didppy-0.3.2-cp37-abi3-musllinux_1_2_i686.whl": [
+          "KnEQMf/Cdpgny2tYN53ZfqN8fe6zxqA89lk0vSWQew4=",
+          "cp37"
+        ],
+        "didppy-0.3.2-cp37-abi3-musllinux_1_2_x86_64.whl": [
+          "4/vuXXy68L/sBWhhGDI8VXQqL0KMfJXniogotCPpmDM=",
+          "cp37"
+        ],
+        "didppy-0.3.2-cp37-abi3-win32.whl": [
+          "2NExx+AfzqfY3LZmYt/4hpkBYeH+NmYsL2wWHj1OE9s=",
+          "cp37"
+        ],
+        "didppy-0.3.2-cp37-abi3-win_amd64.whl": [
+          "ZCSaEAXAWjw8Cm+AtbZU+zQY1g3HeRU8EMbieuN+QYM=",
           "cp37"
         ]
       }
@@ -53050,6 +53132,18 @@
       "wheels": {
         "flytekitplugins_onnxtensorflow-1.2.10-py3-none-any.whl": [
           "qQKs6JSOzPP9uwjHVhyUOc7KTvkJePsI1JDXAPZ1dJg=",
+          "py3"
+        ]
+      }
+    },
+    "1.2.11": {
+      "sdist": [
+        "3jLjhWjoWTXPrX/xEa4rJ7RuOzznNCEGR5VFTZFWglw=",
+        "flytekitplugins-onnxtensorflow-1.2.11.tar.gz"
+      ],
+      "wheels": {
+        "flytekitplugins_onnxtensorflow-1.2.11-py3-none-any.whl": [
+          "IEHaoP0MeTvYSOtNx+cvhcinfMt6Imyw2yvbDWFwH7c=",
           "py3"
         ]
       }
@@ -90181,6 +90275,20 @@
       }
     }
   },
+  "nonebot-plugin-rimofun": {
+    "0.1.0": {
+      "sdist": [
+        "MuZQZnxQBwoKGbxANweSdd5rSs82iaJtylYQGnzeedM=",
+        "nonebot_plugin_rimofun-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "nonebot_plugin_rimofun-0.1.0-py3-none-any.whl": [
+          "gd+9djh8YAJ04h3edIQCpIae6TmgfPsFU3ihyNWrno4=",
+          "py3"
+        ]
+      }
+    }
+  },
   "nonebot-plugin-yuanshen-notice": {
     "0.1.0": {
       "sdist": [
@@ -106622,6 +106730,30 @@
       "wheels": {
         "pipen_args-0.6.4-py3-none-any.whl": [
           "u+Zbpi4ZhF6iZIHZh376OET87ytsV3zqVPqQhbd62e8=",
+          "py3"
+        ]
+      }
+    },
+    "0.7.0": {
+      "sdist": [
+        "clzvvSQ9Uum4huLWlug1YRc1RtMInlSVKAS/RyOIgCU=",
+        "pipen_args-0.7.0.tar.gz"
+      ],
+      "wheels": {
+        "pipen_args-0.7.0-py3-none-any.whl": [
+          "448yDVh9R0Q4D3KTMlOWBKY3Qlm4oSQwwug5kHvsvXE=",
+          "py3"
+        ]
+      }
+    },
+    "0.7.1": {
+      "sdist": [
+        "IaEHZfZ02wbMJAeNtSGT1H2Pfijy7jnro/ZD7kZODK8=",
+        "pipen_args-0.7.1.tar.gz"
+      ],
+      "wheels": {
+        "pipen_args-0.7.1-py3-none-any.whl": [
+          "/bCbGQcFRoGf1L9IyMQXHsfZtMclov1qFvgCFNQcQrs=",
           "py3"
         ]
       }

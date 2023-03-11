@@ -1983,6 +1983,12 @@
           "py3"
         ]
       }
+    },
+    "0.0.7": {
+      "sdist": [
+        "9/+jazGq6a4ABTj9/HohmuL7Gp6Jp0Gac/KCL0G4Rdo=",
+        "airflow_dbt_cta-0.0.7.tar.gz"
+      ]
     }
   },
   "alerta-server": {
@@ -7569,6 +7575,44 @@
         "8kIFo0C4zPLk8whzj3TnIR1Cm4hE8Hy9eUqCvPQTgEE=",
         "ArduinoKeywords-1.0.4.tar.gz"
       ]
+    }
+  },
+  "arg-needle": {
+    "1.0.0": {
+      "wheels": {
+        "arg_needle-1.0.0-cp310-cp310-macosx_10_15_x86_64.whl": [
+          "fnKlsjwyd+Z8pX9Pmfpl4ZDBgpQ0tWFvs0aZp2sEKsM=",
+          "cp310"
+        ],
+        "arg_needle-1.0.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Cf9qinROxNUo3g3iv69PKSgscWPsUPJHI74CTH7KBqs=",
+          "cp310"
+        ],
+        "arg_needle-1.0.0-cp311-cp311-macosx_10_15_x86_64.whl": [
+          "Xt5BmO47kpWx2za4oxAv3k/ivTg8zfV69kk4OxB4odc=",
+          "cp311"
+        ],
+        "arg_needle-1.0.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "+3ZmTaj9eor8rJfTsX0RLkQePb1g4a5SoDNnvtqitMc=",
+          "cp311"
+        ],
+        "arg_needle-1.0.0-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "2zAQa1K5KlxQURX4x2ez0Oc01HIJHV7cih/sZ8//pTw=",
+          "cp38"
+        ],
+        "arg_needle-1.0.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "HI8tr3TG92Dw9a4QyruN6J198elzxDiWbJH4Nmh466I=",
+          "cp38"
+        ],
+        "arg_needle-1.0.0-cp39-cp39-macosx_10_15_x86_64.whl": [
+          "e1A5LAibWqeALoz5ikJzI1fMJa/TxfPESX6f5EtGSX4=",
+          "cp39"
+        ],
+        "arg_needle-1.0.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "WhVzsh89norMKSUNgzZEeELTGXmy77Ky0noUUfuZoKc=",
+          "cp39"
+        ]
+      }
     }
   },
   "argoscuolanext": {
@@ -28060,6 +28104,12 @@
       "sdist": [
         "MUq2AhY+E4Hdu0yUMcYk4KQJgY5/TkbpGmIuDfKmxg0=",
         "cfdm-1.10.0.2.tar.gz"
+      ]
+    },
+    "1.10.0.3": {
+      "sdist": [
+        "oA7x8NdmCbJKWlx+tFcOdGmGHfFklvbLmAz8ZcvZcBc=",
+        "cfdm-1.10.0.3.tar.gz"
       ]
     },
     "1.7.0": {
@@ -84717,6 +84767,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.7": {
+      "sdist": [
+        "jmXazVws5iiUJ2QMdaT7dwhB4RAoZUfhM2Gak66ssWs=",
+        "molSim-0.0.7.tar.gz"
+      ],
+      "wheels": {
+        "molSim-0.0.7-py3-none-any.whl": [
+          "v+bkfL2PXIBljkCzmz0sYMwbnP2zcSERCh2rc1IbJ3I=",
+          "py3"
+        ]
+      }
     }
   },
   "mongoengine-stubs": {
@@ -88546,6 +88608,38 @@
         ],
         "navconfig-1.1.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "p+sItFnvK/fmg3NmP4bbEJr5Zy3i9pOKX+EeDqNSftA=",
+          "cp39"
+        ]
+      }
+    },
+    "1.1.1": {
+      "wheels": {
+        "navconfig-1.1.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "i//2kAqfcOZc2XRFrZe6h/4Q9mn+FL8K5YsBRpDk8WE=",
+          "cp310"
+        ],
+        "navconfig-1.1.1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "1PU8cDe43gYMFkIy8/vKnhXyYjrBiQze3S8tgAOL0Ms=",
+          "cp311"
+        ],
+        "navconfig-1.1.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "9eYijJQbi6lSbRQJdxEwJiDC7o6kAQCgod8Rz205GHg=",
+          "cp39"
+        ]
+      }
+    },
+    "1.1.2": {
+      "wheels": {
+        "navconfig-1.1.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "VlQk6ylx6ZkTTFi4RU8fxomBDeD8FwsdWlGlgWI52Go=",
+          "cp310"
+        ],
+        "navconfig-1.1.2-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "HS/hvcjeEReEzgM5pDaxk6Zcke0R5P/9NqpZO/IZuSo=",
+          "cp311"
+        ],
+        "navconfig-1.1.2-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "AolfYhSBm/B3L0egHovcHM4gZjoSy6+yuNM5+aBqris=",
           "cp39"
         ]
       }
@@ -134884,6 +134978,18 @@
         ]
       }
     },
+    "0.1.209": {
+      "sdist": [
+        "nKeVmpebVotYKZ7Hy1WIGWV4IrPaIIumswEvPExYtzQ=",
+        "state-machine-semaphore-0.1.209.tar.gz"
+      ],
+      "wheels": {
+        "state_machine_semaphore-0.1.209-py3-none-any.whl": [
+          "jWgulncvMStYb+630Wro8vLa2ky0RzLKbfYw6MqKPpo=",
+          "py3"
+        ]
+      }
+    },
     "0.1.21": {
       "sdist": [
         "pf/4rzGla/pjNSDpbHZNLNDluYTa2KveXzsA3z1JEyg=",
@@ -137430,6 +137536,22 @@
         ],
         "stonemark-0.3.3-py3-none-any.whl": [
           "fT0SZE4fI+tNRoxw2sjiJ1zwHJVbBlNaP80eChYYtmM=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.4": {
+      "sdist": [
+        "tS2lsT0DwyXHIrq9XnkotAUYUMbl9bdYwelFT6KAv4Y=",
+        "stonemark-0.3.4.tar.gz"
+      ],
+      "wheels": {
+        "stonemark-0.3.4-py2-none-any.whl": [
+          "Py3kTkOsFYXdY7Hp4ChOx//vZnPfC621rI3eigm8L1M=",
+          "py2"
+        ],
+        "stonemark-0.3.4-py3-none-any.whl": [
+          "OIvVoWBWf8mSnhVplAEp82xDAo5UvGYIyO10wk5lLlM=",
           "py3"
         ]
       }

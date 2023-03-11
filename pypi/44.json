@@ -17687,6 +17687,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.89": {
+      "sdist": [
+        "E6v5rsREG/RlBJohsGW0gF+Q0TQD3DNfANM0oMx5p2Q=",
+        "botocore-a-la-carte-iotthingsgraph-1.29.89.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_iotthingsgraph-1.29.89-py3-none-any.whl": [
+          "RFNcSdB+yuiP5bFA9L9XzngHOaXHg/bAe/DhYqYr6Xg=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-xray": {
@@ -18250,6 +18262,18 @@
       "wheels": {
         "botocore_a_la_carte_xray-1.29.88-py3-none-any.whl": [
           "heeEdBiv3XKPUpCSls0jEtOGKrx+LmZEc4QuRo53yJU=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.89": {
+      "sdist": [
+        "YnMX5+ZB7C9n0coLFADE2/DnVo2xeL5HHCEL3G/70TQ=",
+        "botocore-a-la-carte-xray-1.29.89.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_xray-1.29.89-py3-none-any.whl": [
+          "0RhdZOG9ovGTdZb5H7wjRH1g3DchGQJHQTcmKgNOa6s=",
           "py3"
         ]
       }
@@ -36771,6 +36795,94 @@
           "cp39"
         ]
       }
+    },
+    "3.1.6": {
+      "sdist": [
+        "NF5L5AKnimzKiNeOIALol6YCdAL2tvo0AHPLSX52IzI=",
+        "cornflakes-3.1.6.tar.gz"
+      ],
+      "wheels": {
+        "cornflakes-3.1.6-cp310-cp310-macosx_10_15_x86_64.whl": [
+          "MBHE5oMciO99ORxMuaimmOhivkOC6mnQSMZbV157efY=",
+          "cp310"
+        ],
+        "cornflakes-3.1.6-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "j/6iv6x88QlXPVAVfCqBRf4lsthYU6y23JGOh82yzK8=",
+          "cp310"
+        ],
+        "cornflakes-3.1.6-cp310-cp310-manylinux_2_28_x86_64.manylinux_2_24_x86_64.whl": [
+          "8TMadynG6BpaVab6IyNd7siJTPx0M4smMeC9NsxK7JE=",
+          "cp310"
+        ],
+        "cornflakes-3.1.6-cp310-cp310-manylinux_2_35_x86_64.whl": [
+          "2rjI23dg91y+snV59QOHSB7KCkDBOUEyE12WZ5HkP+Y=",
+          "cp310"
+        ],
+        "cornflakes-3.1.6-cp310-cp310-win_amd64.whl": [
+          "l/LBf6onh3eTWm/Rb7+4rpCS7y7fmRe2ixgwE0C6xkE=",
+          "cp310"
+        ],
+        "cornflakes-3.1.6-cp311-cp311-macosx_10_15_x86_64.whl": [
+          "fDpx7ieriDEbWWQCm3gwnGv3J6/GF7KSfDgnro8t8U4=",
+          "cp311"
+        ],
+        "cornflakes-3.1.6-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "QHp23r+i0YrORfDC2v4yTVk56GIgo0f37u9EzNRiIfk=",
+          "cp311"
+        ],
+        "cornflakes-3.1.6-cp311-cp311-manylinux_2_28_x86_64.manylinux_2_24_x86_64.whl": [
+          "JA5B5mgzZTge5RBihELr32E0JhMyg3ThGGbiN1lpgkI=",
+          "cp311"
+        ],
+        "cornflakes-3.1.6-cp311-cp311-manylinux_2_35_x86_64.whl": [
+          "2Da4zdCx69alEEwZ2o7Zh3ce3QbH8uxBdMuHf79QGV4=",
+          "cp311"
+        ],
+        "cornflakes-3.1.6-cp311-cp311-win_amd64.whl": [
+          "3YqfTT3ajJs8+1LKTunrClWRIyd6CSxfWyJvzMRwo7o=",
+          "cp311"
+        ],
+        "cornflakes-3.1.6-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "5I+03Kx8jBJPmn3wivd/8J2CkZPDnli54MYl6lTQoV0=",
+          "cp38"
+        ],
+        "cornflakes-3.1.6-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "wpDd1/WGnjkD776jxT6n/TVXSRTr6FjGcdE8nuoPxKc=",
+          "cp38"
+        ],
+        "cornflakes-3.1.6-cp38-cp38-manylinux_2_28_x86_64.manylinux_2_24_x86_64.whl": [
+          "cPyuPcK7i6ipZKInjelBUUV8s97L4sOpheTLmzEFp9k=",
+          "cp38"
+        ],
+        "cornflakes-3.1.6-cp38-cp38-manylinux_2_35_x86_64.whl": [
+          "79q9muqprDtxUoKsLmT3NXpqra+SepyL5JdIJ4qL/2Q=",
+          "cp38"
+        ],
+        "cornflakes-3.1.6-cp38-cp38-win_amd64.whl": [
+          "MPckDPUKTlr9VqTQAR5Yzt0UoazY05WaRiuE7AgjYGk=",
+          "cp38"
+        ],
+        "cornflakes-3.1.6-cp39-cp39-macosx_10_15_x86_64.whl": [
+          "EfwGe7R0iiZC8oeoouJpyE4RZ1sB952Uk8h+cqc2RAg=",
+          "cp39"
+        ],
+        "cornflakes-3.1.6-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "DvTjSpXvcZesE5v+cUgi6R+27vRiWmvc4zqEX7H9PAo=",
+          "cp39"
+        ],
+        "cornflakes-3.1.6-cp39-cp39-manylinux_2_28_x86_64.manylinux_2_24_x86_64.whl": [
+          "AoPSSc+/6pcRLjpEV91PZaoyeTU9gC8cW6epK8kMz/E=",
+          "cp39"
+        ],
+        "cornflakes-3.1.6-cp39-cp39-manylinux_2_35_x86_64.whl": [
+          "yq4RBvLThq5R2TdIH5jLQqcPs8fwDyz0KCYRb/jw8y0=",
+          "cp39"
+        ],
+        "cornflakes-3.1.6-cp39-cp39-win_amd64.whl": [
+          "kKyJUzyiiEAiCBIoWBusrvHbWWfFR7dEo9ZmLc4PU+0=",
+          "cp39"
+        ]
+      }
     }
   },
   "cosmophotoz": {
@@ -51011,6 +51123,24 @@
       }
     }
   },
+  "energiapy": {
+    "1.0.0": {
+      "wheels": {
+        "energiapy-1.0.0-py3-none-any.whl": [
+          "7e3di6z0rlitwEDV2JLbmhJeKtcmqTMwoSukfT3E3rk=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.1": {
+      "wheels": {
+        "energiapy-1.0.1-py3-none-any.whl": [
+          "0Y8ZLKaYui5cLAtHXDOuvc7dCzifAWx8yqn3LUUKMac=",
+          "py3"
+        ]
+      }
+    }
+  },
   "entroport": {
     "0.1": {
       "sdist": [
@@ -51560,6 +51690,24 @@
       "sdist": [
         "A23/YCpYVs26HSEqNEq1RK1K3hT0c9F6rMMWF4GSQeU=",
         "evaics-0.0.40.tar.gz"
+      ]
+    },
+    "0.0.41": {
+      "sdist": [
+        "L6e4DRz7+iT0vckWkqpi73+wBVMZk13sn/LhhrPbSXY=",
+        "evaics-0.0.41.tar.gz"
+      ]
+    },
+    "0.0.42": {
+      "sdist": [
+        "1acxOnTyNzXdgIJMSe9syIHOoQpfkzH9cpP0oTXZ3ag=",
+        "evaics-0.0.42.tar.gz"
+      ]
+    },
+    "0.0.43": {
+      "sdist": [
+        "fr/M7DgsdFKF5nLq4/2gbdVyxlaoWLjRiQmLvQm5TXI=",
+        "evaics-0.0.43.tar.gz"
       ]
     },
     "0.0.5": {
@@ -94268,6 +94416,22 @@
         ],
         "ogre_python-13.6.2-cp310-cp310-win_amd64.whl": [
           "qhrvbThI3RpoNhfjyvkqvRMknWc1G8kn34P9EqM6E7k=",
+          "cp310"
+        ]
+      }
+    },
+    "13.6.3": {
+      "wheels": {
+        "ogre_python-13.6.3-cp310-cp310-macosx_11_0_x86_64.whl": [
+          "BGmo87MpPk30bCtwWL4F12UweOq3FRyT0j0QsBrPMJo=",
+          "cp310"
+        ],
+        "ogre_python-13.6.3-cp310-cp310-manylinux2014_x86_64.whl": [
+          "Y6AQlyZwVTBCqSnX4RI4EW+ArU9Y4sA6g//PGSw5118=",
+          "cp310"
+        ],
+        "ogre_python-13.6.3-cp310-cp310-win_amd64.whl": [
+          "aeFqf3ESv0rrLFZ71I1hXA/dKYPrkQVx8hKa5zaTmPQ=",
           "cp310"
         ]
       }

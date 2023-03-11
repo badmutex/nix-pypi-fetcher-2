@@ -26566,6 +26566,12 @@
         "colossalai-nightly-2023.2.4.tar.gz"
       ]
     },
+    "2023.3.11": {
+      "sdist": [
+        "B/pLcFKwNt5ncAhoIJaT2bQjuwXXHtXZB8DSw1hb2I0=",
+        "colossalai-nightly-2023.3.11.tar.gz"
+      ]
+    },
     "2023.3.4": {
       "sdist": [
         "Mm5YhOR171N/B9/MqGn9cmjt5fZAu86K/pqDac2bVek=",
@@ -71481,6 +71487,30 @@
           "py3"
         ]
       }
+    },
+    "1.0.1": {
+      "sdist": [
+        "o9TQVvimzfJDLIt2rYzfj3t3qJ65fbd5D5ewFJJlCug=",
+        "margo_parser-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "margo_parser-1.0.1-py3-none-any.whl": [
+          "P3Q5Bp6H1ni+YzU9PnRO/HTPI1LwAXEly8tVZKFStrk=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.2": {
+      "sdist": [
+        "dBwze+h1mpZkWXUGQUCBNmLjlP9T2ZleIZAJjCjQFqc=",
+        "margo_parser-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "margo_parser-1.0.2-py3-none-any.whl": [
+          "fK7YF7AwecBOyZ/eUZC2UZzphcKBN2GrO0WuK5mEaZU=",
+          "py3"
+        ]
+      }
     }
   },
   "markdown-it-py": {
@@ -73922,6 +73952,18 @@
       "wheels": {
         "microvenv-2023.0.0-py3-none-any.whl": [
           "HZlpYgiCuxbFyla0VLAZj+Obx64oXC1wLI/TX/yja+w=",
+          "py3"
+        ]
+      }
+    },
+    "2023.1.0": {
+      "sdist": [
+        "YSWtGjieam+ygFP74Ix3EswNApWXCYr/HgE7j3+1cOw=",
+        "microvenv-2023.1.0.tar.gz"
+      ],
+      "wheels": {
+        "microvenv-2023.1.0-py3-none-any.whl": [
+          "mL72z+b4WGJNP4UooVfGjbxdjmLyZj6QBEle4mzb2YE=",
           "py3"
         ]
       }

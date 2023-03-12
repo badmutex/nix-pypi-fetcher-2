@@ -24112,6 +24112,18 @@
         ]
       }
     },
+    "1.70.0": {
+      "sdist": [
+        "H12dLHXdyhOpddP3Bdl9OlzWJ5GuFlCEOWuqdLL9aNU=",
+        "datayoga_core-1.70.0.tar.gz"
+      ],
+      "wheels": {
+        "datayoga_core-1.70.0-py3-none-any.whl": [
+          "Cpt1eb5ywDcmz7rqE+LswezsqXfqwV+HakQYpCaMa5s=",
+          "py3"
+        ]
+      }
+    },
     "1.8.0": {
       "sdist": [
         "9YQgRTrFKsB31G/FKTVPC3RBz6WracP0YXnPqYv5lvE=",
@@ -69761,6 +69773,18 @@
         "14tcyHTdnVeK7ToSN9oelrqbW06CCQFhyL85zNJ+fYM=",
         "localstack-ext-1.4.1.dev20230311211518.tar.gz"
       ]
+    },
+    "1.4.1.dev20230312125929": {
+      "sdist": [
+        "9uuj/vKiuzs2Ovk4sTLLOkRa4hNWcdeXGVIAF38DmEs=",
+        "localstack-ext-1.4.1.dev20230312125929.tar.gz"
+      ]
+    },
+    "1.4.1.dev20230312163603": {
+      "sdist": [
+        "AujvmfQtz4EZy8Ywua0bDrT7VtLDDFA4FN2X5kert2o=",
+        "localstack-ext-1.4.1.dev20230312163603.tar.gz"
+      ]
     }
   },
   "lodash": {
@@ -75893,6 +75917,20 @@
         "mixbox-1.0.5-py2.py3-none-any.whl": [
           "FwVR7EFaBwWzwmyS4/df4c3JXMf3Hytq2kJI+x6W0DU=",
           "py2.py3"
+        ]
+      }
+    }
+  },
+  "mjcf-urdf-simple-converter": {
+    "0.1": {
+      "sdist": [
+        "JRCI2APDpSjwtmydMjOcQOyNSV3Y9zxGu4p1EgEM0BI=",
+        "mjcf_urdf_simple_converter-0.1.tar.gz"
+      ],
+      "wheels": {
+        "mjcf_urdf_simple_converter-0.1-py3-none-any.whl": [
+          "xhmOrFPI2RQ4l1nwauG8OJ8PStANZdRPznA2veJHYNU=",
+          "py3"
         ]
       }
     }
@@ -124399,6 +124437,32 @@
       }
     }
   },
+  "selenium-supporter": {
+    "0.0.1": {
+      "sdist": [
+        "j0sfAimHXT1Brad32WCZYoGK0d2Xo2i2WiMvSwXlBUw=",
+        "selenium-supporter-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "selenium_supporter-0.0.1-py3-none-any.whl": [
+          "Omi/KfU4COGbQ5Ork023fjrW5zr4GxUT5HbSYYZ/600=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "C90X7mT33w7RChMJbXC8hrBmdG3hZoHQTrvadANXwfE=",
+        "selenium-supporter-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "selenium_supporter-0.0.2-py3-none-any.whl": [
+          "jcn/o1rFkTpn9RBkJjiwCcWazYCy3COd8bEgxX76P0g=",
+          "py3"
+        ]
+      }
+    }
+  },
   "semantic-release-naas-test": {
     "1.0.2": {
       "sdist": [
@@ -133908,6 +133972,16 @@
       "wheels": {
         "tdmclient-0.1.9-py3-none-any.whl": [
           "fohINt3TqUXD/1UnjMhEjA7TaXkDz5m/G2ABP2MIQ8Q=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "telegra": {
+    "0.0.1": {
+      "wheels": {
+        "telegra-0.0.1-py3-none-any.whl": [
+          "Fd7YoTQHvKFyDW05Pg6HP4ZeQyZGm3MxcD7TkdBjPUo=",
           "py3"
         ]
       }
@@ -151834,6 +151908,34 @@
         ],
         "xia_api_flask-0.1.6-cp39-none-win_amd64.whl": [
           "qa+EI2tN7eOqq3t3hkk88jz4Nb/HQe7uDbibuAZyluQ=",
+          "cp39"
+        ]
+      }
+    },
+    "0.1.7": {
+      "wheels": {
+        "xia_api_flask-0.1.7-cp310-none-macosx_11_0_x86_64.whl": [
+          "6ZPpcgnZnlPbFhrdC8KJxhdpX4upPDD1J5k0m5NjA+g=",
+          "cp310"
+        ],
+        "xia_api_flask-0.1.7-cp310-none-manylinux1_x86_64.whl": [
+          "jzOYXFzbnDyw6dqAFs9I1HnScA6NLBgGMkHNgnTeoPE=",
+          "cp310"
+        ],
+        "xia_api_flask-0.1.7-cp310-none-win_amd64.whl": [
+          "QtbrPJvCz7IU0Tt/TsCUNUQVBsVqtsq8aY6YDOh9QhE=",
+          "cp310"
+        ],
+        "xia_api_flask-0.1.7-cp39-none-macosx_11_0_x86_64.whl": [
+          "8Y9CVqAFVdizzyLhC+fuplY+MiO74IWtYLxCSsRr/V0=",
+          "cp39"
+        ],
+        "xia_api_flask-0.1.7-cp39-none-manylinux1_x86_64.whl": [
+          "r+gsR67Q7mAn7ZANtckPI9EpgSJk83hBvcrSFwRHVdM=",
+          "cp39"
+        ],
+        "xia_api_flask-0.1.7-cp39-none-win_amd64.whl": [
+          "3MRj4G/TaovQjMpk5nZcvOFHBpvxGXTKbfPmSmv4bfE=",
           "cp39"
         ]
       }

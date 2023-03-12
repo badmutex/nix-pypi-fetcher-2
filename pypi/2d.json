@@ -11553,6 +11553,18 @@
           "py3"
         ]
       }
+    },
+    "0.7.0b20230312": {
+      "sdist": [
+        "S//PjpfDuCH1S4Q16w1Au7VkO/TW4lfHIfnvJvBEs6E=",
+        "autogluon.timeseries-0.7.0b20230312.tar.gz"
+      ],
+      "wheels": {
+        "autogluon.timeseries-0.7.0b20230312-py3-none-any.whl": [
+          "Yv1hMk/kmUjjeOqdgA39Cp9oR19r6/i4Bpj1RLzoswE=",
+          "py3"
+        ]
+      }
     }
   },
   "autohooks-plugin-pytest": {
@@ -98125,6 +98137,48 @@
       }
     }
   },
+  "profeatpy": {
+    "0.0.1": {
+      "wheels": {
+        "profeatpy-0.0.1-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "UMC7Mw7lMiEs8cNyZ5l6arFlUs6/gUXGz8C9ytYj00E=",
+          "cp38"
+        ],
+        "profeatpy-0.0.1-cp38-cp38-win_amd64.whl": [
+          "4x+jKu0Nrohrr3FlO8xn0855AxsKuqPpYk5KWH4UbRk=",
+          "cp38"
+        ],
+        "profeatpy-0.0.1-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "bDEBB7Ci380p76/BAyHq8NCQElPTsJMkTeFasOjSLjw=",
+          "cp39"
+        ],
+        "profeatpy-0.0.1-cp39-cp39-win_amd64.whl": [
+          "+vOTmdEojXV+wZWAmf5OmYAZS1f44yKZ2X0Z32oDCPw=",
+          "cp39"
+        ]
+      }
+    },
+    "0.0.2": {
+      "wheels": {
+        "profeatpy-0.0.2-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "xx2RkGLaqyainKH/qWG0RGEoxutvk2OLlUUJHi64Slo=",
+          "cp38"
+        ],
+        "profeatpy-0.0.2-cp38-cp38-win_amd64.whl": [
+          "IsZye6WY8lCPnbb5JiebdlnY8omkgPgp0Cy7aazLLxo=",
+          "cp38"
+        ],
+        "profeatpy-0.0.2-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "RieJoBfReGOQInf3eDs9PtPi5Qi4p4ZFoeRxbiFp0iw=",
+          "cp39"
+        ],
+        "profeatpy-0.0.2-cp39-cp39-win_amd64.whl": [
+          "8F0fEO1TplfQcAcqPYwaF+TxMSVWQxkAuROKaa7Sbu4=",
+          "cp39"
+        ]
+      }
+    }
+  },
   "profilegrab": {
     "0.1": {
       "sdist": [
@@ -141590,6 +141644,12 @@
       "sdist": [
         "TakYziHTAxRknhpG90npDcJGEmCFIFh88cNB0Z0WbYY=",
         "tltk-1.6.4.tar.gz"
+      ]
+    },
+    "1.6.5": {
+      "sdist": [
+        "d3SvTPpIPlm6aRO+J/QyRKMrjnNzRI/eRh/kR3vSqys=",
+        "tltk-1.6.5.tar.gz"
       ]
     }
   },

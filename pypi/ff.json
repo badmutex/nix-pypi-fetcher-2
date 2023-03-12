@@ -21030,6 +21030,18 @@
         ]
       }
     },
+    "2.2.10": {
+      "sdist": [
+        "Nq7e8QIHQXmXgPF9ka2LPJ1IUlExspuTs60iWWgjaC0=",
+        "cdk-bootstrapless-synthesizer-2.2.10.tar.gz"
+      ],
+      "wheels": {
+        "cdk_bootstrapless_synthesizer-2.2.10-py3-none-any.whl": [
+          "15H2BlSOwH8IEaoVCE0idLcde7Y188uNb1k/AfGjaSw=",
+          "py3"
+        ]
+      }
+    },
     "2.2.2": {
       "sdist": [
         "L8mkFrrquzJoXw4W5lCePG7xpoo/2BW7wd1j6kjZXPo=",
@@ -21098,6 +21110,30 @@
       "wheels": {
         "cdk_bootstrapless_synthesizer-2.2.7-py3-none-any.whl": [
           "uY4yWI+hNBKUx/sE5mmazqnif1FcxycRMDSwZXCD4vc=",
+          "py3"
+        ]
+      }
+    },
+    "2.2.8": {
+      "sdist": [
+        "kAfh3J6Bv5acqGe7GwHvF3uJQwVj5Nz9zs97y/QJs5o=",
+        "cdk-bootstrapless-synthesizer-2.2.8.tar.gz"
+      ],
+      "wheels": {
+        "cdk_bootstrapless_synthesizer-2.2.8-py3-none-any.whl": [
+          "axXr3xb+sPG2ljGSeFgJlt1pzrROHpIfOVyP37EiG6Q=",
+          "py3"
+        ]
+      }
+    },
+    "2.2.9": {
+      "sdist": [
+        "c5nfnuaPx5LvoMjjRxRganvmOqFF7eyjfnZ32OVJsVc=",
+        "cdk-bootstrapless-synthesizer-2.2.9.tar.gz"
+      ],
+      "wheels": {
+        "cdk_bootstrapless_synthesizer-2.2.9-py3-none-any.whl": [
+          "pC/PTP1+rGw4U2qFdCwL6i1qYpbDVOczYP/Kfv2r22I=",
           "py3"
         ]
       }
@@ -33741,6 +33777,20 @@
           "py3"
         ]
       }
+    }
+  },
+  "cryptolibrary": {
+    "0.0.1": {
+      "sdist": [
+        "Os86jthRjl16xfil42dApOsVFTlCGmiIoD7Ct0gmgx0=",
+        "cryptolibrary-0.0.1.tar.gz"
+      ]
+    },
+    "0.0.2": {
+      "sdist": [
+        "b+gOIY7pQp0YFQwYU8EDJuFPY+PWP0TXiEJ1Omcdvp4=",
+        "cryptolibrary-0.0.2.tar.gz"
+      ]
     }
   },
   "cs253-tej-pip": {
@@ -50317,6 +50367,14 @@
       }
     }
   },
+  "esqproofpostvisa": {
+    "3.58": {
+      "sdist": [
+        "pHGn8B6Gpd27AJQGUZnrhUNyISCp6g/vhri/yBtkMB8=",
+        "esqproofpostvisa-3.58.tar.gz"
+      ]
+    }
+  },
   "esy-osm-pbf": {
     "0.0.1": {
       "sdist": [
@@ -55247,6 +55305,20 @@
         "GameTracker-2.0.1-py3-none-any.whl": [
           "o8rkgDeKClWNNbL9+MsvCFwxtHV1/hgHuh9T0437fKE=",
           "py3"
+        ]
+      }
+    }
+  },
+  "ganymede-aux": {
+    "0.3.2": {
+      "wheels": {
+        "ganymede_aux-0.3.3-cp39-cp39-manylinux_2_34_x86_64.whl": [
+          "n+njm5+OWZcBRg8biKuiTxNHZr3thxTmjbJYCB203eo=",
+          "cp39"
+        ],
+        "ganymede_aux-0.3.3-cp39-cp39-win_amd64.whl": [
+          "JrfF/n+06V7J/49pS6xnYzMqU6VB+cqdVAXLkUX0bps=",
+          "cp39"
         ]
       }
     }
@@ -160520,6 +160592,34 @@
         ],
         "xia_api-0.1.5-cp39-none-win_amd64.whl": [
           "APWKaUR+BDAkOnIFBOiDwUaXcw3kiuVk+0qyZWr2jww=",
+          "cp39"
+        ]
+      }
+    },
+    "0.1.7": {
+      "wheels": {
+        "xia_api-0.1.7-cp310-none-macosx_11_0_x86_64.whl": [
+          "ZRs6Coa+pBmogb/T33rpZ+DB10PBeY7hlV2ZUq+gNjw=",
+          "cp310"
+        ],
+        "xia_api-0.1.7-cp310-none-manylinux1_x86_64.whl": [
+          "vc4jPiHl+Aak9ArWvqciN038IQZ9wVE8GtTexsN9ppk=",
+          "cp310"
+        ],
+        "xia_api-0.1.7-cp310-none-win_amd64.whl": [
+          "HTnEuyHCCRhGEqscHxn7XbzTXgee9U4FTAg0ZDbAJrY=",
+          "cp310"
+        ],
+        "xia_api-0.1.7-cp39-none-macosx_11_0_x86_64.whl": [
+          "RdNiAXWXjZIxhHg1b8MWbZKd1QgnTOQgAAMgWI2v5YE=",
+          "cp39"
+        ],
+        "xia_api-0.1.7-cp39-none-manylinux1_x86_64.whl": [
+          "PBaXqNOLUC13h0kO70pGEXciR0TLTTFsjoA5aS/flmE=",
+          "cp39"
+        ],
+        "xia_api-0.1.7-cp39-none-win_amd64.whl": [
+          "nNM5K9B1L+PE9urh0OvwcYpDvNIB3E21ztiFiQkgev0=",
           "cp39"
         ]
       }

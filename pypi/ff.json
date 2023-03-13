@@ -18632,6 +18632,18 @@
         ]
       }
     },
+    "0.0.22": {
+      "sdist": [
+        "oz+AuLr+f0ae0JH7QI45nbhGjYhLJcNfLYBXGdVP844=",
+        "canaille-0.0.22.tar.gz"
+      ],
+      "wheels": {
+        "canaille-0.0.22-cp310-cp310-manylinux_2_37_x86_64.whl": [
+          "rDm8Lh/DlK+KKke+kd40d0I6Yc0vPLOcN4MpwJ8/m1U=",
+          "cp310"
+        ]
+      }
+    },
     "0.0.3": {
       "sdist": [
         "gE0gyS6O2Job3bmGu3k6+VkOWTBpE7yDT6NyQeoKhLQ=",
@@ -34904,6 +34916,30 @@
         ]
       }
     },
+    "2.2.4a4": {
+      "sdist": [
+        "HNSocEe7bHYrRdx2F9BaeUx7RV/P/BUWUjo8isY0Ras=",
+        "CTADIRAC-2.2.4a4.tar.gz"
+      ],
+      "wheels": {
+        "CTADIRAC-2.2.4a4-py3-none-any.whl": [
+          "/KWf3Z9lRgHIYZgThX8+8cAucGZNBa3BBTdmiESJWH8=",
+          "py3"
+        ]
+      }
+    },
+    "2.2.5": {
+      "sdist": [
+        "a0t4SuE6xqNvQsGLr+TVZac0CxCi1HWMBBj91JionlI=",
+        "CTADIRAC-2.2.5.tar.gz"
+      ],
+      "wheels": {
+        "CTADIRAC-2.2.5-py3-none-any.whl": [
+          "ePSjvijpc4f26Zy7JECtocyH+fX3RxPM5/lb4cerDig=",
+          "py3"
+        ]
+      }
+    },
     "2.2a3": {
       "sdist": [
         "scr17R4JAzINP5HDC2Mfb6g+uv+U46WxDrfXc99aznI=",
@@ -46823,6 +46859,44 @@
         "I+cqZVN/26k9y8Gv+Q63iWzapms17J0OuNPh5a1iTao=",
         "doctest2-0.1.tar.gz"
       ]
+    }
+  },
+  "documennt-detection": {
+    "1.0.0": {
+      "sdist": [
+        "7iDWHJrJG0G9e5Ebh7W/+L2sCMfliM5tAgFe/zwXJ+I=",
+        "documennt_detection-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "documennt_detection-1.0.0-py3-none-any.whl": [
+          "59gFdE01+RfSNWFSHqzKd1UyKpB8RE6r+FDuvDB7y/w=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.1": {
+      "sdist": [
+        "FsgUTAdcLSWLM4W2oDsVuhNuE2ezAqgkmw+++uhwGFk=",
+        "documennt_detection-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "documennt_detection-1.0.1-py3-none-any.whl": [
+          "I3GujwojhAVGnKvoOjoKc0YEa3F4Rw2+eHKyhPL2MpQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.2": {
+      "sdist": [
+        "XYIxGssF56w7fdrfXixgV+1L5XmVuAYa8pe4d+jsqqE=",
+        "documennt_detection-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "documennt_detection-1.0.2-py3-none-any.whl": [
+          "YooUenXJxe7oUXqYKghAHV7rwQQXIFJqBGOsuHHtbIc=",
+          "py3"
+        ]
+      }
     }
   },
   "dodo-deploy-commands": {
@@ -75954,30 +76028,6 @@
     }
   },
   "maptasker": {
-    "1.2.23": {
-      "sdist": [
-        "vpom9kDNNZkLI+BzqUuVW3o3EngoVa9pAHmDXNXCFu4=",
-        "maptasker-1.2.23.tar.gz"
-      ],
-      "wheels": {
-        "maptasker-1.2.23-py3-none-any.whl": [
-          "4Hg1l/CE72vZPk1ODo97L7nLWxBghusLohaBJDkvDhY=",
-          "py3"
-        ]
-      }
-    },
-    "1.2.25": {
-      "sdist": [
-        "8VF7Pv1BmoeFi7ymeHIVVjtq+UKLe0Gvpg/lP+0lArQ=",
-        "maptasker-1.2.25.tar.gz"
-      ],
-      "wheels": {
-        "maptasker-1.2.25-py3-none-any.whl": [
-          "uohtnh8+hy7yuUHNjFvLN7S73huy8kV2CE6CdRmbids=",
-          "py3"
-        ]
-      }
-    },
     "1.2.26": {
       "sdist": [
         "W081nX8csqArxgdWbURi9dKqM7yAMPiX9HtzAvrF5A4=",
@@ -102000,6 +102050,86 @@
         ],
         "polylidar-1.0.8-cp39-cp39-win_amd64.whl": [
           "+r3gMFbUbeWsUKN/Zd4hPWRqxbj4QG7YrDPirK1IA5I=",
+          "cp39"
+        ]
+      }
+    },
+    "1.0.9": {
+      "sdist": [
+        "5mU4ulpZ0pwcsNq1Z1m3LSWIahCtOElqSWCvWxOkq+s=",
+        "polylidar-1.0.9.tar.gz"
+      ],
+      "wheels": {
+        "polylidar-1.0.9-cp310-cp310-macosx_10_9_universal2.whl": [
+          "D0xzWUEIIhJ3E5AL2+65fauC0OPUreCtXMssedjCk1o=",
+          "cp310"
+        ],
+        "polylidar-1.0.9-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "JPsyUEQPz7xaO2mNjA8oQUUuskNLi0LAd0+jnWFjcww=",
+          "cp310"
+        ],
+        "polylidar-1.0.9-cp310-cp310-macosx_11_0_arm64.whl": [
+          "vDzfwjsitFRGhd+mt70EToQ3075zgJhYwZgWrWXZDkE=",
+          "cp310"
+        ],
+        "polylidar-1.0.9-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "j7VPY4jVZDz1q86xTKFE6h9WCOXkGbxYo4/jwXNwfpI=",
+          "cp310"
+        ],
+        "polylidar-1.0.9-cp310-cp310-win_amd64.whl": [
+          "OxcxP5UIHVg9oCnNoEl9jZXcLBEpXXK6wI2wJC9iIXA=",
+          "cp310"
+        ],
+        "polylidar-1.0.9-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "Rsk5zyXvG/ZWqziL8Esr5d0yam5O5eJU30Vs/aAT7zg=",
+          "cp37"
+        ],
+        "polylidar-1.0.9-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "LxdMPEdefUw5dzO6wJ8zMvVyypF+VFSTeFnFA/Jnb6Q=",
+          "cp37"
+        ],
+        "polylidar-1.0.9-cp37-cp37m-win_amd64.whl": [
+          "fMyb1aR0Ys0nQJXP8gARmzGvBMtJx3Z+sF1BD60rI5g=",
+          "cp37"
+        ],
+        "polylidar-1.0.9-cp38-cp38-macosx_10_9_universal2.whl": [
+          "feyxMQzzMRgtqRRpob2cLac9y/qYg3VkvFtT0KuXmy4=",
+          "cp38"
+        ],
+        "polylidar-1.0.9-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "pk+Kjs58hyPv5e64n5cMVup8K6xb2a3zOJ37d6eA6Tc=",
+          "cp38"
+        ],
+        "polylidar-1.0.9-cp38-cp38-macosx_11_0_arm64.whl": [
+          "hKW6fYtmuvBWqRB0c0Jl1m7E842+u8FJNsltmJjvLy8=",
+          "cp38"
+        ],
+        "polylidar-1.0.9-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "pjIa+6wiO/ZksRZ/e8NUrs0vsxqrSu6ggAl5fek1Rzw=",
+          "cp38"
+        ],
+        "polylidar-1.0.9-cp38-cp38-win_amd64.whl": [
+          "10he7ANBWBOpf3ZroqjLUywENzZLaMDVNWAqlS85960=",
+          "cp38"
+        ],
+        "polylidar-1.0.9-cp39-cp39-macosx_10_9_universal2.whl": [
+          "phHxQMEJrtp8ogwjQfq9ax16tvcwOljdtgGFD+4SiCA=",
+          "cp39"
+        ],
+        "polylidar-1.0.9-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "Qid4I7XES5JOGpf7ajGAFzfjaLeH+ObrcgwzKFqsHLs=",
+          "cp39"
+        ],
+        "polylidar-1.0.9-cp39-cp39-macosx_11_0_arm64.whl": [
+          "L61URj/czHXxD1sdBaSEOwV1T1zBmtwa29b97gs/hYM=",
+          "cp39"
+        ],
+        "polylidar-1.0.9-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "lQfSBweu/i/dmg8k7VKfGNV6E3rQuKbqyHC3iFhe7CE=",
+          "cp39"
+        ],
+        "polylidar-1.0.9-cp39-cp39-win_amd64.whl": [
+          "55bHzfW4Kd57r8485YfH3Vx684/+p4OmRgJhXq48YzE=",
           "cp39"
         ]
       }
@@ -147316,6 +147446,18 @@
       "wheels": {
         "tencentcloud_sdk_python_ckafka-3.0.848-py2.py3-none-any.whl": [
           "EaQnjdcUWoFA4uVuE/fE0QZM0Or9KLMGbHplONA82Yo=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.849": {
+      "sdist": [
+        "T7I+q0aROAWhjds+afBmmLnXHCt8u7DHcn7jVCbscsE=",
+        "tencentcloud-sdk-python-ckafka-3.0.849.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_ckafka-3.0.849-py2.py3-none-any.whl": [
+          "XKWooTpXJswV21jS1n06hXDq0dmideP+unwFFwxUbgE=",
           "py2.py3"
         ]
       }

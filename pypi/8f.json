@@ -25861,6 +25861,18 @@
           "py3"
         ]
       }
+    },
+    "0.2.9": {
+      "sdist": [
+        "jBqUemRaZGbSSa/iAvaTq8DlNS9PQ9N9aOZ3TONvCI4=",
+        "chatbot_webraft-0.2.9.tar.gz"
+      ],
+      "wheels": {
+        "chatbot_webraft-0.2.9-py3-none-any.whl": [
+          "RCuQZFmA1D21xh+DjsffKMu5WwebrBYNDhhPxO7UVeo=",
+          "py3"
+        ]
+      }
     }
   },
   "chatnoir-api": {
@@ -95456,6 +95468,18 @@
         ]
       }
     },
+    "0.16.13": {
+      "sdist": [
+        "R8Ijni7U/PcgZb/ZyIu2WrbUbDPBZjrhA8S0fL4tsL4=",
+        "polars_lts_cpu-0.16.13.tar.gz"
+      ],
+      "wheels": {
+        "polars_lts_cpu-0.16.13-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "/n2MPboqg0QcTFJHINmsiBVaTxnF6+qnOkwkmrLlCko=",
+          "cp37"
+        ]
+      }
+    },
     "0.16.2": {
       "sdist": [
         "Ck3NBeaNvymzJFLpWkMjLghZ9uGgi35itVp8UQrEDvU=",
@@ -120912,6 +120936,42 @@
         ]
       }
     },
+    "0.0.36": {
+      "sdist": [
+        "tsYUIBWXEKEsuyhyKRf4h7q9xRCw8kCmIhcEFbObbX4=",
+        "SLiM_phys-0.0.36.tar.gz"
+      ],
+      "wheels": {
+        "SLiM_phys-0.0.36-py3-none-any.whl": [
+          "q/+N1852JJujD2q3HPJ24wnfxQDLU+h7wo7KslEffcs=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.37": {
+      "sdist": [
+        "P44d88i494X75VXSXxlIiRaH4j7fynhoLihkCVGy2/Y=",
+        "SLiM_phys-0.0.37.tar.gz"
+      ],
+      "wheels": {
+        "SLiM_phys-0.0.37-py3-none-any.whl": [
+          "cd9DsvBCYxkqqNNHPbhxnhGCZZX293sfhv/RKXSuijE=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.38": {
+      "sdist": [
+        "IOnY1WYhaZd/hDz6YA0Mj878x5pOs8YwKQNK23VqmK8=",
+        "SLiM_phys-0.0.38.tar.gz"
+      ],
+      "wheels": {
+        "SLiM_phys-0.0.38-py3-none-any.whl": [
+          "nEhOExJodOyaX93UbqJxwKXTplbW/0Y5JyS2WU5RNJI=",
+          "py3"
+        ]
+      }
+    },
     "0.0.4": {
       "sdist": [
         "MuRluiyLLLIkIzuLY6IUV4mSJ+XMZEbcrc6HSQSzfP0=",
@@ -142288,26 +142348,26 @@
     }
   },
   "vaststream": {
-    "2.1.0": {
+    "2.1.0.2": {
       "wheels": {
-        "vaststream-2.1.0-cp310-cp310-manylinux1_x86_64.whl": [
-          "fUjDxpKh1yq5hkZi/4piLu5Cj5vXz2uRIYVQcfkx1q0=",
+        "vaststream-2.1.0.2-cp310-cp310-manylinux1_x86_64.whl": [
+          "J57XLh5iR2J0rd0pxBkI6fi1QydqFbls/R7nl2XWcWY=",
           "cp310"
         ],
-        "vaststream-2.1.0-cp36-cp36m-manylinux1_x86_64.whl": [
-          "W2rbkoWK8us1lHzIzOlHV/9i4cUM79aAJ/l3/kq8t4s=",
+        "vaststream-2.1.0.2-cp36-cp36m-manylinux1_x86_64.whl": [
+          "m3Eimq+Yzz0DjMt8M8/y45EmvEvN8CcpUR4UIcR11p4=",
           "cp36"
         ],
-        "vaststream-2.1.0-cp37-cp37m-manylinux1_x86_64.whl": [
-          "ekWetC+OGCspUfu15ZTmiKIIU8ZUZYJtFGpFc3xKvaA=",
+        "vaststream-2.1.0.2-cp37-cp37m-manylinux1_x86_64.whl": [
+          "fWEkiOuV47Kih/Rz/9ve9Gkbk96eB5GR5Qn1ZRGgG38=",
           "cp37"
         ],
-        "vaststream-2.1.0-cp38-cp38-manylinux1_x86_64.whl": [
-          "qUSZywyAkcqwhZbHDmslcuewVVLFn4lJKv1/XgU5JUw=",
+        "vaststream-2.1.0.2-cp38-cp38-manylinux1_x86_64.whl": [
+          "dBNRAVd8KE8iHn18S11bwg8jdVvUycMcaHet6Fox5AM=",
           "cp38"
         ],
-        "vaststream-2.1.0-cp39-cp39-manylinux1_x86_64.whl": [
-          "TnPAAUcKaoN+ZNAHw5q+EeqibhnlT6eYGtnNOWTica8=",
+        "vaststream-2.1.0.2-cp39-cp39-manylinux1_x86_64.whl": [
+          "bBG5wkePOv6+5Qtdk5b6XOMiQrhlg3uiT3dvO+KXATA=",
           "cp39"
         ]
       }

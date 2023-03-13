@@ -17065,6 +17065,18 @@
         "ytilcMWjqk5A/2lbz1khj8B9Be5p7veApl2XARn20ls=",
         "botgus-4.3.tar.gz"
       ]
+    },
+    "4.4": {
+      "sdist": [
+        "FPsfH5yFxy1T/DV8EDtXbJgs+qfHnsqY99N1RRC4B74=",
+        "botgus-4.4.tar.gz"
+      ]
+    },
+    "4.5": {
+      "sdist": [
+        "hv98C2yfro6Rev6/quZ696KgyYEm7f1krHQRUyk0YM8=",
+        "botgus-4.5.tar.gz"
+      ]
     }
   },
   "botlab": {
@@ -32931,6 +32943,20 @@
       ]
     }
   },
+  "colarise": {
+    "3.3.1": {
+      "sdist": [
+        "U6tkn+JacTmrv5WYSLHbnyVzAJF8phtHGR/mrZTauQU=",
+        "colarise-3.3.1.tar.gz"
+      ],
+      "wheels": {
+        "colarise-3.3.1-py3-none-any.whl": [
+          "Gvnt+SqNmxp+ChfvtZ2lc5KNIgi+Y0LrqTN5KH3qpLI=",
+          "py3"
+        ]
+      }
+    }
+  },
   "collectd": {
     "1.0": {
       "sdist": [
@@ -37808,6 +37834,18 @@
       "wheels": {
         "csv2bufr-0.4.1.1-py2.py3-none-any.whl": [
           "xElLGLe6rpZploHaXI4O/v0e0QxhLdXVYLQzkdyWniY=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.5.0": {
+      "sdist": [
+        "ShMBUaEFzGqTELR081NlZ07P7H3PQLLsOja4kN2I+2Q=",
+        "csv2bufr-0.5.0.tar.gz"
+      ],
+      "wheels": {
+        "csv2bufr-0.5.0-py2.py3-none-any.whl": [
+          "L+OBKhTfxxeI8P1J/pOW/Tj08XeTc4YSvFjEsEMd5ag=",
           "py2.py3"
         ]
       }
@@ -91703,6 +91741,16 @@
       }
     }
   },
+  "odoo12-addon-account-invoice-pricelist-technical": {
+    "12.0.1.0.1.99.dev4": {
+      "wheels": {
+        "odoo12_addon_account_invoice_pricelist_technical-12.0.1.0.1.99.dev4-py3-none-any.whl": [
+          "H3NKIZ3WAE1DOa4jMQvoO53S8tWtV3gWhEWBIfnm4AU=",
+          "py3"
+        ]
+      }
+    }
+  },
   "odoo12-addon-base-search-custom-field-filter": {
     "12.0.1.0.0.99.dev3": {
       "wheels": {
@@ -125910,6 +125958,12 @@
       "sdist": [
         "SzEfvfS3j/Uc6tMSN/+5qsEQPUIesWLMFHYfQo09m4I=",
         "sagemath-standard-10.0b2.tar.gz"
+      ]
+    },
+    "10.0b4": {
+      "sdist": [
+        "bmDWaezr7+6lTQCbn+E5BZlsR9e/g8xPpFixw482t0U=",
+        "sagemath-standard-10.0b4.tar.gz"
       ]
     },
     "9.3": {

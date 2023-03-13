@@ -48334,6 +48334,12 @@
         "energinet-ml-sdk-0.10.1.dev281.tar.gz"
       ]
     },
+    "0.10.1.dev282": {
+      "sdist": [
+        "ykofxzxOFRtevmWoNPKgdLGTjGS2LXBPbO9+W7fmE7w=",
+        "energinet-ml-sdk-0.10.1.dev282.tar.gz"
+      ]
+    },
     "0.5.16": {
       "sdist": [
         "0SSiVPr+B4e8ALaHwmidR2UEZUthA0IuPdfgJtuQYGE=",
@@ -50378,6 +50384,18 @@
       "wheels": {
         "eventstoredb-0.5.0-py3-none-any.whl": [
           "J4WyakCamFc7y+k6s3gouN7YE2ncQYt7rOaHSz4vLwE=",
+          "py3"
+        ]
+      }
+    },
+    "0.6.0": {
+      "sdist": [
+        "YoNNqf2IeuNRveFixhpXR8Cjqr0Vx7AXfCzewbNN6xw=",
+        "eventstoredb-0.6.0.tar.gz"
+      ],
+      "wheels": {
+        "eventstoredb-0.6.0-py3-none-any.whl": [
+          "yGtBW9lvYOD0Jq5Nke/+xMWrzDlIaAlDWx1HVe6lla8=",
           "py3"
         ]
       }
@@ -127480,6 +127498,30 @@
         ]
       }
     },
+    "3.3.66": {
+      "wheels": {
+        "ScriptCollection-3.3.66-py3-none-any.whl": [
+          "1FbeQwhqNiGhj64MJzGcFQfsARvMp4fu5MKLEuk1Cxw=",
+          "py3"
+        ]
+      }
+    },
+    "3.3.67": {
+      "wheels": {
+        "ScriptCollection-3.3.67-py3-none-any.whl": [
+          "ssUd4Rd5q0P7qwcyU3Gb9KCFZFdOpahLYrMrQRj0DVQ=",
+          "py3"
+        ]
+      }
+    },
+    "3.3.68": {
+      "wheels": {
+        "ScriptCollection-3.3.68-py3-none-any.whl": [
+          "tLEHmW5vj+bFjEMLILBi8Pw2gwNhyKGSZ9LK0cAWLG4=",
+          "py3"
+        ]
+      }
+    },
     "3.3.7": {
       "wheels": {
         "ScriptCollection-3.3.7-py3-none-any.whl": [
@@ -135088,6 +135130,18 @@
         ]
       }
     },
+    "0.1.211": {
+      "sdist": [
+        "1uColbon0kAEm63LZhb9a+3QI9T9+QuKHlb5SmF3sKA=",
+        "state-machine-semaphore-0.1.211.tar.gz"
+      ],
+      "wheels": {
+        "state_machine_semaphore-0.1.211-py3-none-any.whl": [
+          "IRQI/gJ3XlDWb4+6zi1sPUysOivbZAuFT1Dck8wunrc=",
+          "py3"
+        ]
+      }
+    },
     "0.1.22": {
       "sdist": [
         "KZDw3ik7L9VxgC/UYlUQ59RXq17cOM3V01MHsvfRr5Y=",
@@ -140604,38 +140658,26 @@
     }
   },
   "telegant": {
-    "0.1.1.2023.3.5": {
+    "0.1.2": {
       "sdist": [
-        "hsHp6Y4oRyYYvJZNktYOx/Zj3XnZEodayaYhIunoDPY=",
-        "Telegant-0.1.1.2023.3.5.tar.gz"
+        "yVTZh/AE102lNRqDzUXWD39EuGjdwqtO5zycFQHVG/o=",
+        "Telegant-0.1.2.tar.gz"
       ],
       "wheels": {
-        "Telegant-0.1.1.2023.3.5-py3-none-any.whl": [
-          "2EK+yLcuGgFs/gFSlxz59S+zvh0FkjwxppXb6VceXeo=",
+        "Telegant-0.1.2-py3-none-any.whl": [
+          "Nl65aPcE5ODGQMUAlRh7dtFHo/udxBce03+W01b75t8=",
           "py3"
         ]
       }
     },
-    "0.1.5.2023.3.5": {
+    "0.1.3": {
       "sdist": [
-        "BMDpuD+Ey/aLqs7/vBN8sQLHb2ecJt8cFY+hIYERyzs=",
-        "Telegant-0.1.5.2023.3.5.tar.gz"
+        "UbZWfhVKA/TgJgHsXidtk24zRVAfEkyJdL49/lD+QYw=",
+        "Telegant-0.1.3.tar.gz"
       ],
       "wheels": {
-        "Telegant-0.1.5.2023.3.5-py3-none-any.whl": [
-          "iXJPkJCsOjlmGHp0SU9FrNHqe90pswacTRpSQT3vZio=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.5.2023.3.6": {
-      "sdist": [
-        "TFLMRcdgsaEIBHhz9wjEFkPZXbzTMDaA0/lx86swEQA=",
-        "Telegant-0.1.5.2023.3.6.tar.gz"
-      ],
-      "wheels": {
-        "Telegant-0.1.5.2023.3.6-py3-none-any.whl": [
-          "C30R3CkDC6zxp+SLZsIAi/upGlGrurfIOut9tWRuZr8=",
+        "Telegant-0.1.3-py3-none-any.whl": [
+          "ijRdoDz4Bgqe5ZT8ZQ5BklhPr0yIPpP9yotpOlX4th4=",
           "py3"
         ]
       }

@@ -17159,6 +17159,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.90": {
+      "sdist": [
+        "UTD6kPAjtAPNqdMYDfrKyjS7bMz/zyItK50f5/Fjs7I=",
+        "botocore-a-la-carte-cloud9-1.29.90.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_cloud9-1.29.90-py3-none-any.whl": [
+          "/1+XeJLCFoqcRGuGyRXHFgYtPrgBYWrV45AG3Lxlu/4=",
+          "py3"
+        ]
+      }
     }
   },
   "bpx": {
@@ -44630,6 +44642,18 @@
         ]
       }
     },
+    "1.4.2": {
+      "sdist": [
+        "lD8/R9b/BBZ1bda5tuRgcK/1pzX1+8sRJJMKbgicgGA=",
+        "flytekitplugins-vaex-1.4.2.tar.gz"
+      ],
+      "wheels": {
+        "flytekitplugins_vaex-1.4.2-py3-none-any.whl": [
+          "xU09o/bdEg7fuMLdyh214lUAxERLd9hWV+hhty5U72Y=",
+          "py3"
+        ]
+      }
+    },
     "1.4.2b0": {
       "sdist": [
         "ADoUEqgqqC+EXhySQLvkPifodG64ZRNs4wIuz1H8Y/s=",
@@ -51396,6 +51420,14 @@
         ]
       }
     },
+    "3.1.31": {
+      "wheels": {
+        "huaweicloudsdkeg-3.1.31-py2.py3-none-any.whl": [
+          "WnU4fDr1y2o9E5nXqtsXSksOeYBn9oDnJ2wDfNA05Y4=",
+          "py2.py3"
+        ]
+      }
+    },
     "3.1.4": {
       "wheels": {
         "huaweicloudsdkeg-3.1.4-py2.py3-none-any.whl": [
@@ -52066,6 +52098,14 @@
       "wheels": {
         "huaweicloudsdkfrs-3.1.30-py2.py3-none-any.whl": [
           "xM7gheXubchmCnvoLTZR7KG7doNHM6ZSBnbvO/ND0sA=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.31": {
+      "wheels": {
+        "huaweicloudsdkfrs-3.1.31-py2.py3-none-any.whl": [
+          "Tn+33+H3kDZ+LjTVnXHYmi/SkAgE9WvusrY1f6f2CbU=",
           "py2.py3"
         ]
       }
@@ -83458,550 +83498,14 @@
     }
   },
   "nikeca": {
-    "0.0.10": {
+    "0.1.31": {
       "sdist": [
-        "5I9L0ijq3BNxo8thdCbpxBybdQk8XitWzyhertd8U0Y=",
-        "NikeCA-0.0.10.tar.gz"
+        "6MUNBAIutHpTgZ+bSVajFhoO1zXi7EIWOhEL7f1CuPs=",
+        "NikeCA-0.1.31.tar.gz"
       ],
       "wheels": {
-        "NikeCA-0.0.10-py3-none-any.whl": [
-          "/VKWC+ltrFjsjBCDMlhJX+atTA/ss/rar/VUvYJqgHI=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.11": {
-      "sdist": [
-        "1IpJUOx5GxrsUc4z/CldJIwqTfggVhyv13ww6v5ZgB4=",
-        "NikeCA-0.0.11.tar.gz"
-      ],
-      "wheels": {
-        "NikeCA-0.0.11-py3-none-any.whl": [
-          "lsPlf4hCoqbRTG9bHOBC65Wt/pIyrel5Rc0eSKGD/yY=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.12": {
-      "sdist": [
-        "fbntUO0M2XwunOHe1bmGQuOxtohI07K0bnflchWslbs=",
-        "NikeCA-0.0.12.tar.gz"
-      ],
-      "wheels": {
-        "NikeCA-0.0.12-py3-none-any.whl": [
-          "16zH6szgl4EMpBjAu2K9NqAojbjvUp3JMn5OcXhMY74=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.13": {
-      "sdist": [
-        "hPORxwf00HZ33xFSq3rjKZrYLVqEIynllpuhdXHWT1E=",
-        "NikeCA-0.0.13.tar.gz"
-      ],
-      "wheels": {
-        "NikeCA-0.0.13-py3-none-any.whl": [
-          "OVxoHl4CxBDh78klL1P789n+VqSAEN37OwCmEe+ewOU=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.14": {
-      "sdist": [
-        "j4PPQPQIPMCl2/ylJdahR4NeFN4yUNb8XttTJrRZ8lM=",
-        "NikeCA-0.0.14.tar.gz"
-      ],
-      "wheels": {
-        "NikeCA-0.0.14-py3-none-any.whl": [
-          "bi8LpeskNBk3dLbrL8oLpRpRHq2VNicwv26dia7FCtY=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.15": {
-      "sdist": [
-        "pyyKO5tJ7g0wJO8vWR8/1UNwTdCeMUNGcJA4PFG2LAI=",
-        "NikeCA-0.0.15.tar.gz"
-      ],
-      "wheels": {
-        "NikeCA-0.0.15-py3-none-any.whl": [
-          "65l3PoEDQ13loH3r3uHwNj849lSM3tAXiHdmG6C1Eio=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.16": {
-      "sdist": [
-        "gPYlFeSeznre3/S/2xklvu2tgXJJALR/ehMG9mD22UQ=",
-        "NikeCA-0.0.16.tar.gz"
-      ],
-      "wheels": {
-        "NikeCA-0.0.16-py3-none-any.whl": [
-          "y/Fqj9OZ2g7hNxSFeeKABSq6yrROvAdt1m7Anq6UMvk=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.17": {
-      "sdist": [
-        "Qzbje1b9tdccm92LYr6hKtdEsECT2/slmGbpmpYm/VM=",
-        "NikeCA-0.0.17.tar.gz"
-      ],
-      "wheels": {
-        "NikeCA-0.0.17-py3-none-any.whl": [
-          "s5FQ39E5xToX3aZG3qTSa2kEovnZjUjskwMr6xi34i0=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.18": {
-      "sdist": [
-        "ilw28YJUabflGUKCpsy0kjMWAKLQEx36OuK+gOO+jLE=",
-        "NikeCA-0.0.18.tar.gz"
-      ],
-      "wheels": {
-        "NikeCA-0.0.18-py3-none-any.whl": [
-          "w5l2/W0ONO1+AzJNGl3ALqGvvIMIjxngPq+QsOp1Xzo=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.19": {
-      "sdist": [
-        "fIFMpikEdw75gWwcDCg0POMCVOxYV17TA/3T/zXds+w=",
-        "NikeCA-0.0.19.tar.gz"
-      ],
-      "wheels": {
-        "NikeCA-0.0.19-py3-none-any.whl": [
-          "4EUb1J/EiS1ohZaMw96TmNfa0NBahab8HWj+PWVkpa8=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.20": {
-      "sdist": [
-        "EononCstzcXL57+0KM34naCdYmNSgSl4z62WhgBlsW0=",
-        "NikeCA-0.0.20.tar.gz"
-      ],
-      "wheels": {
-        "NikeCA-0.0.20-py3-none-any.whl": [
-          "XTPIsc5uD6UXYTg+wdnjIxRG5IQl7ke8qrPZ2Qljddk=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.21": {
-      "sdist": [
-        "5dTxoPaqRV+XrJI9yIccULJg/cQCIe3PwRxpPS3JChM=",
-        "NikeCA-0.0.21.tar.gz"
-      ],
-      "wheels": {
-        "NikeCA-0.0.21-py3-none-any.whl": [
-          "Wuud4EbcIOpyPkK2aOCsunuAOCBYdTkD+fEMDBmU5jo=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.22": {
-      "sdist": [
-        "0psTykN7gVtVuPhiEH7DwFeCz3A7O37inysj4hSW4x4=",
-        "NikeCA-0.0.22.tar.gz"
-      ],
-      "wheels": {
-        "NikeCA-0.0.22-py3-none-any.whl": [
-          "QB/AkGFiaa5ricmzwragInuFvD15jeHUhMRR12FwbuY=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.23": {
-      "sdist": [
-        "l9hISkhygESox8HWCdpX9HPLT4T1DEiXssO/r0O9mtc=",
-        "NikeCA-0.0.23.tar.gz"
-      ],
-      "wheels": {
-        "NikeCA-0.0.23-py3-none-any.whl": [
-          "iKIbJnmUBjD6ygarIaoHbmTQaD3BXFE58tF2b9Q9ddg=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.24": {
-      "sdist": [
-        "4ynMpwoURTKC6J4zWeDaTNptI6YCxIhHa8J2EK0Mg0s=",
-        "NikeCA-0.0.24.tar.gz"
-      ],
-      "wheels": {
-        "NikeCA-0.0.24-py3-none-any.whl": [
-          "0r3+zOegzCFQrrCsarVsN+v8qKSiYzt6zKgxHcNs2Q4=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.25": {
-      "sdist": [
-        "yQygG44xg2KpAhcSTdA+fgiCdM8Nfusj6EY7ltWz9Zc=",
-        "NikeCA-0.0.25.tar.gz"
-      ],
-      "wheels": {
-        "NikeCA-0.0.25-py3-none-any.whl": [
-          "40QGcAgwnVK3wlVKOZyNrgXC/zrlbEZmnxKG6X5yAWA=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.0": {
-      "sdist": [
-        "MeKwNLRbfFJbsUw6HBuWVb6TD/QbhywXamvwa24f6E0=",
-        "NikeCA-0.1.0.tar.gz"
-      ],
-      "wheels": {
-        "NikeCA-0.1.0-py3-none-any.whl": [
-          "vNOVtZjEPLFNLPq2ARFLDS4KoaC6F7KswpZuzf8/9JA=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.1": {
-      "sdist": [
-        "PxbNdTrfKjgzWEZEeotYsskv7+eAc7GUoNHdgLGiwH8=",
-        "NikeCA-0.1.1.tar.gz"
-      ],
-      "wheels": {
-        "NikeCA-0.1.1-py3-none-any.whl": [
-          "YE9CbnwQm9R+TnAM5uNaxMSvXXTBB/yTbT/usXIEixw=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.10": {
-      "sdist": [
-        "LgiTyWzDHHEeYoMYqzTi8IYbJTUlg5lCWPXJJvUyHEU=",
-        "NikeCA-0.1.10.tar.gz"
-      ],
-      "wheels": {
-        "NikeCA-0.1.10-py3-none-any.whl": [
-          "sSY0AMTJbizALJMu75kQu2WmPfM5aW3LhXHJRe0rKn4=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.11": {
-      "sdist": [
-        "GwF69SmLQXOM2vCjgYJHqro7DwDOM3kF9ytDJRADXhY=",
-        "NikeCA-0.1.11.tar.gz"
-      ],
-      "wheels": {
-        "NikeCA-0.1.11-py3-none-any.whl": [
-          "rmkOf9stX4U0fVQpB768DRzIrdtBQx3Jgx/zeoIZUyk=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.12": {
-      "sdist": [
-        "GYCh0qSCMdjrJXpqysdl0V7QUpM04laq2uno6ZDqgMA=",
-        "NikeCA-0.1.12.tar.gz"
-      ],
-      "wheels": {
-        "NikeCA-0.1.12-py3-none-any.whl": [
-          "8TOqanbMFAd0A37Ch5G02mUn3g6y1zyZbg0m2jMfpS8=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.13": {
-      "sdist": [
-        "fOH72fTvaPvhdLsYEkUxNxRHPjPydFRVHkpd3xh5guw=",
-        "NikeCA-0.1.13.tar.gz"
-      ],
-      "wheels": {
-        "NikeCA-0.1.13-py3-none-any.whl": [
-          "TExpOxLWscAMRymANXT1Ey92dq7imV5KgcwLAxeOr88=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.14": {
-      "sdist": [
-        "imnKdgzLYVAqT0yhC/PJ6e7bHAp3dURXs7HiQ+vI+U8=",
-        "NikeCA-0.1.14.tar.gz"
-      ],
-      "wheels": {
-        "NikeCA-0.1.14-py3-none-any.whl": [
-          "+wLl5hBDtS2rn24T30TP2HI8xPLmaBeQ7p7270Zcyvg=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.15": {
-      "sdist": [
-        "KtNBmrRr2W2YgaOqsYXXtO4n+EVglfxnumJVY7j13A0=",
-        "NikeCA-0.1.15.tar.gz"
-      ],
-      "wheels": {
-        "NikeCA-0.1.15-py3-none-any.whl": [
-          "94Tp/iWGgu5HsLFy/Y7eLRVfWyU2zSOjimKhdvs3RJc=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.16": {
-      "sdist": [
-        "YF7xwt+kW59jFLwMVPHTk+DEWwBH2ScsSml8SNFtRU8=",
-        "NikeCA-0.1.16.tar.gz"
-      ],
-      "wheels": {
-        "NikeCA-0.1.16-py3-none-any.whl": [
-          "FJwXvRPiW72Tdv0ch9oDJlQk0NJLfaMPqZpKp3UlUng=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.17": {
-      "sdist": [
-        "W/koMef5JKsTIhyCQQWUarRnJAOMgB6Z5Eo+7+ckk1U=",
-        "NikeCA-0.1.17.tar.gz"
-      ],
-      "wheels": {
-        "NikeCA-0.1.17-py3-none-any.whl": [
-          "Z7fMoGZpPZDEpSuC37NMdudNLDUaKJCi4sFp7aOEVJI=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.18": {
-      "wheels": {
-        "NikeCA-0.1.18-py3-none-any.whl": [
-          "HTfRmaYLUYcD9WCkLNj1LvxPLpS/GMjCws4YuKhielo=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.19": {
-      "sdist": [
-        "CfwwxBA1Iki4NJ3Ujwq+MOLxqCRlsMKXBYqDZf4J4HI=",
-        "NikeCA-0.1.19.tar.gz"
-      ],
-      "wheels": {
-        "NikeCA-0.1.19-py3-none-any.whl": [
-          "9X6uksxZgRTR7i97q4WO3U1DhEHkDWlCS7KOK4qByVQ=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.2": {
-      "sdist": [
-        "lWevhDryx8WyOCg7CchjNkOl3EhLM6XoMPT26NvnONU=",
-        "NikeCA-0.1.2.tar.gz"
-      ],
-      "wheels": {
-        "NikeCA-0.1.2-py3-none-any.whl": [
-          "mBVfjEgg2tVofDJkYc6ejjQyw1asX5Eo3PS5cqHuY24=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.20": {
-      "sdist": [
-        "q2KrAX2YzagULpnElQJ05AdRswHT78jwftTZDyTFceg=",
-        "NikeCA-0.1.20.tar.gz"
-      ],
-      "wheels": {
-        "NikeCA-0.1.20-py3-none-any.whl": [
-          "9f8Ek1LG1SStD8fZ7NuCZ5+thjj68lXxXxbguXnBHiw=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.21": {
-      "sdist": [
-        "nxcO6X8I16UpwVyfZeBcXDnXGrOiUo+obwMZdFB88Hc=",
-        "NikeCA-0.1.21.tar.gz"
-      ],
-      "wheels": {
-        "NikeCA-0.1.21-py3-none-any.whl": [
-          "Tw4u/Aj8yfUNSr5gSgHNF8DQW/M/gIkO/IXKLnIufVI=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.22": {
-      "sdist": [
-        "rCBjZ0kvGEykfDPxb0+ujJc06S903oHPa1fKaYNk898=",
-        "NikeCA-0.1.22.tar.gz"
-      ],
-      "wheels": {
-        "NikeCA-0.1.22-py3-none-any.whl": [
-          "qoH5sEwb8uJNtAJPu9VhBc0wcgS3gSp7BWPSjDUWxPU=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.23": {
-      "sdist": [
-        "QkAf3o6SHMhTATxh3vMZU/ukBXVInvZtOllv8FVXpuk=",
-        "NikeCA-0.1.23.tar.gz"
-      ],
-      "wheels": {
-        "NikeCA-0.1.23-py3-none-any.whl": [
-          "iUocazk8OnkaoLwSIevvZ0Ns5j2Ym/V/oHG7GrCCl9g=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.24": {
-      "sdist": [
-        "rD4m2Wj5BAWBZFWakGNVcFcJGH16cY0cMFOPYA+jnUQ=",
-        "NikeCA-0.1.24.tar.gz"
-      ],
-      "wheels": {
-        "NikeCA-0.1.24-py3-none-any.whl": [
-          "NE65XBezlaB/Y1ZJp7gQ3hH0nj8CK2AMvzgLkWOWIS4=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.25": {
-      "sdist": [
-        "sBPkXdWDkNQHuWSU+76IxrGUMxcmxpXJEETnday6+fA=",
-        "NikeCA-0.1.25.tar.gz"
-      ],
-      "wheels": {
-        "NikeCA-0.1.25-py3-none-any.whl": [
-          "MKD49JwQ9yCcbTyP/4iIYXWYpMdIZiXv+Vye1alZcwc=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.26": {
-      "sdist": [
-        "lTSoGWTl74/l0n4Lq8uV5hH6qawJ4BTpQFI8FV8TUPM=",
-        "NikeCA-0.1.26.tar.gz"
-      ],
-      "wheels": {
-        "NikeCA-0.1.26-py3-none-any.whl": [
-          "x5w+t780EWFdIKFfOAZeMC15VoE0WV3SmteWyCC+OyE=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.27": {
-      "sdist": [
-        "OIbfnpbwikqDLdsOuQw1I9P/MtjW+6QrJykNA7PbTiU=",
-        "NikeCA-0.1.27.tar.gz"
-      ],
-      "wheels": {
-        "NikeCA-0.1.27-py3-none-any.whl": [
-          "5Im2VLubmos20EOibXW0lBImOMbJNAIdR2Q89VETAxM=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.28": {
-      "sdist": [
-        "aOBxVniPNmY34Riwd9TvJesD/GPDlcuUrN+kNDiBq1s=",
-        "NikeCA-0.1.28.tar.gz"
-      ],
-      "wheels": {
-        "NikeCA-0.1.28-py3-none-any.whl": [
-          "wcL4GYrAhf3DNPeQ5YefdHirL4FO7ClkpE9jqG3MGP8=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.29": {
-      "sdist": [
-        "DvvZp1rYgA8d/Aj+OC2v8xjHZLqZGYYCK4J3zfOLnHA=",
-        "NikeCA-0.1.29.tar.gz"
-      ],
-      "wheels": {
-        "NikeCA-0.1.29-py3-none-any.whl": [
-          "bzB+4B5bI4eUxWOXd8DCgtIjF4YpmYnqPdJhWvysw2s=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.3": {
-      "sdist": [
-        "QbExx2dB2DSrpBIR0+qIGjYi+emOu38YZ6+hQaQgsNo=",
-        "NikeCA-0.1.3.tar.gz"
-      ],
-      "wheels": {
-        "NikeCA-0.1.3-py3-none-any.whl": [
-          "8IDdXy1+AT6AnSKvg4HBLckSrcyS/9dT8J+XojJ0KrQ=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.4": {
-      "sdist": [
-        "m0Ddpeuvf2lnqWr0/hizrBOZt6/b7mKmfky8JLG2YI4=",
-        "NikeCA-0.1.4.tar.gz"
-      ],
-      "wheels": {
-        "NikeCA-0.1.4-py3-none-any.whl": [
-          "INW1SSI2acaJ0fCQIdf/ucw5j1OCPycl2R6eXzsrQeo=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.5": {
-      "sdist": [
-        "aSwoJz9/FDEc8NJkRYdeW9RGrDxLmLVbfyrkiVS4It0=",
-        "NikeCA-0.1.5.tar.gz"
-      ],
-      "wheels": {
-        "NikeCA-0.1.5-py3-none-any.whl": [
-          "7bQP8Np3D1aNu/v5YRMmLHbDEVIawugrm91AwvSb9HA=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.6": {
-      "sdist": [
-        "Ez7DAUSDQ7n+xEKs5PiqFOXMOSNsxcp4PsztnwAVTJ4=",
-        "NikeCA-0.1.6.tar.gz"
-      ],
-      "wheels": {
-        "NikeCA-0.1.6-py3-none-any.whl": [
-          "R5kp7cE/ZzWAuLeX/YYCxunaLRuiYQh7lfskfBKhqEQ=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.7": {
-      "sdist": [
-        "Oxdw4V+JEXgHBG6lhMWJWiZ0coCziC6HZs3UtnGecMQ=",
-        "NikeCA-0.1.7.tar.gz"
-      ],
-      "wheels": {
-        "NikeCA-0.1.7-py3-none-any.whl": [
-          "5cpRbEazJlVr043xrd4TUJnyRLuMczpgfMLglIbf8zw=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.8": {
-      "sdist": [
-        "dGcZMYZE+wagFa++I3ipNSM/rmF73j3BpR+87NgIEHg=",
-        "NikeCA-0.1.8.tar.gz"
-      ],
-      "wheels": {
-        "NikeCA-0.1.8-py3-none-any.whl": [
-          "wPLATNMFuQkjuttzujCKa+ROdyUqAPYnr9omBpVbK+A=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.9": {
-      "sdist": [
-        "4Ter4YgsLuOTHVBSY71lnRmA65du7IEXLxVuPDyJ6Bk=",
-        "NikeCA-0.1.9.tar.gz"
-      ],
-      "wheels": {
-        "NikeCA-0.1.9-py3-none-any.whl": [
-          "W6+Hlv0HqCpVAvoQ4edPg2gi1OM1zF9qF7fqDDhFArc=",
+        "NikeCA-0.1.31-py3-none-any.whl": [
+          "iXd3sjjBSKbTjQKWDMaL2oorGYgoYcoiE0CuwdzJb9g=",
           "py3"
         ]
       }
@@ -150794,6 +150298,18 @@
       "wheels": {
         "yet_another_json_config-0.0.2-py3-none-any.whl": [
           "Z8SlY7dIDmbrZTPjub93D8IZXKVd+A8jGCL1KaBVfGc=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "u+NsNn/aymN7xoIeHh+Y6inP3BGTsr+3NU40DOjwN2Y=",
+        "yet-another-json-config-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "yet_another_json_config-0.0.3-py3-none-any.whl": [
+          "iTHXu7zq9ufu7V7Z1yg5dgtYdTAwEb+q/Ue95Lee5ws=",
           "py3"
         ]
       }

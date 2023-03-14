@@ -3896,6 +3896,18 @@
         ]
       }
     },
+    "4.15.4": {
+      "sdist": [
+        "ROBX391uwlOfTN2Efr1WrcWglEUtf42tmEM2QjlFlWc=",
+        "apache-bookkeeper-client-4.15.4.tar.gz"
+      ],
+      "wheels": {
+        "apache_bookkeeper_client-4.15.4-py2.py3-none-any.whl": [
+          "X9/My5RCV0asfldIj0cn8Q/vTTqdHk7/d/YSZjM7QnE=",
+          "py2.py3"
+        ]
+      }
+    },
     "4.9.0": {
       "sdist": [
         "wWEPyQEclUqKxswUv8gNYaL2XtKr29Sqe2qRm4NHX/8=",
@@ -39871,6 +39883,94 @@
           "cp39"
         ]
       }
+    },
+    "1.5.0": {
+      "sdist": [
+        "ERxEU4wbDCn4ogKS03BXZgcAeiM+IO8mY2mw+e3Xs90=",
+        "fastcdc-1.5.0.tar.gz"
+      ],
+      "wheels": {
+        "fastcdc-1.5.0-cp310-cp310-macosx_11_0_x86_64.whl": [
+          "ZK5NJmAtWO/Z4KTHiuzfZDTmy8gqz9dgr82QtVIbI/k=",
+          "cp310"
+        ],
+        "fastcdc-1.5.0-cp310-cp310-macosx_12_0_x86_64.whl": [
+          "1Wy53HGiIA1yzPowUV7+Mal+PBulshIzRwB2N8IfqqE=",
+          "cp310"
+        ],
+        "fastcdc-1.5.0-cp310-cp310-manylinux_2_31_x86_64.whl": [
+          "DxykqHoGgAhDzcai0XBRldKfIdOSleHnpF8HADH6vcw=",
+          "cp310"
+        ],
+        "fastcdc-1.5.0-cp310-cp310-win_amd64.whl": [
+          "UAOuYqcmWiRhOFaHIOd3+Y5RsZqTMcdLzVcdOK7QGb4=",
+          "cp310"
+        ],
+        "fastcdc-1.5.0-cp311-cp311-macosx_11_0_x86_64.whl": [
+          "iHdAZLgTjwpCaXxQHwO0UtZgWV24xADgTqG76QCZ7sU=",
+          "cp311"
+        ],
+        "fastcdc-1.5.0-cp311-cp311-macosx_12_0_x86_64.whl": [
+          "yps+681Mg+9Yo/iAbMBAwukA3D/MFUM46dPjHDqkR3Q=",
+          "cp311"
+        ],
+        "fastcdc-1.5.0-cp311-cp311-manylinux_2_31_x86_64.whl": [
+          "1xXWGM0Qsy+GZBloC3B3Rqh9EIWY+CVrbmHv5aC0ykQ=",
+          "cp311"
+        ],
+        "fastcdc-1.5.0-cp311-cp311-win_amd64.whl": [
+          "EFVfVZFVu5aiqQzCcS6wwiROVt3niLnJKidXk42ZFOI=",
+          "cp311"
+        ],
+        "fastcdc-1.5.0-cp37-cp37m-macosx_11_0_x86_64.whl": [
+          "jbjnWCGbfw1WKk7OUxzPnlG/lnnnCTFg3/L2jty6d8k=",
+          "cp37"
+        ],
+        "fastcdc-1.5.0-cp37-cp37m-macosx_12_0_x86_64.whl": [
+          "z3fY6FMVmaw0bsXl8u1lC7iBmzp7SVbXoIxhFXurYi0=",
+          "cp37"
+        ],
+        "fastcdc-1.5.0-cp37-cp37m-manylinux_2_31_x86_64.whl": [
+          "B0eFCkHeg+5N/xYENCcDVuGCZ0q+S0RyFkgm4IoW+Lw=",
+          "cp37"
+        ],
+        "fastcdc-1.5.0-cp37-cp37m-win_amd64.whl": [
+          "egl4PvYZlRmoqTvDzSJi7W9DySPdbxI/zfdowcCSsqY=",
+          "cp37"
+        ],
+        "fastcdc-1.5.0-cp38-cp38-macosx_11_0_x86_64.whl": [
+          "AN1nCiM4TKACan9qj2hMaalb4fizo5k1kTfiCbzjd8E=",
+          "cp38"
+        ],
+        "fastcdc-1.5.0-cp38-cp38-macosx_12_0_x86_64.whl": [
+          "z4b4HkeTJGOmUbAZriIgCY3XUG6JuNXRs6Y5gijIDsE=",
+          "cp38"
+        ],
+        "fastcdc-1.5.0-cp38-cp38-manylinux_2_31_x86_64.whl": [
+          "IMMSTPEIgQkxVDXnygHyIcbnXWN1JedMJDhQ6ORj6YI=",
+          "cp38"
+        ],
+        "fastcdc-1.5.0-cp38-cp38-win_amd64.whl": [
+          "/wSlsOb7+WwGH0DBnILrrjJHez71zN/ZlhIw2GdzoVk=",
+          "cp38"
+        ],
+        "fastcdc-1.5.0-cp39-cp39-macosx_11_0_x86_64.whl": [
+          "nJiCLnBhF7n9xwVdcRst+bXb3BEdEPLRpY4nn2RqS3U=",
+          "cp39"
+        ],
+        "fastcdc-1.5.0-cp39-cp39-macosx_12_0_x86_64.whl": [
+          "zx1lSlIQrwh5DBF63pe0Ps9Yu1wmsd2yO+/dCj6/ZsE=",
+          "cp39"
+        ],
+        "fastcdc-1.5.0-cp39-cp39-manylinux_2_31_x86_64.whl": [
+          "Cq5u2go9jrxiz626/UPpbC5e48qShpmBBkuWXaBM3DQ=",
+          "cp39"
+        ],
+        "fastcdc-1.5.0-cp39-cp39-win_amd64.whl": [
+          "H1jl2mX3869soGGzm/eZfw6PVplVCU9BDBAaBZygGB4=",
+          "cp39"
+        ]
+      }
     }
   },
   "fastgenomics-cli": {
@@ -43530,6 +43630,18 @@
         ]
       }
     },
+    "1.4.2": {
+      "sdist": [
+        "d37iqs1kf1tr3MovGxQIRsiTUgoAPRFRFjUCR9YZ66g=",
+        "flytekitplugins-awsbatch-1.4.2.tar.gz"
+      ],
+      "wheels": {
+        "flytekitplugins_awsbatch-1.4.2-py3-none-any.whl": [
+          "4/lTeLvaS4XFR6H4h6d6L2guhQkrSpUU+oXPz36TiNM=",
+          "py3"
+        ]
+      }
+    },
     "1.4.2b0": {
       "sdist": [
         "4hrrXNuNgU/23sR4pENtl/cqWzwMTLzNX/gfEErAtVo=",
@@ -45828,6 +45940,18 @@
       "wheels": {
         "flytekitplugins_hive-1.4.1-py3-none-any.whl": [
           "4/eQEfaL7YBmPE0IRWqk55pOqOwXIcWTSM6aUvCqqkE=",
+          "py3"
+        ]
+      }
+    },
+    "1.4.2": {
+      "sdist": [
+        "28zS9CsNxX1UeP0jQ2Ea/LBJBTf+cnAtHbUAvVIqELk=",
+        "flytekitplugins-hive-1.4.2.tar.gz"
+      ],
+      "wheels": {
+        "flytekitplugins_hive-1.4.2-py3-none-any.whl": [
+          "62EhDZt3JEyzAKYvdPNhnWDWUjs8TkUPrv/+T134jvo=",
           "py3"
         ]
       }
@@ -53231,6 +53355,18 @@
           "py3"
         ]
       }
+    },
+    "0.4.0": {
+      "sdist": [
+        "gAUJlG6F2eVtcyQvqyI+w221A3LocKBOLdH9m62YRV0=",
+        "hatch_requirements_txt-0.4.0.tar.gz"
+      ],
+      "wheels": {
+        "hatch_requirements_txt-0.4.0-py3-none-any.whl": [
+          "yxb9UgXW2cE2QTea511j9TiinwXjd2VvLz0OGTFiHXQ=",
+          "py3"
+        ]
+      }
     }
   },
   "having-a-sip": {
@@ -56728,6 +56864,12 @@
       "sdist": [
         "sxOWs6pFvudyTCa8JCV0MO95h4t1jejGAXqfb4BX7+E=",
         "ilpy-0.2.2.tar.gz"
+      ]
+    },
+    "0.2.3": {
+      "sdist": [
+        "PivBVwX+tuJj5VwTQ7NODXgNaB5tdv36QRook3ZvbKA=",
+        "ilpy-0.2.3.tar.gz"
       ]
     }
   },
@@ -85864,6 +86006,18 @@
       "wheels": {
         "mypy_boto3_s3control-1.26.57-py3-none-any.whl": [
           "fwVSFBWrfbrPp1K4GmmPNpZ5HPcqyD6Z+j8v6tG+/IY=",
+          "py3"
+        ]
+      }
+    },
+    "1.26.90": {
+      "sdist": [
+        "0KhlbE84bLhHPyiuSF+VAj7AWgnnBCQP/YO+nD5UuTA=",
+        "mypy-boto3-s3control-1.26.90.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_s3control-1.26.90-py3-none-any.whl": [
+          "KMGf28HB3BVd22C1ToRiRMpgcgAEu/715u4c+dK9sBA=",
           "py3"
         ]
       }
@@ -144437,6 +144591,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.850": {
+      "sdist": [
+        "/5F7ip85CfXLrhJ6rXlFkbgqdWbWf8QagN6HguBKM8U=",
+        "tencentcloud-sdk-python-mps-3.0.850.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_mps-3.0.850-py2.py3-none-any.whl": [
+          "HEO0TmXcsjd7KImXPtDQr6Pt5DuLd4tk+S+iBJ/LNsw=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tensor-print": {
@@ -155208,6 +155374,30 @@
       "wheels": {
         "widgets_lib-2.4.1-py2.py3-none-any.whl": [
           "CCr8mjHggrvlAlLLPCd8Qk44ZJcrACjZEHOdNpgDI1I=",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.4.2": {
+      "sdist": [
+        "FwITNzxeEZb4kLN62pB4vH7aWyVNz3946BF2rzKhlL0=",
+        "widgets-lib-2.4.2.tar.gz"
+      ],
+      "wheels": {
+        "widgets_lib-2.4.2-py2.py3-none-any.whl": [
+          "D00D9Nb5L5b5OgNY99xCAijZLqA7BQxTUf6GX2wga1Q=",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.4.3": {
+      "sdist": [
+        "O1BPB9PyAwRt2hmYJV5Z0JHo1bZltUuUc89Uj3omPBA=",
+        "widgets-lib-2.4.3.tar.gz"
+      ],
+      "wheels": {
+        "widgets_lib-2.4.3-py2.py3-none-any.whl": [
+          "z0tUwVqv6kYpUQBSlZyoWCPyqFi7F1pEFUVTpc+ZSFY=",
           "py2.py3"
         ]
       }

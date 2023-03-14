@@ -61029,6 +61029,20 @@
       ]
     }
   },
+  "langchain-ibis": {
+    "0.0.100": {
+      "sdist": [
+        "sPK+NCSRzt28AKJtzY2NrODCd89DK4AOgsFAy7LUWk0=",
+        "langchain_ibis-0.0.100.tar.gz"
+      ],
+      "wheels": {
+        "langchain_ibis-0.0.100-py3-none-any.whl": [
+          "bcCr4MJBVTMiSxYkvNvrZd6xzVZbAoO3jTd/JkGvqNs=",
+          "py3"
+        ]
+      }
+    }
+  },
   "langdushu": {
     "2022.8.13.0": {
       "sdist": [
@@ -64209,6 +64223,74 @@
         "lively_tk-0.9.25-cp39-cp39-macosx_11_0_x86_64.whl": [
           "GVWyHuzAdftiuqqDNbOgmOH4Ecy7VK+F9y0n34jusoQ=",
           "cp39"
+        ]
+      }
+    },
+    "1.0.0": {
+      "sdist": [
+        "q+HPuey+1xZh+gzh+1g0i4hXW+MxE9aTzEhtD2piZNI=",
+        "lively_tk-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "lively_tk-1.0.0-cp37-abi3-macosx_10_7_x86_64.whl": [
+          "DCUGF2/07QYXNOIjGC1NO9eDaRtZwp20lFO+iTvDBvQ=",
+          "cp37"
+        ],
+        "lively_tk-1.0.0-cp37-abi3-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "b1m/MOAMieMDunEoW+/Y0I4m4A+DQCxv+SxAHxUIHsg=",
+          "cp37"
+        ],
+        "lively_tk-1.0.0-cp37-abi3-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "NZO3GiH3rX2vpOLB1VpDMkyr+ZjLIhfzvsD7McjMeN4=",
+          "cp37"
+        ],
+        "lively_tk-1.0.0-cp37-abi3-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "F2tq037C4qIVsu+3Z1gLoMexwVq2pTOeHInqVpwXzlU=",
+          "cp37"
+        ],
+        "lively_tk-1.0.0-cp37-abi3-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "pJtr8R2LEsHiu6OsEo9qCtGNmWiMsUC3WCHxfMP+2ro=",
+          "cp37"
+        ],
+        "lively_tk-1.0.0-cp37-abi3-manylinux_2_17_ppc64.manylinux2014_ppc64.whl": [
+          "svh82o3SzavyeZKAkJodeeEIL7jP0QvqTaov1Rt5pK0=",
+          "cp37"
+        ],
+        "lively_tk-1.0.0-cp37-abi3-manylinux_2_17_s390x.manylinux2014_s390x.whl": [
+          "NPczEM0nXVZjBEm9j7gM1KXl1KEfxB37JElpxl7RkPw=",
+          "cp37"
+        ],
+        "lively_tk-1.0.0-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "wE4rBW9UVbaaI5u57xfg2BR9NAamFk7q/CLQS2ekD+s=",
+          "cp37"
+        ],
+        "lively_tk-1.0.0-cp37-abi3-manylinux_2_5_i686.manylinux1_i686.whl": [
+          "kD1O9VMRA4OHRnkmzcg37BKbc3cHjE+qxCIxobjB7DI=",
+          "cp37"
+        ],
+        "lively_tk-1.0.0-cp37-abi3-musllinux_1_2_aarch64.whl": [
+          "6iVBkYgy1oewF6DZLHSnDKY2jqJoqCr5IvD8lLdUWGA=",
+          "cp37"
+        ],
+        "lively_tk-1.0.0-cp37-abi3-musllinux_1_2_armv7l.whl": [
+          "8yWlE9bQOX96wskzQ1k1j7tWyonRxpbpewgf1ogGws8=",
+          "cp37"
+        ],
+        "lively_tk-1.0.0-cp37-abi3-musllinux_1_2_i686.whl": [
+          "O1QMnzU63bVEsjOclU40RHHMI9c+A9hkbhAI4240/+w=",
+          "cp37"
+        ],
+        "lively_tk-1.0.0-cp37-abi3-musllinux_1_2_x86_64.whl": [
+          "f/l/K89zfuFSCbWWVAZi/T20Emz4CshMfLlXvK/IKNg=",
+          "cp37"
+        ],
+        "lively_tk-1.0.0-cp37-abi3-win32.whl": [
+          "LNO979FfUQ8/MhuusA1ffytG9ez5zp5hBNucxCtKlVU=",
+          "cp37"
+        ],
+        "lively_tk-1.0.0-cp37-abi3-win_amd64.whl": [
+          "aPxf9Z2SWX6HTQuW34Nn4gpRf0RN8FNhAPU5RwsVhKk=",
+          "cp37"
         ]
       }
     },
@@ -124704,6 +124786,12 @@
       "sdist": [
         "cGKncdwzPd6FRS0ieXLkG1wquulHPdiAVWlRm69H59w=",
         "sagemaker-2.137.0.tar.gz"
+      ]
+    },
+    "2.138.0": {
+      "sdist": [
+        "FYe5fk/vq1fuCc/Gs2GeNMimvUJ2ARKfnyGrsu+2JyY=",
+        "sagemaker-2.138.0.tar.gz"
       ]
     },
     "2.14.0": {

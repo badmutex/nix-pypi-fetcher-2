@@ -11309,6 +11309,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.90": {
+      "sdist": [
+        "Q8nMXsTABjJh3I2kvMDBQ6d3iVDDSsuFCgKX0TNs5fQ=",
+        "botocore-a-la-carte-firehose-1.29.90.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_firehose-1.29.90-py3-none-any.whl": [
+          "hGKU5PxbmpQ9UaBNCeQeZYJqc0XG2O72OcJcpqG2Vbc=",
+          "py3"
+        ]
+      }
     }
   },
   "botway.py": {
@@ -93860,8 +93872,16 @@
           "JymP1u6ko3rFyFeWxP75sJHwSBHJVAosg6QufHP2LMs=",
           "cp38"
         ],
+        "OctoBot_Commons-1.8.14-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "EsMhlaM74xzXAKTpw5CywDQNDxo79zF4BaNobq9XUPc=",
+          "cp38"
+        ],
         "OctoBot_Commons-1.8.14-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "0XOiNuvDvSTXIQzdvBq+c1oHy8HIWNM/5UZITlSXSF4=",
+          "cp38"
+        ],
+        "OctoBot_Commons-1.8.14-cp38-cp38-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "HWdozsvqAeuOEfoukdwaGu/r0Z+CEZ3fwXmheZsBvMk=",
           "cp38"
         ],
         "OctoBot_Commons-1.8.14-cp38-cp38-win_amd64.whl": [
@@ -107880,6 +107900,18 @@
       "wheels": {
         "pychoosealicense-2022.7.25-py3-none-any.whl": [
           "FhZGF2xLMaIovcagyFAtMLiOYpxlSQyYpntdweBxIPQ=",
+          "py3"
+        ]
+      }
+    },
+    "2023.3.13": {
+      "sdist": [
+        "4HdHJUFuEZeHzE+i682cKzwlYNGRabNU5Pn1IrzkCMw=",
+        "pychoosealicense-2023.3.13.tar.gz"
+      ],
+      "wheels": {
+        "pychoosealicense-2023.3.13-py3-none-any.whl": [
+          "41+aSKxvvOGYgwyIYLp3o+CEWAwQlGm9cesqiSZhlsE=",
           "py3"
         ]
       }

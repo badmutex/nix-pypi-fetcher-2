@@ -19036,6 +19036,18 @@
         ]
       }
     },
+    "0.0.139": {
+      "sdist": [
+        "DbzI7oP4cujWDtH3o/tVw0dwHQ6PaHG6Bz3vYpLIipY=",
+        "cdklabs.cdk-ethereum-node-0.0.139.tar.gz"
+      ],
+      "wheels": {
+        "cdklabs.cdk_ethereum_node-0.0.139-py3-none-any.whl": [
+          "0TphZ/cb6VLnNOQGOYRObKhfs5NctOLmMlcIf7mgTdA=",
+          "py3"
+        ]
+      }
+    },
     "0.0.14": {
       "sdist": [
         "PjcQ0roOS1TXfls/TVnLzMuvG21HbZR0FmlK5zQN1GM=",
@@ -30316,6 +30328,12 @@
       "sdist": [
         "k/IfT1yG1S1ForL1kcqxeJC4CCnvKsETwbDuon5xreo=",
         "craiyon.py-0.2.0.tar.gz"
+      ]
+    },
+    "0.3.0": {
+      "sdist": [
+        "+1TGQAbthJbb4TZmjy4yrOU6LzKoJLKWjLarZ/Tvw0I=",
+        "craiyon.py-0.3.0.tar.gz"
       ]
     }
   },
@@ -72176,6 +72194,12 @@
         "libsw3-0.0.9.tar.gz"
       ]
     },
+    "0.1.10": {
+      "sdist": [
+        "FzIexIaWcFizyOw9pquzCYhe0ydLHHZanRe2w3UBdYI=",
+        "libsw3-0.1.10.tar.gz"
+      ]
+    },
     "0.1.2": {
       "sdist": [
         "Z8Ci01enVrmrbZhetConi6AZG7fBjglC35qniGQYANs=",
@@ -95002,6 +95026,14 @@
     }
   },
   "ovos-tts-plugin-mimic3-server": {
+    "0.0.0": {
+      "wheels": {
+        "ovos_tts_plugin_mimic3_server-0.0.0-py3-none-any.whl": [
+          "ZxgGXevdJ3LE2TfQhHx33kdT+Ir2ZKlKK9tW9nHHHOg=",
+          "py3"
+        ]
+      }
+    },
     "0.0.0a10": {
       "wheels": {
         "ovos_tts_plugin_mimic3_server-0.0.0a10-py3-none-any.whl": [
@@ -95034,6 +95066,14 @@
         ]
       }
     },
+    "0.0.0a14": {
+      "wheels": {
+        "ovos_tts_plugin_mimic3_server-0.0.0a14-py3-none-any.whl": [
+          "jSbCM6JqQdUK4pSZiNzYoN8Gva2hEi1TUtnfwtnwCKc=",
+          "py3"
+        ]
+      }
+    },
     "0.0.0a7": {
       "sdist": [
         "8jwfvZpUWOs8WQYka/Kj7azO6u2AMj2CA8/+mGwx15k=",
@@ -95052,6 +95092,14 @@
       "wheels": {
         "ovos_tts_plugin_mimic3_server-0.0.0a9-py3-none-any.whl": [
           "TeifDZqXrStcWHScQoCYjFo0LSbymnNnZ1nwidjUi2g=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.1": {
+      "wheels": {
+        "ovos_tts_plugin_mimic3_server-0.0.1-py3-none-any.whl": [
+          "VEXh8TGJXWQfCZ3vdWIqXLd3GujIrED0u2tuuooREJI=",
           "py3"
         ]
       }
@@ -111501,6 +111549,18 @@
         "42XAjMFt8ykTc4I5ZxdmB8b5U7RH0j6vdxAB0dkul1Q=",
         "pytorch_nlp_pipeline-0.1.4.tar.gz"
       ]
+    },
+    "0.1.5": {
+      "sdist": [
+        "5z/infASUkxbUxv5ESudvkOM2y5LKKYPn8/J/J41NOE=",
+        "pytorch_nlp_pipeline-0.1.5.tar.gz"
+      ],
+      "wheels": {
+        "pytorch_nlp_pipeline-0.1.5-py3-none-any.whl": [
+          "WzESkylRhxCS67Au9BhQYyGedET79e+NpUYYq6CcWOI=",
+          "py3"
+        ]
+      }
     }
   },
   "pytorch-zhongwen-guanfang-jiaocheng-1-7-chuyi": {
@@ -137437,6 +137497,20 @@
       }
     }
   },
+  "testlab-sdk-python": {
+    "0.0.1": {
+      "sdist": [
+        "M0lIKZu4auqHrU7wQgvyvEmkCi6tgpzIHPbOc8HtjCM=",
+        "testlab_sdk_python-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "testlab_sdk_python-0.0.1-py3-none-any.whl": [
+          "gU+EYlYL0ycwwV2j6XKlKaBW5qptDL84zmGeGZN7kdk=",
+          "py3"
+        ]
+      }
+    }
+  },
   "testmoduletrolol": {
     "0.0.1": {
       "sdist": [
@@ -147272,6 +147346,178 @@
         ],
         "uharfbuzz-0.34.0-pp39-pypy39_pp73-win_amd64.whl": [
           "u3egHd7XABSTrC75OSWbH6ZCqN2WFECcWQixo+QrFV0=",
+          "pp39"
+        ]
+      }
+    },
+    "0.35.0": {
+      "sdist": [
+        "nFwcx3zSWO0BTOrNEX/bx8WxPACtHG3sgR5s5bXMW8U=",
+        "uharfbuzz-0.35.0.zip"
+      ],
+      "wheels": {
+        "uharfbuzz-0.35.0-cp310-cp310-macosx_10_9_universal2.whl": [
+          "Qw3R4+7UI3idVZQDZ6YWqkRmzV5TwUbxnUkYrbqx0EE=",
+          "cp310"
+        ],
+        "uharfbuzz-0.35.0-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "ftdfGXfLQAs9UX4ntirqS1gB4bTvwP4CdlwZJMQ7cWM=",
+          "cp310"
+        ],
+        "uharfbuzz-0.35.0-cp310-cp310-macosx_11_0_arm64.whl": [
+          "u4X4urHXaQf1XNG+YfGtnhoAp1r1UebIaKV/3YDkF7c=",
+          "cp310"
+        ],
+        "uharfbuzz-0.35.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "3y5wJcfBK+K+IWWvI6NYzuG0qMEBNwOvdF8xnJh4ADU=",
+          "cp310"
+        ],
+        "uharfbuzz-0.35.0-cp310-cp310-win32.whl": [
+          "8NadfbHLOI/pcii9M6tGILYnNMGCg3x6Ko2paYQn4wY=",
+          "cp310"
+        ],
+        "uharfbuzz-0.35.0-cp310-cp310-win_amd64.whl": [
+          "m/76TacRK+cw29Ma7wiOBkAc8B3QZVp7KD+LshVgjsg=",
+          "cp310"
+        ],
+        "uharfbuzz-0.35.0-cp311-cp311-macosx_10_9_universal2.whl": [
+          "8sv/JeqD1gOu0YPiFimosOluN/nKAXh1QAaURR24/LM=",
+          "cp311"
+        ],
+        "uharfbuzz-0.35.0-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "SwKQ2aimnKUQEb6Hdn+arOxoNdOjmS+I/xU03DD1w+c=",
+          "cp311"
+        ],
+        "uharfbuzz-0.35.0-cp311-cp311-macosx_11_0_arm64.whl": [
+          "zIrEZivjN3/s2cVQ2P+de2iw/EwG5KARh5+Kd1zhr+0=",
+          "cp311"
+        ],
+        "uharfbuzz-0.35.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "5Y9V/y/n82Dt1bzZ3K7KqjgQxq9TmUNQAm5UHYDoUyo=",
+          "cp311"
+        ],
+        "uharfbuzz-0.35.0-cp311-cp311-win32.whl": [
+          "seE5QdbcuH6S5N2lPUmQMtsHd2yEoqwcuIXKqXX1c2Q=",
+          "cp311"
+        ],
+        "uharfbuzz-0.35.0-cp311-cp311-win_amd64.whl": [
+          "pmeO7F9LYq45tIU5fH9X3gg/bOl5rRn2OgtueajtQss=",
+          "cp311"
+        ],
+        "uharfbuzz-0.35.0-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "sYZDZ/1Pw2ixxCRAEraUdvUBfcAXBgJtbWHMZlM8vT0=",
+          "cp36"
+        ],
+        "uharfbuzz-0.35.0-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "EVbC4+bmPZmgyAttDz0ej5e6DMpK0n9gDMmL2NWx/EE=",
+          "cp36"
+        ],
+        "uharfbuzz-0.35.0-cp36-cp36m-win32.whl": [
+          "L1Uvt38D3JIayQAMXauX9MJ0/rtjfea2tZWo/eqkv/s=",
+          "cp36"
+        ],
+        "uharfbuzz-0.35.0-cp36-cp36m-win_amd64.whl": [
+          "qNIGgC6/VcbGR+FyFxjyyY/7J6Cm66o49wK7rlkA56E=",
+          "cp36"
+        ],
+        "uharfbuzz-0.35.0-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "dSQXdeVpZrWViD5Q23AuVnI4y5XXgq2zGO8ET1/O4Sc=",
+          "cp37"
+        ],
+        "uharfbuzz-0.35.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "rcqzY6+pCnNLzdaVoX6G+0+qk13QnNoGIfQIM9ymRMU=",
+          "cp37"
+        ],
+        "uharfbuzz-0.35.0-cp37-cp37m-win32.whl": [
+          "Lbx8sNZiWueaFIXZ0qtsKjK9T3Dam7SfZrbTysXxLdE=",
+          "cp37"
+        ],
+        "uharfbuzz-0.35.0-cp37-cp37m-win_amd64.whl": [
+          "Pm6YzOI3Au//jxOxXfE5JCMKqbRt+orw2NBINqk3IT8=",
+          "cp37"
+        ],
+        "uharfbuzz-0.35.0-cp38-cp38-macosx_10_9_universal2.whl": [
+          "enu2CwG8XJzGgasZD9sxcHYmObPN8AxcRWu9WOQc1ts=",
+          "cp38"
+        ],
+        "uharfbuzz-0.35.0-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "uxhOE+EN2gOgoZcR6Y8m1H9n9QJT3LnJGjtXzNmiisI=",
+          "cp38"
+        ],
+        "uharfbuzz-0.35.0-cp38-cp38-macosx_11_0_arm64.whl": [
+          "BnB37rDHNnvQOU4MRzBB4brxPlf3tfwGUppMhOEOOz8=",
+          "cp38"
+        ],
+        "uharfbuzz-0.35.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "aXbGWQeLowunE+lmdGR+yrbMZZoW14HIeenzFa9IcGA=",
+          "cp38"
+        ],
+        "uharfbuzz-0.35.0-cp38-cp38-win32.whl": [
+          "EqGgwttDxr9GIN+Ys3j8TZERpFv9fdoqE+LqJTAdG1o=",
+          "cp38"
+        ],
+        "uharfbuzz-0.35.0-cp38-cp38-win_amd64.whl": [
+          "qETE64q3KWZ86d0NJQf1zSK2te6HTYQ2v+qL61D/ggE=",
+          "cp38"
+        ],
+        "uharfbuzz-0.35.0-cp39-cp39-macosx_10_9_universal2.whl": [
+          "UlZddrItU3mF6NuvfBJdV5/OYuFlkqxRUT4AD3ydplM=",
+          "cp39"
+        ],
+        "uharfbuzz-0.35.0-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "MFHaAUknpJTtkkYzEACDKbf1G4ZJGi3KX1C/7TTHg3A=",
+          "cp39"
+        ],
+        "uharfbuzz-0.35.0-cp39-cp39-macosx_11_0_arm64.whl": [
+          "ZcuszwHhCbx+/guz/0ojQIy4xqmlHz9rqjxqroY0W60=",
+          "cp39"
+        ],
+        "uharfbuzz-0.35.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "HpRvFbLln8D2YvbDKPGGtXG9DQt9raR4ViWEHdTezMk=",
+          "cp39"
+        ],
+        "uharfbuzz-0.35.0-cp39-cp39-win32.whl": [
+          "CqpiFBkzmOuOBUqWf37z+i+l9mVhhggfILCa7zn3UHg=",
+          "cp39"
+        ],
+        "uharfbuzz-0.35.0-cp39-cp39-win_amd64.whl": [
+          "VokkEDBZa8+fksd+/JEwo8/JhGtxqhT/oSzn7uuvOf0=",
+          "cp39"
+        ],
+        "uharfbuzz-0.35.0-pp37-pypy37_pp73-macosx_10_9_x86_64.whl": [
+          "hPdpJ18+o+y4QkINLvQmKqLp9luy4H8yxdW8j2F3aO8=",
+          "pp37"
+        ],
+        "uharfbuzz-0.35.0-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "YDW92bnND3IENIfLkjRPmd1+OWC5YroQydMI1C/7O5Y=",
+          "pp37"
+        ],
+        "uharfbuzz-0.35.0-pp37-pypy37_pp73-win_amd64.whl": [
+          "t6p7uWZMFnmGGhKC9T+fkG+RaIx4Vy/bwFUiP9srQYo=",
+          "pp37"
+        ],
+        "uharfbuzz-0.35.0-pp38-pypy38_pp73-macosx_10_9_x86_64.whl": [
+          "ShFDtF1Ms+LJVkUiuESZPyiqhsulylJdVozV3aEZRRY=",
+          "pp38"
+        ],
+        "uharfbuzz-0.35.0-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ciJclQ8zHd8XTp8AuGVXTXjH4lOb0pOsu+dF8AL7hjc=",
+          "pp38"
+        ],
+        "uharfbuzz-0.35.0-pp38-pypy38_pp73-win_amd64.whl": [
+          "HCkFNhbkloh2uBrK1Vw1lgKameJVM5YdTkO98Rup8XY=",
+          "pp38"
+        ],
+        "uharfbuzz-0.35.0-pp39-pypy39_pp73-macosx_10_9_x86_64.whl": [
+          "18Q8QJsPwbE1Ysho+8yrJw5pSQx9GhATqQIy1kccGTI=",
+          "pp39"
+        ],
+        "uharfbuzz-0.35.0-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "LRNlATSzLlVv/1MNxQrr4S6QnMrX6d2ZoL7a+/zzhlE=",
+          "pp39"
+        ],
+        "uharfbuzz-0.35.0-pp39-pypy39_pp73-win_amd64.whl": [
+          "Jx9mFRSKMMI7AMZSyGBCIm5Tc5oKAjhqaTgwV3mYRvo=",
           "pp39"
         ]
       }

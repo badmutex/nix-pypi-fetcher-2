@@ -11339,6 +11339,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.90": {
+      "sdist": [
+        "JeeYCqYdTlQPFpJPN8MS9aI376qWCjpmA10qa3j/9Kk=",
+        "botocore-a-la-carte-amplifyuibuilder-1.29.90.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_amplifyuibuilder-1.29.90-py3-none-any.whl": [
+          "wQFu0Ko8kFvgBo8OxttqWroEp6Zif+qgzttOv8CcH7k=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-rekognition": {
@@ -11914,6 +11926,18 @@
       "wheels": {
         "botocore_a_la_carte_rekognition-1.29.89-py3-none-any.whl": [
           "hrcD0stSqG+LdMBU19WuDek8k4h7tYQ8s4QyrO1DPEo=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.90": {
+      "sdist": [
+        "1ZYXvMKJaZp2cud0gsGXSEAoawN0jmA6PGgV3nDjTXU=",
+        "botocore-a-la-carte-rekognition-1.29.90.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_rekognition-1.29.90-py3-none-any.whl": [
+          "XC7fADou2LJM2tnQ+ErkA+zUkhpvrvzynRkd2gq1XDw=",
           "py3"
         ]
       }
@@ -17178,6 +17202,18 @@
         ]
       }
     },
+    "0.1.76": {
+      "sdist": [
+        "YCJdecwMsw2JAdXOqYxPRuoYUYTWi4SF8Dxfm7UWTmA=",
+        "cdk8s-operator-0.1.76.tar.gz"
+      ],
+      "wheels": {
+        "cdk8s_operator-0.1.76-py3-none-any.whl": [
+          "5r58CcVvERLPy4+fHFvBzPXanS0DIMQJKptu053sB9M=",
+          "py3"
+        ]
+      }
+    },
     "0.1.8": {
       "sdist": [
         "Tgcfojhn65lIn9YaN3Ffc7foUL6LEGUl1MFzFiB+hYI=",
@@ -17824,6 +17860,18 @@
       "wheels": {
         "cdktf_github_actions-0.0.56-py3-none-any.whl": [
           "ZWfdZB7rRf1NIqrpkkZlCRRD1pe+v9JDQtiHxq+r3fA=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.57": {
+      "sdist": [
+        "wYmK5+GfnFcTed0159ItcU/2K0ie3eXrnJDSYbmSZvQ=",
+        "cdktf-github-actions-0.0.57.tar.gz"
+      ],
+      "wheels": {
+        "cdktf_github_actions-0.0.57-py3-none-any.whl": [
+          "dpOnwNF07gFvaf901VNggyi2zQe6TNu2LAEAe0ZnDDY=",
           "py3"
         ]
       }
@@ -58206,6 +58254,14 @@
         ]
       }
     },
+    "3.1.31": {
+      "wheels": {
+        "huaweicloudsdkas-3.1.31-py2.py3-none-any.whl": [
+          "quiRcEYloBaBmgyA+LOwyosmbDRdc9wld2QpCuD1p20=",
+          "py2.py3"
+        ]
+      }
+    },
     "3.1.4": {
       "wheels": {
         "huaweicloudsdkas-3.1.4-py2.py3-none-any.whl": [
@@ -74728,6 +74784,12 @@
       "sdist": [
         "L8ocqFBXnzzeEoqnbVKmh3/GqF1iFLQDKq1A/agD9zI=",
         "merlin-dataloader-0.0.4.tar.gz"
+      ]
+    },
+    "23.2.1": {
+      "sdist": [
+        "ngMn3gAA0/edP0rlec7vzQktbyq32/beHJii2aeO+Vs=",
+        "merlin-dataloader-23.2.1.tar.gz"
       ]
     }
   },
@@ -114324,6 +114386,26 @@
         ],
         "rerun_sdk-0.3.0a2-cp38-abi3-win_amd64.whl": [
           "kCT8cjo/iRrYyEpuz6pgOUFB1znGaIFsbatMzJVZdGI=",
+          "cp38"
+        ]
+      }
+    },
+    "0.3.1": {
+      "wheels": {
+        "rerun_sdk-0.3.1-cp38-abi3-macosx_10_7_x86_64.whl": [
+          "bW45Cgo/r6uY/fi89ujta+lOrKBeHfJb6C5qLQ75Xy4=",
+          "cp38"
+        ],
+        "rerun_sdk-0.3.1-cp38-abi3-macosx_11_0_arm64.whl": [
+          "wIDTFsoOOVg6cRFMJcXl6KhyC3bgvt8u23iA84gqtqk=",
+          "cp38"
+        ],
+        "rerun_sdk-0.3.1-cp38-abi3-manylinux_2_31_x86_64.whl": [
+          "KAc2ikiuk9Bi9rqwwZYTRsc6mEQdfiGWybZWLgEk7x0=",
+          "cp38"
+        ],
+        "rerun_sdk-0.3.1-cp38-abi3-win_amd64.whl": [
+          "EL4ZPNSiqFhDe824cNmIc/kiQNvrEf6i8KRwuFf0vjg=",
           "cp38"
         ]
       }

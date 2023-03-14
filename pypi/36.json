@@ -18033,6 +18033,18 @@
         "KM1Yge7cL25GCgGYBjgajIwRT3eQzKUokG8qYnDtFuM=",
         "collective.cookiecuttr-1.0.2.tar.gz"
       ]
+    },
+    "2.0.0": {
+      "sdist": [
+        "ni4LbVLCfH6vb7Ln6riUJGCqprj3eWnXAwdL8wL9pAw=",
+        "collective.cookiecuttr-2.0.0.tar.gz"
+      ],
+      "wheels": {
+        "collective.cookiecuttr-2.0.0-py2.py3-none-any.whl": [
+          "6tbkPUctKgMOhbOWVeCsNIntlq7txnwRr13CLoFNaBc=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "collective.elastic.plone": {
@@ -44021,6 +44033,18 @@
           "py3"
         ]
       }
+    },
+    "0.18": {
+      "sdist": [
+        "7n2cTm57zeL5i+ZgdTBB4jLFyb3dYSv4z3nE7AnSwFA=",
+        "EVECelery-0.18.tar.gz"
+      ],
+      "wheels": {
+        "EVECelery-0.18-py3-none-any.whl": [
+          "TZzQZtFLMnt9GKh1+Ct3ZuiUXbtTWjM0e8dPpbE/LSg=",
+          "py3"
+        ]
+      }
     }
   },
   "eventprocces": {
@@ -51576,6 +51600,38 @@
         ],
         "gma-1.1.3-cp39-cp39-win_amd64.whl": [
           "t6JkY+d/4+3Fl5eJIGEsxCaDPKNvDOdZgjomePa5xFs=",
+          "cp39"
+        ]
+      }
+    },
+    "1.1.4": {
+      "wheels": {
+        "gma-1.1.4-cp310-cp310-manylinux1_x86_64.whl": [
+          "QTzPPaIZSMKDa7Xqr/oazQNI0b1nR5xKLPaZvprRkNM=",
+          "cp310"
+        ],
+        "gma-1.1.4-cp310-cp310-win_amd64.whl": [
+          "Hc4wPyC0yI1HQHj3SLLkSOhPQj57Mbqo2+A/xcUCNJw=",
+          "cp310"
+        ],
+        "gma-1.1.4-cp311-cp311-manylinux1_x86_64.whl": [
+          "Sl026dOpkceCABMTmvm132uVXgDfjoZGNMiEmY0utY8=",
+          "cp311"
+        ],
+        "gma-1.1.4-cp311-cp311-win_amd64.whl": [
+          "rod/BMIhdCuzus2armVw0FaIRrFeE+nvqAAaF9ji6Bs=",
+          "cp311"
+        ],
+        "gma-1.1.4-cp38-cp38-win_amd64.whl": [
+          "vg7DMAHrlvdIQ0g4uHE/v7gjT4Te+BK3wsdDJCwOK7Q=",
+          "cp38"
+        ],
+        "gma-1.1.4-cp39-cp39-manylinux1_x86_64.whl": [
+          "537hCpnR3vXuoT+OY8LVDcIEzMYckrC5n33d5Jgd/E0=",
+          "cp39"
+        ],
+        "gma-1.1.4-cp39-cp39-win_amd64.whl": [
+          "HSxHGpbj30fsZyj42bNusFDWIj9uBVOAf2iGyIpYDrM=",
           "cp39"
         ]
       }
@@ -64417,6 +64473,24 @@
         "uY6oo5jkkubbFCweGjZYQI4QJrDnIRsJAKMhdrozkYA=",
         "lazyearth-0.0.9.tar.gz"
       ]
+    },
+    "0.1.0": {
+      "sdist": [
+        "KNzftfzdNUwVUyAuwN6yRPvE9qkLh4JmKwXmsJh/Nvg=",
+        "lazyearth-0.1.0.tar.gz"
+      ]
+    },
+    "1.0.0": {
+      "sdist": [
+        "IB0H1hKFHWXahX5kQFoLHStxyANvmPff4hyZ8S3d6Ro=",
+        "lazyearth-1.0.0.tar.gz"
+      ]
+    },
+    "1.0.1": {
+      "sdist": [
+        "/J/jkEeYClovTtjLIpQh5wd42ZtwoG0lCm9JqfKQitk=",
+        "lazyearth-1.0.1.tar.gz"
+      ]
     }
   },
   "lazyplotly": {
@@ -66388,6 +66462,18 @@
       "wheels": {
         "llmapi_cli-1.0.2-py3-none-any.whl": [
           "Ck6deCYJwnHnq+zKg6RhOfTyHRhS1WcK3nS4m8gLwrU=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.3": {
+      "sdist": [
+        "cvfrY73Hn4HMZBbXtyWDi26uORCr9NpsBqPrmxp0Dfs=",
+        "llmapi_cli-1.0.3.tar.gz"
+      ],
+      "wheels": {
+        "llmapi_cli-1.0.3-py3-none-any.whl": [
+          "o9OFlKVGd3X7ZV6sBISeEWOHZfOpHpPB2sbkOwO0bD8=",
           "py3"
         ]
       }
@@ -96341,6 +96427,14 @@
           "py3"
         ]
       }
+    },
+    "13.0.4.0.1.dev2": {
+      "wheels": {
+        "odoo13_addon_l10n_es_aeat-13.0.4.0.1.dev2-py3-none-any.whl": [
+          "dmevnnbmL8Bv6MdtYDluXqatr9f7MiRnCCYCxy0BOxs=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo13-addon-mrp-operating-unit": {
@@ -104922,6 +105016,54 @@
         ]
       }
     },
+    "0.0.255": {
+      "sdist": [
+        "wNd8f4z+Z8zkTU97sC9SN/9XOVf4hG4Xn7mc3am1fSw=",
+        "pepperize.cdk-ssm-parameters-cross-region-0.0.255.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.cdk_ssm_parameters_cross_region-0.0.255-py3-none-any.whl": [
+          "V0/5y843OO/XGCghltVYVb0LDReJhOuXMqCc9CZLRYo=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.256": {
+      "sdist": [
+        "HC8BAdNzeEU1NJoP1n5WkUMbZNNzhUdQ+JvJPt/0eRI=",
+        "pepperize.cdk-ssm-parameters-cross-region-0.0.256.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.cdk_ssm_parameters_cross_region-0.0.256-py3-none-any.whl": [
+          "mxUyn7NcCvrFhp283dLGy+gb6LVxvEkAhQRqcvzrG9g=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.257": {
+      "sdist": [
+        "iVbo/U6XW//z2UoxV+ao61m9rQIooTOxyF+Z9EnYbtM=",
+        "pepperize.cdk-ssm-parameters-cross-region-0.0.257.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.cdk_ssm_parameters_cross_region-0.0.257-py3-none-any.whl": [
+          "EYSg2P0UB1OUv9IEWGH4fLXABt8w8bJsMldGzG178Cw=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.258": {
+      "sdist": [
+        "rGOBmkugrPDInvvGec/rpXqhUD2tFxyUoNpbPcvZxCE=",
+        "pepperize.cdk-ssm-parameters-cross-region-0.0.258.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.cdk_ssm_parameters_cross_region-0.0.258-py3-none-any.whl": [
+          "YbWPMzh4e8kumstaLyUaTajrSFMc6xnekocs+xmTeJo=",
+          "py3"
+        ]
+      }
+    },
     "0.0.26": {
       "sdist": [
         "MitBm98tqco9LHVZ5d+QSVQta33i4eJ4ZF36064QTy0=",
@@ -108726,6 +108868,12 @@
       "sdist": [
         "urWbbgvOTSCcdU2alF2+8P+I6hzTLBaytCwTzBmTChY=",
         "pitchtools-1.9.1.tar.gz"
+      ]
+    },
+    "1.9.2": {
+      "sdist": [
+        "5GrPTPP/N5az1mt/ubJ/UtMf999x6GRNZOWDSZWFnpo=",
+        "pitchtools-1.9.2.tar.gz"
       ]
     }
   },
@@ -117849,6 +117997,18 @@
           "py3"
         ]
       }
+    },
+    "0.2.2": {
+      "sdist": [
+        "nZDHOxfjz57NwPY6r5ckQLzjFMuvpgGZsE0UUpkROuc=",
+        "pyptv-0.2.2.tar.gz"
+      ],
+      "wheels": {
+        "pyptv-0.2.2-py3-none-any.whl": [
+          "EUb8lVgRUoTZgeB9i1o4JYVt7l62eDCjpNSvR+HEpgM=",
+          "py3"
+        ]
+      }
     }
   },
   "pyqt-files-already-exists-dialog": {
@@ -119397,6 +119557,30 @@
         "pyStormworksLuaInject-0.1.5-py3-none-any.whl": [
           "0i+iwYffWym+JuxzfOd+CoJ3i31YPI9Az95luBnykj0=",
           "py3"
+        ]
+      }
+    },
+    "0.1.6": {
+      "sdist": [
+        "3hS76o9TevBLieJhQ89cvsYzmFBp2ZVb00nnfBSc4Sw=",
+        "pyStormworksLuaInject-0.1.6.tar.gz"
+      ],
+      "wheels": {
+        "pystormworksluainject-0.1.6-py2.py3-none-any.whl": [
+          "landcSkllmUVD2sjovQcO7KcZHmz7O69XAV4OJ5Nbbs=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.1.6.1": {
+      "sdist": [
+        "N7Vep2zuvEITFgY7BiNFu4sq/k0HKxlSP2u+BkOzOf8=",
+        "pyStormworksLuaInject-0.1.6.1.tar.gz"
+      ],
+      "wheels": {
+        "pystormworksluainject-0.1.6.1-py2.py3-none-any.whl": [
+          "7BtkZKsVXGpiwXt12QFfpv9jTOcgB17ZLWlCX3uVqLs=",
+          "py2.py3"
         ]
       }
     }
@@ -142596,6 +142780,18 @@
       "wheels": {
         "textwatermark-0.2.1-py3-none-any.whl": [
           "pXlub31we5AesXPRNK7x09cRBzXS+tHCG8eJk7M8e4w=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.0": {
+      "sdist": [
+        "TEaw39tDv2FOfMHzzoKwCPQTLskBgdUzmhPpWCT/apI=",
+        "textwatermark-0.3.0.tar.gz"
+      ],
+      "wheels": {
+        "textwatermark-0.3.0-py3-none-any.whl": [
+          "BtMlUH1tVJ/5ymmRQw5cbxDMZa7fJvH7tQuf2UdHJ2M=",
           "py3"
         ]
       }

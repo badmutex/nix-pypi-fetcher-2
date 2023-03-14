@@ -13481,6 +13481,58 @@
           "cp39"
         ]
       }
+    },
+    "2.5.1": {
+      "wheels": {
+        "benpy-2.5.1-cp310-cp310-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "riuc8d5w28u3/FZ8OTbSiFj7y3BI8i6Hz9zmjP9xlWY=",
+          "cp310"
+        ],
+        "benpy-2.5.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "xEwtk5W3iPQN0RkldDhJTECtM+A6ZGHhKF489Se4M5M=",
+          "cp310"
+        ],
+        "benpy-2.5.1-cp310-cp310-win32.whl": [
+          "bk3inHDFkADYkPGkzT4yBvnQ3pnf+0lr9Jl9BpKUXNo=",
+          "cp310"
+        ],
+        "benpy-2.5.1-cp310-cp310-win_amd64.whl": [
+          "WYUkNlzMxqqneD0VwsehxeJgtMD7mF8kTVBzRHR7EUw=",
+          "cp310"
+        ],
+        "benpy-2.5.1-cp38-cp38-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "hOZ6rwUbd2LTWG988yQg5cTVMRkawzAXIfx23/iCj/0=",
+          "cp38"
+        ],
+        "benpy-2.5.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "TXGaT+gGTPRfIPGRgUal74Si4tNwJ/3h2m/EMsbZ/7o=",
+          "cp38"
+        ],
+        "benpy-2.5.1-cp38-cp38-win32.whl": [
+          "EXNCrpaQjtYkMGRF0Pa4G4LIlwDG8jeICGHW51sk+iw=",
+          "cp38"
+        ],
+        "benpy-2.5.1-cp38-cp38-win_amd64.whl": [
+          "nT5njEEA40pmFu4QW3U7p6sGXECUE5D2hZCG1WfYl50=",
+          "cp38"
+        ],
+        "benpy-2.5.1-cp39-cp39-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "hZTRDpoSAyQ6F1qxghzUKx9XQrnT3FuvfyxG7O6K8xk=",
+          "cp39"
+        ],
+        "benpy-2.5.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "nymFdf31pl9qb/gpvQP6ECDNqEG8PrSsmDOdn/rPLYA=",
+          "cp39"
+        ],
+        "benpy-2.5.1-cp39-cp39-win32.whl": [
+          "Fnjhd18Y63Ve6h5uAv0b+O73OAnEj91tf1+vZe4tXGQ=",
+          "cp39"
+        ],
+        "benpy-2.5.1-cp39-cp39-win_amd64.whl": [
+          "U7CWGFVqjAdQTlGz9LvfUnm7LyOyC89lFQEPWP9M9RM=",
+          "cp39"
+        ]
+      }
     }
   },
   "bert-base": {
@@ -22432,6 +22484,18 @@
         ]
       }
     },
+    "6.29.4": {
+      "sdist": [
+        "v7Ya+FqO2QxjM6klDcsl/jqh23YPAil+6txfvfjn/xI=",
+        "cfl-common-6.29.4.tar.gz"
+      ],
+      "wheels": {
+        "cfl_common-6.29.4-py3-none-any.whl": [
+          "rcM8rHUuHtExdoFxZzuqBZERLCrGVKzZq2KdcZaxTXc=",
+          "py3"
+        ]
+      }
+    },
     "6.3.0": {
       "sdist": [
         "1XroyEz7g0kt2O3e12C1SwTntLaJYkdYYpZhdZOAYSI=",
@@ -25762,6 +25826,12 @@
         "collective.behavior.seo-1.0.1.tar.gz"
       ]
     },
+    "1.0.2": {
+      "sdist": [
+        "h1bBs7cxwAuTTJ3EdW1OaR+xlhJbOLWWMfIkPdv3X64=",
+        "collective.behavior.seo-1.0.2.tar.gz"
+      ]
+    },
     "1.0a1": {
       "sdist": [
         "E+W4TgMyqoYudvyPljr/Ojgi5Fh+RM9at1R9dfXBzL0=",
@@ -25772,6 +25842,12 @@
       "sdist": [
         "ya+TkQesy1ONetrxOqASqeD5Jz8UUr/IAteVKrsV/kY=",
         "collective.behavior.seo-1.0b1.tar.gz"
+      ]
+    },
+    "2.0.0": {
+      "sdist": [
+        "M6z4Afg5VZ7e4l14lZQ1kxonMh8JkhRm6vfvZfsQh9Y=",
+        "collective.behavior.seo-2.0.0.tar.gz"
       ]
     }
   },
@@ -40533,6 +40609,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.1": {
+      "sdist": [
+        "x0WUV88qGO/1mpc5LjKw4q13xXASrBW21vyLk3pwUaI=",
+        "djangoldp_application-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "djangoldp_application-1.0.1-py3-none-any.whl": [
+          "J/7XIwzjX0y4CcD8CFQEe7sCbQsBT7K74AUh3zECv1U=",
+          "py3"
+        ]
+      }
     }
   },
   "djangolovessandstorm": {
@@ -46646,6 +46734,32 @@
       "wheels": {
         "expressive_regex-0.4.5-py3-none-any.whl": [
           "yook5jon/75ehHe+FqTmOp3hDzUQr9I+0JQVknnDIno=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "extract-tex-env": {
+    "0.1.0": {
+      "sdist": [
+        "T6Lxr+P+Bu1vW8cWldoaqs1ezNeO9BpkzzlZP4JBLSU=",
+        "extract_tex_env-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "extract_tex_env-0.1.0-py3-none-any.whl": [
+          "my+/1k8BMaHIeytu8dtpARVlNcKsYhvW+72CCl/Pjrk=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "OVOf2JRgNyZlZYluygcKht8OOWZv4ZcGj7HlWAJGqG0=",
+        "extract_tex_env-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "extract_tex_env-0.1.1-py3-none-any.whl": [
+          "turNEx+oUxnwe1Sp2RoCufKLXDzBJ9YoaevjnMqUPBA=",
           "py3"
         ]
       }
@@ -71380,14 +71494,6 @@
     }
   },
   "kaiju-auth": {
-    "2.0.10": {
-      "wheels": {
-        "kaiju_auth-2.0.10-py3-none-any.whl": [
-          "im2qUuQY7RUhoK/unXPZbTKU6dlCtb478QDavjovXx0=",
-          "py3"
-        ]
-      }
-    },
     "2.0.11": {
       "wheels": {
         "kaiju_auth-2.0.11-py3-none-any.whl": [
@@ -71396,10 +71502,10 @@
         ]
       }
     },
-    "2.0.9": {
+    "2.0.12": {
       "wheels": {
-        "kaiju_auth-2.0.9-py3-none-any.whl": [
-          "ggIuisR1YPiQUDFohUB99aiu+1fZW12NsxtIZJ5UffM=",
+        "kaiju_auth-2.0.12-py3-none-any.whl": [
+          "K2XpMqMUUo4bsy+CnhrkVJ9sz5h76r9RTdRL0eCnBio=",
           "py3"
         ]
       }
@@ -103320,6 +103426,30 @@
       "wheels": {
         "Products.Formulator-1.16-py2.py3-none-any.whl": [
           "6Vv9mbSJw5wi9uSHznc+NI2l4tVxypvQ6+LaFBsnMa4=",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.0": {
+      "sdist": [
+        "6dAa550czcuUR406Z/HrivtK6ck6zqTAJGWbFMocHpA=",
+        "Products.Formulator-2.0.tar.gz"
+      ],
+      "wheels": {
+        "Products.Formulator-2.0-py2.py3-none-any.whl": [
+          "PN3xY8RUuTOgMIVGhOMBy+bDsEiuoxXKdlny2C9RxbI=",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.0.dev0": {
+      "sdist": [
+        "qiEjSAR0jgJYmfQODM1QRb/8pbtToetn4EVPrUy9VjM=",
+        "Products.Formulator-2.0.dev0.tar.gz"
+      ],
+      "wheels": {
+        "Products.Formulator-2.0.dev0-py2.py3-none-any.whl": [
+          "B0Uieri14nRbIMZQgxKJK9wgMb8jGIubdR1i1ugGCM4=",
           "py2.py3"
         ]
       }
@@ -137065,6 +137195,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.2": {
+      "sdist": [
+        "titdbKp4XE1+eUZ5ZeO9Dmt2WHWK+tAtKrRZzeKkKCg=",
+        "sphinx-btn-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "sphinx_btn-0.1.2-py3-none-any.whl": [
+          "qAgUc7bHFIipaxMoU+hqZpV9N4bbdSGltaaPnpl/ld4=",
+          "py3"
+        ]
+      }
     }
   },
   "sphinx-full-swaggerui": {
@@ -149004,6 +149146,18 @@
       "wheels": {
         "UC2_REST-0.2.0.7-py3-none-any.whl": [
           "agUS9ZdPcd4a53wrTJ4tKlP/gk1Nh6sDQCijVhWYdtA=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.0.8": {
+      "sdist": [
+        "acIktmLQWdJArXXSBLFwYAq2f2YVYSY/Uth3IbVAKjA=",
+        "UC2 REST-0.2.0.8.tar.gz"
+      ],
+      "wheels": {
+        "UC2_REST-0.2.0.8-py3-none-any.whl": [
+          "vL6LAl0zH26yf3+sOk9Lq8wXO1vuORaVH5vKu1lyuvI=",
           "py3"
         ]
       }

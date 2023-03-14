@@ -16200,6 +16200,18 @@
         ]
       }
     },
+    "2.69.0a0": {
+      "sdist": [
+        "/8Ur33ugaFIsZqTpetg/ctSNh1sK/eBgSNh4tprhpYU=",
+        "aws-cdk.aws-servicecatalogappregistry-alpha-2.69.0a0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_servicecatalogappregistry_alpha-2.69.0a0-py3-none-any.whl": [
+          "jBdrmmTGxCO09Qi8r8upuTzMWTgtuiz8km8y7qLS0S4=",
+          "py3"
+        ]
+      }
+    },
     "2.7.0a0": {
       "sdist": [
         "JifaE8SGs7+kPHxkoVYhjYHPPUOLPNFEe6kNIshkMqo=",
@@ -67312,10 +67324,18 @@
     }
   },
   "kaiju-tasks": {
-    "2.0.5": {
+    "2.0.6": {
       "wheels": {
-        "kaiju_tasks-2.0.5-py3-none-any.whl": [
-          "hSgcdEe14CMGGYa1NsJ/opgSayr9DlviqIodZYPU4yg=",
+        "kaiju_tasks-2.0.6-py3-none-any.whl": [
+          "Sw1F9vFfJ9+Hw+tU+5VMTuoibjXdya1TdwxEXnzM7Gk=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.7": {
+      "wheels": {
+        "kaiju_tasks-2.0.7-py3-none-any.whl": [
+          "GohUrL2f+2t7AAiA0Ud/udwyYz1/xaUSGPif0bp5QhQ=",
           "py3"
         ]
       }
@@ -77333,6 +77353,18 @@
           "py3"
         ]
       }
+    },
+    "0.2.6": {
+      "sdist": [
+        "UCEGmlfA0JiIzkbnK7GZ+VZIaW4h18R3UjcY7Y9qLxw=",
+        "mozperftest_tools-0.2.6.tar.gz"
+      ],
+      "wheels": {
+        "mozperftest_tools-0.2.6-py3-none-any.whl": [
+          "M3iumBkAJLlWQUJqTSjslwVZiE9if8tyZ9krl4J79ZE=",
+          "py3"
+        ]
+      }
     }
   },
   "mpan": {
@@ -85678,6 +85710,14 @@
       "wheels": {
         "odoo_addon_base_revision-16.0.1.0.0.2-py3-none-any.whl": [
           "ShSjeduJssk3gs//7zyuMaATLYh8kNpCc/mB0s+T7mY=",
+          "py3"
+        ]
+      }
+    },
+    "16.0.1.0.0.3": {
+      "wheels": {
+        "odoo_addon_base_revision-16.0.1.0.0.3-py3-none-any.whl": [
+          "aKEE3++HL7gqxnwHfTWCeLJxZ19N5Y80OY4En+4IlBw=",
           "py3"
         ]
       }
@@ -147880,6 +147920,42 @@
       "wheels": {
         "ultima_scraper_api-0.0.4-py3-none-any.whl": [
           "IU88FkhgMmY1ZfTK+bHQTW/Td4Fm49VflCHjaUDvh9w=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.5": {
+      "sdist": [
+        "0AWYHaXVHBhNPfLFqyJoIIffhkeAqf7o2IAU90xJvAI=",
+        "ultima_scraper_api-0.0.5.tar.gz"
+      ],
+      "wheels": {
+        "ultima_scraper_api-0.0.5-py3-none-any.whl": [
+          "laD1GPk6GHMMEDCgfFXpteDTnFw7huWfffvV9k+8bCs=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.3": {
+      "sdist": [
+        "8w0ebrkErAwNcAaglyQWbcUUxCRqaSLAQ/hcyeFk6KU=",
+        "ultima_scraper_api-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "ultima_scraper_api-0.1.3-py3-none-any.whl": [
+          "Ci01DwVH23NhkIDGI+iVwPdxMyGQcVs5ab9j3Lcx+yw=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.4": {
+      "sdist": [
+        "9YLmt5b7ZFh2+ZCF2dNo6wp21rvXz82txpBjsOMWRn4=",
+        "ultima_scraper_api-0.1.4.tar.gz"
+      ],
+      "wheels": {
+        "ultima_scraper_api-0.1.4-py3-none-any.whl": [
+          "uLb8XRdp5ZXVMHp7YIornBFpzPy7+6iPj4rvdBjEul4=",
           "py3"
         ]
       }

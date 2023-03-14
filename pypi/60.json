@@ -15191,6 +15191,18 @@
           "py3"
         ]
       }
+    },
+    "2.3.0b20230314": {
+      "wheels": {
+        "bigdl_friesian_spark3-2.3.0b20230314-py3-none-macosx_10_11_x86_64.whl": [
+          "p8RAJDIy2MnwanMl/4RIwe3QngssnZo5GTCZrKXIBQo=",
+          "py3"
+        ],
+        "bigdl_friesian_spark3-2.3.0b20230314-py3-none-manylinux1_x86_64.whl": [
+          "U/0JnqstBK+CAnnbZI8aLbzrj5Fc+6wPH2e5+RoRYdA=",
+          "py3"
+        ]
+      }
     }
   },
   "binsinfo": {
@@ -86426,10 +86438,10 @@
     }
   },
   "my-ctl": {
-    "1.0.1": {
+    "1.0.2": {
       "sdist": [
-        "XMRZ1bpUF3fmuQ4+GlPs92fJlh8q+al3bPqULH0iIAo=",
-        "my-ctl-1.0.1.tar.gz"
+        "hCJcJijw5Cdvqt34Bhm1SbTavbJYVKJzSsSVdI6cz84=",
+        "my-ctl-1.0.2.tar.gz"
       ]
     }
   },
@@ -95264,6 +95276,16 @@
       "wheels": {
         "odoo14_addon_support_branding-14.0.1.0.1.dev11-py3-none-any.whl": [
           "PP7BXdZrKzS4TuKYXRw38tEhsJBTieWIMUlkD7fWNoY=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "odoo14-addon-tracking-manager": {
+    "14.0.1.0.1": {
+      "wheels": {
+        "odoo14_addon_tracking_manager-14.0.1.0.1-py3-none-any.whl": [
+          "SCLq7vVKeMBjkbEGuncKfiFsOiy0ENpH6cJNpchFYFE=",
           "py3"
         ]
       }
@@ -127652,6 +127674,12 @@
       "sdist": [
         "WmDYa9G49lKfQBPbSkpu3tySZ7dGdnGMRxuuAm1DzxQ=",
         "returnn-1.20230310.95728.tar.gz"
+      ]
+    },
+    "1.20230314.161903": {
+      "sdist": [
+        "nX6CHNmSSDqO/DyXgbzr3tWnwxSyJbwxuiKEmEAsUAU=",
+        "returnn-1.20230314.161903.tar.gz"
       ]
     }
   },

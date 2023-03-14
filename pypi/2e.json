@@ -3652,10 +3652,10 @@
         ]
       }
     },
-    "1.6.4": {
+    "1.6.4.post1": {
       "wheels": {
-        "ams_dott-1.6.4-py3-none-any.whl": [
-          "miBufheefzqVITo1f68LDZyW+EbAd5xm6skKVWBVUx0=",
+        "ams_dott-1.6.4.post1-py3-none-any.whl": [
+          "1R6ptyN15tiExfl9npqxlXqM6QcTYNKagApzKub0UEc=",
           "py3"
         ]
       }
@@ -41669,6 +41669,38 @@
           "cp39"
         ]
       }
+    },
+    "1.9.2": {
+      "sdist": [
+        "hv27amraPPlbiO8Vaax0CfMFK3wEaFFxPbdGLjP46+I=",
+        "EvoMSA-1.9.2.tar.gz"
+      ],
+      "wheels": {
+        "EvoMSA-1.9.2-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "WdagPupdezckSzsZihe5cPqDLmYIO6rQkIXeTZzQ7os=",
+          "cp37"
+        ],
+        "EvoMSA-1.9.2-cp37-cp37m-win_amd64.whl": [
+          "eWfCkpJ3PeYrmq9hJ3nwjuAHV5rkpMhYs+3HfsZx/tA=",
+          "cp37"
+        ],
+        "EvoMSA-1.9.2-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "Yu1S6X2KOFq/HOPemAFVy1BbVVZqBSDUliAo6wkIK/w=",
+          "cp38"
+        ],
+        "EvoMSA-1.9.2-cp38-cp38-win_amd64.whl": [
+          "jeX7ijbuiu3mfDYBHPTU4zi5lifnfsgEwH9zN/hjZt8=",
+          "cp38"
+        ],
+        "EvoMSA-1.9.2-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "a2wWmqdztiBcR2C72LDNjnhpcoELIiLtYaQ1PQBs1f4=",
+          "cp39"
+        ],
+        "EvoMSA-1.9.2-cp39-cp39-win_amd64.whl": [
+          "uiMmCq5bPJAjFtIuSfu1HJJ9/AcTdniVfu1rq/yRBlA=",
+          "cp39"
+        ]
+      }
     }
   },
   "example-pkg-liudongbo": {
@@ -53476,6 +53508,18 @@
       "wheels": {
         "gpt_index-0.4.27-py3-none-any.whl": [
           "iF4J1UxliVPfJrSwPgw4xVHZgh9XNAANUGCWSovwQKw=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.28": {
+      "sdist": [
+        "nQaWbBNQzacqF2LbvnjJq46B3P/6/Ysv1+nT5O7loNM=",
+        "gpt_index-0.4.28.tar.gz"
+      ],
+      "wheels": {
+        "gpt_index-0.4.28-py3-none-any.whl": [
+          "M6CluAraPOLuJQsmZdQoq62gi+e1IarUjPza8OWu678=",
           "py3"
         ]
       }
@@ -132854,6 +132898,18 @@
       "wheels": {
         "tencentcloud_sdk_python_zj-3.0.849-py2.py3-none-any.whl": [
           "QeThl9pwlv1j1cUrCagJynn1PIJZJyZdEmf8OqysJ9c=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.850": {
+      "sdist": [
+        "rAB6sOQzQcNlbFyXzm8tEjVHjB+Va5aIT973SA3cUFs=",
+        "tencentcloud-sdk-python-zj-3.0.850.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_zj-3.0.850-py2.py3-none-any.whl": [
+          "bQve5GVG1hZmwBYDoz3y37eKzmvxWq73exDu+6cXjKM=",
           "py2.py3"
         ]
       }

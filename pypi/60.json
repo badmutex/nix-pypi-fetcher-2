@@ -2581,6 +2581,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.4": {
+      "sdist": [
+        "rhlShwrbJIg+9pNno8vMLetdfM3bz909y669MWOKvk4=",
+        "alibabacloud_governance20210120-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "alibabacloud_governance20210120-0.0.4-py3-none-any.whl": [
+          "3nraIliiuPofO1Rahz3CCUCCjq7PMwi51kE+OM0gbjY=",
+          "py3"
+        ]
+      }
     }
   },
   "aliyun-python-sdk-arms-test": {
@@ -15212,6 +15224,18 @@
         ],
         "bigdl_friesian_spark3-2.3.0b20230314-py3-none-manylinux1_x86_64.whl": [
           "U/0JnqstBK+CAnnbZI8aLbzrj5Fc+6wPH2e5+RoRYdA=",
+          "py3"
+        ]
+      }
+    },
+    "2.3.0b20230315": {
+      "wheels": {
+        "bigdl_friesian_spark3-2.3.0b20230315-py3-none-macosx_10_11_x86_64.whl": [
+          "jeFIyu4Nf34onax4eZUye2urTTLzOyVfBuhMCXGXCOY=",
+          "py3"
+        ],
+        "bigdl_friesian_spark3-2.3.0b20230315-py3-none-manylinux1_x86_64.whl": [
+          "fg+7D4tWgEKvGtBH3SF8qUIiqzDMItW4KcDYsXWtI+0=",
           "py3"
         ]
       }
@@ -70866,18 +70890,6 @@
     }
   },
   "leuci-lib": {
-    "1.0.0": {
-      "sdist": [
-        "i1acIZCeD+NpzBr6NXzE7lz7D7sq3oicB1b8vbvSoT4=",
-        "leuci-lib-1.0.0.tar.gz"
-      ],
-      "wheels": {
-        "leuci_lib-1.0.0-py3-none-any.whl": [
-          "HBo21j5TFe52vzjgqAHG2qABdgtFHSPtiK0bbOQn5bk=",
-          "py3"
-        ]
-      }
-    },
     "1.0.10": {
       "sdist": [
         "9c4GqSjnB8vmI5c3XlR0SKsSkOZ8x7/XnXv9O011S9g=",
@@ -70910,54 +70922,6 @@
       "wheels": {
         "leuci_lib-1.0.12-py3-none-any.whl": [
           "Xc81ocBNQholauLBXGemRQxA98fXi3v6E6VnDdTVm38=",
-          "py3"
-        ]
-      }
-    },
-    "1.0.2": {
-      "sdist": [
-        "YinPwfVvMMjfNTxfyx91adUmgZgVyJ6393VDYY1ftjg=",
-        "leuci-lib-1.0.2.tar.gz"
-      ],
-      "wheels": {
-        "leuci_lib-1.0.2-py3-none-any.whl": [
-          "uxzwrmh2MmJD5QeQyii3cGmpoeUx9jFXX89YxIRyJek=",
-          "py3"
-        ]
-      }
-    },
-    "1.0.3": {
-      "sdist": [
-        "C3tCz6Fq6KvMWsefN0xXdnavtovcSjh0VAEeH5MrDDw=",
-        "leuci-lib-1.0.3.tar.gz"
-      ],
-      "wheels": {
-        "leuci_lib-1.0.3-py3-none-any.whl": [
-          "dZBQQnQxrzzknRJY54LuH9dq/jiUPmsC/ZHLUx3M4O8=",
-          "py3"
-        ]
-      }
-    },
-    "1.0.4": {
-      "sdist": [
-        "RrWoSpcrArltJdNIqSTdnhtAzQG+Er7O3witb/+UHV8=",
-        "leuci-lib-1.0.4.tar.gz"
-      ],
-      "wheels": {
-        "leuci_lib-1.0.4-py3-none-any.whl": [
-          "Mso6WZRg+ItGhurz6P0ikfqR6RDrCFVx2SUyE7CFoQU=",
-          "py3"
-        ]
-      }
-    },
-    "1.0.5": {
-      "sdist": [
-        "imXcpQRmNpPoyiYhlBElekwfp5qYc7GT97ZKT8whqNs=",
-        "leuci-lib-1.0.5.tar.gz"
-      ],
-      "wheels": {
-        "leuci_lib-1.0.5-py3-none-any.whl": [
-          "qWvWWPHhEy9zAAeB0Li7RkLBWTbzxF3MFQf5X1CzH64=",
           "py3"
         ]
       }
@@ -71030,78 +70994,6 @@
       "wheels": {
         "leuci_lib-1.1.1-py3-none-any.whl": [
           "ybVZJuCQNG83MjdA2GC4YQPg91nT45GXVjJSb7tCd3I=",
-          "py3"
-        ]
-      }
-    },
-    "1.1.2": {
-      "sdist": [
-        "ut9F8xRbTWi3lVnDtUgtrix14I2sT6JA8/Q6X/yYBcw=",
-        "leuci-lib-1.1.2.tar.gz"
-      ],
-      "wheels": {
-        "leuci_lib-1.1.2-py3-none-any.whl": [
-          "0NCmN23O6ja0ZPBCnZddy8hnj19G9c4HIzvtzJXrVc8=",
-          "py3"
-        ]
-      }
-    },
-    "1.1.3": {
-      "sdist": [
-        "6sZtUVorndm9zvR+1yVehK60WkIqNE6ioIYQA9FsOKA=",
-        "leuci-lib-1.1.3.tar.gz"
-      ],
-      "wheels": {
-        "leuci_lib-1.1.3-py3-none-any.whl": [
-          "NBs3T1JX3+H9apdr8lMqokdYVRKrBTvr9p9ueEG73Ko=",
-          "py3"
-        ]
-      }
-    },
-    "1.1.4": {
-      "sdist": [
-        "v8dFRf3CW+WOdQwGteYqacxPfCpwk8khIzDtDd+Uyso=",
-        "leuci-lib-1.1.4.tar.gz"
-      ],
-      "wheels": {
-        "leuci_lib-1.1.4-py3-none-any.whl": [
-          "RKuRZpEUWb63F+CzECD04zDa81FA0KP4IG0vM3iUZbM=",
-          "py3"
-        ]
-      }
-    },
-    "1.1.5": {
-      "sdist": [
-        "wlhIiXxgujbfKSR5i0aBzDkO77mLY0Lh7+CNn4nStsA=",
-        "leuci-lib-1.1.5.tar.gz"
-      ],
-      "wheels": {
-        "leuci_lib-1.1.5-py3-none-any.whl": [
-          "NInBJ2QUkrzYAtqIb6aXxAg4ah51kZ26of68pNRJpIA=",
-          "py3"
-        ]
-      }
-    },
-    "1.1.6": {
-      "sdist": [
-        "BaWSBxL5I7nqsLTnY2A5WgWSVVQ/qbjDnk4a9azgX78=",
-        "leuci-lib-1.1.6.tar.gz"
-      ],
-      "wheels": {
-        "leuci_lib-1.1.6-py3-none-any.whl": [
-          "PC1ImB2vev1PUQxdR+/fxTUQm1gbkyobunpT1LxjmrA=",
-          "py3"
-        ]
-      }
-    },
-    "1.1.7": {
-      "sdist": [
-        "ntlAgY+8VDXaTIof+AMbii+wLK+p7Qy6tyKDE6z0hB0=",
-        "leuci-lib-1.1.7.tar.gz"
-      ],
-      "wheels": {
-        "leuci_lib-1.1.7-py3-none-any.whl": [
-          "6TSQgkYkHdxHXG5XRymQkal8rGp8m5sOA5LUS8sCIZU=",
           "py3"
         ]
       }
@@ -127711,6 +127603,18 @@
         "P2UH/aiMVS0S8756ErCf2Pc2M+BFz4Z5pW9ex//dSm0=",
         "returnn-1.20230314.213525.tar.gz"
       ]
+    },
+    "1.20230315.154823": {
+      "sdist": [
+        "cT5Ykn1tdm7otzZ68y/9fENENh3IDUoB2Q3nDAb5aac=",
+        "returnn-1.20230315.154823.tar.gz"
+      ]
+    },
+    "1.20230315.155451": {
+      "sdist": [
+        "nIqs3eUgRlT3OrrKLKpDt+23LjfZvVtC4jhI8OBLAJw=",
+        "returnn-1.20230315.155451.tar.gz"
+      ]
     }
   },
   "reunion": {
@@ -154366,6 +154270,18 @@
       "wheels": {
         "zam_authetic-0.0.2-py3-none-any.whl": [
           "m9pkuWiojlNcchROVQHuysrESXpRWPEwyCT83Fp3ic0=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "OvkTBxL6GQMKnW8HV8ZREBIwmET3wyPx4RSeig94oJE=",
+        "zam_authetic-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "zam_authetic-0.0.3-py3-none-any.whl": [
+          "rwQSKzZCp7ZevlcME6lWSj8tpMGXmVJtd7c4EyeTK0s=",
           "py3"
         ]
       }

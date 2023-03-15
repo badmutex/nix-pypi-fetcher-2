@@ -70095,6 +70095,24 @@
         "cqxBHZtW4Qgy/tRD0JlmLmca1INnhHA1fOOh+Iw+lx0=",
         "localstack-ext-1.4.1.dev20230314222630.tar.gz"
       ]
+    },
+    "1.4.1.dev20230315082709": {
+      "sdist": [
+        "Eai/iTo4/PqBiNPhzKCDVk6Q35dSBaC7uQ2kQQsPZPM=",
+        "localstack-ext-1.4.1.dev20230315082709.tar.gz"
+      ]
+    },
+    "1.4.1.dev20230315122031": {
+      "sdist": [
+        "mdkO7ypbCCdHSrsDgnu8Cl6eizo17YG4475TdnQlDwM=",
+        "localstack-ext-1.4.1.dev20230315122031.tar.gz"
+      ]
+    },
+    "1.4.1.dev20230315151741": {
+      "sdist": [
+        "owIyOkFNbDaa9e8oFBLCYNat8ALKpCCABN/GFrHrYTQ=",
+        "localstack-ext-1.4.1.dev20230315151741.tar.gz"
+      ]
     }
   },
   "lodash": {
@@ -84212,6 +84230,14 @@
       "wheels": {
         "odoo12_addon_hr_timesheet_sheet_attendance-12.0.1.0.2.99.dev2-py3-none-any.whl": [
           "rkLgUJm/kEEZ0CH0JCXzNEXXny+5HgyoZTFIpinOyhE=",
+          "py3"
+        ]
+      }
+    },
+    "12.0.1.0.2.99.dev3": {
+      "wheels": {
+        "odoo12_addon_hr_timesheet_sheet_attendance-12.0.1.0.2.99.dev3-py3-none-any.whl": [
+          "ozIv/U0NH48XPlrLUfPXXwi/JE/vyoN2+oVEDSrjXGc=",
           "py3"
         ]
       }
@@ -106285,6 +106311,14 @@
           "py2.py3"
         ]
       }
+    },
+    "1.15": {
+      "wheels": {
+        "pymosarix-1.15-py2.py3-none-any.whl": [
+          "NeXq9lyzV/gWHUHSntjXqcJdzGUqkoJL9DKOLmk/tRE=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "pymsteams": {
@@ -113243,6 +113277,234 @@
         "k1Ol7rI6Q1Vvo4L/lLP21nxmPjGiz9IgJowT4/hI/dw=",
         "python-rapidjson-1.1.tar.gz"
       ]
+    },
+    "1.10": {
+      "sdist": [
+        "rP7L9e25HscqIKEl3n9WuML2Fh7/TGU4LI7mokhNNUA=",
+        "python-rapidjson-1.10.tar.gz"
+      ],
+      "wheels": {
+        "python_rapidjson-1.10-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "Hbewr4gpmfVoXrcEag87OspdVaPoSzCJdH0ppOxv2t4=",
+          "cp310"
+        ],
+        "python_rapidjson-1.10-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "qHyMi2FVE/ncQUrxVUFAWJA20UhA9eHxhFll4cCggOE=",
+          "cp310"
+        ],
+        "python_rapidjson-1.10-cp310-cp310-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "oKL1xKvlKconZDQ0FuNXEKJjgyUzt73HbDKF77W17Mg=",
+          "cp310"
+        ],
+        "python_rapidjson-1.10-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "QEZ8Om2PBwzE0Zb+Rqee1Z0aE6TT/cagMlohgWYA5ac=",
+          "cp310"
+        ],
+        "python_rapidjson-1.10-cp310-cp310-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "nfTnI3o+d2Zsy5tDcBMpTmqjloUo98YfYPbzjuoPj3k=",
+          "cp310"
+        ],
+        "python_rapidjson-1.10-cp310-cp310-musllinux_1_1_aarch64.whl": [
+          "maUhXyT/H6bMZ+4nWmhSqlbZNNO4zXpAGX/rYytU/XY=",
+          "cp310"
+        ],
+        "python_rapidjson-1.10-cp310-cp310-musllinux_1_1_i686.whl": [
+          "Pb6g7p+hzW7ME6lJ9ruUATY505zbVvWN9KthEw015Xw=",
+          "cp310"
+        ],
+        "python_rapidjson-1.10-cp310-cp310-musllinux_1_1_ppc64le.whl": [
+          "bR0MXaO9X3AbGu1VDh571ZsWrmQod83fGIFQBs+Zj5o=",
+          "cp310"
+        ],
+        "python_rapidjson-1.10-cp310-cp310-musllinux_1_1_x86_64.whl": [
+          "By92wfFIO8xAVtfTqLAxm/hBpz6VXxiDAglLYrIWO/k=",
+          "cp310"
+        ],
+        "python_rapidjson-1.10-cp310-cp310-win32.whl": [
+          "yV1GYweiFAp2h6V1EDmAxugcn2LRlVbK+tPWspMrfrE=",
+          "cp310"
+        ],
+        "python_rapidjson-1.10-cp310-cp310-win_amd64.whl": [
+          "RU/9pYzG/tZNmDsbiuSzmlY7T9Zx2ukTLgZFACWJhTk=",
+          "cp310"
+        ],
+        "python_rapidjson-1.10-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "//NDB2++7gzX5OP7lHLy1WehJ+x7i1t+y6a/eWCjzgc=",
+          "cp311"
+        ],
+        "python_rapidjson-1.10-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "aGSCxncn7a1LbQx1O8FZ81E0paYj6WUcS3wAjvKZYlI=",
+          "cp311"
+        ],
+        "python_rapidjson-1.10-cp311-cp311-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "XvfVVoi3Ej1iaQsZNTfMBI+p81z6Q9JJ/twNn9OYiQo=",
+          "cp311"
+        ],
+        "python_rapidjson-1.10-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "PyfAYBeSUzq26YRSlh1hVmSA3BVdoZ0qNYpf2ahdkyE=",
+          "cp311"
+        ],
+        "python_rapidjson-1.10-cp311-cp311-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "lRduNeO6y4oaJ/Vj6BW1tXxxeZLIcbHCX9dqg1+7oyw=",
+          "cp311"
+        ],
+        "python_rapidjson-1.10-cp311-cp311-musllinux_1_1_aarch64.whl": [
+          "R6DsIIhri+hq8wfBDWmaRH4il57X3R8rftXLdJaz2SA=",
+          "cp311"
+        ],
+        "python_rapidjson-1.10-cp311-cp311-musllinux_1_1_i686.whl": [
+          "95aMDLCdmnaqJINVa6RqtCY0uvIWyy8sfNa/dxGaM8E=",
+          "cp311"
+        ],
+        "python_rapidjson-1.10-cp311-cp311-musllinux_1_1_ppc64le.whl": [
+          "X6qycKTdSSFs6spxaWgmgLL134MRwe0lnkYS2dDPYbc=",
+          "cp311"
+        ],
+        "python_rapidjson-1.10-cp311-cp311-musllinux_1_1_x86_64.whl": [
+          "gbeXk03AN4EPX5ivE4tVo7bxjdVpzF6Pgf55lWpHF8o=",
+          "cp311"
+        ],
+        "python_rapidjson-1.10-cp311-cp311-win32.whl": [
+          "bB1izFimFin8XiFvt7OhsCeHyY/e2HSntHSx5jJeN34=",
+          "cp311"
+        ],
+        "python_rapidjson-1.10-cp311-cp311-win_amd64.whl": [
+          "KdMfxCVPGk3KQg5YvRMx6ZD8KVnQn/Lap5NNUnMqhJE=",
+          "cp311"
+        ],
+        "python_rapidjson-1.10-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "cY9OIXtRHPv5Fm9VzPS/TkU4SVvuQD45DPiXkcDevCY=",
+          "cp37"
+        ],
+        "python_rapidjson-1.10-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "VBu7ljU88/4r2ynnJwhyJlMr5ORXParW8ELP3qUzpWQ=",
+          "cp37"
+        ],
+        "python_rapidjson-1.10-cp37-cp37m-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "UPBAKmiZxqF31KNxUt7vzVnGHkS+9Wtx6NAGoYbIYoY=",
+          "cp37"
+        ],
+        "python_rapidjson-1.10-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "wDXhd0TW1vugc7VQsAQKdOVfKtM/15jfIG/2h5tBrRA=",
+          "cp37"
+        ],
+        "python_rapidjson-1.10-cp37-cp37m-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "2pcL3kIwmnSlVW5pZnPqEcRUW4vuUIG4QmXe1GCy6e8=",
+          "cp37"
+        ],
+        "python_rapidjson-1.10-cp37-cp37m-musllinux_1_1_aarch64.whl": [
+          "t0N6ZJghAIqkVvL77HN4gNf5vdp+yUzBdDpDzPMrXSY=",
+          "cp37"
+        ],
+        "python_rapidjson-1.10-cp37-cp37m-musllinux_1_1_i686.whl": [
+          "Ni2Wm70nf3i/Cx/6qBCFfqQDURRrgn+Jb41J6cJfyZw=",
+          "cp37"
+        ],
+        "python_rapidjson-1.10-cp37-cp37m-musllinux_1_1_ppc64le.whl": [
+          "QJJW53SMSrfxezeTx6eMoBkUxIdkT8QhQNEW7U3sjE8=",
+          "cp37"
+        ],
+        "python_rapidjson-1.10-cp37-cp37m-musllinux_1_1_x86_64.whl": [
+          "o0p+KFNFb+ULou4i4454QeVe7hACHUSWzOYihfFI6Oc=",
+          "cp37"
+        ],
+        "python_rapidjson-1.10-cp37-cp37m-win32.whl": [
+          "vEqXlA5a+mClmEg9Drhjsm5IEKrwMNkqQwH1/Bg+G20=",
+          "cp37"
+        ],
+        "python_rapidjson-1.10-cp37-cp37m-win_amd64.whl": [
+          "iVhrZ/nGm2aIV3Ss6/PQGOe4+TzqKzz/owbsnTeHdZQ=",
+          "cp37"
+        ],
+        "python_rapidjson-1.10-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "LjgIKxqM4+K9VYIYUsDNZDzavmSX/ZwFT2tHoJmvvqA=",
+          "cp38"
+        ],
+        "python_rapidjson-1.10-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "CVXvIvq7NrJvytcCrlTBvOK8KnSxiDxC0lHXIBHQ1CY=",
+          "cp38"
+        ],
+        "python_rapidjson-1.10-cp38-cp38-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "Cp2wPGirAVi834ApmyyYAYbRSKo+BdVlD+pRSKQlopo=",
+          "cp38"
+        ],
+        "python_rapidjson-1.10-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "/eirDwbeuqBtkwhfGdw+w9tT8iiD8WJd0yuWqH5wCd4=",
+          "cp38"
+        ],
+        "python_rapidjson-1.10-cp38-cp38-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "I1Ocn32F1koA08tEx9mrO+IYTU2kKl8yY9z9HQID7kM=",
+          "cp38"
+        ],
+        "python_rapidjson-1.10-cp38-cp38-musllinux_1_1_aarch64.whl": [
+          "i/1IQoXzR3rO8LtFq9K4C2JS41paUzlc5I8DJ8vkPCM=",
+          "cp38"
+        ],
+        "python_rapidjson-1.10-cp38-cp38-musllinux_1_1_i686.whl": [
+          "iw7WQ+uqjd8/QEInUu/oOr2imqMKnmhmzNndWRtQV9A=",
+          "cp38"
+        ],
+        "python_rapidjson-1.10-cp38-cp38-musllinux_1_1_ppc64le.whl": [
+          "WuymYaDyKfExL7OtPhpcZzbUmULYDUkxgQFYVZ648Rk=",
+          "cp38"
+        ],
+        "python_rapidjson-1.10-cp38-cp38-musllinux_1_1_x86_64.whl": [
+          "imjtBm6PCHi3ES+UPPNbqeUhc5W83Yy0eM3gGHHicBw=",
+          "cp38"
+        ],
+        "python_rapidjson-1.10-cp38-cp38-win32.whl": [
+          "0oa+b2NEZ3bElYuzeCTGgxlLSHj8nNW3JVE0+1prpTY=",
+          "cp38"
+        ],
+        "python_rapidjson-1.10-cp38-cp38-win_amd64.whl": [
+          "rs5ScMbm1cPVRYbJpfuWd9cNcBl0SllWDFw2nHubuiU=",
+          "cp38"
+        ],
+        "python_rapidjson-1.10-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "3AnFrQ/nHyYs3MVlVAnxMvFWCor4DnbndXlFzkAf26s=",
+          "cp39"
+        ],
+        "python_rapidjson-1.10-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "yfZEe9eo/1E1q343K0ihdNPFYNWzIuMr1GXoRY5uRZM=",
+          "cp39"
+        ],
+        "python_rapidjson-1.10-cp39-cp39-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "Iu3mkhOIU5G0bMFFlr/UzRpcbzSi22YA+wiwOYLbx7c=",
+          "cp39"
+        ],
+        "python_rapidjson-1.10-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "SpQlEpYjcYoEuIWhIZD6oj55l8ToYyBU4Y336kc/dG0=",
+          "cp39"
+        ],
+        "python_rapidjson-1.10-cp39-cp39-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "YOEPMuGo0VVEiEKTTL5x62ILS0oMs2J7pMSFbidVZTQ=",
+          "cp39"
+        ],
+        "python_rapidjson-1.10-cp39-cp39-musllinux_1_1_aarch64.whl": [
+          "jSPKqxe4ftW4LijNwZFyuhymXJguP/84eWHT8zcQAx8=",
+          "cp39"
+        ],
+        "python_rapidjson-1.10-cp39-cp39-musllinux_1_1_i686.whl": [
+          "8H1Pzc/WS9rQFDuXBcXVCJZ36932CsbB+AdKNLHHDPk=",
+          "cp39"
+        ],
+        "python_rapidjson-1.10-cp39-cp39-musllinux_1_1_ppc64le.whl": [
+          "h7mRx65DVInFakbO8ijStlo99onuT+JPq2nHkchB9jM=",
+          "cp39"
+        ],
+        "python_rapidjson-1.10-cp39-cp39-musllinux_1_1_x86_64.whl": [
+          "NwalxPIQc8BL4TPDZWXvxuP1ZGoDyNGa94wZ18cOtwg=",
+          "cp39"
+        ],
+        "python_rapidjson-1.10-cp39-cp39-win32.whl": [
+          "R/kHjqaIT3ABZqhyjYY2Cf7GIjLmajO4+0p3Bs58cxw=",
+          "cp39"
+        ],
+        "python_rapidjson-1.10-cp39-cp39-win_amd64.whl": [
+          "nkkhq3ACrp+q1/Q5p8UKoZUDnxd+nlGnbDTJeWbHmnk=",
+          "cp39"
+        ]
+      }
     },
     "1.2": {
       "sdist": [
@@ -131366,6 +131628,14 @@
       "wheels": {
         "stix_shifter_modules_sentinelone-4.6.1-py2.py3-none-any.whl": [
           "c9kuwYy/MwzKg35gOgmIVUxnfGssWxtdPTW7HnAPMuI=",
+          "py2.py3"
+        ]
+      }
+    },
+    "4.6.2": {
+      "wheels": {
+        "stix_shifter_modules_sentinelone-4.6.2-py2.py3-none-any.whl": [
+          "Lkrn23p4ifDV8Bd/rSssHqXTkqy412frGSn8wfKLHY8=",
           "py2.py3"
         ]
       }
@@ -150832,6 +151102,18 @@
       "wheels": {
         "woke-2.2.0-py3-none-any.whl": [
           "hDKUMJdmi8PPcTAoxGCcW79o/En+U5GQiwcrK/JrQ6g=",
+          "py3"
+        ]
+      }
+    },
+    "3.0.0": {
+      "sdist": [
+        "2NHVbE142jlWPOYcFOSm9sXFrTmiel9hjp/TCr7THLU=",
+        "woke-3.0.0.tar.gz"
+      ],
+      "wheels": {
+        "woke-3.0.0-py3-none-any.whl": [
+          "+zdnStWOyDrkYArcL96pYdtq7vu2rDIzor3lfmkEmGQ=",
           "py3"
         ]
       }

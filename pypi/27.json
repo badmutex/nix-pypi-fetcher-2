@@ -18323,6 +18323,12 @@
         "RYQkwebI/11KfbffG3wfdqt5JjMfKoedEcf6wsdRexY=",
         "clinvar-this-0.1.0.tar.gz"
       ]
+    },
+    "0.2.0": {
+      "sdist": [
+        "Cighy+l8um9z2gx5PJ611+y4ZBuhY9ZWVvnHKXqDxAk=",
+        "clinvar-this-0.2.0.tar.gz"
+      ]
     }
   },
   "clitasks": {
@@ -21630,6 +21636,18 @@
       "wheels": {
         "cs_demand_model-0.4.3-py3-none-any.whl": [
           "LKfQ1Iaerv9YFPqvkvd2Oh5FHNuHbWRKxc1ZRHp+WiA=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.4": {
+      "sdist": [
+        "Rg4Pyo+/CbaXhKSmf30QYxFoDiAmW9VIBrOTlb0Lzow=",
+        "cs_demand_model-0.4.4.tar.gz"
+      ],
+      "wheels": {
+        "cs_demand_model-0.4.4-py3-none-any.whl": [
+          "ur8Mulli73foUxCwjv9r4EUjjJOIK+QBtk4+38mCPlo=",
           "py3"
         ]
       }
@@ -28384,6 +28402,42 @@
       "wheels": {
         "django_oasis4_auth-1.0.9a0-py3-none-any.whl": [
           "iWXZs+KnCO2ALqsO9PkIP6SIEb2an2bwpHE/Qs6yz44=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.9a1": {
+      "sdist": [
+        "l2KWMO7z0J1oyUOoK32rg3it6LvAHmmMeSmd7lr/msc=",
+        "django-oasis4-auth-1.0.9a1.tar.gz"
+      ],
+      "wheels": {
+        "django_oasis4_auth-1.0.9a1-py3-none-any.whl": [
+          "+XcDybwfeeDhC55J47Qyboih35WtrvrgelPsimMBTzY=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.9a2": {
+      "sdist": [
+        "a9soXDFA1feHmz785lPfMC1trDdOdlxgXgPmphtvvVM=",
+        "django-oasis4-auth-1.0.9a2.tar.gz"
+      ],
+      "wheels": {
+        "django_oasis4_auth-1.0.9a2-py3-none-any.whl": [
+          "8pHTJKp08JFlHUUF4X6ZpGJFonUCGIf8KfbHn36jf7w=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.9a3": {
+      "sdist": [
+        "VNnH2EWW5fuw6vlusSnN4A4g5aUALB1OvHY0YZ7FEwc=",
+        "django-oasis4-auth-1.0.9a3.tar.gz"
+      ],
+      "wheels": {
+        "django_oasis4_auth-1.0.9a3-py3-none-any.whl": [
+          "RKd2qelB3kggQjRcpHx+oy4nGThbAEKHcDz8s0kFLTU=",
           "py3"
         ]
       }
@@ -38482,6 +38536,30 @@
       "wheels": {
         "eon4dice-1.0.2-py3-none-any.whl": [
           "tnzkMfO2nKJ639hM7GKuHfWIjkqQXvgBKLSIDUwSzKg=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.0": {
+      "sdist": [
+        "U4uAbLKgB+pqekK+S2lkZ8V9VmlcAflbthnOrcw0CsI=",
+        "eon4dice-1.1.0.tar.gz"
+      ],
+      "wheels": {
+        "eon4dice-1.1.0-py3-none-any.whl": [
+          "yGYrr/Susf8cexMBLLHpVBlOUz5tBJllDkwtPkxfNdY=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.1": {
+      "sdist": [
+        "80F+WQYkvkDlDUIL7HR/lSn0kw3/cL7/6HV4OFmc9Rs=",
+        "eon4dice-1.1.1.tar.gz"
+      ],
+      "wheels": {
+        "eon4dice-1.1.1-py3-none-any.whl": [
+          "0qnZYR2VmTlIFh++Ou/f/7F/cPgisQT5/UsgFTwzvrY=",
           "py3"
         ]
       }
@@ -59590,6 +59668,18 @@
       "wheels": {
         "invenio_records_lom-0.7.1-py2.py3-none-any.whl": [
           "5iSMKEA8BnD+AUrKBj2PXvQ/2OPCijUN7QbdeLdaSSM=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.7.2": {
+      "sdist": [
+        "CfbptUc4qrl+XgI4v6cJY57DFuQC+i/T4AmlX8q++wQ=",
+        "invenio-records-lom-0.7.2.tar.gz"
+      ],
+      "wheels": {
+        "invenio_records_lom-0.7.2-py2.py3-none-any.whl": [
+          "7vU5L4YUGTRJ6tJ8CTQqDcdeJQ7BKuZBdoogpII6ei0=",
           "py2.py3"
         ]
       }
@@ -96297,6 +96387,14 @@
           "py3"
         ]
       }
+    },
+    "0.45.0": {
+      "wheels": {
+        "orquestra_sdk-0.45.0-py3-none-any.whl": [
+          "wZDVDX5hjE5/iJylVRJlQdmnSukduvEz8/MGt3vQoc4=",
+          "py3"
+        ]
+      }
     }
   },
   "os-scrapy": {
@@ -110088,6 +110186,18 @@
       "wheels": {
         "pykillerx-0.1.2-py2.py3-none-any.whl": [
           "sFQ4SkjNxD4Mi6SwCDglYdaf2EA/3gJOTiIa4O/9Ghs=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.1.20": {
+      "sdist": [
+        "iOROLSOVkf7dOH5DquHKbXOAMHODpLCKuhkE5YhgIu8=",
+        "pykillerx-0.1.20.tar.gz"
+      ],
+      "wheels": {
+        "pykillerx-0.1.20-py2.py3-none-any.whl": [
+          "8mqwsQY3+9ICEN5xlLjLvqfgdQ8TJkeY51RhQIfcBy8=",
           "py2.py3"
         ]
       }

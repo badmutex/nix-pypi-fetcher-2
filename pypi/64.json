@@ -62478,6 +62478,12 @@
         "girder-item-licenses-3.1.17.dev9.tar.gz"
       ]
     },
+    "3.1.18.dev2": {
+      "sdist": [
+        "55JnlFi8fqGZC/4PDghkhDVcANMPEAzeBoWbF6GJi6k=",
+        "girder-item-licenses-3.1.18.dev2.tar.gz"
+      ]
+    },
     "3.1.2": {
       "sdist": [
         "kq054+OrDWwkfh4XHYhDFzvOSY4i9PVrOvQIpfcjlNM=",
@@ -64032,6 +64038,12 @@
       "sdist": [
         "jIQCZ6q6ZTsdJqdwdSYJXRTY/cownpa3jKidnn+rmPU=",
         "girder-sentry-3.1.17.dev9.tar.gz"
+      ]
+    },
+    "3.1.18.dev2": {
+      "sdist": [
+        "lHi/Y818TUhUb+Jsc2gJXfUDntrjiQgkLSrbifK8dus=",
+        "girder-sentry-3.1.18.dev2.tar.gz"
       ]
     },
     "3.1.2": {
@@ -125549,6 +125561,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.8": {
+      "sdist": [
+        "ngm2f9juqCbStObpNxXgfqEzLhSRHLQnNeg0ZPMd7wI=",
+        "qibojit-0.0.8.tar.gz"
+      ],
+      "wheels": {
+        "qibojit-0.0.8-py3-none-any.whl": [
+          "LfO8FEEd6qoNBPAR420INIBf9xHwv6YRUyuFn6XFsMM=",
+          "py3"
+        ]
+      }
     }
   },
   "qiji-kecheng-xuyan-xinglv": {
@@ -149982,6 +150006,14 @@
       "wheels": {
         "torch_model_archiver_nightly-2023.3.14-py3-none-any.whl": [
           "uaHceNuCQ9jz+ZaOCckEOGbOeFWY14oNHkzLLP6RQjs=",
+          "py3"
+        ]
+      }
+    },
+    "2023.3.15": {
+      "wheels": {
+        "torch_model_archiver_nightly-2023.3.15-py3-none-any.whl": [
+          "gUifhU2/q8Lridvb1FB5CnItKyMch5QMp1HWVg/Nsl4=",
           "py3"
         ]
       }

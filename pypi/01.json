@@ -30534,6 +30534,18 @@
         ]
       }
     },
+    "2023.3.15.1": {
+      "sdist": [
+        "8+wPxt6zbqqUxOsTa/vLcGB22eMsNqk9I8JF/Dt24XA=",
+        "crazy-thursday-2023.3.15.1.tar.gz"
+      ],
+      "wheels": {
+        "crazy_thursday-2023.3.15.1-py3-none-any.whl": [
+          "VgkOSgcz3YA4EbgTXj5pwlA5eg9/Fsp+tGd+TXFJn2c=",
+          "py3"
+        ]
+      }
+    },
     "2023.3.2.0": {
       "sdist": [
         "CGRVEYWXVYq3Y/Iw5iFYM6YAY905TGDbyqkwg3BeNT4=",
@@ -33990,6 +34002,12 @@
       "sdist": [
         "jQ4XZ4oPORhqvLBtyx7NGS+1y3UNP03HqQElj7EKVnI=",
         "data_pipelines_cli-0.24.0.tar.gz"
+      ]
+    },
+    "0.24.1": {
+      "sdist": [
+        "ZceYydDLyR5euHP5FtCEcFpry/bo7UnoArXQeLAOkto=",
+        "data_pipelines_cli-0.24.1.tar.gz"
       ]
     },
     "0.3.0": {
@@ -42656,6 +42674,18 @@
       "wheels": {
         "dm_cli-1.0.0-py3-none-any.whl": [
           "7a1ZEKjz4q1ergjnGd+DWJJLhaFjXdQFRtNS33GEEpQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.1": {
+      "sdist": [
+        "znPXva0Lh4Z5TWv0vd3Ct+nrKQGQ/45qKO3x/GSszbk=",
+        "dm-cli-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "dm_cli-1.0.1-py3-none-any.whl": [
+          "zwwhzlqyyO6Mxtn5t072LtuHgNM9pti1sRrxs9uCAqA=",
           "py3"
         ]
       }
@@ -67927,6 +67957,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.6": {
+      "sdist": [
+        "pTH3VUhy8aahbGkq7LiqRKrCAfRM98T7gz9oQuAExX0=",
+        "jfrog-xray-api-0.0.6.tar.gz"
+      ],
+      "wheels": {
+        "jfrog_xray_api-0.0.6-py3-none-any.whl": [
+          "1fdwvgCIsTR9Df2cOEe5PjPF2ePPoh57+UdDFu8ReSs=",
+          "py3"
+        ]
+      }
     }
   },
   "jgrapht": {
@@ -69834,6 +69876,18 @@
       "wheels": {
         "juftin_scripts-0.3.1-py3-none-any.whl": [
           "b3RdcGbVcDsjSG2FIWID0VR8r5Lxw9zc6XOmhGd4HDE=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.0": {
+      "sdist": [
+        "tnZKwEzT7DWbCnxzk7ZiRPWpV2M9KaWAHiiREoj473g=",
+        "juftin_scripts-0.4.0.tar.gz"
+      ],
+      "wheels": {
+        "juftin_scripts-0.4.0-py3-none-any.whl": [
+          "rtWj9zNCGVh0CZhVfWTlZvly3rpVXfRBFDAhPcILVlM=",
           "py3"
         ]
       }
@@ -78080,6 +78134,18 @@
       "wheels": {
         "lightning-1.9.4-py3-none-any.whl": [
           "mSMV8wacMHN6frQvRtfacNtuyk+yeaPUWi+Kmm/wncE=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.0": {
+      "sdist": [
+        "3+FYqpGsE52L38zHzbYnBy4AUgdq6cBFnI+hKgKNvmw=",
+        "lightning-2.0.0.tar.gz"
+      ],
+      "wheels": {
+        "lightning-2.0.0-py3-none-any.whl": [
+          "71ZDrLGspgShgS7xAa58ZMmZI0OBioTX8d2icvu5p7w=",
           "py3"
         ]
       }
@@ -123113,6 +123179,22 @@
           "cp37"
         ]
       }
+    },
+    "0.1.6": {
+      "sdist": [
+        "vh2O1kih+LvwPuE6S0YpMysNEcwcVKZrTxcPPavM8e0=",
+        "pyplanetarium-0.1.6.tar.gz"
+      ],
+      "wheels": {
+        "pyplanetarium-0.1.6-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "hPsKmNc7U5e7Xm04QuwRvWEZhdU3ZumSJp7VoCOdb8A=",
+          "cp37"
+        ],
+        "pyplanetarium-0.1.6-cp37-abi3-win_amd64.whl": [
+          "Ufpu0oZtrXeOrQJHzmRk+o9uO9bspmQwL8cxec1Qtdc=",
+          "cp37"
+        ]
+      }
     }
   },
   "pyplumber": {
@@ -144744,6 +144826,14 @@
         ]
       }
     },
+    "4.6.2": {
+      "wheels": {
+        "stix_shifter_modules_alertflex-4.6.2-py2.py3-none-any.whl": [
+          "IqB1GYiQpvTGe36scmWU16y0Uz02Ehj2YKisJBlTKQ0=",
+          "py2.py3"
+        ]
+      }
+    },
     "5.0.0": {
       "wheels": {
         "stix_shifter_modules_alertflex-5.0.0-py2.py3-none-any.whl": [
@@ -159195,6 +159285,20 @@
         "update_checker-0.9-py2.py3-none-any.whl": [
           "wCHNUJ6p2IlpN+teWkucBDNT03JLTAdHfNIM18KC2lw=",
           "2.7"
+        ]
+      }
+    }
+  },
+  "updatemondayitemlib": {
+    "0.1.0": {
+      "sdist": [
+        "su8pVDGXSt3zRd7yQwEU84Zl1kzBny4ZI0eWm91OOXs=",
+        "updateMondayItemLib-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "updateMondayItemLib-0.1.0-py3-none-any.whl": [
+          "HUMDJHIPfIiuvhwQLAjdgfQ9V8QRNqLT4gosxJZitCc=",
+          "py3"
         ]
       }
     }

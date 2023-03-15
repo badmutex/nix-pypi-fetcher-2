@@ -5706,6 +5706,18 @@
         ]
       }
     },
+    "117.3": {
+      "sdist": [
+        "rRMcQzLZk7uf+Xu+5/z9hktdA4/6jErPkJJBQeqI/Hk=",
+        "always_updates-117.3.tar.gz"
+      ],
+      "wheels": {
+        "always_updates-117.3-py3-none-any.whl": [
+          "lWcKIEAGK0CfbIU4NJl1884osPTzRkv5epXZXWf8ozw=",
+          "py3"
+        ]
+      }
+    },
     "12.0": {
       "sdist": [
         "dNP0TXuQEJt/otDfQIh7D2K19oNTuvgZ00lcHDSHJXg=",
@@ -22910,6 +22922,18 @@
         ]
       }
     },
+    "1.197.0": {
+      "sdist": [
+        "BQUxAbz3Rheo/OZp+7Tfqw+Wo+KcBwTJjsrqB75ehrU=",
+        "aws-cdk.aws-applicationinsights-1.197.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_applicationinsights-1.197.0-py3-none-any.whl": [
+          "YyeKHW4NTa6LP4VkJZK6BEN11jf4JZ5j/toUasvzMT0=",
+          "py3"
+        ]
+      }
+    },
     "1.64.0": {
       "sdist": [
         "wmmAlAfZra5f5/gfWHoyaRgH06TzRWGrVvAdMKs/dLE=",
@@ -25754,6 +25778,18 @@
       "wheels": {
         "biquad-0.2-py3-none-any.whl": [
           "+TFjGS8vmXEKZqOEZypkM6HSW/d/1XuY3LMVjFGmxJ0=",
+          "py3"
+        ]
+      }
+    },
+    "0.3": {
+      "sdist": [
+        "ZOB/0M3yBzX990V3C2Rw2YqiepTd5wxQkMvVLYtJlyk=",
+        "biquad-0.3.tar.gz"
+      ],
+      "wheels": {
+        "biquad-0.3-py3-none-any.whl": [
+          "UPaJRlYwL78QoU1RE8rg1aBSNsAXlcUqoDWRbpdEqGc=",
           "py3"
         ]
       }
@@ -29850,6 +29886,18 @@
       "wheels": {
         "boto3_stubs_lite-1.26.90-py3-none-any.whl": [
           "XYrSX/Hjg9AKMAtY8aI2i/2fI9GVscz++U9n86E+VDY=",
+          "py3"
+        ]
+      }
+    },
+    "1.26.91": {
+      "sdist": [
+        "vHfYPYXEfkd46zFu2+jCihhBDK7VykeJ2RII+xZWO/Y=",
+        "boto3-stubs-lite-1.26.91.tar.gz"
+      ],
+      "wheels": {
+        "boto3_stubs_lite-1.26.91-py3-none-any.whl": [
+          "PZms/MWk6QQHqs0SzysqHGyVpeV/1I9lCBGCsZAjCkI=",
           "py3"
         ]
       }
@@ -151779,6 +151827,16 @@
       }
     }
   },
+  "tweets-scraper": {
+    "0.0.5": {
+      "wheels": {
+        "tweets_scraper-0.0.5-py3-none-any.whl": [
+          "qzZH48BpB2mpDKLWH4nx0cKDsyUp57I9P2cwAQHLQD0=",
+          "py3"
+        ]
+      }
+    }
+  },
   "twitterdata": {
     "0.1": {
       "sdist": [
@@ -153138,6 +153196,18 @@
       "wheels": {
         "udsoncan-1.16-py3-none-any.whl": [
           "jnp7+D9J+GdhKfLK9CZeNdgmifUecCf0kn0XX5OtR30=",
+          "py3"
+        ]
+      }
+    },
+    "1.17": {
+      "sdist": [
+        "yAqmI1qEQ9298L4wk9dmxN61rUqK0JCE4Ez20dRDRUU=",
+        "udsoncan-1.17.tar.gz"
+      ],
+      "wheels": {
+        "udsoncan-1.17-py3-none-any.whl": [
+          "huFZ8QE/IZDJXS/DSxKthg67NXug3EnjcX+/AF+YbeY=",
           "py3"
         ]
       }
@@ -156878,6 +156948,36 @@
       "sdist": [
         "aGLSofTq39yViZFJ9Sa3eo1yz9C8fcxyuj5CqybsENI=",
         "volsite_postgres_common-0.1.41.tar.gz"
+      ]
+    },
+    "0.1.42": {
+      "sdist": [
+        "nWhrzRlSP54G1+y92ajKg7MUsUtBYAlH4y/kUoJMu6M=",
+        "volsite_postgres_common-0.1.42.tar.gz"
+      ]
+    },
+    "0.1.43": {
+      "sdist": [
+        "pWfP2nmt7WG3M6BUGEr4jKbZS3vx0MTR4HisxPmuW+4=",
+        "volsite_postgres_common-0.1.43.tar.gz"
+      ]
+    },
+    "0.1.44": {
+      "sdist": [
+        "cSUow5WzBjvVvHiEUjzey4dJEM46y6UShBJ71khmyOg=",
+        "volsite_postgres_common-0.1.44.tar.gz"
+      ]
+    },
+    "0.1.45": {
+      "sdist": [
+        "/TppxYM7GE58HNbmYMLPt4rLXgAWDn5vebHmT+X+tg8=",
+        "volsite_postgres_common-0.1.45.tar.gz"
+      ]
+    },
+    "0.1.46": {
+      "sdist": [
+        "lS92RUAglO9XLCAGts19TmrHMp0MrRLLrCIyb7qok9c=",
+        "volsite_postgres_common-0.1.46.tar.gz"
       ]
     },
     "0.1.5": {

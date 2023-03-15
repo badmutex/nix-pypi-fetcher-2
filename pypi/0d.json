@@ -12810,6 +12810,18 @@
         ]
       }
     },
+    "1.197.0": {
+      "sdist": [
+        "xolFP4O6g9XVXCix6T5woW9RoUo1vyCLYlmhw3X45zo=",
+        "aws-cdk.aws-kinesisfirehose-1.197.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_kinesisfirehose-1.197.0-py3-none-any.whl": [
+          "qY96f0IjZZin0KN7dQSU6MNmocUDwcJaWSGiNwRyy6I=",
+          "py3"
+        ]
+      }
+    },
     "1.2.0": {
       "sdist": [
         "8WTz0VokqhmCi/e0INdrjugh4oqV07qVBaDBTGhK/9Q=",
@@ -15076,6 +15088,18 @@
       "wheels": {
         "aws_cdk.aws_opensearchservice-1.196.0-py3-none-any.whl": [
           "SX/Itnyz8e8uFL/Lu11m9xEIH6+k+gP2LyrZhCyPwtY=",
+          "py3"
+        ]
+      }
+    },
+    "1.197.0": {
+      "sdist": [
+        "NQbuSFnomU4ZzhZxxgTXWQwtKKuxtaT7GaMxx3z8dEM=",
+        "aws-cdk.aws-opensearchservice-1.197.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_opensearchservice-1.197.0-py3-none-any.whl": [
+          "FCjha0EiSXnqDpECBZI8fFIUeanaGzpox4hyNMCyNc0=",
           "py3"
         ]
       }
@@ -36977,6 +37001,12 @@
           "py3"
         ]
       }
+    },
+    "2.1.0": {
+      "sdist": [
+        "lc8tD2ouVM72pn2dHQWlul1hrY8gdEMoiRaQv7k/dLc=",
+        "deepaas-2.1.0.tar.gz"
+      ]
     }
   },
   "deeplearningoptimized": {
@@ -39912,6 +39942,18 @@
       "wheels": {
         "django_api_forms-1.0.0rc7-py3-none-any.whl": [
           "KcRIZOlBKoNk/fYoSReKodE9PY+QmBl6BqNnW9rA0Vg=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.0rc8": {
+      "sdist": [
+        "7PZlAmFeIZJydxKqyf/oq8TzZ/+PmUwOI48n8B787ms=",
+        "django_api_forms-1.0.0rc8.tar.gz"
+      ],
+      "wheels": {
+        "django_api_forms-1.0.0rc8-py3-none-any.whl": [
+          "zWvcJYgkxNUtPIhJ1PjP4hzqsV6ZhACvwk+zY2BcDao=",
           "py3"
         ]
       }
@@ -48382,6 +48424,12 @@
       "sdist": [
         "ykofxzxOFRtevmWoNPKgdLGTjGS2LXBPbO9+W7fmE7w=",
         "energinet-ml-sdk-0.10.1.dev282.tar.gz"
+      ]
+    },
+    "0.10.1.dev283": {
+      "sdist": [
+        "WY/J3vUriOMNtxqBv+qrgVlGjYMAbzzCpueHK+KB76k=",
+        "energinet-ml-sdk-0.10.1.dev283.tar.gz"
       ]
     },
     "0.5.16": {
@@ -66892,6 +66940,12 @@
       "sdist": [
         "2sXwHK4zW4pzGhcUCLgcTFtpOPlJMBpnMM4xXwjI69Q=",
         "hpc2ml-0.0.1.tar.gz"
+      ]
+    },
+    "0.0.2": {
+      "sdist": [
+        "FfKw7qg9T5nRXvDAXAS39qaGTRMilOEXiQ8rN+x9+Oc=",
+        "hpc2ml-0.0.2.tar.gz"
       ]
     }
   },
@@ -124381,6 +124435,20 @@
       }
     }
   },
+  "sapx": {
+    "0.1.1": {
+      "sdist": [
+        "G/RUQhrFgw/RAurZlKidiAoF8PJKdZo1kTFaSgRiR7I=",
+        "sapx-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "sapx-0.1.1-py3-none-any.whl": [
+          "JKDd0rysAjyY+kQKTni0t2S0ObdVo+n9wsz/whbgZa4=",
+          "py3"
+        ]
+      }
+    }
+  },
   "scalartransportflux": {
     "1.0": {
       "sdist": [
@@ -135370,6 +135438,18 @@
       "wheels": {
         "state_machine_semaphore-0.1.212-py3-none-any.whl": [
           "CaapPnq56T4KdxFCM/ViPyspYmOSL9y2wriDabeEUQw=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.213": {
+      "sdist": [
+        "rGWMB8vwlS9lPrygyZysPXTr/GyjQ/1+Whd/Kmksc0k=",
+        "state-machine-semaphore-0.1.213.tar.gz"
+      ],
+      "wheels": {
+        "state_machine_semaphore-0.1.213-py3-none-any.whl": [
+          "K/1TvOFkx4JtOLxfUW2rmx4rVFITNJ09+DrQDhdHAF8=",
           "py3"
         ]
       }

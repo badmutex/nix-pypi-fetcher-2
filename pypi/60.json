@@ -7730,6 +7730,18 @@
         ]
       }
     },
+    "1.197.0": {
+      "sdist": [
+        "ZpKTtCLyjncTnzT+d1rb0b7hMO02oLf33eSRikM4Ckw=",
+        "aws-cdk.aws-ec2-1.197.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_ec2-1.197.0-py3-none-any.whl": [
+          "IRrI596K/816Fenn/4QUV1yYPlh59w6VUeynOfUz6fE=",
+          "py3"
+        ]
+      }
+    },
     "1.2.0": {
       "sdist": [
         "jTPJK+QPfn3nEXb0rChwwJrypm2ecjMK5kZHRIk7xzs=",
@@ -16856,6 +16868,18 @@
       "wheels": {
         "botocove-1.7.2-py3-none-any.whl": [
           "vfZVuUeO4YXzRQiWiFTtybe8yxy/KE7C2Jm1q5/8usM=",
+          "py3"
+        ]
+      }
+    },
+    "1.7.3": {
+      "sdist": [
+        "MpiFkmhXI8Rw2GpyZIVikXJmWh4qftE61OIKBbqAgZM=",
+        "botocove-1.7.3.tar.gz"
+      ],
+      "wheels": {
+        "botocove-1.7.3-py3-none-any.whl": [
+          "A2APgbdx39820BoDmKe7hvjcbioBHGX7CLk52aKxRVc=",
           "py3"
         ]
       }
@@ -127681,6 +127705,12 @@
         "nX6CHNmSSDqO/DyXgbzr3tWnwxSyJbwxuiKEmEAsUAU=",
         "returnn-1.20230314.161903.tar.gz"
       ]
+    },
+    "1.20230314.213525": {
+      "sdist": [
+        "P2UH/aiMVS0S8756ErCf2Pc2M+BFz4Z5pW9ex//dSm0=",
+        "returnn-1.20230314.213525.tar.gz"
+      ]
     }
   },
   "reunion": {
@@ -134290,6 +134320,18 @@
       "wheels": {
         "skit_game-0.1.4-py3-none-any.whl": [
           "tpzZmgMJsONbnX/OFzQ7OSDy5tMhVZkfFZNqld2qH1U=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.5": {
+      "sdist": [
+        "lowLfZH/87VYArAa4Rs+2PWbyQIdCCvmfTpE7/QCDfY=",
+        "skit_game-0.1.5.tar.gz"
+      ],
+      "wheels": {
+        "skit_game-0.1.5-py3-none-any.whl": [
+          "Y+iuERvGEQ7KWm8uOblL7xhYObS0vQoVAUvNAaaBGlo=",
           "py3"
         ]
       }
@@ -141014,122 +141056,14 @@
     }
   },
   "textkit-learn": {
-    "0.0.10": {
+    "0.0.2": {
       "sdist": [
-        "Yii77B84d7ZZUAs7nD73OocTTUl0IFP3fVlZH4p5nqI=",
-        "textkit-learn-0.0.10.tar.gz"
+        "Mhsuh2ZO3hBHbBN2QdGoNg/kvphQ/VqR+dDZ0JRNmAo=",
+        "textkit_learn-0.0.2.tar.gz"
       ],
       "wheels": {
-        "textkit_learn-0.0.10-py3-none-any.whl": [
-          "ygbS4H+Ef5H7fvtKfrx/8Vk47HonEgNw/Z7sxqbYOYo=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.11": {
-      "sdist": [
-        "VS0yDdk/hT92P+wo0xUayna15EL5bsmIFxk9oICM2SM=",
-        "textkit-learn-0.0.11.tar.gz"
-      ],
-      "wheels": {
-        "textkit_learn-0.0.11-py3-none-any.whl": [
-          "sIhb/V1liqxfbs55srdxId4HNZW2FusVhnXV4QOTVW0=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.12": {
-      "sdist": [
-        "r9N9xUi1MZGY2BgO6KHr9oNMSKFxtUkfEbJnKt+Ci1o=",
-        "textkit-learn-0.0.12.tar.gz"
-      ],
-      "wheels": {
-        "textkit_learn-0.0.12-py3-none-any.whl": [
-          "9UtrfLXH2jiQOsHllhK4KagtX6e5bRdzzkrwVys+qpU=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.13": {
-      "sdist": [
-        "NCvPvFrZefx2/x1GCb7my5H/sd6lsdZJIhU+6vi94bE=",
-        "textkit-learn-0.0.13.tar.gz"
-      ],
-      "wheels": {
-        "textkit_learn-0.0.13-py3-none-any.whl": [
-          "vnInGxI/ufYcRm2hOnUd6ppxEmt80CF4sE/EZ5+aGNU=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.4": {
-      "sdist": [
-        "gOIH+vQvJwBXnONKF1a8AHQ1wsOLU9b3atVqsKwwAqI=",
-        "textkit-learn-0.0.4.tar.gz"
-      ],
-      "wheels": {
-        "textkit_learn-0.0.4-py3-none-any.whl": [
-          "GGpGeMe8xk4IShU0pv+E82li9FqMh1Epfo0Sk+cmzPQ=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.5": {
-      "sdist": [
-        "177XxyZFwpJXGt0pvBeFzrURAR9LRgIX49XjBln5D/4=",
-        "textkit-learn-0.0.5.tar.gz"
-      ],
-      "wheels": {
-        "textkit_learn-0.0.5-py3-none-any.whl": [
-          "cSPZ80b36Cw6yUOiGIlmhKZiBJNFGaIRC/7S1idrqUs=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.6": {
-      "sdist": [
-        "tzA4EKBYx2MvsFQM3S5YgppthV/8L8OskKppYQeoS/0=",
-        "textkit-learn-0.0.6.tar.gz"
-      ],
-      "wheels": {
-        "textkit_learn-0.0.6-py3-none-any.whl": [
-          "ZRwj8vPoHvlvzGK9Gzm81/Ip8jIy/Wi4VrM4U8L+39o=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.7": {
-      "sdist": [
-        "Z4b0KBQn+nLDWlAQ+eLbA7HNKMCRSuqgM3s03rXoZkM=",
-        "textkit-learn-0.0.7.tar.gz"
-      ],
-      "wheels": {
-        "textkit_learn-0.0.7-py3-none-any.whl": [
-          "u9wn7aifLnNe2KMd5HL3sjN9hpj9aU7R27c3Qp070ys=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.8": {
-      "sdist": [
-        "UOEMZrIpB8SsHvEsBGfnrvBwO+XTnNTssE7p6/68T34=",
-        "textkit-learn-0.0.8.tar.gz"
-      ],
-      "wheels": {
-        "textkit_learn-0.0.8-py3-none-any.whl": [
-          "L1nVTIgEA5OBC6rvciiTd++F97QlFpoPAHeeo/YpJ0c=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.9": {
-      "sdist": [
-        "bKSeDl5K63ZBpURiXs9Tm7g986pbKHnGXgyfB2bup14=",
-        "textkit-learn-0.0.9.tar.gz"
-      ],
-      "wheels": {
-        "textkit_learn-0.0.9-py3-none-any.whl": [
-          "wKmFB7sqFKIfkb42ywSUO9c3+n1lj/Rtsj86Fxo6Gxs=",
+        "textkit_learn-0.0.2-py3-none-any.whl": [
+          "MPLkvfBUHhwoCwXTH0jnTcxyRNN9NUGvEYo9oXKMpyE=",
           "py3"
         ]
       }
@@ -154033,6 +153967,18 @@
           "py3"
         ]
       }
+    },
+    "0.3.3": {
+      "wheels": {
+        "xyz_exam-0.3.3-py2-none-any.whl": [
+          "Ocg8hnw4kGATGywk7qEk2igcHsuH7nJY9QU+Ov6ydvg=",
+          "py2"
+        ],
+        "xyz_exam-0.3.3-py3-none-any.whl": [
+          "twGQfH+pNeRhz+iGgoBH2qg/NYNaI16rVAwI5kfvk40=",
+          "py3"
+        ]
+      }
     }
   },
   "yafcorse": {
@@ -154397,6 +154343,32 @@
         "IsGiPoCpiQ/8ZHLSnIz/oCsqJsS7at+ZjL2KestBQrg=",
         "zaif-client-0.1.1.tar.gz"
       ]
+    }
+  },
+  "zam-authetic": {
+    "0.0.1": {
+      "sdist": [
+        "DWYeeaxjnC7fnK8tPn5m2WUg5wg2NF2UlI0BKcqx7+A=",
+        "zam_authetic-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "zam_authetic-0.0.1-py3-none-any.whl": [
+          "WjjcTBZrjx0rOQAXDlFNS2WW8xyGgRXUNJfAMmT9ygw=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "UkfwWUws2+iwJDjoCmFBbjBsEwqfPSn/10cIsyNi6k4=",
+        "zam_authetic-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "zam_authetic-0.0.2-py3-none-any.whl": [
+          "m9pkuWiojlNcchROVQHuysrESXpRWPEwyCT83Fp3ic0=",
+          "py3"
+        ]
+      }
     }
   },
   "zamplugin.sampledata": {

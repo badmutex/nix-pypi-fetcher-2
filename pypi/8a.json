@@ -161,6 +161,20 @@
       }
     }
   },
+  "acryl-datahub-tc": {
+    "0.10.0.1": {
+      "sdist": [
+        "fxiAQYu3S1g+6j/S5xJjpIQHbBgcy90S4fdfa/ZDLSY=",
+        "acryl-datahub-tc-0.10.0.1.tar.gz"
+      ]
+    },
+    "0.10.0.2": {
+      "sdist": [
+        "B5H2HnLA2La3/eCiCC0gWE3XNW9DJsNnC4hDQdNmYpY=",
+        "acryl-datahub-tc-0.10.0.2.tar.gz"
+      ]
+    }
+  },
   "adafruit-circuitpython-bno08x": {
     "1.0.0": {
       "sdist": [
@@ -31674,6 +31688,30 @@
         ],
         "deepmd_kit-2.2.0b0-py37-none-win_amd64.whl": [
           "0fPAW9EeLcpEQyPRBIPOEA65+Ni07UynazT+p1ULEUs=",
+          "py37"
+        ]
+      }
+    },
+    "2.2.1": {
+      "sdist": [
+        "WKH64wcc17y2yGSzHIfVpCG/x57ipDJ6YXu2Gk6uaDM=",
+        "deepmd-kit-2.2.1.tar.gz"
+      ],
+      "wheels": {
+        "deepmd_kit-2.2.1-py37-none-macosx_10_9_x86_64.whl": [
+          "09TJt2Llhz55/eJCCvuByJboIo5WzLio2sprPjGyavI=",
+          "py37"
+        ],
+        "deepmd_kit-2.2.1-py37-none-manylinux_2_28_aarch64.whl": [
+          "y0n0sz+6K9RYp0SSC8WYULEfr9mxdzkCP4hX8ln4iPo=",
+          "py37"
+        ],
+        "deepmd_kit-2.2.1-py37-none-manylinux_2_28_x86_64.whl": [
+          "ma5dMr4Z0FrON0VtCWEOcZX/kwCsVsKLr46F8nJLQzY=",
+          "py37"
+        ],
+        "deepmd_kit-2.2.1-py37-none-win_amd64.whl": [
+          "oakF0KqVv7V1HMM90esjtE90xfuZtzg9nDHKnTGP8IU=",
           "py37"
         ]
       }
@@ -88311,6 +88349,12 @@
         "rsVzxOdd6NjIy7/5w+ssrVz9Zx58INqtmvJLgTeUQdU=",
         "obspycsv-0.7.0.tar.gz"
       ]
+    },
+    "0.8.0": {
+      "sdist": [
+        "GJDQv/EuyDhS8AUjJ3IazT8VaaZ+ReBrBvFT0b0XL4s=",
+        "obspycsv-0.8.0.tar.gz"
+      ]
     }
   },
   "ocd": {
@@ -95858,6 +95902,30 @@
       "wheels": {
         "passbolt_python_api-0.3.2-py3-none-any.whl": [
           "WebowhRewFOEZt72xDhi16Us5K+ZDFc+Asze9QOpxjI=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.3": {
+      "sdist": [
+        "mXYknWLiP5RziqahewBzEI5zvyaIMXaltEwwh5qnRw4=",
+        "passbolt-python-api-0.3.3.tar.gz"
+      ],
+      "wheels": {
+        "passbolt_python_api-0.3.3-py3-none-any.whl": [
+          "vjBtgz3jShToT+hR5CdKa3IAj8MNYFiqD6frPzzOt7c=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.4": {
+      "sdist": [
+        "3y8GEfDIRciQC9YRTwm3RFQgd/Nsr5Zua7S3p6aZeFY=",
+        "passbolt-python-api-0.3.4.tar.gz"
+      ],
+      "wheels": {
+        "passbolt_python_api-0.3.4-py3-none-any.whl": [
+          "mgDNZ3vVIC24Ia3EiC54L/UTqUuNVnkJXYdQ2Ip2pIo=",
           "py3"
         ]
       }
@@ -143494,6 +143562,12 @@
       "sdist": [
         "JiX9KrLClzNOvW+CVnbaH87G/Hyd8do0aFt3f/jTm7E=",
         "testit-adapter-pytest-2.1.2.tar.gz"
+      ]
+    },
+    "2.1.3": {
+      "sdist": [
+        "qKiaLJo6xep1OtrJx1ZNjXW1IlxtHjmXE4Ox3TFiYQc=",
+        "testit-adapter-pytest-2.1.3.tar.gz"
       ]
     }
   },

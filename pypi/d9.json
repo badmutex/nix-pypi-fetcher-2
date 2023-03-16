@@ -13451,6 +13451,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.92": {
+      "sdist": [
+        "Q9ijqR2FUk53gXgMPuLdSeD7RbIvjb0IvCtV20tqKZk=",
+        "botocore-a-la-carte-healthlake-1.29.92.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_healthlake-1.29.92-py3-none-any.whl": [
+          "kv6U1kb32vn+7pDAUQRuV6STpFrUani9iBo1Poz4YnY=",
+          "py3"
+        ]
+      }
     }
   },
   "bowl": {
@@ -42471,6 +42483,14 @@
           "py2.py3"
         ]
       }
+    },
+    "2.0.0": {
+      "wheels": {
+        "functorch-2.0.0-py2.py3-none-any.whl": [
+          "yiGs5rkEji7G0TL6D9GMd26xZcocke9+NYT9xmjqpOo=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "funext": {
@@ -51174,6 +51194,18 @@
         ]
       }
     },
+    "0.2.8": {
+      "sdist": [
+        "yIUnZbRCLvuJSBrM7xAf/b7hHIn9RQo5rLEdiixEgVI=",
+        "inels-mqtt-new-0.2.8.tar.gz"
+      ],
+      "wheels": {
+        "inels_mqtt_new-0.2.8-py3-none-any.whl": [
+          "drqCG/ZA8+UblNe8Vrv4GJm+Xec4nxJ1aGZBJKdwlv0=",
+          "py3"
+        ]
+      }
+    },
     "0.2.8a0": {
       "sdist": [
         "oj8TEL7AVNh9U4jtyAv605MN9NmD/frn6P+5QzZ8oUU=",
@@ -51230,6 +51262,30 @@
       "wheels": {
         "inels_mqtt_new-0.2.8a4-py3-none-any.whl": [
           "MS+DXYSfEqYeKV+In5YeNC2dGiaMOE2VpbefoVdt634=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.8a5": {
+      "sdist": [
+        "aUzelepZzC/8jXElEbBJkrXymW9PhZeXWZtIFYt0FZA=",
+        "inels-mqtt-new-0.2.8a5.tar.gz"
+      ],
+      "wheels": {
+        "inels_mqtt_new-0.2.8a5-py3-none-any.whl": [
+          "7nPxU7/aZSEOQ7UiqaMvq9RrU4imeqtW+pNLOdA5EGc=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.8a6": {
+      "sdist": [
+        "FHoqV9be537Rw6y06EUcd97pJwK/Yr4JZMO8ees3BlM=",
+        "inels-mqtt-new-0.2.8a6.tar.gz"
+      ],
+      "wheels": {
+        "inels_mqtt_new-0.2.8a6-py3-none-any.whl": [
+          "jr+aG23jsUtG9b4aM60NIUBKE+N1HPow4lYYiglH3gg=",
           "py3"
         ]
       }
@@ -136851,6 +136907,18 @@
           "py2.py3"
         ]
       }
+    },
+    "0.6.1": {
+      "sdist": [
+        "YzFsUJ+XPtamIzZcAjG59ZyOdkJict6tc48eEEe5yYA=",
+        "unfurl-0.6.1.tar.gz"
+      ],
+      "wheels": {
+        "unfurl-0.6.1-py2.py3-none-any.whl": [
+          "ZdMnKF+tDQOoPrqUDTqj1f7Dd3rGysRL/DsvAUp6oPE=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "unisense-xlink": {
@@ -139786,6 +139854,102 @@
         ],
         "vowpalwabbit-9.7.0-cp39-cp39-win_amd64.whl": [
           "22fAe2rEtNRfYbgyNVaj1CWClYd7J/XRcBEQEXB5GBo=",
+          "cp39"
+        ]
+      }
+    },
+    "9.8.0": {
+      "sdist": [
+        "s2q9K2tuILQATSjUKXe/hYdQW84bSIHwh/gfWM0/NTM=",
+        "vowpalwabbit-9.8.0.tar.gz"
+      ],
+      "wheels": {
+        "vowpalwabbit-9.8.0-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "+endglvfAU1wPFCFxsaNzNHeaxkA0lzg6jEKpEBdaek=",
+          "cp310"
+        ],
+        "vowpalwabbit-9.8.0-cp310-cp310-macosx_11_0_arm64.whl": [
+          "OYyN3T5RwRwjll5JCYPKUFaluLmeIYOCUOrryEETkzk=",
+          "cp310"
+        ],
+        "vowpalwabbit-9.8.0-cp310-cp310-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "2kFrLrkYtyYOIcZAd6kGgK9+ClXDPT+0zjtpg2jZg+c=",
+          "cp310"
+        ],
+        "vowpalwabbit-9.8.0-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "bkSo+ISLahLEUNGtxnVHywawUCggFQaTqXwlKLmH/Z0=",
+          "cp310"
+        ],
+        "vowpalwabbit-9.8.0-cp310-cp310-win_amd64.whl": [
+          "p0qm6DRktCMtW80Rmby8mMH/zTpgwtUZzJCO321uGdM=",
+          "cp310"
+        ],
+        "vowpalwabbit-9.8.0-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "n5iODlVArOi9HQ3FvRQveVxIm9geBYqWvNl/CD2U2N0=",
+          "cp36"
+        ],
+        "vowpalwabbit-9.8.0-cp36-cp36m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "SFDAy8qzPW/8Lc0MKKX0nTHX6jnLLLYDlN1Z1naU+sI=",
+          "cp36"
+        ],
+        "vowpalwabbit-9.8.0-cp36-cp36m-win_amd64.whl": [
+          "CA/oAMtUEjEgyVUADG/vTFrjjc833VsVXKXJX44BZ0A=",
+          "cp36"
+        ],
+        "vowpalwabbit-9.8.0-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "ME3ReY3H8RzunQr2caswz0+BFFkbbcHVFcpr19pp4CM=",
+          "cp37"
+        ],
+        "vowpalwabbit-9.8.0-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "U69yAa7k0nunMZ9mzueZWAdc6YSjKcFaTyD0Hj0nVzU=",
+          "cp37"
+        ],
+        "vowpalwabbit-9.8.0-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "ygGbNCYFmDwyYgWnBqwbwtZAA1ElSULVBQkJPfOFrlI=",
+          "cp37"
+        ],
+        "vowpalwabbit-9.8.0-cp37-cp37m-win_amd64.whl": [
+          "WF8WpkKYFJvREx3RcJcC1Gmtd2zkMb93Ku4HpLMUW50=",
+          "cp37"
+        ],
+        "vowpalwabbit-9.8.0-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "4oww18Pg4O06KXALQ9PZIRxi8R6Dz3mW7DGrp3ZBLgk=",
+          "cp38"
+        ],
+        "vowpalwabbit-9.8.0-cp38-cp38-macosx_11_0_arm64.whl": [
+          "kl9Z3k31HGMSUJsCVLVGCxVmHjpiatpf5dCjyM+ikV8=",
+          "cp38"
+        ],
+        "vowpalwabbit-9.8.0-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "4Lr2ek4TUV7pi1EKq1ZVJMKCk3l7hAvj/MNW8xkksgU=",
+          "cp38"
+        ],
+        "vowpalwabbit-9.8.0-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "BUiLjUFV4Oee/qduLnhMcaFa0scVZnpwytHILXnCsyM=",
+          "cp38"
+        ],
+        "vowpalwabbit-9.8.0-cp38-cp38-win_amd64.whl": [
+          "BhSSUjU4SI06ceKKSjJuSr817pVTfzkHjX3giBTnGqA=",
+          "cp38"
+        ],
+        "vowpalwabbit-9.8.0-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "g5sc0T1ELpgUNr+8ZFgoYPgxCKLgGUNceO7v6gx5btA=",
+          "cp39"
+        ],
+        "vowpalwabbit-9.8.0-cp39-cp39-macosx_11_0_arm64.whl": [
+          "UKPCMuqVUthElAL0jXdc84Xtu8eiEM/X6WK1EjWfBPs=",
+          "cp39"
+        ],
+        "vowpalwabbit-9.8.0-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "NgxE2arzB7sRuGvmVB1hZStmxVzwqGZsvMQIyIJbPWU=",
+          "cp39"
+        ],
+        "vowpalwabbit-9.8.0-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "evyIo4ps3K8nlyhDOnNexSvLrVqP4Q54y08qY5NnNlg=",
+          "cp39"
+        ],
+        "vowpalwabbit-9.8.0-cp39-cp39-win_amd64.whl": [
+          "fpxDub7DURmdqgrQ2Yr1vaRA/jqm068EpXUQko27yts=",
           "cp39"
         ]
       }

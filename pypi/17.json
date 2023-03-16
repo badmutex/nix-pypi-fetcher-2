@@ -7939,6 +7939,14 @@
           "py3"
         ]
       }
+    },
+    "0.7.4": {
+      "wheels": {
+        "atoti_aws-0.7.4-0_cb607ee-py3-none-any.whl": [
+          "cc86Ejv8oLVElfhMe+ZfB4T8ipclNWpy7sXlIA3AHc8=",
+          "py3"
+        ]
+      }
     }
   },
   "audit-alembic": {
@@ -13785,6 +13793,20 @@
       }
     }
   },
+  "bigsend": {
+    "0.1.0": {
+      "sdist": [
+        "Ezu9S1RNDje0iW3gVW+l9RW1Hp/sfTtjdkRRL6nyNM0=",
+        "bigsend-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "bigsend-0.1.0-py3-none-any.whl": [
+          "YT1leyoGv0se2mEjD56kkXG683+7Ga2nn85jHqIU1H4=",
+          "py3"
+        ]
+      }
+    }
+  },
   "binance-data": {
     "0.1.1": {
       "sdist": [
@@ -16490,6 +16512,18 @@
       "wheels": {
         "botocore_a_la_carte_chime_sdk_media_pipelines-1.29.91-py3-none-any.whl": [
           "5vSok7Yj30B/muRBrGUQjAnlktlKnQUwUKNqb9PG7Pw=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.92": {
+      "sdist": [
+        "qGfeZRXbRlz9s7JJRxJm1p868KwFa3jQ/3epdUS9yq8=",
+        "botocore-a-la-carte-chime-sdk-media-pipelines-1.29.92.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_chime_sdk_media_pipelines-1.29.92-py3-none-any.whl": [
+          "0ZmgfWOXIl2jy43MS3S/Hkyq2uEsnhzhkgcz3laQGh4=",
           "py3"
         ]
       }
@@ -26137,6 +26171,30 @@
           "py3"
         ]
       }
+    },
+    "1.0.0": {
+      "sdist": [
+        "cRFz/qArQbBSdD9XMmSSXaJ0zb+r+4kSnpGIpQQDvtk=",
+        "compel-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "compel-1.0.0-py3-none-any.whl": [
+          "cGmlOGuwaNkdyg+Q3bCmWvssgCkWo6ZOtz0HLRIw6rI=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.1": {
+      "sdist": [
+        "36xYTv+tUqkbPTQ4R7BtmhYGgkmD3UYSFGK/hDn0weo=",
+        "compel-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "compel-1.0.1-py3-none-any.whl": [
+          "yBNy8M74i8grDu/F4KneotGoI1dCkm5sGzZDMftX6ng=",
+          "py3"
+        ]
+      }
     }
   },
   "configs": {
@@ -34922,6 +34980,126 @@
         ],
         "delphifmx-1.0.4-py2.py3-none-any.whl": [
           "naM9RIpTmD6S9i2Go6DApfiO+BZbk6X0yRw++I2na0o=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.0.5": {
+      "wheels": {
+        "delphifmx-1.0.5-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "7bOxtN7TnhRi3cWKzQUSYrjwlAH8HNRocO6rl63WW0o=",
+          "cp310"
+        ],
+        "delphifmx-1.0.5-cp310-cp310-macosx_11_0_arm64.whl": [
+          "dHJ7tn4CIjJree+HxQFvQcQU4A28lcZWT9aWfrETlLs=",
+          "cp310"
+        ],
+        "delphifmx-1.0.5-cp310-cp310-manylinux1_x86_64.whl": [
+          "22/eGFI1Adqb/QtfaAM8jMGBGTZS2qoIbYvsGCCLkY4=",
+          "cp310"
+        ],
+        "delphifmx-1.0.5-cp310-cp310-win32.whl": [
+          "Qhs8+ExN4rf5A3MiIrANUO3nkZeAGHZZCb1Osow268k=",
+          "cp310"
+        ],
+        "delphifmx-1.0.5-cp310-cp310-win_amd64.whl": [
+          "8sha3pLtXQET+ZQDqms2hmErN1ByR8Bz1W/WzKs+wTU=",
+          "cp310"
+        ],
+        "delphifmx-1.0.5-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "v8vmCxRh9MY9CXPU22OaMEcsFnWqi7ptO7EW/ineYPg=",
+          "cp311"
+        ],
+        "delphifmx-1.0.5-cp311-cp311-macosx_11_0_arm64.whl": [
+          "PZbVi3DyD3fsS7vJkeAOs4xaNQdlmBOE/8IYXjCzKSA=",
+          "cp311"
+        ],
+        "delphifmx-1.0.5-cp311-cp311-manylinux1_x86_64.whl": [
+          "GMYS5Qt7zDMHnL/czzqxJx4SU+YctRjkvMWO9sUYhrA=",
+          "cp311"
+        ],
+        "delphifmx-1.0.5-cp311-cp311-win32.whl": [
+          "qNeXux+TvfbIntsumVuXIg+3w3baZB031gzRmNz0snk=",
+          "cp311"
+        ],
+        "delphifmx-1.0.5-cp311-cp311-win_amd64.whl": [
+          "ByH4QRJxRZ4PyClD6VYeWBRNrAJq1wnkK8Dh1KhB874=",
+          "cp311"
+        ],
+        "delphifmx-1.0.5-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "VwAuHB+2ZkoSW8lsGqLmu3PZs94CcpE67eqH5GVcs2s=",
+          "cp36"
+        ],
+        "delphifmx-1.0.5-cp36-cp36m-manylinux1_x86_64.whl": [
+          "HX0KhZ3ymLd0ZkdB+UjIFpkxznGmRutynUhOkfiqS9w=",
+          "cp36"
+        ],
+        "delphifmx-1.0.5-cp36-cp36m-win32.whl": [
+          "IQhJAsupAEtdKFoQhNWw5i+0c/HkeybIy5De2iJiRj0=",
+          "cp36"
+        ],
+        "delphifmx-1.0.5-cp36-cp36m-win_amd64.whl": [
+          "tno+uzQ+UxEeFYHNgj4sQApdPZnqbh4D8Z+ZyQHyap8=",
+          "cp36"
+        ],
+        "delphifmx-1.0.5-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "GB8Ja0yFppB4C7244jbC0B5C7V2VbOd4fQ9qpBWIpT4=",
+          "cp37"
+        ],
+        "delphifmx-1.0.5-cp37-cp37m-manylinux1_x86_64.whl": [
+          "Gy0U/Pdv8KHsBNL3T5x06+DBke+t5v54Z3LmBl107Ak=",
+          "cp37"
+        ],
+        "delphifmx-1.0.5-cp37-cp37m-win32.whl": [
+          "OqRU8WfuWgJTvtk3uIfRrbQnivQG6XKki34643amXHo=",
+          "cp37"
+        ],
+        "delphifmx-1.0.5-cp37-cp37m-win_amd64.whl": [
+          "89/14dNUVbVOrPUlTn4ZLqRuBbtRF5vyqw0xEEQaSEE=",
+          "cp37"
+        ],
+        "delphifmx-1.0.5-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "aAcvqhNTrHO19XNBky2AwoI9NdfM2jJLzCesYtmV6JE=",
+          "cp38"
+        ],
+        "delphifmx-1.0.5-cp38-cp38-macosx_11_0_arm64.whl": [
+          "Ul023HtMUgn+IlUJZeWbWNpNke/KF1M/V9Y3xNcwZY4=",
+          "cp38"
+        ],
+        "delphifmx-1.0.5-cp38-cp38-manylinux1_x86_64.whl": [
+          "pp/1AsNOXB8XZlikbCohwth4ka6Fw4KXOUNmd0UAQNc=",
+          "cp38"
+        ],
+        "delphifmx-1.0.5-cp38-cp38-win32.whl": [
+          "bNgTvma8BxL4pqF6rYUG4GtClSBkHG2w4uyGCI++L8g=",
+          "cp38"
+        ],
+        "delphifmx-1.0.5-cp38-cp38-win_amd64.whl": [
+          "e0PW+HBAA7HYzKTELsloUeNM7cmE00AwRJkUJwY4GYk=",
+          "cp38"
+        ],
+        "delphifmx-1.0.5-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "2f/JxmBx47C+iFDVQlY/zr93fAeispyYWz+l7vzsP54=",
+          "cp39"
+        ],
+        "delphifmx-1.0.5-cp39-cp39-macosx_11_0_arm64.whl": [
+          "uKY185WrrOSU2+Gn1VDuIjDsbAvqylwKhr8YrU0UqBs=",
+          "cp39"
+        ],
+        "delphifmx-1.0.5-cp39-cp39-manylinux1_x86_64.whl": [
+          "K/BhPmX0k2ebZ9ZUBCv4ECUWUUPFv8tGbR56D97Gq2Y=",
+          "cp39"
+        ],
+        "delphifmx-1.0.5-cp39-cp39-win32.whl": [
+          "TdUkFFfN7LKK8fjcc+RBJlTfrZWaYmNT0gJV7P3XXec=",
+          "cp39"
+        ],
+        "delphifmx-1.0.5-cp39-cp39-win_amd64.whl": [
+          "2tIYY6dvF8mXQ2deZpzBXG7sjcZDsRNhlixnCDPkzeE=",
+          "cp39"
+        ],
+        "delphifmx-1.0.5-py2.py3-none-any.whl": [
+          "91Ebp57rZ/4/NwY1lga2EuogLGm78ECLmSRniPkPSpg=",
           "py2.py3"
         ]
       }
@@ -60000,6 +60178,18 @@
       "wheels": {
         "hatlib-0.0.37-py3-none-any.whl": [
           "gE3f4X9ND4tZeG1e4plEB38YNbHHYJImHHxp4tdlomw=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.38": {
+      "sdist": [
+        "8JMQDzPErXgvGSBdPkgr2/WlQyrKCXn5u96GO3Ymx18=",
+        "hatlib-0.0.38.tar.gz"
+      ],
+      "wheels": {
+        "hatlib-0.0.38-py3-none-any.whl": [
+          "xLNhXywj6yV4pq8nWwmZTFtS0gDxvTgsdOfbfG4Y3vY=",
           "py3"
         ]
       }
@@ -103314,6 +103504,12 @@
       "sdist": [
         "5N+gWUpLDW4GcyI8H/VxKE32yrNS9thN4BnUaK4Isjg=",
         "proactive-13.1.0.2303150241.dev0.zip"
+      ]
+    },
+    "13.1.0.2303160239.dev0": {
+      "sdist": [
+        "T1OrXQ2uSo/9UF3fPPMUckCpVNRI671cUfI7Kfihwts=",
+        "proactive-13.1.0.2303160239.dev0.zip"
       ]
     },
     "13.1.1.2212182207.dev0": {

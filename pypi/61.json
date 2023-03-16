@@ -2195,6 +2195,30 @@
           "cp38"
         ]
       }
+    },
+    "1.0.1": {
+      "sdist": [
+        "ucnkriDw/rwFb1ik45X4EYSizkqX4cOOS1ZMEKpvAg0=",
+        "adrt-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "adrt-1.0.1-cp38-abi3-macosx_10_9_universal2.whl": [
+          "1MIYkczlqGW6+updw+dc2rITxndjZAlSNjb9NybsbCI=",
+          "cp38"
+        ],
+        "adrt-1.0.1-cp38-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "rAp7cKPky13RSMA0YYtygorcuICg2Vrxc5KBl6/6ciw=",
+          "cp38"
+        ],
+        "adrt-1.0.1-cp38-abi3-win32.whl": [
+          "F7TooDODhI63WPdwLx22pkV9Ou4pAL9N6NEJjIOO8SQ=",
+          "cp38"
+        ],
+        "adrt-1.0.1-cp38-abi3-win_amd64.whl": [
+          "UhOop8n0SF2sQIl8EiX9CScZ3wgADRsYDSQuKZ9IkKw=",
+          "cp38"
+        ]
+      }
     }
   },
   "adsputils": {
@@ -18363,6 +18387,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.92": {
+      "sdist": [
+        "k9XrmNIk86tnpvhcQAmdexzRX0kcYnNHFSl/DVDE4FM=",
+        "botocore-a-la-carte-connectparticipant-1.29.92.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_connectparticipant-1.29.92-py3-none-any.whl": [
+          "6clBkrx14Pm721UgY3Oc2DgCYTkJyaVlJgwdIDS8aa4=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-lakeformation": {
@@ -18962,6 +18998,18 @@
       "wheels": {
         "botocore_a_la_carte_lakeformation-1.29.91-py3-none-any.whl": [
           "g70IH74UpuskTvEvLeboYvRQ9e/qlj+iVYgb41PHbHs=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.92": {
+      "sdist": [
+        "bRIzQsuFnyomgj4szZVYDDihjwg0yoqEcmZgY+npHPU=",
+        "botocore-a-la-carte-lakeformation-1.29.92.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_lakeformation-1.29.92-py3-none-any.whl": [
+          "7KOcf9ux+tABfx5EE6l4+np217QStJqjGwqxIS7VfOg=",
           "py3"
         ]
       }
@@ -29298,6 +29346,18 @@
         ]
       }
     },
+    "0.18.2": {
+      "sdist": [
+        "VpzstwIHfYhN4abibEWQpxoiP0lp4Pme3erlb/Qqbl4=",
+        "dagster-census-0.18.2.tar.gz"
+      ],
+      "wheels": {
+        "dagster_census-0.18.2-py3-none-any.whl": [
+          "cxsLe2g3Hsb8Ttll7nP+dM1GJv+ezrC5kWs2uX036Rs=",
+          "py3"
+        ]
+      }
+    },
     "1.0.5": {
       "sdist": [
         "VJv9Kug0yQIykqjw2UqJ55zQ68Fz0FyHqF7HRwcKlFM=",
@@ -34118,6 +34178,20 @@
       "wheels": {
         "django_epfl_mail-1.0.0-py3-none-any.whl": [
           "DCJqea1kpw8a5Yb7hSxi2eE1vasFV7s8MH/k2ib6jQY=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "django-feedback-govuk": {
+    "0.1.0": {
+      "sdist": [
+        "aB/2S81g1+UFUh2ipm7O8JkAetZuPuoBEqCz4w2Bxj4=",
+        "django_feedback_govuk-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "django_feedback_govuk-0.1.0-py3-none-any.whl": [
+          "lUfPGL8SW/yvjSC5V2iSXYGOip7SWt2CNJsLQJot0Jo=",
           "py3"
         ]
       }
@@ -119050,6 +119124,20 @@
       "wheels": {
         "queryset_serializer-1.0.4-py3-none-any.whl": [
           "H69kVI428XwPzuDN44l6K/GD3L8PUOcC6Poj7bwiZmk=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "qutewindow": {
+    "0.1.7": {
+      "sdist": [
+        "NylorsOQTDRwiXM1aHEtTQZyik6KA9/jV8IK5Mm44ek=",
+        "qutewindow-0.1.7.tar.gz"
+      ],
+      "wheels": {
+        "qutewindow-0.1.7-py3-none-any.whl": [
+          "ERObkJrKUmxG+0E9bsBNLNakUDrlPyQrltPbdFMQBP8=",
           "py3"
         ]
       }

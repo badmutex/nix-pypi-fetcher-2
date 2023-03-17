@@ -4131,6 +4131,34 @@
           "cp311"
         ]
       }
+    },
+    "3.0.2": {
+      "wheels": {
+        "anyon-3.0.2-cp310-cp310-macosx_10_9_universal2.whl": [
+          "0nyO6pWgd0hdrmL31Z03za/SXfKVFi5BRpnuJsbAwfc=",
+          "cp310"
+        ],
+        "anyon-3.0.2-cp310-cp310-manylinux1_x86_64.whl": [
+          "6fpMrOG3XrCGL507mZijQj2TH0O5/DfBNYh3evwzFqc=",
+          "cp310"
+        ],
+        "anyon-3.0.2-cp310-cp310-win_amd64.whl": [
+          "a2+UsRIAB8Pa3xAnMdvmVmV3unqoD3UDqmgWS9XnES0=",
+          "cp310"
+        ],
+        "anyon-3.0.2-cp311-cp311-macosx_10_9_universal2.whl": [
+          "WU1Ezz7Qnq7UCwccKBNasB7IQxoUDqihHvnoMugWW5s=",
+          "cp311"
+        ],
+        "anyon-3.0.2-cp311-cp311-manylinux1_x86_64.whl": [
+          "/oUIrYjjx2m1YCXsI6+MrTy2T4AN1MmKyjZNThV6sTs=",
+          "cp311"
+        ],
+        "anyon-3.0.2-cp311-cp311-win_amd64.whl": [
+          "vc1H+GN2rAkJYgnznEkHIfcci1cptFcmNySt2GD9HUQ=",
+          "cp311"
+        ]
+      }
     }
   },
   "apache-server-log-parser": {
@@ -5380,6 +5408,42 @@
         ],
         "arrow_odbc-0.3.1-py3-none-win_amd64.whl": [
           "EOjvxA7hS/9SX0QBIhGHb9NMepFG7bd+qh1UE6pSHn8=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.10": {
+      "sdist": [
+        "+i2ueNq6j1PB4ETjWLTmNTmy737KZvk/96H0egI35M4=",
+        "arrow_odbc-0.3.10.tar.gz"
+      ],
+      "wheels": {
+        "arrow_odbc-0.3.10-py3-none-macosx_10_7_x86_64.whl": [
+          "+4MQm5cLbqmXiye5HrZZL7ohnVBlXWzlRIUyrM7Y5CI=",
+          "py3"
+        ],
+        "arrow_odbc-0.3.10-py3-none-win_amd64.whl": [
+          "4/+EQdvRh00d3lOu+AmBB0mscuVRG4mlDLV0bwrljTk=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.11": {
+      "sdist": [
+        "beQywlsj9KrlLhJKrq+simA8YRWCM56aaUd44j3UWiI=",
+        "arrow_odbc-0.3.11.tar.gz"
+      ],
+      "wheels": {
+        "arrow_odbc-0.3.11-py3-none-macosx_10_7_x86_64.whl": [
+          "dmk75xTeaI+qY7Vlry2MY3L+ehZECrhxw8taePb73Lo=",
+          "py3"
+        ],
+        "arrow_odbc-0.3.11-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "TgDirk8IYhIMn0lGujaWqWuj0Lh3864Gcdvq+4HFta0=",
+          "py3"
+        ],
+        "arrow_odbc-0.3.11-py3-none-win_amd64.whl": [
+          "eqJN2HpPg4mg/wdM7mVEFnWgZa7h7tuwKZfgOPgKHqk=",
           "py3"
         ]
       }
@@ -11386,6 +11450,18 @@
       "wheels": {
         "botocore_a_la_carte_firehose-1.29.92-py3-none-any.whl": [
           "OLZ4qMBoyTDJcftzLKIOyhuhcx7jllNOD6vfGSZdH9M=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.93": {
+      "sdist": [
+        "Zr+pyw1+psr6pEKU9BL7vE4Svz2S86NcI+9++XiOSgs=",
+        "botocore-a-la-carte-firehose-1.29.93.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_firehose-1.29.93-py3-none-any.whl": [
+          "FzFpyeDuuyVIi5lriKKL7SXp1Ixaj/jGpH4uOV0/SAg=",
           "py3"
         ]
       }

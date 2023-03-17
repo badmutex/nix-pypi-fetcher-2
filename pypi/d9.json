@@ -13477,6 +13477,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.93": {
+      "sdist": [
+        "/9GYDNkMSjd9fS0I5PIElvaNK0PxiaOkMyRuv7yAq4o=",
+        "botocore-a-la-carte-healthlake-1.29.93.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_healthlake-1.29.93-py3-none-any.whl": [
+          "Tk8v+hWnA+c+gwoP3L2eZUJYU00/4hJPs4M0qb/Wf8s=",
+          "py3"
+        ]
+      }
     }
   },
   "bowl": {
@@ -37124,22 +37136,6 @@
         ]
       }
     },
-    "0.1.2rc0": {
-      "wheels": {
-        "fbgemm_gpu_cpu-0.1.2rc0-cp37-cp37m-manylinux1_x86_64.whl": [
-          "tBHlVc441OU41hc0QPDqErHcyIOARnbvpbdUpdW+PKQ=",
-          "cp37"
-        ],
-        "fbgemm_gpu_cpu-0.1.2rc0-cp38-cp38-manylinux1_x86_64.whl": [
-          "2iSpc8a3/wJ8iBB2HNrIATZqOiNbX8w/0dEnB27VZCI=",
-          "cp38"
-        ],
-        "fbgemm_gpu_cpu-0.1.2rc0-cp39-cp39-manylinux1_x86_64.whl": [
-          "wjpQOO3YTyAimAnGFDFUx7uPQVtMZ+2QhRWhVf3kx8k=",
-          "cp39"
-        ]
-      }
-    },
     "0.2.0": {
       "wheels": {
         "fbgemm_gpu_cpu-0.2.0-cp37-cp37m-manylinux1_x86_64.whl": [
@@ -37172,26 +37168,6 @@
         ],
         "fbgemm_gpu_cpu-0.3.0-cp39-cp39-manylinux1_x86_64.whl": [
           "Pa9aqrbu3t12HKUruzKS5BgdLCgLpEbruw7XEeWuzt0=",
-          "cp39"
-        ]
-      }
-    },
-    "0.3.0rc0": {
-      "wheels": {
-        "fbgemm_gpu_cpu-0.3.0rc0-cp310-cp310-manylinux1_x86_64.whl": [
-          "ElKVHJmO5MaGAlYH8CEzB+xpz1BCZ7JxLmj8i2QKY9U=",
-          "cp310"
-        ],
-        "fbgemm_gpu_cpu-0.3.0rc0-cp37-cp37m-manylinux1_x86_64.whl": [
-          "1GHNuMk5ZbFMKz/16NgHHs82iq4HaXK0YuGG4tDCwBM=",
-          "cp37"
-        ],
-        "fbgemm_gpu_cpu-0.3.0rc0-cp38-cp38-manylinux1_x86_64.whl": [
-          "IHpcF9eYkEw9rntQa9nBX22lJ4/Q21m38OSgoB9HBoA=",
-          "cp38"
-        ],
-        "fbgemm_gpu_cpu-0.3.0rc0-cp39-cp39-manylinux1_x86_64.whl": [
-          "UerWCfWQhOLVX2Mp8JNAlPRLJo4c0Gc5+RyjaTjn5nc=",
           "cp39"
         ]
       }
@@ -47087,6 +47063,32 @@
         "d4sEJBW3BtURXKaUl9ENgFtubyRDJz+YAnGTNn+9cg0=",
         "hydrocarbon-0.0.4.tar.gz"
       ]
+    }
+  },
+  "hylaa": {
+    "2.0.1": {
+      "sdist": [
+        "kOSxy7s/G+sZeVqueLnbuI9GsoU1PNh5JDUEFXSV81k=",
+        "hylaa-2.0.1.tar.gz"
+      ],
+      "wheels": {
+        "hylaa-2.0.1-py3-none-any.whl": [
+          "KYXJ1VD5d+2xPwdY/0um8cHACebnPlLvuSFu2f4vERM=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.2": {
+      "sdist": [
+        "vH3YbwKO5a4XcBhmBf7MutBNqy/Fsaj2oNVAIvMZXXk=",
+        "hylaa-2.0.2.tar.gz"
+      ],
+      "wheels": {
+        "hylaa-2.0.2-py3-none-any.whl": [
+          "ats1HzgQG4gDCqFis3spSFS6ggCOQ2mbj1s9OBewmDI=",
+          "py3"
+        ]
+      }
     }
   },
   "hyperlpr3": {
@@ -64214,6 +64216,14 @@
         ]
       }
     },
+    "1.0.10": {
+      "wheels": {
+        "math_lyf-1.0.10-py3-none-any.whl": [
+          "5Cgd5XfYXCKdY8RESOzsWH9VHdKFDokPCkHJsxWp73U=",
+          "py3"
+        ]
+      }
+    },
     "1.0.2": {
       "wheels": {
         "math_lyf-1.0.2-py3-none-any.whl": [
@@ -64258,6 +64268,38 @@
       "wheels": {
         "math_lyf-1.0.8-py3-none-any.whl": [
           "j7XPUBuURyhnKb8ChvdOjr3WA9s8PLUvqxDLV1PyTBw=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.9": {
+      "wheels": {
+        "math_lyf-1.0.9-py3-none-any.whl": [
+          "XcQHFgE9uPJ3c+KHcWePZJhwh6EnLWqRaRbCoVmHwJ0=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.0": {
+      "wheels": {
+        "math_lyf-1.1.0-py3-none-any.whl": [
+          "BCDyd8tmVjq67M4v9K9AO7/MwOv9Izi6C0Nk0RD+jME=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.1": {
+      "wheels": {
+        "math_lyf-1.1.1-py3-none-any.whl": [
+          "nKfaD3bAFoqrG5/Iuw+ZgMy6HUKfaEiCyJcpcRWXeVo=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.2": {
+      "wheels": {
+        "math_lyf-1.1.2-py3-none-any.whl": [
+          "kLZHMVtCHqWlhm7jkqexM72qaiWPZAeLPiIsm5k8k74=",
           "py3"
         ]
       }

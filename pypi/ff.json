@@ -17731,6 +17731,12 @@
         "9P9P6HweurTrvqReFZkKD42Zf+csOrc3AiNIvsAPdyc=",
         "brewblox_service-2.0.0.tar.gz"
       ]
+    },
+    "2.0.1": {
+      "sdist": [
+        "ll+aS60KMhxxDMj5szp1ApgMMLYm4hbd/SK47BosoBo=",
+        "brewblox_service-2.0.1.tar.gz"
+      ]
     }
   },
   "bro": {
@@ -87785,6 +87791,16 @@
       }
     }
   },
+  "odoo-addon-purchase-request-substate": {
+    "15.0.1.0.0.2": {
+      "wheels": {
+        "odoo_addon_purchase_request_substate-15.0.1.0.0.2-py3-none-any.whl": [
+          "vbSS6NeK2WgpjMVy+aL4aWOfaZdQGnoq9AXW5jIk1oo=",
+          "py3"
+        ]
+      }
+    }
+  },
   "odoo10-addon-account-move-line-payable-receivable-filter": {
     "10.0.1.0.0": {
       "wheels": {
@@ -147826,6 +147842,18 @@
       "wheels": {
         "tencentcloud_sdk_python_ckafka-3.0.852-py2.py3-none-any.whl": [
           "G2UppY2XcaN16B1MlOs63dKJz2TymLlmoDB8BGYiTbg=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.853": {
+      "sdist": [
+        "XDmdAiZDNXxl+mI3NowBC5UxrskElgQH4cYOowHsp74=",
+        "tencentcloud-sdk-python-ckafka-3.0.853.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_ckafka-3.0.853-py2.py3-none-any.whl": [
+          "nI3dB8JTeiSfX6bsUORQ0q92yBBOxxemzsKR7pmnN3Q=",
           "py2.py3"
         ]
       }

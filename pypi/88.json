@@ -94254,6 +94254,34 @@
         ]
       }
     },
+    "1.8.15": {
+      "sdist": [
+        "nGN1np9iXK9zLVvAY+LfIi/zN9rPTq2w9h/yeEO59kE=",
+        "OctoBot-Commons-1.8.15.tar.gz"
+      ],
+      "wheels": {
+        "OctoBot_Commons-1.8.15-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "WRbH5H8H0K1x/QM9bhl38uNwHbCW1vwNd3+dWL16pAM=",
+          "cp38"
+        ],
+        "OctoBot_Commons-1.8.15-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "gZsHBOLJtjfT+TprCJ/wn4AT/ZpwzC3UV7myW0VCYig=",
+          "cp38"
+        ],
+        "OctoBot_Commons-1.8.15-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "aFvlrAoz5rW5dznbpX3Z3GO/sfwdomLET5YNG4vpJ64=",
+          "cp38"
+        ],
+        "OctoBot_Commons-1.8.15-cp38-cp38-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "2RAHB9Ph1BLeCBzf6j4SErAzm3pJ3tOn2U65kpRidFE=",
+          "cp38"
+        ],
+        "OctoBot_Commons-1.8.15-cp38-cp38-win_amd64.whl": [
+          "UcZyvw93vTic/s6GqRm5kp4nnYgTr91piO3vD/rCOcA=",
+          "cp38"
+        ]
+      }
+    },
     "1.8.2": {
       "sdist": [
         "pCmQBwqpfL4iegt/X8w8mS+JVl3TNso1m+gw6XAhhvU=",
@@ -128011,6 +128039,16 @@
       }
     }
   },
+  "s3-client-server-side": {
+    "1.0.0": {
+      "wheels": {
+        "s3_client_server_side-1.0.0-py3-none-any.whl": [
+          "tPhX1sc+lmWdCVBPjJUqUl2VfZ+EopLI6mhqxPajca0=",
+          "py3"
+        ]
+      }
+    }
+  },
   "s3ts": {
     "0.1.0": {
       "sdist": [
@@ -137522,6 +137560,18 @@
       "sdist": [
         "4Fp/Zc+epMu09kQer/dFSsj0ZrhPyMJM5MNnNzXIQhg=",
         "tascan-ex-fastapi-0.1.2.tar.gz"
+      ]
+    },
+    "0.1.3": {
+      "sdist": [
+        "/aJ0DXpeYeLF5GdCbvpmCZ3rGX67iuorE1mb86Hqai8=",
+        "tascan-ex-fastapi-0.1.3.tar.gz"
+      ]
+    },
+    "0.1.4": {
+      "sdist": [
+        "qhioENzA0DrCb/bsLomOYnVSB8YmxO9LqOLJ+tOZhdA=",
+        "tascan-ex-fastapi-0.1.4.tar.gz"
       ]
     }
   },

@@ -13489,6 +13489,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.94": {
+      "sdist": [
+        "bV4qPvMJWqz4B2fynBh8jI0i5g9L86PG83f8SyKUWzQ=",
+        "botocore-a-la-carte-healthlake-1.29.94.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_healthlake-1.29.94-py3-none-any.whl": [
+          "IiFdeEHlPseKNlr2vpVM1edMpvEulOgP6MM+jzTLEdM=",
+          "py3"
+        ]
+      }
     }
   },
   "bowl": {
@@ -37223,6 +37235,26 @@
           "cp39"
         ]
       }
+    },
+    "0.4.1rc0": {
+      "wheels": {
+        "fbgemm_gpu_cpu-0.4.1rc0-cp310-cp310-manylinux1_x86_64.whl": [
+          "9SdiCpiusNHGPrwbV7kb2KnB6Z5NMQd2bJyW59ZaT2w=",
+          "cp310"
+        ],
+        "fbgemm_gpu_cpu-0.4.1rc0-cp311-cp311-manylinux1_x86_64.whl": [
+          "+fh5i0yn/aG2vqnBheRjk8EJ9BFr0arpimglbfHDwbw=",
+          "cp311"
+        ],
+        "fbgemm_gpu_cpu-0.4.1rc0-cp38-cp38-manylinux1_x86_64.whl": [
+          "jEDLQZkKA7aAmkPuGm6o7bZ/24/5h7t9N2cmViW6oe4=",
+          "cp38"
+        ],
+        "fbgemm_gpu_cpu-0.4.1rc0-cp39-cp39-manylinux1_x86_64.whl": [
+          "Bq51DHLmQjlRctdXt8nQb08DzDGFnak5JBJ5VNMbzUE=",
+          "cp39"
+        ]
+      }
     }
   },
   "fcmaes": {
@@ -51366,6 +51398,18 @@
         ]
       }
     },
+    "0.2.9": {
+      "sdist": [
+        "UN3ICJyixj/Zip+KY7oaGMAjNE4WgR0bv7wxo5gp2Ro=",
+        "inels-mqtt-new-0.2.9.tar.gz"
+      ],
+      "wheels": {
+        "inels_mqtt_new-0.2.9-py3-none-any.whl": [
+          "3GzDR8S6uPsGKsKCgwH9czPr4S0M0AdxnDmP00/DEns=",
+          "py3"
+        ]
+      }
+    },
     "0.2.9a0": {
       "sdist": [
         "abYyDPNGr+nYwtoButRbPhDRr3bkcin08pj7i4TS8v0=",
@@ -51386,6 +51430,18 @@
       "wheels": {
         "inels_mqtt_new-0.2.9a1-py3-none-any.whl": [
           "4Af6AqHs/CrlrlrkaUdS3CRBhGJzVA2AftFWGWf5HJc=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.9a2": {
+      "sdist": [
+        "pCXobWjPc08HSW/nrb6i3qiUvGQKR1yW30sN4x7HQ4E=",
+        "inels-mqtt-new-0.2.9a2.tar.gz"
+      ],
+      "wheels": {
+        "inels_mqtt_new-0.2.9a2-py3-none-any.whl": [
+          "ItwrXjW+8aqrn4FiRWeGNRT8gJ7L3uA3Nee5t+uNcAw=",
           "py3"
         ]
       }
@@ -88855,6 +88911,32 @@
       ]
     }
   },
+  "posit-cli": {
+    "0.1.1a0": {
+      "sdist": [
+        "I6K1wsubznmQsB70RQYbsjdJEJXp9BP306+PzGp4Uts=",
+        "posit_cli-0.1.1a0.tar.gz"
+      ],
+      "wheels": {
+        "posit_cli-0.1.1a0-py3-none-any.whl": [
+          "u3WoptRjgePaQVKWxBsWn56mjb+MEfFtyMPExSIvswY=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1a1": {
+      "sdist": [
+        "ZUumtbhjrM/tEDpFLaNI9itsoMHq1wmNyccD6ZqqeKM=",
+        "posit_cli-0.1.1a1.tar.gz"
+      ],
+      "wheels": {
+        "posit_cli-0.1.1a1-py3-none-any.whl": [
+          "J/gorhf6HfjP/hSpE8dUJobmNTK4yIuOE7unEmPHjlQ=",
+          "py3"
+        ]
+      }
+    }
+  },
   "pprint-ordered-sets": {
     "1.0.0": {
       "sdist": [
@@ -120332,6 +120414,12 @@
       "sdist": [
         "xHO8i+JeXx7AjrKUzhxkwSkESFkskGTaW7yjM8bfn4k=",
         "sagemaker_inference-1.8.1.tar.gz"
+      ]
+    },
+    "1.9.0": {
+      "sdist": [
+        "1jIzco9ACpoiBEd5RKD/SesoSPdea4G4oakpfFuYfB8=",
+        "sagemaker_inference-1.9.0.tar.gz"
       ]
     }
   },

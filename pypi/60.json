@@ -28215,6 +28215,30 @@
           "cp39"
         ]
       }
+    },
+    "1.4.1": {
+      "sdist": [
+        "pWU5GyG9eUslj+ZNcVwttxA899af21i4IfIKCfSbTao=",
+        "deepsparse-1.4.1.tar.gz"
+      ],
+      "wheels": {
+        "deepsparse-1.4.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "yy7Ijq6UN1Y/EtwnyHqKRG1TMJeVoUDu+pWwukdbIAU=",
+          "cp310"
+        ],
+        "deepsparse-1.4.1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "vXSrX576Umwst7pUMDAy6+fTIoO2zLgzaEuUPLKdrhw=",
+          "cp37"
+        ],
+        "deepsparse-1.4.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "uC48TObSqxSsoPe+sg+5S/0z5fYDN7DvadH0Cax34yc=",
+          "cp38"
+        ],
+        "deepsparse-1.4.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "jFsNsv31lX8XQnf+Y540T1diGXHohzqVvGBGNr3+r5k=",
+          "cp39"
+        ]
+      }
     }
   },
   "deepvision": {
@@ -95372,6 +95396,14 @@
     }
   },
   "odoo14-addon-support-branding": {
+    "14.0.1.0.1": {
+      "wheels": {
+        "odoo14_addon_support_branding-14.0.1.0.1-py3-none-any.whl": [
+          "IY50NtThgk59+5B+Vn9ne2kBuyQYmq1kAnj6DMbvvdE=",
+          "py3"
+        ]
+      }
+    },
     "14.0.1.0.1.dev10": {
       "wheels": {
         "odoo14_addon_support_branding-14.0.1.0.1.dev10-py3-none-any.whl": [
@@ -120851,6 +120883,18 @@
           "py3"
         ]
       }
+    },
+    "4.1.1": {
+      "sdist": [
+        "oS4IFqe4vTTa4aAtaAgQRDQIIjEK00LLTqDFes8BWF0=",
+        "ReFrame-HPC-4.1.1.tar.gz"
+      ],
+      "wheels": {
+        "ReFrame_HPC-4.1.1-py3-none-any.whl": [
+          "r2UUAiB4MaXTx3BfEbHxeLDh2UljFqrlXYjgmUYCUC0=",
+          "py3"
+        ]
+      }
     }
   },
   "rehichao": {
@@ -127878,6 +127922,12 @@
       "sdist": [
         "L2OGOVeQjUHo8zkjAjaBJMZPlvl2pOfGPeylcMlig4A=",
         "returnn-1.20230317.143544.tar.gz"
+      ]
+    },
+    "1.20230317.182411": {
+      "sdist": [
+        "VvaBgxowB86ScnThBrQrNMV6cZ8rukKQwsyhh0x2eZs=",
+        "returnn-1.20230317.182411.tar.gz"
       ]
     },
     "1.20230317.94235": {

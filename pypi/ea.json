@@ -1009,6 +1009,42 @@
           "py3"
         ]
       }
+    },
+    "0.1.7": {
+      "sdist": [
+        "A5vgyIst0prdI+qdxrdNl8yjHDn4hyH45332bcdoLJo=",
+        "adase-api-0.1.7.tar.gz"
+      ],
+      "wheels": {
+        "adase_api-0.1.7-py3-none-any.whl": [
+          "ZGIdCQ50baUImVJHnf3ZAfooeJ7ziX3MJ5HTcG+0mRw=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.8": {
+      "sdist": [
+        "VftqAXBubKO9RY/cLk4tBtVxQBPmreTu9IoWWX8BUXc=",
+        "adase-api-0.1.8.tar.gz"
+      ],
+      "wheels": {
+        "adase_api-0.1.8-py3-none-any.whl": [
+          "rmA6fBznd3Xgu8a4j3xlHXvUYWpYBgstrC5wrkDlqAo=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.9": {
+      "sdist": [
+        "qYQ4inMbFe4bILysW45YY7vt+i0YMMSLTG6jvxyDUUY=",
+        "adase-api-0.1.9.tar.gz"
+      ],
+      "wheels": {
+        "adase_api-0.1.9-py3-none-any.whl": [
+          "SPALnPt7meXI8CdkFp4wAhTH3kg7tLTDz7rJurRcWOM=",
+          "py3"
+        ]
+      }
     }
   },
   "additions": {
@@ -16952,6 +16988,18 @@
       "wheels": {
         "botocore_a_la_carte_pricing-1.29.93-py3-none-any.whl": [
           "wQ8O+gZa+M+7cS03oK/1vjts4X5bN4sFVhAQCFsaq3s=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.94": {
+      "sdist": [
+        "9yJ31Vcajr+wIaor7wblh7gNf5H1Js/twroaW9pnY0E=",
+        "botocore-a-la-carte-pricing-1.29.94.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_pricing-1.29.94-py3-none-any.whl": [
+          "Y/Ul/tfNe3ybhIObuue3KAqWa7MM76YAKN/PH2MxwOM=",
           "py3"
         ]
       }
@@ -64565,6 +64613,18 @@
           "py3"
         ]
       }
+    },
+    "0.3.0": {
+      "sdist": [
+        "27ATacp+SPXSn4iLbilUVqgIOowZxdMR3oUMv5Wl6os=",
+        "instructure-dap-client-0.3.0.tar.gz"
+      ],
+      "wheels": {
+        "instructure_dap_client-0.3.0-py3-none-any.whl": [
+          "wr+NjBrokOTkzPCD/c8KTDhrHFe8txk88DOc54IpVPU=",
+          "py3"
+        ]
+      }
     }
   },
   "insutance": {
@@ -67961,6 +68021,106 @@
         "mmqu2zyr3Lslu8x8af2872BNK8uHeiZrHI4gMLUO1nw=",
         "kaldi_native_io-1.2.tar.gz"
       ]
+    },
+    "1.20": {
+      "wheels": {
+        "kaldi_native_io-1.20-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "+JXT55CwwTH2h6FTaCM3769JJ6k44ZeHPyHbSYuLkTA=",
+          "cp310"
+        ],
+        "kaldi_native_io-1.20-cp310-cp310-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "79Lc2exsSz6nDzNI167DxqevEOHc/d4LVdZWEfEJ6WQ=",
+          "cp310"
+        ],
+        "kaldi_native_io-1.20-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "1xvFNuYVr1iH1OsldoVP5L6ZJkVQT2ilJOzADYF/dOk=",
+          "cp310"
+        ],
+        "kaldi_native_io-1.20-cp310-cp310-win_amd64.whl": [
+          "cv9bRzpJdSX2OZuNU50Drzg67vVM8Ze4DDSYWDq9OJ0=",
+          "cp310"
+        ],
+        "kaldi_native_io-1.20-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "Wy0VGRiaykAbqM9C3AkueGZOVbOEeaPF62WBp5inRrk=",
+          "cp311"
+        ],
+        "kaldi_native_io-1.20-cp311-cp311-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "KNwAm/MiqIdMv9MSbU7iI4nLWFOKXjBHofbcHgSCC2o=",
+          "cp311"
+        ],
+        "kaldi_native_io-1.20-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "vNgdXd4kS2pkunZAhsSY6UqTA1gme4fOznpzIHD12e0=",
+          "cp311"
+        ],
+        "kaldi_native_io-1.20-cp311-cp311-win_amd64.whl": [
+          "aptrTYVyVlxZ1rAnXaDVjo9AL5L1bCfaIbZAqXFZhjE=",
+          "cp311"
+        ],
+        "kaldi_native_io-1.20-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "HL33BRHdwqXLyBYU7vwX0jHFuNqJ+vLoU+CBAmcgizA=",
+          "cp36"
+        ],
+        "kaldi_native_io-1.20-cp36-cp36m-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "UNT2mhc3rAab9j+OATGqKr1gnKcxlUn0jfp/OCm7ANY=",
+          "cp36"
+        ],
+        "kaldi_native_io-1.20-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "a3u07GS5WM0doIwpmEKonwscyOhzwnBln8qaEjViwCQ=",
+          "cp36"
+        ],
+        "kaldi_native_io-1.20-cp36-cp36m-win_amd64.whl": [
+          "2h725HQrioK0QPtCH6JkI6rGwkcbcuJ+ZUFvv4i8isM=",
+          "cp36"
+        ],
+        "kaldi_native_io-1.20-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "GWw/onzrZQRbhNX+2Uc9svDRWl07vUgeGFw0RHeMyfw=",
+          "cp37"
+        ],
+        "kaldi_native_io-1.20-cp37-cp37m-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "nQ1hfn1Sw+Sd+h5pKMwMaNWSAOItItwDPrStO5y/nE8=",
+          "cp37"
+        ],
+        "kaldi_native_io-1.20-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Jk7mUDpsR+mUzRPT9lLBGUcInD4F5pzmrD9g58WcWmg=",
+          "cp37"
+        ],
+        "kaldi_native_io-1.20-cp37-cp37m-win_amd64.whl": [
+          "TClvGgURu6AYWdnZfrT9MMdWZBQHpPkFCQpAD7DjprI=",
+          "cp37"
+        ],
+        "kaldi_native_io-1.20-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "xWjbBulmZDL6BfXbmZK3ez8g0JR4OMfUSp4tFqu+eTs=",
+          "cp38"
+        ],
+        "kaldi_native_io-1.20-cp38-cp38-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "fXCulM8B67E76tvtsmaEGKT07vy2wR5vAWDaRkuSL7I=",
+          "cp38"
+        ],
+        "kaldi_native_io-1.20-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "qI7GCTgzRIM7Z9BcCjNYx7eXeQTakqvO/0+b6j9bu4U=",
+          "cp38"
+        ],
+        "kaldi_native_io-1.20-cp38-cp38-win_amd64.whl": [
+          "+CBV+XEmf6Ao9bKb0S6KAofdsrFIsmqZN7Bt1isSv18=",
+          "cp38"
+        ],
+        "kaldi_native_io-1.20-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "eZR2nOb9+x4QvuYkNf3sVSUJpo5PHdp2FoDLllsRBx8=",
+          "cp39"
+        ],
+        "kaldi_native_io-1.20-cp39-cp39-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "owJ+Nv6dp4wR9vZNAvU980zclsYpJBLjrDVR8OHkhiM=",
+          "cp39"
+        ],
+        "kaldi_native_io-1.20-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "eQMrPfl2a5rl7BHhSXafiOm6xtpWnogqkOnbFr/tlPE=",
+          "cp39"
+        ],
+        "kaldi_native_io-1.20-cp39-cp39-win_amd64.whl": [
+          "FRyoxhTrFR6JGzqGRIrG95e0V8f0adU6a8XwSHWsjpM=",
+          "cp39"
+        ]
+      }
     },
     "1.3": {
       "sdist": [
@@ -129991,6 +130151,18 @@
           "py3"
         ]
       }
+    },
+    "0.6.0": {
+      "sdist": [
+        "wlyDGXW5bbrsytLxaxN6iZQL0yIMwR5CExyZPG8ejgY=",
+        "rwkv-0.6.0.tar.gz"
+      ],
+      "wheels": {
+        "rwkv-0.6.0-py3-none-any.whl": [
+          "a/6Z/QqWtkqkXp7Jel03rRG68Ib5lpEtcLt6Fz2vDMw=",
+          "py3"
+        ]
+      }
     }
   },
   "rwsuis": {
@@ -158824,6 +158996,12 @@
       "sdist": [
         "kmXi4y2P9E/BcGAW18E64w5Q1vR+UHTo2R101wi0RxI=",
         "xcyl-0.0.14.tar.gz"
+      ]
+    },
+    "0.0.15": {
+      "sdist": [
+        "uWIe1JeIMcnrSBeiAhFEKxjaHCQzrZ+GwC8q8P/H7GM=",
+        "xcyl-0.0.15.tar.gz"
       ]
     },
     "0.0.8": {

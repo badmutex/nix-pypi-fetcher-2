@@ -31927,6 +31927,34 @@
           "py2.py3"
         ]
       }
+    },
+    "2.4.2": {
+      "wheels": {
+        "core_universal-2.4.2-py2.py3-none-macosx_10_7_x86_64.whl": [
+          "CRyhfUjaRc6BkP+9qCCFBx+Qjabku6YbVZ4AijjOOtQ=",
+          "py2.py3"
+        ],
+        "core_universal-2.4.2-py2.py3-none-macosx_11_0_arm64.whl": [
+          "j99bupGO9PnI/RVBCnhs5lzaSo4M7Sz0xOocgdKKjt8=",
+          "py2.py3"
+        ],
+        "core_universal-2.4.2-py2.py3-none-manylinux1_x86_64.whl": [
+          "VlEMgtgdbOzPoItp1Azd5E0l5gvXyPUNvYqPTkwWOx8=",
+          "py2.py3"
+        ],
+        "core_universal-2.4.2-py2.py3-none-manylinux2014_aarch64.whl": [
+          "icmRvTKtOjYXNAzPkzxZL2rDYvMQZ8ZEbph33rV+VQo=",
+          "py2.py3"
+        ],
+        "core_universal-2.4.2-py2.py3-none-musllinux_1_2_x86_64.whl": [
+          "FkK4s56PlyX4bNZhGAILdjZx4UY1TgOyDHIJUlL98UM=",
+          "py2.py3"
+        ],
+        "core_universal-2.4.2-py2.py3-none-win_amd64.whl": [
+          "XcRmdnxHMlJD/xPA5QUvVDK7Vdnyci/ufkq3jyUv6c4=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "coreindicators": {
@@ -56888,6 +56916,18 @@
       "wheels": {
         "ffmpegio_core-0.8.1-py3-none-any.whl": [
           "7ti4aVk6kP/2K5s9NGihSMRYIAH+ZAT3zc8WgFEqSS4=",
+          "py3"
+        ]
+      }
+    },
+    "0.8.2": {
+      "sdist": [
+        "nZNM93Tl8y2RdFdRNdfnXdOBIIP+V1BATClwy52uwTg=",
+        "ffmpegio-core-0.8.2.tar.gz"
+      ],
+      "wheels": {
+        "ffmpegio_core-0.8.2-py3-none-any.whl": [
+          "NcNpVzyDtQVttPb+ob0SK5X6F0/uA4CnxBfRfm++wSo=",
           "py3"
         ]
       }
@@ -86252,6 +86292,18 @@
       "wheels": {
         "moxtrice-1.0.1.dev0-py3-none-any.whl": [
           "czIHC68aJmiie/9vZs86VI9Udus9Mh3USsVXdchyqI8=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.2.dev0": {
+      "sdist": [
+        "F1WXP6ugLRvOMAlOyLzNeX+wJudi0jVt6PwuclyYAwo=",
+        "moxtrice-1.0.2.dev0.tar.gz"
+      ],
+      "wheels": {
+        "moxtrice-1.0.2.dev0-py3-none-any.whl": [
+          "G32ebdKrAEkMNNnD8t9wdJ8vr5mWiBeNmeVX2YYOk3M=",
           "py3"
         ]
       }
@@ -123825,6 +123877,20 @@
         "IqOVtFViXmiF71rvLnl3ViI971bC9ZFPC7mrnaLp/IY=",
         "roblox-robux-generator-no-verification-2022-v-6784.zip"
       ]
+    }
+  },
+  "robotcode-robot": {
+    "0.28.4": {
+      "sdist": [
+        "e+YftnuUuvW7BoKi9CYfz4prTmMFe0P9c2+ft34cITc=",
+        "robotcode_robot-0.28.4.tar.gz"
+      ],
+      "wheels": {
+        "robotcode_robot-0.28.4-py3-none-any.whl": [
+          "2NodnDZRmuOPmWSBsUCQGfjtOFe2bjXwFuQEAmf0b+4=",
+          "py3"
+        ]
+      }
     }
   },
   "robotframework-fritzhomelibrary": {

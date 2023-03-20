@@ -44581,6 +44581,12 @@
         "xjpUrrtBCKuazwQYxDJbDA3aXxPyIqfT5xIIbm9jhLs=",
         "emergefs-0.0.2.tar.gz"
       ]
+    },
+    "0.0.3": {
+      "sdist": [
+        "q/Ppr1dOPbS3tl0TzN0CA5dJMMgwIyg4vNHXeYYmOaQ=",
+        "emergefs-0.0.3.tar.gz"
+      ]
     }
   },
   "emoji-translate": {
@@ -108877,6 +108883,38 @@
         "XswvQIhqGtBnHPT33p/7lenwqo9DJyve+N9QQ95CQ4U=",
         "poe-api-0.0.1.tar.gz"
       ]
+    },
+    "0.0.2": {
+      "wheels": {
+        "poe_api-0.0.2-py3-none-any.whl": [
+          "qqRfdGLRCASEo4SVFjv/1zpPJjwgvvy5SW6/dFTc2bA=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "wheels": {
+        "poe_api-0.0.3-py3-none-any.whl": [
+          "HURgXCrgE2PeR4q2B3rr1ib+hadN9XkYM4MsY/1HPb0=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.0": {
+      "wheels": {
+        "poe_api-0.1.0-py3-none-any.whl": [
+          "dFFuD8ya2bF56vv3X/bcrOglrgjbhQhfXTURJAc6KP4=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "wheels": {
+        "poe_api-0.1.1-py3-none-any.whl": [
+          "SbmwxAY3xDn3ahfrcBnuHyOoBWq38xU5h37IIBz8CvM=",
+          "py3"
+        ]
+      }
     }
   },
   "poetry-dotenv-plugin": {
@@ -113006,6 +113044,74 @@
         ],
         "pyabcranger-0.0.67-cp39-cp39-win_amd64.whl": [
           "MYBFZKTWohhyIlwIit5ea7WpoHp1IIt5OVGwpZzVcsI=",
+          "cp39"
+        ]
+      }
+    },
+    "0.0.69": {
+      "sdist": [
+        "vGmtcFUCypN/DfRH0Vos3YLssF/B1QJsZ0uljhYn85E=",
+        "pyabcranger-0.0.69.tar.gz"
+      ],
+      "wheels": {
+        "pyabcranger-0.0.69-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "/muEOo7kMfj9lPKeQw3+wqQFlC0MJkzu7DfJZzXyB8k=",
+          "cp310"
+        ],
+        "pyabcranger-0.0.69-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "KQQfqkQGVQHYz7WNEarFe0CC5+v9TAkxcxUHjSK4iOI=",
+          "cp310"
+        ],
+        "pyabcranger-0.0.69-cp310-cp310-win_amd64.whl": [
+          "8l8qaXvUod2pTF6KRbqXa7VQLjGC11jreHDcFtIBhFw=",
+          "cp310"
+        ],
+        "pyabcranger-0.0.69-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "Uly9+V5vvBjFa7Zamp5SJxFmBvneVJCDYpUBybulFck=",
+          "cp311"
+        ],
+        "pyabcranger-0.0.69-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "f/t015mtL00lLZlO4kmK0Dqgg2hwYsF61tZOc3DE0X0=",
+          "cp311"
+        ],
+        "pyabcranger-0.0.69-cp311-cp311-win_amd64.whl": [
+          "pDd8S2sI03NO0T86ceMdR/3+4hmjadovMSeiJxWzMkA=",
+          "cp311"
+        ],
+        "pyabcranger-0.0.69-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "Gm7ksU0qa/qUYnTLgtzgLQxv63rpKfX9xfEEIzS7wMs=",
+          "cp37"
+        ],
+        "pyabcranger-0.0.69-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "YXVrdE+psguDrymqwUesMiSlD4wS4K7qy1WOxZtccuk=",
+          "cp37"
+        ],
+        "pyabcranger-0.0.69-cp37-cp37m-win_amd64.whl": [
+          "4zi8alSnvRdJPH/amMZAf5XaEm/H2Qzj1/QxGEHe3a4=",
+          "cp37"
+        ],
+        "pyabcranger-0.0.69-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "uQ4MVa4zMXTUm98rB7DYDFqZ041vauf/ulnmmgek2C8=",
+          "cp38"
+        ],
+        "pyabcranger-0.0.69-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "hIn1CUzYvp2c+D+Ysyv5khK/6RWvkjWJSqKwX1pVIPI=",
+          "cp38"
+        ],
+        "pyabcranger-0.0.69-cp38-cp38-win_amd64.whl": [
+          "7lE/BWXB5yHjLlfzOH4Or2p3irhjT6gzJJVjzbD3dmY=",
+          "cp38"
+        ],
+        "pyabcranger-0.0.69-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "nEaCSYl7iDQKne+K5sHenKzWPWDJd1JOmgaFl/awfRM=",
+          "cp39"
+        ],
+        "pyabcranger-0.0.69-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "wClaDFsjazjD4etz3QnXhFA0JxOm3/ull+NYFqkqYZo=",
+          "cp39"
+        ],
+        "pyabcranger-0.0.69-cp39-cp39-win_amd64.whl": [
+          "KCT3DpphhqqPr18GCHrPBpGRRMPVsg6TISHeD9MEy1A=",
           "cp39"
         ]
       }
@@ -137358,6 +137464,20 @@
       "wheels": {
         "SmithWagnerCV-0.0.5-py3-none-any.whl": [
           "5O2JuIgsRFGjRmhA9gFEdZN1ayMVdLVgvsK2hCoWx2o=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "smooth-trajectory": {
+    "0.0.1": {
+      "sdist": [
+        "Drglm+rlt58lR7ajDF5F1j7NVfsPdUT48zsX/t5z9gc=",
+        "smooth_trajectory-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "smooth_trajectory-0.0.1-py3-none-any.whl": [
+          "BkvEWpP0/njtkWukeZiaeLLQOvqYFiGKPDlp94kIm0g=",
           "py3"
         ]
       }

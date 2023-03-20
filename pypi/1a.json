@@ -37986,6 +37986,30 @@
         ]
       }
     },
+    "0.70.7": {
+      "sdist": [
+        "q23Et5DB3QaSr5UxnxFmIqNTVVVdz3vU3U1NyTlpwKs=",
+        "DynamicForms-0.70.7.tar.gz"
+      ],
+      "wheels": {
+        "DynamicForms-0.70.7-py3-none-any.whl": [
+          "7bATz28navGjy3bHzaK3yjx/OGaW8eU67+3DyttHJWo=",
+          "py3"
+        ]
+      }
+    },
+    "0.70.8": {
+      "sdist": [
+        "36gZN5dUMaweD/fdjp7flaCX29clKYKl6o9A8FrSomE=",
+        "DynamicForms-0.70.8.tar.gz"
+      ],
+      "wheels": {
+        "DynamicForms-0.70.8-py3-none-any.whl": [
+          "HcKLIOuG9AXWzgQM2WR01AULK+P4StJtzN5No4/718A=",
+          "py3"
+        ]
+      }
+    },
     "0.9.0": {
       "sdist": [
         "ZEqYa26x1HxzAvYA5ewSBCxGCapSrQxWxBYVUxJ1PO0=",
@@ -38823,6 +38847,20 @@
         "Pz8NqwfCmfD03wMtsfOI2YW7V/pMW+MKzSXF+aUWiDs=",
         "easydict-1.9.tar.gz"
       ]
+    }
+  },
+  "easyinstruct": {
+    "0.0.1": {
+      "sdist": [
+        "3lIdYCo94KEsp4lVIdoxpjNX2K7z0sxyS3E7wR+327k=",
+        "easyinstruct-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "easyinstruct-0.0.1-py3-none-any.whl": [
+          "ySZX9PmApPfS3eUvHnB8WEYKVDfQKRBIzRvrcdxwSTI=",
+          "py3"
+        ]
+      }
     }
   },
   "easytimer": {
@@ -93525,6 +93563,24 @@
           "py3"
         ]
       }
+    },
+    "16.0.1.0.0.2": {
+      "wheels": {
+        "odoo_addon_report_csv-16.0.1.0.0.2-py3-none-any.whl": [
+          "jQB/zqHGVHazh1Clhpq5PA1n5679t56GWbYVje6lqPY=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "odoo-addon-sale-line-returned-qty-mrp": {
+    "15.0.1.0.1": {
+      "wheels": {
+        "odoo_addon_sale_line_returned_qty_mrp-15.0.1.0.1-py3-none-any.whl": [
+          "KbQ05h0BjA+0mjzB+fszcglIzulaRhiI0a/YrUpDhtI=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo-fast-report-mapper-equitania": {
@@ -97966,6 +98022,80 @@
       "wheels": {
         "ozon3-4.0.2-py3-none-any.whl": [
           "vIo0Dmkdyn5CcdGmTpHM7jjfdrk5GCf9XPK4C/CsP54=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "p-template-crawler": {
+    "0.0.1": {
+      "sdist": [
+        "klGjjwG5FJlc0YCBay+qPyk95Q+hgouJnUm+4Kq417Q=",
+        "p-template-crawler-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "p_template_crawler-0.0.1-py3-none-any.whl": [
+          "dAPwwCcmY0PMYvjyePb2kM4m4HoPc5AO+lDojHskAww=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "+6bp70owHx5lB/OxoWVGNfstUK+Nu7SFKgCRvAH75CM=",
+        "p-template-crawler-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "p_template_crawler-0.0.2-py3-none-any.whl": [
+          "xRg7tLfqK4eo6mnoqwjuhURCcUOPCoTyae8MFA4egj4=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "2DPfzgBPzeGnC81pMUfydbi1HMlcUyIrtr4on7cfDbI=",
+        "p-template-crawler-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "p_template_crawler-0.0.3-py3-none-any.whl": [
+          "suFJL28nO3W6Yoo/A9F2II4NY0UwW9sSPV2tokSme0g=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4": {
+      "sdist": [
+        "UU9qG5FXvwq0DCEgKpTZEWCOQ4d7Q9og5hy3SwITQ8o=",
+        "p-template-crawler-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "p_template_crawler-0.0.4-py3-none-any.whl": [
+          "W/KQdlGZr497hC23zQEplRzBjjgAcQ9LRXuxlAMf/Uw=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.5": {
+      "sdist": [
+        "1EK/gqtIQn4vc90UoZLEvQXiKENzdhm5PmMeVYNOkcU=",
+        "p-template-crawler-0.0.5.tar.gz"
+      ],
+      "wheels": {
+        "p_template_crawler-0.0.5-py3-none-any.whl": [
+          "I0HQyecZMQrPMcDMjfPvAw31q8oSrGVk1OtDjsoH58s=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.6": {
+      "sdist": [
+        "FYQfoaAvYimwtO9mD8aeA7kLhrHrM22f4wweMhkTj0s=",
+        "p-template-crawler-0.0.6.tar.gz"
+      ],
+      "wheels": {
+        "p_template_crawler-0.0.6-py3-none-any.whl": [
+          "Wt2p/6kcl9UlWYAjPsfYmJOP32XtpIMVYxogRRAv5WY=",
           "py3"
         ]
       }
@@ -106128,6 +106258,18 @@
         ]
       }
     },
+    "1.0.20": {
+      "sdist": [
+        "wthinZ+2dfpXHy1Psf9jSsI9BlZ123Nu0riDz8sDODk=",
+        "PublicDataReader-1.0.20.tar.gz"
+      ],
+      "wheels": {
+        "PublicDataReader-1.0.20-py3-none-any.whl": [
+          "u1QkcNqgNfqdbbcCcQVQVW0f4TWNJYUb/zw8HTDl43c=",
+          "py3"
+        ]
+      }
+    },
     "1.0.3": {
       "sdist": [
         "kXXzxP6xgnD2cREc48NBExCtLx9QWUi4++osALqgdp8=",
@@ -114014,6 +114156,18 @@
       "wheels": {
         "pymilvus-2.2.3-py3-none-any.whl": [
           "meq1okm8bKA6jitRaXCKyrIuZXq0ZyyJ4K17sAwc0oM=",
+          "py3"
+        ]
+      }
+    },
+    "2.3.0b1": {
+      "sdist": [
+        "QtNI/H2nDX5hSkekhJY58oekAR4z/XTUxOTUzrGwvR0=",
+        "pymilvus-2.3.0b1.tar.gz"
+      ],
+      "wheels": {
+        "pymilvus-2.3.0b1-py3-none-any.whl": [
+          "53KAZ8udN9cUWA65H1QlnmqNmf/chefr9UfFcRVsqTs=",
           "py3"
         ]
       }

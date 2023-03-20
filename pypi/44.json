@@ -11209,6 +11209,14 @@
       }
     }
   },
+  "aws-mfa-pt": {
+    "0.0.13": {
+      "sdist": [
+        "a/DKNTqLnnS+g0glYXVNJJS/a0oOA1pcJhSLfo6bmhc=",
+        "aws-mfa-pt-0.0.13.tar.gz"
+      ]
+    }
+  },
   "aws-mfa-tool": {
     "0.1.0": {
       "sdist": [
@@ -52206,6 +52214,12 @@
       "sdist": [
         "CM3VOdcJZVfsxDYbN/LxNfaOAhECRVOQkZ+V25ir/OI=",
         "evaics-0.2.1.tar.gz"
+      ]
+    },
+    "0.2.2": {
+      "sdist": [
+        "jCKWLEDwFRAW9LBZzB4Wgh0jOx1djNz/rgGfPzwmBf8=",
+        "evaics-0.2.2.tar.gz"
       ]
     }
   },
@@ -117517,6 +117531,32 @@
       }
     }
   },
+  "python-aws-lambda-event-types": {
+    "0.0.1": {
+      "sdist": [
+        "MbVDYbV6mUAn72LS92OnHXrbUrxMVwsIm/emZjc+KRk=",
+        "python_aws_lambda_event_types-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "python_aws_lambda_event_types-0.0.1-py3-none-any.whl": [
+          "8km2teU7JLZmu4ih3R6gq+bWWXeIV+w+jXWAwqBz9aQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "f2/FjYrHANCTBDx7JF9ilOR8yamPiaEoTvah7FnAKBE=",
+        "python_aws_lambda_event_types-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "python_aws_lambda_event_types-0.0.2-py3-none-any.whl": [
+          "BMkc9cWFYYtHE2vSJMuN9yuYZVj0goSGTRk+RQwa23E=",
+          "py3"
+        ]
+      }
+    }
+  },
   "python-banyan": {
     "1.0": {
       "sdist": [
@@ -142782,6 +142822,18 @@
       "wheels": {
         "tencentcloud_sdk_python_mna-3.0.854-py2.py3-none-any.whl": [
           "UQS0H1yBmcMWPy43q787KsnlcwmrbqNG7xC6VPlrFxs=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.855": {
+      "sdist": [
+        "ZRpQInAA8GGwy7mT+SYw7F0cFU+c5CTs2Ctp4RQ28bo=",
+        "tencentcloud-sdk-python-mna-3.0.855.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_mna-3.0.855-py2.py3-none-any.whl": [
+          "IcBF/9jOX+4czmSjmZSNwFQ61U7JfNZN+m4foSnOZeg=",
           "py2.py3"
         ]
       }

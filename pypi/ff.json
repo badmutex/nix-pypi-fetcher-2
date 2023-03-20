@@ -7237,6 +7237,70 @@
           "cp39"
         ]
       }
+    },
+    "0.1.0": {
+      "wheels": {
+        "asset_asrl-0.1.0-cp310-cp310-manylinux_2_31_x86_64.whl": [
+          "5TBGfXyVj6r74uccVrtVswux6+8G8Q9e+3aV14fKp1o=",
+          "cp310"
+        ],
+        "asset_asrl-0.1.0-cp310-cp310-manylinux_2_35_x86_64.whl": [
+          "Hy14AFXamhjyZ22wLnXV2ZzT8BF4wBuGeDMR4Mddp50=",
+          "cp310"
+        ],
+        "asset_asrl-0.1.0-cp310-cp310-win_amd64.whl": [
+          "TiWV5yv5gGivmKl5bG1Qe9EgRsdDMV/2f/QGxGflv5s=",
+          "cp310"
+        ],
+        "asset_asrl-0.1.0-cp311-cp311-manylinux_2_31_x86_64.whl": [
+          "1gzjJsiIDJkLPx0+miJQ7UdAPyuRUPETcSfEbisxSeg=",
+          "cp311"
+        ],
+        "asset_asrl-0.1.0-cp311-cp311-manylinux_2_35_x86_64.whl": [
+          "nEH+Upz43deiwD72sy1jaCgFBcJ8t7890nd+LPu/lXo=",
+          "cp311"
+        ],
+        "asset_asrl-0.1.0-cp311-cp311-win_amd64.whl": [
+          "hDEhI0CUpB9l9d9uXxKzWSu5EOu6iysjyiCMySCj3cg=",
+          "cp311"
+        ],
+        "asset_asrl-0.1.0-cp37-cp37m-manylinux_2_31_x86_64.whl": [
+          "ZxDAPSYV1UiwDE93WVQJeI4+h60jD1gwNGtzThK5aRs=",
+          "cp37"
+        ],
+        "asset_asrl-0.1.0-cp37-cp37m-manylinux_2_35_x86_64.whl": [
+          "SsTZMqYWfwYdtIZz48pQFc9sk/tLsbm3Otf9BZnIfIY=",
+          "cp37"
+        ],
+        "asset_asrl-0.1.0-cp37-cp37m-win_amd64.whl": [
+          "nhxRvEZH0oFnYexGTuGxPB4lR4Qqn/7feXDpWlRPuAs=",
+          "cp37"
+        ],
+        "asset_asrl-0.1.0-cp38-cp38-manylinux_2_31_x86_64.whl": [
+          "5agukk7M7PVGpUEgGjoxmSe6QrdC5uL9WAbhDymC/sc=",
+          "cp38"
+        ],
+        "asset_asrl-0.1.0-cp38-cp38-manylinux_2_35_x86_64.whl": [
+          "mkAQ0iSZfSoZIJbI8E9dCiCladD2eKWocz4Ue56RtH0=",
+          "cp38"
+        ],
+        "asset_asrl-0.1.0-cp38-cp38-win_amd64.whl": [
+          "VG61sQm/Fj0fqVLFks3kPx2Qy8rtW1u0ifexeV6dtTs=",
+          "cp38"
+        ],
+        "asset_asrl-0.1.0-cp39-cp39-manylinux_2_31_x86_64.whl": [
+          "2W5FazD9iz04GSOogWA+SJPXW9m0t01+aAGjIuxphZ0=",
+          "cp39"
+        ],
+        "asset_asrl-0.1.0-cp39-cp39-manylinux_2_35_x86_64.whl": [
+          "L1DMvBY2G1PhEOTjzMX1/D7gt7lYHHQZob1ICVPUgtc=",
+          "cp39"
+        ],
+        "asset_asrl-0.1.0-cp39-cp39-win_amd64.whl": [
+          "SRri+8nz1lyxuzWYqSAk1k+e9aoiITksuvT1/g/qGDo=",
+          "cp39"
+        ]
+      }
     }
   },
   "asseteour": {
@@ -76350,6 +76414,18 @@
       "wheels": {
         "maptasker-1.3.0-py3-none-any.whl": [
           "Ut8APGrEAqo9bXkn7Rp6Fl/m8sJ5Ogi2q+s+T9CGyN4=",
+          "py3"
+        ]
+      }
+    },
+    "1.3.1": {
+      "sdist": [
+        "xcHnra7czauvbhw4chWIYqoYhWBkfVtV0fQESjNxZVY=",
+        "maptasker-1.3.1.tar.gz"
+      ],
+      "wheels": {
+        "maptasker-1.3.1-py3-none-any.whl": [
+          "qFXagFR/Niob172/1dB5XsitfXNs5HazSEoij/ObTao=",
           "py3"
         ]
       }
@@ -148009,6 +148085,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.855": {
+      "sdist": [
+        "EM4HDfC/KJTRiwmhxzJnAoA4/UVNUf/oSSu6xolPUwk=",
+        "tencentcloud-sdk-python-ckafka-3.0.855.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_ckafka-3.0.855-py2.py3-none-any.whl": [
+          "ac3fPZfHYxzB+uAQ06dQ+0NiNYcW8Ua0j3dWGfWADrc=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tensorflow-datavalidation": {
@@ -156408,6 +156496,30 @@
       "wheels": {
         "voltron_robotics-1.0.0-py3-none-any.whl": [
           "aaULrHrCfs8EMmc1FtL35Ycnkdsl7Xovqqq/B/sp+VI=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.1": {
+      "sdist": [
+        "t3FyiyitfMY5OjLL9BVBpTfrTMn012MzTdfJEu/7aCk=",
+        "voltron-robotics-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "voltron_robotics-1.0.1-py3-none-any.whl": [
+          "Px0Zm4KArAs6J2JL8Fda8q1ebrV759yNNHMfWDC364k=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.2": {
+      "sdist": [
+        "ElWxzDajl7xsWcFNqKqA8SkTrGlEn4o9DUS2Na6rrX4=",
+        "voltron-robotics-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "voltron_robotics-1.0.2-py3-none-any.whl": [
+          "6XqKovwskqWRmjRfBnahNtXzZ0XRcu102x3jxeFxMcA=",
           "py3"
         ]
       }

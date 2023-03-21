@@ -79062,50 +79062,14 @@
     }
   },
   "mjson5": {
-    "0.9.14": {
+    "0.9.13.1": {
       "sdist": [
-        "qPAz/j/V6mSL2EYBlT82j8W6NVq5xCBO9ViXPIzmeyg=",
-        "mjson5-0.9.14.tar.gz"
+        "f05cZTJGKPlFmgQWT/VZ+8W5NDuceupkLvwXE3yDTBA=",
+        "mjson5-0.9.13.1.tar.gz"
       ],
       "wheels": {
-        "mjson5-0.9.14-py2.py3-none-any.whl": [
-          "TOOQzDbAZpAm6IcLtMp4rDuaONU6ZPq5Un3dHl6v27s=",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.9.15": {
-      "sdist": [
-        "ucvg2LV9PQh528cejnfpDOxSAXhmYSNF1WfSj8R03gM=",
-        "mjson5-0.9.15.tar.gz"
-      ],
-      "wheels": {
-        "mjson5-0.9.15-py2.py3-none-any.whl": [
-          "qlRlq2RPt4E48h2naHgDaBKsdNucn5nx2KPjPPds1no=",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.9.16": {
-      "sdist": [
-        "z79OlRajK5mQ9kPbgNGde8dyZAOSLbJa59WX+smpEzY=",
-        "mjson5-0.9.16.tar.gz"
-      ],
-      "wheels": {
-        "mjson5-0.9.16-py2.py3-none-any.whl": [
-          "W+gps87RSDarSI0Q2nOSjVPJoQoTnEkLVZZU+mkdicM=",
-          "py2.py3"
-        ]
-      }
-    },
-    "10.9.13": {
-      "sdist": [
-        "Vv/4Mgb7218jwzzqKOfcsjeo8CLBbjQ66fiTJEFW+XY=",
-        "mjson5-10.9.13.tar.gz"
-      ],
-      "wheels": {
-        "mjson5-10.9.13-py2.py3-none-any.whl": [
-          "PwDXuV3j6hUlkxlj6jzOPRF9rvxaHUNA72LJMhiBbfI=",
+        "mjson5-0.9.13.1-py2.py3-none-any.whl": [
+          "v9JcOlNnAkHmKMgvBSgpOOeyTdxSlbJlFUKtnN2kkkQ=",
           "py2.py3"
         ]
       }
@@ -91107,6 +91071,14 @@
           "py3"
         ]
       }
+    },
+    "14.0.2.0.2.dev1": {
+      "wheels": {
+        "odoo14_addon_sales_team_security-14.0.2.0.2.dev1-py3-none-any.whl": [
+          "C2VAP6BrRz+WJmydf8rZsHrbBctZJniEzRU0GpBNNUI=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo8-addon-hr-emergency-contact": {
@@ -97352,6 +97324,78 @@
         ],
         "parafields-0.2.0-cp39-cp39-win_amd64.whl": [
           "r6WrbSnMVAal6ytf2zieaj27S0Jr/442/Isjo/28oYE=",
+          "cp39"
+        ]
+      }
+    },
+    "0.3.0": {
+      "sdist": [
+        "omAYPTQeGVwPzmlxb1NpUeKL+jJLOfMqfJ6rXvoy3QY=",
+        "parafields-0.3.0.tar.gz"
+      ],
+      "wheels": {
+        "parafields-0.3.0-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "/btXPpLueIkyesWBVcoZl2e5BvWkk6lkfZGhC8eJ3N4=",
+          "cp310"
+        ],
+        "parafields-0.3.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "httl79pLnSh2DJOScNKZ0WCMvjLZbmor1Bm/5Pe0piQ=",
+          "cp310"
+        ],
+        "parafields-0.3.0-cp310-cp310-win32.whl": [
+          "1ZBXNOZqAnSU0UCtCSjGK+CMJWGWFW/bIEKl8Fyz8FE=",
+          "cp310"
+        ],
+        "parafields-0.3.0-cp310-cp310-win_amd64.whl": [
+          "TjUS9SFDRhFlAY4gMNP3Smilg5mvjf8k7tS5dPIrY8s=",
+          "cp310"
+        ],
+        "parafields-0.3.0-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "PQYW0/DQmfCSv9syGQaMJZwxZzKAFMAeqPEaDezYPlw=",
+          "cp311"
+        ],
+        "parafields-0.3.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "iUsw75S/7K9HcAC40scWmgMT6oYYKFF/LR/6DP5gSsc=",
+          "cp311"
+        ],
+        "parafields-0.3.0-cp311-cp311-win32.whl": [
+          "q8/sGqdppCZ2Ht6C1arQKRynz/VTOD60IvB29YlTvTM=",
+          "cp311"
+        ],
+        "parafields-0.3.0-cp311-cp311-win_amd64.whl": [
+          "R5PN5dIjkhlGA0PWJlhWrFx4F4gSkvp3T/nmcNF5qp4=",
+          "cp311"
+        ],
+        "parafields-0.3.0-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "hf+SqaCU7zyypo9EcDpU8BAX2WqqFrR9DWdzu3UYnGU=",
+          "cp38"
+        ],
+        "parafields-0.3.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "qzJCBBRkZYbtcPQWsAHBW9iCXcNXl+C5OEyVtZftFyE=",
+          "cp38"
+        ],
+        "parafields-0.3.0-cp38-cp38-win32.whl": [
+          "3gsi9b+03LB19+cnY/1RdYX0zpEOkFcHwaKb1Cdm+FQ=",
+          "cp38"
+        ],
+        "parafields-0.3.0-cp38-cp38-win_amd64.whl": [
+          "Y2ANAvVXHlDJzIGHOXFI3VjlCUkXDOocBj8IcNrUJd8=",
+          "cp38"
+        ],
+        "parafields-0.3.0-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "0F1QjKcpzYflYZ7ivD08aMYZlsFwi84GMBPw/Z1jzl8=",
+          "cp39"
+        ],
+        "parafields-0.3.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "l5/WriPsZgcJMCgp3sNxNPgjsxJk8aEm1Dsal0gt0G4=",
+          "cp39"
+        ],
+        "parafields-0.3.0-cp39-cp39-win32.whl": [
+          "9M5iOmn0rddyV0AwLCaPSlxW7zJsFI0VWd0KCG4gcAg=",
+          "cp39"
+        ],
+        "parafields-0.3.0-cp39-cp39-win_amd64.whl": [
+          "vHwtX+b9oD+AUNMpkk+zscXMHCUmayGMZzvMjdKDAq4=",
           "cp39"
         ]
       }
@@ -134693,6 +134737,18 @@
           "py3"
         ]
       }
+    },
+    "0.7.12": {
+      "sdist": [
+        "To52EIbFjJ6uqRgzKiAqjZTnBTZz9stw8ynm6fHbYiM=",
+        "streamlit-lightweight-charts-0.7.12.tar.gz"
+      ],
+      "wheels": {
+        "streamlit_lightweight_charts-0.7.12-py3-none-any.whl": [
+          "R95TH/7Pw36AY2ntQopxlIdSrdAt6L8aYYkJxVgxJBo=",
+          "py3"
+        ]
+      }
     }
   },
   "streamtologger": {
@@ -152531,6 +152587,18 @@
           "py3"
         ]
       }
+    },
+    "1.1.0rc5": {
+      "sdist": [
+        "xP22ihY6E5YoE7XAifehEvCpCXhAoo2ZTtSc6PVH9pQ=",
+        "vegafusion-1.1.0rc5.tar.gz"
+      ],
+      "wheels": {
+        "vegafusion-1.1.0rc5-py3-none-any.whl": [
+          "fVe51IRVOmVn9tqnSePH/6mGAR7z9VovI43hFIZRtvE=",
+          "py3"
+        ]
+      }
     }
   },
   "ventoy-updater": {
@@ -160560,6 +160628,18 @@
       "sdist": [
         "GTSFlMRQmSnOKWqnxnrvvU2LLofs57+vCOFt7SIXibY=",
         "zcbot-celery-sdk-0.0.12.tar.gz"
+      ]
+    },
+    "0.0.13": {
+      "sdist": [
+        "cnDTH4AqsFHLaSeOCpjicLMe3YmjTOmNKZjEXSu0Gh8=",
+        "zcbot-celery-sdk-0.0.13.tar.gz"
+      ]
+    },
+    "0.0.14": {
+      "sdist": [
+        "8Z/wIXX4s5vlYv8jJAzRQSRszd49OuSWlSDy1vqm0aE=",
+        "zcbot-celery-sdk-0.0.14.tar.gz"
       ]
     },
     "0.0.2": {

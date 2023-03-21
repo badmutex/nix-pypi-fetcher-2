@@ -4736,6 +4736,18 @@
         ]
       }
     },
+    "0.21.2": {
+      "sdist": [
+        "w6q68l0vGFBcvA+2qYhdETgNJ3hKu2dzyfoPGNM9/+s=",
+        "anyforce-0.21.2.tar.gz"
+      ],
+      "wheels": {
+        "anyforce-0.21.2-py3-none-any.whl": [
+          "/+9uTuF4hLGnf2xxUiUwf4UBo/tkG8wFifDJQFACAiM=",
+          "py3"
+        ]
+      }
+    },
     "0.21.3": {
       "sdist": [
         "riVan0Ey7p66SP8DAnPvghB4woYwDFIO2gWPZV3KAD8=",
@@ -6188,6 +6200,18 @@
       "wheels": {
         "archimedes_python_client-4.17.0-py3-none-any.whl": [
           "3ras067QjUJ78xQeN0X80gIGoAcneIR8072oLvLwZuw=",
+          "py3"
+        ]
+      }
+    },
+    "4.17.1": {
+      "sdist": [
+        "Kf5m2EFb8Qy/cSJX2h13w0Yb4fCo7ErdRNVCuBVuAW0=",
+        "archimedes_python_client-4.17.1.tar.gz"
+      ],
+      "wheels": {
+        "archimedes_python_client-4.17.1-py3-none-any.whl": [
+          "6ok9p/3CpW+yrkouy1Rv9tabLo0zjVzVnToxK44fR0c=",
           "py3"
         ]
       }
@@ -18910,6 +18934,18 @@
       "wheels": {
         "binance_futures_connector-3.3.0-py3-none-any.whl": [
           "aXa084v5+SoT8Wt54zw8ciyOo7In5EVeNX9CA8nLxz0=",
+          "py3"
+        ]
+      }
+    },
+    "3.3.1": {
+      "sdist": [
+        "dRTo4b3nTNHxwElRXeALpvtsXZHgjxqE6GJo9aJ3fjE=",
+        "binance-futures-connector-3.3.1.tar.gz"
+      ],
+      "wheels": {
+        "binance_futures_connector-3.3.1-py3-none-any.whl": [
+          "Vr36gP01Ho3hPWkR6/BjGckDGE6xqpvRdaLJt27xrCU=",
           "py3"
         ]
       }
@@ -32092,6 +32128,20 @@
       "wheels": {
         "com.castsoftware.uc.arg-1.5.4-py3-none-any.whl": [
           "C5KcbPShy2juXjoXCst+BBt/+cWn7F401h5mP8o+1zg=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "comando-teste": {
+    "0.1.0": {
+      "sdist": [
+        "MQtoAEi05VpZ4rJBmpbau9bXjHeUjVyy6b++1l1P1V8=",
+        "comando_teste-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "comando_teste-0.1.0-py3-none-any.whl": [
+          "8CQw98BDBP+aQ5OxOaL6iokpwRV1SppW4en2Gj3/7Io=",
           "py3"
         ]
       }
@@ -82036,6 +82086,18 @@
     }
   },
   "lnschema-bionty": {
+    "0.10.0": {
+      "sdist": [
+        "jJW1RI22B3+fRLIBCXpq+pDh7s2eYcnwdmnTvq5iuF8=",
+        "lnschema_bionty-0.10.0.tar.gz"
+      ],
+      "wheels": {
+        "lnschema_bionty-0.10.0-py2.py3-none-any.whl": [
+          "SdCe4Qbfxbw/2Itcv9NYg+5RWiFLrvnr4CN5735E1nE=",
+          "py2.py3"
+        ]
+      }
+    },
     "0.2.0": {
       "sdist": [
         "2FGlXSx61k5epN+1nFZncjjkcRvNyCE0sFn6chcEXTA=",
@@ -82440,6 +82502,18 @@
       "wheels": {
         "lnschema_bionty-0.8.1-py2.py3-none-any.whl": [
           "0CbichUSfMDdCzKlRDFgcMmk5IFHLVRp2MyvE294Nt0=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.9.0": {
+      "sdist": [
+        "T/cW/JUKIgnOB4HkAr6XZkaHCnDEwHVf4Tbov7tIsIU=",
+        "lnschema_bionty-0.9.0.tar.gz"
+      ],
+      "wheels": {
+        "lnschema_bionty-0.9.0-py2.py3-none-any.whl": [
+          "+RQA0DPzp9+tnK2GwwFOsvszQ1E+71ILudvc96rxTBU=",
           "py2.py3"
         ]
       }
@@ -103546,6 +103620,14 @@
       "wheels": {
         "odoo12_addon_product_pricelist_direct_print-12.0.2.1.0.99.dev2-py3-none-any.whl": [
           "eH7wkXfT6KRMG2Gb1yHQPaKouTHvWABQP8BPl7MyVJk=",
+          "py3"
+        ]
+      }
+    },
+    "12.0.2.1.0.99.dev3": {
+      "wheels": {
+        "odoo12_addon_product_pricelist_direct_print-12.0.2.1.0.99.dev3-py3-none-any.whl": [
+          "OJdl/ZVaEww4kcDtMhDUIYaXD/iX/tXsdqf+cPFQhYM=",
           "py3"
         ]
       }
@@ -149219,6 +149301,20 @@
       }
     }
   },
+  "test-5-powerhouse-helper": {
+    "1": {
+      "sdist": [
+        "iq0P38xyBYnVsyHZYiY1dOByx5C8L1GZscjr4DNzIl0=",
+        "test_5_powerhouse_helper-1.tar.gz"
+      ],
+      "wheels": {
+        "test_5_powerhouse_helper-1-py3-none-any.whl": [
+          "5K3exffZfJc9x5/R11cFi90+7Y43nalHpkxcfe8Bs5Q=",
+          "py3"
+        ]
+      }
+    }
+  },
   "test-haha": {
     "0.1.0": {
       "sdist": [
@@ -159428,6 +159524,30 @@
       "wheels": {
         "volare-0.6.4-py3-none-any.whl": [
           "GtwlY86k0euV40BcYwk/FWzBmydRHZyhiGY67FZna1k=",
+          "py3"
+        ]
+      }
+    },
+    "0.7.0": {
+      "sdist": [
+        "KDEYZ2wmF5Y3OzPwgGE9xWTgOngIR8E45lL9MrA6ED8=",
+        "volare-0.7.0.tar.gz"
+      ],
+      "wheels": {
+        "volare-0.7.0-py3-none-any.whl": [
+          "7a2kKSmyza7v+gDiKRravRMcNzNRDffjBA9MLk2rD8o=",
+          "py3"
+        ]
+      }
+    },
+    "0.7.1": {
+      "sdist": [
+        "eaN+q6+QzbRZiN5BOLdlQpcD2J2X5qov+XXHPwz6kvA=",
+        "volare-0.7.1.tar.gz"
+      ],
+      "wheels": {
+        "volare-0.7.1-py3-none-any.whl": [
+          "xyVs5m4FtY/HGEUNIoZLr7XE/uq8gt8xW1iOHLQ/nNI=",
           "py3"
         ]
       }

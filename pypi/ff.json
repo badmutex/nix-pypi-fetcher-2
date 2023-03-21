@@ -91430,6 +91430,14 @@
         ]
       }
     },
+    "9.0.1.1.0.99.dev18": {
+      "wheels": {
+        "odoo9_addon_sale_exception-9.0.1.1.0.99.dev18-py2-none-any.whl": [
+          "tIgYGk7Nn8bRJ8rHCgf7aJEvTG4BU6lpssD77ODmfPU=",
+          "py2"
+        ]
+      }
+    },
     "9.0.1.1.0.99.dev2": {
       "wheels": {
         "odoo9_addon_sale_exception-9.0.1.1.0.99.dev2-py2-none-any.whl": [
@@ -95019,6 +95027,18 @@
           "py3"
         ]
       }
+    },
+    "5.2.0": {
+      "sdist": [
+        "YiYzbVtu4YhfBXtl2+3oTEqcXk5K51oOjn84PBY+xIA=",
+        "oslo.log-5.2.0.tar.gz"
+      ],
+      "wheels": {
+        "oslo.log-5.2.0-py3-none-any.whl": [
+          "P3PJbhzOmlS+JmY6dhbjBnvGWxEsR5FqwKZV13Cfjv8=",
+          "py3"
+        ]
+      }
     }
   },
   "osm-roads": {
@@ -97596,6 +97616,30 @@
       "wheels": {
         "pandas_stubs-1.5.3.230304-py3-none-any.whl": [
           "67VFMpEJ6YUQzfY1cHRJffvfYvFz2OyLVDBIZxY2Bjk=",
+          "py3"
+        ]
+      }
+    },
+    "1.5.3.230320": {
+      "sdist": [
+        "pvoKqErKf/r7jPbJZWjk5FkJgezldlsci71CYW5MNk4=",
+        "pandas_stubs-1.5.3.230320.tar.gz"
+      ],
+      "wheels": {
+        "pandas_stubs-1.5.3.230320-py3-none-any.whl": [
+          "VDCJfH7ZZ32fISdI4ptlcsn6gumnzLzC1hOM4xCnuHI=",
+          "py3"
+        ]
+      }
+    },
+    "1.5.3.230321": {
+      "sdist": [
+        "L6hg355gWOnw0sCbxxHAmruPBRbu5/C5+ZUNKbg1/G8=",
+        "pandas_stubs-1.5.3.230321.tar.gz"
+      ],
+      "wheels": {
+        "pandas_stubs-1.5.3.230321-py3-none-any.whl": [
+          "S/NrMHHdVfDlWKyO/gdnahIPLtieej3w+3jd8nM78kc=",
           "py3"
         ]
       }
@@ -123525,6 +123569,14 @@
           "py3"
         ]
       }
+    },
+    "0.1.1": {
+      "wheels": {
+        "recommendation_model_server-0.1.1-py3-none-any.whl": [
+          "1pxbkwvsS626Upf9sfwFBRWT7OAZzHX0Lk/XbXWpuLo=",
+          "py3"
+        ]
+      }
     }
   },
   "recurringical-events": {
@@ -148181,6 +148233,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.856": {
+      "sdist": [
+        "ZGB4+gPkgw0dfHiMdVqDF1SjCvv6JwVWwv7OcX3WPNk=",
+        "tencentcloud-sdk-python-ckafka-3.0.856.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_ckafka-3.0.856-py2.py3-none-any.whl": [
+          "8+V+YRP6CojD3FoBm9I+rn2BcbIyek4qqW+RhShw2zw=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tensorflow-datavalidation": {
@@ -148232,6 +148296,20 @@
       "wheels": {
         "terraform_named_cloudflare-0.0.2-py3-none-any.whl": [
           "m3MRh+rq+a+0eho/VKmI1ZT7oOX70Rn8Gx0FfbFsycc=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "test-6-powerhouse-helper": {
+    "1": {
+      "sdist": [
+        "gDu/TDk4PvjX5uuH7xvcHaCRdDstZ8Ibjn2PV5rOqgI=",
+        "test_6_powerhouse_helper-1.tar.gz"
+      ],
+      "wheels": {
+        "test_6_powerhouse_helper-1-py3-none-any.whl": [
+          "23zKx5hsiUFSx/i8QlEBJ3VO7bW+XMFifMONV30nqeY=",
           "py3"
         ]
       }

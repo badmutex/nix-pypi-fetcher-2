@@ -12621,6 +12621,14 @@
           "py3"
         ]
       }
+    },
+    "1.49.1": {
+      "wheels": {
+        "azureml_automl_dnn_vision-1.49.1-py3-none-any.whl": [
+          "mIntWcpaEdBpE/iEJ0WM5JXR0MJYBsJVvphpWrGH6/o=",
+          "py3"
+        ]
+      }
     }
   },
   "azureml-inference-server-http": {
@@ -12868,6 +12876,14 @@
       "wheels": {
         "azureml_inference_server_http-0.8.1-py3-none-any.whl": [
           "XTUJISs47vcrp0bHJAxr65z9roQHJiWisNw+KC2PBys=",
+          "py3"
+        ]
+      }
+    },
+    "0.8.2": {
+      "wheels": {
+        "azureml_inference_server_http-0.8.2-py3-none-any.whl": [
+          "aj3W3oJoK6/iaW5kSnThgnr8N58D9cJEcpuPoeDwOF8=",
           "py3"
         ]
       }
@@ -17260,6 +17276,18 @@
       "wheels": {
         "botocore_a_la_carte_cloud9-1.29.94-py3-none-any.whl": [
           "spXoGOgBLV3WzcakD7tLJ2wKjGH/0+DJjM/S1FOx+KY=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.95": {
+      "sdist": [
+        "PMPdCwK9rv6qIiTBfgAnljRA/68V+Ktqru0Ck8wd/7Q=",
+        "botocore-a-la-carte-cloud9-1.29.95.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_cloud9-1.29.95-py3-none-any.whl": [
+          "5eadQg85acW+SILGtTxKVN/AFXGsDje1de975Ikbjoo=",
           "py3"
         ]
       }
@@ -44826,6 +44854,18 @@
       "wheels": {
         "flytekitplugins_vaex-1.4.2b0-py3-none-any.whl": [
           "Y1tCA23RKLu5fn9hdQ/QEwqHlzwKekYPaz6PJ16Fu8M=",
+          "py3"
+        ]
+      }
+    },
+    "1.5.0b0": {
+      "sdist": [
+        "6cSLQRz+fJnU/qr+6RFNDbx0vLZzHKYHhPb98TIeWqE=",
+        "flytekitplugins-vaex-1.5.0b0.tar.gz"
+      ],
+      "wheels": {
+        "flytekitplugins_vaex-1.5.0b0-py3-none-any.whl": [
+          "hXrRxIEhimRjehbWcM3EOIxKdRh7WnFWJyLchgnubSY=",
           "py3"
         ]
       }
@@ -82246,6 +82286,18 @@
         ]
       }
     },
+    "1.12.0": {
+      "sdist": [
+        "xUW+6D/lUty+jfJ99zkjkDRMKxHkUdr20inodiW2zlw=",
+        "ndtiff-1.12.0.tar.gz"
+      ],
+      "wheels": {
+        "ndtiff-1.12.0-py3-none-any.whl": [
+          "tw/HOrnjhSNNg129UDnaO6ENfeSdyS5WyfESIp5svfY=",
+          "py3"
+        ]
+      }
+    },
     "1.2.1": {
       "sdist": [
         "RK+A9spRCqKDQreig3RxvFebLEBf3YLamw1K3n8Nzfk=",
@@ -96946,6 +96998,32 @@
       "wheels": {
         "pipeline_data-1.2.2-py3-none-any.whl": [
           "128PcwIJsMXkJAyqCVzEnnPOwExYf2/sCscs7uxAPIY=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "pipen-cli-config": {
+    "0.0.0": {
+      "sdist": [
+        "Z9vUAEmM//Rg9lMjMTh1qAQhbyOtMDsuOtrgTPgK+FQ=",
+        "pipen_cli_config-0.0.0.tar.gz"
+      ],
+      "wheels": {
+        "pipen_cli_config-0.0.0-py3-none-any.whl": [
+          "ub6KZoYF3eUWalatmau25pMqkXd6QaFMAmekv/ulnYo=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.1": {
+      "sdist": [
+        "jq6snA3DloY1P5G0KKI36QcQFcbsAEImvNFRJ7FXFsU=",
+        "pipen_cli_config-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "pipen_cli_config-0.0.1-py3-none-any.whl": [
+          "TyCuK4VMqGvlSjjHjscdz16n1PVTl0oqhwSAuB0ynnU=",
           "py3"
         ]
       }
@@ -113933,6 +114011,20 @@
       }
     }
   },
+  "qlik-test-yuri": {
+    "0.1.1": {
+      "sdist": [
+        "1SqiAa98qv/NaRYDqTx0BBQaihH0RSk5gz7LnvQyMZ0=",
+        "qlik_test_yuri-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "qlik_test_yuri-0.1.1-py3-none-any.whl": [
+          "LpAU6bGB3gngvdP72IVtLfCTkrRma9MsECWw0hTkOv8=",
+          "py3"
+        ]
+      }
+    }
+  },
   "qpay": {
     "0.0.1": {
       "sdist": [
@@ -114992,6 +115084,18 @@
       "wheels": {
         "randwalk-0.2-py3-none-any.whl": [
           "yuPWtQ+dyZgAR7kIQuTFIG1W5XcN0RJcbBplGTr4llc=",
+          "py3"
+        ]
+      }
+    },
+    "0.3": {
+      "sdist": [
+        "VAtReiHg9/p2xl61eQPOJAZQU0dRoVyNlw+w3G1Dsik=",
+        "randwalk-0.3.tar.gz"
+      ],
+      "wheels": {
+        "randwalk-0.3-py3-none-any.whl": [
+          "OfyfOvstQg4KEqwrkJUeRajaFy6/pGRB8XfT+ZCqnFo=",
           "py3"
         ]
       }

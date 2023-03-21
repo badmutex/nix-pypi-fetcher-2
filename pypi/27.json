@@ -14315,6 +14315,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.95": {
+      "sdist": [
+        "xAPQhwZ+srY8o8huLL3K8iHWpp9FwMXa1Pg2VsKn5is=",
+        "botocore-a-la-carte-lexv2-models-1.29.95.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_lexv2_models-1.29.95-py3-none-any.whl": [
+          "8F6thJmrAzlN13firByOG7OKtp3k5+Wtuy9bYHq2qmA=",
+          "py3"
+        ]
+      }
     }
   },
   "botterino": {
@@ -32286,6 +32298,18 @@
       "wheels": {
         "documenteer-0.7.2-py3-none-any.whl": [
           "55a9QpzIxGdOLxAJaY3gc32H8QBxrnKWYj0I0AYlYF0=",
+          "py3"
+        ]
+      }
+    },
+    "0.7.3": {
+      "sdist": [
+        "SEESzcTsYheT5cemvywc9+pVRFFOFuugBe8Y0pahC50=",
+        "documenteer-0.7.3.tar.gz"
+      ],
+      "wheels": {
+        "documenteer-0.7.3-py3-none-any.whl": [
+          "dKrEsz4PskpBtR6QuFpNZlxU3caANNZ066OEdoixsy4=",
           "py3"
         ]
       }
@@ -99446,6 +99470,12 @@
         "peaqevcore-13.2.3.tar.gz"
       ]
     },
+    "13.3.0": {
+      "sdist": [
+        "1faEVqSGhRr+CaRHgZMS093fSC3hBgK2CX0oCxAIjCU=",
+        "peaqevcore-13.3.0.tar.gz"
+      ]
+    },
     "2.0.0": {
       "sdist": [
         "ctkBzwZ5Caba1JucxCKF7kJs/eZHJz4YSrV3tNyTEXU=",
@@ -106665,6 +106695,12 @@
         "fDIBy8Gkc7IKvsU4c8fxSBRSvUo3mQ3GudUe7KGv/TY=",
         "pulumi_akamai-4.3.0a1678125608.tar.gz"
       ]
+    },
+    "4.4.0a1679333660": {
+      "sdist": [
+        "zOVIX/LQBO2xSfzLVlMb0jCnylq6zCH23l0KY2pXAQM=",
+        "pulumi_akamai-4.4.0a1679333660.tar.gz"
+      ]
     }
   },
   "pulumi-aws-lambdaedge": {
@@ -107894,14 +107930,26 @@
     }
   },
   "pydantic-meta": {
-    "0.1.0": {
+    "0.2.0": {
       "sdist": [
-        "PRz80ieDf1duu64RhAvhYhlC1xHu2BOLsGNWqXhAuhA=",
-        "pydantic_meta-0.1.0.tar.gz"
+        "qkjhggZ9RDTpxwrb32jw3NUpAneF9CRMidw3C9cC6qw=",
+        "pydantic_meta-0.2.0.tar.gz"
       ],
       "wheels": {
-        "pydantic_meta-0.1.0-py3-none-any.whl": [
-          "2Z4ZJ1HddlallYqrVgPC6uJ3Y3RElvjDchXCNQlYj8o=",
+        "pydantic_meta-0.2.0-py3-none-any.whl": [
+          "UFyXnN9TFFK2rFkQyI4r5doQtSX3lnxXoKuGWAeeb4Y=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.0": {
+      "sdist": [
+        "UFxYAgB1Tjacjzcb9XhV+Hjko5prg+pDFGb4B/r35Bo=",
+        "pydantic_meta-0.3.0.tar.gz"
+      ],
+      "wheels": {
+        "pydantic_meta-0.3.0-py3-none-any.whl": [
+          "zlNA+U9f7mF4kTYklAhmGzkjSKV4Ke1fuicoP9EuMmA=",
           "py3"
         ]
       }
@@ -124227,6 +124275,174 @@
           "py3"
         ]
       }
+    },
+    "0.8.2": {
+      "sdist": [
+        "aXy6g67o0GCDrzOtdXidM8sCJXahKNt8w+HIY6GE3kw=",
+        "shepard-0.8.2.tar.gz"
+      ],
+      "wheels": {
+        "shepard-0.8.2-py3-none-any.whl": [
+          "UqNFEhurfmsYm9KXyqR30bBZTsdkEPQXAMpWeyNoha0=",
+          "py3"
+        ]
+      }
+    },
+    "0.8.4": {
+      "sdist": [
+        "SCdReeSV/nRFxoIHxw47kwKD98XAbrJSPrz89BSYiQI=",
+        "shepard-0.8.4.tar.gz"
+      ],
+      "wheels": {
+        "shepard-0.8.4-py3-none-any.whl": [
+          "nXwr9/7Y+AWjXucPxcc+8KKE8RxrGKgI8y4eFWKElX0=",
+          "py3"
+        ]
+      }
+    },
+    "0.8.5": {
+      "sdist": [
+        "F1EqfOIZut/RSDtdIFVPJINhYUIYsPtJ6Or1SJ9NqRM=",
+        "shepard-0.8.5.tar.gz"
+      ],
+      "wheels": {
+        "shepard-0.8.5-py3-none-any.whl": [
+          "5LL2NIX8dpyqpGGP/bgexICKTr5zv0YeVyG9ur7atS4=",
+          "py3"
+        ]
+      }
+    },
+    "0.8.6": {
+      "sdist": [
+        "rd3jnnHuX8wj0QcTVaO5ASFwOU9OV4t7tHSwT6B3vz8=",
+        "shepard-0.8.6.tar.gz"
+      ],
+      "wheels": {
+        "shepard-0.8.6-py3-none-any.whl": [
+          "bI7k7xzGGLcqLxnHHl5flzSnkcw558Bq7ndpHHjNE/g=",
+          "py3"
+        ]
+      }
+    },
+    "0.8.7": {
+      "sdist": [
+        "MhJoX9TYt19MIRD8NP4ExXcNLix2sqMdiddO9mIuMsA=",
+        "shepard-0.8.7.tar.gz"
+      ],
+      "wheels": {
+        "shepard-0.8.7-py3-none-any.whl": [
+          "M+xgMBOSMp9IMOYOBqTft8CiVci9pDdxhQfM/lEX/3E=",
+          "py3"
+        ]
+      }
+    },
+    "0.8.8": {
+      "sdist": [
+        "Y6gGGSdPRzxs62/Gr8MAVqcaixrIRNfM2PgkPEpr4jE=",
+        "shepard-0.8.8.tar.gz"
+      ],
+      "wheels": {
+        "shepard-0.8.8-py3-none-any.whl": [
+          "2i1rUz1ARvkyTfJ0EZ/CerzCJbnlHeXqr6zgiDfQcIY=",
+          "py3"
+        ]
+      }
+    },
+    "0.8.9": {
+      "sdist": [
+        "B/cbNTYJvImm8uTHfXyUcr3L71vmDJK0odBut3NZhOs=",
+        "shepard-0.8.9.tar.gz"
+      ],
+      "wheels": {
+        "shepard-0.8.9-py3-none-any.whl": [
+          "VH2qU/bB2xKQV/vA5DrA8iGjZgZGmK1NLV8TNY4Vrvk=",
+          "py3"
+        ]
+      }
+    },
+    "0.9.0": {
+      "sdist": [
+        "b9Olf+rPyfKoppjFXJ9mfdPC86FEhoLrb8dVyBeY3ao=",
+        "shepard-0.9.0.tar.gz"
+      ],
+      "wheels": {
+        "shepard-0.9.0-py3-none-any.whl": [
+          "GkBRr9zUZ3pd5M9oC/jEedVE1uy1VQIMNYq510Xq4Os=",
+          "py3"
+        ]
+      }
+    },
+    "0.9.1": {
+      "sdist": [
+        "fLZzGB8v4ogPsB1aHCZqGJOdAp4iFp3Ditn3t0HONNk=",
+        "shepard-0.9.1.tar.gz"
+      ],
+      "wheels": {
+        "shepard-0.9.1-py3-none-any.whl": [
+          "Wf4M4MgMSokgDzJlI2hPeZE2xP8edGh/omXrdideNaw=",
+          "py3"
+        ]
+      }
+    },
+    "0.9.2": {
+      "sdist": [
+        "QqgkXjO00rz0DtBDzUKfKD+hEzC6lCam1bjnFwRInRk=",
+        "shepard-0.9.2.tar.gz"
+      ],
+      "wheels": {
+        "shepard-0.9.2-py3-none-any.whl": [
+          "QpANUfz2dSkB4WPEMF3U4wZ4BgvxDtwyumHbp3pJSXk=",
+          "py3"
+        ]
+      }
+    },
+    "0.9.3": {
+      "sdist": [
+        "QxwoPtlZB2Ys7+hSIwREiTViLl3gdmPHI+PCYDJ3Q0g=",
+        "shepard-0.9.3.tar.gz"
+      ],
+      "wheels": {
+        "shepard-0.9.3-py3-none-any.whl": [
+          "eUlHhXlECcbptY9RAUIoVE9mLDgWms3HvUtU1Bv/obU=",
+          "py3"
+        ]
+      }
+    },
+    "0.9.4": {
+      "sdist": [
+        "jcWnu2k+YDdW8o/NHQxnHzFjRrScp+r2xXFod/srNts=",
+        "shepard-0.9.4.tar.gz"
+      ],
+      "wheels": {
+        "shepard-0.9.4-py3-none-any.whl": [
+          "bUEUNFs+MtJlH+28CwaysRqfXzZWYZM8x3Z2uk1F5MU=",
+          "py3"
+        ]
+      }
+    },
+    "0.9.5": {
+      "sdist": [
+        "LbS/2dzqe5K3BkvvoLsZ+GVAn1HUxj4fkKXFBX94EwI=",
+        "shepard-0.9.5.tar.gz"
+      ],
+      "wheels": {
+        "shepard-0.9.5-py3-none-any.whl": [
+          "kkS17QbmItGvJNmIJgM4SP8oBKkJJQmtb51w+aLU1Xs=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.0": {
+      "sdist": [
+        "gVuv4DVMZ9Nvxq2XRbZwRPX3a1wiNgCUwTeMuxMS3as=",
+        "shepard-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "shepard-1.0.0-py3-none-any.whl": [
+          "wR5l5JTPi0iEB5biudLSqjeI6dYvSbyg3X/jT3TZ824=",
+          "py3"
+        ]
+      }
     }
   },
   "shinkenplugins.plugins.redis": {
@@ -131787,6 +132003,32 @@
         "teed-0.0.6-py2.py3-none-any.whl": [
           "/FaelSPfO099sGazOeUtvYlJxSav0QJDLLl2igjvT3E=",
           "py2.py3"
+        ]
+      }
+    }
+  },
+  "telegram-botty": {
+    "0.1.0": {
+      "sdist": [
+        "QJTbi0VFZnrmPSZPrrwV9eKHOAjfHot2f1An4628MU4=",
+        "telegram-botty-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "telegram_botty-0.1.0-py3-none-any.whl": [
+          "aMtU0EcCQ5WCByTb8gWjLTRnu1F7UzEGwtu/WQOIDmo=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "vgRF02ZR7jB9lyYq2EYpHhPRi1zxmpZUWm/IB4Va8gk=",
+        "telegram-botty-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "telegram_botty-0.1.1-py3-none-any.whl": [
+          "q8rSY1Uhb+VIrYLUSOalISTMWsZtcaQ2DGIwX/MPkjo=",
+          "py3"
         ]
       }
     }

@@ -14631,6 +14631,18 @@
           "py3"
         ]
       }
+    },
+    "1.4.2": {
+      "sdist": [
+        "2JyTxqsIhax1K8SZFmrnv/gJqt2F5yRmMvolAeOK+AM=",
+        "bme-1.4.2.tar.gz"
+      ],
+      "wheels": {
+        "bme-1.4.2-py3-none-any.whl": [
+          "O5EHOamX/5z0obCgi0ADj2bNUufUbHFpb6w81aJSK8I=",
+          "py3"
+        ]
+      }
     }
   },
   "bob.bio.vein": {
@@ -17674,6 +17686,12 @@
       "sdist": [
         "CLJY3PHQcCqUE2WKo6Zf3dEBFKwXy9FCjpDVwd+bgj8=",
         "cellar_extractor-1.0.42.tar.gz"
+      ]
+    },
+    "1.0.43": {
+      "sdist": [
+        "C/AFeczMfXpf6ooU92/nOmDzuMboFbRmSWf6jSr4Kh0=",
+        "cellar_extractor-1.0.43.tar.gz"
       ]
     }
   },
@@ -55289,6 +55307,18 @@
           "py3"
         ]
       }
+    },
+    "1.9.1": {
+      "sdist": [
+        "2f8CkfhZcdvAKcIurUZZUoEOSKbUmt7zlhCcDaRzCLs=",
+        "gapic-generator-1.9.1.tar.gz"
+      ],
+      "wheels": {
+        "gapic_generator-1.9.1-py3-none-any.whl": [
+          "Nujg8U3tqLtnfOLOkQK2A5MGM3psL0QdicpCgI5yn9Q=",
+          "py3"
+        ]
+      }
     }
   },
   "gapic-google-maps-streetview-publish-v1": {
@@ -59122,6 +59152,26 @@
       "wheels": {
         "graphql_query-1.0.1-py3-none-any.whl": [
           "qPdOmlr2WUqtX96P4ns+7GFub/d3ySrDlz5R1Tt04lc=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.2": {
+      "wheels": {
+        "graphql_query-1.0.2-py3-none-any.whl": [
+          "3C8rXRlOdpDxfC7WrdmfUKVJk1I/vV8u76zY+0Vt2M8=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.3": {
+      "sdist": [
+        "lhFx7E+eGCpBoTRv7DbgrpMOh8vgCWtgkYpWJ3FJPXI=",
+        "graphql_query-1.0.3.tar.gz"
+      ],
+      "wheels": {
+        "graphql_query-1.0.3-py3-none-any.whl": [
+          "JXQt3MsRLExUH5nICVG1dDwpnqENafRDQAcSytgRyYE=",
           "py3"
         ]
       }
@@ -89697,6 +89747,20 @@
       }
     }
   },
+  "multihgtest": {
+    "0.0.2": {
+      "sdist": [
+        "zDwLa833yc9C/eVQYq3VMj8zD9s7t4shwq9DO/4Vc0A=",
+        "multiHGtest-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "multiHGtest-0.0.2-py3-none-any.whl": [
+          "agj7YRqxiq1WS7lDsn5QV94wmAR6WPbQiA35lZdyno0=",
+          "py3"
+        ]
+      }
+    }
+  },
   "multiplicationtablelib": {
     "0.1.0": {
       "sdist": [
@@ -94474,6 +94538,18 @@
       "wheels": {
         "neptune-1.1.0rc0-py3-none-any.whl": [
           "FfG3D3gGPwFBfBB1N2/X73V1DpvzLhPc3edrUiHgNPY=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.1": {
+      "sdist": [
+        "6sDoDoxOFEs/WINONqRpzIUvZ6lfQC31EaA5vx15erA=",
+        "neptune-1.1.1.tar.gz"
+      ],
+      "wheels": {
+        "neptune-1.1.1-py3-none-any.whl": [
+          "gwU6qil/oYJ+DOF9UzKUuEpTphUi9TN+gMhegnVJtLo=",
           "py3"
         ]
       }
@@ -144508,6 +144584,18 @@
         ]
       }
     },
+    "0.11.5": {
+      "sdist": [
+        "TCm5/sfh0VBhJlGkuSzrM5AOIuUcnrbyqvJSX5pd8os=",
+        "titiler.mosaic-0.11.5.tar.gz"
+      ],
+      "wheels": {
+        "titiler.mosaic-0.11.5-py3-none-any.whl": [
+          "DjC3EbsjWDjSKNAObPAQnq3xzolgG+nKLUB7Vo//L8M=",
+          "py3"
+        ]
+      }
+    },
     "0.3.0": {
       "sdist": [
         "HIFnbt2oXE8D1w5+eolphwqcJAJ53w1PfqhIiyqhJ74=",
@@ -155638,6 +155726,34 @@
       "wheels": {
         "yizhi_zhushi_zhao_ni_de_shi_duo_tianshi_20170209-2023.2.20.0-py3-none-any.whl": [
           "6muc93qzSo/OQKT+qp4Of28snf1g9X6zsysvIdRKLO0=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "yolo-v79": {
+    "0.0.1": {
+      "sdist": [
+        "MACzG/9pzBflfhT7xmN+/tF/6efEo9zVPtQ2C91w7Yg=",
+        "yolo-v79-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "yolo_v79-0.0.1-py3-none-any.whl": [
+          "65bppyZKMUPGtTBrzlFNE9sJ37XIc0gs1rQvYcuKudQ=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "yolo-v89": {
+    "0.0.1": {
+      "sdist": [
+        "E1MZPxz+XCZx96+rdse5qMJ5oYLCm3yfp8yayKSkW1Q=",
+        "yolo-v89-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "yolo_v89-0.0.1-py3-none-any.whl": [
+          "+XHUF/W2u1vEh0Zl4YdoWMuuF+DplozLkb2U3qaOxCc=",
           "py3"
         ]
       }

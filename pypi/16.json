@@ -18281,6 +18281,18 @@
           "py3"
         ]
       }
+    },
+    "0.4.0": {
+      "sdist": [
+        "TxoKEtKz0KRTfR05rDcUiiHZ9nf3fCvmTrRcMjIbtkQ=",
+        "caoscrawler-0.4.0.tar.gz"
+      ],
+      "wheels": {
+        "caoscrawler-0.4.0-py3-none-any.whl": [
+          "F5H+PZZB0KASLMystiC45zO6ih7ZZFVkvAufRlF1dus=",
+          "py3"
+        ]
+      }
     }
   },
   "capivara-grupo1": {
@@ -19296,6 +19308,18 @@
       "wheels": {
         "cdklabs.cdk_ethereum_node-0.0.147-py3-none-any.whl": [
           "tiq81MGKKICi64drB44snMptr7w/Pt+XpnlNtq4bZVo=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.148": {
+      "sdist": [
+        "yaLZC8dyxIDpUSQx6R1Q+OT/4PXehuutjebsBJaGIIY=",
+        "cdklabs.cdk-ethereum-node-0.0.148.tar.gz"
+      ],
+      "wheels": {
+        "cdklabs.cdk_ethereum_node-0.0.148-py3-none-any.whl": [
+          "gkwAVJ8HpJjBM5i1fbzt2B95WlC9cYJw139+Y4zcCNg=",
           "py3"
         ]
       }
@@ -31592,6 +31616,14 @@
       "wheels": {
         "cryptodataset-0.3.5-py3-none-any.whl": [
           "9dOlwGAE+AobWqvUAmOoNUJ4xrJmVS3LpPVr4Wujscc=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.7": {
+      "wheels": {
+        "cryptodataset-0.3.7-py3-none-any.whl": [
+          "+WgWLwMsoYVCaK/oWrOfNaCRYef/tXDWQaNdQfv9ZHM=",
           "py3"
         ]
       }
@@ -44898,6 +44930,74 @@
         ],
         "faust_streaming-0.10.5-cp39-cp39-musllinux_1_1_x86_64.whl": [
           "196VxqqdtWlFdcghdggibqviBCZvDl0Et9ZgOVnKULs=",
+          "cp39"
+        ]
+      }
+    },
+    "0.10.6": {
+      "sdist": [
+        "vRJ0TH++TtojMbXPLtZY7IDLx4CNcw1KwVNHdF3WNP0=",
+        "faust-streaming-0.10.6.tar.gz"
+      ],
+      "wheels": {
+        "faust_streaming-0.10.6-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "q6BSejTtuUzbVKVB0HokLd69Jj19ZahkPs9Ge02PPGc=",
+          "cp310"
+        ],
+        "faust_streaming-0.10.6-cp310-cp310-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "tX2gU52XIQ0jnHNbT4v3hH/8NBOrsp4J9AFb/dpuv8w=",
+          "cp310"
+        ],
+        "faust_streaming-0.10.6-cp310-cp310-musllinux_1_1_x86_64.whl": [
+          "odSSqsO+JzCdD4rreJ68O1IhygYie9/USXIS2ga6YGM=",
+          "cp310"
+        ],
+        "faust_streaming-0.10.6-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "P3L0UAuYg5ppB05kfAYZbJaL/aIMzmXYVszpcz6NLkM=",
+          "cp311"
+        ],
+        "faust_streaming-0.10.6-cp311-cp311-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "kBVbJ7Die59IGoI0be9+HYGvWqGoSgsmzBPTYCQN7O4=",
+          "cp311"
+        ],
+        "faust_streaming-0.10.6-cp311-cp311-musllinux_1_1_x86_64.whl": [
+          "0PeVUncAUWnopKhkRVNDFsyDb6htAuYoMjxE+MCF2/0=",
+          "cp311"
+        ],
+        "faust_streaming-0.10.6-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "a3P8FFraG51Fg+NVarl48Z3PrTfctxiC9iNr37CP3ss=",
+          "cp37"
+        ],
+        "faust_streaming-0.10.6-cp37-cp37m-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "kvEYsbIQRlFxeqsylWn3i/JpKbPghNgpJtadxAeyg3A=",
+          "cp37"
+        ],
+        "faust_streaming-0.10.6-cp37-cp37m-musllinux_1_1_x86_64.whl": [
+          "IFZ0W+DW3N0P7GC4Jc/H89gjIQNcjSiX/2/3IA7rZL0=",
+          "cp37"
+        ],
+        "faust_streaming-0.10.6-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "9RqfSND7sqNd1i7B5C601I0NbwQpg3tYrD8AFL0xko8=",
+          "cp38"
+        ],
+        "faust_streaming-0.10.6-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "C0DbQKbpEtiZEhYntTXI09XTfCzEWLPh67ZjjQICou0=",
+          "cp38"
+        ],
+        "faust_streaming-0.10.6-cp38-cp38-musllinux_1_1_x86_64.whl": [
+          "SjPsxxgHjemP5KfEiPBz0H1fCnYDv3ldfmfXgTycrC4=",
+          "cp38"
+        ],
+        "faust_streaming-0.10.6-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "eUPWiTEEUf10Ud+UiV32H0lLSIWfN9XpIHyec5Dhlxk=",
+          "cp39"
+        ],
+        "faust_streaming-0.10.6-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "A1xySjU42RgcFZZc3UXw19rOCBUwXlEZa+3CXFTLidI=",
+          "cp39"
+        ],
+        "faust_streaming-0.10.6-cp39-cp39-musllinux_1_1_x86_64.whl": [
+          "foqIPPPy/3d7ywCgi+rH9trtKy84hU3QezJLxYkq21Q=",
           "cp39"
         ]
       }
@@ -85655,6 +85755,18 @@
           "py3"
         ]
       }
+    },
+    "1.1.1": {
+      "sdist": [
+        "p29/AzjUmyDPiQobd9axNG5je7rbmEyE5p9h2VR+a4c=",
+        "neptune_client-1.1.1.tar.gz"
+      ],
+      "wheels": {
+        "neptune_client-1.1.1-py3-none-any.whl": [
+          "yD36pWD2ZcjTsvZcNLGdQUXxvMsa0FgE4efYdViyVCU=",
+          "py3"
+        ]
+      }
     }
   },
   "nereo-python-cas": {
@@ -100888,6 +101000,14 @@
       "wheels": {
         "ppasr-2.4.4-py3-none-any.whl": [
           "MlDoNKokXxaLm5PuOVnWCpG6GSBqA4aElfGg78STodI=",
+          "py3"
+        ]
+      }
+    },
+    "2.4.5": {
+      "wheels": {
+        "ppasr-2.4.5-py3-none-any.whl": [
+          "NSnBQB7cBdTzMBoNck//RQWTHwcmk3gIKkJfprx+EpE=",
           "py3"
         ]
       }
@@ -119598,6 +119718,86 @@
         ],
         "reloadium-1.0.0-py3-none-any.whl": [
           "KVrtdvRam8a7QgT8cBpRdV1ShRa1zoLQUq1KIsXOisk=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.1": {
+      "wheels": {
+        "reloadium-1.0.1-cp310-cp310-macosx_10_15_x86_64.whl": [
+          "oxZz9Nhudm8Yy2Qo6hEj36JtVAd5j76j/xt/P5UhiQk=",
+          "cp310"
+        ],
+        "reloadium-1.0.1-cp310-cp310-macosx_12_0_arm64.whl": [
+          "9rIEU3garkDet25i5gSok/hj5UvsjCCA+6mzTxnDUxw=",
+          "cp310"
+        ],
+        "reloadium-1.0.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ty9GmgnEd8A9/oGHLVEyaHuzR41I02PPkEB1HpEIAP8=",
+          "cp310"
+        ],
+        "reloadium-1.0.1-cp310-cp310-win_amd64.whl": [
+          "EdYz+qbHkALKNvs2R6XQ3BVCPYA5mAf1mf6vsgsC8pQ=",
+          "cp310"
+        ],
+        "reloadium-1.0.1-cp311-cp311-macosx_11_0_universal2.whl": [
+          "bUwkGmkBVjASafc+Z8B05GHLBSuK3Pmhy0l+ZycCHdQ=",
+          "cp311"
+        ],
+        "reloadium-1.0.1-cp311-cp311-macosx_12_0_arm64.whl": [
+          "9mH+GZwQWYDBO5rp+/036dGGGxUsa7+JUM90OFlMO30=",
+          "cp311"
+        ],
+        "reloadium-1.0.1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "HL5GrEGytiLJPK+RQC9o6ws0gSxcmTcciZ3rau3N5ec=",
+          "cp311"
+        ],
+        "reloadium-1.0.1-cp311-cp311-win_amd64.whl": [
+          "RtyE+BIxglmONaZDtMOk3s9jORBLZW/mTGUJL0riE8M=",
+          "cp311"
+        ],
+        "reloadium-1.0.1-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "LczPqNEJkHKZl8zUxVRJiOKF8mduFwLKV8Dox2pEl9I=",
+          "cp37"
+        ],
+        "reloadium-1.0.1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "dPtTIDnzO/Uo00URGV7rW5FgZAxBskVrim+q14CukZs=",
+          "cp37"
+        ],
+        "reloadium-1.0.1-cp37-cp37m-win_amd64.whl": [
+          "xUm8fgfHAIr9Kr5S/gwgTAZQpnz0MfFwccSM7ufjOrs=",
+          "cp37"
+        ],
+        "reloadium-1.0.1-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "XM7FbRvhubZez5/Lih/+cjBSjSVEziIy+GLYnPdp3fg=",
+          "cp38"
+        ],
+        "reloadium-1.0.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "0l5Lz15s8w29rPm+cX06pD4gg7TmptFpijISF3Q0+GM=",
+          "cp38"
+        ],
+        "reloadium-1.0.1-cp38-cp38-win_amd64.whl": [
+          "eOAXVVNM7cO1lC+0ai47wP3k4FsgCQqIQFgwwhfhqE8=",
+          "cp38"
+        ],
+        "reloadium-1.0.1-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "c1x+BRpofWsu6lT2eiXC+2s8mcqZxVwSmkDACZMM0Oc=",
+          "cp39"
+        ],
+        "reloadium-1.0.1-cp39-cp39-macosx_12_0_arm64.whl": [
+          "OQJ6fNGzBxpXnEIFZ3/+4F6fRVV3YxHGS8NfiIFP5Yk=",
+          "cp39"
+        ],
+        "reloadium-1.0.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "/SiUDg4YCJ9tVhLloVLVxUDhhx6G+LjSw8EOnInOm5E=",
+          "cp39"
+        ],
+        "reloadium-1.0.1-cp39-cp39-win_amd64.whl": [
+          "r85OH2Igb3FVkr7oFk3ePed2wRaVQRAUq3VvY3nZtOM=",
+          "cp39"
+        ],
+        "reloadium-1.0.1-py3-none-any.whl": [
+          "LRyqebymSZqz3JTCkvbAzvuzUSLqDrMH5jDjijtMC8Q=",
           "py3"
         ]
       }
@@ -160702,6 +160902,12 @@
       "sdist": [
         "8Z/wIXX4s5vlYv8jJAzRQSRszd49OuSWlSDy1vqm0aE=",
         "zcbot-celery-sdk-0.0.14.tar.gz"
+      ]
+    },
+    "0.0.15": {
+      "sdist": [
+        "sU9weqNwG5/SUfdRRTWIE7m2nsiK24k4eOX+lo5c2cE=",
+        "zcbot-celery-sdk-0.0.15.tar.gz"
       ]
     },
     "0.0.2": {

@@ -58153,6 +58153,30 @@
           "cp37"
         ]
       }
+    },
+    "0.2.7": {
+      "sdist": [
+        "hYlX7xNvQk8eFvuqozMyd7sariXvYY7LF7QJsIrO82M=",
+        "libertem_dectris-0.2.7.tar.gz"
+      ],
+      "wheels": {
+        "libertem_dectris-0.2.7-cp37-abi3-macosx_11_0_arm64.whl": [
+          "nJY4iH6nTsZGkubegmqf5YscOIV/qJpy71ZPrTqLQyo=",
+          "cp37"
+        ],
+        "libertem_dectris-0.2.7-cp37-abi3-macosx_11_0_x86_64.whl": [
+          "CL7jdZJJYdF2FVM2Gd2/LkvsFxqnZskq5Yx09I+kTeU=",
+          "cp37"
+        ],
+        "libertem_dectris-0.2.7-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "JXgGq0nDF078RnxXW6lePTdVenuRQg3F1yFVQGzYE+s=",
+          "cp37"
+        ],
+        "libertem_dectris-0.2.7-cp37-abi3-win_amd64.whl": [
+          "fzAr567P5QbtaNPTJUtIoKCsTB8HAQJPjQddX/q2iO8=",
+          "cp37"
+        ]
+      }
     }
   },
   "libmunin": {
@@ -76982,6 +77006,18 @@
       "wheels": {
         "opentelemetry_test_utils-0.37b0-py3-none-any.whl": [
           "hS7LCzp9BI/T6sxSO3zmzG5mWxCTTf1pvLeBnSnbCNk=",
+          "py3"
+        ]
+      }
+    },
+    "0.38b0": {
+      "sdist": [
+        "rdjIMKEPzWlLbGZQCL+kmvYPtBmxRpzXfDVjJLhWApM=",
+        "opentelemetry_test_utils-0.38b0.tar.gz"
+      ],
+      "wheels": {
+        "opentelemetry_test_utils-0.38b0-py3-none-any.whl": [
+          "JmlEwG09gICc0j8IuYN1pOf3+95fCJyrz7BSfC08fII=",
           "py3"
         ]
       }
@@ -123684,6 +123720,14 @@
       "wheels": {
         "tf_estimator_nightly-2.13.0.dev2023032108-py2.py3-none-any.whl": [
           "2dpHBmdK0TXsdxsa8zeucnz1UzahZ9DmBZ+/XSLQy4Q=",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.13.0.dev2023032208": {
+      "wheels": {
+        "tf_estimator_nightly-2.13.0.dev2023032208-py2.py3-none-any.whl": [
+          "un5mpPDC3GSPGV3ezDvRhbG/hum7zGr4C8Qeb+amBRQ=",
           "py2.py3"
         ]
       }

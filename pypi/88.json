@@ -398,6 +398,18 @@
         "AcraNetwork-0.15.23.tar.gz"
       ]
     },
+    "0.15.25": {
+      "sdist": [
+        "pwCznbeDpsuF3AF+0UDu1w/kbZ4dt83uRhCsmep3uHY=",
+        "AcraNetwork-0.15.25.tar.gz"
+      ],
+      "wheels": {
+        "AcraNetwork-0.15.25-py3-none-any.whl": [
+          "dPZtRWhqmrUVLsAplLEE4lHmoR97NEW43mc5MGZl8jo=",
+          "py3"
+        ]
+      }
+    },
     "0.15.4": {
       "sdist": [
         "3I55ovCfqKurBtOancsX2iTTbybZykuXAoqdLYPsuM8=",
@@ -4166,58 +4178,22 @@
     }
   },
   "anyon": {
-    "2.8.8": {
+    "3.0.4": {
       "wheels": {
-        "anyon-2.8.8-cp310-cp310-macosx_10_9_universal2.whl": [
-          "D5nGyvnIhwmohb0VrpWYB9z2GClIBX/eJAuYibqSgM4=",
+        "anyon-3.0.4-cp310-cp310-manylinux1_x86_64.whl": [
+          "C90lqm6zcphdaokuZorKSIHGL1iqIV3AAVXFnuCP4vM=",
           "cp310"
         ],
-        "anyon-2.8.8-cp310-cp310-manylinux1_x86_64.whl": [
-          "8ygtcEoMBeRhgFTyUEozoICoRGY6eyJwLHQm/t+QoME=",
+        "anyon-3.0.4-cp310-cp310-win_amd64.whl": [
+          "xLXalM4QfpWeFnI8+UygE8RW0yCkwbjGqwHECWY3avY=",
           "cp310"
         ],
-        "anyon-2.8.8-cp310-cp310-win_amd64.whl": [
-          "lrl0w+h2scktCONRym4Uqh8Tf73EvdZLcRUKaOjtffA=",
-          "cp310"
-        ],
-        "anyon-2.8.8-cp311-cp311-macosx_10_9_universal2.whl": [
-          "UOyy1KLxy+7723kQliPC6kFDNtcaGlJeNSwYTpKTh4E=",
+        "anyon-3.0.4-cp311-cp311-manylinux1_x86_64.whl": [
+          "IZ/P3haBPSK28vyesHI7Wov2zQDg0054KKX2iKgxF0Q=",
           "cp311"
         ],
-        "anyon-2.8.8-cp311-cp311-manylinux1_x86_64.whl": [
-          "iVLxN4MUw67gu6ZialnnMXZksucbl8hiLmC6DS34zu0=",
-          "cp311"
-        ],
-        "anyon-2.8.8-cp311-cp311-win_amd64.whl": [
-          "HZ5t+IFUZnJJ2Sod0eOToFzjBLdRkNldOpa+pQ3E41k=",
-          "cp311"
-        ]
-      }
-    },
-    "3.0.2": {
-      "wheels": {
-        "anyon-3.0.2-cp310-cp310-macosx_10_9_universal2.whl": [
-          "0nyO6pWgd0hdrmL31Z03za/SXfKVFi5BRpnuJsbAwfc=",
-          "cp310"
-        ],
-        "anyon-3.0.2-cp310-cp310-manylinux1_x86_64.whl": [
-          "6fpMrOG3XrCGL507mZijQj2TH0O5/DfBNYh3evwzFqc=",
-          "cp310"
-        ],
-        "anyon-3.0.2-cp310-cp310-win_amd64.whl": [
-          "a2+UsRIAB8Pa3xAnMdvmVmV3unqoD3UDqmgWS9XnES0=",
-          "cp310"
-        ],
-        "anyon-3.0.2-cp311-cp311-macosx_10_9_universal2.whl": [
-          "WU1Ezz7Qnq7UCwccKBNasB7IQxoUDqihHvnoMugWW5s=",
-          "cp311"
-        ],
-        "anyon-3.0.2-cp311-cp311-manylinux1_x86_64.whl": [
-          "/oUIrYjjx2m1YCXsI6+MrTy2T4AN1MmKyjZNThV6sTs=",
-          "cp311"
-        ],
-        "anyon-3.0.2-cp311-cp311-win_amd64.whl": [
-          "vc1H+GN2rAkJYgnznEkHIfcci1cptFcmNySt2GD9HUQ=",
+        "anyon-3.0.4-cp311-cp311-win_amd64.whl": [
+          "lWOWrdxRUv8632/XZA4TLv9qGXtJLta5lVdJ7K6CYqw=",
           "cp311"
         ]
       }
@@ -32542,6 +32518,30 @@
       "wheels": {
         "duqtools-1.6.1-py3-none-any.whl": [
           "T6Gw4H6fBliLn1+Vd+JYj23kTZkB5R8goET5t7EKexs=",
+          "py3"
+        ]
+      }
+    },
+    "1.6.2": {
+      "sdist": [
+        "5K9oulDG76dIH69Gjr+POSxZXYkuma0SDT/FG0hRtk0=",
+        "duqtools-1.6.2.tar.gz"
+      ],
+      "wheels": {
+        "duqtools-1.6.2-py3-none-any.whl": [
+          "tBoNXpGYU4Dfx7cwPmIah4hUOQouNNNppOdk0wzoRCs=",
+          "py3"
+        ]
+      }
+    },
+    "1.6.3": {
+      "sdist": [
+        "Vqch7jqoOWiUuyjfYddBNxBzfumBoU9c+8GjfHiPe08=",
+        "duqtools-1.6.3.tar.gz"
+      ],
+      "wheels": {
+        "duqtools-1.6.3-py3-none-any.whl": [
+          "oZyNhCJHoD3BmbPcZ+Y53ExIW2bp1L5cLT5usVU8qrs=",
           "py3"
         ]
       }
@@ -65721,6 +65721,66 @@
           "py3"
         ]
       }
+    },
+    "0.2.3": {
+      "sdist": [
+        "2OwyaryfZacv0+iAGHziestIiNvsi20jxE4zmETb/oU=",
+        "liom-toolkit-0.2.3.tar.gz"
+      ],
+      "wheels": {
+        "liom_toolkit-0.2.3-py3-none-any.whl": [
+          "7N1cEqa/xt2/ZxIQTvyhsRrboB95rnOI7KYGsdwUuKs=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.4": {
+      "sdist": [
+        "5GY8fLDDzKxuCpEtIYj8lic0vp0Mg0YUeYMYWg8ryac=",
+        "liom-toolkit-0.2.4.tar.gz"
+      ],
+      "wheels": {
+        "liom_toolkit-0.2.4-py3-none-any.whl": [
+          "GAtUqtNN84vmL+XSRPvT16p6BXGOa4pKpVlUz2zFs84=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.5": {
+      "sdist": [
+        "Nk7qocTAMe7Qgh1YWA9EhjWiJJFqrbu24nI8NvEioqs=",
+        "liom-toolkit-0.2.5.tar.gz"
+      ],
+      "wheels": {
+        "liom_toolkit-0.2.5-py3-none-any.whl": [
+          "nOUce5iWUGdq8smYYBQ01M+XUGsQTQjhkIPpmmyUQjE=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.6": {
+      "sdist": [
+        "QUJMSIxYCN6OyQz+VmsI+pklZAFvWYRKCbf0kDB4l7k=",
+        "liom-toolkit-0.2.6.tar.gz"
+      ],
+      "wheels": {
+        "liom_toolkit-0.2.6-py3-none-any.whl": [
+          "Kvq1Wrz3J4OaZbiirLGi3AVxV9G9KunnqpYu6Mugevw=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.7": {
+      "sdist": [
+        "abyr0Mx1XuFwUZyrNzNbLwWPYIBeXvzWI5QDOeVDqlM=",
+        "liom-toolkit-0.2.7.tar.gz"
+      ],
+      "wheels": {
+        "liom_toolkit-0.2.7-py3-none-any.whl": [
+          "UApUajCltamwyxY73CJbVjfLQlC4kOgSDAVmwxgSqfA=",
+          "py3"
+        ]
+      }
     }
   },
   "livescrape": {
@@ -77756,6 +77816,30 @@
       "wheels": {
         "moat_util-0.27.0-py3-none-any.whl": [
           "OVkGDkfTHQ1O8tQZHml25yDRY8AV8ulUtLfze7HnTVI=",
+          "py3"
+        ]
+      }
+    },
+    "0.30.1": {
+      "sdist": [
+        "MkJbltw8gN2VYvk7IwqNCrn0E8eySfXKyghmBJvyowI=",
+        "moat-util-0.30.1.tar.gz"
+      ],
+      "wheels": {
+        "moat_util-0.30.1-py3-none-any.whl": [
+          "ELFGtT2rP5yTCAQovvJXNvv+SK9e91YLiRTYIuZA5z8=",
+          "py3"
+        ]
+      }
+    },
+    "0.30.2": {
+      "sdist": [
+        "b+0owzNUpOmZqlqyQUERMx60PQqQsJ9gOSwuq0XWM6c=",
+        "moat-util-0.30.2.tar.gz"
+      ],
+      "wheels": {
+        "moat_util-0.30.2-py3-none-any.whl": [
+          "iDB/RPc8uJceuu1ADL2Xx5LpK1hCxFglvG3iDo/gyiM=",
           "py3"
         ]
       }
@@ -99050,6 +99134,18 @@
       "wheels": {
         "opentelemetry_exporter_otlp_proto_http-1.16.0-py3-none-any.whl": [
           "8nyr0OBx+4zCWLyqrVGwwij+8RVr9uax+a5ziIHZv1E=",
+          "py3"
+        ]
+      }
+    },
+    "1.17.0": {
+      "sdist": [
+        "MpmE2oYe4sxCxLxa4bgAkvt2oOpaJLNRm8O1JXIZf+w=",
+        "opentelemetry_exporter_otlp_proto_http-1.17.0.tar.gz"
+      ],
+      "wheels": {
+        "opentelemetry_exporter_otlp_proto_http-1.17.0-py3-none-any.whl": [
+          "gZWSSbdb02w7c8iFqc42qiHoAiYY6OlfpBrmlgnwx5k=",
           "py3"
         ]
       }

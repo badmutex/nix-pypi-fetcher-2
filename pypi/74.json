@@ -4474,6 +4474,12 @@
         "AlgorithmLib-3.9.2.tar.gz"
       ]
     },
+    "3.9.20": {
+      "sdist": [
+        "evN+KIifVqkyySLj+U0jnPJlvhIi0UI4SbcigvxdOPQ=",
+        "AlgorithmLib-3.9.20.tar.gz"
+      ]
+    },
     "3.9.6": {
       "sdist": [
         "cEB4ZArLXHds5Nriivz00NIQk8OueCy5CcENcTSlIbs=",
@@ -13366,6 +13372,18 @@
         ]
       }
     },
+    "0.1.1b20230322": {
+      "sdist": [
+        "4xgz0HCL+nSEgYM7ISl50e12ACVGCPmGHn+O/19/YbU=",
+        "autogluon.cloud-0.1.1b20230322.tar.gz"
+      ],
+      "wheels": {
+        "autogluon.cloud-0.1.1b20230322-py3-none-any.whl": [
+          "8ajQA6Gbggcr8Zv7/EB1dyUMQBIG8mL8JBY/kMcU3q8=",
+          "py3"
+        ]
+      }
+    },
     "0.1b20221229": {
       "sdist": [
         "ETK2odII4rOCP1WhQsFyJ+5WWkhOgItWPTKq6uCY2WM=",
@@ -22012,6 +22030,18 @@
       "wheels": {
         "chartify-3.0.5-py2.py3-none-any.whl": [
           "QSb6WZgd9AhXp2X4XulwKyA8moarHDcv50tr6sYhOLo=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.0": {
+      "sdist": [
+        "IcCptMZrxmOipxoAWKyr7PTryfGNtNXSfvY5g+UQNsw=",
+        "chartify-3.1.0.tar.gz"
+      ],
+      "wheels": {
+        "chartify-3.1.0-py2.py3-none-any.whl": [
+          "Vl/Q3cn92hcFdiaMcKnUdQpaGKUnw9wdl3yOjRLANqA=",
           "py2.py3"
         ]
       }
@@ -50899,6 +50929,30 @@
           "py3"
         ]
       }
+    },
+    "0.2.8": {
+      "wheels": {
+        "geoapivietnam-0.2.8-py3-none-any.whl": [
+          "uN03Z3bwvdxNXgQRyHEa+a67gpmcCw5ZLu5j+qYCi20=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.9": {
+      "wheels": {
+        "geoapivietnam-0.2.9-py3-none-any.whl": [
+          "Oxh3GWrLuLEWFzArIAXEMlFcnbGUD90N0+/ZPq+M/Kk=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.0": {
+      "wheels": {
+        "geoapivietnam-0.3.0-py3-none-any.whl": [
+          "KYCgRmiCvT/OTb6yyfcWzcMwZezhNA6gthb2jVTf8Jg=",
+          "py3"
+        ]
+      }
     }
   },
   "geojson-modelica-translator": {
@@ -72872,6 +72926,32 @@
       "wheels": {
         "modbus_configuretools_xzf8971-1.6.0-py3-none-any.whl": [
           "3G07T0kr5H2JvUhlN3fPXcwX0cF39XbK9UsKp3FOZ2U=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "molspotter": {
+    "0.0.1": {
+      "sdist": [
+        "S/s8RSqAp2I2Ca5OL/V74xyfSsg1JjkS1mj88mqcEqg=",
+        "molspotter-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "molspotter-0.0.1-py3-none-any.whl": [
+          "DMQD2a9T2w7ojuhtSKTsNioNlpJ27Z2G0Dh+f6jGsWg=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.1.dev1": {
+      "sdist": [
+        "+8KDQeUnlm1gilrb3qLbiTRXaL/c6iw2qnO2K524Bek=",
+        "molspotter-0.0.1.dev1.tar.gz"
+      ],
+      "wheels": {
+        "molspotter-0.0.1.dev1-py3-none-any.whl": [
+          "RCFIkdr7lv1fbVGGh2kUikQocrBM/F+1ziqtAMSMazo=",
           "py3"
         ]
       }
@@ -126274,6 +126354,18 @@
       "wheels": {
         "resotocore-3.2.6-py2.py3-none-any.whl": [
           "+FCNlnHkzS2P1jBQ8sEGaA0E8vcf5atMWbq9rASweuU=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.2.7": {
+      "sdist": [
+        "cQ3/9TPOcMO93Xp3D2MYIB7D5J4UZq0e6dFmdnbZs+Q=",
+        "resotocore-3.2.7.tar.gz"
+      ],
+      "wheels": {
+        "resotocore-3.2.7-py2.py3-none-any.whl": [
+          "gYU69QCYNc+9n/L4l35ExEjBXurW4oATszmFS9/pQbs=",
           "py2.py3"
         ]
       }

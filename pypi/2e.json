@@ -17502,6 +17502,18 @@
         ]
       }
     },
+    "0.1.79": {
+      "sdist": [
+        "YgWIPXa3KEAvTOL33brochyN1/Wu6t2btAnIjfFZ5oQ=",
+        "cdk8s-operator-0.1.79.tar.gz"
+      ],
+      "wheels": {
+        "cdk8s_operator-0.1.79-py3-none-any.whl": [
+          "MfWtlimimJM+GU71Ta6JjlN/wbQwh/2ytUBs9DIcis4=",
+          "py3"
+        ]
+      }
+    },
     "0.1.8": {
       "sdist": [
         "Tgcfojhn65lIn9YaN3Ffc7foUL6LEGUl1MFzFiB+hYI=",
@@ -17510,6 +17522,18 @@
       "wheels": {
         "cdk8s_operator-0.1.8-py3-none-any.whl": [
           "HYsY5pi7JG/+lQjn9/U1qminjWSGygOdXKbWspB1AV4=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.80": {
+      "sdist": [
+        "QjEmyQJTp7/8etyG5xmEtMIFqVk3ulrnwSCNIdg/0QE=",
+        "cdk8s-operator-0.1.80.tar.gz"
+      ],
+      "wheels": {
+        "cdk8s_operator-0.1.80-py3-none-any.whl": [
+          "8DMuYDdAiRNzLiMZIkhc3viGZxuJk8iEYd82LZiCaz8=",
           "py3"
         ]
       }
@@ -42205,6 +42229,38 @@
           "cp39"
         ]
       }
+    },
+    "1.9.3": {
+      "sdist": [
+        "TwuMjDja4eAL3P2cwNjnBx8UjFvjCMJgBKGwX6QydQA=",
+        "EvoMSA-1.9.3.tar.gz"
+      ],
+      "wheels": {
+        "EvoMSA-1.9.3-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "zJ1YwBiVtl4Wbxnx6AhGtqHxZlJ4cdsYzNBYz0ZyDF4=",
+          "cp37"
+        ],
+        "EvoMSA-1.9.3-cp37-cp37m-win_amd64.whl": [
+          "ilnJOvq22K9oJ2b9L69/cKJzqPEjpisZ5X/rGbfuuus=",
+          "cp37"
+        ],
+        "EvoMSA-1.9.3-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "bv18HywTWzE0p/D9k25AbC1rocLn9+MNnNZkeFUumXc=",
+          "cp38"
+        ],
+        "EvoMSA-1.9.3-cp38-cp38-win_amd64.whl": [
+          "eqFreVf4wQn7wyDuLsmVGuQ3UCqm2mXdeAPeK19nrs0=",
+          "cp38"
+        ],
+        "EvoMSA-1.9.3-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "JJCz1N0qSHhLXLtLuKdbTX6iMls0demlCAuIvbqT4Hc=",
+          "cp39"
+        ],
+        "EvoMSA-1.9.3-cp39-cp39-win_amd64.whl": [
+          "jPDuZDpt0LmHXJz3yTBmiVHU6PDXKEWPvFHoeGdfgm4=",
+          "cp39"
+        ]
+      }
     }
   },
   "example-pkg-liudongbo": {
@@ -54180,6 +54236,18 @@
       "wheels": {
         "gpt_index-0.4.34-py3-none-any.whl": [
           "+hOYr4hgnHeSRZOGJIUajcPztQCrKaszmU87YjU8MbY=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.35": {
+      "sdist": [
+        "AYnzf8Jl3wLwvaqZwt1jPrAErjFs/2DecXFpDy66Ljk=",
+        "gpt_index-0.4.35.tar.gz"
+      ],
+      "wheels": {
+        "gpt_index-0.4.35-py3-none-any.whl": [
+          "EHe7q0BV2t/HfHUzqEkQRuMespBXVz2fGS1/wgl5VLA=",
           "py3"
         ]
       }
@@ -70898,6 +70966,30 @@
       "sdist": [
         "6he41B9YH7VbaL2ULvtL0chgb9uRuEE+ufpK1a0XQL0=",
         "libcnmc-23.20.2.tar.gz"
+      ]
+    },
+    "23.21.0": {
+      "sdist": [
+        "idouSFsPbKfzOYixYbBWzqc1ezT/EEh68hP7qPNatNk=",
+        "libcnmc-23.21.0.tar.gz"
+      ]
+    },
+    "23.21.1": {
+      "sdist": [
+        "b5iWJfXzHsVy/EAu37hvW1buv4GpLUZ3ySX91Q8A01U=",
+        "libcnmc-23.21.1.tar.gz"
+      ]
+    },
+    "23.22.0": {
+      "sdist": [
+        "wJl+tnpVLXar0sQNZT+2Vodj0dx+TefH+Xb1bOcFslY=",
+        "libcnmc-23.22.0.tar.gz"
+      ]
+    },
+    "23.22.1": {
+      "sdist": [
+        "wF8Pc4IFmPm6xrwjwChapGgJRkGnfied8PKjxSFMxTI=",
+        "libcnmc-23.22.1.tar.gz"
       ]
     },
     "23.3.0": {
@@ -91494,6 +91586,14 @@
       "wheels": {
         "odoo14_addon_printer_zpl2-14.0.2.0.1.dev1-py3-none-any.whl": [
           "QlHD7Q4zfLEfLC9C7DT5pgl7s03gnddV9lE5THiGj20=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.2.0.1.dev2": {
+      "wheels": {
+        "odoo14_addon_printer_zpl2-14.0.2.0.1.dev2-py3-none-any.whl": [
+          "6KdXV71NC7z61QK23sFfk885oedsSDLBfKA+GXzybTQ=",
           "py3"
         ]
       }
@@ -117800,6 +117900,18 @@
       "wheels": {
         "sahara_plugin_ambari-8.0.0.0rc1-py3-none-any.whl": [
           "FA3j4tk/H1PyZ9rXT3WD1qrs3QeyrWrxFICk1k46Z+k=",
+          "py3"
+        ]
+      }
+    },
+    "9.0.0": {
+      "sdist": [
+        "KwoI/SMlB8YRxfYsALug/ezJ9WHsWXxBObsFoUjIJoE=",
+        "sahara-plugin-ambari-9.0.0.tar.gz"
+      ],
+      "wheels": {
+        "sahara_plugin_ambari-9.0.0-py3-none-any.whl": [
+          "IPvvltIyi0EA2Ls+GMxl+TnZN2DEBma8l3mIFzcNtVU=",
           "py3"
         ]
       }
@@ -149822,6 +149934,18 @@
       "wheels": {
         "ZEVIT_AIH_SDK-0.5.11-py3-none-any.whl": [
           "+nnGzbyCkJNqW0U+mkbVjq4RgNywDcC2einpRTha0sk=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.12": {
+      "sdist": [
+        "SOUg8IE4aAYcj5iuqpaucPCtv2UywIHCUFudrpmzQCc=",
+        "ZEVIT_AIH_SDK-0.5.12.tar.gz"
+      ],
+      "wheels": {
+        "ZEVIT_AIH_SDK-0.5.12-py3-none-any.whl": [
+          "9k/0e17wQVNFPo3sHUduNlicxhDDBSZ3Qx73ODPlI6E=",
           "py3"
         ]
       }

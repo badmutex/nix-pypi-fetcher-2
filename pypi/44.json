@@ -29211,6 +29211,12 @@
         "H2D8RN+CCKbZs7zQjRK80/1QHippdfWpJS7g/SWyumM=",
         "cfr-0.2.8.tar.gz"
       ]
+    },
+    "0.2.9": {
+      "sdist": [
+        "tipvgbZeNw8Ok9mgdkygHtyhesjgWy/aoeuRE0ihCHA=",
+        "cfr-0.2.9.tar.gz"
+      ]
     }
   },
   "cfripper": {
@@ -42758,6 +42764,18 @@
       "wheels": {
         "diycrate-0.2.11.3a8-py3-none-any.whl": [
           "JUO5rNYY873YZwA7wbowCU5ofBU1Xu+PQS3DsrYkCiA=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.11.3a9": {
+      "sdist": [
+        "wGgg6+OczUtJhosdgt3eKs283fD2FY49ZCq3zPePX3k=",
+        "diycrate-0.2.11.3a9.tar.gz"
+      ],
+      "wheels": {
+        "diycrate-0.2.11.3a9-py3-none-any.whl": [
+          "vuATpU22Wrvg7L54kydaxV2Xc6wuNnXQa/IvAp5rwo4=",
           "py3"
         ]
       }
@@ -68294,6 +68312,18 @@
       "wheels": {
         "independent_vector_analysis-0.3.2-py3-none-any.whl": [
           "lC0IKvkUzRVzfHk+DKuPj2wn6cXjlLbgMFMlN4jQiuI=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.3": {
+      "sdist": [
+        "ETNO0a/6CkPMxUTQUbnkdH+DOTRtRUnB4KBz4v/9o80=",
+        "independent_vector_analysis-0.3.3.tar.gz"
+      ],
+      "wheels": {
+        "independent_vector_analysis-0.3.3-py3-none-any.whl": [
+          "3kCo9O3mKziPJVnpxmmZOkyk60MMtalm/AuEdOrX1W4=",
           "py3"
         ]
       }
@@ -102103,6 +102133,12 @@
         "Bt7AWW9vRmc5L1jM6f7snzUQMZCnLoomTg8OD1cYOXI=",
         "PhyREC-0.6.3.tar.gz"
       ]
+    },
+    "0.6.4": {
+      "sdist": [
+        "IETAcNORexF1ZCjBM8rdsOhGqJbEeH3U7Cb4C9GSQrU=",
+        "PhyREC-0.6.4.tar.gz"
+      ]
     }
   },
   "piecewise-regression": {
@@ -110262,6 +110298,94 @@
         ],
         "pycextensions-0.0.7-pp39-pypy39_pp73-win_amd64.whl": [
           "pjKtb4HHvKKWE9KsI8GXVabtb3unxw2PjucBY/fNUJo=",
+          "pp39"
+        ]
+      }
+    },
+    "0.0.9": {
+      "sdist": [
+        "mBmNiQn10JRrwIrreF5igc4myFVZzXk82sIvQ6eSxIw=",
+        "pycextensions-0.0.9.tar.gz"
+      ],
+      "wheels": {
+        "pycextensions-0.0.9-cp310-cp310-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "eWZFzMajITyidk91Mj0aRicT9X7PUjOK4PYiol53d40=",
+          "cp310"
+        ],
+        "pycextensions-0.0.9-cp310-cp310-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "aFqwQMTqh5FwU3HRowwAMH8BK6sspUGKkI21z0RJbk8=",
+          "cp310"
+        ],
+        "pycextensions-0.0.9-cp310-cp310-musllinux_1_1_i686.whl": [
+          "LacvDtwiZ3o2OD0F+wJpNm7HpJpYJBQhcf9Xulig7ZQ=",
+          "cp310"
+        ],
+        "pycextensions-0.0.9-cp310-cp310-musllinux_1_1_x86_64.whl": [
+          "S2Eng7M9aH69SQbqK5ovbmV73EObqtPwIyNJmxXA4wA=",
+          "cp310"
+        ],
+        "pycextensions-0.0.9-cp311-cp311-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "4jehBMqquBWj9i1GZTdFvDZOx1lYiJ5SMcsyRyxBg00=",
+          "cp311"
+        ],
+        "pycextensions-0.0.9-cp311-cp311-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "AJ2NzMLLFmtILPQ9n7gS3Aw10TQuWKJ6mZru+Ns4tas=",
+          "cp311"
+        ],
+        "pycextensions-0.0.9-cp311-cp311-musllinux_1_1_i686.whl": [
+          "BvcWOjODDg1tdM+4puzefnXynmio0wIX1AtMJtGhsNU=",
+          "cp311"
+        ],
+        "pycextensions-0.0.9-cp311-cp311-musllinux_1_1_x86_64.whl": [
+          "O6Ll9liQFgN6mGPDsCtIUODAqt9syq4VdHhpkGYXm4I=",
+          "cp311"
+        ],
+        "pycextensions-0.0.9-cp38-cp38-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "Ynsi16iT9EfI8LOD9i+zqVvMe7tguPSZ4ZOH7V0xysA=",
+          "cp38"
+        ],
+        "pycextensions-0.0.9-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "vqF3lc2gnK/niLkMn1RfjuFdL5K6lsOxxVBVJh/zA1s=",
+          "cp38"
+        ],
+        "pycextensions-0.0.9-cp38-cp38-musllinux_1_1_i686.whl": [
+          "+Ha7TQLg193b2GHDU6GC+ZE5UXCcnhgvOxM7sDXIFb8=",
+          "cp38"
+        ],
+        "pycextensions-0.0.9-cp38-cp38-musllinux_1_1_x86_64.whl": [
+          "JBb+0E/q946youEEv/B5hp/pNvCe1zYc9KFl+cJgMS4=",
+          "cp38"
+        ],
+        "pycextensions-0.0.9-cp39-cp39-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "L28LQZTu5cyLPPK+igKA8h/iH7iiPIpflR5k4NrxiLw=",
+          "cp39"
+        ],
+        "pycextensions-0.0.9-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "2vcAA+JlTKUooj0lIy+j+tB4MY4UtCx/P/wqwMXxAdc=",
+          "cp39"
+        ],
+        "pycextensions-0.0.9-cp39-cp39-musllinux_1_1_i686.whl": [
+          "N/IDS1EdltN5OeBqryTNT4o3pmVrIgteEDf6kGY2zJE=",
+          "cp39"
+        ],
+        "pycextensions-0.0.9-cp39-cp39-musllinux_1_1_x86_64.whl": [
+          "RkhD5cSepWDBfZkVdz++PP1ngKpTVC2JDhOMOZItM08=",
+          "cp39"
+        ],
+        "pycextensions-0.0.9-pp38-pypy38_pp73-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "uht+mTulKQckxGL/23uPRhktB3HoUSrE/5LotZtI2+M=",
+          "pp38"
+        ],
+        "pycextensions-0.0.9-pp38-pypy38_pp73-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "7WKi2wQJCIMAz+A6SZmJB1F9CKvrU8jD38iUofE8WCU=",
+          "pp38"
+        ],
+        "pycextensions-0.0.9-pp39-pypy39_pp73-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "w3Aib7FMbtOb0Swx0oF3WWBOQg0XirCsXm8/9bHZ9bQ=",
+          "pp39"
+        ],
+        "pycextensions-0.0.9-pp39-pypy39_pp73-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "UD0UpVR6Xd26nubP2WiAh4OHTNtRPPH5Ylc6/z3Ee2k=",
           "pp39"
         ]
       }
@@ -143881,6 +144005,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.858": {
+      "sdist": [
+        "QY7hKyg6Vf10oviqoKdKZn1o2lomSQcy3cJgaruzX+w=",
+        "tencentcloud-sdk-python-mna-3.0.858.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_mna-3.0.858-py2.py3-none-any.whl": [
+          "RCnOi2Ky2gz/0Ealp2IbxyubQNiRs/sGPGQMBHe4TgQ=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tenff": {
@@ -151342,6 +151478,18 @@
       "wheels": {
         "uptrace-1.16.0-py3-none-any.whl": [
           "h3CGMrz2TEtfhFv4JeQPUaWzuBaq3XqYrHgv0B/bW3k=",
+          "py3"
+        ]
+      }
+    },
+    "1.17.0": {
+      "sdist": [
+        "wcSY2TL6Nesd9QS0LPlIhIMZpas3oCx4DZgP053Um/o=",
+        "uptrace-1.17.0.tar.gz"
+      ],
+      "wheels": {
+        "uptrace-1.17.0-py3-none-any.whl": [
+          "lXJkSxcAo8QsBxgv+64mO5k0tM6cf1DIMumCveTArO8=",
           "py3"
         ]
       }

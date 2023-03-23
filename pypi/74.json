@@ -13390,6 +13390,18 @@
         ]
       }
     },
+    "0.1.1b20230323": {
+      "sdist": [
+        "ooR225sGPx89iJVsrQqhJ6vvaXTneQrLfKirJ11iQ8s=",
+        "autogluon.cloud-0.1.1b20230323.tar.gz"
+      ],
+      "wheels": {
+        "autogluon.cloud-0.1.1b20230323-py3-none-any.whl": [
+          "9Jfp/GBhzmxkNikRdoI1mGQiRtyh73K2aSpN/lcD2HI=",
+          "py3"
+        ]
+      }
+    },
     "0.1b20221229": {
       "sdist": [
         "ETK2odII4rOCP1WhQsFyJ+5WWkhOgItWPTKq6uCY2WM=",
@@ -38154,6 +38166,30 @@
         ]
       }
     },
+    "0.45.0": {
+      "sdist": [
+        "krMNubXfHgBtNtMW2b9El+nK//zAfM9lDiiNIvmDV1w=",
+        "dvc-data-0.45.0.tar.gz"
+      ],
+      "wheels": {
+        "dvc_data-0.45.0-py3-none-any.whl": [
+          "yGHrki5FVEh9eu/yYwIuCbOj66gxbzIAxBBw5pLspp8=",
+          "py3"
+        ]
+      }
+    },
+    "0.45.1": {
+      "sdist": [
+        "3HCD8jUDR28A4viMHLRdrl/zorN/RM4EOMVMHsJjoUY=",
+        "dvc-data-0.45.1.tar.gz"
+      ],
+      "wheels": {
+        "dvc_data-0.45.1-py3-none-any.whl": [
+          "xIC7EvgntSq5mHOoJ6mh1i2QtlTdKA6sOF/8J6htgE0=",
+          "py3"
+        ]
+      }
+    },
     "0.5.0": {
       "sdist": [
         "eF/rLfmqbqQq+rAr2bsShN8NwlGe4nRir2FF6nIDsvY=",
@@ -47192,6 +47228,14 @@
       "sdist": [
         "6WnKRo8kRnEuKjZL3foVwbwpqyn9xp7UjfiOiX3SN38=",
         "fonetic-0.1.1.tar.gz"
+      ]
+    }
+  },
+  "font-cli": {
+    "0.9.0": {
+      "sdist": [
+        "G02+wVyu7VCxCvAGcidr2Slng9StuVXrzw2qskm+WCo=",
+        "font-CLI-0.9.0.tar.gz"
       ]
     }
   },
@@ -72996,6 +73040,18 @@
       "wheels": {
         "molspotter-0.0.1.dev1-py3-none-any.whl": [
           "RCFIkdr7lv1fbVGGh2kUikQocrBM/F+1ziqtAMSMazo=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "zTlTdsKQ+nWplwsbeZXQ1xQPs/T8CEXyVipDHAlbUdk=",
+        "molspotter-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "molspotter-0.0.2-py3-none-any.whl": [
+          "9ATgPel9E8OKaW1rnHEibYM4jFYWR2x4H8aoF6EZGkw=",
           "py3"
         ]
       }
@@ -116755,6 +116811,30 @@
           "py3"
         ]
       }
+    },
+    "1.0.1": {
+      "sdist": [
+        "8oJzQNcp6w1L8Y6B4+ysyWSL1Udnt+NxM6Tjc3FFmZw=",
+        "pypbitextractor-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "pypbitextractor-1.0.1-py3-none-any.whl": [
+          "nkZBl8cyz6TNJtZVtLu7NTyD54aK05ugvq2WG5rXqYA=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.1": {
+      "sdist": [
+        "O2HKUwrqXzmtl9ca02h4wyTo17fYS2apCGC+4baID/I=",
+        "pypbitextractor-1.1.1.tar.gz"
+      ],
+      "wheels": {
+        "pypbitextractor-1.1.1-py3-none-any.whl": [
+          "Hcl667G/9pnsVxRzugodVlq+iED0JzI1x1PKE9NwIuw=",
+          "py3"
+        ]
+      }
     }
   },
   "pypcalc": {
@@ -117238,6 +117318,12 @@
       "sdist": [
         "ggkCqp3n4hib0b1ILuJeOQGBRCU5RmbbIzNzxK559os=",
         "pyPhasesML-0.3.14.tar.gz"
+      ]
+    },
+    "0.3.15": {
+      "sdist": [
+        "cggbccqfBJEnDa5X3rTesxdDFJWDaCjtwiIz99ZEzs8=",
+        "pyPhasesML-0.3.15.tar.gz"
       ]
     },
     "0.3.2": {
@@ -151415,6 +151501,16 @@
         "watson_form-4.4.2-py3-none-any.whl": [
           "i/qnB+41tbDfbAt6OhvD8DWDqC/nlrQRrmj1ePRMz7w=",
           "3.7"
+        ]
+      }
+    }
+  },
+  "waymo-open-dataset-tf-2.11.0": {
+    "1.5.0": {
+      "wheels": {
+        "waymo_open_dataset_tf_2.11.0-1.5.0-py3-none-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl": [
+          "zbhWncqDPoJxi67md0yTwUFiGyJze/1GM6QZPoEODmI=",
+          "py3"
         ]
       }
     }

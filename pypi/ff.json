@@ -9812,6 +9812,42 @@
         ]
       }
     },
+    "1.14.13": {
+      "wheels": {
+        "autoai_libs-1.14.13-73-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "IpJGgwAx/p/l5UwIMhKaMIs3e5cS5O8SA/Hix/l5Ddo=",
+          "cp310"
+        ],
+        "autoai_libs-1.14.13-73-cp310-cp310-manylinux1_x86_64.whl": [
+          "USsczC0+7+tViwEecb5kmpiik7MTcRGvelFJEVXpBgk=",
+          "cp310"
+        ],
+        "autoai_libs-1.14.13-73-cp310-cp310-manylinux2014_ppc64le.whl": [
+          "+JLdA17r7dMsb0EPVskmicPiipGCVNmmFlg3PMJibck=",
+          "cp310"
+        ],
+        "autoai_libs-1.14.13-73-cp310-cp310-win_amd64.whl": [
+          "plaua1WPJKHVZvwBlg+pZdSnupFIZYm8HbLjJocW5bk=",
+          "cp310"
+        ],
+        "autoai_libs-1.14.13-73-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "jL8Hs0PClvA7nmyCIFm6JgMPisf0p9TMl7d2OtrLbT8=",
+          "cp39"
+        ],
+        "autoai_libs-1.14.13-73-cp39-cp39-manylinux1_x86_64.whl": [
+          "lTsLYVLXOzsS7TXJaiHmPe5vVlozy7eem4cMJ5E7aW0=",
+          "cp39"
+        ],
+        "autoai_libs-1.14.13-73-cp39-cp39-manylinux2014_ppc64le.whl": [
+          "x+yPd8XX3wc1OTs2M8JQryqAhkXBVCmuBbCyXmLgwDU=",
+          "cp39"
+        ],
+        "autoai_libs-1.14.13-73-cp39-cp39-win_amd64.whl": [
+          "KXh5SZ+wPQp2SkGAP4wJ9az8qokgvSwQ3Mzrw6ElziY=",
+          "cp39"
+        ]
+      }
+    },
     "1.14.2": {
       "wheels": {
         "autoai_libs-1.14.2-63-cp310-cp310-macosx_10_9_x86_64.whl": [
@@ -17872,6 +17908,12 @@
       "sdist": [
         "ll+aS60KMhxxDMj5szp1ApgMMLYm4hbd/SK47BosoBo=",
         "brewblox_service-2.0.1.tar.gz"
+      ]
+    },
+    "2.1.0": {
+      "sdist": [
+        "wqfgOTYlv1Oi0mNYGI6Z2kdEclDrBoFEKgr1Jd2VA8E=",
+        "brewblox_service-2.1.0.tar.gz"
       ]
     }
   },
@@ -33518,6 +33560,30 @@
       "wheels": {
         "counsel-0.1.0a0-py3-none-any.whl": [
           "xMAAKdAcH8x1pWCbXRNOGeE/1oe6YuArFqEbZ3PxQng=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1a0": {
+      "sdist": [
+        "P7E8lOGcknEFVJCumut/Vsnl1CUUHjsKndgL8M19EQk=",
+        "counsel-0.1.1a0.tar.gz"
+      ],
+      "wheels": {
+        "counsel-0.1.1a0-py3-none-any.whl": [
+          "Vyh63O+L40rVoWpQk16XQXtXh48neUdRMT5alLFKJTQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2a0": {
+      "sdist": [
+        "zBWu8ZLthPYuddElx5u/ZQtKxYrzjVTRx+LDX83Rljo=",
+        "counsel-0.1.2a0.tar.gz"
+      ],
+      "wheels": {
+        "counsel-0.1.2a0-py3-none-any.whl": [
+          "LEhQeYClXKSPPvthVx1BR8VA1Zzfom6D1RSkZWaj9kY=",
           "py3"
         ]
       }
@@ -55935,6 +56001,18 @@
           "cp39"
         ]
       }
+    },
+    "0.3.4": {
+      "wheels": {
+        "ganymede_aux-0.3.4-cp39-cp39-manylinux_2_34_x86_64.whl": [
+          "uho+WVcIgLw604PqJEnGqU2xAcTGxnOMgkDaQFX0cdY=",
+          "cp39"
+        ],
+        "ganymede_aux-0.3.4-cp39-cp39-win_amd64.whl": [
+          "Zca6hwATmJcJsjRcvFU3Vem5oYZKcH287D+C/mzHNec=",
+          "cp39"
+        ]
+      }
     }
   },
   "gateone": {
@@ -64514,6 +64592,14 @@
       "wheels": {
         "huaweicloudsdksis-3.1.32-py2.py3-none-any.whl": [
           "ig/maKegTcLnhgZmZAX7ydEahpGjU1s9ZLxHHQIc/gc=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.33": {
+      "wheels": {
+        "huaweicloudsdksis-3.1.33-py2.py3-none-any.whl": [
+          "qx8RAkIoS4Sgh3rCfBG9wsnywnyESzvz6DRMwSoKevE=",
           "py2.py3"
         ]
       }
@@ -92972,7 +93058,13 @@
       "sdist": [
         "lDcKNkpnU9qPQczin7R02lTpl4Ax1KodVJrdcp3cwmQ=",
         "openiap-0.0.30.tar.gz"
-      ]
+      ],
+      "wheels": {
+        "openiap-0.0.30-py3-none-any.whl": [
+          "dL9tHkO+69Ua8kQNBQmpXoNPB5g6Jza7o18y73Q03Bg=",
+          "py3"
+        ]
+      }
     },
     "0.0.4": {
       "wheels": {
@@ -98934,6 +99026,18 @@
       "wheels": {
         "phrase_api-1.7.0-py3-none-any.whl": [
           "BKajJmNVSQtqSau9GIyy0TehN7w2GtOQuMVR+OgxXAE=",
+          "py3"
+        ]
+      }
+    },
+    "1.8.0": {
+      "sdist": [
+        "5RCpIQCOPQzGNb1tdRqEjmpR+gLbuU1a/IE7TvWl4N0=",
+        "phrase-api-1.8.0.tar.gz"
+      ],
+      "wheels": {
+        "phrase_api-1.8.0-py3-none-any.whl": [
+          "HLYSFY9l+hB2PynnFzstGS1bcPw3vcJCmjEoSYtDppo=",
           "py3"
         ]
       }
@@ -112610,6 +112714,218 @@
         ],
         "pyhtml2md-1.4.1-pp39-pypy39_pp73-win_amd64.whl": [
           "sdGRXoDQTQsCB1jaYOsFT24TL2tjRG8YPY3FM7IuQM4=",
+          "pp39"
+        ]
+      }
+    },
+    "1.4.2": {
+      "sdist": [
+        "PFPLAltykG6wB/AXLCeNLE+zJElLt/U+mddiPr76Ggw=",
+        "pyhtml2md-1.4.2.tar.gz"
+      ],
+      "wheels": {
+        "pyhtml2md-1.4.2-cp310-cp310-macosx_10_9_universal2.whl": [
+          "v8gAoe2G9QZtJ8je7RSiirgnqLmBtXm+eq8xRf77ry0=",
+          "cp310"
+        ],
+        "pyhtml2md-1.4.2-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "UM5vWc11jBxQP5iy1YybGabS7DlD/0qBJB6JIIfR+Ww=",
+          "cp310"
+        ],
+        "pyhtml2md-1.4.2-cp310-cp310-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "9sAE4t5a7JDb/+GlbD+c/MonqQ25YrJFfxHwZb2i55Q=",
+          "cp310"
+        ],
+        "pyhtml2md-1.4.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "EjD4nm8+bdNse40D5WWfRx0eIQKdrM39ZMq9DX8LeA0=",
+          "cp310"
+        ],
+        "pyhtml2md-1.4.2-cp310-cp310-musllinux_1_1_i686.whl": [
+          "1ALX8OoF8rNMm1OMIUINjgMdfqwNG6PmorsR2yhVFBw=",
+          "cp310"
+        ],
+        "pyhtml2md-1.4.2-cp310-cp310-musllinux_1_1_x86_64.whl": [
+          "cLoIxmIBJmGCoaC0oR087ihnWcPMeuh9ngc2xFa/jX8=",
+          "cp310"
+        ],
+        "pyhtml2md-1.4.2-cp310-cp310-win32.whl": [
+          "/qNoY2U9uALlZ7nMl0eh4VFTjkaTO92TCo/jYMlYEu4=",
+          "cp310"
+        ],
+        "pyhtml2md-1.4.2-cp310-cp310-win_amd64.whl": [
+          "cHhGvY4UZL6XnNUH8E35kfKd4u9fIjnHWpIug5JYdJM=",
+          "cp310"
+        ],
+        "pyhtml2md-1.4.2-cp311-cp311-macosx_10_9_universal2.whl": [
+          "Vjlji03g+liiKKM5pu8dNLm2JxeUkFhdjy+6g4QGxqM=",
+          "cp311"
+        ],
+        "pyhtml2md-1.4.2-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "snQOnGMA78pqQ1MDwk9VH6qRTqHPKaNL8ree+WQEHbw=",
+          "cp311"
+        ],
+        "pyhtml2md-1.4.2-cp311-cp311-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "Cut058lRr9UAk9ULw2jg4qa9cMC9d968QFIJRk/awMM=",
+          "cp311"
+        ],
+        "pyhtml2md-1.4.2-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Y3BInXqOMvQO/wq6qNVGNU2+kUzUFB4Oy0wFOEyhw7w=",
+          "cp311"
+        ],
+        "pyhtml2md-1.4.2-cp311-cp311-musllinux_1_1_i686.whl": [
+          "WtmEwEsEK3l9e7dqTgXrru5BodRIzjD1PDC9zbXg9WQ=",
+          "cp311"
+        ],
+        "pyhtml2md-1.4.2-cp311-cp311-musllinux_1_1_x86_64.whl": [
+          "4IUC36//uNovSctRe3STbXSDnNzYomeB0GBfiWioQa4=",
+          "cp311"
+        ],
+        "pyhtml2md-1.4.2-cp311-cp311-win32.whl": [
+          "YQKO9ywg4vnN+zR4DnYE1bbUPb2iBLEjl2fMjF3PT7s=",
+          "cp311"
+        ],
+        "pyhtml2md-1.4.2-cp311-cp311-win_amd64.whl": [
+          "e7cS6jH/FE0yF0xISNcbADQHwyrwTssBCyI/OCGZYfQ=",
+          "cp311"
+        ],
+        "pyhtml2md-1.4.2-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "PuRw3pV81C6PKbL/ZM9ehHTjeuSVuDFNZdRB684bAvo=",
+          "cp37"
+        ],
+        "pyhtml2md-1.4.2-cp37-cp37m-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "ODS5o7VJLH2q5sm7bQnc8ulZ/j9CnqFYhSKVVKisqtw=",
+          "cp37"
+        ],
+        "pyhtml2md-1.4.2-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "RpXKhcpcMNR8P2uO0ADKpZU55KAEICE7Y4ZnWCDD50k=",
+          "cp37"
+        ],
+        "pyhtml2md-1.4.2-cp37-cp37m-musllinux_1_1_i686.whl": [
+          "/RjGU2nYI2crQF7/dcPx6ajInY+mg8rqv7BwvbxIzIw=",
+          "cp37"
+        ],
+        "pyhtml2md-1.4.2-cp37-cp37m-musllinux_1_1_x86_64.whl": [
+          "2juVgT0FIiCdJxRbKQMGFlD5ZdfB9I3OJQ4OvTpLuLc=",
+          "cp37"
+        ],
+        "pyhtml2md-1.4.2-cp37-cp37m-win32.whl": [
+          "Nv5bXJJIEPgu9C3pEPvXSuH+Y8CSFDRn5vFgB5uoSDw=",
+          "cp37"
+        ],
+        "pyhtml2md-1.4.2-cp37-cp37m-win_amd64.whl": [
+          "O51735lWye8nlTz4rtA7bSWjM3MPFMI4NchVZ9eAsnI=",
+          "cp37"
+        ],
+        "pyhtml2md-1.4.2-cp38-cp38-macosx_10_9_universal2.whl": [
+          "1Mrl9bFaX1WNhUnK71ajxbcHMzJkVr3X13WScHvuurc=",
+          "cp38"
+        ],
+        "pyhtml2md-1.4.2-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "9bLaacea3WRW57cI7Kjlt5vES/i3dTEYZ6CjBJhhm/o=",
+          "cp38"
+        ],
+        "pyhtml2md-1.4.2-cp38-cp38-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "TWZ8gCOfwxipfhw5zy2MSQJGDOG6mlDUaHHArNsC6Wo=",
+          "cp38"
+        ],
+        "pyhtml2md-1.4.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "zxnE0KDWwpG7y+h5MJhN161UVoXQTKny1b6F9Z5JVb0=",
+          "cp38"
+        ],
+        "pyhtml2md-1.4.2-cp38-cp38-musllinux_1_1_i686.whl": [
+          "vXmtAA/ReA6Lo450+M2A4N695YhBujUZYkyFsd1Jihc=",
+          "cp38"
+        ],
+        "pyhtml2md-1.4.2-cp38-cp38-musllinux_1_1_x86_64.whl": [
+          "ltezkBYs5l7YLz4owlGaFFES4wGfPmB9hnFQB03ZGNg=",
+          "cp38"
+        ],
+        "pyhtml2md-1.4.2-cp38-cp38-win32.whl": [
+          "Dawlm6mhFYVqds0vKABE1/ZGcNllBCXTWfZ+7vAhPeA=",
+          "cp38"
+        ],
+        "pyhtml2md-1.4.2-cp38-cp38-win_amd64.whl": [
+          "353aGH4c3/GUYezNBmwYYjyP6uCCerVHOvtwTcxs4Lc=",
+          "cp38"
+        ],
+        "pyhtml2md-1.4.2-cp39-cp39-macosx_10_9_universal2.whl": [
+          "S8CtrHhQHYV5vOBwul2tqEn12elDKVihAPOFpxasdPI=",
+          "cp39"
+        ],
+        "pyhtml2md-1.4.2-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "oyGJ+zUyT8/tqV1Im+4sy280I9OwTDTdIgpd19mOJP0=",
+          "cp39"
+        ],
+        "pyhtml2md-1.4.2-cp39-cp39-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "xFSU+b3Z329BTm+zC9LOKCVxY1U5+ICsKjAtbXiVA/0=",
+          "cp39"
+        ],
+        "pyhtml2md-1.4.2-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "a+v9YiGoUjT8RQDm804yAeT4nEmzcjC1vNyS2iPIK6c=",
+          "cp39"
+        ],
+        "pyhtml2md-1.4.2-cp39-cp39-musllinux_1_1_i686.whl": [
+          "Egqa0W2/SQdcKQc79RPNk9UiHGfAKuj+zvvQnz49IK0=",
+          "cp39"
+        ],
+        "pyhtml2md-1.4.2-cp39-cp39-musllinux_1_1_x86_64.whl": [
+          "RMR+qqsY4zFm9jplP4LkIDIcFAWDymOCaAPabZ0uSOI=",
+          "cp39"
+        ],
+        "pyhtml2md-1.4.2-cp39-cp39-win32.whl": [
+          "A8ebHf76tUN1ooooCKT/gZ/L+nVFUXKyz8QkBOHoKOA=",
+          "cp39"
+        ],
+        "pyhtml2md-1.4.2-cp39-cp39-win_amd64.whl": [
+          "uRv9UH4hFwHqQvFgSJCeL2gwNU1P2xVQuh+I5yO+8B0=",
+          "cp39"
+        ],
+        "pyhtml2md-1.4.2-pp37-pypy37_pp73-macosx_10_9_x86_64.whl": [
+          "tcZYIB+MqOkxGdWOmJcoMiDBHifPGvD2Sw3FVANIn5U=",
+          "pp37"
+        ],
+        "pyhtml2md-1.4.2-pp37-pypy37_pp73-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "XoqCFqgwPYgsqZvZ0uABOtXKtvLH9J6QjRILGWWkM3Q=",
+          "pp37"
+        ],
+        "pyhtml2md-1.4.2-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "gxlCWUsKkIcrQ43usdr2zwzrrzWq663t8E/pB5HcfDQ=",
+          "pp37"
+        ],
+        "pyhtml2md-1.4.2-pp37-pypy37_pp73-win_amd64.whl": [
+          "PJoHxqSY8ZUs+UTGutPGouQeuqXz+IIAC1XnFJvbEp0=",
+          "pp37"
+        ],
+        "pyhtml2md-1.4.2-pp38-pypy38_pp73-macosx_10_9_x86_64.whl": [
+          "SUI0cW/KpZmV+QI+bjH7XoILXbpr+v6M5iF8MdeVCTs=",
+          "pp38"
+        ],
+        "pyhtml2md-1.4.2-pp38-pypy38_pp73-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "9n4iOGbfyfwxMxkpTLflIgcnKRnXT/8zo8NVyRD6+OI=",
+          "pp38"
+        ],
+        "pyhtml2md-1.4.2-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "yU5W0/TWtQ432dEb9n1wBFdVmct6LQnRGzYVDH01hsQ=",
+          "pp38"
+        ],
+        "pyhtml2md-1.4.2-pp38-pypy38_pp73-win_amd64.whl": [
+          "9Ne5q4R24sEmZ+6o8Cxm2swI6r2T6RbDpz6t5bnQa+M=",
+          "pp38"
+        ],
+        "pyhtml2md-1.4.2-pp39-pypy39_pp73-macosx_10_9_x86_64.whl": [
+          "SsM/erXD5HHl+eQIqP6eyA7MCZTiKIpHs0xL7D3ro30=",
+          "pp39"
+        ],
+        "pyhtml2md-1.4.2-pp39-pypy39_pp73-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "UOMt7XH+2berzMmpKbMjtXqbzSalwTn7bSE7kkLUBJA=",
+          "pp39"
+        ],
+        "pyhtml2md-1.4.2-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "/Kb4dPqdPS71MwJWbKwTHqJ360mXiDl7FCaa0LUywDY=",
+          "pp39"
+        ],
+        "pyhtml2md-1.4.2-pp39-pypy39_pp73-win_amd64.whl": [
+          "LldgGpQTIXqt5ECNhsHkYv4ROOvcGonrd5vP2VqMUmE=",
           "pp39"
         ]
       }
@@ -148424,6 +148740,18 @@
       "wheels": {
         "tencentcloud_sdk_python_ckafka-3.0.857-py2.py3-none-any.whl": [
           "YYtqJJUAsU8gHH1XIr6rhBeUDOuWT3qEkG2r3OC7OAs=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.858": {
+      "sdist": [
+        "4LlIFfdnb0YkRhRVVTkyVIGVs/2NG6xlmoB+mpIKGu8=",
+        "tencentcloud-sdk-python-ckafka-3.0.858.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_ckafka-3.0.858-py2.py3-none-any.whl": [
+          "2gamRZnb8vcmuZTcKwo55n+Q2FqDHGlvutYyEnSntW8=",
           "py2.py3"
         ]
       }

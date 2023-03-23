@@ -15431,6 +15431,18 @@
           "py3"
         ]
       }
+    },
+    "2.3.0b20230323": {
+      "wheels": {
+        "bigdl_friesian_spark3-2.3.0b20230323-py3-none-macosx_10_11_x86_64.whl": [
+          "gC3Ve9w8lvNqgdJGm/oAqW4gT8Gv6HwfLedniT4k3JY=",
+          "py3"
+        ],
+        "bigdl_friesian_spark3-2.3.0b20230323-py3-none-manylinux1_x86_64.whl": [
+          "VSWFv3Zs61qJjmt7auWYUWD2g1swXx66oUeWHAf35oU=",
+          "py3"
+        ]
+      }
     }
   },
   "binsinfo": {
@@ -67836,6 +67848,18 @@
         ]
       }
     },
+    "2023.3.23.1249": {
+      "sdist": [
+        "jldFCFqw7IJlHfUzlfsUFYzTDbWNG4VbduSfFwGFoyM=",
+        "keyrock-psql-2023.3.23.1249.tar.gz"
+      ],
+      "wheels": {
+        "keyrock_psql-2023.3.23.1249-py3-none-any.whl": [
+          "81raAeNgwnjKzd1SPxSjJpZ7cVtehg1DyOHo6WlwCEg=",
+          "py3"
+        ]
+      }
+    },
     "2023.3.7.1301": {
       "sdist": [
         "CWYcZIzK8qF8jXexao9QWfbY1tKGdVY4idBQ11YxPiA=",
@@ -74338,6 +74362,12 @@
       "sdist": [
         "u5htHCI10mn6AQDlAShMpbyI4PcqiRgpRvsy5Q3km+0=",
         "mailchecker-5.0.7.tar.gz"
+      ]
+    },
+    "5.0.8": {
+      "sdist": [
+        "rqayN1W+dqHSdRH7NFKtD07r2OztQq5FBhMaJEI3iwY=",
+        "mailchecker-5.0.8.tar.gz"
       ]
     }
   },
@@ -92717,6 +92747,14 @@
           "py3"
         ]
       }
+    },
+    "16.0.1.0.0.3": {
+      "wheels": {
+        "odoo_addon_report_qweb_element_page_visibility-16.0.1.0.0.3-py3-none-any.whl": [
+          "bqoBXN/9kC0XR1qtkWsYB2Op040eJgsLyPp6UisNAn4=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo-addon-sale-product-template-tags": {
@@ -98082,6 +98120,30 @@
       "wheels": {
         "optimum-1.7.1-py3-none-any.whl": [
           "lrgCQyxkofyl8Z8ut4CgNQgCZqRexmMVkNvMpc0nOYM=",
+          "py3"
+        ]
+      }
+    },
+    "1.7.2": {
+      "sdist": [
+        "L4r70lg3UOOH3m+9RtcpU4pX6HoewsMZdftp+9GbONI=",
+        "optimum-1.7.2.tar.gz"
+      ],
+      "wheels": {
+        "optimum-1.7.2-py3-none-any.whl": [
+          "f5ab6kq9vFj01mUgLgdaEytqysOpACg2GTcH5lw2ERU=",
+          "py3"
+        ]
+      }
+    },
+    "1.7.3": {
+      "sdist": [
+        "xM7K+22EoB2olLxwh25WXCEhWNJDlgOOuGjB+fupeEk=",
+        "optimum-1.7.3.tar.gz"
+      ],
+      "wheels": {
+        "optimum-1.7.3-py3-none-any.whl": [
+          "FD7vdTK0Pgzpx9Qe2NgdKRJqEYM84xJeRlTYtkVyoKQ=",
           "py3"
         ]
       }
@@ -128376,6 +128438,18 @@
       "sdist": [
         "YcaD+IFb+nYl0oybMycvof9PHtJUrFYuFe094y0MwCI=",
         "returnn-1.20230322.233447.tar.gz"
+      ]
+    },
+    "1.20230323.115718": {
+      "sdist": [
+        "f0cbW3KhmCvtUki0BywdGgk4U1IlNuxwvcY+9aosm9k=",
+        "returnn-1.20230323.115718.tar.gz"
+      ]
+    },
+    "1.20230323.134948": {
+      "sdist": [
+        "Vt2icDAO3MKzCB/68yfjQ9s/fPfuI0SiEA0gQ+s8BSE=",
+        "returnn-1.20230323.134948.tar.gz"
       ]
     }
   },

@@ -24635,6 +24635,18 @@
           "py3"
         ]
       }
+    },
+    "1.2.1": {
+      "sdist": [
+        "404jltB9zyFtRQBNwjm34cSKJM/m+ccs7hG8qE0/8Bk=",
+        "climeon-1.2.1.tar.gz"
+      ],
+      "wheels": {
+        "climeon-1.2.1-py3-none-any.whl": [
+          "oZV/U4tLNW+uta6846nuPLJNWhwG+lL0Tzq5daCf+TI=",
+          "py3"
+        ]
+      }
     }
   },
   "clipre": {
@@ -61561,6 +61573,14 @@
           "py2.py3"
         ]
       }
+    },
+    "3.1.33": {
+      "wheels": {
+        "huaweicloudsdklakeformation-3.1.33-py2.py3-none-any.whl": [
+          "mkfZoHN4DU66fhLflOHSHSp8A6052hJIfsp1b5Ror24=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "hubspot-oauth2client": {
@@ -75753,6 +75773,32 @@
       ]
     }
   },
+  "lazyvideoreader": {
+    "0.1.0": {
+      "sdist": [
+        "TMM0OAYV+HD9/Nad3IA1gEQQAWw6RDmtCpVWLR8NX0M=",
+        "LazyVideoReader-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "LazyVideoReader-0.1.0-py3-none-any.whl": [
+          "M7/cLkK7w0k06j8/bLZZ4NxTtykRuWVzarwnXIcWwoU=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "8RtIqwzFsRqcRib7sY+dtz43QhbRutYiBd08V68qjdY=",
+        "LazyVideoReader-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "LazyVideoReader-0.1.1-py3-none-any.whl": [
+          "uBcEEi03AJajqxaBq3LB22GH2ZiXeci24M/U+dS7L9Q=",
+          "py3"
+        ]
+      }
+    }
+  },
   "lclayout": {
     "0.0.16": {
       "sdist": [
@@ -76610,6 +76656,10 @@
           "hiF5Xge4fhf8eqyfBxvH/mtS7WEQwKlqmXXYETyMJSc=",
           "py2.py3"
         ],
+        "libclang-15.0.6.1-py2.py3-none-macosx_11_0_arm64.whl": [
+          "C/GSxIqNKZL8UDQ5PdyZ53KsMOEF34SSfWL8iO+KZZ8=",
+          "py2.py3"
+        ],
         "libclang-15.0.6.1-py2.py3-none-manylinux2010_x86_64.whl": [
           "abAaI6tUOQimYVMlldqiPPiL2W2A5B9Yug6qajeP4Ng=",
           "py2.py3"
@@ -76632,6 +76682,38 @@
         ],
         "libclang-15.0.6.1-py2.py3-none-win_arm64.whl": [
           "aH2FScEQxwD+zljdh3J0IdBxD90RGqfuywH6+OP1DU4=",
+          "py2.py3"
+        ]
+      }
+    },
+    "16.0.0": {
+      "wheels": {
+        "libclang-16.0.0-py2.py3-none-macosx_10_9_x86_64.whl": [
+          "ZSWKa7Pn3DHcmyb41C9TydO5WWQ63ikfzRrvSFUwPKY=",
+          "py2.py3"
+        ],
+        "libclang-16.0.0-py2.py3-none-macosx_11_0_arm64.whl": [
+          "r1Wkqob9/msuxovIz+X9rGxEjVkcp2SL6GyhcJm0HKg=",
+          "py2.py3"
+        ],
+        "libclang-16.0.0-py2.py3-none-manylinux2014_aarch64.whl": [
+          "61llLLBVnA5xeE/0yLokwUZEvsyQexRGVj7PqmItUjs=",
+          "py2.py3"
+        ],
+        "libclang-16.0.0-py2.py3-none-manylinux2014_armv7l.whl": [
+          "e2aGtnoNqoS0xhS8wRlXgyn8T7tSuRlWW3N2tQfEeTs=",
+          "py2.py3"
+        ],
+        "libclang-16.0.0-py2.py3-none-musllinux_1_2_x86_64.whl": [
+          "KtzkKuZS8xIkW49O2m8wtAdvth92GfLf0KDDHe5MMrk=",
+          "py2.py3"
+        ],
+        "libclang-16.0.0-py2.py3-none-win_amd64.whl": [
+          "7iC/k+PdMw9x/FDNvxO5LO0K7I5UC+ZCUdtTUCqbM/c=",
+          "py2.py3"
+        ],
+        "libclang-16.0.0-py2.py3-none-win_arm64.whl": [
+          "v0Yo/E2nod0GokT5uOEhxexoB2p2PFnWsTy7EDrMk1s=",
           "py2.py3"
         ]
       }

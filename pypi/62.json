@@ -21565,6 +21565,18 @@
         "j3jm7OVv2SWF3vRFWJvUwmU+mq5AtFPpGfj7AWGAmr8=",
         "bulk-mv-0.1.1.tar.gz"
       ]
+    },
+    "0.1.2": {
+      "sdist": [
+        "yQ0tbZmaqOd3YLfr+qQhXuzsOhERXqkwx7McgTggYSI=",
+        "bulk-mv-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "bulk_mv-0.1.2-py3-none-any.whl": [
+          "GUDe8iQwMVHO+9Vh6rQT2ZICmMTwQfJwOh/USKM3Lyk=",
+          "py3"
+        ]
+      }
     }
   },
   "bunga": {
@@ -71082,6 +71094,14 @@
         ]
       }
     },
+    "3.1.33": {
+      "wheels": {
+        "huaweicloudsdkkafka-3.1.33-py2.py3-none-any.whl": [
+          "HPuD6YIkDrRtzHiC4veRqX4T5e4jB+uuvKY0z0pkubQ=",
+          "py2.py3"
+        ]
+      }
+    },
     "3.1.4": {
       "wheels": {
         "huaweicloudsdkkafka-3.1.4-py2.py3-none-any.whl": [
@@ -95845,6 +95865,16 @@
       }
     }
   },
+  "odoo-addon-mass-mailing-contact-active": {
+    "16.0.1.0.0.2": {
+      "wheels": {
+        "odoo_addon_mass_mailing_contact_active-16.0.1.0.0.2-py3-none-any.whl": [
+          "cqP9cu2eEbTd+Xu0CakVgzluAr20CoP8EZgme3GHAE8=",
+          "py3"
+        ]
+      }
+    }
+  },
   "odoo-addon-project-wbs": {
     "15.0.1.0.0.2": {
       "wheels": {
@@ -107902,6 +107932,12 @@
       "sdist": [
         "OF4bwCqhwPVgHZ0y2YhD33CVkZyzM4jAj7I1uMgyjj4=",
         "pyPhasesRecordloaderMrOS-0.2.0.tar.gz"
+      ]
+    },
+    "0.2.1": {
+      "sdist": [
+        "9wV3mikGbNNaG0XBMm3pIH6DjY7ybXq4VBLDJsv/00Q=",
+        "pyPhasesRecordloaderMrOS-0.2.1.tar.gz"
       ]
     }
   },
@@ -129211,6 +129247,54 @@
           "cp39"
         ]
       }
+    },
+    "2.3.4": {
+      "wheels": {
+        "spconv-2.3.4-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "X3uVwOsRxt7+Lv/TO1pVFHD0rphWgxB24w2UuC+yXZk=",
+          "cp310"
+        ],
+        "spconv-2.3.4-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "SYCOigDogoC9hgKCFSPW2vUd1wTgUrMApwm4hLU9eOg=",
+          "cp311"
+        ],
+        "spconv-2.3.4-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "OUoPOglf975JnhPkxxOpxqm0sSLyoXhOjH6E/3+ZP00=",
+          "cp37"
+        ],
+        "spconv-2.3.4-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "D+6YzL7X+DnZR2gO8pEPPT6DtbN8VwJRKXNmIxQVEsI=",
+          "cp38"
+        ],
+        "spconv-2.3.4-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ze/D/p2IN/WPDrYiQ6aojc5NDnzznJME09cy1xgP97M=",
+          "cp39"
+        ]
+      }
+    },
+    "2.3.5": {
+      "wheels": {
+        "spconv-2.3.5-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "IcI5HfSVW2mrD1ArbzvvfccHKBS2MFTZl4ezHyJSooU=",
+          "cp310"
+        ],
+        "spconv-2.3.5-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Bw7lMJ/QZJVEx15r8n0LV1+v1HK4ww7w6mrdoF4O/hM=",
+          "cp311"
+        ],
+        "spconv-2.3.5-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "bIzLkKNcutCmIur8+uML/yxHUwahra6zsAhLi6sb2Qw=",
+          "cp37"
+        ],
+        "spconv-2.3.5-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "uOElT43e2/86+WUlm0iazKd3UWRa/tPIjAM0RL9qEDU=",
+          "cp38"
+        ],
+        "spconv-2.3.5-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "9umvUgOrEjfSjt2Oko7uwb86mLPiYlJvSHvoj6VBu04=",
+          "cp39"
+        ]
+      }
     }
   },
   "sphinxcontrib-prettyspecialmethods": {
@@ -141440,6 +141524,18 @@
       "wheels": {
         "tencentcloud_sdk_python_cynosdb-3.0.857-py2.py3-none-any.whl": [
           "/XieVZKG7ULy5dMEFxfU77Rd1oZTE4xj31fJDZuJ3ws=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.858": {
+      "sdist": [
+        "sqPyA+i56vrufIljYQ/efjBcDBHq3UE9X96T6ZOLkfA=",
+        "tencentcloud-sdk-python-cynosdb-3.0.858.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_cynosdb-3.0.858-py2.py3-none-any.whl": [
+          "S0bDl+Wo4XT+TCaJeg6A9hI120zxPgZ3d6HvjEztOYU=",
           "py2.py3"
         ]
       }
@@ -154804,6 +154900,12 @@
       "sdist": [
         "d2lD2/vxCLGCGUx0Tkzd+QGF39wVl27+nO2RHB5Rrnk=",
         "yhgit-2.8.8.tar.gz"
+      ]
+    },
+    "2.8.9": {
+      "sdist": [
+        "BaDvzvv4bp6MB9wJxr0BoWU/D4RwhYdrFss5E6gftlw=",
+        "yhgit-2.8.9.tar.gz"
       ]
     }
   },

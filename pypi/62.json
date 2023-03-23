@@ -7375,6 +7375,18 @@
           "py3"
         ]
       }
+    },
+    "1.198.0": {
+      "sdist": [
+        "0ey6Y9TE/PN1L/fPoV0g7S9DLSX/9ejDkGaOg6/cjdI=",
+        "aws-cdk.assertions-1.198.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.assertions-1.198.0-py3-none-any.whl": [
+          "OqFTCqD/rTOGkcYtyiQ0Fq7u+KcY3KxI032cnQbjF5Q=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-cdk.aws-eks-legacy": {
@@ -8718,6 +8730,18 @@
       "wheels": {
         "aws_cdk.aws_eks_legacy-1.197.0-py3-none-any.whl": [
           "Pe2cj+RvhCflvmDqMyPF55VmeaB/l1hzfQuyT7q2uk0=",
+          "py3"
+        ]
+      }
+    },
+    "1.198.0": {
+      "sdist": [
+        "tDnkroV03tUJDenOgKPdFDM/17zDGIbRiZ2KM21WVNU=",
+        "aws-cdk.aws-eks-legacy-1.198.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_eks_legacy-1.198.0-py3-none-any.whl": [
+          "pd9nt5r2n8FapIdJefPhL2uWDiuFO75Ftj+wZZQG6iM=",
           "py3"
         ]
       }
@@ -10412,6 +10436,18 @@
       "wheels": {
         "aws_cdk.aws_emrserverless-1.197.0-py3-none-any.whl": [
           "tbYCnLtZDIM2PyYLXQq2PfSCpllNYH40ijhouPRE/Mo=",
+          "py3"
+        ]
+      }
+    },
+    "1.198.0": {
+      "sdist": [
+        "n+mdJF6RKk9VnhQUk141EwMsiTi1EPraSh/8EYg5fMU=",
+        "aws-cdk.aws-emrserverless-1.198.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_emrserverless-1.198.0-py3-none-any.whl": [
+          "lDsnP/gHUW/mhVQEXSvugglHlYi7GsZ7G6RcT7PDnTs=",
           "py3"
         ]
       }
@@ -18527,6 +18563,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.97": {
+      "sdist": [
+        "Bn6Zh/PtVE9Rgw4VxGysOO8Ese3dGk7JfbICEPyj3vI=",
+        "botocore-a-la-carte-customer-profiles-1.29.97.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_customer_profiles-1.29.97-py3-none-any.whl": [
+          "uuajP1O4+frF9M+QCADYNrrNgnv2uczi1cUJx7Ad5c8=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-route53": {
@@ -19189,6 +19237,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.97": {
+      "sdist": [
+        "1V0Tbc4Izd1ft9oAKoWAnFirKNpc8aveDn2WjIkcxBw=",
+        "botocore-a-la-carte-route53-1.29.97.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_route53-1.29.97-py3-none-any.whl": [
+          "DCQ77Q68/HG+pZ6c96WVCbdJvDyyeuycxSMERhT2Uqo=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-timestream-query": {
@@ -19848,6 +19908,18 @@
       "wheels": {
         "botocore_a_la_carte_timestream_query-1.29.96-py3-none-any.whl": [
           "mHktRwuF595bAeyeQPFpvlLW8v90FP9UbQ4cmblvODc=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.97": {
+      "sdist": [
+        "pwLICSv3T+8z1QYMskxwlQ3JNdLLodB5Wc7h2XKolgo=",
+        "botocore-a-la-carte-timestream-query-1.29.97.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_timestream_query-1.29.97-py3-none-any.whl": [
+          "GwRIzbdqcGabySE7c/JMHQoF9imb+1tRrR38WSH6wEE=",
           "py3"
         ]
       }
@@ -21484,6 +21556,14 @@
       "sdist": [
         "fTPAmkG2FZ1RmqiE4aLGy1D3TPd4nsuWqhD/e3KsB2g=",
         "bugsplat-1.0.2.tar.gz"
+      ]
+    }
+  },
+  "bulk-mv": {
+    "0.1.1": {
+      "sdist": [
+        "j3jm7OVv2SWF3vRFWJvUwmU+mq5AtFPpGfj7AWGAmr8=",
+        "bulk-mv-0.1.1.tar.gz"
       ]
     }
   },
@@ -154706,6 +154786,24 @@
       "sdist": [
         "nEpLpqjieRcLidF9ImsVkF5aSn2BDl/x7z9ye1aP/Sc=",
         "yhgit-2.8.5.tar.gz"
+      ]
+    },
+    "2.8.6": {
+      "sdist": [
+        "VuTsC/TyGA7bMMLvGHrIDBL7WG94Ygk41Ie9ycpMXwc=",
+        "yhgit-2.8.6.tar.gz"
+      ]
+    },
+    "2.8.7": {
+      "sdist": [
+        "bv2SoXWcwZkKF9TeDQYqKIsxFFp7Qo/A21ETzaI8qMk=",
+        "yhgit-2.8.7.tar.gz"
+      ]
+    },
+    "2.8.8": {
+      "sdist": [
+        "d2lD2/vxCLGCGUx0Tkzd+QGF39wVl27+nO2RHB5Rrnk=",
+        "yhgit-2.8.8.tar.gz"
       ]
     }
   },

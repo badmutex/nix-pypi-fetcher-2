@@ -8555,6 +8555,18 @@
           "py3"
         ]
       }
+    },
+    "2.70.0a0": {
+      "sdist": [
+        "7rGBJ9LuJ97vZEiXmGHi+sSSXGttsYjcBlTiFYXFPkI=",
+        "aws-cdk.aws-sagemaker-alpha-2.70.0a0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_sagemaker_alpha-2.70.0a0-py3-none-any.whl": [
+          "N6KbnAXQr+eRNYDVq+ElkTs3GvqXxq/DR09nH1tL/zk=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-cdk.aws-workspaces": {
@@ -10294,6 +10306,18 @@
       "wheels": {
         "aws_cdk.aws_workspaces-1.197.0-py3-none-any.whl": [
           "bmPoAP22flLfSjQ5VmRGOAJeRatlpMbA28UFROouulo=",
+          "py3"
+        ]
+      }
+    },
+    "1.198.0": {
+      "sdist": [
+        "9tElvgGLt2ETkKVHDxaG7GrTl7iJx1xtJC+dRmsKGcw=",
+        "aws-cdk.aws-workspaces-1.198.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_workspaces-1.198.0-py3-none-any.whl": [
+          "qNYvmJHw5L+9b/V/zXQZ94e1zAjksood10w03H03qIc=",
           "py3"
         ]
       }
@@ -19282,6 +19306,18 @@
       "wheels": {
         "botocore_a_la_carte_internetmonitor-1.29.96-py3-none-any.whl": [
           "z4kqlbxbUnQdQXzETzMdwKIjXwh8buOH5vrj0+TQ3xQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.97": {
+      "sdist": [
+        "LZ6FHV6FTYsGnKGKunUmg6sNqSCBOYcLPYXOazOro/g=",
+        "botocore-a-la-carte-internetmonitor-1.29.97.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_internetmonitor-1.29.97-py3-none-any.whl": [
+          "PPgbQFhUAGgbObE1sUbqkU98QXbYxhkq0jaUjGpvhDM=",
           "py3"
         ]
       }
@@ -81169,6 +81205,14 @@
           "py3"
         ]
       }
+    },
+    "1.5": {
+      "wheels": {
+        "mapteksdk-1.5-py3-none-any.whl": [
+          "oSMzSb4VnoqYz022i0S8CCfjCCrDJDrXIzUbCMgr8Y4=",
+          "py3"
+        ]
+      }
     }
   },
   "marche": {
@@ -102289,6 +102333,18 @@
           "py3"
         ]
       }
+    },
+    "0.38b0": {
+      "sdist": [
+        "iUb9QUCEswWtZ1VqGQfi1KSXkk0CPv/F6jtLGwxVslY=",
+        "opentelemetry_instrumentation_fastapi-0.38b0.tar.gz"
+      ],
+      "wheels": {
+        "opentelemetry_instrumentation_fastapi-0.38b0-py3-none-any.whl": [
+          "kROVhnMuQ3scPVz4ONxb6RC84ntLZ5YSESvgP8xPoqo=",
+          "py3"
+        ]
+      }
     }
   },
   "oraentest": {
@@ -111602,6 +111658,66 @@
       "wheels": {
         "propan-0.0.6.1-py3-none-any.whl": [
           "5goNDMgmlJJdJVVSK0oSf2Qv3QvgVBr782LFP8KDIgg=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.6.4": {
+      "sdist": [
+        "Rknu4BuTCoErl2ZVD0r2vlebkSFNdd+CtkULlw8BbQg=",
+        "propan-0.0.6.4.tar.gz"
+      ],
+      "wheels": {
+        "propan-0.0.6.4-py3-none-any.whl": [
+          "ojZNKu8GpCTpaH0aUWRc3T+cj1FsSAlCQOpSvpTDiUM=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.6.5": {
+      "sdist": [
+        "B544etLhNkKOGUnrMxv8/q3QuFU8XeWnNOqXaWRAu3I=",
+        "propan-0.0.6.5.tar.gz"
+      ],
+      "wheels": {
+        "propan-0.0.6.5-py3-none-any.whl": [
+          "kkbkD3R9oQ0UEiYs/raPwACRBcQgmtpQEZNokstrS2Q=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.6.6": {
+      "sdist": [
+        "tEOhoVnqv+xNYtuv2u7vNtwuU1G5fnE1nbCq5RFG+m8=",
+        "propan-0.0.6.6.tar.gz"
+      ],
+      "wheels": {
+        "propan-0.0.6.6-py3-none-any.whl": [
+          "Iu/YnnO2pdvCggcYa+xHENbugefjwHbCZDQ6cmaOnB4=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.6.7": {
+      "sdist": [
+        "afZHJpvXAMNEWWisygloG9A+UC622kI9wmxwHQRFGhk=",
+        "propan-0.0.6.7.tar.gz"
+      ],
+      "wheels": {
+        "propan-0.0.6.7-py3-none-any.whl": [
+          "V1xRIpo5z/p1nnJlgGAB9m9VEunkoJ0Ix1NAzHdtJqU=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.6.8": {
+      "sdist": [
+        "PPYbzyNJrBReWgkoVab34dlbJ15t2qqYLoLijy4ckp8=",
+        "propan-0.0.6.8.tar.gz"
+      ],
+      "wheels": {
+        "propan-0.0.6.8-py3-none-any.whl": [
+          "dY52lDRBBZYVAJuQssa6uHxM+E+3X7PTtO4LExyrfMs=",
           "py3"
         ]
       }
@@ -124884,6 +125000,18 @@
         ]
       }
     },
+    "1.0.5": {
+      "sdist": [
+        "Knv9bWBDxpI1n7iCmB2hlnDZWsnXTkdJtFaxa+1lkxI=",
+        "random_unicode_emoji-1.0.5.tar.gz"
+      ],
+      "wheels": {
+        "random_unicode_emoji-1.0.5-py3-none-any.whl": [
+          "VbKeteqrVsXKi7s3GfieUnfq2tC5PKJGtBEM1dNu1SI=",
+          "py3"
+        ]
+      }
+    },
     "1.1": {
       "sdist": [
         "rnwrdWgEXjSOiU3I3AOBOfFPxZqrqDIE16mfwU0zmfU=",
@@ -125012,6 +125140,18 @@
       "wheels": {
         "random_unicode_emoji-2.6-py3-none-any.whl": [
           "VTXwuTw0iW23iJ1+kyYtbqiH4dh6iBZAoX2iV7GsBJQ=",
+          "py3"
+        ]
+      }
+    },
+    "2.7": {
+      "sdist": [
+        "hb93Ytloz2T0NZMGnECCz/n0Tnmx+p4BY4dEcs66nMU=",
+        "random_unicode_emoji-2.7.tar.gz"
+      ],
+      "wheels": {
+        "random_unicode_emoji-2.7-py3-none-any.whl": [
+          "uDlVLx6ITK2hK9PiLiElsAZkWpCKMCX4FHPYm0YVleE=",
           "py3"
         ]
       }
@@ -131432,6 +131572,18 @@
       "wheels": {
         "sails-1.3.0-py2.py3-none-any.whl": [
           "cXRZTPuoAVFOAtWn89Krg0byKaz5r8waUHPi2RtdKuA=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.4.0": {
+      "sdist": [
+        "+YLTReo0VPZ8uh3x8QhlxblUEPWD0wkNRoh3ryvp3B0=",
+        "sails-1.4.0.tar.gz"
+      ],
+      "wheels": {
+        "sails-1.4.0-py2.py3-none-any.whl": [
+          "YkkhXr6115c3zdLr7JegBzzNnQ2N3JbHacHi+xmohjY=",
           "py2.py3"
         ]
       }

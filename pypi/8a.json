@@ -17263,6 +17263,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.97": {
+      "sdist": [
+        "eTDiTBcvV61bdrQrxv2O2eA5tgsW+oBlf6EkznvN5kA=",
+        "botocore-a-la-carte-backup-1.29.97.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_backup-1.29.97-py3-none-any.whl": [
+          "WsQR7ABUMZq4BrLWs4Db5H3l8qu5rRhUMQKoIXi8YMA=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-devicefarm": {
@@ -17925,6 +17937,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.97": {
+      "sdist": [
+        "lITSaTTBx4crsDHy2fN18wc2VLZ9/9S/uJJbWk2bSJw=",
+        "botocore-a-la-carte-devicefarm-1.29.97.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_devicefarm-1.29.97-py3-none-any.whl": [
+          "ofJft1p5xCOfLM8/fW5hkpRm+DPZw+evl3Xlr5q9VT8=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-fis": {
@@ -18584,6 +18608,18 @@
       "wheels": {
         "botocore_a_la_carte_fis-1.29.96-py3-none-any.whl": [
           "agtaPEB/BtRrMtxe+NyWjDsLCR2z2OMzngE+9LlUDn8=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.97": {
+      "sdist": [
+        "3H9DpjL8YNdNY4Whz0fqmSDNuL/Od0BfZe4FG52Qxrg=",
+        "botocore-a-la-carte-fis-1.29.97.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_fis-1.29.97-py3-none-any.whl": [
+          "dkL9XiWwvu2O6/qbQxIDfsmyup2jk2Kguq7gGjSALI0=",
           "py3"
         ]
       }
@@ -22856,6 +22892,20 @@
       "wheels": {
         "chenchangwen_chuangye_bingfa-2022.10.10.0-py3-none-any.whl": [
           "PjYcpqZ1V5TyFi7nKGnSiqBxwZUD8yP+7QcviS19g8M=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "chillbox": {
+    "0.0.0": {
+      "sdist": [
+        "hRZSk24SWAF1epxJI73pQwmaLaeeE40OoEgUAZc0sWk=",
+        "chillbox-0.0.0.tar.gz"
+      ],
+      "wheels": {
+        "chillbox-0.0.0-py3-none-any.whl": [
+          "u3TboE+is+zWZ4nDhuYUG/SHrLZ9sAlw+qgM1qN9d7E=",
           "py3"
         ]
       }
@@ -70825,6 +70875,18 @@
           "py3"
         ]
       }
+    },
+    "3.3.1": {
+      "sdist": [
+        "38We1bSEfjOjO4jsFgM77RjOREzmp2KHpOBU25poOGE=",
+        "limits-3.3.1.tar.gz"
+      ],
+      "wheels": {
+        "limits-3.3.1-py3-none-any.whl": [
+          "34aFsa/zSbUZlijs30Gp8zmjUjPY5PzZw+EAAuRBm0U=",
+          "py3"
+        ]
+      }
     }
   },
   "linda2pdf": {
@@ -90052,6 +90114,34 @@
         ],
         "OctoBot_Trading-2.3.29-cp38-cp38-win_amd64.whl": [
           "9ZI2tXWOaYYJtoCFCGVWNfiENV0hj8JjeO43Grm6zR4=",
+          "cp38"
+        ]
+      }
+    },
+    "2.3.30": {
+      "sdist": [
+        "vtZUKTxBrXEekp0BKGEQsdT1ELFxQacI40WrixW0an8=",
+        "OctoBot-Trading-2.3.30.tar.gz"
+      ],
+      "wheels": {
+        "OctoBot_Trading-2.3.30-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "H7C8YOdWVDrJuyJuOspF7Awr3LG+XLg3phbgtoYA/aY=",
+          "cp38"
+        ],
+        "OctoBot_Trading-2.3.30-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "8t8tuRZm1WelHp1Rvee8BHeD1VaqwohrhrwqLNPeAYc=",
+          "cp38"
+        ],
+        "OctoBot_Trading-2.3.30-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "C/u/MwbAIs3U5nMF+niLhwNESG8WzC0ijUvA7Jzo8ho=",
+          "cp38"
+        ],
+        "OctoBot_Trading-2.3.30-cp38-cp38-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "jvfOCz82LV860SvUqp5dXl8JqGHJJgfbhoIcSSZZQQU=",
+          "cp38"
+        ],
+        "OctoBot_Trading-2.3.30-cp38-cp38-win_amd64.whl": [
+          "vVjs1S3L3X4g10dFEI8jGPUl2sSGZ8Tx8TzIGUZnT6U=",
           "cp38"
         ]
       }

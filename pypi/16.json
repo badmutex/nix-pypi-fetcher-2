@@ -9275,6 +9275,18 @@
           "py3"
         ]
       }
+    },
+    "1.198.0": {
+      "sdist": [
+        "DBSVuHowXv61uZfSQ2t2KTt1e4qDUAoeUqNWIcXJNMk=",
+        "aws-cdk.aws-kendraranking-1.198.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_kendraranking-1.198.0-py3-none-any.whl": [
+          "9TzqzTIFbcnwGlYp5VtuBo6sse/7FRQgErGKx/T/xOo=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-cdk.aws-refactorspaces": {
@@ -10150,6 +10162,18 @@
       "wheels": {
         "aws_cdk.aws_refactorspaces-1.197.0-py3-none-any.whl": [
           "wFjfsNIcATtBwg005BFYLOPF9daWOosw7n/3afuCKZM=",
+          "py3"
+        ]
+      }
+    },
+    "1.198.0": {
+      "sdist": [
+        "dvRnAMQp0ZIY94gXyvYQxChG6hvWNGAa5F7ORElG80g=",
+        "aws-cdk.aws-refactorspaces-1.198.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_refactorspaces-1.198.0-py3-none-any.whl": [
+          "hpb0E2bdMcYyehn8NEKE5XpaTtBX8xaXjlLwZ6tspFY=",
           "py3"
         ]
       }
@@ -11892,6 +11916,18 @@
       "wheels": {
         "aws_cdk.aws_robomaker-1.197.0-py3-none-any.whl": [
           "2HdrCcoaczHBrpPXIDoR0orlo4h1HswZlbJW/v7R1d4=",
+          "py3"
+        ]
+      }
+    },
+    "1.198.0": {
+      "sdist": [
+        "o12AuCtvAMJEGOOsc3EznT4EOfl0ucM/U23wWUeEJjQ=",
+        "aws-cdk.aws-robomaker-1.198.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_robomaker-1.198.0-py3-none-any.whl": [
+          "5YnyEWi0UAb2wEEL8rJM3/tRLaEo5+PA+zeuj7Ox3Ws=",
           "py3"
         ]
       }
@@ -19320,6 +19356,18 @@
       "wheels": {
         "cdklabs.cdk_ethereum_node-0.0.148-py3-none-any.whl": [
           "gkwAVJ8HpJjBM5i1fbzt2B95WlC9cYJw139+Y4zcCNg=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.149": {
+      "sdist": [
+        "MPA193iWEJOwZf36bMNiyFtdYwVfeycNEI5qJ5xHSNw=",
+        "cdklabs.cdk-ethereum-node-0.0.149.tar.gz"
+      ],
+      "wheels": {
+        "cdklabs.cdk_ethereum_node-0.0.149-py3-none-any.whl": [
+          "6fK/0g9/aN7jAc8FAshbiLfudGRydj3PkTaPGe1KHcw=",
           "py3"
         ]
       }
@@ -44998,6 +45046,142 @@
         ],
         "faust_streaming-0.10.6-cp39-cp39-musllinux_1_1_x86_64.whl": [
           "foqIPPPy/3d7ywCgi+rH9trtKy84hU3QezJLxYkq21Q=",
+          "cp39"
+        ]
+      }
+    },
+    "0.10.7": {
+      "sdist": [
+        "bd+7fcrKT686Sq5GLoB2hMW37Pku618Pf9nkwndk0I0=",
+        "faust-streaming-0.10.7.tar.gz"
+      ],
+      "wheels": {
+        "faust_streaming-0.10.7-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "FcYWON9dxY8IIPenlk7+SX3oo89d52/w/99VTiuJZEE=",
+          "cp310"
+        ],
+        "faust_streaming-0.10.7-cp310-cp310-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "4z+Hm9DXUzsKP1ExkvIXkz0/DFAUgwTTI642elnimxU=",
+          "cp310"
+        ],
+        "faust_streaming-0.10.7-cp310-cp310-musllinux_1_1_x86_64.whl": [
+          "/Af5mTBRLN8ibwhTNFxg+MriM0qQnHxjqRug/p4UQ0M=",
+          "cp310"
+        ],
+        "faust_streaming-0.10.7-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "r/GXLWOlsl6A4Y5FE7AokedLi9MDPCMM/1CujrCAkrM=",
+          "cp311"
+        ],
+        "faust_streaming-0.10.7-cp311-cp311-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "g+maWo1B1Iw44Fqj8y33t+LZWTHxJcS3n0oAtY45eGc=",
+          "cp311"
+        ],
+        "faust_streaming-0.10.7-cp311-cp311-musllinux_1_1_x86_64.whl": [
+          "ffojjIqGPi9Qm2m1aNvN/o0MLah54AOaaCPYNth5QSg=",
+          "cp311"
+        ],
+        "faust_streaming-0.10.7-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "kqiTnS/B3esIsFF5E6zGa3YRR6wr16GzCOKr9QqmlPc=",
+          "cp37"
+        ],
+        "faust_streaming-0.10.7-cp37-cp37m-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "DQ3aeGOS5ysv93nqxS7BprL7le3Q+P6XKg9anJn1xXw=",
+          "cp37"
+        ],
+        "faust_streaming-0.10.7-cp37-cp37m-musllinux_1_1_x86_64.whl": [
+          "8v8JCCTtUbRZX3HgjBboz28tfOgRSLY2nT3r/rkyzJI=",
+          "cp37"
+        ],
+        "faust_streaming-0.10.7-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "cdwQn6kvQ4725A2CUJgnUACc4ZQUeyZOa2eX9Za2PwY=",
+          "cp38"
+        ],
+        "faust_streaming-0.10.7-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "7WvvCNVScBs6nmSaAFTTXdVRtzaFOm+HUFWS43VMi0Q=",
+          "cp38"
+        ],
+        "faust_streaming-0.10.7-cp38-cp38-musllinux_1_1_x86_64.whl": [
+          "QcRNHu81YqMF69IuBc6VUDO5m0/J6dnntLIitfNuDB8=",
+          "cp38"
+        ],
+        "faust_streaming-0.10.7-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "/n9fZTUK311AKMWcE4Idf7MyXZSe22X1/fbTWa6RokM=",
+          "cp39"
+        ],
+        "faust_streaming-0.10.7-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Jo83R3ROsSFUpPq1Uf+NMGkrMjC+9eimEnDVjNrQXzg=",
+          "cp39"
+        ],
+        "faust_streaming-0.10.7-cp39-cp39-musllinux_1_1_x86_64.whl": [
+          "u2qjiJp27JfalduCoi0eFlpB3sDs8AfO/1dFFcAcY9M=",
+          "cp39"
+        ]
+      }
+    },
+    "0.10.8": {
+      "sdist": [
+        "g0mFvwCaV2a6Zsq6aiZoiOcJIRA48IxQFaRC2+6hcDk=",
+        "faust-streaming-0.10.8.tar.gz"
+      ],
+      "wheels": {
+        "faust_streaming-0.10.8-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "pgnZZ2/nU1mMQJ7WikeAbwfjO6EVehL3Xs1J3uvKabU=",
+          "cp310"
+        ],
+        "faust_streaming-0.10.8-cp310-cp310-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "rq2rPvPpnjJS8XEN/10OsRmxhx7AefDzbXET4ak/D+c=",
+          "cp310"
+        ],
+        "faust_streaming-0.10.8-cp310-cp310-musllinux_1_1_x86_64.whl": [
+          "oELVWBhqCp4sYkmaab3iKQSpiBMJpLuMjJ9EUc/g2bY=",
+          "cp310"
+        ],
+        "faust_streaming-0.10.8-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "0Ato4ydGd8mHJNaQBpk9pxPuSwQd7WqDJ+f4La9VdWc=",
+          "cp311"
+        ],
+        "faust_streaming-0.10.8-cp311-cp311-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "P44dFibCu4loDgq1bkp2vl7ctpsF5dGFgv5ALTKQksI=",
+          "cp311"
+        ],
+        "faust_streaming-0.10.8-cp311-cp311-musllinux_1_1_x86_64.whl": [
+          "CIcNjLS+NNEN9OzUArPHdtlt+XcQxu6oTV0/Pldjg/U=",
+          "cp311"
+        ],
+        "faust_streaming-0.10.8-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "Xasu7FpPqFwzHMla6EsWvVL/ETz5LAaTsg40qvUJPYw=",
+          "cp37"
+        ],
+        "faust_streaming-0.10.8-cp37-cp37m-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Br2zcDN/5LKk3+lPxOxkNkNHpyzaIqGI5GO3v6OJc4U=",
+          "cp37"
+        ],
+        "faust_streaming-0.10.8-cp37-cp37m-musllinux_1_1_x86_64.whl": [
+          "TMqvwgcYUnYdoLo4BNGDlXiUuulEWQfk6uHfqhF3SuA=",
+          "cp37"
+        ],
+        "faust_streaming-0.10.8-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "JZ4PDAhm6y4skqQDCRDRAbHTlxYkz5RpjHbW5+z9HXc=",
+          "cp38"
+        ],
+        "faust_streaming-0.10.8-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "/gOBC0OlpWiI0EOhypDStufzNXSOYCLnY1hPwyot91Y=",
+          "cp38"
+        ],
+        "faust_streaming-0.10.8-cp38-cp38-musllinux_1_1_x86_64.whl": [
+          "6HOc/MfV21wyQOYoepdIEGx0YrHVaDwB50ltBp1H0eI=",
+          "cp38"
+        ],
+        "faust_streaming-0.10.8-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "RKk98dntoc1LIS9/5PA3KdL2Ub2CO7voEnUONWLkIxo=",
+          "cp39"
+        ],
+        "faust_streaming-0.10.8-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Isi+pp4yMUkzC+IgerTsZVhJI/9eRh6wc2bvhPkh8gg=",
+          "cp39"
+        ],
+        "faust_streaming-0.10.8-cp39-cp39-musllinux_1_1_x86_64.whl": [
+          "NSFE61ARVuusLwy8K6WzVSZi2DH56WoZqIlJ/ERrqA8=",
           "cp39"
         ]
       }
@@ -81430,6 +81614,18 @@
       "wheels": {
         "mypy_boto3_pipes-1.26.83-py3-none-any.whl": [
           "OZNXDYV0Mr3PYSE5PA5NfXt5LUmt8M4vXRBg5RD2PsY=",
+          "py3"
+        ]
+      }
+    },
+    "1.26.97": {
+      "sdist": [
+        "cNKUuG2AHk6o/lKN4RHX398A3keobEEw37wv9nZDXfY=",
+        "mypy-boto3-pipes-1.26.97.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_pipes-1.26.97-py3-none-any.whl": [
+          "lLSHx8FEQVc4bnrlxSFrYrrjIduHRrCFBasQWFn88kM=",
           "py3"
         ]
       }
@@ -160908,6 +161104,12 @@
       "sdist": [
         "sU9weqNwG5/SUfdRRTWIE7m2nsiK24k4eOX+lo5c2cE=",
         "zcbot-celery-sdk-0.0.15.tar.gz"
+      ]
+    },
+    "0.0.16": {
+      "sdist": [
+        "rVBFq9IOE2HDGVmTz6EOwQLrMs2M1gaPklM/lYlUMTY=",
+        "zcbot-celery-sdk-0.0.16.tar.gz"
       ]
     },
     "0.0.2": {

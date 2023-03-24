@@ -16023,6 +16023,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.98": {
+      "sdist": [
+        "HMVywR7r1hLHdOFRZKmT6GuZWMSGIoW/mqgdMeH3yEs=",
+        "botocore-a-la-carte-chime-sdk-identity-1.29.98.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_chime_sdk_identity-1.29.98-py3-none-any.whl": [
+          "hQcXdGej52nTrvqzFl8eRPU0oNHv9bi6EqhlYiJXkaQ=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-controltower": {
@@ -16694,6 +16706,18 @@
       "wheels": {
         "botocore_a_la_carte_controltower-1.29.97-py3-none-any.whl": [
           "HpBSaw6qPVvukn/7yXvIvmlIUs+P2a3M825QQtMGIxw=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.98": {
+      "sdist": [
+        "q/lAMRvgAbQ/HZ1Cf748dchrBqw8o0/PwSgw/yevtMw=",
+        "botocore-a-la-carte-controltower-1.29.98.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_controltower-1.29.98-py3-none-any.whl": [
+          "oRjIAdX83lGPz8liuSpsnsSCATumKvJx9JmBkpeEWK4=",
           "py3"
         ]
       }
@@ -17371,6 +17395,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.98": {
+      "sdist": [
+        "uz0XBIdsBhWRcTMIRii89U0qUcgaESFPgZGH8heKuY4=",
+        "botocore-a-la-carte-mgn-1.29.98.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_mgn-1.29.98-py3-none-any.whl": [
+          "23m1h40OIZ783GUVFM+tE03sJVrErPVhC4RO4vPc+uE=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-sesv2": {
@@ -18042,6 +18078,18 @@
       "wheels": {
         "botocore_a_la_carte_sesv2-1.29.97-py3-none-any.whl": [
           "YWHEkI+gHp2O1jTQJX92erIfcyJYlV5Y5IVoMeuyMvk=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.98": {
+      "sdist": [
+        "plvH2bZAmNo7DvCITt45CQAk4cSRVvO7YpgHbunBebc=",
+        "botocore-a-la-carte-sesv2-1.29.98.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_sesv2-1.29.98-py3-none-any.whl": [
+          "9GuVWS82ro8D4FHFKAXqzsndq6fB2x/nw6lqkgZo4WU=",
           "py3"
         ]
       }
@@ -132045,6 +132093,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.859": {
+      "sdist": [
+        "Uea2ImMP4Fxy1myTVmMuOelN/wTuS0FDkntpQIrDdD4=",
+        "tencentcloud-sdk-python-cii-3.0.859.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_cii-3.0.859-py2.py3-none-any.whl": [
+          "OMQ3ac42/uvbNTooWdIgx6/T6IQRYIyeCPhFCHDeP6E=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tensorbay": {
@@ -134338,6 +134398,12 @@
       "sdist": [
         "fG1Wzj28YkGwdqOFupG/EzQwuKdiVi2nTTCt4wxam/0=",
         "tgbox-1.1.tar.gz"
+      ]
+    },
+    "1.1.1": {
+      "sdist": [
+        "/IRXxGL9SIR2NgfcKDGKfG00MFN/2Tp0MpnYu5JvhrI=",
+        "tgbox-1.1.1.tar.gz"
       ]
     }
   },
@@ -141534,14 +141600,26 @@
         ]
       }
     },
-    "1.0.6": {
+    "1.0.7": {
       "sdist": [
-        "pbyzneIATSFAVr6jikw6iJ9F/srcpJMM15nMIN3x2XE=",
-        "vonixsync-1.0.6.tar.gz"
+        "uZq12+1xH4QW8Egnw9VUVXAFMTrXu/f9uVRqJWdyugU=",
+        "vonixsync-1.0.7.tar.gz"
       ],
       "wheels": {
-        "vonixsync-1.0.6-py3-none-any.whl": [
-          "ApQ+FBl7OXVg5qtRnhFXMNaoNS+e/ivMAKC0ZTrDyjc=",
+        "vonixsync-1.0.7-py3-none-any.whl": [
+          "PV7KTTSu8t5pDUXJ+3jfe55Gk/nynTrWWSuw1NPlz/w=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.8": {
+      "sdist": [
+        "y3m61NGIxNCiu2IC0DY9nmG42R9mUUwWCP4EgxCtnYg=",
+        "vonixsync-1.0.8.tar.gz"
+      ],
+      "wheels": {
+        "vonixsync-1.0.8-py3-none-any.whl": [
+          "Va/J+7ltpYXqf1L0rrdwCkzSqGhb1TXmDfMK3twPu64=",
           "py3"
         ]
       }

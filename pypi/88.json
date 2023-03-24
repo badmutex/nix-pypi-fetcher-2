@@ -11611,6 +11611,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.98": {
+      "sdist": [
+        "wUKIchdR8CWWZJDd+WzMSFKMK36FAVPt8tVKsF7WPbs=",
+        "botocore-a-la-carte-firehose-1.29.98.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_firehose-1.29.98-py3-none-any.whl": [
+          "jfQBCRbj/3yDVrNUmnpWOBoq6YdhlDL5T6flofBwJS8=",
+          "py3"
+        ]
+      }
     }
   },
   "botway.py": {
@@ -78025,6 +78037,18 @@
           "py3"
         ]
       }
+    },
+    "0.31.0": {
+      "sdist": [
+        "DE730+y33YISlcuxAfArJXhkgMNbMAu+m0M/Ci5hc2c=",
+        "moat-util-0.31.0.tar.gz"
+      ],
+      "wheels": {
+        "moat_util-0.31.0-py3-none-any.whl": [
+          "9xKlENwnA6LrvR3EAHvEip213BcHlLSkyjuqIMB9KY0=",
+          "py3"
+        ]
+      }
     }
   },
   "mockselector": {
@@ -108761,6 +108785,18 @@
           "py3"
         ]
       }
+    },
+    "0.5.1": {
+      "sdist": [
+        "XFEHSAPptCTyyt20qI39iAwtl/e5mQQQPBSTNhjtWng=",
+        "pycallrail-0.5.1.tar.gz"
+      ],
+      "wheels": {
+        "pycallrail-0.5.1-py3-none-any.whl": [
+          "wMDTvfSqp5Kdc+Hgh0yJbvb5JhCqk29+KewuSi6Ry6Q=",
+          "py3"
+        ]
+      }
     }
   },
   "pycatalog": {
@@ -118857,6 +118893,20 @@
       }
     }
   },
+  "python-notification-service": {
+    "2023.3a1": {
+      "sdist": [
+        "afjbY1cIn2fzeySXMtpQhGE1Nba+nzi1/PaHY2FH02c=",
+        "python_notification_service-2023.3a1.tar.gz"
+      ],
+      "wheels": {
+        "python_notification_service-2023.3a1-py3-none-any.whl": [
+          "/1fcbuONF3RmRd/f2+6kmXawpC3kK+hcG4xgDL1HciE=",
+          "py3"
+        ]
+      }
+    }
+  },
   "python-outlier": {
     "1.0.0": {
       "sdist": [
@@ -120982,6 +121032,62 @@
         ],
         "pywry-0.3.9-cp39-none-win_amd64.whl": [
           "6GH/EAXDvh4rycpu6qGAOM7dJ2QwIuhYexcKjjWQPII=",
+          "cp39"
+        ]
+      }
+    },
+    "0.4.0": {
+      "sdist": [
+        "nl0xyoF4vKJgN2WwwIrqaXXywRBdZnYxXvvrVa3CtcY=",
+        "pywry-0.4.0.tar.gz"
+      ],
+      "wheels": {
+        "pywry-0.4.0-cp310-cp310-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "iDYumgAVJd56hdy+sSyTfhdWpY7shGcxDM0tcNTw4Zs=",
+          "cp310"
+        ],
+        "pywry-0.4.0-cp310-cp310-manylinux_2_28_x86_64.whl": [
+          "1YbQjY125ENMmk7nAMwn01ll/z1VmM5BdDbwZAKxcDw=",
+          "cp310"
+        ],
+        "pywry-0.4.0-cp310-none-win_amd64.whl": [
+          "d5jwFj0bh9gOTiiDZ6HD2h2vqdRkLrllvqsqVLESHfM=",
+          "cp310"
+        ],
+        "pywry-0.4.0-cp311-cp311-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "Csl2g8azy8/UaVLcI1wHmcdF5uRkTNlqVBT0PxlBfgQ=",
+          "cp311"
+        ],
+        "pywry-0.4.0-cp311-cp311-manylinux_2_28_x86_64.whl": [
+          "VoNCFlw4ldLmtp5COaQ+MPmBhkE97pvlyazh+SKY2N4=",
+          "cp311"
+        ],
+        "pywry-0.4.0-cp311-none-win_amd64.whl": [
+          "X0ZepnToBJG/nRHWh/+1SHQ7X/kL19pOX1dFKuMDxEs=",
+          "cp311"
+        ],
+        "pywry-0.4.0-cp38-cp38-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "2Csx4hnSkUZqXGMQ3Kimbtq1B+scA+OlUHXZuLMdeAg=",
+          "cp38"
+        ],
+        "pywry-0.4.0-cp38-cp38-manylinux_2_28_x86_64.whl": [
+          "FCiefuqykF5/D62y1a3cFIfgPNT/avuAEeNJAUZOrFo=",
+          "cp38"
+        ],
+        "pywry-0.4.0-cp38-none-win_amd64.whl": [
+          "r/FKFv9AoQpnoIZKQmTo9rq0ywXe0DJTFUtI8woAanM=",
+          "cp38"
+        ],
+        "pywry-0.4.0-cp39-cp39-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "LapRshWO0Fak1JeYNLEC+if25CgsouR5tmKHn2d0keM=",
+          "cp39"
+        ],
+        "pywry-0.4.0-cp39-cp39-manylinux_2_28_x86_64.whl": [
+          "96EumoLi6Uxi4HR+XwLZcc2ZAhu06DfMzGwRgaUDgP4=",
+          "cp39"
+        ],
+        "pywry-0.4.0-cp39-none-win_amd64.whl": [
+          "0Yk09Xzr+DZrHWErhAnuuXjVANYtY2VegjLw5Ad34Sk=",
           "cp39"
         ]
       }
@@ -137558,6 +137664,18 @@
       "wheels": {
         "svgdigitizer-0.7.0-py3-none-any.whl": [
           "OFOxd0zcHwQjypmrml2fmFFr3N/cOKOE6B0PcaupXZo=",
+          "py3"
+        ]
+      }
+    },
+    "0.8.0": {
+      "sdist": [
+        "a2pLxWbUPIdEm2077LzczyBOnK86OK2bX3uyeuE7PFo=",
+        "svgdigitizer-0.8.0.tar.gz"
+      ],
+      "wheels": {
+        "svgdigitizer-0.8.0-py3-none-any.whl": [
+          "5rz1ezf0MlbNYI+ytH5uAXrLDDRJ0tXVapz0o2urv8U=",
           "py3"
         ]
       }

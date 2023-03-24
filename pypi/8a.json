@@ -9244,6 +9244,18 @@
         ]
       }
     },
+    "2.35.0": {
+      "sdist": [
+        "wt+1V3VRWPwVnaT3hDlyxW66dBpvb6uKA63dZLRyliw=",
+        "aws-solutions-constructs.aws-apigateway-dynamodb-2.35.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_apigateway_dynamodb-2.35.0-py3-none-any.whl": [
+          "bqj51ejKLyFjGiLPG1hP31lAJEhEHLKxvTmJ07YF4Lo=",
+          "py3"
+        ]
+      }
+    },
     "2.4.0": {
       "sdist": [
         "RHXiD2F43pl/4cXXAxtiwAabxRETzfBe7yjH/BJR3cg=",
@@ -17275,6 +17287,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.98": {
+      "sdist": [
+        "PfEuKiQdl8rObn8fdWlEZbFZyYjrLIZYB8ci/jkP64U=",
+        "botocore-a-la-carte-backup-1.29.98.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_backup-1.29.98-py3-none-any.whl": [
+          "e8TG4NSNRUbx41nJOiAegP5RfgobjYZxPNOtXK+62wE=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-devicefarm": {
@@ -17949,6 +17973,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.98": {
+      "sdist": [
+        "8OT+WQJz9OLqC2dNuiNLvLQoZBcf1NmsORyHJ7GGvoU=",
+        "botocore-a-la-carte-devicefarm-1.29.98.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_devicefarm-1.29.98-py3-none-any.whl": [
+          "OP9UflOYceABVznCMBXuUC/U9j891Fa4QSF7P5ZeoKA=",
+          "py3"
+        ]
+      }
     }
   },
   "botocore-a-la-carte-fis": {
@@ -18620,6 +18656,18 @@
       "wheels": {
         "botocore_a_la_carte_fis-1.29.97-py3-none-any.whl": [
           "dkL9XiWwvu2O6/qbQxIDfsmyup2jk2Kguq7gGjSALI0=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.98": {
+      "sdist": [
+        "MMwiOiH6HUterjC7E9bflt9GzssumvjP+aXAdFxxxS4=",
+        "botocore-a-la-carte-fis-1.29.98.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_fis-1.29.98-py3-none-any.whl": [
+          "j/oXV6+7Opt/8tjKsEg6BkaS8+OwUtjgvsxgt2efdjk=",
           "py3"
         ]
       }
@@ -32528,6 +32576,18 @@
       "wheels": {
         "devapps-2023.3.22-py3-none-any.whl": [
           "yl2XOQSYyxETZJd55P9vvhL2JG2kEvpfHZF7m+NiV/U=",
+          "py3"
+        ]
+      }
+    },
+    "2023.3.23": {
+      "sdist": [
+        "4/V2zSddRtXHgZ2EBnL4FTugvn/zVRHC1u8JODF2E30=",
+        "devapps-2023.3.23.tar.gz"
+      ],
+      "wheels": {
+        "devapps-2023.3.23-py3-none-any.whl": [
+          "PgDqeo4dqlMcC2djTYycZCxxZ+mQ/6NIDeJDlfEfL+g=",
           "py3"
         ]
       }
@@ -90222,6 +90282,34 @@
         ]
       }
     },
+    "2.3.32": {
+      "sdist": [
+        "mSEVkkY2uBTcuD8G6FmZ1bGcN4YIK9/dKfm/PkyBkjU=",
+        "OctoBot-Trading-2.3.32.tar.gz"
+      ],
+      "wheels": {
+        "OctoBot_Trading-2.3.32-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "NMqjDTJipqqglnk2Oq90b4DD4vTLxQ0VbNBY8314r5Y=",
+          "cp38"
+        ],
+        "OctoBot_Trading-2.3.32-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "Tcwu10gMghxQshSmQQiR3e11EPDEn5xT9BYIngBBxfg=",
+          "cp38"
+        ],
+        "OctoBot_Trading-2.3.32-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "wC2GslWq3XPTWA3Abv2GDvY53THcoH6+gj0pHweztCo=",
+          "cp38"
+        ],
+        "OctoBot_Trading-2.3.32-cp38-cp38-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "C3VrIlra4rm9d2PMTP+1Cxdh+IP8/x8KuHWo7GbPPNA=",
+          "cp38"
+        ],
+        "OctoBot_Trading-2.3.32-cp38-cp38-win_amd64.whl": [
+          "bp5jg6nGupwD7jf6MgVqMkuY5+/HG8Up7AvXaR4iENE=",
+          "cp38"
+        ]
+      }
+    },
     "2.3.4": {
       "sdist": [
         "rHgxrBtH3QWb2y9sML1TniqoljdV8i3aQowtY0FAn7E=",
@@ -90420,6 +90508,14 @@
       "wheels": {
         "odoo_addons_oca_account_payment-15.0.20230321.0-py3-none-any.whl": [
           "eNw7zn7pD79inl7mOPNYvRz+OOCoP+gHl2VP2x/3F/s=",
+          "py3"
+        ]
+      }
+    },
+    "15.0.20230323.1": {
+      "wheels": {
+        "odoo_addons_oca_account_payment-15.0.20230323.1-py3-none-any.whl": [
+          "1VyNIAjWOD7RCIRWuAq0jlb8GIPPhNklJvCd3TB1wTI=",
           "py3"
         ]
       }

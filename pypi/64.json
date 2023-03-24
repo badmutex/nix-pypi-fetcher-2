@@ -8928,6 +8928,18 @@
         ]
       }
     },
+    "2.35.0": {
+      "sdist": [
+        "I0iWnmojkMNJo94jYLPHPWqD3PzxLR4rYh9bbnp/wrQ=",
+        "aws-solutions-constructs.aws-wafwebacl-alb-2.35.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_wafwebacl_alb-2.35.0-py3-none-any.whl": [
+          "rqYRKLPF2CIOP1W6nbMFuR5aUlcSRtDK8NtneT2yME0=",
+          "py3"
+        ]
+      }
+    },
     "2.4.0": {
       "sdist": [
         "DIsYsvam/9gUg7W579+B6Zdojp3aiKFmvNTakzNySd8=",
@@ -11206,6 +11218,18 @@
       "wheels": {
         "aws_solutions_constructs.core-2.34.0-py3-none-any.whl": [
           "K79VnTB9PNra5saV/6Tt9igLhu+Br5YXGWcLtgy3irc=",
+          "py3"
+        ]
+      }
+    },
+    "2.35.0": {
+      "sdist": [
+        "3Mx443mV/PPScWKruaSFGWHkx/7PY/sEFxBEXq9bY/w=",
+        "aws-solutions-constructs.core-2.35.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.core-2.35.0-py3-none-any.whl": [
+          "K6f+avaDvNZKZQ5J8qtlR/W6VvoP+2s5eKfBMzf2sFY=",
           "py3"
         ]
       }
@@ -65360,6 +65384,18 @@
       "wheels": {
         "glue_small_multiples-1.1-py3-none-any.whl": [
           "8IHcGhOFCaAh6qfP81RBOR7SQutJqhq5rCaHAC/Sa4o=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.1": {
+      "sdist": [
+        "NaeN+FFjigdKSvBJRtcXsVhsecTN/AF0TLQS1raqXbc=",
+        "glue-small-multiples-1.1.1.tar.gz"
+      ],
+      "wheels": {
+        "glue_small_multiples-1.1.1-py3-none-any.whl": [
+          "1fik3qUAxPl3xlAQVYGFe//a8tkaL3lT+C6bgLIZcA4=",
           "py3"
         ]
       }
@@ -139116,6 +139152,50 @@
         ],
         "spconv_cu102-2.3.4-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "t1Jo8+5RthmPNiKJfHa1G+6Kb/qwP0IE2UwRq5bCw4A=",
+          "cp39"
+        ]
+      }
+    },
+    "2.3.5": {
+      "wheels": {
+        "spconv_cu102-2.3.5-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "4fLwdfvFftCg9hDXDsBBMFmKA3V482tnL71BoiTLYX8=",
+          "cp310"
+        ],
+        "spconv_cu102-2.3.5-cp310-cp310-win_amd64.whl": [
+          "W1802Cn2sy0LA5k+AG72ezvuQgtGUr0BKb/b6ak4mOE=",
+          "cp310"
+        ],
+        "spconv_cu102-2.3.5-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "sOvEoOPTlylO4/U5+ZrI5nS1fBJZDJocZTvML4oFstA=",
+          "cp311"
+        ],
+        "spconv_cu102-2.3.5-cp311-cp311-win_amd64.whl": [
+          "yBTN9PeluVPhfJSvfZ6PjxiyYW1Ypg6UyTZ1JaxXU58=",
+          "cp311"
+        ],
+        "spconv_cu102-2.3.5-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "pcwFzEMVpx+gwJIu3Q7ZztG1lgIMNf67sO89m+jZRJA=",
+          "cp37"
+        ],
+        "spconv_cu102-2.3.5-cp37-cp37m-win_amd64.whl": [
+          "yn4lUP7qS9q3s2fSohkuTpxk2FQp3F3oRsjujizWXRo=",
+          "cp37"
+        ],
+        "spconv_cu102-2.3.5-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "rIPUxEIXFPsUGeIe/BTcSaTwPyqZxGZ6JuUcbggWf9M=",
+          "cp38"
+        ],
+        "spconv_cu102-2.3.5-cp38-cp38-win_amd64.whl": [
+          "x95t2c6PIfc4/BkNUeIfyfprQhfc8nZ4h7cKTBmJFNs=",
+          "cp38"
+        ],
+        "spconv_cu102-2.3.5-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "NjGrk3tuX56ILz8i+iFm01zf3jZ6QeZkw0POydFp4zY=",
+          "cp39"
+        ],
+        "spconv_cu102-2.3.5-cp39-cp39-win_amd64.whl": [
+          "AKd9fnhV/4ZxQTZyaPzZkBObrDMrVoEP/7v2gIKX5Uw=",
           "cp39"
         ]
       }

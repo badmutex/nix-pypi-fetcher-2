@@ -22075,6 +22075,18 @@
           "py2.py3"
         ]
       }
+    },
+    "4.0.0": {
+      "sdist": [
+        "BTcoerFPt+OXp2TENwca1NaivRQU+hKkCLesFwONnJY=",
+        "chartify-4.0.0.tar.gz"
+      ],
+      "wheels": {
+        "chartify-4.0.0-py2.py3-none-any.whl": [
+          "qD1EPKCAuSEO7RTZH1oIJjWdJhAKILiXweMQyYLDh8o=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "chatsonic-py": {
@@ -35159,6 +35171,12 @@
         "MtrP0dOBYz3kkpE+fxdIGMJv8TnrrXtwGP19Zqr4UqA=",
         "djaodjin-survey-0.9.0.tar.gz"
       ]
+    },
+    "0.9.1": {
+      "sdist": [
+        "XWQ7KqATGEg1Tlv24G2ZXNokTqE1WiINSfKN7lvFzQM=",
+        "djaodjin-survey-0.9.1.tar.gz"
+      ]
     }
   },
   "dkpro-cassis": {
@@ -43412,6 +43430,18 @@
       "wheels": {
         "fastkafka-0.3.0rc0-py3-none-any.whl": [
           "JQd7QGbqmKw9JQMGeBK8ExRB4z1JRpDWB8sJ+FsQj5k=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.0rc1": {
+      "sdist": [
+        "/n5yJbSH4ttcKv5J6xs8h8IMzX4JAzxIKNi+i+CBkf0=",
+        "fastkafka-0.3.0rc1.tar.gz"
+      ],
+      "wheels": {
+        "fastkafka-0.3.0rc1-py3-none-any.whl": [
+          "luLTEBl/imEhPFJxKJREZ95gob9V2gZcLxKaO3WLBNo=",
           "py3"
         ]
       }
@@ -60498,6 +60528,18 @@
       "wheels": {
         "kabbes_pypi_builder-0.10.0-py3-none-any.whl": [
           "jI9A/XPG+U/jKICcxhtBmI/ghP3ifpGg7uxnx6KI17E=",
+          "py3"
+        ]
+      }
+    },
+    "0.11.0": {
+      "sdist": [
+        "o8P1DswgAoKXkNjZykvGBocG5NyQnwEH9oIXGxDIwYM=",
+        "kabbes_pypi_builder-0.11.0.tar.gz"
+      ],
+      "wheels": {
+        "kabbes_pypi_builder-0.11.0-py3-none-any.whl": [
+          "5ipqhk01HJSBQ+TwSL0eHDYMZJhUl7iWovj9uZHeEXc=",
           "py3"
         ]
       }
@@ -94057,6 +94099,24 @@
       }
     }
   },
+  "odoo-addon-fleet-vehicle-fuel-capacity": {
+    "15.0.1.0.1.3": {
+      "wheels": {
+        "odoo_addon_fleet_vehicle_fuel_capacity-15.0.1.0.1.3-py3-none-any.whl": [
+          "as42MNcJp97SvZ9uSxWOy0KnX5dCRmMRhUJVC5fH/Gg=",
+          "py3"
+        ]
+      }
+    },
+    "15.0.1.0.1.4": {
+      "wheels": {
+        "odoo_addon_fleet_vehicle_fuel_capacity-15.0.1.0.1.4-py3-none-any.whl": [
+          "rXbRuC4o/dZM9KJJFtwBEIbgMhvxy98YHGNoP+JJvBM=",
+          "py3"
+        ]
+      }
+    }
+  },
   "odoo-addon-project-parent-task-filter": {
     "15.0.1.0.0.2": {
       "wheels": {
@@ -95666,6 +95726,14 @@
       "wheels": {
         "odoo14_addon_account_due_list-14.0.1.1.2.dev1-py3-none-any.whl": [
           "Y/yKQbxx/QHk0PChyB4vtqkU+MXWyYGqNavRPvLnREo=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.1.1.2.dev2": {
+      "wheels": {
+        "odoo14_addon_account_due_list-14.0.1.1.2.dev2-py3-none-any.whl": [
+          "012PIQMYtgXN8sWkuqiWpwH6V0vYssgzEjG98VKKNf0=",
           "py3"
         ]
       }
@@ -98289,6 +98357,20 @@
         "zP8lSTjhZzVXhMHTMvs/fB/hX6YmBrmV/yy9fwNW9jI=",
         "ops_channel-0.5.4.tar.gz"
       ]
+    }
+  },
+  "orb-billing": {
+    "1.0.0": {
+      "sdist": [
+        "rf6s5H8gn0BKGVD1qT1yckwPiVQbn+gTHiTgmKJ1buw=",
+        "orb-billing-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "orb_billing-1.0.0-py3-none-any.whl": [
+          "tMgYxT7+UVKJ5jCtc3K7YS2GEHQ1TSrnJTy+2khe/Us=",
+          "py3"
+        ]
+      }
     }
   },
   "organizze-client": {

@@ -1016,6 +1016,34 @@
         ]
       }
     },
+    "1.2.26": {
+      "wheels": {
+        "accera_compilers-1.2.26-cp310-cp310-macosx_11_0_x86_64.whl": [
+          "XJ7Oeyu7aedZBC32R6Lxv6Ob6yvDQ7V/esMXuH75m5w=",
+          "cp310"
+        ],
+        "accera_compilers-1.2.26-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "W+hpV3iccyOnWZLxBW62x/BmgpN8+eD3jjJPDJ7o/lY=",
+          "cp310"
+        ],
+        "accera_compilers-1.2.26-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "GsP8CJfLHPx90L+2fuwXZbJFQVvLeZBDMhK+sty9J/k=",
+          "cp37"
+        ],
+        "accera_compilers-1.2.26-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "p0otcY8ai9wQAHfbP55LgaS8W4gwGZyAhq48xI+FvTE=",
+          "cp38"
+        ],
+        "accera_compilers-1.2.26-cp39-cp39-macosx_11_0_x86_64.whl": [
+          "RSYCazwL602ZrUa1UWsSqbV+271hJMlOMieiXFZ6Iss=",
+          "cp39"
+        ],
+        "accera_compilers-1.2.26-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "+loUI+RXVx3VLVP075UJ0oBTAeoRwMHBhMXhPygESsU=",
+          "cp39"
+        ]
+      }
+    },
     "1.2.8": {
       "wheels": {
         "accera_compilers-1.2.8-cp310-cp310-macosx_10_15_x86_64.whl": [
@@ -12922,6 +12950,18 @@
         ]
       }
     },
+    "2.35.0": {
+      "sdist": [
+        "g/s7lFDELE57IqwNZjTg+Ei4UpXZupEq0Z8r+R6UAeU=",
+        "aws-solutions-constructs.aws-kinesis-streams-lambda-2.35.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_kinesis_streams_lambda-2.35.0-py3-none-any.whl": [
+          "HeLVGR5vyySSbYntG/6TQWs0TuP/A9CgR7ENy+ovNrU=",
+          "py3"
+        ]
+      }
+    },
     "2.4.0": {
       "sdist": [
         "vRvvppAVOxDS4lcgjfjP2uFyZ9toJ2dd7TMkzAiP4k8=",
@@ -19978,6 +20018,18 @@
       "wheels": {
         "cafcore-0.1.1-py3-none-any.whl": [
           "cAwOvnE38SnjjIXmEnSXBel2jCTI06A+jKPvwFO08Zk=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.3": {
+      "sdist": [
+        "41jQXEro4UNpNMq0bVZJdK94BPvsOny8038JAuILx4Q=",
+        "cafcore-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "cafcore-0.1.3-py3-none-any.whl": [
+          "BpYTwt0rr5nEc1wNOYQRaT7TSd0rvVrq1z/fBq52iAk=",
           "py3"
         ]
       }
@@ -54421,6 +54473,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.2": {
+      "sdist": [
+        "srknVn7HqPl1WyHzLGzXRL1H8eMbUjhObeZXEW31Uvc=",
+        "highball-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "highball-0.0.2-py3-none-any.whl": [
+          "IyNUNbR5+8/yrWdcJkFJ6I4kFwbWIN40EWTtxqS+K1E=",
+          "py3"
+        ]
+      }
     }
   },
   "hihylang": {
@@ -55008,6 +55072,14 @@
       "wheels": {
         "huspacy-0.7.0-py3-none-any.whl": [
           "4WpRU0D0mhWr9zc8nTA6PoIvRyVNdIU6Wu31nLmEExI=",
+          "py3"
+        ]
+      }
+    },
+    "0.8.0": {
+      "wheels": {
+        "huspacy-0.8.0-py3-none-any.whl": [
+          "KsA3kGpIifMAHVmZoIAdg7HlFI6vwfUtYRGdjhWY6vs=",
           "py3"
         ]
       }
@@ -140948,6 +141020,14 @@
       "wheels": {
         "tensorflow_serving_api_gpu-2.11.0rc2-py2.py3-none-any.whl": [
           "ejv2PsbLeRL5wHiGonIUYsNjUMVsv+f6vjm7GH86WcE=",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.11.1": {
+      "wheels": {
+        "tensorflow_serving_api_gpu-2.11.1-py2.py3-none-any.whl": [
+          "k1LjaNNHTCX3FsFh2r25NBTEwTVWUymW4qRLuOXDr6s=",
           "py2.py3"
         ]
       }

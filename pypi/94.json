@@ -56253,6 +56253,18 @@
           "py2.py3"
         ]
       }
+    },
+    "1.2.0": {
+      "sdist": [
+        "1fv41PsDurIP9M3HF1H7dkSxUGuh4fXlCGEqD3rpuUg=",
+        "invenio-vocabularies-1.2.0.tar.gz"
+      ],
+      "wheels": {
+        "invenio_vocabularies-1.2.0-py2.py3-none-any.whl": [
+          "9UatY2ePZlEKueTx6xxc0Dn1M+Il4BHOsQUmq06gTWk=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "invent-with-python-zh": {
@@ -62180,6 +62192,18 @@
       "wheels": {
         "layerx_sdk_beta-0.0.21b3-py3-none-any.whl": [
           "8/l8PR548W51FApo5ofpgAYzClqYAmVHnDcky+dyrxM=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.10b0": {
+      "sdist": [
+        "Bs7ZDldJic1MFtlRB4vuvm1WQEItCMO3OFUvbMvQMBk=",
+        "layerx-sdk-beta-1.0.10b0.tar.gz"
+      ],
+      "wheels": {
+        "layerx_sdk_beta-1.0.10b0-py3-none-any.whl": [
+          "rJlF0g8gWaMIRGgHgumy72saGPJS02ayxzfI2KIucXw=",
           "py3"
         ]
       }
@@ -70822,6 +70846,12 @@
       "sdist": [
         "3vNgkeMoJHqmM2JKCT5GlCEdzA6C3WZkeZu6xKBklUs=",
         "localstack-ext-1.4.1.dev20230323123259.tar.gz"
+      ]
+    },
+    "2.0.0.dev20230324141211": {
+      "sdist": [
+        "pEL40wVGD0ln5IaRjwx/6oQZ47ltp9qnGsGqQQilkf8=",
+        "localstack-ext-2.0.0.dev20230324141211.tar.gz"
       ]
     }
   },
@@ -93102,6 +93132,12 @@
       "sdist": [
         "l9wtyBL2iqdfxI20WPjygA/fpNijmMB5TOMCrdsqdAQ=",
         "paasta-tools-0.165.2.tar.gz"
+      ]
+    },
+    "0.165.3": {
+      "sdist": [
+        "z4xDfK2TkaRaq5KIjBjKc0j5f63vZ61YoxMFOIFVwic=",
+        "paasta-tools-0.165.3.tar.gz"
       ]
     },
     "0.17.0": {

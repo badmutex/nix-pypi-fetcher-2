@@ -16246,6 +16246,18 @@
         ]
       }
     },
+    "0.14.15": {
+      "sdist": [
+        "YT0sZkYmDxwajHOylP2resP8E1Yu3iLBhPNl1vL/PjM=",
+        "aws_prototyping_sdk.identity-0.14.15.tar.gz"
+      ],
+      "wheels": {
+        "aws_prototyping_sdk.identity-0.14.15-py3-none-any.whl": [
+          "Le0I40mRraO8mwk+flpzTqYNmKTeUG5+GRinbZ3zPJk=",
+          "py3"
+        ]
+      }
+    },
     "0.14.2": {
       "sdist": [
         "L04YQK525SJHek36++fCisHVqHSNBcIXHeKzPHLRPow=",
@@ -31885,6 +31897,30 @@
           "py3"
         ]
       }
+    },
+    "0.2.2": {
+      "sdist": [
+        "zbVlugfwZb3t8rSvXePK+XzSd8h/+Tn3TLQT475/g1c=",
+        "consistency-0.2.2.tar.gz"
+      ],
+      "wheels": {
+        "consistency-0.2.2-py3-none-any.whl": [
+          "SMpssueeYK5D6W5y4+HxiHHWufuMqmQtK/La4OQ+aUw=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.3": {
+      "sdist": [
+        "3/9ytoWgPZnDKXujm81aXtcSOEeKNLHJdf3hwgibe8k=",
+        "consistency-0.2.3.tar.gz"
+      ],
+      "wheels": {
+        "consistency-0.2.3-py3-none-any.whl": [
+          "ND39vFiIOMA17Vxs4eaRx1qwMWkWEcmrLS9w1uYO4QA=",
+          "py3"
+        ]
+      }
     }
   },
   "contactbwc": {
@@ -40330,6 +40366,18 @@
       "wheels": {
         "django_api_forms-1.0.0rc8-py3-none-any.whl": [
           "zWvcJYgkxNUtPIhJ1PjP4hzqsV6ZhACvwk+zY2BcDao=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.0rc9": {
+      "sdist": [
+        "58jqKLw6TxD5HhO9GhmzvI093BsAlPMSAR0ZZc8bwTE=",
+        "django_api_forms-1.0.0rc9.tar.gz"
+      ],
+      "wheels": {
+        "django_api_forms-1.0.0rc9-py3-none-any.whl": [
+          "9BSSydnHfxA6aYu+KvymOaVUq7jzLDAjZjRCy/wgO9Y=",
           "py3"
         ]
       }
@@ -83968,6 +84016,18 @@
         ]
       }
     },
+    "0.5.10": {
+      "sdist": [
+        "jznBTNykyd4cusOZsSEWT8IvWfr+vizddpI1nxixEb4=",
+        "mitzu-0.5.10.tar.gz"
+      ],
+      "wheels": {
+        "mitzu-0.5.10-py3-none-any.whl": [
+          "w4LXZXSmIcK3xUC+0L63prr95F2YShKyJ1zemV1oKvI=",
+          "py3"
+        ]
+      }
+    },
     "0.5.2": {
       "sdist": [
         "AhvDk6izQ+LnSNi9vb/3+PLepk3UOPcepjNr9CYXA7Q=",
@@ -84072,6 +84132,18 @@
       "wheels": {
         "mitzu-0.5.8-py3-none-any.whl": [
           "tiNBP7X7IRkBHYGKeJiHrR2r0jaTyMsiWmDtByX8Ikc=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.9": {
+      "sdist": [
+        "Nl8SFh1ZEkXnSdln2WRd+zZHLfj4I8v8HVusecs3kkw=",
+        "mitzu-0.5.9.tar.gz"
+      ],
+      "wheels": {
+        "mitzu-0.5.9-py3-none-any.whl": [
+          "8D+8jKVM7qmIBtfk0PAEWzDhPSu+QYLvVQHyVbMSBB8=",
           "py3"
         ]
       }
@@ -95167,6 +95239,14 @@
           "py3"
         ]
       }
+    },
+    "13.0.1.0.3.dev2": {
+      "wheels": {
+        "odoo13_addon_pos_payment_method_image-13.0.1.0.3.dev2-py3-none-any.whl": [
+          "8A8Guuyi9BkdvSkO4aOrA/SU9ws/6/Bcbuv/uU7IKTM=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo13-addon-project-task-digitized-signature": {
@@ -104385,6 +104465,254 @@
           "cp39"
         ]
       }
+    },
+    "4.0": {
+      "sdist": [
+        "EUQN/Ab1Rb+n5Gz4Mpr1sj08/WZNq13jw+/Sb8a9bmE=",
+        "Persistence-4.0.tar.gz"
+      ],
+      "wheels": {
+        "Persistence-4.0-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "rnjVF6h/kbqJ2+oXnKaAKODvLQgt6F8/HeKQH00PimQ=",
+          "cp310"
+        ],
+        "Persistence-4.0-cp310-cp310-macosx_11_0_arm64.whl": [
+          "vmDh+warhEq/M4ILXD7pz6rixt2rZRhA9Me4Vpd90Do=",
+          "cp310"
+        ],
+        "Persistence-4.0-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "q0maJ2xw9DtQzySR57M7oG6iUZ/BepXXu1GTI7tSgmI=",
+          "cp310"
+        ],
+        "Persistence-4.0-cp310-cp310-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "OdKTPHrOAri4jsrenK+Jkuo8RR8LIuSlQ+XcI7F2Bto=",
+          "cp310"
+        ],
+        "Persistence-4.0-cp310-cp310-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "2Lu6e/u6lxNC28bCEVA1xSQ5lxR6OQoVGM/9TkZVWAc=",
+          "cp310"
+        ],
+        "Persistence-4.0-cp310-cp310-win_amd64.whl": [
+          "HDUOUQdp10wCM7Su3FgpgzzATpzZ5YFgaDp0pvzomzE=",
+          "cp310"
+        ],
+        "Persistence-4.0-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "3SZb8KHt1fSYzxs4oqWbqWGbcAkEQl5E3Zm3fBNhUjw=",
+          "cp311"
+        ],
+        "Persistence-4.0-cp311-cp311-macosx_11_0_arm64.whl": [
+          "YL0rHlwCopYXa8/jFiO+nuopF3Scg/EjmAX2rJTil7s=",
+          "cp311"
+        ],
+        "Persistence-4.0-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "t4Sb8spnWROrXh9vhwDNf4jOtYbXO7eKIX8cs9/8xi4=",
+          "cp311"
+        ],
+        "Persistence-4.0-cp311-cp311-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "q/DUmVbLQywDq5qS2bXzl5Lol7lyOLzA3dLg9/SvZJY=",
+          "cp311"
+        ],
+        "Persistence-4.0-cp311-cp311-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "JTj65MrsPWhK2j6byGUA9rvLjCUulY5eNjjaj051Vt8=",
+          "cp311"
+        ],
+        "Persistence-4.0-cp311-cp311-win_amd64.whl": [
+          "q7CAo3hhLhaUCwcm2amH1L0VffaKdJ7fz9vTosGp6Zg=",
+          "cp311"
+        ],
+        "Persistence-4.0-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "vx9oFUQPSdDLYFPCLAGLI+BKQxsDNgvmRY9O20A6/t4=",
+          "cp37"
+        ],
+        "Persistence-4.0-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "eN2B/POlmbVLotRbwhv8jRT8qjbWxm7+yW90gvekdj4=",
+          "cp37"
+        ],
+        "Persistence-4.0-cp37-cp37m-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "ws7qVeygNP/4RlLdbJhneVWBKYzvTmmCanLwQiFDkxI=",
+          "cp37"
+        ],
+        "Persistence-4.0-cp37-cp37m-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "kaXT950nbpu9R6yXbH/N1GdyCQ+YdEzPTm+sEaFSydM=",
+          "cp37"
+        ],
+        "Persistence-4.0-cp37-cp37m-win_amd64.whl": [
+          "KUY7wwBIjS/fzld7w8gjBW2/FzE0kFBWHClaLdHTbvA=",
+          "cp37"
+        ],
+        "Persistence-4.0-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "spBR8mTHQUTWdSpber/GcWRZ20qKSgUEVmlWicZKveM=",
+          "cp38"
+        ],
+        "Persistence-4.0-cp38-cp38-macosx_11_0_arm64.whl": [
+          "pxnFk56BY44J55hGyPc8wKDoq2XYFBrJA4slCTK7Oc0=",
+          "cp38"
+        ],
+        "Persistence-4.0-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "5Mw+hjcU4eS+kfFijj6D6vYA+gsf/B7bPECcdwGOdzk=",
+          "cp38"
+        ],
+        "Persistence-4.0-cp38-cp38-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "fgCfZx5fYKk/KZhW5cIc3bOuEWvtIKstTI9lIjWMVzY=",
+          "cp38"
+        ],
+        "Persistence-4.0-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "i9EEtu9zJ7Fte/6RKcC4I4y+MHPvf9Y7KMAm6i1+3PM=",
+          "cp38"
+        ],
+        "Persistence-4.0-cp38-cp38-win_amd64.whl": [
+          "U0xgr9DWV6u8LvC7MZHA37wbTvnjHF6l/wp1k8khx4M=",
+          "cp38"
+        ],
+        "Persistence-4.0-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "/V3LfU/sfR01nJd2tI6RICxOJc9d6mR9Dj73wkgCOYU=",
+          "cp39"
+        ],
+        "Persistence-4.0-cp39-cp39-macosx_11_0_arm64.whl": [
+          "cBb0GNsiTzdCm5J4db5UGbpz/zzHuPJ2QWckxQfKDHU=",
+          "cp39"
+        ],
+        "Persistence-4.0-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "A+lJKisH/bI6zH1mlmKgwnr3oTy49zY4lJcIoAf9Qlk=",
+          "cp39"
+        ],
+        "Persistence-4.0-cp39-cp39-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "BfTqQ9KSf+Jk62OJ04I6Cgud63P6fFAIM09AdaEcFkk=",
+          "cp39"
+        ],
+        "Persistence-4.0-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "LhI+5wr3LmxTQDPiWmZVcwPqo40OCnsLNiOrkOLVnNk=",
+          "cp39"
+        ],
+        "Persistence-4.0-cp39-cp39-win_amd64.whl": [
+          "ag6wqKjB49D4X5DeaAMA8fhljpx6LLovVba4yVF/BHk=",
+          "cp39"
+        ]
+      }
+    },
+    "4.0.post1": {
+      "sdist": [
+        "jTrejXE5oQlUNWN85Awt1NXqL2RW0q9+x8kYPRL2IYc=",
+        "Persistence-4.0.post1.tar.gz"
+      ],
+      "wheels": {
+        "Persistence-4.0.post1-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "OZjZ05/uZ7fkf8cSkfHKfWDqtjeKa8iltPselZau9+8=",
+          "cp310"
+        ],
+        "Persistence-4.0.post1-cp310-cp310-macosx_11_0_arm64.whl": [
+          "Gwfm3qPuUlXyGFGH5nZ4HnxU14tKUuXsm7EiTKtDvvM=",
+          "cp310"
+        ],
+        "Persistence-4.0.post1-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "6QbxCO+0i05gUGr9yHMNPc6oJq785hEAPyLpHLO1dX0=",
+          "cp310"
+        ],
+        "Persistence-4.0.post1-cp310-cp310-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "JJ6DaWtQDJeyYJTMunFfuqXMj4R5dvyZtFoXUAtsfVs=",
+          "cp310"
+        ],
+        "Persistence-4.0.post1-cp310-cp310-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "IgkpvtK40doyu02IPBjYM7R52Vmap3o/nt0barn9el0=",
+          "cp310"
+        ],
+        "Persistence-4.0.post1-cp310-cp310-win_amd64.whl": [
+          "5dTOv0RuKW+RJdCEtUT0dfTmiB9vaIRs5MgHJhFxLIo=",
+          "cp310"
+        ],
+        "Persistence-4.0.post1-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "S52TTE5ffPAiodrJm0ZBCe75E44dahcUM6LFYC3eHCU=",
+          "cp311"
+        ],
+        "Persistence-4.0.post1-cp311-cp311-macosx_11_0_arm64.whl": [
+          "uBjCmYhQ/QzlAdbCz21GmIpuf5v5CEDYvl7Get76nR8=",
+          "cp311"
+        ],
+        "Persistence-4.0.post1-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "iuTQtsNhQe6Etm7/nzzBhFeIvIg9YnQpV+PkNouCAsc=",
+          "cp311"
+        ],
+        "Persistence-4.0.post1-cp311-cp311-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "AMWSY/tEfmgqFTYfDqTXcOWdP5nr50ffeUWFtmonz/w=",
+          "cp311"
+        ],
+        "Persistence-4.0.post1-cp311-cp311-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "3ui/UAI6vjuHOnjz1VEzhg/9hMANm2RZcTWacDRhmFc=",
+          "cp311"
+        ],
+        "Persistence-4.0.post1-cp311-cp311-win_amd64.whl": [
+          "3zKCktWWSyiYuFi8v9hD0dlo+PPsVQJ3suIlMMHUFgE=",
+          "cp311"
+        ],
+        "Persistence-4.0.post1-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "03cZdeCY8LsCeMCQi9+Etcc4E9Gqutua4L5+QN7/3+I=",
+          "cp37"
+        ],
+        "Persistence-4.0.post1-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "tg2kfz8bP+tQ/yIjHr98d/3GiTNtytVHSd3yJ9kyinM=",
+          "cp37"
+        ],
+        "Persistence-4.0.post1-cp37-cp37m-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "Mieyajc09oJnRKaPcBOtpa48svJXq6uee8XiYpHpNm0=",
+          "cp37"
+        ],
+        "Persistence-4.0.post1-cp37-cp37m-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "5zIFl8Iw86z1heqRNRRfRyIG4JfmJKv1Mpo0xoCh6os=",
+          "cp37"
+        ],
+        "Persistence-4.0.post1-cp37-cp37m-win_amd64.whl": [
+          "MEJbHjeGuTwP/4WVlrM3mLJO7VnlNRbL8jNGsckzhHI=",
+          "cp37"
+        ],
+        "Persistence-4.0.post1-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "u6Ugqewj7UaM1wbaEg0uhOSVCOW63tA4//j/PBQpG/w=",
+          "cp38"
+        ],
+        "Persistence-4.0.post1-cp38-cp38-macosx_11_0_arm64.whl": [
+          "r194uhMV8wSIG7p50Pl+cvB1kryOpKXI2+JhIxoKsvY=",
+          "cp38"
+        ],
+        "Persistence-4.0.post1-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "+37VbIyuPeYRyRg1kSYLStgShD4/fuS5gfsPk1q5gFA=",
+          "cp38"
+        ],
+        "Persistence-4.0.post1-cp38-cp38-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "r6xWDmaDR0C1pclMtBc2z5Ou6Q8dVtuOsP/hkWj10tc=",
+          "cp38"
+        ],
+        "Persistence-4.0.post1-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "hcZcH8jAerpownmXnQX0YTWJHbuAzlFfIsaC4l6z5SA=",
+          "cp38"
+        ],
+        "Persistence-4.0.post1-cp38-cp38-win_amd64.whl": [
+          "hx/YtSa9VTjTKg8lMewsfNl+ndgP5NZTgeFQ+6EXNiU=",
+          "cp38"
+        ],
+        "Persistence-4.0.post1-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "ekUrtUV4d0cQr6YVsPQp+JNP3esJdmWM2wYI5PYR+5c=",
+          "cp39"
+        ],
+        "Persistence-4.0.post1-cp39-cp39-macosx_11_0_arm64.whl": [
+          "hssK7fDsMyYCLWxZ4q+sd9D0i1O6yfWfbFhFCG+6f0k=",
+          "cp39"
+        ],
+        "Persistence-4.0.post1-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "QnrRXgoIT8kIOMdM5h6RGTpaSgZgftTzGmDRAtFS2zI=",
+          "cp39"
+        ],
+        "Persistence-4.0.post1-cp39-cp39-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "jLtTqcEKg0v08BvSqXRoNy8EwpWjBzz2MK2g+XWGcoM=",
+          "cp39"
+        ],
+        "Persistence-4.0.post1-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "/1ma4N4g9HPygf04QUNJJKPCfmY5+33O6HLDPQlBTMs=",
+          "cp39"
+        ],
+        "Persistence-4.0.post1-cp39-cp39-win_amd64.whl": [
+          "MmPsT5W/Aofeqol8wjAdHEJ8Y1G01PdEZ8WB0yp40gg=",
+          "cp39"
+        ]
+      }
     }
   },
   "pfc-prime-number-or-not": {
@@ -108594,6 +108922,30 @@
       "wheels": {
         "proteinshake-0.3.7-py3-none-any.whl": [
           "E6ybq539FoJZ75DKDZJLPmK0cHreq5U/uiWmOb41fKY=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.8": {
+      "sdist": [
+        "yhLLDLu9OEQx2WJTnK2zZvc4tiTLAFq/QIeB9M6xNKw=",
+        "proteinshake-0.3.8.tar.gz"
+      ],
+      "wheels": {
+        "proteinshake-0.3.8-py3-none-any.whl": [
+          "yvVf5PzUuhW5VpLUHIecVmp5+Pz3pbLo0HB8Xy1l/is=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.9": {
+      "sdist": [
+        "4N+nnj0t/hF6SdvmPQu5UMuUPbKpFW654E6sCtxQTq4=",
+        "proteinshake-0.3.9.tar.gz"
+      ],
+      "wheels": {
+        "proteinshake-0.3.9-py3-none-any.whl": [
+          "LfExr1R90H//8xq0XNPo8xQ3c/IvVKpGJx2xVpBGI28=",
           "py3"
         ]
       }
@@ -157088,6 +157440,30 @@
       "wheels": {
         "xontrib_output_search-0.6.2-py3-none-any.whl": [
           "bdWf4sY4NKYEVtkXzQCGQWoM3UDqoJ5HLlrrtz5OsVg=",
+          "py3"
+        ]
+      }
+    },
+    "0.6.3": {
+      "sdist": [
+        "CnUvprQT/AF7PLejZK3Ve0U7lEbgpz0dDqKsFFl/JCQ=",
+        "xontrib-output-search-0.6.3.tar.gz"
+      ],
+      "wheels": {
+        "xontrib_output_search-0.6.3-py3-none-any.whl": [
+          "YWmdeNtxJC4c5rdnALF1Cuus90SxBhm9QQMWLp4ydvI=",
+          "py3"
+        ]
+      }
+    },
+    "0.6.4": {
+      "sdist": [
+        "y3a466OygSX2qvYLTcTgGxpDqzUH0yngZ4l1onWndsA=",
+        "xontrib-output-search-0.6.4.tar.gz"
+      ],
+      "wheels": {
+        "xontrib_output_search-0.6.4-py3-none-any.whl": [
+          "gQTNVPzSztnQrWTgk0GnMvOENenBmhM2qhqY2Z9oR2w=",
           "py3"
         ]
       }

@@ -6063,6 +6063,14 @@
       }
     }
   },
+  "attentionmoi": {
+    "0.0.2": {
+      "sdist": [
+        "7EQRGCEh3lSAnraOi2amjHiuZufs5pDC9PG0MolAEFg=",
+        "AttentionMOI-0.0.2.tar.gz"
+      ]
+    }
+  },
   "audiofile": {
     "0.1.1": {
       "sdist": [
@@ -58516,6 +58524,12 @@
         "libprobe-0.2.28.tar.gz"
       ]
     },
+    "0.2.29": {
+      "sdist": [
+        "HVF7S+pixyLOfCWybOBUvjTumUhuAugCd1a5ynQcd1M=",
+        "libprobe-0.2.29.tar.gz"
+      ]
+    },
     "0.2.3": {
       "sdist": [
         "MMrO7v3Th9AeJAA4D1aHMswquMSKs8weNkBFw0nwe1k=",
@@ -72515,6 +72529,14 @@
           "py3"
         ]
       }
+    },
+    "15.0.1.0.0.4": {
+      "wheels": {
+        "odoo_addon_bi_view_editor-15.0.1.0.0.4-py3-none-any.whl": [
+          "1/nhT3wC4wHqFnqkPYyUU5vluzaMTdX8mcSFZNPe4EA=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo-addon-event-email-reminder": {
@@ -74014,6 +74036,14 @@
       "wheels": {
         "odoo12_addon_base_custom_info-12.0.2.1.0.99.dev5-py3-none-any.whl": [
           "YGHQSoxj65AD/mrr1r6EYlVYFnrU9FgTF6kIEcm71YE=",
+          "py3"
+        ]
+      }
+    },
+    "12.0.2.1.0.99.dev6": {
+      "wheels": {
+        "odoo12_addon_base_custom_info-12.0.2.1.0.99.dev6-py3-none-any.whl": [
+          "BpspEEKc8h3IQALT2NoVmpyc1xQH69cKZHTI0XJOoZc=",
           "py3"
         ]
       }
@@ -87462,27 +87492,41 @@
     }
   },
   "pybedrock": {
-    "0.0.1": {
-      "wheels": {
-        "pybedrock-0.0.1-py3-none-any.whl": [
-          "FotzZ6kAypB1vG9jw2J2doKZJKm6ufZUmOs7G3b3zsQ=",
-          "3.8"
-        ]
-      }
-    },
-    "0.0.2": {
-      "wheels": {
-        "pybedrock-0.0.2-py3-none-any.whl": [
-          "1Bc9v+L18q3966LMWYMgQEEq+aMMwuo+vnDUG4uvV9g=",
-          "py3"
-        ]
-      }
-    },
     "0.0.3": {
       "sdist": [
         "msvG8oDf2KOGJLRljXhYYjOAQ5B6GfG/ZB3VvS687ZI=",
         "pybedrock-0.0.3.tar.gz"
-      ]
+      ],
+      "wheels": {
+        "pybedrock-0.0.3-pp38-pypy38_pp73-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl": [
+          "D8OC0LJV9caD/LQN5P5w1lkEM5CR1Pcfox2f14R3gxQ=",
+          "pp38"
+        ],
+        "pybedrock-0.0.3-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "BUW07NlXSMbrENpiHoOUoEPsPovSrLpZ9jPHGMRasrE=",
+          "pp39"
+        ],
+        "pybedrock-0.0.3-pp39-pypy39_pp73-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl": [
+          "QeZU9IfsfsbFF2iTzC8ohR0NaD6N7uKmsJdMdE03GLo=",
+          "pp39"
+        ]
+      }
+    },
+    "0.0.4": {
+      "wheels": {
+        "pybedrock-0.0.4-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "sznGeXx/KIv6Tlwjbq7/9ernqVaBht4JR0KLjI6dG9Q=",
+          "cp39"
+        ]
+      }
+    },
+    "0.0.5": {
+      "wheels": {
+        "pybedrock-0.0.5-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "fmUu7+h/eyT4n6b6LgLnlM/2Nlhemmb9WtaT4mEvKp0=",
+          "cp39"
+        ]
+      }
     }
   },
   "pybns": {
@@ -123908,6 +123952,14 @@
       "wheels": {
         "tf_estimator_nightly-2.13.0.dev2023032308-py2.py3-none-any.whl": [
           "fvH4aPOWn9Ffa/YYliuInjFgTgX+qTuVKasJw5e83F0=",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.13.0.dev2023032408": {
+      "wheels": {
+        "tf_estimator_nightly-2.13.0.dev2023032408-py2.py3-none-any.whl": [
+          "Kyd28fBN3xYhI3N+Q4rZzOMenDLWzwBu92gF8cEkFY8=",
           "py2.py3"
         ]
       }

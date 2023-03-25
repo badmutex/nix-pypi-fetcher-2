@@ -18404,6 +18404,18 @@
         ]
       }
     },
+    "0.0.65": {
+      "sdist": [
+        "6eIJf/iZZCe50heLNAPC5WnOECt7dg5ZyaESJU7ubo4=",
+        "cdktf-github-actions-0.0.65.tar.gz"
+      ],
+      "wheels": {
+        "cdktf_github_actions-0.0.65-py3-none-any.whl": [
+          "FzzBXSooabnqV/HC3X+nTS7A0urrSR1pN8ktgW5ot/E=",
+          "py3"
+        ]
+      }
+    },
     "0.0.7": {
       "sdist": [
         "2Jb9FsTqBsP2EqH54AztCJrOaNoC7j3KUFpHA8cgWTE=",
@@ -18666,6 +18678,18 @@
       "wheels": {
         "celery_dispatcher-1.1.2-py3-none-any.whl": [
           "1fCp4bJ2K7K8ps1rhjhOJ4ZmmIXBfqcb7K0rVRLtwRY=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.3": {
+      "sdist": [
+        "kGWDqlH2Oseh2cG/dJAEuYdDzUMSxS3NjLFTvoq51TM=",
+        "celery-dispatcher-1.1.3.tar.gz"
+      ],
+      "wheels": {
+        "celery_dispatcher-1.1.3-py3-none-any.whl": [
+          "Ib1/3z124n+rdYNEs48H1arGur6XMbK22qvBy6QBoGQ=",
           "py3"
         ]
       }
@@ -73043,6 +73067,18 @@
           "py3"
         ]
       }
+    },
+    "1.5.0": {
+      "sdist": [
+        "QRDztvnOB0lrU6l9u8gyWnOoeQI0Bicxdi18bYu/dC8=",
+        "ludopy-1.5.0.tar.gz"
+      ],
+      "wheels": {
+        "ludopy-1.5.0-py3-none-any.whl": [
+          "EQ6JZMSRPwdqDVmBuVTl4IJV2/oAnZ5gFOlUxo6nHeo=",
+          "py3"
+        ]
+      }
     }
   },
   "luko-rada-package-2": {
@@ -100352,6 +100388,12 @@
         "poonia-0.1.15.tar.gz"
       ]
     },
+    "0.1.16": {
+      "sdist": [
+        "1bON44d8nnqEFW1dbEuqmm/SQhqYhhnM+dCLrB+Ga0M=",
+        "poonia-0.1.16.tar.gz"
+      ]
+    },
     "0.1.2": {
       "sdist": [
         "crE34Xolv/QAn6bfJqTpvKwTsLENIGQq1JqBJFwoeP8=",
@@ -102184,6 +102226,18 @@
         ]
       }
     },
+    "0.11.0": {
+      "sdist": [
+        "/qltNWHeIBj4iyW4els8LWzVqK8oZP/uVjfVQZl4AaU=",
+        "ptpuploader-0.11.0.tar.gz"
+      ],
+      "wheels": {
+        "ptpuploader-0.11.0-py3-none-any.whl": [
+          "zJxatnlJMKo24+PgzImQl2hAAsQDsb7kEde1G4JoIAc=",
+          "py3"
+        ]
+      }
+    },
     "0.9.0": {
       "sdist": [
         "R/oW3vmC1KH6VND+Jd7CcsaIcDjPhjmz3lXTaz76frw=",
@@ -103498,6 +103552,18 @@
       "wheels": {
         "pybpa-0.6.7-py3-none-any.whl": [
           "sBED2+e3SPWbtTpEbGisP9tUCnQJYLPwV6tStAjyMGU=",
+          "py3"
+        ]
+      }
+    },
+    "0.7.0": {
+      "sdist": [
+        "peKYqftbd+hV4nHYxmqShWe4I13JIQZVEuFoF+zk2Zs=",
+        "pybpa-0.7.0.tar.gz"
+      ],
+      "wheels": {
+        "pybpa-0.7.0-py3-none-any.whl": [
+          "K2bUe2UT2R3ysJfClusOKz36BBYbYEnyDQJYMGm0sfE=",
           "py3"
         ]
       }
@@ -147354,6 +147420,42 @@
       "wheels": {
         "webspot-0.0.1-py3-none-any.whl": [
           "aea3Y67/19UnA4Z5D/nVFbO1ePG/BZ3LTUa5RV0Gl44=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.0": {
+      "sdist": [
+        "dytU3oJnvcuakGR3iQ4SbLhQMQqHgtxi5/PhHT2UWGQ=",
+        "webspot-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "webspot-0.1.0-py3-none-any.whl": [
+          "iUBhftaXrAihDZF+9AFHUnwSb+pfso1q9oi8VusZ+Uc=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "MQuZzGrjhuB/DAaJ7A+ZEmYD1WEPiaIOz+iYCkepczU=",
+        "webspot-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "webspot-0.1.2-py3-none-any.whl": [
+          "WC7LxrA+FcjvHwarr2HNgi6barjVLWYHP1M4BPSGUGY=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.3": {
+      "sdist": [
+        "P/5TFAYKyM/IzczamfE03mHyPoh1ziJPd/uZCY3FKHM=",
+        "webspot-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "webspot-0.1.3-py3-none-any.whl": [
+          "sRLiFMUQqUIlqE9WWMvaY6dxC7NCOs8QBSYJig2h9R4=",
           "py3"
         ]
       }

@@ -13611,6 +13611,18 @@
           "py3"
         ]
       }
+    },
+    "1.29.99": {
+      "sdist": [
+        "xCfrAfsKBHnt2JsPByhs6gfOWbHQoM1XbU8qcL+mELA=",
+        "botocore-a-la-carte-healthlake-1.29.99.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_healthlake-1.29.99-py3-none-any.whl": [
+          "EWDxZBrtGFcZCZmmizfkRgOCAgMAq07BOBjJj0s1GXI=",
+          "py3"
+        ]
+      }
     }
   },
   "bowl": {
@@ -37440,6 +37452,26 @@
         ],
         "fbgemm_gpu_cpu-0.4.0rc0-cp39-cp39-manylinux1_x86_64.whl": [
           "3BtpFDKLBKDNyQttvDTIb5Nj5mmYSWYvCb3fNeU6HxE=",
+          "cp39"
+        ]
+      }
+    },
+    "0.4.1": {
+      "wheels": {
+        "fbgemm_gpu_cpu-0.4.1-cp310-cp310-manylinux1_x86_64.whl": [
+          "zBbwGqk2sQ4UMJ5mzNINsUXdjAHVC7HXWp+4stuobGg=",
+          "cp310"
+        ],
+        "fbgemm_gpu_cpu-0.4.1-cp311-cp311-manylinux1_x86_64.whl": [
+          "ImnxfNoQhCyWIVsrlevUPkHoJS/IV11Ga57SJdoi+yM=",
+          "cp311"
+        ],
+        "fbgemm_gpu_cpu-0.4.1-cp38-cp38-manylinux1_x86_64.whl": [
+          "hunSkhOE+zIp2gg9xZmXB2wys9y1pPr7iPSCrXnFxHk=",
+          "cp38"
+        ],
+        "fbgemm_gpu_cpu-0.4.1-cp39-cp39-manylinux1_x86_64.whl": [
+          "1zCfl0Kxb2WPyMZtrUWSv0GyeMS2RuQb47jvC4SRG7c=",
           "cp39"
         ]
       }
@@ -80751,6 +80783,18 @@
           "py3"
         ]
       }
+    },
+    "1.2.0": {
+      "sdist": [
+        "Mzkp/GYz6dBbX/yyaqDHiEJvFbxI+h/jX/90kTofwDE=",
+        "nmcli-1.2.0.tar.gz"
+      ],
+      "wheels": {
+        "nmcli-1.2.0-py3-none-any.whl": [
+          "GlQrm/KN9YsrEmE+4+raJ8JjhH32chMNNq9bPgSkdwk=",
+          "py3"
+        ]
+      }
     }
   },
   "nni-sdk-yds": {
@@ -89356,6 +89400,18 @@
       "wheels": {
         "policyengine_canada-0.42.2-py3-none-any.whl": [
           "TB8ayWTmZy9T5tcdSrOgcOlBgAtZ9nCR2JuHl5GNAow=",
+          "py3"
+        ]
+      }
+    },
+    "0.42.3": {
+      "sdist": [
+        "OxHRVj/BY2RPGMuI6Rn0w7GAPY1OcpUydfYLLWvlNSQ=",
+        "policyengine-canada-0.42.3.tar.gz"
+      ],
+      "wheels": {
+        "policyengine_canada-0.42.3-py3-none-any.whl": [
+          "86X26iAllBvoEcItIoE3E2Jqh2ubTPm+MmYN7fpjdPQ=",
           "py3"
         ]
       }
@@ -148945,6 +149001,26 @@
         "ZDiiyNT871XMDHNPOhKHm4NzgXHcJ0fN/iO4sEz8pRE=",
         "zeroc-ice-3.7.8.2.tar.gz"
       ]
+    },
+    "3.7.9": {
+      "sdist": [
+        "q994axJexRU1SUlg9P71NvaZRpR9dj46GX85cbvMEy8=",
+        "zeroc-ice-3.7.9.tar.gz"
+      ],
+      "wheels": {
+        "zeroc_ice-3.7.9-cp311-cp311-macosx_12_0_x86_64.whl": [
+          "jhMBJPIIz1XQIdvQgfpCsIb20KIC1sRGRV/ZrctuxLs=",
+          "cp311"
+        ],
+        "zeroc_ice-3.7.9-cp311-cp311-win32.whl": [
+          "/oCRaHoSF9WeRXnoa/avuD4XNkmdOrAMJ2CoyQOeAlg=",
+          "cp311"
+        ],
+        "zeroc_ice-3.7.9-cp311-cp311-win_amd64.whl": [
+          "ZyjYEunUQ1B7OwYZmTFt0jZOX1uhceK1W5XjNBTf6bY=",
+          "cp311"
+        ]
+      }
     }
   },
   "zerz-test": {

@@ -26760,6 +26760,12 @@
         "colossalai-nightly-2023.3.18.tar.gz"
       ]
     },
+    "2023.3.25": {
+      "sdist": [
+        "Qp9+GM6q7cHTDC628OkW+rEfvtAgqpqln+COREfjxD8=",
+        "colossalai-nightly-2023.3.25.tar.gz"
+      ]
+    },
     "2023.3.4": {
       "sdist": [
         "Mm5YhOR171N/B9/MqGn9cmjt5fZAu86K/pqDac2bVek=",
@@ -41696,6 +41702,14 @@
       "wheels": {
         "e2eAIOK_denas-1.0.1b2023032302-py3-none-any.whl": [
           "QBOBsSwdRa84/kxT4HEM9vHTq0lIbCXFE2pQ1J8NbCg=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.1b2023032500": {
+      "wheels": {
+        "e2eAIOK_denas-1.0.1b2023032500-py3-none-any.whl": [
+          "QM4SF9aBaTmKulxd2ROd0SP/0rd9c0y5iYSB7r8TVdo=",
           "py3"
         ]
       }
@@ -73698,6 +73712,18 @@
         "metabootstrap-1.0.2.tar.gz"
       ]
     },
+    "1.0.20": {
+      "sdist": [
+        "i1G6CntOdwPyR6ZxjDxBY+OZjsLHWHAc2d1PPn13vY8=",
+        "metabootstrap-1.0.20.tar.gz"
+      ]
+    },
+    "1.0.21": {
+      "sdist": [
+        "q1rCacpFRASPd5std4f9Yc1QAR9dmYrDyKeoM/0pyoc=",
+        "metabootstrap-1.0.21.tar.gz"
+      ]
+    },
     "1.0.3": {
       "sdist": [
         "PdMTdgcuemxHtV3jfeVHMbJ5dEUanDLrbmDIyULYXSE=",
@@ -87556,6 +87582,14 @@
       "wheels": {
         "odoo12_addon_iot-12.0.1.3.1.99.dev1-py3-none-any.whl": [
           "0gTxJNibg1jjnAzyKEnFknMCHoKE9pNijbnyf0XIiws=",
+          "py3"
+        ]
+      }
+    },
+    "12.0.1.3.1.99.dev2": {
+      "wheels": {
+        "odoo12_addon_iot-12.0.1.3.1.99.dev2-py3-none-any.whl": [
+          "kBOzLPbkZ8v5s9HG0AJfp3L/Dny/grdAaa6IXxZS5XE=",
           "py3"
         ]
       }
@@ -106284,6 +106318,30 @@
     }
   },
   "pygitversionhelper": {
+    "1.0.10": {
+      "sdist": [
+        "yRVbVrY0FAzeVR5MVCXybe3SdQF5L3JdKDrO7eoTZEY=",
+        "pygitversionhelper-1.0.10.tar.gz"
+      ],
+      "wheels": {
+        "pygitversionhelper-1.0.10-py3-none-any.whl": [
+          "gsAmj9OszQCyUBjDoKw0U7A28aL0LwqaK/wZlJ4FyMM=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.11": {
+      "sdist": [
+        "qHfC8xWBYlQb5x3Y7hJxCY4OVOyiRIq16o1WqD2U0zk=",
+        "pygitversionhelper-1.0.11.tar.gz"
+      ],
+      "wheels": {
+        "pygitversionhelper-1.0.11-py3-none-any.whl": [
+          "8hZsWqpTByfOT7k6AeJgNM7/YlqTrA+xbT6N2b4IDgE=",
+          "py3"
+        ]
+      }
+    },
     "1.0.8": {
       "sdist": [
         "/Z/U9Ioe1yocrxGPIDLY8cR8z+hJPgrp2V0YqVDxxGY=",
@@ -106292,6 +106350,18 @@
       "wheels": {
         "pygitversionhelper-1.0.8-py3-none-any.whl": [
           "cHCTNmDQw2wtFpl1MJbarcakoYl9QtYpf54Ql9vC7gU=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.9": {
+      "sdist": [
+        "X7xMGg+9cjNuNWs7qizmoxrJSmtZwjte9HOlt4YiOqU=",
+        "pygitversionhelper-1.0.9.tar.gz"
+      ],
+      "wheels": {
+        "pygitversionhelper-1.0.9-py3-none-any.whl": [
+          "gTDevQP8o1FSdbkyGAh371opaS0CLmCNr3SBLdsIB5w=",
           "py3"
         ]
       }
@@ -149940,6 +150010,18 @@
         ]
       }
     },
+    "8.0.57": {
+      "sdist": [
+        "DGalFKZ+ncOnfYPndM7Or2Zx63jSngexOgyAJQoKr5I=",
+        "ultralytics-8.0.57.tar.gz"
+      ],
+      "wheels": {
+        "ultralytics-8.0.57-py3-none-any.whl": [
+          "NqfUltkQFRUZKNgOqP4atd5FRL/ZTWKc3RzTfpuq3gU=",
+          "py3"
+        ]
+      }
+    },
     "8.0.6": {
       "sdist": [
         "yOETb+F/OHNBP5k23izpxysDbJW5UtbKc/ucJ7VW554=",
@@ -157790,6 +157872,38 @@
       "sdist": [
         "wq+ZEPrz0NKAGlUF9I+T7IaSU+GyDOW68GPONNbLU1E=",
         "youdown-1.0.1.tar.gz"
+      ]
+    }
+  },
+  "youhi": {
+    "1.0.0": {
+      "sdist": [
+        "6ys6Qo7BdVKj8HOHZJJ13vxMLhPscwPf4f1yfxOQCwQ=",
+        "youhi-1.0.0.tar.gz"
+      ]
+    },
+    "1.0.1": {
+      "sdist": [
+        "MvHHGDnSnohzfefZ0sHsJALn43jOvQ+7jAgiexX1oaI=",
+        "youhi-1.0.1.tar.gz"
+      ]
+    },
+    "1.0.2": {
+      "sdist": [
+        "xfnmRAPJHrO1KQycvTkL6/c8/GtkHpJpgPkgyTzXxKM=",
+        "youhi-1.0.2.tar.gz"
+      ]
+    },
+    "1.0.3": {
+      "sdist": [
+        "V4bRPBO4YL7i/l5jVlnHjJ6nD6AzEbA/UWzz01tIftw=",
+        "youhi-1.0.3.tar.gz"
+      ]
+    },
+    "1.0.4": {
+      "sdist": [
+        "Si9YtW7X2TzbbirmfuKBDfuli1usXJ3FMRE9HRoMRtQ=",
+        "youhi-1.0.4.tar.gz"
       ]
     }
   },

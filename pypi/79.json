@@ -8004,6 +8004,18 @@
         ]
       }
     },
+    "0.1.12": {
+      "sdist": [
+        "AN+8AXhd/2HZRKXLbTkDOAO8TmzcCuck4IMlIcTHPuM=",
+        "auto-iserv-0.1.12.tar.gz"
+      ],
+      "wheels": {
+        "auto_iserv-0.1.12-py3-none-any.whl": [
+          "RR1ooUT6uU/+N9d5BH3mn2UCqUpQ6C4d63/hqmTPbjw=",
+          "py3"
+        ]
+      }
+    },
     "0.1.2": {
       "sdist": [
         "ifKvodVshcmA6QACx3UpdMQSotWI8gMd7+K0ZOgz/x8=",
@@ -54562,6 +54574,18 @@
       "wheels": {
         "fastestimator_nightly-1.5.0.dev202303251323-py3-none-any.whl": [
           "L23uo3LQ0JKvNLuRNJFyLTXrGWuhUSm4XWoFgej4vkY=",
+          "py3"
+        ]
+      }
+    },
+    "1.5.0.dev202303261331": {
+      "sdist": [
+        "eNnhQmqgkPS4HErhtHBbAcF3h3pAKkLDQt3FKZDkCHc=",
+        "fastestimator-nightly-1.5.0.dev202303261331.tar.gz"
+      ],
+      "wheels": {
+        "fastestimator_nightly-1.5.0.dev202303261331-py3-none-any.whl": [
+          "UFGMMNWDYqSg9ERMcsBsTlvBCwU/j+GJu/ZCllSOezg=",
           "py3"
         ]
       }
@@ -127986,6 +128010,90 @@
       "wheels": {
         "Riskfolio_Lib-4.0.3-cp39-cp39-macosx_10_14_x86_64.whl": [
           "+/sNFedR7DC/jyGfqOQOnq6hsDdwaIL48yGf8hJ5gdE=",
+          "cp39"
+        ]
+      }
+    },
+    "4.1.0": {
+      "sdist": [
+        "I5YUFT3EKZBNmAM/cbMM9wjBwiRK01m27OE18CAj9ag=",
+        "Riskfolio-Lib-4.1.0.tar.gz"
+      ],
+      "wheels": {
+        "Riskfolio_Lib-4.1.0-cp310-cp310-macosx_10_9_universal2.whl": [
+          "wMkglc0Xvr78g+ddAKi3HqQa2p0AdlGdsWg9hazh6co=",
+          "cp310"
+        ],
+        "Riskfolio_Lib-4.1.0-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "ZDuLxs8D+JMmEI0cgLQnIfGfcPWnp5wm4N6V6vCDdaw=",
+          "cp310"
+        ],
+        "Riskfolio_Lib-4.1.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "IHAzcQhEMXWe9fFwfth/G7Ji2h1oZWH/KfdeFM7OZzU=",
+          "cp310"
+        ],
+        "Riskfolio_Lib-4.1.0-cp310-cp310-win_amd64.whl": [
+          "T2we0SJ0I3pCqDgNad/Q/1mvDeR4aPWDy6FNOdshPNY=",
+          "cp310"
+        ],
+        "Riskfolio_Lib-4.1.0-cp311-cp311-macosx_10_9_universal2.whl": [
+          "bKQLnaJcKvUDA4iz8KeUvHX0PUpsyNmtSWm4iN2jvuM=",
+          "cp311"
+        ],
+        "Riskfolio_Lib-4.1.0-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "M3sAr7INoeROtG+9JQRFKLWlP52DWrKgIjN7E/NUaHM=",
+          "cp311"
+        ],
+        "Riskfolio_Lib-4.1.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "lrh61NEctv9707NCO6d+JR3LLcIbjLzrde5/EuFoomw=",
+          "cp311"
+        ],
+        "Riskfolio_Lib-4.1.0-cp311-cp311-win_amd64.whl": [
+          "5lgcpE2gaoF4VRIfSPRSdH7soaH3y7I92URnOxZNlFs=",
+          "cp311"
+        ],
+        "Riskfolio_Lib-4.1.0-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "5XECB/Hs80UsMunIGtFj1EnSNlQLXr8SDkR3+nA4zeY=",
+          "cp37"
+        ],
+        "Riskfolio_Lib-4.1.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "gRYdYgEBVWTMfWmmfNMjt8rcWKN8jvFBXtaLykXbrNE=",
+          "cp37"
+        ],
+        "Riskfolio_Lib-4.1.0-cp37-cp37m-win_amd64.whl": [
+          "UoomRN+LYd7/8nzwnhVEjEAOLrZPvVh4ldlxBXumSyk=",
+          "cp37"
+        ],
+        "Riskfolio_Lib-4.1.0-cp38-cp38-macosx_10_9_universal2.whl": [
+          "WaCfma6AqTMxk7GvMXf/FRVZ7tVqkjbulX4y5qllf94=",
+          "cp38"
+        ],
+        "Riskfolio_Lib-4.1.0-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "2QhARMMXWDbJenyVNtWSPN/a1HwAcTRThVlD/BGmr84=",
+          "cp38"
+        ],
+        "Riskfolio_Lib-4.1.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "OQIwpk/R0R1YJn3eqSToLceWecGxghmIWLaQEKpZ4HY=",
+          "cp38"
+        ],
+        "Riskfolio_Lib-4.1.0-cp38-cp38-win_amd64.whl": [
+          "HCUSeJs7+w3L+cAskeTYjVk1KLdm9byzrCl+IXx5Dac=",
+          "cp38"
+        ],
+        "Riskfolio_Lib-4.1.0-cp39-cp39-macosx_10_9_universal2.whl": [
+          "OB1xOIBf5evly6PrFjIQBAkB883mUCiWo3dFAfediJs=",
+          "cp39"
+        ],
+        "Riskfolio_Lib-4.1.0-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "Iq1D2Jpx2MeF0RjHt69QTmeN+HNYUILDtxfoiMxYdCo=",
+          "cp39"
+        ],
+        "Riskfolio_Lib-4.1.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "cdlaG24SLtPgvxs6PndaOiizqmAfVsbdMgojquq/JU8=",
+          "cp39"
+        ],
+        "Riskfolio_Lib-4.1.0-cp39-cp39-win_amd64.whl": [
+          "AN491WA53lIEMAk2JxpeOeWQi/phHkna6BkBh67B0+c=",
           "cp39"
         ]
       }

@@ -54232,30 +54232,6 @@
     }
   },
   "gather-client-ws": {
-    "0.0.1": {
-      "sdist": [
-        "vHhuQnEK2sg5tv5D4HGIwMnSMCfjExbIDTw9jiPn/3s=",
-        "gather-client-ws-0.0.1.tar.gz"
-      ],
-      "wheels": {
-        "gather_client_ws-0.0.1-py3-none-any.whl": [
-          "xjUCwKjpY2MPYxeKKPS1ParAgWNtT6MCzBqL32nSaOM=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.2": {
-      "sdist": [
-        "g0/mF5ofS7z+EDysTqX5SCaFbIHBFaJiAHRhurdJ6Rw=",
-        "gather-client-ws-0.0.2.tar.gz"
-      ],
-      "wheels": {
-        "gather_client_ws-0.0.2-py3-none-any.whl": [
-          "QVNDHT7ge1ly7TuEk9vj19ydEm+6tOcVMPjPzCUGlRM=",
-          "py3"
-        ]
-      }
-    },
     "0.0.3": {
       "sdist": [
         "FWotzX1wFX/uT94zB7YMIH5i2jl7qQ/J6IDSkyIIMdU=",
@@ -119183,6 +119159,20 @@
       ]
     }
   },
+  "semal": {
+    "0.0.1": {
+      "sdist": [
+        "eXZ7rBwFVE3EJVq2MxWzPWCvnyfN3MdPqxRgnhvAa30=",
+        "semal-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "semal-0.0.1-py3-none-any.whl": [
+          "gaN+OARtCNfjN0MHiQ9HViQYKz9EmPByjEuyeYIUYPU=",
+          "py3"
+        ]
+      }
+    }
+  },
   "serenity": {
     "0.1.0": {
       "sdist": [
@@ -132304,6 +132294,18 @@
       "wheels": {
         "tencentcloud_sdk_python_cii-3.0.859-py2.py3-none-any.whl": [
           "OMQ3ac42/uvbNTooWdIgx6/T6IQRYIyeCPhFCHDeP6E=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.860": {
+      "sdist": [
+        "F4sfoe7I1HwLvOawFMtdv9c1q1DCmpxnOO/Zb/BLOBk=",
+        "tencentcloud-sdk-python-cii-3.0.860.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_cii-3.0.860-py2.py3-none-any.whl": [
+          "dBMA2W4QB89qcND69pvrdUWQG/6biKd9xiLbCUS3oZE=",
           "py2.py3"
         ]
       }

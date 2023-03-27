@@ -19113,6 +19113,12 @@
         "7FZvLLOdYD8EOcD/Nc1DT8WSwBmWqi1ho1rrk9dedLg=",
         "cloudmersive_ocr_api_client-3.0.1.tar.gz"
       ]
+    },
+    "4.0.1": {
+      "sdist": [
+        "YwY0h571usF0HEzqu366e0CAV4jRSxHkEn9894cFHMg=",
+        "cloudmersive_ocr_api_client-4.0.1.tar.gz"
+      ]
     }
   },
   "cloudpayments": {
@@ -29732,14 +29738,26 @@
     }
   },
   "diengine-connect": {
-    "0.5.15": {
+    "0.1.2": {
       "sdist": [
-        "izEWygFTTvS1D+EquA/Wivpl+L27CaZFc38i9hXcFUs=",
-        "diengine-connect-0.5.15.tar.gz"
+        "AMwYeGeNM6m0NVHN8hQ5VHgoHmV9fwmfGYzIdJdleKI=",
+        "diengine-connect-0.1.2.tar.gz"
       ],
       "wheels": {
-        "diengine_connect-0.5.15-py3-none-any.whl": [
-          "k1Kk8zB7n2jfo3neZoU/+4VFq2QkcP1uhp1EQRVcsb8=",
+        "diengine_connect-0.1.2-py3-none-any.whl": [
+          "54DjsecH2iSMWUjih7MKc05bHtlISnLoJaoNPCJAxcQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.5": {
+      "sdist": [
+        "jeIYqFQRAdhVJob51Mkf3IcGfVdg30d4COdKJHCs26Q=",
+        "diengine-connect-0.1.5.tar.gz"
+      ],
+      "wheels": {
+        "diengine_connect-0.1.5-py3-none-any.whl": [
+          "8FuRmbOowAZcIf1SoUkduzYHlr2eIbWD0Bn42GM0RnY=",
           "py3"
         ]
       }
@@ -41932,6 +41950,18 @@
       "wheels": {
         "finalcif-118-py3-none-any.whl": [
           "X6gOrRuYQckDTJbx8YFwqpomnyV5AL9IAeB5B+1vKCY=",
+          "py3"
+        ]
+      }
+    },
+    "118.post1": {
+      "sdist": [
+        "jdqlFnIJzESwYXVuzOzmeTjyFWrRPa/S96uKE9mZ3GQ=",
+        "finalcif-118.post1.tar.gz"
+      ],
+      "wheels": {
+        "finalcif-118.post1-py3-none-any.whl": [
+          "Wrwb57WlWrRxapxfZNKcuBE0hg/VbF/fNXz359Y2vvc=",
           "py3"
         ]
       }
@@ -97966,6 +97996,56 @@
       "wheels": {
         "proxy_ninja_ng-0.1.0-py3-none-any.whl": [
           "hJTer+zLfsx5mWM/D4Ful0cuFK50o6bUj9RVQOVjsAQ=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "prspiders": {
+    "0.1.0": {
+      "sdist": [
+        "iBB1ruz8PZC7ttMStQoJhJxSFa+v0M8KIPoHbWUjh9c=",
+        "PrSpiders-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "PrSpiders-0.1.0-py3-none-any.whl": [
+          "EP+W1IJ9ShOrw91GLeGQ6KA2CVbwm9LyzwvNRTKzy0k=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "xrk6+g8kvpW9Vep0OrUsEvkiHf4woRGf6Ko2sEdhFzA=",
+        "PrSpiders-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "PrSpiders-0.1.1-py3-none-any.whl": [
+          "zSC3NkaiR0KhjkuXtCP51aosm3YJkUaC2Vcvt/22qNo=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "OKuyx6eXPZpXcw+TkdcqvsPIAcXqv3if0ecivh7UJY0=",
+        "PrSpiders-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "PrSpiders-0.1.2-py3-none-any.whl": [
+          "n3+tk7nU1tc0HHOSXeI+SFlhRgb8yZHkx8bOGsJOjOU=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.3": {
+      "sdist": [
+        "hRROyhQv/slt6XQBY0i/VryML/7UWcI2IMiOaZi6X/o=",
+        "PrSpiders-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "PrSpiders-0.1.3-py3-none-any.whl": [
+          "6KY+H3H8Pw314BUGtzkkDWHPWYRhBM558CXFca8ujSI=",
           "py3"
         ]
       }

@@ -12749,6 +12749,18 @@
           "py3"
         ]
       }
+    },
+    "4.0.0b9": {
+      "sdist": [
+        "fdZmj++YBJ696yxQe7ScfCOIjOekFT8kyS+X8xBGwG8=",
+        "azure-mgmt-sql-4.0.0b9.zip"
+      ],
+      "wheels": {
+        "azure_mgmt_sql-4.0.0b9-py3-none-any.whl": [
+          "9WhiLvQFvgq1h1+2C0iwfGNEtgDFq1EoroGTRJjXOik=",
+          "py3"
+        ]
+      }
     }
   },
   "azure-monitor-opentelemetry": {
@@ -21147,6 +21159,20 @@
       }
     }
   },
+  "cdk-cloudformation-fastly-logging-s3": {
+    "1.1.0a7": {
+      "sdist": [
+        "5wtmB61AYeGDgVydMVOX6zUD66Ox20jSegWwzA5+91s=",
+        "cdk-cloudformation-fastly-logging-s3-1.1.0a7.tar.gz"
+      ],
+      "wheels": {
+        "cdk_cloudformation_fastly_logging_s3-1.1.0a7-py3-none-any.whl": [
+          "xkMHakEbLj2GJO7JYG3LxQmqe4CSXeUv5GfEnxs3GZY=",
+          "py3"
+        ]
+      }
+    }
+  },
   "cdk-cloudformation-tf-aws-keypair": {
     "1.0.0a1": {
       "sdist": [
@@ -29320,6 +29346,12 @@
       "sdist": [
         "HaN4hIVDnL8LaNDLjCDJJavfC5Vg8CNWyRPe0cQM2Fw=",
         "cfr-0.4.0.tar.gz"
+      ]
+    },
+    "0.4.1": {
+      "sdist": [
+        "O1qCmHkJ7APlDydX7kNNSyVBsAoOYcZSQo80Vr+0ixA=",
+        "cfr-0.4.1.tar.gz"
       ]
     }
   },
@@ -96143,6 +96175,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.6": {
+      "sdist": [
+        "ONITJnvf9J4ZjII8qR3g3ERq8oPGRJU58N5sSLL5T+w=",
+        "omniindex-0.1.6.tar.gz"
+      ],
+      "wheels": {
+        "omniindex-0.1.6-py3-none-any.whl": [
+          "aNfq+fVlOsT7/f79jOCevTjDqq1MmzlPiqYFoamZpNM=",
+          "py3"
+        ]
+      }
     }
   },
   "omnipyseed": {
@@ -144587,6 +144631,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.0": {
+      "sdist": [
+        "ZNCU0tQY3U+JXqk1+WYfRybRwp4OtPSqmmUHBH1PflM=",
+        "tes-lib-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "tes_lib-1.0.0-py3-none-any.whl": [
+          "GmbbDqYfTMCEuwJHetp1dmXmZQvXbGwa555Wgo1oy1g=",
+          "py3"
+        ]
+      }
     }
   },
   "test-history-server": {
@@ -147929,6 +147985,104 @@
         "trendy-0.3.0-py27-none-any.whl": [
           "kCPRaX9539dSxlXWrLC0qe4z4QzaojeLb4HafUoofQM=",
           "2.7"
+        ]
+      }
+    }
+  },
+  "trialhub": {
+    "0.0.1": {
+      "sdist": [
+        "93GQilRfeauLlpx2wP2XpAdXnR0kE/HR538Hj8yV6cY=",
+        "trialhub-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "trialhub-0.0.1-py3-none-any.whl": [
+          "vkY2DXC16PKI4wzRUaS0vT2h1hsIsVf45Lo/fFFixkw=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "lSaqvZw/l8edhitOmfJ9kQBzUW1RweChiWo//aXnURA=",
+        "trialhub-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "trialhub-0.0.2-py3-none-any.whl": [
+          "zqFx08hhzXt4+9AKc0IjWlpYiTiVX6zNSglqK/GH09Y=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "c4tKEIFyPsY7R0vWjb7niJwQpr2S+BPptsfWvI0twU8=",
+        "trialhub-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "trialhub-0.0.3-py3-none-any.whl": [
+          "ukZ7/vq2+tjfoR8/uoFuUZNScDji39TOB1Ko7uGlz4k=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4": {
+      "sdist": [
+        "2sJFtZnZUIfSeJ0GPlpSH5gpvmX5gOxSumBGTehvUhI=",
+        "trialhub-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "trialhub-0.0.4-py3-none-any.whl": [
+          "Cj7/AhBoAEcF3m61P5lKkRt8YjBPB8c78a8hrxfLfJA=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.5": {
+      "sdist": [
+        "gqisu8xSzczg3kiI2Y3xkPD++3g9AYsyDHUrvr6/wAI=",
+        "trialhub-0.0.5.tar.gz"
+      ],
+      "wheels": {
+        "trialhub-0.0.5-py3-none-any.whl": [
+          "00QmVxMu+0sHbVQLXaoByYcHhWOCq4Dqg7aZugbII0g=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.6": {
+      "sdist": [
+        "cJx8dTWjavcjhXHqPqFHWZj4ktLlibp06yWk/uQhs0I=",
+        "trialhub-0.0.6.tar.gz"
+      ],
+      "wheels": {
+        "trialhub-0.0.6-py3-none-any.whl": [
+          "rQnPIApp4UuaMnfYiqF+TxhZce/AaCfZqsZXDKXAnm8=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.7": {
+      "sdist": [
+        "ASmTXsZMcDip+tYem8qVAclmSZueRggp4WzwYJYZYXY=",
+        "trialhub-0.0.7.tar.gz"
+      ],
+      "wheels": {
+        "trialhub-0.0.7-py3-none-any.whl": [
+          "NfF6ArlAcqXWhcgce6lZgHp8YQWT3tlP9uV8jDto80o=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.8": {
+      "sdist": [
+        "TMLbLyQaVlWkoEwqLj3/RZWhIc1o5/rcMWYfYrpwiUQ=",
+        "trialhub-0.0.8.tar.gz"
+      ],
+      "wheels": {
+        "trialhub-0.0.8-py3-none-any.whl": [
+          "K2CsfV6y9lpOizCHa2lTe8il6cJMoqgIasO9nw2hQd8=",
+          "py3"
         ]
       }
     }

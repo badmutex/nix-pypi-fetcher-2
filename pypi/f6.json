@@ -19623,6 +19623,34 @@
           "cp39"
         ]
       }
+    },
+    "1.6.0": {
+      "sdist": [
+        "+pD/J3afgnc3xqBYqjjVyFXGTcRlPiqownw84tGNBDE=",
+        "bsbolt-1.6.0.tar.gz"
+      ],
+      "wheels": {
+        "bsbolt-1.6.0-cp310-cp310-manylinux2010_x86_64.whl": [
+          "u3/G3nVc9n4sgu2KksZ8xI7ejkpE8S3IOyVXoaU68IA=",
+          "cp310"
+        ],
+        "bsbolt-1.6.0-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "f4mb1b7D+2YrFjnOOnI0NDKrUmNO0Cf74wHhG73z1UU=",
+          "cp36"
+        ],
+        "bsbolt-1.6.0-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "KElyOQX0aHCgwajsCwRU+YMFi/4XIeXv/4UzNTOxGBQ=",
+          "cp37"
+        ],
+        "bsbolt-1.6.0-cp38-cp38-manylinux2010_x86_64.whl": [
+          "rMvWYZ/2D6fQsXZlGOxt5OiKahjFQTxjC7aLtjbV9y4=",
+          "cp38"
+        ],
+        "bsbolt-1.6.0-cp39-cp39-manylinux2010_x86_64.whl": [
+          "SR8IZYCDktgG+Z9bIvO6EL0w1WH5lSUh84V2JGVNJzY=",
+          "cp39"
+        ]
+      }
     }
   },
   "btc-com": {
@@ -34255,6 +34283,20 @@
         "PDlK1/i/l9KnE0jE2usqOZU0Rx2iQ5Hhx8FXa/bVHCA=",
         "django-log-timings-parser-1.0.0.tar.gz"
       ]
+    }
+  },
+  "django-matomo-api-tracking": {
+    "0.1.1": {
+      "sdist": [
+        "Lewjg1Pnl8QemFBpPd0K+pc/LL4Nyn5DUmRYaSras7s=",
+        "django_matomo_api_tracking-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "django_matomo_api_tracking-0.1.1-py3-none-any.whl": [
+          "BeE2oXrct1T5pVRP/Dy/vEyOFAeGQvXcvYYHvHpF2B0=",
+          "py3"
+        ]
+      }
     }
   },
   "django-memberpress-client": {
@@ -119093,6 +119135,12 @@
         "NpBBcfJ/qcnus/SMfdz/XqBexTB/cwFv8ypVg3aoZy8=",
         "python-image-complete-0.0.2.tar.gz"
       ]
+    },
+    "0.0.3": {
+      "sdist": [
+        "bNmyGgMmWXRXwFDleB0CWKBiPpj60FBzcOqeUEXIHpY=",
+        "python-image-complete-0.0.3.tar.gz"
+      ]
     }
   },
   "python-jsonrpc": {
@@ -148077,6 +148125,18 @@
           "py3"
         ]
       }
+    },
+    "3.0.0.5": {
+      "sdist": [
+        "F9Oe3ZtpDtK1wN87n4LcmUswH2A5ArsC6yJF7W6juM8=",
+        "types-ExifRead-3.0.0.5.tar.gz"
+      ],
+      "wheels": {
+        "types_ExifRead-3.0.0.5-py3-none-any.whl": [
+          "gGOTYfoEZ1FcIGU8q8QfoGUB3/GrPRePB+bN3SJidas=",
+          "py3"
+        ]
+      }
     }
   },
   "types-pysaml2": {
@@ -152938,6 +152998,18 @@
       "wheels": {
         "yaclipy-1.0.1-py3-none-any.whl": [
           "O8rVi6y18wayHqKHajcFhPcHzz7X5uCqCd8Z2TMFWRI=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.1": {
+      "sdist": [
+        "JRfdSqn3pAhdN0/JlEMV+1o6J/+bA/K+jUbtXK6Dvec=",
+        "yaclipy-1.1.1.tar.gz"
+      ],
+      "wheels": {
+        "yaclipy-1.1.1-py3-none-any.whl": [
+          "UB3BkWcumAXl/DDrfso5SfqguwLhwHI6tfByCiKK4Tg=",
           "py3"
         ]
       }

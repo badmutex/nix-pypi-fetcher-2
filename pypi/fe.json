@@ -1470,6 +1470,14 @@
         ]
       }
     },
+    "1.0.13": {
+      "wheels": {
+        "agoraiot-1.0.13-py2.py3-none-any.whl": [
+          "8VLPg4jYR9E1GWWn8f0mVocSv4PrmZv3BefK7bF5Uao=",
+          "py2.py3"
+        ]
+      }
+    },
     "1.0.7": {
       "wheels": {
         "agoraiot-1.0.7-py2.py3-none-any.whl": [
@@ -20408,6 +20416,18 @@
       "wheels": {
         "cdktf_surreal_backend-1.0.61-py3-none-any.whl": [
           "s/PvLMFjH+YhNanphYQwfzJvrA2YE66wThqCwlcAH1U=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.62": {
+      "sdist": [
+        "FaZPpRjOTqSUq+v6ebLvFVxCC6VFDU6KdewtyXwJNjA=",
+        "cdktf-surreal-backend-1.0.62.tar.gz"
+      ],
+      "wheels": {
+        "cdktf_surreal_backend-1.0.62-py3-none-any.whl": [
+          "AD/2OATJngDvQf+SAyWIStaYCyHdp3sHbw33G6RE2vs=",
           "py3"
         ]
       }
@@ -46304,6 +46324,18 @@
       "wheels": {
         "django_coreplus-0.3.2-py3-none-any.whl": [
           "LchyioFHbyW1yY2i+JW8NC4UrhtQlbA/nwN/LXfNxOQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.3": {
+      "sdist": [
+        "00+sDy7XqEDOyOUwLktHCe7W10KCJqNJqI1vn/Eby/Y=",
+        "django-coreplus-0.3.3.tar.gz"
+      ],
+      "wheels": {
+        "django_coreplus-0.3.3-py3-none-any.whl": [
+          "JpytnKmnfsdBnnFI/+q9+6AfgOidZY+OewyuNxquITs=",
           "py3"
         ]
       }
@@ -83735,10 +83767,24 @@
       ]
     },
     "2.3": {
+      "wheels": {
+        "mosaic_nist-2.3-py3-none-any.whl": [
+          "RbNOoEs5ounn2wwC/wxtdXrohZ7N9/T4+RERtMlUWDs=",
+          "py3"
+        ]
+      }
+    },
+    "2.4": {
       "sdist": [
-        "uHglKSa/Kvw/0gLzwQrr+KLEZCjDyFU6xSrz7Q1AexI=",
-        "mosaic-nist-2.3.tar.gz"
-      ]
+        "8aeJcocJGwv/1OQkpiqvP1NS9iH1xsPW5iiqIbBiwp0=",
+        "mosaic-nist-2.4.tar.gz"
+      ],
+      "wheels": {
+        "mosaic_nist-2.4-py3-none-any.whl": [
+          "HKgicGYSSrOw/xnizXrQt79Pnehtt2zk4ylfQzsm5/k=",
+          "py3"
+        ]
+      }
     }
   },
   "moshimoshi": {

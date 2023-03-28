@@ -15818,6 +15818,18 @@
         ]
       }
     },
+    "1.2.12": {
+      "sdist": [
+        "MFhWBy/rduEbHj5sGbByJq9Qtga428i0Hyd8kBWHK6I=",
+        "c2cciutils-1.2.12.tar.gz"
+      ],
+      "wheels": {
+        "c2cciutils-1.2.12-py3-none-any.whl": [
+          "K4h9XXiZzzZeZX2p5lz4vcltRgn5t0M1J0WMDw3A4Eg=",
+          "py3"
+        ]
+      }
+    },
     "1.2.6": {
       "sdist": [
         "323bdG8NqlEAro+tlGClQJuBh0rZyZokwx6yyEYfLbY=",
@@ -16666,6 +16678,18 @@
       "wheels": {
         "c2cciutils-1.3.18.dev6-py3-none-any.whl": [
           "YpyoIf/lN3kVVjcs+3Q18sNSd3jFlcAqok7PWwcwDE4=",
+          "py3"
+        ]
+      }
+    },
+    "1.3.18.dev8": {
+      "sdist": [
+        "CwDKLCPYBPgXQBZLIfmbFTteozf9ovmHP453ISNEy3I=",
+        "c2cciutils-1.3.18.dev8.tar.gz"
+      ],
+      "wheels": {
+        "c2cciutils-1.3.18.dev8-py3-none-any.whl": [
+          "m+kXnHl92WK9egAVD5jFV1TIY4cVPYu1/FhBM4eRGSQ=",
           "py3"
         ]
       }
@@ -29457,6 +29481,20 @@
       }
     }
   },
+  "csvsdataset": {
+    "0.0.5": {
+      "sdist": [
+        "Iwf6qb30GauKXIVfkfojCPb6EaV5eL1ldm1xDOMkfmc=",
+        "csvsdataset-0.0.5.tar.gz"
+      ],
+      "wheels": {
+        "csvsdataset-0.0.5-py3-none-any.whl": [
+          "doZh/au11VMJfwL6ROLOoGkpcwR8mugGi6e7WXUwA3k=",
+          "py3"
+        ]
+      }
+    }
+  },
   "ctc-heatpump": {
     "0.0.1": {
       "sdist": [
@@ -38919,6 +38957,120 @@
       }
     }
   },
+  "eg.spreader": {
+    "0.1.0": {
+      "sdist": [
+        "M/109EX7gmG8WUI17abpqtsN9pjacc8l+TDgfeXsVxk=",
+        "eg.spreader-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "eg.spreader-0.1.0-cp310-cp310-macosx_10_15_universal2.whl": [
+          "5UDvFsmnhNpgYelGYnxBuKniM2kgT39AdkT4ttdse50=",
+          "cp310"
+        ],
+        "eg.spreader-0.1.0-cp310-cp310-macosx_10_15_x86_64.whl": [
+          "ka4pobRYZux/Oixdkn0bmMzmtEa5JFznCl6uUGc4Odo=",
+          "cp310"
+        ],
+        "eg.spreader-0.1.0-cp310-cp310-win32.whl": [
+          "s1TEc0wyJbubrzN2P3N7hMlZhGCfXUrt0cNVeS7aJsY=",
+          "cp310"
+        ],
+        "eg.spreader-0.1.0-cp310-cp310-win_amd64.whl": [
+          "bRkCqx0K4528B/L01NhBvjsYoRImFLoe1kquEsViZzM=",
+          "cp310"
+        ],
+        "eg.spreader-0.1.0-cp310-cp310-win_arm64.whl": [
+          "ERrS37KOw7k5/6QGR+ijTIX/BqIAxD/oRuTmBfC2pUU=",
+          "cp310"
+        ],
+        "eg.spreader-0.1.0-cp311-cp311-macosx_10_15_universal2.whl": [
+          "kxLmUwnT8I4WKwfZzK/Wfi36+MsEBSSyJBgjzFAx8zY=",
+          "cp311"
+        ],
+        "eg.spreader-0.1.0-cp311-cp311-macosx_10_15_x86_64.whl": [
+          "ALdZl0Yp+Ej75pl//X6ft41v90K9zUss1+Lsl/QKsDk=",
+          "cp311"
+        ],
+        "eg.spreader-0.1.0-cp311-cp311-win32.whl": [
+          "j1uj4cc9G0y+MkMxpW/xbN/nVVQRGM+FsbzcokriYHY=",
+          "cp311"
+        ],
+        "eg.spreader-0.1.0-cp311-cp311-win_amd64.whl": [
+          "kp47dkilhLwKWOQXRoYMEd/1HK9Ooaz61VOno5vT02o=",
+          "cp311"
+        ],
+        "eg.spreader-0.1.0-cp311-cp311-win_arm64.whl": [
+          "DNPpsMOXoaB/QCxOUY/0kEb8khuHKQb7I324ZNcRiRU=",
+          "cp311"
+        ],
+        "eg.spreader-0.1.0-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "I7JMur7dQs8yfMDSSBzvumcjajcgAqXrYzJejDCebUs=",
+          "cp37"
+        ],
+        "eg.spreader-0.1.0-cp37-cp37m-win32.whl": [
+          "lytEENK0Mu0g+lhVc3xFbxQ8aHCnuJCv+SsDZaV4W0U=",
+          "cp37"
+        ],
+        "eg.spreader-0.1.0-cp37-cp37m-win_amd64.whl": [
+          "xIAGWKQT1sHYlRGL/F9Mwq5Kdmbgg8UaocL+pw26IgE=",
+          "cp37"
+        ],
+        "eg.spreader-0.1.0-cp38-cp38-macosx_10_15_universal2.whl": [
+          "tcw8P/WgswRBtr6DDCILx0yhl512JP7D/sEPT1ydKG0=",
+          "cp38"
+        ],
+        "eg.spreader-0.1.0-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "vhIOvL9SSXNgskx7fUIdnuDYgls8NsshMW6moQwM0PY=",
+          "cp38"
+        ],
+        "eg.spreader-0.1.0-cp38-cp38-win32.whl": [
+          "+n29RxWJAHI1/1VFNQOZqS4EFByDzTORTmtCCbn6v8E=",
+          "cp38"
+        ],
+        "eg.spreader-0.1.0-cp38-cp38-win_amd64.whl": [
+          "5/ytMI9d6W0wgN+xJFoebPB3uNX3oqlfHM5gRNqIxac=",
+          "cp38"
+        ],
+        "eg.spreader-0.1.0-cp39-cp39-macosx_10_15_universal2.whl": [
+          "8CqE9fCLzSEr2TRDzC2RDU1TWrg38CyYD/bpbT7/3Wc=",
+          "cp39"
+        ],
+        "eg.spreader-0.1.0-cp39-cp39-macosx_10_15_x86_64.whl": [
+          "FzA7GUJK6GqftLoCFXmzysZA3URuwSrpHgShfaZBNFM=",
+          "cp39"
+        ],
+        "eg.spreader-0.1.0-cp39-cp39-win32.whl": [
+          "jI/3R9BwZphTlZ0RQXlCk8/ZTWm9rYNVR3tC9HQZhh0=",
+          "cp39"
+        ],
+        "eg.spreader-0.1.0-cp39-cp39-win_amd64.whl": [
+          "F/O6ecZS1d4jTIJBiYtO+zOWl7a/roMPEf2VuzT7/HI=",
+          "cp39"
+        ],
+        "eg.spreader-0.1.0-cp39-cp39-win_arm64.whl": [
+          "TZS2Yf8EnHyYnDPSt6YYj+eKBSSpfUsTa0FnfZzX9xk=",
+          "cp39"
+        ],
+        "eg.spreader-0.1.0-pp38-pypy38_pp73-macosx_10_15_x86_64.whl": [
+          "e59rdjD/gfyGeIa+C3fDowgKV2ZFJyZtnCfMU325DJg=",
+          "pp38"
+        ],
+        "eg.spreader-0.1.0-pp38-pypy38_pp73-win_amd64.whl": [
+          "yzWH5xN6O9atsaRWV/wABo3RFf9sz0RVc0IgmPTlhps=",
+          "pp38"
+        ],
+        "eg.spreader-0.1.0-pp39-pypy39_pp73-macosx_10_15_x86_64.whl": [
+          "R5JnZcWjJGErO91b9q2I3V8tnjeiKrDg/VLlz7LnROg=",
+          "pp39"
+        ],
+        "eg.spreader-0.1.0-pp39-pypy39_pp73-win_amd64.whl": [
+          "kYiqXTM1RpuTu9XX0k/WKnnVWbof0O++jPDR2Q9EiSw=",
+          "pp39"
+        ]
+      }
+    }
+  },
   "ehelply-microservice-library": {
     "1.0.0": {
       "sdist": [
@@ -43960,6 +44112,18 @@
       "wheels": {
         "ethicml-1.1.0-py3-none-any.whl": [
           "mtluFyte3ZfbUZkUNrK6HD6bSCj2FqhB58+pZqoKn3U=",
+          "py3"
+        ]
+      }
+    },
+    "1.2.0": {
+      "sdist": [
+        "Vs6EUvjgvt7kF8Fem5gJgOLVTKf+S+6h9gp5nydxnsg=",
+        "ethicml-1.2.0.tar.gz"
+      ],
+      "wheels": {
+        "ethicml-1.2.0-py3-none-any.whl": [
+          "MUZWct9LfxuLsGBeaf4vU/x0pe1BulmMyZCZgIMEqhY=",
           "py3"
         ]
       }
@@ -54745,6 +54909,18 @@
           "py3"
         ]
       }
+    },
+    "1.5.0.dev202303281336": {
+      "sdist": [
+        "xTMutowvMs94kJ1D8/GPaaGVMYVhgIXXs3C0jyvUEjk=",
+        "fastestimator-nightly-1.5.0.dev202303281336.tar.gz"
+      ],
+      "wheels": {
+        "fastestimator_nightly-1.5.0.dev202303281336-py3-none-any.whl": [
+          "0hy+bvs/1hmeO9YvNFFciHfHKkppz4igH9ngzuQS9xo=",
+          "py3"
+        ]
+      }
     }
   },
   "fatmouse-agent": {
@@ -56431,6 +56607,18 @@
         "AEE8Rxj1xh7q6O6441sAvn27lhbQenWJ40Jsmiq2wXY=",
         "flme-0.0.1.tar.gz"
       ]
+    },
+    "0.1.0": {
+      "sdist": [
+        "5lBoH0/2cuyXSmvRX8Tbv6oCZFAxVozAqbzuVqLRO+w=",
+        "flme-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "flme-0.1.0-py3-none-any.whl": [
+          "MDfnjmBXGFAlkcPL0PeQLPcq6wTvLIUSok9w+iMtdHA=",
+          "py3"
+        ]
+      }
     }
   },
   "floralatin-hubble-sdk3": {
@@ -69071,6 +69259,20 @@
       }
     }
   },
+  "j2escape": {
+    "1.0.0": {
+      "sdist": [
+        "3ZRjBQUBU0gIs9b+thDvg7yJHOTAvHHMdbI51jINfLI=",
+        "j2escape-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "j2escape-1.0.0-py3-none-any.whl": [
+          "Fi7jZ8n0c/pVoNtGdkTEUkaajW35k6PpeTOiv0MugnU=",
+          "py3"
+        ]
+      }
+    }
+  },
   "jackett-indexerarr": {
     "0.1": {
       "sdist": [
@@ -69910,6 +70112,18 @@
       "wheels": {
         "jaxlie-1.3.2-py3-none-any.whl": [
           "AD+VyspNJxDfEiu4ChZQWpO/NYknMLsYAb+/AwYYZiY=",
+          "py3"
+        ]
+      }
+    },
+    "1.3.3": {
+      "sdist": [
+        "vywrv9tm0wY0ZMwOO9niDICwWT6EiOonftsU5ZcTqmI=",
+        "jaxlie-1.3.3.tar.gz"
+      ],
+      "wheels": {
+        "jaxlie-1.3.3-py3-none-any.whl": [
+          "skd56dFOdiZTPxTyxYr578y9m0s4SotIwSg0ersmlZk=",
           "py3"
         ]
       }
@@ -130803,6 +131017,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.4": {
+      "sdist": [
+        "+KmYNxcGuL3P9y9ZIzw5xdxo4D2IJtB1jJ2O42it3nM=",
+        "rombus-1.0.4.tar.gz"
+      ],
+      "wheels": {
+        "rombus-1.0.4-py3-none-any.whl": [
+          "CDtyFLRmGQvIbavOF6Wtnqw94368OGVD8FAfln/M47I=",
+          "py3"
+        ]
+      }
     }
   },
   "ros-configurator": {
@@ -137748,6 +137974,12 @@
       "sdist": [
         "67tSw/nA0rxMnAMYDcTtwNc7dg8ak2g6pQfbItNjW1E=",
         "samap-1.0.14.tar.gz"
+      ]
+    },
+    "1.0.15": {
+      "sdist": [
+        "oTWLmX1BwGKoOOlj+960N69mAHtbRYCiy+pZzcandPo=",
+        "samap-1.0.15.tar.gz"
       ]
     },
     "1.0.2": {
@@ -152055,6 +152287,18 @@
           "py3"
         ]
       }
+    },
+    "1.3.0": {
+      "sdist": [
+        "6SxSX1DBGt7gdMcousNskpHWieVDQ0r0YlOWcQkrQzE=",
+        "trest-1.3.0.tar.gz"
+      ],
+      "wheels": {
+        "trest-1.3.0-py3-none-any.whl": [
+          "iuoEPk+Lo9Gfp6bUc4687nKekpiMIiHg+p45ysQaMTA=",
+          "py3"
+        ]
+      }
     }
   },
   "trh": {
@@ -154230,6 +154474,68 @@
       "sdist": [
         "yxGtDUPe/zocNpDHTwxzHP9bhixzM53y7dkRM+FJb7w=",
         "us-2.0.2.tar.gz"
+      ]
+    }
+  },
+  "usb-monitor": {
+    "0.1.0": {
+      "sdist": [
+        "QfXVqFPMv1/HcSYYUygr4VAigu43r6EHWnPZ6AxRE4I=",
+        "usb-monitor-0.1.0.tar.gz"
+      ]
+    },
+    "0.2": {
+      "sdist": [
+        "ipLuzL1zMD64zMuODjnyhaX9HdJk/TqqUfJ7bW0/BHw=",
+        "usb-monitor-0.2.tar.gz"
+      ]
+    },
+    "0.3": {
+      "sdist": [
+        "PGmB2u/LWKM8qwSHfbfRSOQT4ZOKtHY9htbYVYfWckY=",
+        "usb-monitor-0.3.tar.gz"
+      ]
+    },
+    "0.4": {
+      "sdist": [
+        "Y4lXhyfcwyXLfK8yV6diPc1U6UFUmNW5YfrEOg9+Wpc=",
+        "usb-monitor-0.4.tar.gz"
+      ]
+    },
+    "0.5": {
+      "sdist": [
+        "ncPJVvE+SpuyPuG9H84EDx1f110a/wG34DWEVYgZ100=",
+        "usb-monitor-0.5.tar.gz"
+      ]
+    },
+    "0.6": {
+      "sdist": [
+        "Ry4JwTsNt2C6NpNZHmIcrPwoc1XZ82rA+ynDNEObpA8=",
+        "usb-monitor-0.6.tar.gz"
+      ]
+    },
+    "0.7": {
+      "sdist": [
+        "wJZGqRuOj2dqIHzyu/NyRTq3/jRKv88x/BuLdZJfgLQ=",
+        "usb-monitor-0.7.tar.gz"
+      ]
+    },
+    "0.8": {
+      "sdist": [
+        "ZEOclMQP++PpXPhodcMF8uk8I3zYmQtPQDDMWLn+AiM=",
+        "usb-monitor-0.8.tar.gz"
+      ]
+    },
+    "1.0": {
+      "sdist": [
+        "Y4l9GVwSDYp5Fk9oRCO+NISERbd6b3wkajG1HprNYUc=",
+        "usb-monitor-1.0.tar.gz"
+      ]
+    },
+    "1.1": {
+      "sdist": [
+        "qYaO7bLuyeh4eCLWhOm4wiIwZCs+mH714lCeVEUAS3o=",
+        "usb-monitor-1.1.tar.gz"
       ]
     }
   },

@@ -22402,26 +22402,14 @@
     }
   },
   "casing": {
-    "1.0.10": {
+    "1.0.12": {
       "sdist": [
-        "GUZIG8OMmvvIPny2RyD+OAG5O5UOwR8ARStbksX/+tg=",
-        "casing-1.0.10.tar.gz"
+        "G8Jo4sLCeIY67UeJJsj86M4OE6P1M8c0hn9l8GJnR28=",
+        "casing-1.0.12.tar.gz"
       ],
       "wheels": {
-        "casing-1.0.10-py3-none-any.whl": [
-          "saPdYMp6+RuA7l4qwWWvwFS+9UJD0m4CiwT5nECe2XM=",
-          "py3"
-        ]
-      }
-    },
-    "1.0.11": {
-      "sdist": [
-        "QtZTEWRceDP2dKpx1S2eOWI9bLfhP3lzR2pWgzUjBcg=",
-        "casing-1.0.11.tar.gz"
-      ],
-      "wheels": {
-        "casing-1.0.11-py3-none-any.whl": [
-          "TkqMkOHs9i3LcYnOXkaTkDy9isPk7ZNsmHI4cofF+z0=",
+        "casing-1.0.12-py3-none-any.whl": [
+          "R4ExnEWY4Qh51DSLDcuxw34+YqmC+fqX7Q/D3H0o0Ys=",
           "py3"
         ]
       }
@@ -63197,6 +63185,18 @@
           "py2.py3"
         ]
       }
+    },
+    "2.0.0": {
+      "sdist": [
+        "JG4YOJDCrBG6EiuR1wA/9e3xbDJaTsI2honymOsjH1s=",
+        "invenio-requests-2.0.0.tar.gz"
+      ],
+      "wheels": {
+        "invenio_requests-2.0.0-py2.py3-none-any.whl": [
+          "uk2PRVPV+f+8onkxzRCG89eEFy1G4ogXHiPbFL/8N70=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "inventree": {
@@ -73866,6 +73866,12 @@
       "sdist": [
         "Yd/PAOkSx5JdPyDmBEvPSKN46CzysxtOboXygEXWoLg=",
         "metabootstrap-1.0.9.tar.gz"
+      ]
+    },
+    "1.1.0": {
+      "sdist": [
+        "0WZYIEmkL4aRgfnkagaeeBRXvPEZf8yLYV8sXrIMxq4=",
+        "metabootstrap-1.1.0.tar.gz"
       ]
     }
   },
@@ -143418,6 +143424,14 @@
       "wheels": {
         "tf2onnx-1.13.0-py3-none-any.whl": [
           "vbchJbyVd3j+eNTSI2NShvu7ZMZPTXgqwZsa9cS1YDg=",
+          "py3"
+        ]
+      }
+    },
+    "1.14.0": {
+      "wheels": {
+        "tf2onnx-1.14.0-py3-none-any.whl": [
+          "qXIaOAICYOXunWOWKV7bv8rt0iwHz9byzaJpje/em2M=",
           "py3"
         ]
       }

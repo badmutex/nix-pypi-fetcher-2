@@ -29819,6 +29819,14 @@
       }
     }
   },
+  "dataset-bias-metrics": {
+    "0.1": {
+      "sdist": [
+        "YJI+5V6xSV/BYJFAah6ZjfTu5T4Uq1d9a9TdTXhdmLU=",
+        "dataset_bias_metrics-0.1.tar.gz"
+      ]
+    }
+  },
   "dataset-handling-chrisprein": {
     "1.0.1": {
       "sdist": [
@@ -86255,6 +86263,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.0": {
+      "sdist": [
+        "hCgQ+SnCfRWORag35NV6zeGmmasp89q4bXgDft3BdGk=",
+        "nornir_netmiko-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "nornir_netmiko-1.0.0-py3-none-any.whl": [
+          "X/y+yuPSw3Tgy+6OPPLtWTfj7/7nOtPFGV1rNXLcelY=",
+          "py3"
+        ]
+      }
     }
   },
   "nose-coolstorybro": {
@@ -87804,6 +87824,14 @@
       "wheels": {
         "octo_pipeline_backend_patch_python-1.2.5-py3-none-any.whl": [
           "NWTjPyB2+KEvLB5j+5tnZIebhk0sDl3Cr8ah6XWXBcw=",
+          "py3"
+        ]
+      }
+    },
+    "1.2.6": {
+      "wheels": {
+        "octo_pipeline_backend_patch_python-1.2.6-py3-none-any.whl": [
+          "G/z92HSw5LtHWjERnUywXRTSZfEifNHQZKAvY/fIbec=",
           "py3"
         ]
       }
@@ -93910,6 +93938,18 @@
         ]
       }
     },
+    "0.1.51": {
+      "sdist": [
+        "ZTl/FYtMgKJJzGBaVJJi//ew1J+QLUPJe5ddgJxWOH0=",
+        "openai-helper-0.1.51.tar.gz"
+      ],
+      "wheels": {
+        "openai_helper-0.1.51-py3-none-any.whl": [
+          "lSNGf/anQAfMM0rn+234MHTnZk4wqEEQZT2WhMaTfLM=",
+          "py3"
+        ]
+      }
+    },
     "0.1.6": {
       "sdist": [
         "xjVKRBUL0DD7D5ZjpVYEWgUntx8YJ4KCV4z3Q2Ehy5w=",
@@ -96568,6 +96608,30 @@
       "wheels": {
         "pdfly-0.0.9-py3-none-any.whl": [
           "SviAY2ov58B8RiB/7h6LnIDBS+NeIROOIRmZNxV5CWg=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.0": {
+      "sdist": [
+        "N3sV9kMFz8o6LaaCBCW93B86uDweZJOwD5WzlKkmYGI=",
+        "pdfly-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "pdfly-0.1.0-py3-none-any.whl": [
+          "QgMbg6MWOaO7YIPvfJu2ZlA4QiXFYu4dcRZ6fyfbfjs=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "3Q2cA/99zWX0LfUGJkdnzqkx/PHh2ytiW4yUtf2fkys=",
+        "pdfly-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "pdfly-0.1.1-py3-none-any.whl": [
+          "TChp9D1MFXSH+QXWk2GVwOMyAmPaKocF5LXOQUmoWvU=",
           "py3"
         ]
       }
@@ -125084,6 +125148,18 @@
       "wheels": {
         "snappysonic-0.0.7-py2.py3-none-any.whl": [
           "gYgrVQQs8eCiyJ65B6uBAsc8ozDrKjb33gA/FprvmE4=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.8": {
+      "sdist": [
+        "Ehl1PvVo3Y1gmYVWbRi9d943WpJ4La+WJnBytZMpHrA=",
+        "snappysonic-0.0.8.tar.gz"
+      ],
+      "wheels": {
+        "snappysonic-0.0.8-py2.py3-none-any.whl": [
+          "TRfe9b0pCCUH12TR4LtzYGAuTgZqgC33sWH8Hb/X26I=",
           "py2.py3"
         ]
       }

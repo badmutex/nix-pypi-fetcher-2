@@ -331,6 +331,18 @@
           "py2.py3"
         ]
       }
+    },
+    "0.1.1": {
+      "sdist": [
+        "RFIh4sgFIvj6vYwn/JyExZZSpWbEK1eNE6B+TgST39E=",
+        "abml-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "abml-0.1.1-py2.py3-none-any.whl": [
+          "Fdv/sit5TLa4hvw2FchFQw/hu5uXgEuSo8b8/NxCatI=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "abstraction": {
@@ -16284,6 +16296,18 @@
         ]
       }
     },
+    "2.71.0a0": {
+      "sdist": [
+        "2AkoBmzAt44PR9yy1t1p69pt9tzKakbapZRrZe7VbXA=",
+        "aws-cdk.aws-servicecatalogappregistry-alpha-2.71.0a0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_servicecatalogappregistry_alpha-2.71.0a0-py3-none-any.whl": [
+          "FQgaouC40AEVAK3djofWd0MTTgmsp47wyj7AMHbhDgM=",
+          "py3"
+        ]
+      }
+    },
     "2.8.0a0": {
       "sdist": [
         "6yU0dMP0dC+85lFN8LbnxWA6Tc8LfzbIsNQPXlqno64=",
@@ -17166,6 +17190,18 @@
         ]
       }
     },
+    "2.36.0": {
+      "sdist": [
+        "vJGDIb2upEl298d353RpEkIqHICRqvdrd0SopR0bQpw=",
+        "aws-solutions-constructs.aws-fargate-secretsmanager-2.36.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_fargate_secretsmanager-2.36.0-py3-none-any.whl": [
+          "EFpXG5RNTSZ7oMuvCZErotiZ49fp09DpA8+oKoizD2k=",
+          "py3"
+        ]
+      }
+    },
     "2.6.0": {
       "sdist": [
         "qDIR/vjjjRCfofSppqOU1A4pkDHOUuh5bm2pP31kukI=",
@@ -17273,6 +17309,20 @@
         "axado_challenge-1.2.3-py2.py3-none-any.whl": [
           "zr9sP70Vz6NKfxPosjFA8lfVTSNLy2gys0V3ozBFN1g=",
           "3.5"
+        ]
+      }
+    }
+  },
+  "axionvueopenapi": {
+    "1.3.1b0": {
+      "sdist": [
+        "M460LFcATVOgCduhfY9l57T5DisPttheasDDYxcW4R0=",
+        "AxionVueOpenAPI-1.3.1b0.tar.gz"
+      ],
+      "wheels": {
+        "AxionVueOpenAPI-1.3.1b0-py2.py3-none-any.whl": [
+          "14c688Ops/P5mbU5wC6xTnUo3op7XLnceY4iMLgMyFg=",
+          "py2.py3"
         ]
       }
     }
@@ -30115,6 +30165,30 @@
           "py3"
         ]
       }
+    },
+    "0.2.0rc0": {
+      "sdist": [
+        "XQDrg33GhzJQdiqzOLtmB1YX7uIV8vAhKiurgomV4r4=",
+        "crowdom-0.2.0rc0.tar.gz"
+      ],
+      "wheels": {
+        "crowdom-0.2.0rc0-py3-none-any.whl": [
+          "XbkQIepYqDYAS+hxTgGPWgiFUjVpUnG5Oy94xWeEG3k=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.0rc1": {
+      "sdist": [
+        "2zkZUx97fsk9uk8qukzJ+UGk93GJ77RBal8VM/Ecoo0=",
+        "crowdom-0.2.0rc1.tar.gz"
+      ],
+      "wheels": {
+        "crowdom-0.2.0rc1-py3-none-any.whl": [
+          "5h2v7ebBQmhaPcu+JM2dLBBaS3hfEOsaNua2vHUQnX0=",
+          "py3"
+        ]
+      }
     }
   },
   "crtsh": {
@@ -30182,6 +30256,30 @@
       "wheels": {
         "cryptwood-0.1.5-py3-none-any.whl": [
           "OsJtA1AXb3q5KyFvQaQiiKB5KobmrrGZ3ULI1bQmd+o=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.6": {
+      "sdist": [
+        "uB3qDigdOvAV2Yqh55h/hShVlDP4sSGnIQXWEj7fHdw=",
+        "cryptwood-0.1.6.tar.gz"
+      ],
+      "wheels": {
+        "cryptwood-0.1.6-py3-none-any.whl": [
+          "83XpIYaVZ1U4g9QJtJpNGEilsHx3VUtUwWJ8oA39k8c=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.7": {
+      "sdist": [
+        "SM0mvNJyMMztURlt7XCh4bAC5Sij3cEVg5xxJDd79n8=",
+        "cryptwood-0.1.7.tar.gz"
+      ],
+      "wheels": {
+        "cryptwood-0.1.7-py3-none-any.whl": [
+          "kLd3D2WMZd0eLt8VS6x8YW56VeEm7R/ANdGzxwLJgNc=",
           "py3"
         ]
       }
@@ -44197,6 +44295,20 @@
         "Nt3pjM/mxRoVV2R2yt/LOzWmNQe4uFVavWmImm+6Z3I=",
         "encodec-0.1.1.tar.gz"
       ]
+    }
+  },
+  "englishexelog": {
+    "0.0.1": {
+      "sdist": [
+        "8ojr9SE+Ld0fnlse9sFTs2sqDoiXdgDL6n8pcIni0dU=",
+        "englishexelog-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "englishexelog-0.0.1-py3-none-any.whl": [
+          "EIC8lWPpDmCYtuf4F+DaByDYaMIIBMIhRdXFhpoXuLU=",
+          "py3"
+        ]
+      }
     }
   },
   "enhydris-api-client": {
@@ -100151,6 +100263,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.2": {
+      "sdist": [
+        "tqwrGMTcSl2d1NsaWzmwpxtoX+Etscv9F4nRZVbnKfg=",
+        "proxytv-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "proxytv-1.0.2-py3-none-any.whl": [
+          "Zl4oZ9yIgY1jtGe987Er80u2eG8npRmwley5YqIKr+4=",
+          "py3"
+        ]
+      }
     }
   },
   "pscripts": {
@@ -113913,6 +114037,16 @@
       }
     }
   },
+  "python-audio-autotest-3.10": {
+    "1.5.1": {
+      "wheels": {
+        "python_audio_autotest_3.10-1.5.1-py3-none-any.whl": [
+          "7O6GIhnWI17VlbG3XeJ2TgkPQ6YvsNiC5vgC6CcJyeM=",
+          "py3"
+        ]
+      }
+    }
+  },
   "python-audiodb": {
     "0.1": {
       "sdist": [
@@ -126489,6 +126623,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.6": {
+      "sdist": [
+        "t5JZBXuZ62zojm3wK7CfIDQMQIm3VZfnuWlX0OZy6+Y=",
+        "sentinel_satellites-0.0.6.tar.gz"
+      ],
+      "wheels": {
+        "sentinel_satellites-0.0.6-py3-none-any.whl": [
+          "3fs0RuVAeQjMc9ROj2beVZ/EyzrY26d/L9GS8XYFESI=",
+          "py3"
+        ]
+      }
     }
   },
   "sentry-auth-crowd-nwk": {
@@ -127366,6 +127512,12 @@
       "sdist": [
         "gpUhsiuRcBK8eMW/5AfYGtfMBrq0U3UGivYNWRu+b/k=",
         "sfepy-2022.4.tar.gz"
+      ]
+    },
+    "2023.1": {
+      "sdist": [
+        "Sy400vCxu4Syaf0Np9m3tu6cLbGX/aFNce4qE6bYJOY=",
+        "sfepy-2023.1.tar.gz"
       ]
     }
   },
@@ -137503,6 +137655,18 @@
           "py3"
         ]
       }
+    },
+    "0.6.2": {
+      "sdist": [
+        "ODnELtHF3OygRbIlOo5AwddAlAew4a+oYhmFl6Qk5AM=",
+        "t4_geom_convert-0.6.2.tar.gz"
+      ],
+      "wheels": {
+        "t4_geom_convert-0.6.2-py3-none-any.whl": [
+          "le/kLqDraku9vdm/kEvC2dyu7FjEYmI1pBj6aMsfFGU=",
+          "py3"
+        ]
+      }
     }
   },
   "taeg": {
@@ -147476,6 +147640,18 @@
       "wheels": {
         "truston_query_language-0.0.1.10-py3-none-any.whl": [
           "2npW/tJx+BdYf6LqLjeI0njArIACIruVCHxx/jkoDQI=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.1.11": {
+      "sdist": [
+        "T/OfvGKfbt99RmO0U43ckQkV3W+xYxCUKklbkeaSO7I=",
+        "truston-query-language-0.0.1.11.tar.gz"
+      ],
+      "wheels": {
+        "truston_query_language-0.0.1.11-py3-none-any.whl": [
+          "DRtFYqk+ZtyOx4fgiGatYrtrhm7bqvJIVZdigP15SqQ=",
           "py3"
         ]
       }
@@ -158246,6 +158422,18 @@
       "sdist": [
         "Si9YtW7X2TzbbirmfuKBDfuli1usXJ3FMRE9HRoMRtQ=",
         "youhi-1.0.4.tar.gz"
+      ]
+    },
+    "1.0.5": {
+      "sdist": [
+        "F/h0t7291VFMEmvVx+HLieHoqykeHa3OLNHNi7vnMts=",
+        "youhi-1.0.5.tar.gz"
+      ]
+    },
+    "1.0.6": {
+      "sdist": [
+        "b44k/Bi9DJlIgGvMw0MycA2Z7uopzTv8xPEQrfp7uWQ=",
+        "youhi-1.0.6.tar.gz"
       ]
     }
   },

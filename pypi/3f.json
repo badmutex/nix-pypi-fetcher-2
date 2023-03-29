@@ -11040,6 +11040,18 @@
         ]
       }
     },
+    "1.29.101": {
+      "sdist": [
+        "IMQ/ZnHupRZNpJ6yVPJcTOC6htE9JGt2t1VMTFfSxXw=",
+        "botocore-a-la-carte-cloudsearch-1.29.101.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_cloudsearch-1.29.101-py3-none-any.whl": [
+          "l23xVmtuSDvMT6SrDaRhGTbxyw4kcIl+pKXul+2Gfqg=",
+          "py3"
+        ]
+      }
+    },
     "1.29.42": {
       "sdist": [
         "12o2l/gmwFoaHhz0HirO01ptQIRomBbANe+HMDgcDQU=",
@@ -34833,6 +34845,16 @@
       }
     }
   },
+  "envpos": {
+    "0.6": {
+      "wheels": {
+        "envpos-0.6-py3-none-any.whl": [
+          "WUdIxcUg5+LAK37tZv/ohPRkX9b0hTPlj9o0lOULdb8=",
+          "py3"
+        ]
+      }
+    }
+  },
   "ercore": {
     "0.1": {
       "sdist": [
@@ -49494,6 +49516,18 @@
         ],
         "gs_apps-0.20.0a20230327-py2.py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "p1uvm2kCU9xfvBg6dC1iVMXWWP2cRPuRw5vexwE9vDM=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.21.0a20230328": {
+      "wheels": {
+        "gs_apps-0.21.0a20230328-py2.py3-none-macosx_10_9_x86_64.whl": [
+          "HPXOIJhaPbV1X52PfDPVwg4YdtvUWxyHItN7hw3j1Jw=",
+          "py2.py3"
+        ],
+        "gs_apps-0.21.0a20230328-py2.py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "jQuXVmtyZZsPo1t4BErZQTl9KSBmo809GojKTydLInU=",
           "py2.py3"
         ]
       }
@@ -97848,6 +97882,12 @@
         "pulumi_aws-5.33.0a1679686449.tar.gz"
       ]
     },
+    "5.34.0a1680034184": {
+      "sdist": [
+        "zlRygVke3qTpXKKxZ4XxLIvJoxPD8BLlhHw+CBHmkMA=",
+        "pulumi_aws-5.34.0a1680034184.tar.gz"
+      ]
+    },
     "5.4.0": {
       "sdist": [
         "BvY6qjvDb572pWP+OX2KE4g3V6yn8tTNQz+8CDW9CKo=",
@@ -112517,6 +112557,18 @@
           "py2.py3"
         ]
       }
+    },
+    "2023.3": {
+      "sdist": [
+        "HYzinbGJGR+1UzjubQOH2Cq1nz0A6sEDQS1k4OvQxYg=",
+        "pytz-2023.3.tar.gz"
+      ],
+      "wheels": {
+        "pytz-2023.3-py2.py3-none-any.whl": [
+          "oVGzq7iO2h1ONKmBTfN94qgOMB5oug/YVvubRr+7v/s=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "pyueye": {
@@ -118880,6 +118932,14 @@
         ],
         "sagemaker_data_insights-0.3.3-py3-none-any.whl": [
           "sTaAc62wNgwrzubt8BF1jADs/AsbGoAy94dhj4e5sdA=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.0": {
+      "wheels": {
+        "sagemaker_data_insights-0.4.0-py3-none-any.whl": [
+          "PY+OeBxXoIbMKSkOxviUqguANjqKbQvyMfSfdACBgqM=",
           "py3"
         ]
       }
@@ -135262,6 +135322,18 @@
       "wheels": {
         "speakeasy_client_sdk_python-1.14.1-py3-none-any.whl": [
           "/tUoD5BJYty9lmAxRp95yi+URoiLhwdNuUtOMnAFXM0=",
+          "py3"
+        ]
+      }
+    },
+    "1.14.2": {
+      "sdist": [
+        "6XtUalcRjzAyVyX/nhFd8zKnlZb4Lz8Qum/PZBkIfSg=",
+        "speakeasy-client-sdk-python-1.14.2.tar.gz"
+      ],
+      "wheels": {
+        "speakeasy_client_sdk_python-1.14.2-py3-none-any.whl": [
+          "YaR5pMOFiiDXb5TyLp69YoC9W4hYdQdNkYKOO72Dhv8=",
           "py3"
         ]
       }

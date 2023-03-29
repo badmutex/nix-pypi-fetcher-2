@@ -21707,6 +21707,20 @@
       ]
     }
   },
+  "control-vegas": {
+    "1.0": {
+      "sdist": [
+        "OJWzZ75Ubk5SbCVCwasEJmbpEvqJM5EVCF0avIPJSwg=",
+        "control-vegas-1.0.tar.gz"
+      ],
+      "wheels": {
+        "control_vegas-1.0-py3-none-any.whl": [
+          "N1PWBN3v3rGkhai0isJ6XcK4Ptc9kI+H5trRlsUaP3o=",
+          "py3"
+        ]
+      }
+    }
+  },
   "convert-html-to-dash": {
     "0.1": {
       "sdist": [
@@ -109637,6 +109651,14 @@
           "py3"
         ]
       }
+    },
+    "0.2.4": {
+      "wheels": {
+        "poe_api-0.2.4-py3-none-any.whl": [
+          "EhwnrzHAjlzRZBTL5S1SXJL4cgyosXzxDb8sq7qgozE=",
+          "py3"
+        ]
+      }
     }
   },
   "poetry-dotenv-plugin": {
@@ -126267,6 +126289,12 @@
         "0XJMBJrzsREff2fExKOg6fUJflBmXg3z/S9viNiq/cY=",
         "python-pymetrics-assessment-client-1.0.6.tar.gz"
       ]
+    },
+    "2.0.0": {
+      "sdist": [
+        "RbB37GIE8qj9KeQZjVEP2Bc/TNmXM1beA8bQxTW8i4k=",
+        "python-pymetrics-assessment-client-2.0.0.tar.gz"
+      ]
     }
   },
   "python-pypi-mirror": {
@@ -136994,16 +137022,22 @@
     }
   },
   "shutil-extra": {
-    "0.0.1": {
+    "0.0.4": {
       "sdist": [
-        "dB+umWBFJvlclvv9PTNDiBKvpp+mKcHSpPbS1TroFg8=",
-        "shutil_extra-0.0.1.tar.gz"
+        "XyQtNGm60aPULQSHjkS7tYHwwsA0mO01dWTXFSA35d4=",
+        "shutil_extra-0.0.4.tar.gz"
       ]
     },
-    "0.0.2": {
+    "0.0.5": {
       "sdist": [
-        "wnhhKtD7Mfqggdu7fgsvQ42a+O6npWtvOC7kmihexlA=",
-        "shutil_extra-0.0.2.tar.gz"
+        "Y/zvyJyVCj5pt8rJUdPu/S+FdZubcC37m+FVm+NVI9k=",
+        "shutil_extra-0.0.5.tar.gz"
+      ]
+    },
+    "0.0.6": {
+      "sdist": [
+        "wE7d+ys4E0h4FGu2gTAWMesktnHOYILexg5RnioXbsE=",
+        "shutil_extra-0.0.6.tar.gz"
       ]
     }
   },
@@ -147002,6 +147036,14 @@
       "wheels": {
         "truera-11.3.3-py3-none-any.whl": [
           "6xx8qknQ2tf7sOlBsnTFmylFPtiEiz3QhHK5goyYhnk=",
+          "py3"
+        ]
+      }
+    },
+    "11.4.1": {
+      "wheels": {
+        "truera-11.4.1-py3-none-any.whl": [
+          "JhttxP0n+5Q8QJNDiiaFyhqzBt/DJBWw7fK/WqsdQGI=",
           "py3"
         ]
       }

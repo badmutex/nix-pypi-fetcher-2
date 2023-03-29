@@ -15384,6 +15384,18 @@
         ]
       }
     },
+    "1.29.101": {
+      "sdist": [
+        "8j+T9NuiLDkMsKdyuIA4rQRPfe3Bgv0hWRCreVNllQw=",
+        "botocore-a-la-carte-chime-sdk-identity-1.29.101.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_chime_sdk_identity-1.29.101-py3-none-any.whl": [
+          "ZgXTobmUlciVLncntIhv4Bs4IXZxp0JK0ORXEs0Stj0=",
+          "py3"
+        ]
+      }
+    },
     "1.29.42": {
       "sdist": [
         "DOG3nmiqvxD7mw9W7o0gaqy3vq8k49ATwp/1WSE6SDE=",
@@ -16090,6 +16102,18 @@
       "wheels": {
         "botocore_a_la_carte_controltower-1.29.100-py3-none-any.whl": [
           "zGigi1EholPIqyRgAZFjNlQGVSk+wuDv7ZOxnbsUUL4=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.101": {
+      "sdist": [
+        "kWvUpb5TTlaTYa29cWKGv7u7s3JhgPMWq3WP07IGP+c=",
+        "botocore-a-la-carte-controltower-1.29.101.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_controltower-1.29.101-py3-none-any.whl": [
+          "cCn1T08An7dy2UV3w5xEvNkftcwRr9GIxcVxPbCN76o=",
           "py3"
         ]
       }
@@ -16804,6 +16828,18 @@
         ]
       }
     },
+    "1.29.101": {
+      "sdist": [
+        "eWbH+QckWqMOCi3iQ80SUnMMQWPt9755x7y8eJqdVEY=",
+        "botocore-a-la-carte-mgn-1.29.101.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_mgn-1.29.101-py3-none-any.whl": [
+          "YZ7mcMYu5QC3SeOaFTxLEwdtS37HPfLN1N+IUqoSh3c=",
+          "py3"
+        ]
+      }
+    },
     "1.29.42": {
       "sdist": [
         "5rEOt0VidYPL/sI6EHsduIsa4Z4qmOQ7L3l6bpIt9jM=",
@@ -17510,6 +17546,18 @@
       "wheels": {
         "botocore_a_la_carte_sesv2-1.29.100-py3-none-any.whl": [
           "3wHWRxou7R/Ud18caie82BncDOFf+dm1OfAiAMO7u88=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.101": {
+      "sdist": [
+        "QT2rqiKHsGr22x5VQZ8X5gPaWgVeze1ZixAXY4ugtGI=",
+        "botocore-a-la-carte-sesv2-1.29.101.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_sesv2-1.29.101-py3-none-any.whl": [
+          "wQpf5dON4TI0M9RO0Uxgpnwy59WkAbvBR0IS6kfwAyo=",
           "py3"
         ]
       }
@@ -42532,6 +42580,14 @@
       "wheels": {
         "DKCloudCommand-1.1.268rc1-py2.py3-none-any.whl": [
           "9weYNS/Jz33Wm76+JDzYopemZxgJrRzUXudxwWwzRGQ=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.1.269": {
+      "wheels": {
+        "DKCloudCommand-1.1.269-py2.py3-none-any.whl": [
+          "E9+04vQDp7LYfdVhmcbGc0BaXc+yIhvo54c+04tF5EI=",
           "py2.py3"
         ]
       }
@@ -78923,6 +78979,18 @@
           "py3"
         ]
       }
+    },
+    "2.9.1": {
+      "sdist": [
+        "sN9SqEtkrQduRJY6iYy0qLLBOxblMg/x/LkvEvYNe78=",
+        "nomenklatura-2.9.1.tar.gz"
+      ],
+      "wheels": {
+        "nomenklatura-2.9.1-py3-none-any.whl": [
+          "PSL9ZKljufBXDI7buS7X0GnJUge+mkRvOqI6+fZs8B8=",
+          "py3"
+        ]
+      }
     }
   },
   "nonebot-plugin-flexperm": {
@@ -102873,6 +102941,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.2": {
+      "sdist": [
+        "2NtFC3D4XF67QgSKlvflfDnr+gcum4Ht3vtPalYnOGU=",
+        "pyCSM-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "pyCSM-1.0.2-py3-none-any.whl": [
+          "hkQ6Aj58iilvDOQUtBjjLvHqsHllJlVmcpagcdO9f7c=",
+          "py3"
+        ]
+      }
     }
   },
   "pycurious": {
@@ -116126,6 +116206,12 @@
       "sdist": [
         "Q1yLHAzpxEjDNkjXZRazkpu0bUFmb9qfoeXCb+iPGLU=",
         "rpa_cooperativa-1.0.34.tar.gz"
+      ]
+    },
+    "1.0.35": {
+      "sdist": [
+        "nEJ0wR8IcbeqYDOsTzRpXDsB9M5AL7I0+8qehBN8dcE=",
+        "rpa_cooperativa-1.0.35.tar.gz"
       ]
     }
   },
@@ -132530,6 +132616,18 @@
       "wheels": {
         "tencentcloud_sdk_python_cii-3.0.861-py2.py3-none-any.whl": [
           "YC5obcuNin8LNnTvwS3zexwkz0UILQwGK2SXJRNrKOk=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.862": {
+      "sdist": [
+        "0hMzN3IL+rImm+Q557uC4M6kGK4hqrWX3DPC5eXHQiA=",
+        "tencentcloud-sdk-python-cii-3.0.862.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_cii-3.0.862-py2.py3-none-any.whl": [
+          "0UjtXkDbcDpjLf81fLIi1bDhmgL2ucQpXo6XCv6xaeE=",
           "py2.py3"
         ]
       }

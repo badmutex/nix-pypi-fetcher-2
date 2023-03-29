@@ -4296,58 +4296,30 @@
         ]
       }
     },
-    "3.0.5": {
+    "3.0.9": {
       "wheels": {
-        "anyon-3.0.5-cp310-cp310-macosx_10_9_universal2.whl": [
-          "HQ+zt812zLuJXEOnXsfbYZt2sic5Bw1I0v2wLyMC4Zw=",
+        "anyon-3.0.9-cp310-cp310-macosx_10_9_universal2.whl": [
+          "JOX0p9Qw0rjKcCQK+M0QxcEOwkUBDEmajv5Yft7bUMY=",
           "cp310"
         ],
-        "anyon-3.0.5-cp310-cp310-manylinux1_x86_64.whl": [
-          "pzX+AXu4xv2kgpZNB4VBIlWCBcLr205ww6fMCvvjR2U=",
+        "anyon-3.0.9-cp310-cp310-manylinux1_x86_64.whl": [
+          "Wc8DdGAfe1EVB/SGSctWSK9z1KAa92kEoRw7B2IATWo=",
           "cp310"
         ],
-        "anyon-3.0.5-cp310-cp310-win_amd64.whl": [
-          "gQdAkelbEhyst0Z7xKsFFpVvnjoGia50qTxv5TLzwJE=",
+        "anyon-3.0.9-cp310-cp310-win_amd64.whl": [
+          "/4ye4hsj8k2P8ICdLCoNemSw/wxP8ObbP9G77LKNnjY=",
           "cp310"
         ],
-        "anyon-3.0.5-cp311-cp311-macosx_10_9_universal2.whl": [
-          "6bcQcWfErVLEilpd0cDK2PHGE82qLCEUtBl/zTQNICY=",
+        "anyon-3.0.9-cp311-cp311-macosx_10_9_universal2.whl": [
+          "WI69xDW3PzCbFJpl20R0IOWWuct96/iig/4lxkZdYVc=",
           "cp311"
         ],
-        "anyon-3.0.5-cp311-cp311-manylinux1_x86_64.whl": [
-          "MsNQAIqusn2kVLoZfh3aJ5mfr+ia3iXYYMIA3v0rrWY=",
+        "anyon-3.0.9-cp311-cp311-manylinux1_x86_64.whl": [
+          "NRqyloifiFtuzO/zORgg3tyCOhmkevLUe4u0n2dBUUc=",
           "cp311"
         ],
-        "anyon-3.0.5-cp311-cp311-win_amd64.whl": [
-          "ZddKwsQWgG5Sgm+1g5jhKwl4o3SnpowyyjXMoNNrb2E=",
-          "cp311"
-        ]
-      }
-    },
-    "3.0.6": {
-      "wheels": {
-        "anyon-3.0.6-cp310-cp310-macosx_10_9_universal2.whl": [
-          "dVza0lHTTcLRtmv/tlJdhh1YBCMsYum4klE4BXmUXBo=",
-          "cp310"
-        ],
-        "anyon-3.0.6-cp310-cp310-manylinux1_x86_64.whl": [
-          "VJ0VRQvN8I+oEu6G84M4bMzBzSVetVD4nW5cSY+WhpU=",
-          "cp310"
-        ],
-        "anyon-3.0.6-cp310-cp310-win_amd64.whl": [
-          "UimqIQC+iZKqwwLF3uOCz8EsCq/+ff/yPYF8D7MtDxo=",
-          "cp310"
-        ],
-        "anyon-3.0.6-cp311-cp311-macosx_10_9_universal2.whl": [
-          "f9mN70hfnuTB3xF+Hwzth/Pg5agnZNX7O806AEm12Kc=",
-          "cp311"
-        ],
-        "anyon-3.0.6-cp311-cp311-manylinux1_x86_64.whl": [
-          "XQELV38MSod7vCx0F57c1Wd04H1jOn1kQG//Yf4zIIA=",
-          "cp311"
-        ],
-        "anyon-3.0.6-cp311-cp311-win_amd64.whl": [
-          "W1l8XTIiqjdFKxyZS6W5x/Fy08ECDhummpn2WLvNGIw=",
+        "anyon-3.0.9-cp311-cp311-win_amd64.whl": [
+          "K3TkbqmTDb3Dj9xa6c9w/SOcvCt1MaF1+5fP9ru83OM=",
           "cp311"
         ]
       }
@@ -9911,6 +9883,18 @@
           "py3"
         ]
       }
+    },
+    "0.3": {
+      "sdist": [
+        "xqdHcQYPluq38mPuJNnwcI1nu29Bd3cy6ZcYhM6MaGI=",
+        "biorosetta-0.3.tar.gz"
+      ],
+      "wheels": {
+        "biorosetta-0.3-py3-none-any.whl": [
+          "k1yyiwM53nJp5XskkwGkCMn60PBoTqCSrV12jIQUews=",
+          "py3"
+        ]
+      }
     }
   },
   "biotempy": {
@@ -11078,6 +11062,18 @@
       "wheels": {
         "botocore_a_la_carte_firehose-1.29.100-py3-none-any.whl": [
           "BBhrOSgW0gsFAL/gG93N5X2WI8cOiLOHuEahpHuiHzw=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.101": {
+      "sdist": [
+        "ORVGjgRZcXkf1oeb/j9HBAoCXGxtwbswHkfOxlw/kcc=",
+        "botocore-a-la-carte-firehose-1.29.101.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_firehose-1.29.101-py3-none-any.whl": [
+          "MiGI6bqdjtxaBe+VmIN/KUWg10yhBRggbG7rDdCB4LI=",
           "py3"
         ]
       }
@@ -18883,6 +18879,14 @@
           "py3"
         ]
       }
+    }
+  },
+  "credoss": {
+    "9000.0.2": {
+      "sdist": [
+        "0DYZoURXpWtnAZFozcw8Ec5ESNFJdfhi+LyqJvn9T0g=",
+        "credoss-9000.0.2.tar.gz"
+      ]
     }
   },
   "croninfo": {
@@ -32752,6 +32756,20 @@
       "wheels": {
         "dumpall-0.3.2-py3-none-any.whl": [
           "xLKIx+vS9Ndz25TVTWZl9q2mwETLoxIKh7wGk2wJf9Q=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "duplocloud-client": {
+    "0.0.3": {
+      "sdist": [
+        "j6hvR7y10M2dgJICk6YFiM0Nvc5A4edpVv3EkrvNph0=",
+        "duplocloud-client-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "duplocloud_client-0.0.3-py3-none-any.whl": [
+          "/F8jq2LoYvnwtrzKOOMjPVQAsJNsT2Va+ZqN/NltEBY=",
           "py3"
         ]
       }
@@ -62356,6 +62374,18 @@
         ]
       }
     },
+    "0.1.48": {
+      "sdist": [
+        "Bbben8Rx0JyHGwgwXn/ay3lMaeBtQmFXYUPoA+TJ9Gs=",
+        "kocher_tools-0.1.48.tar.gz"
+      ],
+      "wheels": {
+        "kocher_tools-0.1.48-py3-none-any.whl": [
+          "jUChWp2C4freZlZgWXMY+k/ktTeII3VSRo+TtO1MxK0=",
+          "py3"
+        ]
+      }
+    },
     "0.1.5": {
       "sdist": [
         "NqrHBmphmUQZjwo7feFSbFR1UPb55DcYZ/bRuNV03mA=",
@@ -66271,6 +66301,66 @@
           "py3"
         ]
       }
+    },
+    "0.3.0": {
+      "sdist": [
+        "PZtwN9U6yqXw89n7U2tYPt37P4Dw6l3D/xsbkGtmWFM=",
+        "liom-toolkit-0.3.0.tar.gz"
+      ],
+      "wheels": {
+        "liom_toolkit-0.3.0-py3-none-any.whl": [
+          "KnEpWwKJRMQQGzBAD/nTpnj/zkTjtzPiZ/zJn/Oaihc=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.1": {
+      "sdist": [
+        "ywlLx7TofMl+sgWZnhGiMP2X61K3WBkREU6Eittj7MY=",
+        "liom-toolkit-0.3.1.tar.gz"
+      ],
+      "wheels": {
+        "liom_toolkit-0.3.1-py3-none-any.whl": [
+          "c8lS26go1CFonahZfZBoIW98T/4nkbfhhNwVNuxAHWc=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.2": {
+      "sdist": [
+        "FFgmPNTdIDtZNzhAG8Wfs6crVGguQ4v8G0m/XQw4igw=",
+        "liom-toolkit-0.3.2.tar.gz"
+      ],
+      "wheels": {
+        "liom_toolkit-0.3.2-py3-none-any.whl": [
+          "leyxy/vXYJJe72JqIB0k1X5c7sfke1ArSLBhKKbmtVc=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.3": {
+      "sdist": [
+        "6Jxrvgg5OmEPESOTfv9mVGbs/1VcntmV7U7V6Zk6tSE=",
+        "liom-toolkit-0.3.3.tar.gz"
+      ],
+      "wheels": {
+        "liom_toolkit-0.3.3-py3-none-any.whl": [
+          "9EJKqQqkCYYu6FKLqP2ITGkNuHm5h8zM4L3YHZxg8M4=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.4": {
+      "sdist": [
+        "bNL75DSZYSMmNOhRDzQXDGFguYFq2HmeSmeUMnHkIsg=",
+        "liom-toolkit-0.3.4.tar.gz"
+      ],
+      "wheels": {
+        "liom_toolkit-0.3.4-py3-none-any.whl": [
+          "Bgmh9HumUGm+4Wv0VVG4GAy8h11NNAL9nqX36QvP6Ag=",
+          "py3"
+        ]
+      }
     }
   },
   "livescrape": {
@@ -67552,6 +67642,18 @@
       "wheels": {
         "luawl.py-1.4.0-py3-none-any.whl": [
           "Rd6v/k1YtbRmoRWKjtRL/BMNpxZOXBCtdn8ySq4f4vM=",
+          "py3"
+        ]
+      }
+    },
+    "1.4.1": {
+      "sdist": [
+        "xswDBB1escJK47/kS+vRJtjxL4P83R/3aO/DOgypbgQ=",
+        "luawl.py-1.4.1.tar.gz"
+      ],
+      "wheels": {
+        "luawl.py-1.4.1-py3-none-any.whl": [
+          "iCs1gRjBNbc4OaLLPWncrhnhUdxkGNW7z6zClC1Ty6o=",
           "py3"
         ]
       }

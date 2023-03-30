@@ -16831,6 +16831,30 @@
           "py3"
         ]
       }
+    },
+    "0.1.3": {
+      "sdist": [
+        "8Zd1Jg2rGUpFIdyz9OZbtCcJ8tTp/JPEO1NuGCDQMAg=",
+        "bng_data-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "bng_data-0.1.3-py3-none-any.whl": [
+          "SUQEbN9gBAkx6zWg4bcaC0lFVVDjpKdOhnXz/x9W3SE=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.4": {
+      "sdist": [
+        "I9hJbz7HaWBwSEK/AyVI7+2A/83ZRco/Lg69FqVF9bw=",
+        "bng_data-0.1.4.tar.gz"
+      ],
+      "wheels": {
+        "bng_data-0.1.4-py3-none-any.whl": [
+          "wZc/JlolgZsY5DFHnUChNybHyX7aO7CE+JbDbHYF7oQ=",
+          "py3"
+        ]
+      }
     }
   },
   "bobtemplates.plone": {
@@ -19052,6 +19076,20 @@
       "wheels": {
         "calculation1-2.1.0-py3-none-any.whl": [
           "NbaKAKoBT2KVf6P/YSTJTnPkF85cB0YepzZ1yU5m/ew=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "calculator-olu-ile": {
+    "0.1.3": {
+      "sdist": [
+        "f2RqmSYdV6PZRS8hLYP/PgBufYGpDxviLefXTBe21o4=",
+        "calculator_olu_ile-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "calculator_olu_ile-0.1.3-py3-none-any.whl": [
+          "ek3Oha/cbtsY2nbJ6/QZ2ReO4zgjNoHS8e5gSq8Rees=",
           "py3"
         ]
       }
@@ -25782,14 +25820,14 @@
         ]
       }
     },
-    "1.1": {
+    "1.2": {
       "sdist": [
-        "MoSWqFWdF6jVH/UVstFhQzlARrUBAwniCp9evJBOcFQ=",
-        "coolmongo-1.1.tar.gz"
+        "i4oF5XwV1a8s+Z6ztIKD6rpJI1jYaZS/kzaAovtUMnY=",
+        "coolmongo-1.2.tar.gz"
       ],
       "wheels": {
-        "coolmongo-1.1-py2.py3-none-any.whl": [
-          "sjP8CBRYFcdU+4NTpg+gWv4KPy3yinTrsKR80xBmjXo=",
+        "coolmongo-1.2-py2.py3-none-any.whl": [
+          "GuWMcF1khl94FZoSHo280RzDFAb8Ov0QcGSIXD81h0Y=",
           "py2.py3"
         ]
       }
@@ -28128,6 +28166,58 @@
         ],
         "cvxopt-1.3.0-cp39-cp39-win_amd64.whl": [
           "uSPqHKVd1U/NajC4w6Tv2j6jfHJ6ySiBlj8lfet8z/c=",
+          "cp39"
+        ]
+      }
+    },
+    "1.3.0.1": {
+      "wheels": {
+        "cvxopt-1.3.0.1-cp310-cp310-win32.whl": [
+          "QpiVyc3TO5e6E1Sx16nXPHF5k02GSZIKZNHRFAYmldw=",
+          "cp310"
+        ],
+        "cvxopt-1.3.0.1-cp310-cp310-win_amd64.whl": [
+          "7dssHuhjx91+3TQBzbA2ycjXd54rH+Q0s0uNKwS86/w=",
+          "cp310"
+        ],
+        "cvxopt-1.3.0.1-cp311-cp311-win32.whl": [
+          "O+nMpFODRqvC01NKhmez4D4EcGfLyNfPKuP6gbTaYZs=",
+          "cp311"
+        ],
+        "cvxopt-1.3.0.1-cp311-cp311-win_amd64.whl": [
+          "pDruSY5H8qy06v/SQF2ipUkVAZvwmVHUEvDesJBjg+k=",
+          "cp311"
+        ],
+        "cvxopt-1.3.0.1-cp36-cp36m-win32.whl": [
+          "NMXW/ir2pbGqK7rrs4gBUpI3F+ymmbhokFLRQ5wV3XE=",
+          "cp36"
+        ],
+        "cvxopt-1.3.0.1-cp36-cp36m-win_amd64.whl": [
+          "Ei6AXez/vdEE2QlriyHwzjW6e16Llh8/I+ubf+HNvsU=",
+          "cp36"
+        ],
+        "cvxopt-1.3.0.1-cp37-cp37m-win32.whl": [
+          "d6xFomLHZ8sdYU5RZygh7fJgr2eYNwsFoH4BgcgKUuI=",
+          "cp37"
+        ],
+        "cvxopt-1.3.0.1-cp37-cp37m-win_amd64.whl": [
+          "npIZ6PsK8iATwVDfvW44Fns49hvC4NJp0ZthN3cgVak=",
+          "cp37"
+        ],
+        "cvxopt-1.3.0.1-cp38-cp38-win32.whl": [
+          "YV6Ufiyf903EsNvt5kFOH2EGWQvDyqUsaQzcK81uRWk=",
+          "cp38"
+        ],
+        "cvxopt-1.3.0.1-cp38-cp38-win_amd64.whl": [
+          "UXVUqkQ6SBjZ/gHnP4vUILasrQCGAZ0LA0adKogQ8h4=",
+          "cp38"
+        ],
+        "cvxopt-1.3.0.1-cp39-cp39-win32.whl": [
+          "0bvAEdXYPJE5cuG9MDWPT6Vt76C+E/6pVmEv8haPK5E=",
+          "cp39"
+        ],
+        "cvxopt-1.3.0.1-cp39-cp39-win_amd64.whl": [
+          "9az3ICNQFNaeTuaKdoLy/vfvMMcFkz2bdYwu3/0qW88=",
           "cp39"
         ]
       }
@@ -136932,6 +137022,18 @@
         ]
       }
     },
+    "0.0.13": {
+      "sdist": [
+        "6y63Mg6kA/Om+FH6sgPFsptG2zMSNs4/CXcnDM3vHAg=",
+        "spgci-0.0.13.tar.gz"
+      ],
+      "wheels": {
+        "spgci-0.0.13-py3-none-any.whl": [
+          "DaycnUnGxRHARB/YrfYVtzEuoSqLUXXjWMn0FBysnmQ=",
+          "py3"
+        ]
+      }
+    },
     "0.0.2": {
       "sdist": [
         "ykUzpI6/5cF0JTkMDmpZ4/8+I9eZ9K+4y7yoF3fdJ4g=",
@@ -144763,6 +144865,42 @@
         "DNI4ZX5+yB22nhxOrB8Uhsd+ysaAPPHFdoDJjSFgdMI=",
         "tools_hjh-2.4.3.tar.gz"
       ]
+    },
+    "2.4.4": {
+      "sdist": [
+        "2pfzmgpfuKwzK2VIVcd1X4rcGPEnTIjVOIx6zRJK6lI=",
+        "tools_hjh-2.4.4.tar.gz"
+      ]
+    },
+    "2.4.5": {
+      "sdist": [
+        "5mJpKnzzh+aCMOBlKegfojhn+nebMaTUTKmrKXlPQq0=",
+        "tools_hjh-2.4.5.tar.gz"
+      ]
+    },
+    "2.4.6": {
+      "sdist": [
+        "mgOHX5aQQebizE+sxIaEcv6zpYUfYKCkeKYubont26U=",
+        "tools_hjh-2.4.6.tar.gz"
+      ]
+    },
+    "2.4.7": {
+      "sdist": [
+        "dBOxEFFBX2bFDhXdnFhlvS4YL/CBpdswLmVwY7DQVvA=",
+        "tools_hjh-2.4.7.tar.gz"
+      ]
+    },
+    "2.5.0": {
+      "sdist": [
+        "h/AFbXAqBf+Jc53YziNlJebC0v3pZPHjbgIjXc+MTWc=",
+        "tools_hjh-2.5.0.tar.gz"
+      ]
+    },
+    "2.5.1": {
+      "sdist": [
+        "UR1M8DngKv/mn3jG2ArIXdMzTrBWz2Xl4NYsY9yKIMU=",
+        "tools_hjh-2.5.1.tar.gz"
+      ]
     }
   },
   "topaz-em": {
@@ -149141,6 +149279,20 @@
         "kf18Z4DywS8cxm8wS5FVSDTA+6UFmVkAfwKFtuHIPvI=",
         "ujsongp-1.35.1.tar.gz"
       ]
+    }
+  },
+  "unfqt": {
+    "0.2.0": {
+      "sdist": [
+        "0vpHB/r9pnRZKIDfWIke2L62m5zxVBsZzPTn3zoy3VE=",
+        "unfqt-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "unfqt-0.2.0-py3-none-any.whl": [
+          "i1+XSmIWo3TxUwuvQhk7bd8BBPjFJvPU7HVdt68aLdg=",
+          "py3"
+        ]
+      }
     }
   },
   "unifhycontrib-artemis": {

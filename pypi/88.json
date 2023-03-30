@@ -4288,30 +4288,30 @@
     }
   },
   "anyon": {
-    "3.0.10": {
+    "3.0.12": {
       "wheels": {
-        "anyon-3.0.10-cp310-cp310-macosx_10_9_universal2.whl": [
-          "TMFi0tWsxEwRYh1P3N/S6WYdbg0zoGjONuQXYM+TcmQ=",
+        "anyon-3.0.12-cp310-cp310-macosx_10_9_universal2.whl": [
+          "zbIVZE83d34SVejss8rM8i7xSvTkn9dV7uAX2EpMZw4=",
           "cp310"
         ],
-        "anyon-3.0.10-cp310-cp310-manylinux1_x86_64.whl": [
-          "BdbeqiX3OdMcAKqrLVOzVv1Mt6TlzypOta9PTtLJjbE=",
+        "anyon-3.0.12-cp310-cp310-manylinux1_x86_64.whl": [
+          "dhjCb31WO9j8Ob0paRI76UHIhlVhkEKMJCh6bWu9Ed4=",
           "cp310"
         ],
-        "anyon-3.0.10-cp310-cp310-win_amd64.whl": [
-          "APcs9MzXLr8HAL5sPrADy7vssNxuBiV/m1zhmM8S+pQ=",
+        "anyon-3.0.12-cp310-cp310-win_amd64.whl": [
+          "QcmPQsL3HHqEtosftgCzGh2ZeTqJQNCubCH8NqTS/OU=",
           "cp310"
         ],
-        "anyon-3.0.10-cp311-cp311-macosx_10_9_universal2.whl": [
-          "yRsbbTLYXiyomVIJd0nj3K71y9Bvgyo75U5lrNLT9Vw=",
+        "anyon-3.0.12-cp311-cp311-macosx_10_9_universal2.whl": [
+          "qepn0TYXR5ZvLsV1VMtE8bgBbTYHOksI/5A6C84IA2s=",
           "cp311"
         ],
-        "anyon-3.0.10-cp311-cp311-manylinux1_x86_64.whl": [
-          "K4B21jtM780aPSW+VKZxkqV2UZTod03DFXFEZp9lP6A=",
+        "anyon-3.0.12-cp311-cp311-manylinux1_x86_64.whl": [
+          "t+8khSp4CM9lL5rnRarReEtMVIOiaK2tLpt3/AIGq/E=",
           "cp311"
         ],
-        "anyon-3.0.10-cp311-cp311-win_amd64.whl": [
-          "759ePexU1Vfc50QTyAF5Rent+mAmn2t9e4O8pLdIzMQ=",
+        "anyon-3.0.12-cp311-cp311-win_amd64.whl": [
+          "rRX7Tij/sOgVDN4U0kfVU7/6VnIAtueeI+EcJ45A+Rc=",
           "cp311"
         ]
       }
@@ -22224,6 +22224,18 @@
       "wheels": {
         "dapper-1.5.0-py3-none-any.whl": [
           "O6caX+2C3k5P0X6zxwhtYB2U/1Z2MLPj+a/uVcJO3fc=",
+          "py3"
+        ]
+      }
+    },
+    "1.5.1": {
+      "sdist": [
+        "D9OPIVzGbirGG0Nvmmqny3M9zwsindpSCOiVuwjdmMs=",
+        "dapper-1.5.1.tar.gz"
+      ],
+      "wheels": {
+        "dapper-1.5.1-py3-none-any.whl": [
+          "MRzqNoxtFOr6Jbq9raICGvfNZtZ/Udj1LAtBhrbs0r0=",
           "py3"
         ]
       }
@@ -53317,6 +53329,12 @@
         "nKgL5ooRZfTZYdaH8jDpB85I7D7ZHj9qIiao1jkmHYA=",
         "halo-reader-0.0.4.tar.gz"
       ]
+    },
+    "0.0.5": {
+      "sdist": [
+        "pgXyoyEMjV7SxMF1AdmRDRDjPBpzwQCDYW8Lv7NYmSQ=",
+        "halo-reader-0.0.5.tar.gz"
+      ]
     }
   },
   "hanabi-learning-environment": {
@@ -60313,6 +60331,14 @@
           "py3"
         ]
       }
+    },
+    "0.2.4": {
+      "wheels": {
+        "jutool.spider_util-0.2.4-py3-none-any.whl": [
+          "NFGP0Tjw6DBe4NVKqBP2+7q1nqMsucQvM81Q+qSOANM=",
+          "py3"
+        ]
+      }
     }
   },
   "jwt-flask-authentication": {
@@ -66444,6 +66470,18 @@
       "wheels": {
         "liom_toolkit-0.3.6-py3-none-any.whl": [
           "lp3HFTwe6K+XEMC6hxuNssfmNaRom/p8QdaVKmvcA9Q=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.7": {
+      "sdist": [
+        "WQZpM1EptlmN1oqV3V2lLEHV0qFdyq/6DLMPKlkltL4=",
+        "liom-toolkit-0.3.7.tar.gz"
+      ],
+      "wheels": {
+        "liom_toolkit-0.3.7-py3-none-any.whl": [
+          "Rpv8+vE8ObloHEzjUbkxn6mu7I0WacVW4y2bst4EC2Q=",
           "py3"
         ]
       }
@@ -95514,6 +95552,26 @@
         ]
       }
     },
+    "1.8.23": {
+      "sdist": [
+        "ocQHE8cNiGOSCBNEWjVI0nYQ1QtYNmju1u5dj2aBj9I=",
+        "OctoBot-Commons-1.8.23.tar.gz"
+      ],
+      "wheels": {
+        "OctoBot_Commons-1.8.23-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "X88/LDX7udgORKxmFZH5+ceAX43Vj1DRfDFYclS7Iws=",
+          "cp38"
+        ],
+        "OctoBot_Commons-1.8.23-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "i4u+OWFlxhGxL3BazzgIbqdBN188HAms1ABdlqGT9vM=",
+          "cp38"
+        ],
+        "OctoBot_Commons-1.8.23-cp38-cp38-win_amd64.whl": [
+          "GONFGLyGUuy5nElr/D5n0r2/XKHzoTn1k2jK7j4CY7w=",
+          "cp38"
+        ]
+      }
+    },
     "1.8.3": {
       "sdist": [
         "/G/WqmQxV6W5UoVeurnnEd2q3E90h2k3NJaBJr3EiBg=",
@@ -95958,6 +96016,14 @@
       "wheels": {
         "odoo_addon_mrp_bom_component_menu-15.0.1.0.0.5-py3-none-any.whl": [
           "f4kUMy3GrYY5txR03/CnUgKBADpmGeDI2K6IQZqnBXs=",
+          "py3"
+        ]
+      }
+    },
+    "16.0.1.0.0.2": {
+      "wheels": {
+        "odoo_addon_mrp_bom_component_menu-16.0.1.0.0.2-py3-none-any.whl": [
+          "EmR2qIfQ3ACDV3IiIN8aS6To7TNhhUPR4Q/pRlSA6rA=",
           "py3"
         ]
       }
@@ -122764,26 +122830,14 @@
     }
   },
   "quorum-data-py": {
-    "1.0.7": {
+    "1.1.1": {
       "sdist": [
-        "vAXRI555xvjzTd6JJ5Ds5OqOEUc2YQAgdStyfkxdU9U=",
-        "quorum_data_py-1.0.7.tar.gz"
+        "RJc1lAebZVPfPLisAxJsfUPtsGdqOD/oxcRCQhBKEOI=",
+        "quorum_data_py-1.1.1.tar.gz"
       ],
       "wheels": {
-        "quorum_data_py-1.0.7-py3-none-any.whl": [
-          "wytHsrkUNlGtPVhOnqEB5AII2VP6sHRrChRkmHKqpVI=",
-          "py3"
-        ]
-      }
-    },
-    "1.1.0": {
-      "sdist": [
-        "iQNYmYgFgIY8ilvgPOrffHVr3Il63/2o7z7MMQ1yPAs=",
-        "quorum_data_py-1.1.0.tar.gz"
-      ],
-      "wheels": {
-        "quorum_data_py-1.1.0-py3-none-any.whl": [
-          "OuDCLQLAdRjepaXH+aV8RFw5zfSQDreh8MomNJf1mIc=",
+        "quorum_data_py-1.1.1-py3-none-any.whl": [
+          "s/GFwboYMpqWYah7ZU0hLIwy9RetrHhS6vJWjPunD50=",
           "py3"
         ]
       }

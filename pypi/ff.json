@@ -10039,6 +10039,42 @@
           "cp39"
         ]
       }
+    },
+    "1.15.0": {
+      "wheels": {
+        "autoai_libs-1.15.0-74-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "LFjQSp7MVJXk7c4I6ToAfyZ4YVhyTAT0ZQGMa/DuP+0=",
+          "cp310"
+        ],
+        "autoai_libs-1.15.0-74-cp310-cp310-manylinux1_x86_64.whl": [
+          "8sW2Cl/l0OdChtPEiTNHbuMS2AccbrZXCKEtHdmCoQQ=",
+          "cp310"
+        ],
+        "autoai_libs-1.15.0-74-cp310-cp310-manylinux2014_ppc64le.whl": [
+          "HVyJXcehTzr6SMra6/js7QWMMtjHX+BDboVONjPyiXM=",
+          "cp310"
+        ],
+        "autoai_libs-1.15.0-74-cp310-cp310-win_amd64.whl": [
+          "2wtSjuTeDrR8R/tMh+Ky7+j0uxn6Bfqgqn2LAlWfSPY=",
+          "cp310"
+        ],
+        "autoai_libs-1.15.0-74-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "7wgKfogs1fTTXs+/WUH7y9w7eIaQc8OTa/Dv1pe4fE4=",
+          "cp39"
+        ],
+        "autoai_libs-1.15.0-74-cp39-cp39-manylinux1_x86_64.whl": [
+          "Qw9xy8PjYe1uJyRl5x9aVRteW8/soIVUK7z/g26uOGE=",
+          "cp39"
+        ],
+        "autoai_libs-1.15.0-74-cp39-cp39-manylinux2014_ppc64le.whl": [
+          "l0FvQRJ5jvS59Fb3RMgNQUzXD9w/OakGOzmFgAbhTVY=",
+          "cp39"
+        ],
+        "autoai_libs-1.15.0-74-cp39-cp39-win_amd64.whl": [
+          "lpCQhBxlBY8xdb/f7ltgl1THw8Lo3XFDZQGh0hRVmOU=",
+          "cp39"
+        ]
+      }
     }
   },
   "autograde-viz": {
@@ -64874,6 +64910,14 @@
         ]
       }
     },
+    "3.1.34": {
+      "wheels": {
+        "huaweicloudsdksis-3.1.34-py2.py3-none-any.whl": [
+          "dEm4x57hMomuJy2/3bdKEfJDAyawQ5iRw3hS5j7ELXg=",
+          "py2.py3"
+        ]
+      }
+    },
     "3.1.4": {
       "wheels": {
         "huaweicloudsdksis-3.1.4-py2.py3-none-any.whl": [
@@ -74628,6 +74672,18 @@
       "wheels": {
         "lbt_recipes-0.25.2-py2.py3-none-any.whl": [
           "j9emZNOZuOhozNbvPnJTfOALFzcvusQzbSK4sUoz6u8=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.25.3": {
+      "sdist": [
+        "oYFM18GaQekCCQEzfcA8Fsofy2O2qAgKLHzGAPqY5VA=",
+        "lbt-recipes-0.25.3.tar.gz"
+      ],
+      "wheels": {
+        "lbt_recipes-0.25.3-py2.py3-none-any.whl": [
+          "2WYreBjQ8otNhJ9179JL14vwiOoI5rkSmH0LTw2SW+g=",
           "py2.py3"
         ]
       }
@@ -94228,6 +94284,14 @@
       "wheels": {
         "orchespy-0.1.0b1-cp38-cp38-manylinux1_x86_64.whl": [
           "wO4rmFLDgQsuC00Vig6yTtqZe1pDbVAXdb5Psv5kZsc=",
+          "cp38"
+        ]
+      }
+    },
+    "0.2.0b2": {
+      "wheels": {
+        "orchespy-0.2.0b2-cp38-cp38-manylinux1_x86_64.whl": [
+          "F1iz2K20TInVaXOu1HNJW81VtpBJxYcBdc+qw6c4U/k=",
           "cp38"
         ]
       }
@@ -129796,6 +129860,18 @@
         ]
       }
     },
+    "2.10.0": {
+      "sdist": [
+        "UW9QFo6ItUS7F7llR66xrvMiIPqIGkdApQAvs4UrBnM=",
+        "seamapi-2.10.0.tar.gz"
+      ],
+      "wheels": {
+        "seamapi-2.10.0-py3-none-any.whl": [
+          "lHfRVvEs+f3eFJr69RJpYoZzpkz0R/8PUXXF8qZuYoE=",
+          "py3"
+        ]
+      }
+    },
     "2.2.0": {
       "sdist": [
         "FlzopHGLobv3aT/YwHmzo0M9WJHlFabCYpUpdk2Mals=",
@@ -139032,6 +139108,18 @@
       "wheels": {
         "stauth-0.1.7-py3-none-any.whl": [
           "Bj397ariaYRlrFBRPCZXtrOM+WnrWwB3G6/cM2PO1NA=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.8": {
+      "sdist": [
+        "TzBtOPRV+1ujOpqj0oVWt1BFiizlfjSuNH3QzXuwjBw=",
+        "stauth-0.1.8.tar.gz"
+      ],
+      "wheels": {
+        "stauth-0.1.8-py3-none-any.whl": [
+          "7GP+f9pCkBElgb1LfTv+oVOIeGZunvq01ioamCJ8pl4=",
           "py3"
         ]
       }

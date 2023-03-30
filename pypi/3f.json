@@ -18219,6 +18219,20 @@
       }
     }
   },
+  "comrad": {
+    "0.0.1": {
+      "sdist": [
+        "nzYGK2rqfTE/4mx5vuPqFVpFg6qX3A2J5Rs7FOJwuis=",
+        "comrad-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "comrad-0.0.1-py3-none-any.whl": [
+          "dlETvLiQNCTSaGZNg/NchfKW3uAK3OMYaBCiW//Lk5k=",
+          "py3"
+        ]
+      }
+    }
+  },
   "conama-357": {
     "0.0.1": {
       "sdist": [
@@ -33427,6 +33441,20 @@
         "0j61PJNLFusD6iFJ1sFKdXjdx/L71Ctm+s3/70WDPRc=",
         "duang111-7.0.tar.gz"
       ]
+    }
+  },
+  "dune-translate-query": {
+    "0.0.3": {
+      "sdist": [
+        "evIkxiRHrDNRrCYC2zazbxuRmpHXDr6Gr+YSWLUMdT8=",
+        "dune_translate_query-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "dune_translate_query-0.0.3-py3-none-any.whl": [
+          "aoAYwj4nV99fw9Ri+iihypX6EwQ0UJieTDCMFNQYsWU=",
+          "py3"
+        ]
+      }
     }
   },
   "dutch-concepts": {
@@ -51926,6 +51954,14 @@
         ]
       }
     },
+    "3.1.34": {
+      "wheels": {
+        "huaweicloudsdksmn-3.1.34-py2.py3-none-any.whl": [
+          "av2kRKRoBsiE6s8lVoyQsqZ+fTpakSBp8tEiTNDrQDc=",
+          "py2.py3"
+        ]
+      }
+    },
     "3.1.4": {
       "wheels": {
         "huaweicloudsdksmn-3.1.4-py2.py3-none-any.whl": [
@@ -57984,6 +58020,18 @@
       "wheels": {
         "jupyterlab_language_pack_el_gr-3.6.post0-py2.py3-none-any.whl": [
           "h6ok7z1uVSSXFEqISLyaPKxwEDVCHZYObvZkVLbxrTo=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.6.post1": {
+      "sdist": [
+        "GAdDvu1ULyQ17hv+XR89GpZWCuWc4/GIg7RLj2quRko=",
+        "jupyterlab_language_pack_el_gr-3.6.post1.tar.gz"
+      ],
+      "wheels": {
+        "jupyterlab_language_pack_el_gr-3.6.post1-py2.py3-none-any.whl": [
+          "BJgH9oP2wWL1aSL2edOET1G82Ea1lAvXYM+P+hFcmGQ=",
           "py2.py3"
         ]
       }
@@ -71938,64 +71986,10 @@
     }
   },
   "netdoc": {
-    "0.9.41": {
+    "0.9.49": {
       "sdist": [
-        "l0kX46l2CIgRY7j8u+w6koNAZ2AoRx0AxXRhOEr5w4U=",
-        "netdoc-0.9.41.tar.gz"
-      ]
-    },
-    "0.9.42": {
-      "sdist": [
-        "sQwAQpVmaEdhDETrHfL65pjgQfpEjaTK5oaRhMtGRrc=",
-        "netdoc-0.9.42.tar.gz"
-      ]
-    },
-    "0.9.43": {
-      "sdist": [
-        "lW3TNiIrj9PccB+to7pcWkeBwinvyljKyQ+KBj5re2A=",
-        "netdoc-0.9.43.tar.gz"
-      ]
-    },
-    "0.9.44": {
-      "sdist": [
-        "jL912iSmzhLN/pfzu0aAsY68c5ZZhxwLql9MzH1VAzg=",
-        "netdoc-0.9.44.tar.gz"
-      ]
-    },
-    "0.9.45": {
-      "sdist": [
-        "GBc2NdZZzsjSHNgdubwBGTKDe9CyiJCvh4ejXzR4acY=",
-        "netdoc-0.9.45.tar.gz"
-      ]
-    },
-    "0.9.46": {
-      "sdist": [
-        "+S0vzWiZ6DBoG302ykj9OEzMUoTUt+sMg2ikNVhe2E0=",
-        "netdoc-0.9.46.tar.gz"
-      ]
-    },
-    "0.9.47": {
-      "sdist": [
-        "Qr/EOTmxiAiIs5PZqee1DzswTv0+l+sk59d22WXRKFQ=",
-        "netdoc-0.9.47.tar.gz"
-      ]
-    },
-    "0.9.48": {
-      "sdist": [
-        "p8aiWboVJwJ+5h7BqZQAq3c+3KHRApxn5t6UKJIndsw=",
-        "netdoc-0.9.48.tar.gz"
-      ]
-    },
-    "0.9.6": {
-      "sdist": [
-        "CZFi5YNx/q/djeOClH/xEgGTs5+u2BGcf2BvcpeYejc=",
-        "netdoc-0.9.6.tar.gz"
-      ]
-    },
-    "0.9.8": {
-      "sdist": [
-        "IvoRHavC6Gq8zCV6vy4d7XHkvN+B+5ow+lSoedbKqdc=",
-        "netdoc-0.9.8.tar.gz"
+        "R8DKxCzH0HiEeTOpoIOot8Krr/qO4rkjLGiCHyhl2uM=",
+        "netdoc-0.9.49.tar.gz"
       ]
     }
   },
@@ -103239,6 +103233,18 @@
           "py3"
         ]
       }
+    },
+    "4.4.1": {
+      "sdist": [
+        "3PmiXRDvMVXu7gx9MrXdesXPembVEB35rprMp+wPZbs=",
+        "pygame-menu-4.4.1.tar.gz"
+      ],
+      "wheels": {
+        "pygame_menu-4.4.1-py3-none-any.whl": [
+          "7j4m4HG63xf+THFBeZxxfx+3sKyhGKxMESFFvTioYWM=",
+          "py3"
+        ]
+      }
     }
   },
   "pygi-composite-templates": {
@@ -118828,6 +118834,18 @@
       "wheels": {
         "rubrical-0.0.7-py3-none-any.whl": [
           "cbneM0hIP14zZjehPRkrgiWFyk9luHw4lxUJWju6TVg=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.8": {
+      "sdist": [
+        "LoI5gXLQN5/cUeIqqoafWqkxtwKrmx/SMxnRWLsG/lM=",
+        "rubrical-0.0.8.tar.gz"
+      ],
+      "wheels": {
+        "rubrical-0.0.8-py3-none-any.whl": [
+          "ZHvyJ7lR1IcnNcVtvTNPHHb4Kci876Arz40mFg28yxw=",
           "py3"
         ]
       }
@@ -136138,6 +136156,18 @@
       "wheels": {
         "SPPRVAL-0.0.5-py3-none-any.whl": [
           "a5fm1NXTpwEAt4SLOCstvz+d6Xk31bpbrxL8L0GXT90=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.6": {
+      "sdist": [
+        "w0rmDYWnxRinzAf2ZPqhVTCzYvrpGeY5pH261WWjOuI=",
+        "SPPRVAL-0.0.6.tar.gz"
+      ],
+      "wheels": {
+        "SPPRVAL-0.0.6-py3-none-any.whl": [
+          "7djS8eULLF3p8OgBqL+fX4ntjW1td/4BHiBMGIk7qgA=",
           "py3"
         ]
       }

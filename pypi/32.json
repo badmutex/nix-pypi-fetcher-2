@@ -13143,6 +13143,10 @@
       }
     },
     "2.36.0": {
+      "sdist": [
+        "rQ62LW5IP7uUlLk8X5N+yOJEeV3v+igSFSarKy9jFWU=",
+        "aws-solutions-constructs.aws-iot-kinesisstreams-2.36.0.tar.gz"
+      ],
       "wheels": {
         "aws_solutions_constructs.aws_iot_kinesisstreams-2.36.0-py3-none-any.whl": [
           "kEK6l/RfgEBFipX8k+Zxn5VfBrEXdV4jrFRc/JV5i1c=",
@@ -69297,6 +69301,18 @@
           "py3"
         ]
       }
+    },
+    "0.5.1": {
+      "sdist": [
+        "K01BYzzjj2Fo5BEl1EumLmyGeOPvmJmWXRBvX5xu0yE=",
+        "mmodel-0.5.1.tar.gz"
+      ],
+      "wheels": {
+        "mmodel-0.5.1-py3-none-any.whl": [
+          "yPANd2uCXLj0Ubk6FSrSi9awzptEzQPJmtcYndvGfr4=",
+          "py3"
+        ]
+      }
     }
   },
   "mmsync": {
@@ -89917,6 +89933,18 @@
           "py3"
         ]
       }
+    },
+    "0.2.1": {
+      "sdist": [
+        "TikPLYfkqaECD/W4rWb0ptkvXqbardYLk3vq5LUxIFQ=",
+        "napari_ndtiffs-0.2.1.tar.gz"
+      ],
+      "wheels": {
+        "napari_ndtiffs-0.2.1-py3-none-any.whl": [
+          "QdxVYQqKmF+qzj0R+Nnjr1y9mqhk9G2uPjvNCydz2Sk=",
+          "py3"
+        ]
+      }
     }
   },
   "napari-text-layer": {
@@ -101260,6 +101288,18 @@
       "wheels": {
         "osmosispy-0.0.5-py3-none-any.whl": [
           "OwdYqG7+xxWEEcAci3OZ8UyC/T5+fUvEhXofL0W0Pnc=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.6": {
+      "sdist": [
+        "jXNSu13RKnNp1hKP4hWDm4BFUQa3KCSAa+I3OPgs/5g=",
+        "osmosispy-0.0.6.tar.gz"
+      ],
+      "wheels": {
+        "osmosispy-0.0.6-py3-none-any.whl": [
+          "vousZ6bB5KAdx/tCv2XMcBbAE+MYdpi/uXgUjluO8L4=",
           "py3"
         ]
       }
@@ -116997,6 +117037,18 @@
           "py3"
         ]
       }
+    },
+    "0.6.0": {
+      "sdist": [
+        "3RTP3uC1T690e/zFn25DlVZ1thuQqmI6R+FcHTG6WGY=",
+        "pytailor-0.6.0.tar.gz"
+      ],
+      "wheels": {
+        "pytailor-0.6.0-py3-none-any.whl": [
+          "V4Qdg+shghVpu3GPiAWWl2p1//06ixrsKit2nytGFgU=",
+          "py3"
+        ]
+      }
     }
   },
   "pytest-discord": {
@@ -123353,6 +123405,140 @@
         "vFtY4ew7XPO0jeZ2i8WotwxGUboDKLhxJH+FhbT0HCM=",
         "roswire-1.4.0.tar.gz"
       ]
+    }
+  },
+  "rover-arm": {
+    "0.0.10": {
+      "sdist": [
+        "1Co60EdFb/BevG8Hf+iDUXyt6nhOMqsMjk4xxerjgY4=",
+        "rover_arm-0.0.10.tar.gz"
+      ],
+      "wheels": {
+        "rover_arm-0.0.10-py3-none-any.whl": [
+          "xKk+wJBkm8jWaMLwFPy+2v49n4AHy9fBl3tWC0j8LxQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.11": {
+      "sdist": [
+        "SfASigOTZ02Te2NCI2wdZwMpCXSJAHJht5+nG7QqJyY=",
+        "rover_arm-0.0.11.tar.gz"
+      ],
+      "wheels": {
+        "rover_arm-0.0.11-py3-none-any.whl": [
+          "59xVJFj27gXFlCk/4lyGgTMXCtjLGGv77rtiMHvY5pg=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.12": {
+      "sdist": [
+        "7jq/qCzerMhS03oy+6kOKWQ6q9CyJFHnbd+VlNAzNWU=",
+        "rover_arm-0.0.12.tar.gz"
+      ],
+      "wheels": {
+        "rover_arm-0.0.12-py3-none-any.whl": [
+          "0UEMRBO/7Oz7fS4GcQlcHk6Bq54LQmAwYPQ6s+60j1k=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "TZwpLnqu0+E3ql/hhfG7HZL8u9YgVMrC1lnZtwaW2bc=",
+        "rover_arm-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "rover_arm-0.0.2-py3-none-any.whl": [
+          "cRuzy7faCzpmlUx03WLHGKqjsUYTlY/ebugVb9HC9Zo=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "reVjrIPsNWXuZnhXYsWtzNhugeQkI2HrNq2opTbHg6g=",
+        "rover_arm-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "rover_arm-0.0.3-py3-none-any.whl": [
+          "eY4mHKQ2SD/xSM6HU/fD+dJ1s7csu6pyU7E+snQkdqQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.5": {
+      "sdist": [
+        "WO/8WnOLmc3UyXzzuxdgRvyYvnyn/ikIXoS7ugOiJDM=",
+        "rover_arm-0.0.5.tar.gz"
+      ],
+      "wheels": {
+        "rover_arm-0.0.5-py3-none-any.whl": [
+          "w289AWKpgxStBi/D4vJYx11/WB8/zEksh3882W0QvOg=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.6": {
+      "sdist": [
+        "XpMYoN1Yp54HezkFymEi/w7tlNXkg1oVpYqZQNjrnFI=",
+        "rover_arm-0.0.6.tar.gz"
+      ],
+      "wheels": {
+        "rover_arm-0.0.6-py3-none-any.whl": [
+          "Fchmcmr6Brzbd9XWjWHX0eVtWXfLm5qeVfP/zMJKuKE=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.7": {
+      "sdist": [
+        "Sb52IVkSNnwn2lmvIzGBAPTpqlJauH4bulFXjSSYjrI=",
+        "rover_arm-0.0.7.tar.gz"
+      ],
+      "wheels": {
+        "rover_arm-0.0.7-py3-none-any.whl": [
+          "Ck6HmckZbHUL9armjvkgzmW/PtgnxGyPWaDA6HIyE/0=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.8": {
+      "sdist": [
+        "ekKKzqshaOtBJaIs85QIIClJwIlN5FOE/OmRVvmxzKM=",
+        "rover_arm-0.0.8.tar.gz"
+      ],
+      "wheels": {
+        "rover_arm-0.0.8-py3-none-any.whl": [
+          "6JEJuPiYSst+PfM/ghGCugVPzZd7WMV5a/1WlDZcTPg=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.9": {
+      "sdist": [
+        "tFw8y0PzW0KK86z30mEh75XHfZFN2VzUncrWB6AgVfQ=",
+        "rover_arm-0.0.9.tar.gz"
+      ],
+      "wheels": {
+        "rover_arm-0.0.9-py3-none-any.whl": [
+          "CkEurgi5LjSuh6ffLIxyCYEEv0JkD90aIXgrMq8cyPk=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.0": {
+      "sdist": [
+        "kQgqcV+HHudxbUnKn87q5SKoRhIyrl6a2sxm8hYi9nU=",
+        "rover_arm-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "rover_arm-1.0.0-py3-none-any.whl": [
+          "iSsKT4E8lXShEtGrgp+qcki9NeB4l1bJ2LJbeAdFciI=",
+          "py3"
+        ]
+      }
     }
   },
   "rpi-featureselection-tools": {

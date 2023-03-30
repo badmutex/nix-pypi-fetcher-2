@@ -11102,6 +11102,18 @@
         ]
       }
     },
+    "1.29.102": {
+      "sdist": [
+        "WrK2j6rR/Gl7x4sQiPMwPN5rMsKjO6W8izHm6hmSC5c=",
+        "botocore-a-la-carte-firehose-1.29.102.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_firehose-1.29.102-py3-none-any.whl": [
+          "FVDEWSmQtQ9w7yPl2ts4FlwduY8qWKhNrM4BdE1nGcw=",
+          "py3"
+        ]
+      }
+    },
     "1.29.42": {
       "sdist": [
         "k0xPHSr64BEdnAqhf3z5vQVvtexLWCOLHSTxMOvCorU=",
@@ -60266,6 +60278,14 @@
       "wheels": {
         "jutool.spider_util-0.1.27-py3-none-any.whl": [
           "vTFja3fRu1uID8vfg73brj/zHSViclRIfJhJn6nknlk=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.0": {
+      "wheels": {
+        "jutool.spider_util-0.2.0-py3-none-any.whl": [
+          "QR5QekhpmPaZ3KgfIacPf0ojcEWLRHVZzfEf6rSulN8=",
           "py3"
         ]
       }
@@ -121893,6 +121913,118 @@
           "cp39"
         ]
       }
+    },
+    "0.4.2": {
+      "sdist": [
+        "VPe38E2IvaKZkdFM6tSkc8rt+/P5lW5Imnl3Qa4PwLg=",
+        "pywry-0.4.2.tar.gz"
+      ],
+      "wheels": {
+        "pywry-0.4.2-cp310-cp310-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "o+FgN1WYP8oN3UQH5YDoHBemFZsKWkTOH+p7n/wqwl8=",
+          "cp310"
+        ],
+        "pywry-0.4.2-cp310-cp310-manylinux_2_28_x86_64.whl": [
+          "5iC1W62ONHPnAgXf5cKVvEMsi6b1crtwvaQkt5+XAyc=",
+          "cp310"
+        ],
+        "pywry-0.4.2-cp310-none-win_amd64.whl": [
+          "ZKwpfe1J3DmWoEqwpHSLwX8/iQUoT3KionqiGzD4opw=",
+          "cp310"
+        ],
+        "pywry-0.4.2-cp311-cp311-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "G/xxPrX/I1vNcuIxx80/8jxqCHKdv92efjqet4XKW/I=",
+          "cp311"
+        ],
+        "pywry-0.4.2-cp311-cp311-manylinux_2_28_x86_64.whl": [
+          "R1LSh4P6YJOCKSOjnZ4+5bHAFo/SgF8FaQ9tAuy+Sm4=",
+          "cp311"
+        ],
+        "pywry-0.4.2-cp311-none-win_amd64.whl": [
+          "7WwvKTF3ksJp2uM7JALz2uZL+5M0Gtn+jxYqN+SyQC0=",
+          "cp311"
+        ],
+        "pywry-0.4.2-cp38-cp38-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "DUvBBhAMT3LJ0eiZrH8hCHNoJE2CLWd5LKDzBEbesbw=",
+          "cp38"
+        ],
+        "pywry-0.4.2-cp38-cp38-manylinux_2_28_x86_64.whl": [
+          "SvRCE3uMMA8Pw6ggJwwuyClDGzdO89x6npdc/GKnXMw=",
+          "cp38"
+        ],
+        "pywry-0.4.2-cp38-none-win_amd64.whl": [
+          "uqbzlUbcVr5Trn8bilCWYZ/lNsqAQVfE7eSqJBRo8TU=",
+          "cp38"
+        ],
+        "pywry-0.4.2-cp39-cp39-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "8DveVp3fmmqijjnJJ9JSIiJqvLGf10aI0+nb4RaeiFI=",
+          "cp39"
+        ],
+        "pywry-0.4.2-cp39-cp39-manylinux_2_28_x86_64.whl": [
+          "8dOaeKPcMzO28ctn4vSk9idbm8aQ7LRgp7mEOoqEfyY=",
+          "cp39"
+        ],
+        "pywry-0.4.2-cp39-none-win_amd64.whl": [
+          "nZB989ralmb6JKhWBEtoFODA7uuaF1SInxnEqg/Uh+k=",
+          "cp39"
+        ]
+      }
+    },
+    "0.4.3": {
+      "sdist": [
+        "GIYYRYpjfyKweJOuTeWcuutotziz+Q1SELws2bdDPEA=",
+        "pywry-0.4.3.tar.gz"
+      ],
+      "wheels": {
+        "pywry-0.4.3-cp310-cp310-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "Dj9pmgpzrrlWDFoSzukcP1kxDvNNDj3Sk/jvpAljRmI=",
+          "cp310"
+        ],
+        "pywry-0.4.3-cp310-cp310-manylinux_2_28_x86_64.whl": [
+          "cy4PhLnYV09wNozs/a9hx8aobGP/fnLWUenWeFcVksU=",
+          "cp310"
+        ],
+        "pywry-0.4.3-cp310-none-win_amd64.whl": [
+          "l3zEyZ5oPkruw5zmEZ+e9c7KLn2R8wqwTo5cf+KV4oI=",
+          "cp310"
+        ],
+        "pywry-0.4.3-cp311-cp311-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "lyldAudnqRswO59dCo2mETtMLwtX0BngTMkjuj/YI4o=",
+          "cp311"
+        ],
+        "pywry-0.4.3-cp311-cp311-manylinux_2_28_x86_64.whl": [
+          "CUlePkf1uU9keHPmRuuqK4gimW7u25tKRziny5qLZNk=",
+          "cp311"
+        ],
+        "pywry-0.4.3-cp311-none-win_amd64.whl": [
+          "CudD+sIIMFmZMsJgagES0a+rmL0IL5OBlcFAkpv+2nQ=",
+          "cp311"
+        ],
+        "pywry-0.4.3-cp38-cp38-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "D4nlrHoEhMsGE5VY5cIGVLoRkSFUSZOdo+Y7UdUmJZg=",
+          "cp38"
+        ],
+        "pywry-0.4.3-cp38-cp38-manylinux_2_28_x86_64.whl": [
+          "fg3tQqGhr0OfFjIf5YG3KMHh8YNc40kP0UDcgvlxv1c=",
+          "cp38"
+        ],
+        "pywry-0.4.3-cp38-none-win_amd64.whl": [
+          "Gc1HejezZfFCBdRFLcqiTpQ2LaAOcmUcc1OwT5zIv6U=",
+          "cp38"
+        ],
+        "pywry-0.4.3-cp39-cp39-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "9PbQbMKjCvog9drn3mbNdOwoCHxqM25DyxP3a4vi+ow=",
+          "cp39"
+        ],
+        "pywry-0.4.3-cp39-cp39-manylinux_2_28_x86_64.whl": [
+          "IYGl1oXSbLt4EkLAMqPmi8cmBZAsm9xG8u8YlzVwN0Q=",
+          "cp39"
+        ],
+        "pywry-0.4.3-cp39-none-win_amd64.whl": [
+          "Y98GEnZMebI2X0iwpJiyCP8vHKgciSA8+mts5b8hsgU=",
+          "cp39"
+        ]
+      }
     }
   },
   "pyxdameraulevenshtein": {
@@ -157338,6 +157470,274 @@
         ],
         "yroom-0.0.1-pp39-pypy39_pp73-manylinux_2_5_i686.manylinux1_i686.whl": [
           "Va02Qkk2BMr5C53PLgnQ0sdv7999IC6N3jYGnILSD6E=",
+          "pp39"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "n0Q0nnaAtJe/0qfScrmBnkZLu4DjS+w2CpqncO8FxtI=",
+        "yroom-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "yroom-0.0.2-cp310-cp310-macosx_10_7_x86_64.whl": [
+          "zIAewwvve2OS0otTJPg+pGDa6tJPlFVObZxr4GfFEd8=",
+          "cp310"
+        ],
+        "yroom-0.0.2-cp310-cp310-macosx_11_0_arm64.whl": [
+          "VooZIU5mCgQV6DcMLsbT5cMb+Ji+jYIy4jAUj2QsQPU=",
+          "cp310"
+        ],
+        "yroom-0.0.2-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "kpjH9FbDcqHOWJYQkVqeOzWLSQ1EngMWscIR5EGQYH8=",
+          "cp310"
+        ],
+        "yroom-0.0.2-cp310-cp310-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "bFghap7qVgfeLBJwD2E48HHJmTnWQrT67eb7dfgP2RA=",
+          "cp310"
+        ],
+        "yroom-0.0.2-cp310-cp310-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "Zr84D3IJNW3zFOVsvodF1Cxd6K0L142z9FlcYIq1ed8=",
+          "cp310"
+        ],
+        "yroom-0.0.2-cp310-cp310-manylinux_2_17_s390x.manylinux2014_s390x.whl": [
+          "uYCPyln71C4gH2lhn8MLcI+fruRNmrQRP1JhtGS+8JY=",
+          "cp310"
+        ],
+        "yroom-0.0.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "uVVzA38JjD/HYtJFvTgaH4AHVYN8SJOneUxZOpcPkSA=",
+          "cp310"
+        ],
+        "yroom-0.0.2-cp310-cp310-manylinux_2_5_i686.manylinux1_i686.whl": [
+          "PSldI5KMMiYasytpsZIYC9oG9B3zwLyn2tiG1hAHXWw=",
+          "cp310"
+        ],
+        "yroom-0.0.2-cp310-none-win32.whl": [
+          "r9bGzys2WOYNJu5lGqeqC47+TxLSQB50TuzVp/qtAlk=",
+          "cp310"
+        ],
+        "yroom-0.0.2-cp310-none-win_amd64.whl": [
+          "hZvQtxgdZMOXCVSXg+XyzyTvPhp3cvoOIDUZcAtlixE=",
+          "cp310"
+        ],
+        "yroom-0.0.2-cp311-cp311-macosx_10_7_x86_64.whl": [
+          "FW2Snjv01NGIpL7IBE6xIm0ntf2XmJLvCa3Kjghlt+g=",
+          "cp311"
+        ],
+        "yroom-0.0.2-cp311-cp311-macosx_11_0_arm64.whl": [
+          "41v20HLzHa14ox6RMICwruNnRiOtNHV3KYX9aE5jpdg=",
+          "cp311"
+        ],
+        "yroom-0.0.2-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "iu+2w2qYTW2cQx+u9h6r/x9pzTTj+2KlUKpJ16xvUcA=",
+          "cp311"
+        ],
+        "yroom-0.0.2-cp311-cp311-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "ta1zkGAtqKSlGeZrX5LzVrREyXewLpTwQTPShuQkh5k=",
+          "cp311"
+        ],
+        "yroom-0.0.2-cp311-cp311-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "lmnjjxdMXtzbN+/SlAzre47q7PM5PifiS4GbYzY1V6g=",
+          "cp311"
+        ],
+        "yroom-0.0.2-cp311-cp311-manylinux_2_17_s390x.manylinux2014_s390x.whl": [
+          "VB6SlK1eWmUSiXL1rqGbK11yLC4KU8IHZD5VrrHAie0=",
+          "cp311"
+        ],
+        "yroom-0.0.2-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "oFpXNAWUtlcbSRNdKHGk0ZTgUGpG59FovoAqZUA/3h0=",
+          "cp311"
+        ],
+        "yroom-0.0.2-cp311-cp311-manylinux_2_5_i686.manylinux1_i686.whl": [
+          "h1+GqDma+sb6CYJ7QYh6oUHt8X8xO2mozzlkBBNyS4Y=",
+          "cp311"
+        ],
+        "yroom-0.0.2-cp311-none-win32.whl": [
+          "MiOKE3iPYhiPlhG1XKGeACIJlsg1rfZhmFpRbKEA2KQ=",
+          "cp311"
+        ],
+        "yroom-0.0.2-cp311-none-win_amd64.whl": [
+          "0Dnx67vM3MSQUeP1jCjGSXoqszRdW/do16eBhOiHSKw=",
+          "cp311"
+        ],
+        "yroom-0.0.2-cp312-cp312-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "6gW+JyxxQK0BuBuTO+isSRyFkj2mxC847wR6XbEjwcg=",
+          "cp312"
+        ],
+        "yroom-0.0.2-cp312-cp312-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "jyros4wTnU20UKx7lpTebov6KHgdxsk54eNDfxWtwhE=",
+          "cp312"
+        ],
+        "yroom-0.0.2-cp312-cp312-manylinux_2_17_s390x.manylinux2014_s390x.whl": [
+          "oWOZvXBUZAphcRQXOZePtKiyE8x42bySvuQs8nC8uMo=",
+          "cp312"
+        ],
+        "yroom-0.0.2-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "hQG3A3v9moUHQ2P5ofTuAiRDUumJg1YC0O0ixn8fmOs=",
+          "cp37"
+        ],
+        "yroom-0.0.2-cp37-cp37m-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "GGtLtDLxd7Frk4uSePQkUoWIX3zL4HGhaT28Zvm/vg8=",
+          "cp37"
+        ],
+        "yroom-0.0.2-cp37-cp37m-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "Q0FGPhiJfYPCaegO9b5RdDNCD6kEQlDlThWK5VC2/OA=",
+          "cp37"
+        ],
+        "yroom-0.0.2-cp37-cp37m-manylinux_2_17_s390x.manylinux2014_s390x.whl": [
+          "m9Rc2hxj4Y/fAE3boFPh64mmrqbt88xcrkMgkTyJccs=",
+          "cp37"
+        ],
+        "yroom-0.0.2-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "5AA9J8zPJKB7uGAGjVJdaeD97I/xG9wAivPE8cqoCn4=",
+          "cp37"
+        ],
+        "yroom-0.0.2-cp37-cp37m-manylinux_2_5_i686.manylinux1_i686.whl": [
+          "VJRjpQcc6YZkkBEkTzB+h5o84vuOrF8w1xtzbYeBfdI=",
+          "cp37"
+        ],
+        "yroom-0.0.2-cp37-none-win32.whl": [
+          "BZoIF5/9tGY1XltHa8AeYsunjLSJMsNzoTSZn2SHluc=",
+          "cp37"
+        ],
+        "yroom-0.0.2-cp37-none-win_amd64.whl": [
+          "49FbJN8xnJksmP7+CDMvXtYNKQ+B+xnN9o216+YC/6Y=",
+          "cp37"
+        ],
+        "yroom-0.0.2-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "OcmfBjD9tdMbBDiEKZg5vOZ72Q9f8FbPrMUYZrwTMkQ=",
+          "cp38"
+        ],
+        "yroom-0.0.2-cp38-cp38-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "cXjdrnPmOY90X3B2B4bnJTr3tmbjjLB1p/LoQo6oEwE=",
+          "cp38"
+        ],
+        "yroom-0.0.2-cp38-cp38-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "4+LdXLCt7SaputdmdFn52SRLYyW3mUnowz2FOqhFbZc=",
+          "cp38"
+        ],
+        "yroom-0.0.2-cp38-cp38-manylinux_2_17_s390x.manylinux2014_s390x.whl": [
+          "oENuAmmXv86XFv/EhetxPhaaO2g4D7W01l0v1OrHrJ0=",
+          "cp38"
+        ],
+        "yroom-0.0.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "E9w72sIYOW5joUcq+Uco2biEgQ+1uh89gzkr+prpYNg=",
+          "cp38"
+        ],
+        "yroom-0.0.2-cp38-cp38-manylinux_2_5_i686.manylinux1_i686.whl": [
+          "M12oVEzAhh4mOPbFGcQl/tCzv5nbl4tMAX7BBDT9bHc=",
+          "cp38"
+        ],
+        "yroom-0.0.2-cp38-none-win32.whl": [
+          "EI7f1vAxcpfVfcvRFCcDd14B5GMzk678sIjutV8QNCo=",
+          "cp38"
+        ],
+        "yroom-0.0.2-cp38-none-win_amd64.whl": [
+          "nUAAOhD7v0djYzVWNaLLcTI1bzDx3XYhRZGDCJpTssU=",
+          "cp38"
+        ],
+        "yroom-0.0.2-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "RHg0iVicVlQoFAWueP7c05t4nOj7RMr6AftbVU9x2W0=",
+          "cp39"
+        ],
+        "yroom-0.0.2-cp39-cp39-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "FKszEVzGBmBcozuF78/EccCmc4VlNDv2e34FOm+UpI4=",
+          "cp39"
+        ],
+        "yroom-0.0.2-cp39-cp39-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "BhZfDmaYXTsmqBhiWIL324kxv5XWYA41SDhgVZXZ4Dc=",
+          "cp39"
+        ],
+        "yroom-0.0.2-cp39-cp39-manylinux_2_17_s390x.manylinux2014_s390x.whl": [
+          "RyxUevIxql4CRfvz6S1niObKtO9WkQpDDnqZ0BoW54g=",
+          "cp39"
+        ],
+        "yroom-0.0.2-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "7ssVsbdOTMvUZisHWgl4/S8PGXdpEBg2eVsq1OmgKjo=",
+          "cp39"
+        ],
+        "yroom-0.0.2-cp39-cp39-manylinux_2_5_i686.manylinux1_i686.whl": [
+          "Tj8IxTeAj1boVvIyN/P6TDzf5tFxACgrcBFwQBUEwE8=",
+          "cp39"
+        ],
+        "yroom-0.0.2-cp39-none-win32.whl": [
+          "nwHqZ2s4kXylX5YEu7m8GBvP69y7s1SxyL8FvmB8Mpg=",
+          "cp39"
+        ],
+        "yroom-0.0.2-cp39-none-win_amd64.whl": [
+          "ipw09ASREkv4xG5GZy+DmO0h6y2NSWksyk3GClaHUKc=",
+          "cp39"
+        ],
+        "yroom-0.0.2-pp37-pypy37_pp73-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "q+nuf6FnzCIPDMnIbQWc1b9QraFB63p3DPter2BbmiQ=",
+          "pp37"
+        ],
+        "yroom-0.0.2-pp37-pypy37_pp73-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "fHm8qW5aiYd4FHlXhgmFSP0l6c7Xm46LV2OvsmANgbs=",
+          "pp37"
+        ],
+        "yroom-0.0.2-pp37-pypy37_pp73-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "eANQa38FVcgHeODRnmC2IlfNWO8UEAALxHiapDXs/yI=",
+          "pp37"
+        ],
+        "yroom-0.0.2-pp37-pypy37_pp73-manylinux_2_17_s390x.manylinux2014_s390x.whl": [
+          "fOCy1lrlWO9TRS9d7a7dQc3pI5m3L8ug0YxZCjI4hZM=",
+          "pp37"
+        ],
+        "yroom-0.0.2-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "f6nXNRO5Av5yzY2e4kKTto8EpAD7fJp8Grdl0+sSLrY=",
+          "pp37"
+        ],
+        "yroom-0.0.2-pp37-pypy37_pp73-manylinux_2_5_i686.manylinux1_i686.whl": [
+          "4QvDxIm4Vu8OGfbJOEJoquTnudchI6MXjnStnhKuNOc=",
+          "pp37"
+        ],
+        "yroom-0.0.2-pp38-pypy38_pp73-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "hy6X6fDbhntyqBOKOJ5cMYllvKkuirzhEGjiuvJ+MTA=",
+          "pp38"
+        ],
+        "yroom-0.0.2-pp38-pypy38_pp73-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "x6FD1A9asoCCOiYHd9gp0lEhuxczeRx6kY1XnBpy6hw=",
+          "pp38"
+        ],
+        "yroom-0.0.2-pp38-pypy38_pp73-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "O9Fh56unPND/hgBphmTtYqqhkWyJF4dqsez7QNUIv6s=",
+          "pp38"
+        ],
+        "yroom-0.0.2-pp38-pypy38_pp73-manylinux_2_17_s390x.manylinux2014_s390x.whl": [
+          "PaGG8p6lR/c1sxqUtzo8gXIZY+mB1i+UVDI8Xqq/xCo=",
+          "pp38"
+        ],
+        "yroom-0.0.2-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Z2a+3+MlfPPAVxM2CzRNgdraulB/6csd1/O9GO/TIEk=",
+          "pp38"
+        ],
+        "yroom-0.0.2-pp38-pypy38_pp73-manylinux_2_5_i686.manylinux1_i686.whl": [
+          "Ee9N+D/8BtPpakbfE9EvEVSMWYNqvaRjRTw07Pey41U=",
+          "pp38"
+        ],
+        "yroom-0.0.2-pp39-pypy39_pp73-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "xCndPp4yGhFICnROJNDlehq8CmxQ5p1k9F8AL5XuLYA=",
+          "pp39"
+        ],
+        "yroom-0.0.2-pp39-pypy39_pp73-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "bO+6NJGFYT1lRmgKow3oEcobRtkDS0EgfGLTMErULUA=",
+          "pp39"
+        ],
+        "yroom-0.0.2-pp39-pypy39_pp73-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "gSBqSt0V8bzOxFzHWbbCv2HLGaSkaMX2kwDhg2m/dgg=",
+          "pp39"
+        ],
+        "yroom-0.0.2-pp39-pypy39_pp73-manylinux_2_17_s390x.manylinux2014_s390x.whl": [
+          "kSRr2zRCL1Ds3T43deZiy4ycRXOrYeyX3ZPq/QVaKCU=",
+          "pp39"
+        ],
+        "yroom-0.0.2-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "tUOLb/W3m6OXVichWEUDLG1APN/IZSPXjQE7ERWeZZM=",
+          "pp39"
+        ],
+        "yroom-0.0.2-pp39-pypy39_pp73-manylinux_2_5_i686.manylinux1_i686.whl": [
+          "1FreIb5cRx6FRDlmE8JkXooVGkj0aPFvs49oqdK3G9I=",
           "pp39"
         ]
       }

@@ -15479,6 +15479,18 @@
           "py3"
         ]
       }
+    },
+    "2.3.0b20230329": {
+      "wheels": {
+        "bigdl_friesian_spark3-2.3.0b20230329-py3-none-macosx_10_11_x86_64.whl": [
+          "+pezTJ4E8ImpJhUa6IvNrzFF53tv+rt6HT3Xnkxx0qQ=",
+          "py3"
+        ],
+        "bigdl_friesian_spark3-2.3.0b20230329-py3-none-manylinux1_x86_64.whl": [
+          "tD77zetEzXmgFjYy7XNvwdq/y/qSs9aS1heXHGV9Cn4=",
+          "py3"
+        ]
+      }
     }
   },
   "binsinfo": {
@@ -44593,6 +44605,18 @@
           "py3"
         ]
       }
+    },
+    "1.5.0b1": {
+      "sdist": [
+        "k9g1bVkY8R4irAQwCnSYo4Q/EMxQzhVjKTG/QQoYqlI=",
+        "flytekitplugins-polars-1.5.0b1.tar.gz"
+      ],
+      "wheels": {
+        "flytekitplugins_polars-1.5.0b1-py3-none-any.whl": [
+          "5EnEPQRtwd42oyqHgUfRWV/OBCamhiS5Cpa3s/0+aeQ=",
+          "py3"
+        ]
+      }
     }
   },
   "footix": {
@@ -63097,6 +63121,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.1": {
+      "sdist": [
+        "92SYUFRc4aSoNADgkGIiMMUOThBQMBY5kg2rUo21o6Q=",
+        "iomete_sdk-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "iomete_sdk-1.0.1-py3-none-any.whl": [
+          "1g0cWw9dEoMasPEwPC5bcR0NFcqaClo42OZb1QuTQTk=",
+          "py3"
+        ]
+      }
     }
   },
   "ipicat": {
@@ -72658,6 +72694,18 @@
       "wheels": {
         "litepipeline-0.1.1-py3-none-any.whl": [
           "KNgtzF5GKL1CRyfvksnNu6xqcBMUjXorwcbbSTnEqD8=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.3": {
+      "sdist": [
+        "AtmkWDbvjr6pCo5SL9Kj0HvRibpIbZnGZfmanevEYSM=",
+        "litepipeline-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "litepipeline-0.1.3-py3-none-any.whl": [
+          "SGhigrp0ZNcCil3qjt3qIGFMomV21vzGMLoDUM4/NQM=",
           "py3"
         ]
       }
@@ -93523,6 +93571,44 @@
         "maE80/lz8Y4LYfe0f/za0kO2A1rBFQ8a/GERfADiAdk=",
         "odoo_rest_framework-1.2.0.tar.gz"
       ]
+    }
+  },
+  "odoo-runner": {
+    "0.0.1": {
+      "sdist": [
+        "NCCp3NXhI3djFNVMfRn5tNOqGTUdQ7LKFeTBtm7/o4c=",
+        "odoo-runner-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "odoo_runner-0.0.1-py3-none-any.whl": [
+          "Jny2NPw3v2z6vnv7Z/L7R/bhechFiL/ZmkTA0twCao4=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "2BNY2vOpFoUc+czQ7M982bLkj7gpcaNusrdyFoQMRVA=",
+        "odoo-runner-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "odoo_runner-0.0.2-py3-none-any.whl": [
+          "esiulwgLX1w4VNfMhwyTfdBhdMflGK+YwfSSE7l4Io8=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "0LqPtBxp37QrGWD+0OSquHEnd7B3q38jeWwc/GRVJ38=",
+        "odoo-runner-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "odoo_runner-0.0.3-py3-none-any.whl": [
+          "7+w7KABUugrnVofjh6gV+uG7kyL17C52ueys878i4BI=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo10-addon-account-payment-credit-card": {
@@ -118333,6 +118419,30 @@
           "py3"
         ]
       }
+    },
+    "0.2.1": {
+      "sdist": [
+        "2UEFncpAONcxeQYW1y9gFZ73G71A/o5nWa+/QpJWGGA=",
+        "quilt_py-0.2.1.tar.gz"
+      ],
+      "wheels": {
+        "quilt_py-0.2.1-py3-none-any.whl": [
+          "Qg6HruovpFhOoXDkGYOxrIGX4nsJm7WbKr3qBkxLN38=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.2": {
+      "sdist": [
+        "ytMJC6triAqiNu28lPqoOVw8hh9lPh6ugrhatT0mEh8=",
+        "quilt_py-0.2.2.tar.gz"
+      ],
+      "wheels": {
+        "quilt_py-0.2.2-py3-none-any.whl": [
+          "B98z7QXUarI6ynN1c+MyLxLijf0YeNA5WlHq3XmhqWg=",
+          "py3"
+        ]
+      }
     }
   },
   "quoteran": {
@@ -128941,6 +129051,12 @@
         "BHPOmFuZW9G4Hx/pTOI9umTcOwoQWtTo+M1YdaiclW8=",
         "returnn-1.20230329.192250.tar.gz"
       ]
+    },
+    "1.20230329.214658": {
+      "sdist": [
+        "EdmAvbVsV1WtngEE/SnEGM2QG2sN4LSFFY9u/BeYQ4M=",
+        "returnn-1.20230329.214658.tar.gz"
+      ]
     }
   },
   "reunion": {
@@ -135562,6 +135678,18 @@
       "wheels": {
         "skit_game-0.1.5-py3-none-any.whl": [
           "Y+iuERvGEQ7KWm8uOblL7xhYObS0vQoVAUvNAaaBGlo=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.6": {
+      "sdist": [
+        "oWacSbwX2B8WJVzlU74xrT52p/3pBroAzWByksZC7Ik=",
+        "skit_game-0.1.6.tar.gz"
+      ],
+      "wheels": {
+        "skit_game-0.1.6-py3-none-any.whl": [
+          "UvNVcArg1hxpg+GaiQ9KXULg5mbhM9V/lbg8msC2mek=",
           "py3"
         ]
       }

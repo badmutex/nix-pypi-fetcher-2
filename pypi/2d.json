@@ -28887,6 +28887,58 @@
           "cp39"
         ]
       }
+    },
+    "12.0.0": {
+      "wheels": {
+        "cupy_cuda12x-12.0.0-cp310-cp310-manylinux2014_aarch64.whl": [
+          "kmL/EdGAWyx4a6Z3nDcA07EYJaKq28AolVqmImBLBqo=",
+          "cp310"
+        ],
+        "cupy_cuda12x-12.0.0-cp310-cp310-manylinux2014_x86_64.whl": [
+          "trdbIbYj74zaMSZC+pWnr1Muzw0onPNwhNPhLFJ5D4A=",
+          "cp310"
+        ],
+        "cupy_cuda12x-12.0.0-cp310-cp310-win_amd64.whl": [
+          "vvmm62C1gUkcVYWsNLQgEvhNacVeufrGjUWom7xPknk=",
+          "cp310"
+        ],
+        "cupy_cuda12x-12.0.0-cp311-cp311-manylinux2014_aarch64.whl": [
+          "yR3FOpA/sFf6TOIWwcXXy8blghrNIZSzYA/3q91+lDc=",
+          "cp311"
+        ],
+        "cupy_cuda12x-12.0.0-cp311-cp311-manylinux2014_x86_64.whl": [
+          "iHJdggLCWLUYUnAvoWQm/O0UQaPZhz8nscr95/ZNX6Y=",
+          "cp311"
+        ],
+        "cupy_cuda12x-12.0.0-cp311-cp311-win_amd64.whl": [
+          "zY3LSqHuA2nZ2CWuQuq0PRQZ20lAQV4WluoFSQ7Xtak=",
+          "cp311"
+        ],
+        "cupy_cuda12x-12.0.0-cp38-cp38-manylinux2014_aarch64.whl": [
+          "PLSZglGBA+AwOpjwZLjVpLBfCDIveLRhJ/cbLXhTyqw=",
+          "cp38"
+        ],
+        "cupy_cuda12x-12.0.0-cp38-cp38-manylinux2014_x86_64.whl": [
+          "CppvD90GpmpLBEcMrZpQP159wnQyyJ7gPjvi8yeeTK4=",
+          "cp38"
+        ],
+        "cupy_cuda12x-12.0.0-cp38-cp38-win_amd64.whl": [
+          "f65xOm/8+2mIWmA1lqAuqFlOr5g/2055Ano+/nE6GBQ=",
+          "cp38"
+        ],
+        "cupy_cuda12x-12.0.0-cp39-cp39-manylinux2014_aarch64.whl": [
+          "sCcaENgidVmUzEUpU9stdqm1xS7Wr0MJQbGfW5arLhc=",
+          "cp39"
+        ],
+        "cupy_cuda12x-12.0.0-cp39-cp39-manylinux2014_x86_64.whl": [
+          "1sa+QdbXXn9rvYL3TkAG6f8x2g0x4czm4FQ3L4HovFo=",
+          "cp39"
+        ],
+        "cupy_cuda12x-12.0.0-cp39-cp39-win_amd64.whl": [
+          "6P0mMvXepxpsA/ewWQKfnbTrOKFDHbqn8n0TUMj02kY=",
+          "cp39"
+        ]
+      }
     }
   },
   "curies": {
@@ -50131,6 +50183,18 @@
           "py3"
         ]
       }
+    },
+    "1.5.0b1": {
+      "sdist": [
+        "5W8YLZRGHGS6AffhBmsXO2PWfC3B0XGbtsRmnysx3Kw=",
+        "flytekitplugins-kfmpi-1.5.0b1.tar.gz"
+      ],
+      "wheels": {
+        "flytekitplugins_kfmpi-1.5.0b1-py3-none-any.whl": [
+          "BtT6tda6DU2iz07ZXacCq+6OD8HoZQcjBfXYDhyZgbg=",
+          "py3"
+        ]
+      }
     }
   },
   "fnss": {
@@ -53887,6 +53951,32 @@
         "B2dHlBMmHLWKUH0novM1QoXflyAgWMrkozoonu7QR5E=",
         "geoid-1.1.5.tar.gz"
       ]
+    }
+  },
+  "geolocation-twitter-scraper": {
+    "0.0.7": {
+      "sdist": [
+        "dqf4uNvB+Ycrnw0F4JLpPjrjdi4iDey4B7bauYnqEBA=",
+        "geolocation_twitter_scraper-0.0.7.tar.gz"
+      ],
+      "wheels": {
+        "geolocation_twitter_scraper-0.0.7-py3-none-any.whl": [
+          "YRD1ZT4MUS+gbhUuDqnO3gGF7n1Z5ymqXB3oRxThBH4=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.8": {
+      "sdist": [
+        "576SzBBLKIjNFXZBe8zkDwcGtOezP2XDeZogpGpLCsE=",
+        "geolocation_twitter_scraper-0.0.8.tar.gz"
+      ],
+      "wheels": {
+        "geolocation_twitter_scraper-0.0.8-py3-none-any.whl": [
+          "I4wCoDnVsk0rdCg/PnBKtgrryLjuQrptcq3I7tQs2G4=",
+          "py3"
+        ]
+      }
     }
   },
   "geopatra": {
@@ -84818,6 +84908,42 @@
       "wheels": {
         "neurodeploy-0.0.2-py3-none-any.whl": [
           "KoDch9tiqlx/YM7vBmapialW/wQstXyLusRO+9wUEW0=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "tAdFxNEIFQwaqck6aZWVh9/BeflHEG24TPE3i4fjni4=",
+        "neurodeploy-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "neurodeploy-0.0.3-py3-none-any.whl": [
+          "p0h7jOcFG0YI8XZ1FvL4XBEIu9MoY/f+9F+bXKldfmw=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4": {
+      "sdist": [
+        "IgjFt8xo5MoD+8ImgVUYRXjeVXj5BfDya045N9XIqJI=",
+        "neurodeploy-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "neurodeploy-0.0.4-py3-none-any.whl": [
+          "u7oCZgIH4VVVzNFvsi/cAr8l/R/ZoTOi0+tpS54yfaM=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.5": {
+      "sdist": [
+        "ySkAl463v+qFQjdqRaIJyBzNdpnIhYqfqGbWPhaKteg=",
+        "neurodeploy-0.0.5.tar.gz"
+      ],
+      "wheels": {
+        "neurodeploy-0.0.5-py3-none-any.whl": [
+          "mqoL7KF1fBg3aaVHxQZvg+EHYSKTESSROKMKkXZWn9Q=",
           "py3"
         ]
       }
@@ -141032,6 +141158,18 @@
       "wheels": {
         "tencentcloud_sdk_python_sts-3.0.862-py2.py3-none-any.whl": [
           "jr/SxgduTQNErLHNZHjhVS+R+kBDeE7LF6xrnAJYSfo=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.863": {
+      "sdist": [
+        "fVukA7zCiqlC1JzgQTq7mEAsQx+4McfgasltykubI8M=",
+        "tencentcloud-sdk-python-sts-3.0.863.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_sts-3.0.863-py2.py3-none-any.whl": [
+          "hSSORPum81/8JCuV2bKFvYuCNq0+WGtvizzvApE2dtE=",
           "py2.py3"
         ]
       }

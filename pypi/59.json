@@ -26685,6 +26685,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.2.3": {
+      "sdist": [
+        "n6ZZ7HnG4RPXCYF2OS38tR+EEktomN7ln6cD97pSoJ8=",
+        "curia-3.2.3.tar.gz"
+      ],
+      "wheels": {
+        "curia-3.2.3-py2.py3-none-any.whl": [
+          "1Tz0bDLas4MIO6GrT7ewYTZBXlKpPPJUU1Gxa4ojmhE=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "curpy": {
@@ -45418,6 +45430,86 @@
         ],
         "flatterer-0.18.0-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "U0tW7eH1/IgzBqnkKiCAqzmoIXeDSab/mJAhHfmXxVw=",
+          "pp37"
+        ]
+      }
+    },
+    "0.18.1": {
+      "sdist": [
+        "clx1I/Id/Yjdp8c7hnYbI/wWsJyrDXbmmcpNdL1AX+E=",
+        "flatterer-0.18.1.tar.gz"
+      ],
+      "wheels": {
+        "flatterer-0.18.1-cp310-cp310-macosx_10_7_x86_64.whl": [
+          "R6lzbjgRRSddTi+Xg505/0lhcCAkIiELYbifIpComBw=",
+          "cp310"
+        ],
+        "flatterer-0.18.1-cp310-cp310-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "9TOJ10PR7dBx0cH9IdN6iNSBQfv9LsMOonOEazSkyEQ=",
+          "cp310"
+        ],
+        "flatterer-0.18.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "cqKHCcKRe2Gt5/8L2/8gWJir1qNyuWH/qTv6gEYlflI=",
+          "cp310"
+        ],
+        "flatterer-0.18.1-cp311-cp311-macosx_10_7_x86_64.whl": [
+          "Rpfqrv/VnUHCK/aiJff9tfx0vsq+mtT0kHkfIvRVKJY=",
+          "cp311"
+        ],
+        "flatterer-0.18.1-cp311-cp311-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "h1tPsYPb7in/G6UCIIxCOZih/dTl+dHU0AwRHiJN9Oc=",
+          "cp311"
+        ],
+        "flatterer-0.18.1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "yp24S47MaDS6Pl0KOJmx0+oOUh/+5SwvMI23nU81X0I=",
+          "cp311"
+        ],
+        "flatterer-0.18.1-cp37-cp37m-macosx_10_7_x86_64.whl": [
+          "23V5M3yPStIMbAlUuKDChdzd5K9Vl3PMDqOo2QIgYpA=",
+          "cp37"
+        ],
+        "flatterer-0.18.1-cp37-cp37m-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "ejvKFCSjX3XYSwVVdoHmCKsmfBzJKXaPJaeh3Y8jaJU=",
+          "cp37"
+        ],
+        "flatterer-0.18.1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "lkYqH3z1hVGEwHfgCnEtJ9YuGZNBeJxPE5jpsJ/srdY=",
+          "cp37"
+        ],
+        "flatterer-0.18.1-cp38-cp38-macosx_10_7_x86_64.whl": [
+          "B2UlCw+xihiaauDQLtuS5MoZkKn1y1K4aBHvEGNNgfU=",
+          "cp38"
+        ],
+        "flatterer-0.18.1-cp38-cp38-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "ang4h0kSEySB+tIdoncGwYu5pB7xGEZebF1QKX3bsFQ=",
+          "cp38"
+        ],
+        "flatterer-0.18.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "pl6VP5jeRK6ji1SFVRK0WK6hFPLvT85EI2KpIv4aDyM=",
+          "cp38"
+        ],
+        "flatterer-0.18.1-cp39-cp39-macosx_10_7_x86_64.whl": [
+          "dSoNz3meyi8MFV54aKNXf2BOdZNKslB0dgAJ/K0c6d8=",
+          "cp39"
+        ],
+        "flatterer-0.18.1-cp39-cp39-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "MFpkaNpj+x0vXAmNPIwBZ6aXk/pE9MAMNJHKKAZvkTQ=",
+          "cp39"
+        ],
+        "flatterer-0.18.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "4l+mCBDgFFFajFU7yrXAuLfVVTMu2lLhpf/74677lk0=",
+          "cp39"
+        ],
+        "flatterer-0.18.1-cp39-none-win32.whl": [
+          "W9cwz6rtVu+yoG6QDrodAcgVAldsm35ES8H7IQKdH+w=",
+          "cp39"
+        ],
+        "flatterer-0.18.1-cp39-none-win_amd64.whl": [
+          "pe8gQ3jjQHXzzf2W65yzjNinDNzeFBgqvu0UK90OK1Y=",
+          "cp39"
+        ],
+        "flatterer-0.18.1-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "pnquNGxrMKaxu+1RCheBgqSahmdwvTFMayx/amj6i3A=",
           "pp37"
         ]
       }
@@ -84570,6 +84662,14 @@
         ]
       }
     },
+    "15.0.2.0.0.6": {
+      "wheels": {
+        "odoo_addon_commission-15.0.2.0.0.6-py3-none-any.whl": [
+          "IQKBwsAW7o0yHRAcelSpYrz1rmPDmGBwRm68EdZuIz0=",
+          "py3"
+        ]
+      }
+    },
     "16.0.1.0.0.3": {
       "wheels": {
         "odoo_addon_commission-16.0.1.0.0.3-py3-none-any.whl": [
@@ -98248,6 +98348,30 @@
       "wheels": {
         "PrSpiders-0.1.6-py3-none-any.whl": [
           "FzGOotHe55cO3loTKdgMqHoeo3aC8V91F2iSGi+65ss=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.7": {
+      "sdist": [
+        "1hMDScW2LDp0oWKSe4ADbycWmxK8VZVxe2bGVdRm864=",
+        "PrSpiders-0.1.7.tar.gz"
+      ],
+      "wheels": {
+        "PrSpiders-0.1.7-py3-none-any.whl": [
+          "zPRmACS8YIjAksmsge0ACcYs5dsrM40j310Ew+sSez0=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.9": {
+      "sdist": [
+        "Z1VLhaRXeMfC8DtBxqLWCNwLLrV1R3Xrbs4pqaylDOw=",
+        "PrSpiders-0.1.9.tar.gz"
+      ],
+      "wheels": {
+        "PrSpiders-0.1.9-py3-none-any.whl": [
+          "NFJzsgQMQ0Ad3RK1tG4si3WAwRwmjR/BBdygBTVJw24=",
           "py3"
         ]
       }
@@ -120992,6 +121116,12 @@
       "sdist": [
         "EEUQ1T8pzuX/VIXafcYUeIzeYHgihYnVCXGc5E389rI=",
         "sample_metadata-5.5.7.tar.gz"
+      ]
+    },
+    "5.5.8": {
+      "sdist": [
+        "nYy01WGwmUxRxFnC9+4BZAJf6sAeycXDK/ezRXxiqFY=",
+        "sample_metadata-5.5.8.tar.gz"
       ]
     }
   },

@@ -12240,6 +12240,18 @@
         ]
       }
     },
+    "1.198.1": {
+      "sdist": [
+        "L0FPNfu5gtEQGeaTYrcZ/Ar3Qoc9gZBve/+bo4qzPjs=",
+        "aws-cdk.aws-kinesis-1.198.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_kinesis-1.198.1-py3-none-any.whl": [
+          "2ctIvsVQDhPul2FWjZ1b2jN8lfbVcSWbCpRAaTdpyFw=",
+          "py3"
+        ]
+      }
+    },
     "1.2.0": {
       "sdist": [
         "mL8YMiL4SZbp1e1G4T+3mmb7rnjE4v+L8bt4yj9gDVA=",
@@ -18046,6 +18058,42 @@
       "wheels": {
         "bro-0.2.0rc1-py3-none-any.whl": [
           "Yt4rWLzsnuIMvDB1+PtV8scIBF07ByvTE73iQ9zPTko=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.0rc4": {
+      "sdist": [
+        "xkg6GPgFYoRm0wk8EERXZ+U7cjhQt/mXBhmsWDA9nG8=",
+        "bro-0.2.0rc4.tar.gz"
+      ],
+      "wheels": {
+        "bro-0.2.0rc4-py3-none-any.whl": [
+          "ONKWXCStLGCW+wSMCVyFb3NPgo518romlhi/Xl7xnmM=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.1": {
+      "sdist": [
+        "MBycnstiAo5PFNOy5SAMo6GC70NWcF19lGsLKTbW5b4=",
+        "bro-0.2.1.tar.gz"
+      ],
+      "wheels": {
+        "bro-0.2.1-py3-none-any.whl": [
+          "CDYF53NwpYXjhlswkhgUc6cQodVN+eIp1J4mlBIYHqY=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.1rc5": {
+      "sdist": [
+        "NK9mdfq9xhqqFoaJeOtkhHtnIy5PbxZkpBqLPi2P93o=",
+        "bro-0.2.1rc5.tar.gz"
+      ],
+      "wheels": {
+        "bro-0.2.1rc5-py3-none-any.whl": [
+          "ks98bX66X9jb8rik+b0Yj7LDWVFRZTawfDwJMpU2QnE=",
           "py3"
         ]
       }
@@ -30583,6 +30631,30 @@
           "py3"
         ]
       }
+    },
+    "0.0.2": {
+      "sdist": [
+        "dqhyuBlBZtf+s3peq3WHK95D8u+VSm0xn0pI5JQU6Fs=",
+        "cinquis_util-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "cinquis_util-0.0.2-py3-none-any.whl": [
+          "LV4i5f5m9f7NqMnnWp8h8CsrPCRWUrPgGf+lF9v/0jw=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "UI3RP9zeN7QPrpjJmr1fkAcz0FNkHcXmVb6S4CgQBTk=",
+        "cinquis_util-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "cinquis_util-0.0.3-py3-none-any.whl": [
+          "oli4sgAw4aSX/7kltMPfec9day6c3YZnk/kUdP3ldts=",
+          "py3"
+        ]
+      }
     }
   },
   "cipher-ky2458": {
@@ -40208,6 +40280,12 @@
       "sdist": [
         "GxpHyMTpP3jvEzPK5ILzGfTIxyx2eJzKRHX7kJj24mM=",
         "dfkv-0.0.6.tar.gz"
+      ]
+    },
+    "0.0.7": {
+      "sdist": [
+        "4FvLC/l/pfQmyxovHzmm51eknDI8IEme+4Cgs2xpGlU=",
+        "dfkv-0.0.7.tar.gz"
       ]
     }
   },
@@ -57468,6 +57546,42 @@
       "wheels": {
         "git_commits_graph-0.1.3-py3-none-any.whl": [
           "SdIuxg4jNTpD3CL9yLKO+uxsZzx+U/1Ez4R7mAAG4b0=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.0": {
+      "sdist": [
+        "T18VGmEHU/2lEpkuJWrNI0/y+tESOKb2yr+/SjCudV8=",
+        "git_commits_graph-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "git_commits_graph-0.2.0-py3-none-any.whl": [
+          "rYB7CyOJZLobpE9+I6WFGb6Zavcdz0LeqXyD5xK4oxs=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.1": {
+      "sdist": [
+        "a/eVk445U/VsgWmRAcEf8nQIxQxtdGuP+tU3ke001ds=",
+        "git_commits_graph-0.2.1.tar.gz"
+      ],
+      "wheels": {
+        "git_commits_graph-0.2.1-py3-none-any.whl": [
+          "nGsIKRrnx3Nro2PqddDazaSBUCjEBoU0jGk8DNkbFZI=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.2": {
+      "sdist": [
+        "HeslYMK557hR/aRluB/H+7gR7wRvIkvbTBA16/xAaic=",
+        "git_commits_graph-0.2.2.tar.gz"
+      ],
+      "wheels": {
+        "git_commits_graph-0.2.2-py3-none-any.whl": [
+          "aFcRSt2TEpSAtOw+PT+cBmLXMBAItUIJ7RMuTmAd3wk=",
           "py3"
         ]
       }
@@ -88651,6 +88765,14 @@
           "py3"
         ]
       }
+    },
+    "15.0.1.0.0.4": {
+      "wheels": {
+        "odoo_addon_sale_coupon_domain_free_product-15.0.1.0.0.4-py3-none-any.whl": [
+          "ohkaLb3z8L2xhvKQ9/YsVTl0ZvwcvuV0PR8ksEHckhs=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo10-addon-account-move-line-payable-receivable-filter": {
@@ -90088,6 +90210,14 @@
       "wheels": {
         "odoo13_addon_base_gs1_barcode-13.0.1.1.1.dev6-py3-none-any.whl": [
           "cZ1h4ldBMOpVkdMYlPfdalb+SB+OP6PaDkKCsMlm6RQ=",
+          "py3"
+        ]
+      }
+    },
+    "13.0.1.1.1.dev7": {
+      "wheels": {
+        "odoo13_addon_base_gs1_barcode-13.0.1.1.1.dev7-py3-none-any.whl": [
+          "qvfFpvMGqIGSNasFIWhv2JawxZbTom9AzSXppg7gCf0=",
           "py3"
         ]
       }
@@ -117646,6 +117776,12 @@
       "sdist": [
         "vr1ki9WkA8rBBvb8KqB698KqPivvkOYzAXjVAiMpPlE=",
         "pyrp3-1.1.0.tar.gz"
+      ]
+    },
+    "1.1.1": {
+      "sdist": [
+        "Ojl7CJvN8D3Keyo2wNRtZo2TbyrM+Tq+i0UpX0Oy0uI=",
+        "pyrp3-1.1.1.tar.gz"
       ]
     },
     "1.1.1rc1": {

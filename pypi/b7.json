@@ -8425,6 +8425,18 @@
           "py3"
         ]
       }
+    },
+    "1.198.1": {
+      "sdist": [
+        "GXK5ZiiApqJMPWnfF1eM3ixrICeq7M6VWMI493oncvg=",
+        "aws-cdk.integ-tests-1.198.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.integ_tests-1.198.1-py3-none-any.whl": [
+          "5DMr7e5nuvf/9Hi8w5WcDYYODl9DXHignAOD9lx+/U4=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-solutions-constructs.aws-cloudfront-mediastore": {
@@ -44544,6 +44556,18 @@
       "wheels": {
         "dvc-2.51.0-py3-none-any.whl": [
           "1xpLESnL0j4tAOQ8zwzfOfYIQAVNAMe9xWDitXxieqs=",
+          "py3"
+        ]
+      }
+    },
+    "2.52.0": {
+      "sdist": [
+        "pSenuDPOwOLxsjW2s3KZ07gX99YkjxnoR6m/ui6wE6g=",
+        "dvc-2.52.0.tar.gz"
+      ],
+      "wheels": {
+        "dvc-2.52.0-py3-none-any.whl": [
+          "+J4ycG/Dqd3e+4+4Ghum9U2D6cHHAur/YsKrHl1rUVg=",
           "py3"
         ]
       }
@@ -86289,6 +86313,36 @@
         "gOfM81D3f88xLVPJKpT9FNCfWlQub/+PRKeq5FdBHis=",
         "mercury-2.1.2.tar.gz"
       ]
+    },
+    "2.1.3": {
+      "sdist": [
+        "/mcP01uQVS47KtgbH1NYf86eq8Xw1Z7CEjVtKaBJ5pk=",
+        "mercury-2.1.3.tar.gz"
+      ]
+    },
+    "2.1.4": {
+      "sdist": [
+        "lpoCMp5LTPZRNxTvLe23nLuOCvn0hl5T3KyutlumdQ4=",
+        "mercury-2.1.4.tar.gz"
+      ]
+    },
+    "2.1.5": {
+      "sdist": [
+        "LarNXm+M82B5PdhKdE33IqCHunzeSGF2SklV1U+lchg=",
+        "mercury-2.1.5.tar.gz"
+      ]
+    },
+    "2.1.6": {
+      "sdist": [
+        "+XJ71Z5PN1VVbD70EVWNmTMJPIfovNsmIF27DgUO7QI=",
+        "mercury-2.1.6.tar.gz"
+      ]
+    },
+    "2.1.7": {
+      "sdist": [
+        "KGsaNbTzgcCIAyhocElqqbQxWFx3bHRZjCCVmuXS2MM=",
+        "mercury-2.1.7.tar.gz"
+      ]
     }
   },
   "mesa-adapted": {
@@ -97964,6 +98018,14 @@
       "wheels": {
         "odoo_addon_database_cleanup-15.0.1.0.1.6-py3-none-any.whl": [
           "DkwlzpNfZtU1z2cB4kR2Dkak3fSDxiGvYNudqTyTdTE=",
+          "py3"
+        ]
+      }
+    },
+    "15.0.1.0.1.7": {
+      "wheels": {
+        "odoo_addon_database_cleanup-15.0.1.0.1.7-py3-none-any.whl": [
+          "f+v9VHIj8mBUfyhBzTrlg8oIiCMQ10LsmZ6lg8BsfnQ=",
           "py3"
         ]
       }
@@ -109889,6 +109951,14 @@
           "py3"
         ]
       }
+    },
+    "1.0.2": {
+      "wheels": {
+        "ptapi42-1.0.2-py3-none-any.whl": [
+          "KJqGx2hO0B9CIOdsYorTfmsD1GwMKBH1UX0SVtJotRk=",
+          "py3"
+        ]
+      }
     }
   },
   "ptmultiviews": {
@@ -116892,6 +116962,18 @@
       "wheels": {
         "pyjsaw-0.0.5-py3-none-any.whl": [
           "TTSxaa3WLzTEpn8AOSM+UN/XL8O6JaynnA/FSACBmNQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.0": {
+      "sdist": [
+        "UH5dqZxEO0ejuISs8HeS+L4FJ6gAVYI1srVMr9Qn1kM=",
+        "pyjsaw-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "pyjsaw-1.0.0-py3-none-any.whl": [
+          "1QN135fTAUQYQwdrDbE63G4v+Xpqhw+soh5tLgdN2ms=",
           "py3"
         ]
       }
@@ -129902,6 +129984,18 @@
       "wheels": {
         "scmrepo-0.1.9-py3-none-any.whl": [
           "zu0I/4am16OX9Rai9RMwGfCx4pxTti/OWMryPdBsiEA=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.0": {
+      "sdist": [
+        "0hCgV+RWN3rV0DF7/2McT27aaXm5i7CG2tu1qzQMOCU=",
+        "scmrepo-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "scmrepo-0.2.0-py3-none-any.whl": [
+          "cHaJCtXdE36f3sXKmHnNF4e9lzn5D5VCR9n2cHZ0/YU=",
           "py3"
         ]
       }
@@ -147126,6 +147220,12 @@
       "sdist": [
         "G323pw+uLFGOTnqkacgEv4UZLLXWpvczLQ8wGRYXWpI=",
         "tremolo-0.0.76.tar.gz"
+      ]
+    },
+    "0.0.77": {
+      "sdist": [
+        "CDTuQB9MRxaUlUW4q03aq6s0es3vnqSR3XgsE/ugCqI=",
+        "tremolo-0.0.77.tar.gz"
       ]
     }
   },

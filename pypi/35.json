@@ -12778,6 +12778,18 @@
         ]
       }
     },
+    "1.198.1": {
+      "sdist": [
+        "0c40gaC/dwPgV6fqHhUol05FNp54+y5yIqXtKBV0cds=",
+        "aws-cdk.aws-amplify-1.198.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_amplify-1.198.1-py3-none-any.whl": [
+          "q3qiQxVNTPNYAqWGXVAYWdqOwgS0bkAeD7zEfOPVHsY=",
+          "py3"
+        ]
+      }
+    },
     "1.2.0": {
       "sdist": [
         "cvPHSUo6cKIjz4sXTZtFcITKdqPl8Ae/4uFIbTYzYhY=",
@@ -15380,6 +15392,18 @@
       "wheels": {
         "aws_cdk.aws_emrcontainers-1.198.0-py3-none-any.whl": [
           "5erdiDa2tDgICgZSILbPhRB0HezgB4r7CKghsRy9Jfw=",
+          "py3"
+        ]
+      }
+    },
+    "1.198.1": {
+      "sdist": [
+        "JYJt6J6RHwoJKrGwmmfu3oeD5RIDu7x+F9yxl6Ekfig=",
+        "aws-cdk.aws-emrcontainers-1.198.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_emrcontainers-1.198.1-py3-none-any.whl": [
+          "GwZQnLKKLGf6QUActyrABv1p3pyrIWlnfWK7p2pJ7eQ=",
           "py3"
         ]
       }
@@ -105421,6 +105445,14 @@
           "py3"
         ]
       }
+    },
+    "12.0.1.1.2.99.dev2": {
+      "wheels": {
+        "odoo12_addon_sale_order_line_price_history-12.0.1.1.2.99.dev2-py3-none-any.whl": [
+          "XaZoMNRlqOd6EDNSyQL60bsx0Su3j4F7kWA1AW6idkE=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo12-addon-stock-production-lot-firmware-version": {
@@ -105512,6 +105544,16 @@
       "wheels": {
         "odoo13_addon_account_invoice_facturx_py3o-13.0.1.0.1.dev4-py3-none-any.whl": [
           "91231JBAtGC5+tWExnhhn0d7VOOab4BRoVZvz5VorIU=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "odoo13-addon-account-reporting-net-weight": {
+    "13.0.1.0.1.dev2": {
+      "wheels": {
+        "odoo13_addon_account_reporting_net_weight-13.0.1.0.1.dev2-py3-none-any.whl": [
+          "wyee+YwN31CeZjGfGsnwomtprYPrAf51NRx41W463+Y=",
           "py3"
         ]
       }
@@ -106154,6 +106196,14 @@
       "wheels": {
         "odoo14_addon_mrp_sale_info-14.0.2.0.1.dev2-py3-none-any.whl": [
           "g5YRKJtHo9kgO14mVIJirGhALpQ0Mfxzx19Po/JwElY=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.2.0.1.dev3": {
+      "wheels": {
+        "odoo14_addon_mrp_sale_info-14.0.2.0.1.dev3-py3-none-any.whl": [
+          "io1+rC4JwfzVpqjWdqKqpMKl405herWnQehKynzmQU4=",
           "py3"
         ]
       }
@@ -109018,6 +109068,18 @@
       "wheels": {
         "pandas_datacube-0.0.3-py2.py3-none-any.whl": [
           "Hrhqhi4kzqDrVmp9xKyq877G/WVeeJQXPrO+iutOUE8=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.4": {
+      "sdist": [
+        "7MRLUwK5Zr2BAyMfd+xIFyZTvGgqp15mMC+pxA/DpYc=",
+        "pandas-datacube-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "pandas_datacube-0.0.4-py2.py3-none-any.whl": [
+          "2sC+kCFUQWZj5VVB7QjbugYjInTIIgApXeJmpF1Igcs=",
           "py2.py3"
         ]
       }

@@ -11247,6 +11247,32 @@
       }
     }
   },
+  "avro-helper-devlibx-v1": {
+    "0.2.0": {
+      "sdist": [
+        "gkbIVwfL9rdnCqclUBGrpnNVb79I0/V4ySR1fbBXerE=",
+        "avro-helper-devlibx-v1-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "avro_helper_devlibx_v1-0.2.0-py3-none-any.whl": [
+          "Pzla5NHWDKgN6eVMA59LU/TGDyxUTzX9KiRforOrBuE=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.1": {
+      "sdist": [
+        "srJysKX1MjaUNH6AGEwKBAyJTD7l+jmFJf2FiWrbSRY=",
+        "avro-helper-devlibx-v1-0.2.1.tar.gz"
+      ],
+      "wheels": {
+        "avro_helper_devlibx_v1-0.2.1-py3-none-any.whl": [
+          "On4+VnnmRFyCpbW7ye47dap66DgyoyfX9I1aDJrmvJY=",
+          "py3"
+        ]
+      }
+    }
+  },
   "aws-cdk-awssns-subscriptions": {
     "0.1.0": {
       "sdist": [
@@ -13010,6 +13036,18 @@
       "wheels": {
         "aws_cdk.aws_kinesisfirehose-1.198.0-py3-none-any.whl": [
           "lFzPLcE8zFZ3tJ+yqlzfqhYS3mw4GM8Hh3fHbQHrcI0=",
+          "py3"
+        ]
+      }
+    },
+    "1.198.1": {
+      "sdist": [
+        "6UWlC2RHffm62wCRtlaRpClmkQCLlGT7Hq5geeOD1zw=",
+        "aws-cdk.aws-kinesisfirehose-1.198.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_kinesisfirehose-1.198.1-py3-none-any.whl": [
+          "pwhSJyDP+FcClFXbaaT08KBZ5wJNxTKX/OnlFtJavlo=",
           "py3"
         ]
       }
@@ -15304,6 +15342,18 @@
       "wheels": {
         "aws_cdk.aws_opensearchservice-1.198.0-py3-none-any.whl": [
           "6gepbLAAho37R4t4NmGMBwayOZBMC2zoxHS77ozQuqQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.198.1": {
+      "sdist": [
+        "A15YdHnRZfivBuYAp5Goj4aZBr50mbdNEhrr7UiUc/w=",
+        "aws-cdk.aws-opensearchservice-1.198.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_opensearchservice-1.198.1-py3-none-any.whl": [
+          "Vo/pjXRZvjcyzeONTlUZ7GWFbwxTgtX6vIiQ5aCX+Ro=",
           "py3"
         ]
       }
@@ -32450,6 +32500,34 @@
         ],
         "core_universal-2.4.3-py2.py3-none-win_amd64.whl": [
           "NkE1Refy2Z3oiBU4S3Ua37lOSFcnZIMbRoJxH3BTQOo=",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.4.5": {
+      "wheels": {
+        "core_universal-2.4.5-py2.py3-none-macosx_10_7_x86_64.whl": [
+          "UMHqbqm/gCbyH5rLfx5BhcnatRR8rl0bC5SWuw3kqk8=",
+          "py2.py3"
+        ],
+        "core_universal-2.4.5-py2.py3-none-macosx_11_0_arm64.whl": [
+          "ADtu2u2/gVNULYNX2gYxqdIQewyfvYAi9zejQCF/oko=",
+          "py2.py3"
+        ],
+        "core_universal-2.4.5-py2.py3-none-manylinux1_x86_64.whl": [
+          "1dJq5FfUONIbmzhqpd7ZhKpZuIjJMPR+Rf8Ll5edxAk=",
+          "py2.py3"
+        ],
+        "core_universal-2.4.5-py2.py3-none-manylinux2014_aarch64.whl": [
+          "Lwl6KrgVVCirGve5F53+oys0l/fqcvA+SrCdF4IW928=",
+          "py2.py3"
+        ],
+        "core_universal-2.4.5-py2.py3-none-musllinux_1_2_x86_64.whl": [
+          "D/BEDrUsWIQZr3OtECJudnX7ttvpoiZXcSx2YuGzrec=",
+          "py2.py3"
+        ],
+        "core_universal-2.4.5-py2.py3-none-win_amd64.whl": [
+          "2YgIBkMAfpUfCET0GXvQkG6H8Zzcijg4YpuxApbsIDU=",
           "py2.py3"
         ]
       }
@@ -95073,6 +95151,14 @@
           "py3"
         ]
       }
+    },
+    "12.0.2.1.2.99.dev7": {
+      "wheels": {
+        "odoo12_addon_base_user_role-12.0.2.1.2.99.dev7-py3-none-any.whl": [
+          "L6tbCC6wV36TKkP1tliJxT7UY7dgb7DtBLJVsB808xo=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo12-addon-fieldservice-stock-account": {
@@ -95952,6 +96038,14 @@
       "wheels": {
         "odoo14_addon_base_search_mail_content-14.0.1.0.1.dev11-py3-none-any.whl": [
           "h1NQsuQ093X5KbT1gnJw14oVOONfMv+QAidknt1FtWM=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.1.0.1.dev12": {
+      "wheels": {
+        "odoo14_addon_base_search_mail_content-14.0.1.0.1.dev12-py3-none-any.whl": [
+          "XfmC/rTBWVeI/kebR15MPDeyVFj7vBdtJYmmsN9SM1U=",
           "py3"
         ]
       }
@@ -107146,6 +107240,18 @@
       "wheels": {
         "playmolecule-1.5.4-py3-none-any.whl": [
           "kNZwhdx7iKVNkTXPhV5fTRZLHNmMi38qo8bhPhjqMOs=",
+          "py3"
+        ]
+      }
+    },
+    "1.5.5": {
+      "sdist": [
+        "Pv+GJvGxovZCELzUz3vJH9Jp5cTzMS34N+yxQxioA0Y=",
+        "playmolecule-1.5.5.tar.gz"
+      ],
+      "wheels": {
+        "playmolecule-1.5.5-py3-none-any.whl": [
+          "oKTU/AGBLobEr7UnmONKuD6Y8FmqObFDiGeVnNYURsQ=",
           "py3"
         ]
       }

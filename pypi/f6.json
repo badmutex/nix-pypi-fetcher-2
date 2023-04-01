@@ -90135,6 +90135,14 @@
           "py3"
         ]
       }
+    },
+    "15.0.1.0.1.5": {
+      "wheels": {
+        "odoo_addon_stock_picking_mass_action-15.0.1.0.1.5-py3-none-any.whl": [
+          "+oz8WZ2QeNBafDgK6WTSBitVBf3ViTA5XvXkD1Noidc=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo-addon-web-theme-classic": {
@@ -103480,6 +103488,270 @@
         ],
         "Pillow-9.4.0-pp39-pypy39_pp73-win_amd64.whl": [
           "jxJ+ewKJAEIcrWT1H3XAUbYo2xf7AOCZ6xSHYe7VmMk=",
+          "pp39"
+        ]
+      }
+    },
+    "9.5.0": {
+      "sdist": [
+        "v1SEedM2cm16Ds6252fhefveN4M65CeUYCYxoHDWMPE=",
+        "Pillow-9.5.0.tar.gz"
+      ],
+      "wheels": {
+        "Pillow-9.5.0-cp310-cp310-macosx_10_10_x86_64.whl": [
+          "rObKIYMIRHuQd8FOpO84G6C2fueNZARrPxnPThE5rRY=",
+          "cp310"
+        ],
+        "Pillow-9.5.0-cp310-cp310-macosx_11_0_arm64.whl": [
+          "09QDdTydWtwE1GlNNc8DkfDz1XyOADCqwJ12ePqAMKo=",
+          "cp310"
+        ],
+        "Pillow-9.5.0-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "W6G4HuaVc/5xJIgXYrtM0uS27Z3SjJxgpjKQL+jbizg=",
+          "cp310"
+        ],
+        "Pillow-9.5.0-cp310-cp310-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "/n4cJi0zkq/PUHHfmvpXRUTyjqyCUoRZasbbVubREGI=",
+          "cp310"
+        ],
+        "Pillow-9.5.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "jzY5e/P318ajq96oFez2/RTn/NRBirJLrgEAjY2MoV4=",
+          "cp310"
+        ],
+        "Pillow-9.5.0-cp310-cp310-manylinux_2_28_aarch64.whl": [
+          "JSoD8b3dzgd+/yNUw4Yb9DfIkvsYMvdc6BPulDR6qbU=",
+          "cp310"
+        ],
+        "Pillow-9.5.0-cp310-cp310-manylinux_2_28_x86_64.whl": [
+          "hexnckZTPid3Cw3lzw+dbk7AwhKh+J38lBtkshImAJ0=",
+          "cp310"
+        ],
+        "Pillow-9.5.0-cp310-cp310-musllinux_1_1_aarch64.whl": [
+          "tBbwPTfScpDLk1lzNaL4XtRGcxIAcFsiu5J0BTIN6QM=",
+          "cp310"
+        ],
+        "Pillow-9.5.0-cp310-cp310-musllinux_1_1_x86_64.whl": [
+          "F4GmJMIpyzWirDHMSnfijK/IkAczqGSHDEm/7trNEGo=",
+          "cp310"
+        ],
+        "Pillow-9.5.0-cp310-cp310-win32.whl": [
+          "hQfto80GCKH5T1jGSBfoPsEvqTqUNpOLGRuA2eTA/EQ=",
+          "cp310"
+        ],
+        "Pillow-9.5.0-cp310-cp310-win_amd64.whl": [
+          "08a1TjBMYMQYHaHJ2t+D5KVP0mapnHC6ZGqbqmJoGes=",
+          "cp310"
+        ],
+        "Pillow-9.5.0-cp311-cp311-macosx_10_10_x86_64.whl": [
+          "fsb2zpnauQtS2iHPDcUZ4hCV4zL/OzmaNXwYexpe7jI=",
+          "cp311"
+        ],
+        "Pillow-9.5.0-cp311-cp311-macosx_11_0_arm64.whl": [
+          "Vgc35wy5xiVdbcuj3mV4qeLsS1c2WZQ6Xn5K8T8pj1w=",
+          "cp311"
+        ],
+        "Pillow-9.5.0-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "luiHRaVbiKfGT6Sbzv82Ohon2aZOBAGcIoEElESlceM=",
+          "cp311"
+        ],
+        "Pillow-9.5.0-cp311-cp311-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "2cIGwptGz9ND6nzf4SMkQwcruycNakb1nCWUYNt2d5o=",
+          "cp311"
+        ],
+        "Pillow-9.5.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "z8wsU8BvLMuJdvtccdRIvdCgfSbY4H4yHBA0FkRMetE=",
+          "cp311"
+        ],
+        "Pillow-9.5.0-cp311-cp311-manylinux_2_28_aarch64.whl": [
+          "oPm7bIDm783pP/xRJW1c+yFV/494KS8HT2D55wuULZk=",
+          "cp311"
+        ],
+        "Pillow-9.5.0-cp311-cp311-manylinux_2_28_x86_64.whl": [
+          "jZNfkku6uPCpooQEQi2or0kE421cM/xvZ35MRIVRViU=",
+          "cp311"
+        ],
+        "Pillow-9.5.0-cp311-cp311-musllinux_1_1_aarch64.whl": [
+          "/tHhz2pCV3lTq76ObPL+L1Ztrr3nw0ck7IgDxMDNpXk=",
+          "cp311"
+        ],
+        "Pillow-9.5.0-cp311-cp311-musllinux_1_1_x86_64.whl": [
+          "wRcNaxlVVWRPBhb9btkp389jM7hnX8ygRK5asRDe0pY=",
+          "cp311"
+        ],
+        "Pillow-9.5.0-cp311-cp311-win32.whl": [
+          "VPcQKtMaPeVmaCdSbiSMNTCzozU529onxoQ9GdcmROw=",
+          "cp311"
+        ],
+        "Pillow-9.5.0-cp311-cp311-win_amd64.whl": [
+          "z6RWEnf2d+z2UeKyLcQ+j1Not0olqPfR1KOiQ+Vz8tQ=",
+          "cp311"
+        ],
+        "Pillow-9.5.0-cp312-cp312-win32.whl": [
+          "Irrww88MfyboLW4a3xGAJ6+zJecDkiyN/B1dAVa7Lus=",
+          "cp312"
+        ],
+        "Pillow-9.5.0-cp312-cp312-win_amd64.whl": [
+          "QyuXXACc9klCBhU4hWHAznzDHOmy43TbZZ7k99V6H4s=",
+          "cp312"
+        ],
+        "Pillow-9.5.0-cp37-cp37m-macosx_10_10_x86_64.whl": [
+          "XU6/jh20RBpVxQnEuqegWHoCEPfNJfz+dNu856S9GQY=",
+          "cp37"
+        ],
+        "Pillow-9.5.0-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "N19uXuliCicay2ggs9HpT/qOdBwGAdtMDE08sKnCJL8=",
+          "cp37"
+        ],
+        "Pillow-9.5.0-cp37-cp37m-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "metsr7a6kOQ2aE4I2ti+FjfvtxxPIYDua4+UBzlAbng=",
+          "cp37"
+        ],
+        "Pillow-9.5.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "LfqvELYXJpe5vOuaO9e5UYGdHKM5pe8pTR8axtf2MnA=",
+          "cp37"
+        ],
+        "Pillow-9.5.0-cp37-cp37m-manylinux_2_28_aarch64.whl": [
+          "djeCsuA+ReLHfXd5h19EMuJRIe8AKkGCnYhocA0Rk5I=",
+          "cp37"
+        ],
+        "Pillow-9.5.0-cp37-cp37m-manylinux_2_28_x86_64.whl": [
+          "NfbncSKgwHYiaCFjFb8jnPUriIZbulIpmdw48cUrm0c=",
+          "cp37"
+        ],
+        "Pillow-9.5.0-cp37-cp37m-win32.whl": [
+          "rKHBlvQH7HzwTcuxXRmkPFB6gff/xFtpCJnWp2rJ/ac=",
+          "cp37"
+        ],
+        "Pillow-9.5.0-cp37-cp37m-win_amd64.whl": [
+          "MickwAMq9mkkVs1u1VS7hfgUkhTZc5i7gGE7BOM3afY=",
+          "cp37"
+        ],
+        "Pillow-9.5.0-cp38-cp38-macosx_10_10_x86_64.whl": [
+          "oKqUF5lNkTAQVvPQA4rxGZ63rchuZGo2ueBQsG9SZZc=",
+          "cp38"
+        ],
+        "Pillow-9.5.0-cp38-cp38-macosx_11_0_arm64.whl": [
+          "+ChjlrNReFgBqXax6F6ojpN3Eu4sOsZTcQpKV6jaXZw=",
+          "cp38"
+        ],
+        "Pillow-9.5.0-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "yDCgLK63iWM4Y7Rmud4QwBW97UNN6z7IfHaOU3Uq0io=",
+          "cp38"
+        ],
+        "Pillow-9.5.0-cp38-cp38-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "+9NZgxwWV9abuB8NuWKQXuBeXpRRkTsYuDH+v+BRkII=",
+          "cp38"
+        ],
+        "Pillow-9.5.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "+PwzDDNwqBu/P4hVcJfR6ibNiwGdZDOqWfcRlfXd678=",
+          "cp38"
+        ],
+        "Pillow-9.5.0-cp38-cp38-manylinux_2_28_aarch64.whl": [
+          "cALQeXo+QZPHze4xmNfBT5LAg21rSj8wRqZL0c6N8r8=",
+          "cp38"
+        ],
+        "Pillow-9.5.0-cp38-cp38-manylinux_2_28_x86_64.whl": [
+          "Ip4secAOhZiaNLWYGitnqgef0IyQPwqurVIqHWjXnlE=",
+          "cp38"
+        ],
+        "Pillow-9.5.0-cp38-cp38-musllinux_1_1_aarch64.whl": [
+          "mt9Y9dZOR0vtANabzYbsS8qkEjv6cKZc5y5CS/uI7ZY=",
+          "cp38"
+        ],
+        "Pillow-9.5.0-cp38-cp38-musllinux_1_1_x86_64.whl": [
+          "Zi2h8/iaMCzCL6qfFKJiwuOVH528lhdgmkdSHGndn48=",
+          "cp38"
+        ],
+        "Pillow-9.5.0-cp38-cp38-win32.whl": [
+          "Zgj/O/eB7uDNFNCQGiucw9ODRRZTLjvWc6CiBNyGFfw=",
+          "cp38"
+        ],
+        "Pillow-9.5.0-cp38-cp38-win_amd64.whl": [
+          "5J606V/2/XwMQCUIiUse8OAbmaRDILp9jsur793MVWk=",
+          "cp38"
+        ],
+        "Pillow-9.5.0-cp39-cp39-macosx_10_10_x86_64.whl": [
+          "SCh3WS6Sf9JjAowQWzYnI5jj4b4yae/aCfa6If2D7GY=",
+          "cp39"
+        ],
+        "Pillow-9.5.0-cp39-cp39-macosx_11_0_arm64.whl": [
+          "Pe1Cua1w5fF1T7fC4tZGWpyELkHRePJi4IuMhe2KHY4=",
+          "cp39"
+        ],
+        "Pillow-9.5.0-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "xEbSJFuimCDUBTFQg9VSmaeWaV10fvzrVxeotFAyQRU=",
+          "cp39"
+        ],
+        "Pillow-9.5.0-cp39-cp39-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "isoRUtk9zCfcVTlWBNz8Vb7V8l70yYcWqSi6y6kNM6M=",
+          "cp39"
+        ],
+        "Pillow-9.5.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "YISIvcvbS6eDdGFEK5DqbzB5OX3clowxJlweBWlk8e8=",
+          "cp39"
+        ],
+        "Pillow-9.5.0-cp39-cp39-manylinux_2_28_aarch64.whl": [
+          "YAN6jbh1DkdK9//J+qm1hZ5sbQpQ5VxFV2vyi+dBlwU=",
+          "cp39"
+        ],
+        "Pillow-9.5.0-cp39-cp39-manylinux_2_28_x86_64.whl": [
+          "B5mfWDS9xATEQhRpQqLsrdHLYpL1Ip9O07MeChCHRrE=",
+          "cp39"
+        ],
+        "Pillow-9.5.0-cp39-cp39-musllinux_1_1_aarch64.whl": [
+          "oSeudgkpdKv7+jjKLRLL7dzerA+3H5YnzBE1vtr51Ro=",
+          "cp39"
+        ],
+        "Pillow-9.5.0-cp39-cp39-musllinux_1_1_x86_64.whl": [
+          "SJ+DiSYeXtQ6yP97RTFirznD6KvXMK+DY1h7pkuy6GU=",
+          "cp39"
+        ],
+        "Pillow-9.5.0-cp39-cp39-win32.whl": [
+          "mxr5XDqWe/HalPJT5WtihrUK8jOSqIZyD1Y8VH5I6WQ=",
+          "cp39"
+        ],
+        "Pillow-9.5.0-cp39-cp39-win_amd64.whl": [
+          "dxZcSl59WihPEKbvqjmgrouoOdo0TyCxEdYsyTL6Tl0=",
+          "cp39"
+        ],
+        "Pillow-9.5.0-pp38-pypy38_pp73-macosx_10_10_x86_64.whl": [
+          "gzuGqY4O3jiPopNjFZybGilLCQW1EouvAdtoNnLyMPU=",
+          "pp38"
+        ],
+        "Pillow-9.5.0-pp38-pypy38_pp73-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "qvMF1tQL2WMhmMdm+2Twwag8pbZn8WweeeFmGrUGAUA=",
+          "pp38"
+        ],
+        "Pillow-9.5.0-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "CFLdt22F8SfBNbbdHwu4jbue6ZDSzZqp4oUmyT55T7o=",
+          "pp38"
+        ],
+        "Pillow-9.5.0-pp38-pypy38_pp73-manylinux_2_28_x86_64.whl": [
+          "kexv5HtetamWjHmtnteMNCsfl6CRZ3ug4BJwGt2FeCk=",
+          "pp38"
+        ],
+        "Pillow-9.5.0-pp38-pypy38_pp73-win_amd64.whl": [
+          "y4QVcoYvYpuZcl667DKH/G0nW+mxREPqdGwd0yUFPL0=",
+          "pp38"
+        ],
+        "Pillow-9.5.0-pp39-pypy39_pp73-macosx_10_10_x86_64.whl": [
+          "w4CyfQQSCbhJ7SRrERt8FmujbXkz7G5BF1/RWrnrFXI=",
+          "pp39"
+        ],
+        "Pillow-9.5.0-pp39-pypy39_pp73-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "fJr1o7QGpQ4xNGfjVl/JmSlxf3gBZP5vu3cE7boM674=",
+          "pp39"
+        ],
+        "Pillow-9.5.0-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "VnFYPquErwRqOX1tC6JTQ8AM1QvOA3h5SOD/8B1P2bE=",
+          "pp39"
+        ],
+        "Pillow-9.5.0-pp39-pypy39_pp73-manylinux_2_28_x86_64.whl": [
+          "hKbxnOCGwb+JRkS0PNEpcC94G6V1HKhXLwiqQO8Kt7c=",
+          "pp39"
+        ],
+        "Pillow-9.5.0-pp39-pypy39_pp73-win_amd64.whl": [
+          "HncjvZDvlO2maaPCwZ1UmHTdW62u76vv0mBTMEq+V5k=",
           "pp39"
         ]
       }

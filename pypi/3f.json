@@ -11076,6 +11076,18 @@
         ]
       }
     },
+    "1.29.104": {
+      "sdist": [
+        "QP21DXTqxMZA6+AKRA8FZLhg4R/B/+T8cePvlDuS75k=",
+        "botocore-a-la-carte-cloudsearch-1.29.104.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_cloudsearch-1.29.104-py3-none-any.whl": [
+          "otQPThxAmSghhLoVMLx5vW20MumXn2j3iqrHPwvPd4g=",
+          "py3"
+        ]
+      }
+    },
     "1.29.42": {
       "sdist": [
         "12o2l/gmwFoaHhz0HirO01ptQIRomBbANe+HMDgcDQU=",
@@ -49689,6 +49701,18 @@
           "py2.py3"
         ]
       }
+    },
+    "0.21.0a20230331": {
+      "wheels": {
+        "gs_apps-0.21.0a20230331-py2.py3-none-macosx_10_9_x86_64.whl": [
+          "oJ/MGv8bdCpzGr5NJDba8RNldXjbn7ZQl9F2ZqHvy8Q=",
+          "py2.py3"
+        ],
+        "gs_apps-0.21.0a20230331-py2.py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "bEYgxR7fj+gu0mzT4lqEjHL2k5jZ0QC/z9KTOW8vqSE=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "gspy": {
@@ -73491,6 +73515,16 @@
         "tZsciuG7SQH89diVSlNBYgQwn8s0w0lVJFM4/fuUUL0=",
         "oden-0.1.2.tar.gz"
       ]
+    }
+  },
+  "odoo-addon-account-reconcile-oca": {
+    "16.0.1.0.0.5": {
+      "wheels": {
+        "odoo_addon_account_reconcile_oca-16.0.1.0.0.5-py3-none-any.whl": [
+          "8Cc54t1hxp8Td5bQ8/egbik7i22hkZwQjCnCdJtt2G0=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo-addon-auth-signup-verify-email": {
@@ -135614,6 +135648,18 @@
       "wheels": {
         "speakeasy_client_sdk_python-1.14.2-py3-none-any.whl": [
           "YaR5pMOFiiDXb5TyLp69YoC9W4hYdQdNkYKOO72Dhv8=",
+          "py3"
+        ]
+      }
+    },
+    "1.14.3": {
+      "sdist": [
+        "2GyOrbgRiwPjnl5e33gUTC9blGDBnVz+1ODRUhNNUkA=",
+        "speakeasy-client-sdk-python-1.14.3.tar.gz"
+      ],
+      "wheels": {
+        "speakeasy_client_sdk_python-1.14.3-py3-none-any.whl": [
+          "MM3JlhT44GUkSKnnpKCaOxCflKf+znAjarGBjsTrNUo=",
           "py3"
         ]
       }

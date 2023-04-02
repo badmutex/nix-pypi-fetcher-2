@@ -7083,6 +7083,18 @@
           "py3"
         ]
       }
+    },
+    "5.3.0rc1": {
+      "sdist": [
+        "dkpfstzXyHZx4VGQlGYHXf+JOPXSM5hOx/8Y+ULT7cA=",
+        "apache-airflow-providers-microsoft-azure-5.3.0rc1.tar.gz"
+      ],
+      "wheels": {
+        "apache_airflow_providers_microsoft_azure-5.3.0rc1-py3-none-any.whl": [
+          "vXhZYIWMEbvxmSq6xdLgPgXfRuC94O8XTjTi07kS/ok=",
+          "py3"
+        ]
+      }
     }
   },
   "apeman-model-client": {
@@ -58780,6 +58792,10 @@
           "75NNUrZccZbrTEPAuIymao+f4Yr+vbjL/TbwGjGsE/A=",
           "cp310"
         ],
+        "k1a-1.2-cp311-cp311-manylinux_2_24_x86_64.whl": [
+          "DYVBM6+7Rk5wSN6T9N9PQRajz6PbkPd0XzKUPd7o3oM=",
+          "cp311"
+        ],
         "k1a-1.2-cp37-cp37m-manylinux_2_24_x86_64.whl": [
           "vwOyaWIsum0Ppkv+WpV+rGV7ryMGJblWrB8KnItzJDk=",
           "cp37"
@@ -99693,6 +99709,30 @@
           "py3"
         ]
       }
+    },
+    "0.0.8": {
+      "sdist": [
+        "f73seDKMUsZWVYg0wpjiBpv28zD5LPOnlDNzKzo2Llg=",
+        "poword-0.0.8.tar.gz"
+      ],
+      "wheels": {
+        "poword-0.0.8-py3-none-any.whl": [
+          "O8EaYyxk9BQHJqM89EqCha99QVF2MZuthsWNFyWLdUY=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.9": {
+      "sdist": [
+        "BwSAU1IULqDdDNBB+W3QcZ7yVykBOLhH65rvAiH9vN0=",
+        "poword-0.0.9.tar.gz"
+      ],
+      "wheels": {
+        "poword-0.0.9-py3-none-any.whl": [
+          "KwBTffknLsn5GUR+EFCnUV5PAa+9zwQwFD472YHkj6k=",
+          "py3"
+        ]
+      }
     }
   },
   "pp-out": {
@@ -110408,6 +110448,18 @@
       "wheels": {
         "PyGeodesy-23.3.9-py2.py3-none-any.whl": [
           "/Bwv31xaryVTZGfnWE0LQCreEyrAdZjRCLTyCIZug7o=",
+          "py2.py3"
+        ]
+      }
+    },
+    "23.4.2": {
+      "sdist": [
+        "x+T792rJU4bZCm2PzuqkKUIA/QbZWVz0M3e9l6vvmB0=",
+        "PyGeodesy-23.4.2.zip"
+      ],
+      "wheels": {
+        "PyGeodesy-23.4.2-py2.py3-none-any.whl": [
+          "Er25S/eF1s0OwBuUem7v5QpfUny3H4ocaGZCML/4eL8=",
           "py2.py3"
         ]
       }
@@ -125224,6 +125276,18 @@
       "wheels": {
         "scikit_rf-0.25.0-py3-none-any.whl": [
           "KfhbbmVvNJQqpg6wcRKKuQ6oXmlIhbs1YcPG6ScoFWU=",
+          "py3"
+        ]
+      }
+    },
+    "0.26.0": {
+      "sdist": [
+        "mrEH065EhD/ziqDYQZ4FQTVJsksb0j1pY7Jy9ATdAJk=",
+        "scikit-rf-0.26.0.tar.gz"
+      ],
+      "wheels": {
+        "scikit_rf-0.26.0-py3-none-any.whl": [
+          "NDOyewVcs5nuQlx3QsXV/o4shy9uVtGuMvkRKAQbblM=",
           "py3"
         ]
       }
@@ -141674,6 +141738,18 @@
       "wheels": {
         "tensorcircuit_nightly-0.8.0.dev20230401-py3-none-any.whl": [
           "p08ESE8j2NOIJVOL+iOPTDmD/SBR/VVKWS1LkrKnmBU=",
+          "py3"
+        ]
+      }
+    },
+    "0.8.0.dev20230402": {
+      "sdist": [
+        "MVLgTaVH4Xtqm0/5AQ267kvyIMX26wauXGVZH6LkNCw=",
+        "tensorcircuit-nightly-0.8.0.dev20230402.tar.gz"
+      ],
+      "wheels": {
+        "tensorcircuit_nightly-0.8.0.dev20230402-py3-none-any.whl": [
+          "T+3H+Is/sMKOhJQkNYXptSjn8/kz+1+rLc8nQigJRd8=",
           "py3"
         ]
       }

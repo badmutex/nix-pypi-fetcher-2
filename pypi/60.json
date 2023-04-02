@@ -15527,6 +15527,18 @@
           "py3"
         ]
       }
+    },
+    "2.3.0b20230402": {
+      "wheels": {
+        "bigdl_friesian_spark3-2.3.0b20230402-py3-none-macosx_10_11_x86_64.whl": [
+          "Bic7SJuxW7QiJexCyCegnLKIdP+0fjiHBxR0Jw8UIQw=",
+          "py3"
+        ],
+        "bigdl_friesian_spark3-2.3.0b20230402-py3-none-manylinux1_x86_64.whl": [
+          "UT/E0v0/y3+ZoIUzFrO+52+fmL7qXNh9QELzQ8ilJbs=",
+          "py3"
+        ]
+      }
     }
   },
   "binsinfo": {
@@ -31183,6 +31195,20 @@
         "5Pu2WFhd1+gVcCzZ6c5UIQbPRh5aKm46n6kj1oGkTsw=",
         "django-activities-1.2.1.tar.gz"
       ]
+    }
+  },
+  "django-admin-column-toggle": {
+    "0.1.0": {
+      "sdist": [
+        "+EmXZwGd0xJp6VO2/zaVIHuPdHSS7tubDRJQnCQR8xI=",
+        "django_admin_column_toggle-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "django_admin_column_toggle-0.1.0-py3-none-any.whl": [
+          "TUU2c9FcFW63f3P1nXogVrNBXqqdiAWB8Ove7q//RcM=",
+          "py3"
+        ]
+      }
     }
   },
   "django-admin-testutils": {
@@ -72826,6 +72852,18 @@
       "wheels": {
         "litepipeline-0.1.1-py3-none-any.whl": [
           "KNgtzF5GKL1CRyfvksnNu6xqcBMUjXorwcbbSTnEqD8=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.4": {
+      "sdist": [
+        "padL1DhNQYYx1kpkrg7zsM05IARWNHMuZ9StKPBH//Y=",
+        "litepipeline-0.1.4.tar.gz"
+      ],
+      "wheels": {
+        "litepipeline-0.1.4-py3-none-any.whl": [
+          "l210d2ojKhMqFAnAzyJwmu/Xlbeuea0bPvrdn13o58c=",
           "py3"
         ]
       }
@@ -116777,6 +116815,30 @@
           "py2.py3"
         ]
       }
+    },
+    "1.2.1": {
+      "sdist": [
+        "DWKNqohBmtd+TfdsosK0FvqCO5yQqhVlpBhK05cMAMI=",
+        "pytest-flexreport-1.2.1.tar.gz"
+      ],
+      "wheels": {
+        "pytest_flexreport-1.2.1-py2.py3-none-any.whl": [
+          "kHP6IcHjyvI51s87cgLSeJaThF+hHlR7ne6iTY5YmcY=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.2.2": {
+      "sdist": [
+        "VjSJhh0mCCfomA/q0inPcq6F9/XrlZvVRcO5pV/6v6c=",
+        "pytest-flexreport-1.2.2.tar.gz"
+      ],
+      "wheels": {
+        "pytest_flexreport-1.2.2-py2.py3-none-any.whl": [
+          "pv4Rw1NW9cetxtSFFHqlEneFzWGyL9S89uMUYvnxgKw=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "pytest-forward-compatibility": {
@@ -129420,6 +129482,12 @@
       "sdist": [
         "PZFz3f1RPtjiHbwLmgWO7D3Dw92p43hsB34jkMNsCpQ=",
         "returnn-1.20230401.5406.tar.gz"
+      ]
+    },
+    "1.20230402.135814": {
+      "sdist": [
+        "sXmtBW/jZfNd51Wb1yYY1ZQ+vp0sFl/kYwI9UV8Ybfk=",
+        "returnn-1.20230402.135814.tar.gz"
       ]
     },
     "1.20230402.15256": {

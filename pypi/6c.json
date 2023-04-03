@@ -6515,9 +6515,25 @@
       }
     },
     "121.5": {
+      "sdist": [
+        "7B2H0kYgpIjBXxH+YtBUVi1QcbZmKJb9tR5rjT0RZ0k=",
+        "always_updates-121.5.tar.gz"
+      ],
       "wheels": {
         "always_updates-121.5-py3-none-any.whl": [
           "0EnXjgTLlHf9E6e3KSmZvqm4A+CzQGfKIWTQoH/CI+U=",
+          "py3"
+        ]
+      }
+    },
+    "121.6": {
+      "sdist": [
+        "w6qFxFqUGxKoFDT9GoojXjU0siOdY06+LkVAOSXJ3Dg=",
+        "always_updates-121.6.tar.gz"
+      ],
+      "wheels": {
+        "always_updates-121.6-py3-none-any.whl": [
+          "GBidxxLWeemk1bk15gP8ZiHltm1AqGjosrlBcsUBpZ0=",
           "py3"
         ]
       }
@@ -40803,6 +40819,12 @@
         "mLIQ1rKbNVP7OXwqWdo6Tq0Pl3RXLWALnmt1xpQQgH4=",
         "decorator-cli-0.1.5.tar.gz"
       ]
+    },
+    "0.1.6": {
+      "sdist": [
+        "6rovD6/h+Y/dvwOzPXmCA/fRtyiKjkx5U5QM48RqZcg=",
+        "decorator-cli-0.1.6.tar.gz"
+      ]
     }
   },
   "decouphage": {
@@ -66989,6 +67011,68 @@
         "hJFyJXeiBlMLCbgOp0HmT+PZbfisLpw2g+sA9Dorpc8=",
         "html_jumping-0.2.4.tar.gz"
       ]
+    }
+  },
+  "htmlparsingbs4based": {
+    "0.0.1": {
+      "sdist": [
+        "GLHbO6wlMryjSIpIgwoxnIBpwt8/gdGQlmdf0PryZxI=",
+        "htmlparsingbs4based-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "htmlparsingbs4based-0.0.1-py3-none-any.whl": [
+          "1/daG76aZvbi0fqGy2RMpuRnWiXwvqGMefTlE8y9Jx0=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "VQjL7W3ePVLIRjEJtedqbv387yOHqWAwhZxA6/n8m1g=",
+        "htmlparsingbs4based-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "htmlparsingbs4based-0.0.2-py3-none-any.whl": [
+          "RqqnNSL9AfLAqvVu+Nsr4ESyRQbWHCtG7eJUQiaA+J8=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "9eakwnM7ayn3jHFGHJCs7gKg+OQeSMwOoKDPMbs8FC0=",
+        "htmlparsingbs4based-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "htmlparsingbs4based-0.0.3-py3-none-any.whl": [
+          "Vlp7uVMvQO+neK/0GU17pPE10N6jn6orS2kz/U1xyY0=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4": {
+      "sdist": [
+        "j69jg0l+vN1uCWr+2KkEDpzri9V33as6cAG86ZZdfp8=",
+        "htmlparsingbs4based-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "htmlparsingbs4based-0.0.4-py3-none-any.whl": [
+          "epC8PFuxAzmIrn7btF8BS7J621cjT8hm4qAIrMEJuBg=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.5": {
+      "sdist": [
+        "I+lq5GZ6JCLTkRo3NwL/5nb0phlP9kGQMp6d597taTM=",
+        "htmlparsingbs4based-0.0.5.tar.gz"
+      ],
+      "wheels": {
+        "htmlparsingbs4based-0.0.5-py3-none-any.whl": [
+          "gvcP3SUaoxvF+DGhffLhwlVEQ/1V13WGYJHvhXyyhpA=",
+          "py3"
+        ]
+      }
     }
   },
   "htpwd": {
@@ -117034,6 +117118,18 @@
       "wheels": {
         "pyobjc_framework_FinderSync-9.0.1-py2.py3-none-any.whl": [
           "BdrXfGmUqJBWky9sh2rYc2YWmj+NkTYzD3HaiDF9n2s=",
+          "py2.py3"
+        ]
+      }
+    },
+    "9.1b1": {
+      "sdist": [
+        "r+kIsnPQM6U1JecH8hmQo0SiVUh4uE3qc/tnVNGVQ9o=",
+        "pyobjc-framework-FinderSync-9.1b1.tar.gz"
+      ],
+      "wheels": {
+        "pyobjc_framework_FinderSync-9.1b1-py2.py3-none-any.whl": [
+          "buBUagGCiW2n0N+9ZCHFhbJ0nKY8CE/zGkadx91Tf38=",
           "py2.py3"
         ]
       }

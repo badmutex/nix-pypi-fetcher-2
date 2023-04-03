@@ -3772,18 +3772,6 @@
         ]
       }
     },
-    "0.0.1.6.7": {
-      "sdist": [
-        "dwzS3CTvlvYl+plz3ckv92W0u+QwN+qU91YjJW+7Hro=",
-        "algo-ops-0.0.1.6.7.tar.gz"
-      ],
-      "wheels": {
-        "algo_ops-0.0.1.6.7-py3-none-any.whl": [
-          "RqFtxNdNHDB65ynBMq6U6rOWiny7V5/R/YnHvlEaElI=",
-          "py3"
-        ]
-      }
-    },
     "0.0.1.6.8": {
       "sdist": [
         "eZ0d5NsgnigJWLZeS2/J2yTB1BVChYATvBwZ3PdO06s=",
@@ -13922,6 +13910,18 @@
       "wheels": {
         "autogluon.cloud-0.2.1b20230402-py3-none-any.whl": [
           "1dbkR/UU7DcbTn3+ztcMmpJhpEckF8meoXX/gx+ntrA=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.1b20230403": {
+      "sdist": [
+        "P3PGpySp0vgs9Xnow2XiylNt4yp/GRdK/tOWl4gnVt4=",
+        "autogluon.cloud-0.2.1b20230403.tar.gz"
+      ],
+      "wheels": {
+        "autogluon.cloud-0.2.1b20230403-py3-none-any.whl": [
+          "RsY5ULwx4kItL4M9C4t8JjnWEceUBUsTs0hkthdckLw=",
           "py3"
         ]
       }
@@ -47622,6 +47622,12 @@
       "sdist": [
         "+CD0oLxPLfOygTEMAuPaOEO6FP5qcuqH+MhEerRPhD8=",
         "font-CLI-0.9.4.tar.gz"
+      ]
+    },
+    "0.9.5": {
+      "sdist": [
+        "wcqtj+gXD0aq1add2b5TBmbuAGjdJ+iqN02zERL/yHI=",
+        "font-CLI-0.9.5.tar.gz"
       ]
     }
   },
@@ -141292,6 +141298,20 @@
       "wheels": {
         "strimilarity-1.0.1-py3-none-any.whl": [
           "VEMqfUMMX9O/rP9a0fSQ5uTJt9McxIs+iJhZqZlblUE=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "structure-py": {
+    "0.0.4": {
+      "sdist": [
+        "/sK9kufVU+ITlvtGNsiH/19XtayeYw8/UOwhTAIzwGw=",
+        "structure_py-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "structure_py-0.0.4-py3-none-any.whl": [
+          "EJDqbt6v9Spq05L4DFOdrFgQy//jqUU490d7ltT+OAc=",
           "py3"
         ]
       }

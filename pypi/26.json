@@ -27123,6 +27123,14 @@
           "py3"
         ]
       }
+    },
+    "0.2.2": {
+      "wheels": {
+        "celery_farmer-0.2.2-py3-none-any.whl": [
+          "7cD2HQ4GosecqGrvh6QCf9k9dik6lYwyj1OPS3DZbt0=",
+          "py3"
+        ]
+      }
     }
   },
   "celery-service-task": {
@@ -54826,6 +54834,102 @@
         ],
         "fabio-2022.12.1-cp39-cp39-win_amd64.whl": [
           "HpcbCogSll6IN9QlyO3N99ZNe+4IpgtVlZyVkWgneMU=",
+          "cp39"
+        ]
+      }
+    },
+    "2023.4.0": {
+      "sdist": [
+        "x3/OwZ5v10m5XxAz0k+S7nJ3pJVwfajyOJeprKvL3Eg=",
+        "fabio-2023.4.0.tar.gz"
+      ],
+      "wheels": {
+        "fabio-2023.4.0-cp310-cp310-macosx_10_9_arm64.whl": [
+          "rOakCbRx6jz/H5W9/6VJHel2bWAKkd0WtMf1EZEMES8=",
+          "cp310"
+        ],
+        "fabio-2023.4.0-cp310-cp310-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "bEzRJQ+2Uca3rBh1s8P6b5jcyxjMRKAwzN4h8pAldyQ=",
+          "cp310"
+        ],
+        "fabio-2023.4.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "kJCnesMRoFiLtbKjrFH0qLQo2qMWbT1mezII2c7Cq3c=",
+          "cp310"
+        ],
+        "fabio-2023.4.0-cp310-cp310-win_amd64.whl": [
+          "PX9PtvJJuCrwnMu5MMVaTJkn1l26B9DXzYtKuLMJkl8=",
+          "cp310"
+        ],
+        "fabio-2023.4.0-cp311-cp311-macosx_10_9_arm64.whl": [
+          "ktSD61dIx1RZsjCCKOeoPtQISwNKjee1okE37iCLmeA=",
+          "cp311"
+        ],
+        "fabio-2023.4.0-cp311-cp311-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "DKstNB7A3Vq809J92WfiCN6UkMLUzLxnO5tJHSu0gfM=",
+          "cp311"
+        ],
+        "fabio-2023.4.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "mK76ad4tIf8YRPIs6+XcBqmBwOirNkCLu5AfbQFpf80=",
+          "cp311"
+        ],
+        "fabio-2023.4.0-cp311-cp311-win_amd64.whl": [
+          "fVotvwjVQJsVzoi+qFUnRnUPENKJ/mku7Acij3/XcPg=",
+          "cp311"
+        ],
+        "fabio-2023.4.0-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "K4/J1wEGvbHTdu7dQrZUcfKlz6Rk6aGN50Hx657ZcIQ=",
+          "cp37"
+        ],
+        "fabio-2023.4.0-cp37-cp37m-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "3sQ75q/+g1rP0KrTXEBjx2myXUq6zAAYiHRL/lyx7Kc=",
+          "cp37"
+        ],
+        "fabio-2023.4.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "hZUNLT+LIEid3hKvBDxKsDTUwQUhpuK1qVmAOQoa/9s=",
+          "cp37"
+        ],
+        "fabio-2023.4.0-cp37-cp37m-win_amd64.whl": [
+          "Ah8e6Pognp77v2P4heMG5usC2X9lyqVecedkZo6o2pE=",
+          "cp37"
+        ],
+        "fabio-2023.4.0-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "SNsUTdKjVLJx3WzHz0GP5fdtgNx15h8L8ARDOp1wP3A=",
+          "cp38"
+        ],
+        "fabio-2023.4.0-cp38-cp38-macosx_11_0_arm64.whl": [
+          "kmO6f1uMFQoO9y56orIwn10OHxZxVxbFK0Nr0v3X7W0=",
+          "cp38"
+        ],
+        "fabio-2023.4.0-cp38-cp38-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "oq/yt8dOSM7BQAFU8Q+eJ9ow1CxAJurolxTNOzf0G48=",
+          "cp38"
+        ],
+        "fabio-2023.4.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "TpnO1lJ9kOysVUtatDUVCziz9VHqT3goZTrFRl682lM=",
+          "cp38"
+        ],
+        "fabio-2023.4.0-cp38-cp38-win_amd64.whl": [
+          "FKT6en346xR7p5oa11WRuXmcSe1tWdD87I/yOMAligM=",
+          "cp38"
+        ],
+        "fabio-2023.4.0-cp39-cp39-macosx_10_9_arm64.whl": [
+          "jGxl48Ay7PZ/HkG/UnEnewnjuLKbll9vnnupVyRe4jY=",
+          "cp39"
+        ],
+        "fabio-2023.4.0-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "fEVP/jgkRlsrYuV14C2wb2LoQn23OYZaetOQj+0zrUc=",
+          "cp39"
+        ],
+        "fabio-2023.4.0-cp39-cp39-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "62ZwsC6K0Y+xyTTx9OMjUlUiZfGm3QxSS6Xpi8TH0qM=",
+          "cp39"
+        ],
+        "fabio-2023.4.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "drxWtKgrdPABFGXndnPt9C1Ona8vft40371wOZH0N9c=",
+          "cp39"
+        ],
+        "fabio-2023.4.0-cp39-cp39-win_amd64.whl": [
+          "nI8OkDDIQC7F7fguwloiOcxeociJTUkNUeyG9X9H+lg=",
           "cp39"
         ]
       }
@@ -87654,6 +87758,18 @@
       "wheels": {
         "ml_indie_tools-0.8.169-py3-none-any.whl": [
           "Wf1QALNVnm7EEtPNfvnU4r0zS0Mm1AQxyzfQQnH/ycM=",
+          "py3"
+        ]
+      }
+    },
+    "0.8.170": {
+      "sdist": [
+        "z4mNyuTYmn2xyxD21VeqeXFulH1aaPPZpniK/ADldGA=",
+        "ml-indie-tools-0.8.170.tar.gz"
+      ],
+      "wheels": {
+        "ml_indie_tools-0.8.170-py3-none-any.whl": [
+          "zPtEYAbIY7SWVFw8ST5FELbCGs3BbWkIahA/3kca6oo=",
           "py3"
         ]
       }
@@ -138273,6 +138389,68 @@
       }
     }
   },
+  "softwareappenergycalc": {
+    "0.0.1": {
+      "sdist": [
+        "iw+MOVkMpP4RHqnFp4a0GkS/5wGvCYiNZKic52cas/w=",
+        "softwareappenergycalc-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "softwareappenergycalc-0.0.1-py3-none-any.whl": [
+          "+bnlyZWbsrrQADNqKfsVGwwoASJdvyn1aaTOrR7ovjI=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "7GD0CbG4Z81wWqL346CKLgpOVI7nATlWSVHTdE81yIQ=",
+        "softwareappenergycalc-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "softwareappenergycalc-0.0.2-py3-none-any.whl": [
+          "HVZEomj410G4tGzHV5IjOWa0f1EBPDYgvJrXGvpzg7M=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "3zjvGFzqmEYDeChom4jhQvsKhaaCtKGClfmD1b1DvTw=",
+        "softwareappenergycalc-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "softwareappenergycalc-0.0.3-py3-none-any.whl": [
+          "QqrttU0tlYECBRoue4IIkcLgwWYVlZue9P/keF6MvBQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4": {
+      "sdist": [
+        "vQTUIUhuZdZQTeV7yQ5EXo3LeefHH5BHQjDuVLcUaZg=",
+        "softwareappenergycalc-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "softwareappenergycalc-0.0.4-py3-none-any.whl": [
+          "QYI9c1r/XfDJxdI0kD5tvRfdoWhD+lFNoWswQmomdbI=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.5": {
+      "sdist": [
+        "C5AVO3h/yILHIrbcOWV5FpIunleLu1cV7n4grU5RY1A=",
+        "softwareappenergycalc-0.0.5.tar.gz"
+      ],
+      "wheels": {
+        "softwareappenergycalc-0.0.5-py3-none-any.whl": [
+          "Q7MK7hTJutKeu8BPOCNSkUt5DcetX3h/5PbQ6Nltaw4=",
+          "py3"
+        ]
+      }
+    }
+  },
   "solidpython-reloader": {
     "0.1": {
       "sdist": [
@@ -140014,6 +140192,32 @@
       "wheels": {
         "statnett_api_client-0.1.5-py3-none-any.whl": [
           "JlJu/ln2RpLFZ9FWBXx3v1MitJNIcBjVabdFI38OIGE=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "statscend": {
+    "0.1.0": {
+      "sdist": [
+        "e5/oGqfL3rcfIbl6+7HoN+fCpCEKUFrFbUPngSzpNVU=",
+        "statscend-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "statscend-0.1.0-py3-none-any.whl": [
+          "oZZrDWwi5FMORpgblAvcjGUogiOj5u0NcE1vctunf/8=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "WqnM4UFIHt3OkF6ckkFuiqbzEMioVcUGNIcq4+BrLKg=",
+        "statscend-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "statscend-0.1.1-py3-none-any.whl": [
+          "xiU+YFMn/r4naZGMWYSTqExc00o2au3xodRyibyBhBQ=",
           "py3"
         ]
       }
@@ -145726,6 +145930,12 @@
       "sdist": [
         "1aeZ2bzbPpYFBnzxjE+881/fyJO6k61p//morDMeOPo=",
         "tap-dynamodb-1.2.2.tar.gz"
+      ]
+    },
+    "1.2.3": {
+      "sdist": [
+        "+ogaEfPPgdkc6/vnahv28hKdO92jSrEypzBXS2ohGTQ=",
+        "tap-dynamodb-1.2.3.tar.gz"
       ]
     }
   },

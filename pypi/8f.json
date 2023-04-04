@@ -6035,6 +6035,12 @@
         "OGhkOxciVbINFWF8kJIOitxk7QzejewlhNEDX5TSV9o=",
         "amuse-mmams-2023.3.0rc1.tar.gz"
       ]
+    },
+    "2023.4.0": {
+      "sdist": [
+        "tIeIVr5ZYyhUwEBEVr9z/I68wVQO2xFtQ2QBzS+cgCk=",
+        "amuse-mmams-2023.4.0.tar.gz"
+      ]
     }
   },
   "amzget": {
@@ -31478,6 +31484,18 @@
       "wheels": {
         "contentrules.slack-2.0.1-py3-none-any.whl": [
           "aaZF9r7EYCwbCECnxvBzP2+gTcDrz4pM3MahKJTmgfY=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.2": {
+      "sdist": [
+        "LQix9CoxkIy1kyenSxOKlAVsF1lK7FhsEf2Pwl67Te4=",
+        "contentrules.slack-2.0.2.tar.gz"
+      ],
+      "wheels": {
+        "contentrules.slack-2.0.2-py3-none-any.whl": [
+          "/qFzDIlmAGzWC7iXpFKASoq+2EBjW0gRGsq3tmbpovw=",
           "py3"
         ]
       }
@@ -72117,6 +72135,32 @@
       ]
     }
   },
+  "ls2d": {
+    "0.9.0": {
+      "sdist": [
+        "RygQZQM9/4tXTVJ133k+/LWcxpoz5/Z63jdKO9gUVpg=",
+        "ls2d-0.9.0.tar.gz"
+      ],
+      "wheels": {
+        "ls2d-0.9.0-py3-none-any.whl": [
+          "95C9kP1IytEiO/rnDpAVOVuSLmP82SHzessgMXU8jxk=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.0": {
+      "sdist": [
+        "WzEQOAa2OBxwff017ZYBzJCk9icB9KgdvXwW27lGCbU=",
+        "ls2d-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "ls2d-1.0.0-py3-none-any.whl": [
+          "YfvSkRmKLP0iVuEKryqU6i7SkZLsSefDcWxQYoLAafM=",
+          "py3"
+        ]
+      }
+    }
+  },
   "lsxwriter": {
     "0.1": {
       "sdist": [
@@ -85331,6 +85375,14 @@
           "py3"
         ]
       }
+    },
+    "12.0.1.3.1.99.dev4": {
+      "wheels": {
+        "odoo12_addon_pos_multiple_control-12.0.1.3.1.99.dev4-py3-none-any.whl": [
+          "cT68ytVmm7c2PsQjkzpOabajmsyJ2pKoAYXvaza1oek=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo12-addon-product-template-copy-attributes": {
@@ -94730,6 +94782,18 @@
       "wheels": {
         "PHX-1.13.0-py2.py3-none-any.whl": [
           "KXHPunDBwkJfFhAeSDoY5OSZjD5oD13h1wllCXDhWl0=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.13.1": {
+      "sdist": [
+        "Ym5z/gAvZL7paM2aP3oLpz4R8+honGunlgeNakSuX14=",
+        "PHX-1.13.1.tar.gz"
+      ],
+      "wheels": {
+        "PHX-1.13.1-py2.py3-none-any.whl": [
+          "16d8LSSJW2FNKa3s+s7adusi5H1jSLRUmUOhdmZfnzw=",
           "py2.py3"
         ]
       }
@@ -124890,6 +124954,14 @@
         ]
       }
     },
+    "0.4.21rc0": {
+      "wheels": {
+        "spark_sdk-0.4.21rc0-py3-none-any.whl": [
+          "YoEHkCD8CyrNpZja74/TtOI7SGtI4rYHuvmnlPXGEzg=",
+          "py3"
+        ]
+      }
+    },
     "0.4.9": {
       "wheels": {
         "spark_sdk-0.4.9-py3-none-any.whl": [
@@ -141874,6 +141946,30 @@
       "wheels": {
         "typer_to_textual-2.1.0-py3-none-any.whl": [
           "pixz40O3s9F83hwgnyuhqw5LJ3QD+qTehx7qRl/enzA=",
+          "py3"
+        ]
+      }
+    },
+    "2.2.0": {
+      "sdist": [
+        "CdwifFJOfrUa3WBP14mGHJkxr1lQ7n4rJ3mwVRwwzXo=",
+        "typer_to_textual-2.2.0.tar.gz"
+      ],
+      "wheels": {
+        "typer_to_textual-2.2.0-py3-none-any.whl": [
+          "4HG5lXb/P6lhK0F3hX3iTJrQ7KorSHYOm2/AaeoM/Q0=",
+          "py3"
+        ]
+      }
+    },
+    "2.3.0": {
+      "sdist": [
+        "JElrqT9EQLcf7KKgirT7roSFvOBKhasvGEApPmy88y0=",
+        "typer_to_textual-2.3.0.tar.gz"
+      ],
+      "wheels": {
+        "typer_to_textual-2.3.0-py3-none-any.whl": [
+          "NULbVra/UsHe2G3MGAJTb1j0j4R9BxZWhAsukDeXJgk=",
           "py3"
         ]
       }

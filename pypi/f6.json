@@ -1104,6 +1104,58 @@
         ]
       }
     },
+    "1.2.28": {
+      "wheels": {
+        "accera_compilers-1.2.28-cp310-cp310-macosx_11_0_x86_64.whl": [
+          "OaWgGxjCsxQnwRVzjczcyjVmiVR9QXGLA08bhKsxpRM=",
+          "cp310"
+        ],
+        "accera_compilers-1.2.28-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "jaD3Hx6mB3qUQYK4J9sgRRS0jdVhOA9PQsG46KEBI9k=",
+          "cp310"
+        ],
+        "accera_compilers-1.2.28-cp310-cp310-win_amd64.whl": [
+          "VwP918zKIq1gU8bRiNBOA5uXcEyD/FtgqJP3TlUjAVM=",
+          "cp310"
+        ],
+        "accera_compilers-1.2.28-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "eZS5JLro+AVjhNf+bDK+w9ljItuPd/1E9wkVIKVyyzs=",
+          "cp37"
+        ],
+        "accera_compilers-1.2.28-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "tfJOVQsgTfQiDISCJT4AHJt7lZAdlxwgVRSHKg0PznA=",
+          "cp37"
+        ],
+        "accera_compilers-1.2.28-cp37-cp37m-win_amd64.whl": [
+          "FcktVCkK0cFvjOUsxzDvQpbDvwwaYYmWrtkJtwCqLt8=",
+          "cp37"
+        ],
+        "accera_compilers-1.2.28-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "hYdfFJnHEVHB0C3w+VXduXmO0LEZNQd5lZZHX2uysa0=",
+          "cp38"
+        ],
+        "accera_compilers-1.2.28-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "93MAXl4yLdoVb3W9REoULb6764WPJMebX9/W/QUJkjs=",
+          "cp38"
+        ],
+        "accera_compilers-1.2.28-cp38-cp38-win_amd64.whl": [
+          "PnKtvd2y31lLAfRaIbvgUTWMIHlW1QGKKkkmrjtUnDo=",
+          "cp38"
+        ],
+        "accera_compilers-1.2.28-cp39-cp39-macosx_11_0_x86_64.whl": [
+          "x/x/WwwXt14AutVnZkzTeMMOJ8sKXd/t45Kwjl/CpKs=",
+          "cp39"
+        ],
+        "accera_compilers-1.2.28-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "e+SHjdzp5KkIKGcRkyVzdj7KWnNlxTUKLKZXRWlhOf4=",
+          "cp39"
+        ],
+        "accera_compilers-1.2.28-cp39-cp39-win_amd64.whl": [
+          "WXHxB9N9a+jJ8wHJphaPnZiKYIx3jBldNYmDfExkp3I=",
+          "cp39"
+        ]
+      }
+    },
     "1.2.8": {
       "wheels": {
         "accera_compilers-1.2.8-cp310-cp310-macosx_10_15_x86_64.whl": [
@@ -43794,6 +43846,12 @@
         "featurize-0.0.23.tar.gz"
       ]
     },
+    "0.0.24": {
+      "sdist": [
+        "G9OLnRTmI2HeYcbtALqiX3okj9id+JPyWO/sxO3w0LY=",
+        "featurize-0.0.24.tar.gz"
+      ]
+    },
     "0.0.3": {
       "sdist": [
         "EIr1ihG1OA52O4avhleBq728axsGITfTtwK1phZPJqc=",
@@ -47203,6 +47261,20 @@
         "udgf2bLQjryFGkd15BrNlWHQwJ8mTm8vwK6n7AWhV+c=",
         "gem5art-artifact-1.3.1.tar.gz"
       ]
+    }
+  },
+  "generate-config-template": {
+    "0.0.1": {
+      "sdist": [
+        "d3u+FQsH3xJFe7V7wy3nAqQ1l/s9DIu2KLcml+zjEC4=",
+        "generate_config_template-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "generate_config_template-0.0.1-py3-none-any.whl": [
+          "rv2BwPHLKD3Xqp74ef9Oku4tGc5KTQFhWF9M03QstSA=",
+          "py3"
+        ]
+      }
     }
   },
   "geoana": {
@@ -56028,6 +56100,30 @@
       "wheels": {
         "image_augs-1.0.1-py3-none-any.whl": [
           "mA3Ffadq0N5ApJtLf0Knj8/fmdUFJF1DmNNBEhQGeUo=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.1": {
+      "sdist": [
+        "/T6R0Q8v5SQ87pL9fAo44mSjGN5biS9wNKLChOnxdnk=",
+        "image_augs-1.1.1.tar.gz"
+      ],
+      "wheels": {
+        "image_augs-1.1.1-py3-none-any.whl": [
+          "WisK5TcWaSZDvRVriwEpyd7M5CQKvoO80iDmxt4yTHM=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.2": {
+      "sdist": [
+        "5aPEgFiwXxg1NcZ6NfC5SAnOqM3cRv5TCENe7z4XXzw=",
+        "image_augs-1.1.2.tar.gz"
+      ],
+      "wheels": {
+        "image_augs-1.1.2-py3-none-any.whl": [
+          "IN9SlWvb5OD51/3M3Uah/1dGbzCBTgSFvNf6gEAZ6q0=",
           "py3"
         ]
       }
@@ -91404,6 +91500,14 @@
       "wheels": {
         "odoo13_addon_mgmtsystem_review-13.0.1.2.1.dev11-py3-none-any.whl": [
           "laBrp9j8EaRc+/Do5Ax6BAzmm603nHUFEloCGjIB2eM=",
+          "py3"
+        ]
+      }
+    },
+    "13.0.1.2.1.dev12": {
+      "wheels": {
+        "odoo13_addon_mgmtsystem_review-13.0.1.2.1.dev12-py3-none-any.whl": [
+          "zmD1HYayizz6oszJ05PEeJSGJbVVXk1d87OSDZ56EyM=",
           "py3"
         ]
       }
@@ -136568,40 +136672,10 @@
     }
   },
   "slue-evaluator": {
-    "0.1": {
+    "0.8": {
       "sdist": [
-        "Ux+0vRJE6lbNMKsLFxZsYDXCvSASTEZ0lZPcorM/yyU=",
-        "slue_evaluator-0.1.tar.gz"
-      ]
-    },
-    "0.3": {
-      "sdist": [
-        "Ss3ERK+m0chRsJR/YKlh0EGb8lrqrC4G8uEK4xFPG9k=",
-        "slue_evaluator-0.3.tar.gz"
-      ]
-    },
-    "0.4": {
-      "sdist": [
-        "+MBumU3DHu/BjBz9M6R43ROCO5kvZ/zJr9P1hcgEOio=",
-        "slue_evaluator-0.4.tar.gz"
-      ]
-    },
-    "0.5": {
-      "sdist": [
-        "1tY76sT0QG5JTiI8qFLQpweubjSVZ416+y6x2edUYy8=",
-        "slue_evaluator-0.5.tar.gz"
-      ]
-    },
-    "0.6": {
-      "sdist": [
-        "B/pUMNbsPfjzg89xvsGgBMyBO35thAAqX5skiRgd20E=",
-        "slue_evaluator-0.6.tar.gz"
-      ]
-    },
-    "0.7": {
-      "sdist": [
-        "/Wkj11MduS3qnS7dTMDGGgDnt8y+BWGOJEV9rbmLZls=",
-        "slue_evaluator-0.7.tar.gz"
+        "dHBT7yDTvu8jw/XIqUO0NQdO+G2qZU5zLSN8EQRs2EY=",
+        "slue_evaluator-0.8.tar.gz"
       ]
     }
   },

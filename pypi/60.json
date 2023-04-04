@@ -15551,6 +15551,18 @@
           "py3"
         ]
       }
+    },
+    "2.3.0b20230404": {
+      "wheels": {
+        "bigdl_friesian_spark3-2.3.0b20230404-py3-none-macosx_10_11_x86_64.whl": [
+          "mkFNrAZk8fxEJRyyIntwYxtL3GaUtyT2YNoWdqRM9+4=",
+          "py3"
+        ],
+        "bigdl_friesian_spark3-2.3.0b20230404-py3-none-manylinux1_x86_64.whl": [
+          "gZTe2UsVML/Dabza5yPR+Aa2zUJITUJpPgWEQZQbFww=",
+          "py3"
+        ]
+      }
     }
   },
   "binsinfo": {
@@ -21886,6 +21898,18 @@
       "wheels": {
         "certbot_dns_nsone-2.4.0-py3-none-any.whl": [
           "mSBhs1j0d78OzsKefETK0az14nUwCU56y5g47bvZBLo=",
+          "py3"
+        ]
+      }
+    },
+    "2.5.0": {
+      "sdist": [
+        "beXcrAXEgwu2jRMeRlhbR2KdgkVyHn91Lshlh6kOOng=",
+        "certbot-dns-nsone-2.5.0.tar.gz"
+      ],
+      "wheels": {
+        "certbot_dns_nsone-2.5.0-py3-none-any.whl": [
+          "DugN42awntBM2Rrf9CiB3cw0nLPMEQABJOH1+qXUuGQ=",
           "py3"
         ]
       }
@@ -54639,6 +54663,20 @@
       ]
     }
   },
+  "gscipy": {
+    "0.1.0": {
+      "sdist": [
+        "4Oxvuavtyq/M2DZ6sXcG3P77yMBWYZ8MwJOw9TweIr8=",
+        "gscipy-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "gscipy-0.1.0-py3-none-any.whl": [
+          "jnN9AGoci4RJC1oS2tT3vGvu2LGAVDniks9eud2kx5M=",
+          "py3"
+        ]
+      }
+    }
+  },
   "gservice": {
     "0.1": {
       "sdist": [
@@ -68578,6 +68616,18 @@
       "sdist": [
         "+KnBBvrbt+5/lMYPRrhAsobZAIzQJfvP6m0hObmfr7E=",
         "kindenty_base-0.1.6.tar.gz"
+      ]
+    },
+    "0.1.7": {
+      "sdist": [
+        "X+W9m+NRQLWmrKjxYs2vz2J2IYvTQ+f1BJWOzF5ldiA=",
+        "kindenty_base-0.1.7.tar.gz"
+      ]
+    },
+    "0.1.8": {
+      "sdist": [
+        "URiZxg1NP+83jyfeblZ5uedxZjoLc/Y6xCEPjhCnXKc=",
+        "kindenty_base-0.1.8.tar.gz"
       ]
     }
   },
@@ -94444,6 +94494,14 @@
       "wheels": {
         "odoo11_addon_mgmtsystem_nonconformity-11.0.1.1.2.99.dev5-py2.py3-none-any.whl": [
           "hNtRR1grXaW9hYpocCLdAX5CPb06NLu8Tfkic+g67sU=",
+          "py2.py3"
+        ]
+      }
+    },
+    "11.0.1.1.2.99.dev55": {
+      "wheels": {
+        "odoo11_addon_mgmtsystem_nonconformity-11.0.1.1.2.99.dev55-py2.py3-none-any.whl": [
+          "1CcjbRKX7TA3EX+zXA4Dpu1tU5x0CbpgwZRdxMq+Ayc=",
           "py2.py3"
         ]
       }
@@ -129716,10 +129774,58 @@
         "returnn-1.20230403.230610.tar.gz"
       ]
     },
+    "1.20230404.105318": {
+      "sdist": [
+        "hq9tLVm2pFmMPPn0sPheWHGIqis+TCJSl4TLK6DU1zU=",
+        "returnn-1.20230404.105318.tar.gz"
+      ]
+    },
+    "1.20230404.110556": {
+      "sdist": [
+        "hrP5cIFhaq6PlH1k00rGDENWLkQlR5/yovQ1rpIrigA=",
+        "returnn-1.20230404.110556.tar.gz"
+      ]
+    },
+    "1.20230404.113829": {
+      "sdist": [
+        "/T1yib6YdYOxHpAfJCf0PeepjtsuRUz2lQybe1/NA+Q=",
+        "returnn-1.20230404.113829.tar.gz"
+      ]
+    },
+    "1.20230404.122056": {
+      "sdist": [
+        "5cSBq7Xwg2wOgxBCG3scKRu5u6Os0YCpEmX5yPkrAkc=",
+        "returnn-1.20230404.122056.tar.gz"
+      ]
+    },
+    "1.20230404.130855": {
+      "sdist": [
+        "SVrJsk0qwswmFYHFf25aOniWvzNzMOKPOsNUtlWQF1A=",
+        "returnn-1.20230404.130855.tar.gz"
+      ]
+    },
+    "1.20230404.171419": {
+      "sdist": [
+        "DLkaysrApBaHE2/8DcmZD8+KKUKec9tqAwJYT5aoUI0=",
+        "returnn-1.20230404.171419.tar.gz"
+      ]
+    },
+    "1.20230404.175609": {
+      "sdist": [
+        "uPvEhlO3Y1EIe4g/hYNXAFytUJgHq7R7gubEYxN+oh0=",
+        "returnn-1.20230404.175609.tar.gz"
+      ]
+    },
     "1.20230404.3633": {
       "sdist": [
         "ZWGJaaljW9uKICEKI/TFP1LDAzmpdiZWteePL7CBgo8=",
         "returnn-1.20230404.3633.tar.gz"
+      ]
+    },
+    "1.20230404.94212": {
+      "sdist": [
+        "RYhtuURVZlt3LZRGmIuf0wDCWS0bEcNspJTYaGJusks=",
+        "returnn-1.20230404.94212.tar.gz"
       ]
     }
   },
@@ -145323,6 +145429,18 @@
           "py3"
         ]
       }
+    },
+    "0.6.4": {
+      "sdist": [
+        "CGBISRcoCIIQxewBoWVXTrxCid8zoRrTL3XSEpl2TUM=",
+        "tracarbon-0.6.4.tar.gz"
+      ],
+      "wheels": {
+        "tracarbon-0.6.4-py3-none-any.whl": [
+          "NDVGtRGRyocfy+F5HRmoXuy9wmuakr2U5HSTUCE+BkQ=",
+          "py3"
+        ]
+      }
     }
   },
   "tracwantedpages": {
@@ -145345,6 +145463,20 @@
         "IPuQNAEtzTchdNydcGdCfSBzr0Ju50GZHJWNFVH0rsQ=",
         "tradermade-0.5.0.tar.gz"
       ]
+    }
+  },
+  "tradingpattern": {
+    "0.0.1": {
+      "sdist": [
+        "OieJNWVpIpN488xe9ahEKYyqT5+g9KBQODHM9wM7SwE=",
+        "tradingpattern-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "tradingpattern-0.0.1-py3-none-any.whl": [
+          "8owGLArGDbxwdWzqfsILmajcsxms8/VxX2CBFNfocLM=",
+          "py3"
+        ]
+      }
     }
   },
   "transmogripy": {

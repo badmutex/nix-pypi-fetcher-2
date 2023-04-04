@@ -1853,6 +1853,48 @@
       }
     }
   },
+  "aiartchan-pycocotools": {
+    "2.0.6": {
+      "sdist": [
+        "nzdg6icSzVdwXQuy4/awIPliK+TokSoosX0qpUdgSqQ=",
+        "aiartchan_pycocotools-2.0.6.tar.gz"
+      ],
+      "wheels": {
+        "aiartchan_pycocotools-2.0.6-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "xfa5j1Jha6JYPKiopms7jhPZ9L7yGxbRUsSNkB4iRdY=",
+          "cp310"
+        ],
+        "aiartchan_pycocotools-2.0.6-cp310-cp310-win_amd64.whl": [
+          "4ueWvoFlK8/g0cd4h9m7SLsK0R+nCYK1geQr8G1lyt4=",
+          "cp310"
+        ],
+        "aiartchan_pycocotools-2.0.6-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "zyZAgbtifJuNb+c6GBrUUdTnUFTtmHkYBnwrMIuKN2w=",
+          "cp311"
+        ],
+        "aiartchan_pycocotools-2.0.6-cp311-cp311-win_amd64.whl": [
+          "qXMI1U0XdMJXgYCsNerfP5DJvJXRJBaQtV9UIv2eddI=",
+          "cp311"
+        ],
+        "aiartchan_pycocotools-2.0.6-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ATyrZttv8J8qcQOJQj3mQkK91Iq1rrseUPrXRv4ytW8=",
+          "cp38"
+        ],
+        "aiartchan_pycocotools-2.0.6-cp38-cp38-win_amd64.whl": [
+          "cy1qO0TO+EIv2zMJbKaRfsw0R6n9hFZHckNW4pbSjJc=",
+          "cp38"
+        ],
+        "aiartchan_pycocotools-2.0.6-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "kdXt3ec5Qm038tUefT1wu/I6/zADf6NzAJ11inP6j38=",
+          "cp39"
+        ],
+        "aiartchan_pycocotools-2.0.6-cp39-cp39-win_amd64.whl": [
+          "NC2T3Brhc9zcs9bLReOYT78t8szkDOivTrfN3e8kkqQ=",
+          "cp39"
+        ]
+      }
+    }
+  },
   "aigoo": {
     "0.0.1": {
       "wheels": {
@@ -33407,6 +33449,12 @@
         "4BUPT/b3SIoCt17tM4Q7PFrPLLAJCTzIcVAG1au5NYI=",
         "dust_extinction-1.1.tar.gz"
       ]
+    },
+    "1.2": {
+      "sdist": [
+        "VKEZ7ALPQzDF9dQFPtOegj8y0W0A08ZIrp5AGWEblQk=",
+        "dust_extinction-1.2.tar.gz"
+      ]
     }
   },
   "dwll": {
@@ -57562,6 +57610,14 @@
       "wheels": {
         "inmanta_module_postgresql-0.4.0-py3-none-any.whl": [
           "0NwlyPLzQckdClm1wNJEkv2TwinwR0RfmvoLIKThRs0=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.1": {
+      "wheels": {
+        "inmanta_module_postgresql-0.4.1-py3-none-any.whl": [
+          "3lKlkowmmo60j9MWdLP7nGMZheAwe8IARF0FyRcxbmg=",
           "py3"
         ]
       }
@@ -100584,6 +100640,12 @@
         "peaqevcore-15.0.2.tar.gz"
       ]
     },
+    "15.0.3": {
+      "sdist": [
+        "IWuQUghYVv1Tt64ByKoCuX152sVoJ1/vaoVCakQmyXY=",
+        "peaqevcore-15.0.3.tar.gz"
+      ]
+    },
     "2.0.0": {
       "sdist": [
         "ctkBzwZ5Caba1JucxCKF7kJs/eZHJz4YSrV3tNyTEXU=",
@@ -114762,6 +114824,18 @@
       "wheels": {
         "python_commentator-0.2.5-py3-none-any.whl": [
           "DeT5j5ypNMPfGuCftX3buOrW+4L/hcNH90TFYWCuz5Q=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.7": {
+      "sdist": [
+        "fNppVqVYB9Yagvp2PP4LDI1EH6MzuFFApoH95ZcvWhg=",
+        "python-commentator-0.2.7.tar.gz"
+      ],
+      "wheels": {
+        "python_commentator-0.2.7-py3-none-any.whl": [
+          "m27Uupt0nidniaNEMS/6M6iQ6+/Kn3Eea7D8qoNG+no=",
           "py3"
         ]
       }
@@ -143450,6 +143524,18 @@
       "wheels": {
         "tungsten_sds-0.7.0-py3-none-any.whl": [
           "PFwYGFxGTGLxrT/CMwK7yGL9audpPmXHm1vdiNkA/HE=",
+          "py3"
+        ]
+      }
+    },
+    "0.8.0": {
+      "sdist": [
+        "ZdPRF2gDa72yplqKBstbCOgQkbezqco1pnAJbTb5NFw=",
+        "tungsten_sds-0.8.0.tar.gz"
+      ],
+      "wheels": {
+        "tungsten_sds-0.8.0-py3-none-any.whl": [
+          "3h7DgofgoxX9qDfzT9EliZQo/P9P5xJcGGj8tF/s/Os=",
           "py3"
         ]
       }

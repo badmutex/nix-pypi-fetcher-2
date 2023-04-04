@@ -60419,6 +60419,32 @@
       }
     }
   },
+  "kivy-garden.navigationdrawer": {
+    "1.0.0.dev0": {
+      "sdist": [
+        "5JuIpPeGO4SBqf3z/beCR4GtcBksfKm/L9qE6uIhjOA=",
+        "kivy_garden.navigationdrawer-1.0.0.dev0.tar.gz"
+      ]
+    },
+    "1.0.1": {
+      "sdist": [
+        "jgPcJmE08uFNayIGuurGiyMlfO6kSEZZ/vr59s8EL08=",
+        "kivy_garden.navigationdrawer-1.0.1.tar.gz"
+      ]
+    },
+    "1.0.2.dev0": {
+      "sdist": [
+        "+/CGZDs6a2rD0D/NUEunsDfIKD5dKhdInQfFPsThnnI=",
+        "kivy_garden.navigationdrawer-1.0.2.dev0.tar.gz"
+      ],
+      "wheels": {
+        "kivy_garden.navigationdrawer-1.0.2.dev0-py3-none-any.whl": [
+          "74+OW17Ukp/Qw94sWHoUlQrQO73bnP3nNGphTzECsLw=",
+          "py3"
+        ]
+      }
+    }
+  },
   "kiwi-mypy": {
     "0.0.0": {
       "sdist": [
@@ -84273,6 +84299,30 @@
           "py2.py3"
         ]
       }
+    },
+    "0.3.0": {
+      "sdist": [
+        "n+/pB+9LwmWJ6+n0E7VS/nNNEoD9gPkSFxFmk8Iudlw=",
+        "nldb-0.3.0.tar.gz"
+      ],
+      "wheels": {
+        "nldb-0.3.0-py2.py3-none-any.whl": [
+          "sefWy/97xS4CU7uExwIZtuF4N413Iqlrkyn87VdmVR0=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.3.1": {
+      "sdist": [
+        "nPMb5LyVcF4drB6XgGM1BKyWpr3Z//LegQ/BquUNsBo=",
+        "nldb-0.3.1.tar.gz"
+      ],
+      "wheels": {
+        "nldb-0.3.1-py2.py3-none-any.whl": [
+          "Lk8SWr1dL5tRDly1iAtjZzXbmz3NwsPVNllRrmxmjeE=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "nlimed": {
@@ -86686,6 +86736,16 @@
       "wheels": {
         "odoo14_addon_purchase_work_acceptance-14.0.1.3.0-py3-none-any.whl": [
           "OK8FygItkm/IAHRdmxfpBYPql3zMN3jQbUilzvf3ltg=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "odoo14-addon-shopinvader-delivery-state": {
+    "14.0.1.0.1.dev2": {
+      "wheels": {
+        "odoo14_addon_shopinvader_delivery_state-14.0.1.0.1.dev2-py3-none-any.whl": [
+          "SGEy5F5WiM203BnYxiQBjv3eiS5Qar3XfcKdA2r8Q1s=",
           "py3"
         ]
       }

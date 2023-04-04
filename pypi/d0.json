@@ -16208,6 +16208,18 @@
         ]
       }
     },
+    "1.29.105": {
+      "sdist": [
+        "H8INmX8fw14W0yTw0ux0S4TQ3H6XWvrXSH9BlAXTvH8=",
+        "botocore-a-la-carte-chime-sdk-voice-1.29.105.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_chime_sdk_voice-1.29.105-py3-none-any.whl": [
+          "MeixougRQFVUQP9g+XSzf7qZG0bFS1Kap12vi8wVhCg=",
+          "py3"
+        ]
+      }
+    },
     "1.29.42": {
       "sdist": [
         "m69XijwA+/Veil26qpRUuQwgsXVNOZQ60hGPbYmtq70=",
@@ -16962,6 +16974,18 @@
       "wheels": {
         "botocore_a_la_carte_mwaa-1.29.104-py3-none-any.whl": [
           "JGoW01SAyG2iJMGqIFHEuN0zCcgt3uyKQ7ehxQiCVzA=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.105": {
+      "sdist": [
+        "A6oFUwCooCdaCK0ZJbdh0Gp7FE4bhr0k2ak2HHRwAh4=",
+        "botocore-a-la-carte-mwaa-1.29.105.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_mwaa-1.29.105-py3-none-any.whl": [
+          "NJnUa57L9GqaJbS4wAgvYjICm0ESJoI35BKL1Fslfnw=",
           "py3"
         ]
       }
@@ -76041,6 +76065,14 @@
           "py3"
         ]
       }
+    },
+    "14.0.2.0.1.dev7": {
+      "wheels": {
+        "odoo14_addon_account_banking_mandate-14.0.2.0.1.dev7-py3-none-any.whl": [
+          "C33i3iPNE9rTyFvjI3qNLvD7bg/TlrIbuTMjICHic+0=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo14-addon-sale-commission-salesman": {
@@ -119301,6 +119333,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.865": {
+      "sdist": [
+        "sLYc3RDXeWIV6ELK/R168/JqVZKPPxaDxWSg5zNHh40=",
+        "tencentcloud-sdk-python-dasb-3.0.865.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_dasb-3.0.865-py2.py3-none-any.whl": [
+          "uy9RLKlgYRQJYtDhSk5UuvuFO3mu99XLXp8QazQBR5E=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tensorflow-cpu-test-package": {
@@ -142292,12 +142336,20 @@
           "yDeCTmrd99Wf1xK3z07GiXP5r+kxB+7Pq9q585l01q0=",
           "cp310"
         ],
+        "vrs-1.0.4-cp310-cp310-macosx_11_0_arm64.whl": [
+          "Zu3F5pQYoKbtmcBbNQge2twF3UokuvYQozyWoRYQ/K8=",
+          "cp310"
+        ],
         "vrs-1.0.4-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "tqUcPVJl8625+FYnhSB3FADT98RerXGl3VbFZiJ4aVM=",
           "cp310"
         ],
         "vrs-1.0.4-cp311-cp311-macosx_10_9_x86_64.whl": [
           "eCnt2WnNMHNUD1dgYTUegicn2HcHbMnAipWgOhRfwjs=",
+          "cp311"
+        ],
+        "vrs-1.0.4-cp311-cp311-macosx_11_0_arm64.whl": [
+          "Jo/JPxrMA/JX1XoC02qDbq9ArfMc8jPaVZ22a67YsHQ=",
           "cp311"
         ],
         "vrs-1.0.4-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
@@ -142316,12 +142368,20 @@
           "DgZaQcB+25BHfOLei2r9z76HSaJSRqMeB7O5F5VvmMQ=",
           "cp38"
         ],
+        "vrs-1.0.4-cp38-cp38-macosx_11_0_arm64.whl": [
+          "ThoWkEg2m1mIQyCq4Aks0RMDs7xHaCaquSrj1le9f48=",
+          "cp38"
+        ],
         "vrs-1.0.4-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "41G2VAaOlmkA0K25cjge84ag/4o214prt1v2JkVp+4I=",
           "cp38"
         ],
         "vrs-1.0.4-cp39-cp39-macosx_10_9_x86_64.whl": [
           "hOP16uVmVlaV9fBvAZutVs6kPO1RhWltg9BD3Cv6mSA=",
+          "cp39"
+        ],
+        "vrs-1.0.4-cp39-cp39-macosx_11_0_arm64.whl": [
+          "Gzlh3GXz1PJTsd7dInBR4ZwdwdeU3UFzEmUzfZL174s=",
           "cp39"
         ],
         "vrs-1.0.4-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [

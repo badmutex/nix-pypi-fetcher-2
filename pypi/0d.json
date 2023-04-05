@@ -32579,6 +32579,34 @@
           "py2.py3"
         ]
       }
+    },
+    "2.4.7": {
+      "wheels": {
+        "core_universal-2.4.7-py2.py3-none-macosx_10_7_x86_64.whl": [
+          "lCmSrYOWOuf7zxiKD9mz1hC4IEJSIG1VWB1IZwEReIs=",
+          "py2.py3"
+        ],
+        "core_universal-2.4.7-py2.py3-none-macosx_11_0_arm64.whl": [
+          "UautibZ/KptrhRmOLx0hwA2cjg88/F/6l9fk6nSlg9E=",
+          "py2.py3"
+        ],
+        "core_universal-2.4.7-py2.py3-none-manylinux1_x86_64.whl": [
+          "VTawmpbFekblAaWmzY9N7NGyhCds2ux2sNsFnkndPFw=",
+          "py2.py3"
+        ],
+        "core_universal-2.4.7-py2.py3-none-manylinux2014_aarch64.whl": [
+          "lxQTnix5d95eZcfd0yOKzWzh+v7h1rOcS35DT3nfuVI=",
+          "py2.py3"
+        ],
+        "core_universal-2.4.7-py2.py3-none-musllinux_1_2_x86_64.whl": [
+          "oWIEbXKQC5+A8BHqRScoJlSgu6QYajL2iJqa9Jhj8Sk=",
+          "py2.py3"
+        ],
+        "core_universal-2.4.7-py2.py3-none-win_amd64.whl": [
+          "Tgc9l2Y4QWQZ7tdgfEJWiRFq2wrfTybaUQgArggn4M4=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "coreindicators": {
@@ -49366,6 +49394,12 @@
         "energinet-ml-sdk-0.10.1.dev291.tar.gz"
       ]
     },
+    "0.10.1.dev292": {
+      "sdist": [
+        "6Ubh0/FnOU+O/LM/5Ls6jhIekGT7NzoOdVh5hf4JFDA=",
+        "energinet-ml-sdk-0.10.1.dev292.tar.gz"
+      ]
+    },
     "0.5.16": {
       "sdist": [
         "0SSiVPr+B4e8ALaHwmidR2UEZUthA0IuPdfgJtuQYGE=",
@@ -65561,6 +65595,18 @@
           "py3"
         ]
       }
+    },
+    "0.9.1": {
+      "sdist": [
+        "XswRKmq4RieHx11KtHdiMENOEO6xIBIAkK/fQcQ1LHQ=",
+        "graphio-0.9.1.tar.gz"
+      ],
+      "wheels": {
+        "graphio-0.9.1-py3-none-any.whl": [
+          "7T18LuJd8vnv8NGBOffVl3kgsg53gecIOq0pCB/VSOk=",
+          "py3"
+        ]
+      }
     }
   },
   "graphite-anomaly-detector": {
@@ -80577,6 +80623,20 @@
       }
     }
   },
+  "localopenai": {
+    "0.27.5": {
+      "sdist": [
+        "hyS7U/QI6QAsbvns7gmvij9ZaeiT7MCoGX+IQKyy7yQ=",
+        "localopenai-0.27.5.tar.gz"
+      ],
+      "wheels": {
+        "localopenai-0.27.5-py3-none-any.whl": [
+          "igfHlhLpos12mZOr7LRw/6p6NcpWD9rpAWfkcHyvOfw=",
+          "py3"
+        ]
+      }
+    }
+  },
   "localsolarwatt": {
     "0.6": {
       "sdist": [
@@ -91646,6 +91706,18 @@
       "wheels": {
         "nemo_toolkit-1.16.0-py3-none-any.whl": [
           "UGiNCk8BLUL+QgApO2TQUZyKz/xzoebRZzL48r6aYRQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.17.0": {
+      "sdist": [
+        "7UR7PTTFHUvoFiusX8J20/ZW6gnNUq8KUm9vpWzuIPs=",
+        "nemo_toolkit-1.17.0.tar.gz"
+      ],
+      "wheels": {
+        "nemo_toolkit-1.17.0-py3-none-any.whl": [
+          "NL+Ln7HdQV7gh+atrkyS43OAC7AYsM3ogtz3qbdmsGI=",
           "py3"
         ]
       }
@@ -138128,6 +138200,18 @@
       "wheels": {
         "state_machine_semaphore-0.1.227-py3-none-any.whl": [
           "zMG+DfsBARTbapYboSDpMiK0pf2ZcS64d1yRqwGHfic=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.228": {
+      "sdist": [
+        "Q9WhCvF5lwJi3CmXCwDVFHl5/3+FNU0UUTFT7InOLB0=",
+        "state-machine-semaphore-0.1.228.tar.gz"
+      ],
+      "wheels": {
+        "state_machine_semaphore-0.1.228-py3-none-any.whl": [
+          "FODUBbXirg/n+CpUmDK69gc7VJfcafpjr3PVwlRij/A=",
           "py3"
         ]
       }

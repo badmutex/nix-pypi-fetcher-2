@@ -19757,6 +19757,18 @@
           "py3"
         ]
       }
+    },
+    "0.4.2": {
+      "sdist": [
+        "lSy165pKOwIxYxCbdWpWYxCGwwYT8j+MqO9BFSC+UzU=",
+        "cache3-0.4.2.tar.gz"
+      ],
+      "wheels": {
+        "cache3-0.4.2-py3-none-any.whl": [
+          "M451bTDMgh8n0sRxcoUIYGOdvq9fjcGwqJ2mJNl44/g=",
+          "py3"
+        ]
+      }
     }
   },
   "cactive-hypixel-nick-tracker": {
@@ -28956,6 +28968,12 @@
       "sdist": [
         "MOU4hS/hvVqhFviEQxWwU1oxffkG60RTpdLL2KB1x1U=",
         "commonX-0.3.7.tar.gz"
+      ]
+    },
+    "0.3.8": {
+      "sdist": [
+        "YPvdwGOYVeBXmhvNEhHtfZTJMdwI1kV8h4XUZ7pQA5g=",
+        "commonX-0.3.8.tar.gz"
       ]
     }
   },
@@ -84484,6 +84502,34 @@
         ]
       }
     },
+    "1.13.0": {
+      "wheels": {
+        "ml_metadata-1.13.0-cp38-cp38-macosx_12_0_x86_64.whl": [
+          "PqGrql8n+ypm2WyePQ5s1MENIQFanpUM8tl1lFYGIdA=",
+          "cp38"
+        ],
+        "ml_metadata-1.13.0-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "KsCKG+hMaOECzV/Jf3hb1+lO5f46AXfBfLYkahe/XcA=",
+          "cp38"
+        ],
+        "ml_metadata-1.13.0-cp38-cp38-win_amd64.whl": [
+          "yIXOA2I6DMmN21YrWOjUQwfrnjUMa5YtCE1YYp79I/Q=",
+          "cp38"
+        ],
+        "ml_metadata-1.13.0-cp39-cp39-macosx_12_0_x86_64.whl": [
+          "qZyZayaw8/OeM+DvSAsoMCFkKlAuh/OoTDiCPdvrlXk=",
+          "cp39"
+        ],
+        "ml_metadata-1.13.0-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "2KN2eFwV9gv2cP6E9e0Sjxxgnz5vfNzg4uc5jNlkm9w=",
+          "cp39"
+        ],
+        "ml_metadata-1.13.0-cp39-cp39-win_amd64.whl": [
+          "SfG1owUSMWEYbRbqFiiQe8wS00URa04KXuR/x2HiRu8=",
+          "cp39"
+        ]
+      }
+    },
     "1.2.0": {
       "wheels": {
         "ml_metadata-1.2.0-cp36-cp36m-macosx_10_9_x86_64.whl": [
@@ -99380,6 +99426,14 @@
       "wheels": {
         "odoo14_addon_fleet_vehicle_inspection-14.0.3.0.2.dev6-py3-none-any.whl": [
           "+FTzaLBjVNM62WPdEgrY+pLPXX9yejl9Pu+eZeqZigE=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.3.0.2.dev7": {
+      "wheels": {
+        "odoo14_addon_fleet_vehicle_inspection-14.0.3.0.2.dev7-py3-none-any.whl": [
+          "5F1zKl2JpKR4Q3qsv+IqjfY9geyL8jmPMvUgNQQGkbw=",
           "py3"
         ]
       }
@@ -129459,6 +129513,90 @@
           "cp39"
         ]
       }
+    },
+    "4.1.1": {
+      "sdist": [
+        "Ovd4/50ZgXuqFQLRerQZKbxu0vQz+hiyuJWDiM15gOQ=",
+        "Riskfolio-Lib-4.1.1.tar.gz"
+      ],
+      "wheels": {
+        "Riskfolio_Lib-4.1.1-cp310-cp310-macosx_10_9_universal2.whl": [
+          "Bhnelivpzvd+2wC7GnX4h0pT/QHpi4fAZ4QAnkALmo4=",
+          "cp310"
+        ],
+        "Riskfolio_Lib-4.1.1-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "KaEkOBYr/aQ+4ekUhoXSmTvSgj95ny/s8SJ3iOSU6e0=",
+          "cp310"
+        ],
+        "Riskfolio_Lib-4.1.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "yT3AbrJ/dEVsAYsnZRn2A/Fy+VCOsh8vP92dKG5quzk=",
+          "cp310"
+        ],
+        "Riskfolio_Lib-4.1.1-cp310-cp310-win_amd64.whl": [
+          "S3HJIYsOjAbdzXI44wHWsl4dJvlWjSUyPQNSNJNUirA=",
+          "cp310"
+        ],
+        "Riskfolio_Lib-4.1.1-cp311-cp311-macosx_10_9_universal2.whl": [
+          "JNLaUVRBuOX05pgGu8Hn8qo2FGnzOvnvL7b5qKtj9Yo=",
+          "cp311"
+        ],
+        "Riskfolio_Lib-4.1.1-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "Ekidctaxu0dZglbl3TaGyn9qkLCIGwVA+Yjjg7rO56w=",
+          "cp311"
+        ],
+        "Riskfolio_Lib-4.1.1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "mPIs2/HsY8P0pWq3ZAFA/IKPX7EGFxvpq4jz/Q7dFNM=",
+          "cp311"
+        ],
+        "Riskfolio_Lib-4.1.1-cp311-cp311-win_amd64.whl": [
+          "KgSu+GGvphvfffyj6QdrhXP03vqsP2AIRcNzZRoXo/0=",
+          "cp311"
+        ],
+        "Riskfolio_Lib-4.1.1-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "nT+MMT1EIETmOzz5d5X7J3QvNcE0SPzh4Ore1ve0GHg=",
+          "cp37"
+        ],
+        "Riskfolio_Lib-4.1.1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "y4rAcVLl6lZT2hXhU48Z1KugOTJjT4itVMcupux0Aa8=",
+          "cp37"
+        ],
+        "Riskfolio_Lib-4.1.1-cp37-cp37m-win_amd64.whl": [
+          "pvT3bNUltSY8GjXb49KQPPO5MqsSLSk2BG3bJWrUW5Y=",
+          "cp37"
+        ],
+        "Riskfolio_Lib-4.1.1-cp38-cp38-macosx_10_9_universal2.whl": [
+          "wQ/sXp056HVPeYrhEKl5T4EGZUAWBw6DmaL5O+vTrIQ=",
+          "cp38"
+        ],
+        "Riskfolio_Lib-4.1.1-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "uY8PNk+7Foua3xQexLUcXrDlD52nU7tMooQWhFip6UA=",
+          "cp38"
+        ],
+        "Riskfolio_Lib-4.1.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "fc2Y3gnh8r97sanU3OZ2PVSvROrs+n6AUT5u1WZKsw0=",
+          "cp38"
+        ],
+        "Riskfolio_Lib-4.1.1-cp38-cp38-win_amd64.whl": [
+          "I4I2ubkTycFIJ644VzuSQtFSRzO2URj18q089fparvo=",
+          "cp38"
+        ],
+        "Riskfolio_Lib-4.1.1-cp39-cp39-macosx_10_9_universal2.whl": [
+          "aj7NiOimgGggymO1BCgp3tPZZvjYTIOHmijtrCajYAg=",
+          "cp39"
+        ],
+        "Riskfolio_Lib-4.1.1-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "5+9LLSpu85wdgMTSmDuyASQMxMGSxhYY7mWsv/k15rE=",
+          "cp39"
+        ],
+        "Riskfolio_Lib-4.1.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "953wjmqe70Udv8qmuFipLWPC7CG94V277t15dbTRACo=",
+          "cp39"
+        ],
+        "Riskfolio_Lib-4.1.1-cp39-cp39-win_amd64.whl": [
+          "pI7tUE7Byno0dBhXeEOa7CMgEu/d6KrKd2qfSOvlG0M=",
+          "cp39"
+        ]
+      }
     }
   },
   "ritual": {
@@ -144292,6 +144430,18 @@
       "sdist": [
         "JnEvSET/cAP+SBi7AVKIqba/vU8YKf0WOo9elHTHlvU=",
         "SportsCardTool-0.2.1.tar.gz"
+      ]
+    },
+    "0.2.2": {
+      "sdist": [
+        "f2o+2sle1Suw9HA8nQ7DsH+PZW4NIZfyTxhMLSX0tq8=",
+        "SportsCardTool-0.2.2.tar.gz"
+      ]
+    },
+    "0.2.3": {
+      "sdist": [
+        "hOZSihD/EclF6lXyELfpJTMeR95Z6PZAL1WQzwYK1iw=",
+        "SportsCardTool-0.2.3.tar.gz"
       ]
     }
   },

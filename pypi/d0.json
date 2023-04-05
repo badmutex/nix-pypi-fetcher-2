@@ -2481,6 +2481,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.1": {
+      "sdist": [
+        "5a8cs57o0liOYjPWvFRPNH0RMWLVU+UxID4J5EBXmtw=",
+        "amfiprot-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "amfiprot-0.1.1-py3-none-any.whl": [
+          "D92aZIVhNeL+yOh33uJlGSVkvLADoJGcQt/IsxRR+Sk=",
+          "py3"
+        ]
+      }
     }
   },
   "analog-design": {
@@ -23539,6 +23551,12 @@
         "AWpbjoOipCBfGHNCIti4/o4J7SAncn4YCDvnbhzUzNo=",
         "cloudinary-cli-1.6.1.tar.gz"
       ]
+    },
+    "1.6.2": {
+      "sdist": [
+        "PhbaCHT/S86ve3Ry5dsuIhWt9fnA3oDK8uF8MB53pXM=",
+        "cloudinary-cli-1.6.2.tar.gz"
+      ]
     }
   },
   "cloudmesh-kubeman": {
@@ -35294,10 +35312,22 @@
         "dol-0.1.128.tar.gz"
       ]
     },
+    "0.1.129": {
+      "sdist": [
+        "ejKvLe+mcuHSbLbtlbb5CV0RuLQ3bJiODmZEokRzzjY=",
+        "dol-0.1.129.tar.gz"
+      ]
+    },
     "0.1.13": {
       "sdist": [
         "b63B4ajxmscOQ5aFFMwg+KSoWawrZniJA4d9JyFIA88=",
         "dol-0.1.13.tar.gz"
+      ]
+    },
+    "0.1.130": {
+      "sdist": [
+        "H5WE1w6CK8S67NtITK7TmnLmNIA0p6RJJGEuDpj1YrM=",
+        "dol-0.1.130.tar.gz"
       ]
     },
     "0.1.14": {
@@ -60247,6 +60277,18 @@
           "py3"
         ]
       }
+    },
+    "1.4.0": {
+      "sdist": [
+        "V8IADd+xuBn/+y79yWV+trc9R35YgsR21BQS8mL4krA=",
+        "lightly-1.4.0.tar.gz"
+      ],
+      "wheels": {
+        "lightly-1.4.0-py3-none-any.whl": [
+          "yJ6YDp2feGn1ov+sP/ymYD1i7t1DXA8vVfBBKD5lWW0=",
+          "py3"
+        ]
+      }
     }
   },
   "lightmysql": {
@@ -81618,6 +81660,18 @@
       "wheels": {
         "permetrics-1.3.2-py3-none-any.whl": [
           "YvPp1KMbdreVhaQpqAVm8PMbwBEIPqj7DDLvGPFkPko=",
+          "py3"
+        ]
+      }
+    },
+    "1.3.3": {
+      "sdist": [
+        "qfTx4uPeSSreCLmuDDMF/18GEF+W8LEGaO0tM73HVQA=",
+        "permetrics-1.3.3.tar.gz"
+      ],
+      "wheels": {
+        "permetrics-1.3.3-py3-none-any.whl": [
+          "Cczyd2T1TnTknFT8ti+S7n0v9EECyk6UdrS1omW3Mng=",
           "py3"
         ]
       }
@@ -116184,6 +116238,22 @@
         ]
       }
     },
+    "0.0.16868": {
+      "wheels": {
+        "tableauhyperapi-0.0.16868-py3-none-macosx_10_11_x86_64.whl": [
+          "YaSOki7EMLsvcUBRO6FzEZx08kG8emtCCE2nfiwvfQk=",
+          "py3"
+        ],
+        "tableauhyperapi-0.0.16868-py3-none-manylinux2014_x86_64.whl": [
+          "fzR+e0m/g+EzBAzVTpHXn45khpjTcAS+DbD6DB+iOlY=",
+          "py3"
+        ],
+        "tableauhyperapi-0.0.16868-py3-none-win_amd64.whl": [
+          "JPk/nz9MZyPiTu2Q6Llbi6obCM9KCQcSqhVFQ7a3P64=",
+          "py3"
+        ]
+      }
+    },
     "0.0.9746": {
       "wheels": {
         "tableauhyperapi-0.0.9746-py3-none-macosx_10_11_x86_64.whl": [
@@ -119462,6 +119532,18 @@
       "wheels": {
         "tencentcloud_sdk_python_dasb-3.0.866-py2.py3-none-any.whl": [
           "Cy+51JHTq/BoKanL/BvxnGwTrOlX2C0QZ9i4TlKOjBE=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.867": {
+      "sdist": [
+        "c2BfS8On30eo1dpgorO02xYT6fHrZQZgNraVF0gsjPM=",
+        "tencentcloud-sdk-python-dasb-3.0.867.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_dasb-3.0.867-py2.py3-none-any.whl": [
+          "CR4yucYCR2PYrETPBoyq2CP/cy+cexrbJGK3Ch0P3Rc=",
           "py2.py3"
         ]
       }
@@ -125582,6 +125664,14 @@
       "wheels": {
         "tf_estimator_nightly-2.13.0.dev2023040408-py2.py3-none-any.whl": [
           "RKqInuzdjCgXBUq/oX/65yiD0KmBn01zuaXQjuw0qZ4=",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.13.0.dev2023040508": {
+      "wheels": {
+        "tf_estimator_nightly-2.13.0.dev2023040508-py2.py3-none-any.whl": [
+          "OqAgQzaAE9Cvp5IZiCn0IqHoZa1Y8NlrbNRwQdKR5C8=",
           "py2.py3"
         ]
       }
@@ -133852,6 +133942,18 @@
       "wheels": {
         "tgwrap-0.5.2-py3-none-any.whl": [
           "0QRtnpJ4Ksin8Kp0Kd2ILpuJ6DOk7HBmO5M94r0QSOU=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.3": {
+      "sdist": [
+        "tx76I6orguLJQ9P+iNRjO94pIt7jhtNCaYhDhD8RfXQ=",
+        "tgwrap-0.5.3.tar.gz"
+      ],
+      "wheels": {
+        "tgwrap-0.5.3-py3-none-any.whl": [
+          "9COA8EH+ViyrSCeGG22ga7m2LkIjw8YH+7f35MAOVx0=",
           "py3"
         ]
       }
@@ -145916,6 +146018,18 @@
       "wheels": {
         "xdev-1.1.1-py3-none-any.whl": [
           "f2mmajwCMg+KwIUYoEmz+TnEjqcCvOzqCieEgifiR74=",
+          "py3"
+        ]
+      }
+    },
+    "1.2.0": {
+      "sdist": [
+        "9jUT0xoVxEkG7WKALvNr3qrfyfUaEauA26kMBXiIOVA=",
+        "xdev-1.2.0.tar.gz"
+      ],
+      "wheels": {
+        "xdev-1.2.0-py3-none-any.whl": [
+          "cKBf4YlplxdDw0z/MuTjKzZEIyJ761kuQqqerqm4nkQ=",
           "py3"
         ]
       }

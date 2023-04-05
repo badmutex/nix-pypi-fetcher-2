@@ -43071,6 +43071,20 @@
       ]
     }
   },
+  "django-admin-corporate": {
+    "1.0.0": {
+      "sdist": [
+        "yrPdb7dp7Pf8dE8RgG3bdvxFbZb+FXJV86vrXU7kqvk=",
+        "django-admin-corporate-1.0.0.tar.gz"
+      ]
+    },
+    "1.0.1": {
+      "sdist": [
+        "jdskthSEMb4DCBZlCAB+ZmJhfIFpdUuHRuO7fDgE2FI=",
+        "django-admin-corporate-1.0.1.tar.gz"
+      ]
+    }
+  },
   "django-ajax-loading-overlay": {
     "0.1.0": {
       "sdist": [
@@ -97401,6 +97415,14 @@
           "py3"
         ]
       }
+    },
+    "16.0.20230404.0": {
+      "wheels": {
+        "odoo_addons_oca_mis_builder-16.0.20230404.0-py3-none-any.whl": [
+          "ffUFa9JQDp6U5OZJ9thNuyCoE5SMznf5obHNDi55eP8=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo10-addon-account-operating-unit": {
@@ -143264,6 +143286,18 @@
       "wheels": {
         "tencentcloud_sdk_python_cynosdb-3.0.866-py2.py3-none-any.whl": [
           "pqMLZLvw0DvCEzV5QPrTs6y/l2HhbuI83kLFjLOW0X0=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.867": {
+      "sdist": [
+        "F/Hz45lYKBA3xxoaWMVNkoX98dOwZEuKjI9HAat6HoU=",
+        "tencentcloud-sdk-python-cynosdb-3.0.867.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_cynosdb-3.0.867-py2.py3-none-any.whl": [
+          "f3cdCdLgoxyNrzSHdIUi6l191l/IgFH91Gh4BTOwf2c=",
           "py2.py3"
         ]
       }

@@ -11911,6 +11911,18 @@
           "py3"
         ]
       }
+    },
+    "0.7.0b20230405": {
+      "sdist": [
+        "mKqFiiHinIbdmwdkAB7iwJKNxiSR+49EWDJCtcA7QGU=",
+        "autogluon.timeseries-0.7.0b20230405.tar.gz"
+      ],
+      "wheels": {
+        "autogluon.timeseries-0.7.0b20230405-py3-none-any.whl": [
+          "a+Tt1oAlK4G4QJNZZmzntipAOV92yddoZFldz4SCCbE=",
+          "py3"
+        ]
+      }
     }
   },
   "autohooks-plugin-pytest": {
@@ -22337,6 +22349,12 @@
         "eMWPdPyh6s8NCbOCXjqweCmNf12DqR64eK94vpGBfbE=",
         "censius-1.6.8.tar.gz"
       ]
+    },
+    "1.6.9": {
+      "sdist": [
+        "AmeZWL01TkCjbEf4KZeli8LCCA7W9/hQw4xCGYYZqlI=",
+        "censius-1.6.9.tar.gz"
+      ]
     }
   },
   "cerner-healtheintent": {
@@ -29370,6 +29388,18 @@
       "wheels": {
         "cwhy-0.0.2-py3-none-any.whl": [
           "Wv+Gzmwb6Q+zjkTmTb/6iqCfGsPlWDyJRTF0ruIcluw=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "yu0q29Fnkipaj0+Nvt6CU9e7zYDJ4exUDFnJwH6iAWc=",
+        "cwhy-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "cwhy-0.0.3-py3-none-any.whl": [
+          "6GP0aH1k9OCh/JSaU1m3JLXy86NrGcH8YdimSLEtDnc=",
           "py3"
         ]
       }
@@ -62494,6 +62524,46 @@
         ],
         "infomap-2.6.1-cp39-cp39-win_amd64.whl": [
           "b1JEdpZb+iUIevA37XgTlY49DTAWQeo8Ev/8gQEBd00=",
+          "cp39"
+        ]
+      }
+    },
+    "2.7.0": {
+      "sdist": [
+        "ATIaswIq1M6Le1/rrVIPWjs3uepRJ1vmUhbSkUxdV9g=",
+        "infomap-2.7.0.tar.gz"
+      ],
+      "wheels": {
+        "infomap-2.7.0-cp310-cp310-macosx_11_0_x86_64.whl": [
+          "axsqejH9G3GaJw4E0ryzbWdkN2XCqidwippNyetUwTI=",
+          "cp310"
+        ],
+        "infomap-2.7.0-cp310-cp310-win_amd64.whl": [
+          "TLZI013MnK7ZTeSAGaT5j2cNFIE97F1DN3a32Qv+Dm4=",
+          "cp310"
+        ],
+        "infomap-2.7.0-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "GEH1MmgXIgxIMpXW9HDNe7AQsphx8iNDsDzZRENnW6k=",
+          "cp37"
+        ],
+        "infomap-2.7.0-cp37-cp37m-win_amd64.whl": [
+          "RNzN3N1yVv0QKOOJMBUpYws2qtshMHTppq9+IwP3/OA=",
+          "cp37"
+        ],
+        "infomap-2.7.0-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "VAcKj61Us77eVc8Ybeub+e32lZsbNENd5/YYxoBB03g=",
+          "cp38"
+        ],
+        "infomap-2.7.0-cp38-cp38-win_amd64.whl": [
+          "aj9PlJjWij89XGp803JMIYH68NtuFXQabaSoEA8leac=",
+          "cp38"
+        ],
+        "infomap-2.7.0-cp39-cp39-macosx_11_0_x86_64.whl": [
+          "xq9kfXYeq/bsIwj1AEUWvMUUheZ0HBMq6Ne2Ih2fiQ0=",
+          "cp39"
+        ],
+        "infomap-2.7.0-cp39-cp39-win_amd64.whl": [
+          "gScVc4VMBzFeYqn2in7I9KGUKh46oTnzb5IeWok6KPY=",
           "cp39"
         ]
       }
@@ -98267,6 +98337,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.2": {
+      "sdist": [
+        "CJQCsTEsZPfO7qgsSQN2wYpaV7QKkjIBmHABVbcWtUI=",
+        "PLinterafit-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "PLinterafit-0.0.2-py3-none-any.whl": [
+          "FQ2kGoHig/xr+2SiIatpXfH0sCdAwfGRpsPSjlZ0cFM=",
+          "py3"
+        ]
+      }
     }
   },
   "plomo": {
@@ -114396,6 +114478,44 @@
       "wheels": {
         "qubole_ml-1.9.1-py3-none-any.whl": [
           "7BIZ1I4deKoZvqWFOqpY6Wm9acnSMnTd4XJQVf56Fog=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "queriplug": {
+    "1.0.0": {
+      "sdist": [
+        "uca7M1iSkK0YsUnjk2VdjE5GxsAOn+GHiuIjgEte9Nw=",
+        "QueriPlug-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "QueriPlug-1.0.0-py3-none-any.whl": [
+          "0t1wN4UOQfn0AGRzpp2LMD1PHYtxFy/inCTnvQeOO14=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.1": {
+      "sdist": [
+        "3oC+euocpxPcxBzh42+PBgCW7uEiXiNGrviliC07Z5I=",
+        "QueriPlug-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "QueriPlug-1.0.1-py3-none-any.whl": [
+          "jovudoEXZYQ9QoEBGbYtzlN/h/ng+ug3qqQ3LNJy8bE=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.2": {
+      "sdist": [
+        "6ZxX1rOkPhtgoNIUJ8TTkCaTzRoGgcDtq/weJGdJPcE=",
+        "QueriPlug-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "QueriPlug-1.0.2-py3-none-any.whl": [
+          "dKm72DFSB6TTSDuTuTN4DurJBJED7ol/LhehnAv5l68=",
           "py3"
         ]
       }

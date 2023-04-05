@@ -18867,6 +18867,12 @@
         "506eQBsvkJIxUzjhn50udrzz5iP5TgyFyjysMYqBLf4=",
         "carefree-creator-0.2.0.tar.gz"
       ]
+    },
+    "0.2.1": {
+      "sdist": [
+        "E/m5o+2wTM9TA/BGMBz5xRIBEOYia0xGNUpJ5NRcPbg=",
+        "carefree-creator-0.2.1.tar.gz"
+      ]
     }
   },
   "carla-client": {
@@ -51774,6 +51780,18 @@
         ]
       }
     },
+    "0.22.0": {
+      "sdist": [
+        "uwOqVlnc725YVVvpuFgC8fBBBb3XYCVO54umNtdNPnU=",
+        "dynamicprompts-0.22.0.tar.gz"
+      ],
+      "wheels": {
+        "dynamicprompts-0.22.0-py3-none-any.whl": [
+          "RDj4315jDIIIRQ6u9Q7dnUrIzlfJW1pm0mZTvMVLosg=",
+          "py3"
+        ]
+      }
+    },
     "0.3.0": {
       "sdist": [
         "bDnu4thRCw96iEVgbEU5piuvnCP9d+wGLaf6d5yG4Os=",
@@ -76057,6 +76075,32 @@
         "karkipytranslator-0.1.0-py3-none-any.whl": [
           "nxJ9Zzs22fYZkTjuIH5eucttgHLLWk9+ErOrPK5pfq8=",
           "py3"
+        ]
+      }
+    }
+  },
+  "kb-macropy": {
+    "0.0.17": {
+      "sdist": [
+        "WupjWZlO/NgWEXpDtUCh4Dr+jwq0RdbW+nqOansYLwk=",
+        "kb_macropy-0.0.17.tar.gz"
+      ],
+      "wheels": {
+        "kb_macropy-0.0.17-cp310-cp310-win_amd64.whl": [
+          "e1F2R2z7zIX/9wvH5Jk9Y0iXlOhlp+kSV4UfT7qIt7s=",
+          "cp310"
+        ]
+      }
+    },
+    "0.0.18": {
+      "sdist": [
+        "5hLujSHWDifJqBUpLQE4uhi/7Eyy8ysRVXlidU3HvaA=",
+        "kb_macropy-0.0.18.tar.gz"
+      ],
+      "wheels": {
+        "kb_macropy-0.0.18-cp310-cp310-win_amd64.whl": [
+          "5tZeGK4DI760FDdt8EJRKCzOeB9R98tr5021dq3U9rA=",
+          "cp310"
         ]
       }
     }
@@ -115273,6 +115317,12 @@
         "xvbnkUDUHuOSFoMS1WQ6Eecl26xAOzFi9B0EtIX0GAY=",
         "pyddx-0.2.0.tar.gz"
       ]
+    },
+    "0.3.0": {
+      "sdist": [
+        "f3gdDEXaXDAPSz+X3Lh9BHQ4zIl++2p3OSfmaA2yBLA=",
+        "pyddx-0.3.0.tar.gz"
+      ]
     }
   },
   "pydebugfunc": {
@@ -117774,6 +117824,18 @@
       "wheels": {
         "pynetlogo-0.5-py3-none-any.whl": [
           "3m/A+bBdUBb9LslaDDDRt9d3MiKxL+22GvNUeL0RioA=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.1": {
+      "sdist": [
+        "5C4ja5Ln0QQ68Lxtz65kEnA7z9cO5pnwEiupeCBV7+o=",
+        "pynetlogo-0.5.1.tar.gz"
+      ],
+      "wheels": {
+        "pynetlogo-0.5.1-py3-none-any.whl": [
+          "nR5NVrgqFIKR8HwIy9jD3v/mAsO0o/S/841OjI5eXsc=",
           "py3"
         ]
       }
@@ -158343,6 +158405,128 @@
         "H4zCbI2Nian9smvaFvXDLErweSwjuMiPDE7V3o/cHPQ=",
         "velait_api-0.5.0.tar.gz"
       ]
+    }
+  },
+  "vercel-deploy": {
+    "1.0": {
+      "sdist": [
+        "nXkbM+IeGPJP3JEHGGT2eZop6crdbvwiRgljnHNVbT8=",
+        "vercel-deploy-1.0.tar.gz"
+      ],
+      "wheels": {
+        "vercel_deploy-1.0-py3-none-any.whl": [
+          "qx2J/23OYBI422dnxM0wkAwfpgr+KL8mtxGeYp/Xy0A=",
+          "py3"
+        ]
+      }
+    },
+    "1.1": {
+      "sdist": [
+        "cysH7SRBLhpvwz4ie0qMs1tU8mZmoDQFRgas8bdde24=",
+        "vercel_deploy-1.1.tar.gz"
+      ],
+      "wheels": {
+        "vercel_deploy-1.1-py3-none-any.whl": [
+          "hjkGk/ihMqGpBrZh9lcIKvJRaddeUH4pKi1X64IBLss=",
+          "py3"
+        ]
+      }
+    },
+    "1.2": {
+      "sdist": [
+        "5NfMF2O0K6tvQC9NqKRdW2rwz5TTtUqawtuAlUOCVvQ=",
+        "vercel_deploy-1.2.tar.gz"
+      ],
+      "wheels": {
+        "vercel_deploy-1.2-py3-none-any.whl": [
+          "q91MV0UAxNZUWuqnJHE1ypM8uL6JxgTxXbvXoLVEECY=",
+          "py3"
+        ]
+      }
+    },
+    "1.3": {
+      "sdist": [
+        "iYIDk17msOONMJ02zP80Xf2VZ0DA6f4YWUYBtRuJVl0=",
+        "vercel_deploy-1.3.tar.gz"
+      ],
+      "wheels": {
+        "vercel_deploy-1.3-py3-none-any.whl": [
+          "E57UAttmoIBDTJYVTd2ANRkPbnbK7QEwEVy9g++D+qE=",
+          "py3"
+        ]
+      }
+    },
+    "1.4": {
+      "sdist": [
+        "U+NP4emcvZ0U2kKK/2PNzVsD6eID72Yy/prplDlRkmM=",
+        "vercel_deploy-1.4.tar.gz"
+      ],
+      "wheels": {
+        "vercel_deploy-1.4-py3-none-any.whl": [
+          "zAmukkL1O6ErvIhAF7AkPBgFxmLC/fidIs+jQfjUAaI=",
+          "py3"
+        ]
+      }
+    },
+    "1.5": {
+      "sdist": [
+        "TauODQAdlzuvatbjt48qUxshD9YqxHPEVUqqu20stjk=",
+        "vercel_deploy-1.5.tar.gz"
+      ],
+      "wheels": {
+        "vercel_deploy-1.5-py3-none-any.whl": [
+          "ddDpS0qsb2mPfgr2k54Hudka+FnquB1ScJrBJk2PWe0=",
+          "py3"
+        ]
+      }
+    },
+    "1.6": {
+      "sdist": [
+        "GBcuRL9lJkkKyboLzcz8TbgWblhBKGOSLBmINZdr3+o=",
+        "vercel_deploy-1.6.tar.gz"
+      ],
+      "wheels": {
+        "vercel_deploy-1.6-py3-none-any.whl": [
+          "baqeDMoiTRTq8eDlPZDvjMSYzLCenNpQK8R6RFHD6ac=",
+          "py3"
+        ]
+      }
+    },
+    "1.7": {
+      "sdist": [
+        "5oAfDLXMiSSFqntjQTTWPObKnFGvi4fTB1jswcoA4VU=",
+        "vercel_deploy-1.7.tar.gz"
+      ],
+      "wheels": {
+        "vercel_deploy-1.7-py3-none-any.whl": [
+          "i1Fy2OFWX1aT65jujHheWle4ZFoUJ8oIsX8pLAkYoSs=",
+          "py3"
+        ]
+      }
+    },
+    "1.8": {
+      "sdist": [
+        "VRHAIJ2/tWbp05SE6fFbDNAfHMLJozehKAE6IiPlZ2M=",
+        "vercel_deploy-1.8.tar.gz"
+      ],
+      "wheels": {
+        "vercel_deploy-1.8-py3-none-any.whl": [
+          "/yAdAL5tjSlaoiPapo/GVBVFSilt5mZ6Bp4SJLOKeP0=",
+          "py3"
+        ]
+      }
+    },
+    "1.9": {
+      "sdist": [
+        "Dk/kxFif0R07Aruz7DdeO4qT0+VXZiTJzMp0iSRUGNQ=",
+        "vercel_deploy-1.9.tar.gz"
+      ],
+      "wheels": {
+        "vercel_deploy-1.9-py3-none-any.whl": [
+          "IWjU9t0Kal5topBTja3kb+4U1nat5r3FQHuSzAput1U=",
+          "py3"
+        ]
+      }
     }
   },
   "veritass": {

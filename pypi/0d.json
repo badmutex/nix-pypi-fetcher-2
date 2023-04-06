@@ -32607,6 +32607,34 @@
           "py2.py3"
         ]
       }
+    },
+    "2.4.8": {
+      "wheels": {
+        "core_universal-2.4.8-py2.py3-none-macosx_10_7_x86_64.whl": [
+          "+zdiBuWytQoqByoak+67AbHc5huvGQX8lHaxk1WiA1s=",
+          "py2.py3"
+        ],
+        "core_universal-2.4.8-py2.py3-none-macosx_11_0_arm64.whl": [
+          "81Qf8tdzr8gc14O+k58/sMKwi5AHK1W8OJulmM53qkM=",
+          "py2.py3"
+        ],
+        "core_universal-2.4.8-py2.py3-none-manylinux1_x86_64.whl": [
+          "NLv4AXI4vm2Jj/gbTnmoKhWNS+P62ynrjDg6djLka/g=",
+          "py2.py3"
+        ],
+        "core_universal-2.4.8-py2.py3-none-manylinux2014_aarch64.whl": [
+          "XpWOMcSmL26eu8Ob4p/Y8PYd++nHdcK0NidYDufL2AU=",
+          "py2.py3"
+        ],
+        "core_universal-2.4.8-py2.py3-none-musllinux_1_2_x86_64.whl": [
+          "TYMhoe9N0MEzV0KiUJQdSCR/Lvm2ZZK0Sn9i8VXTWNA=",
+          "py2.py3"
+        ],
+        "core_universal-2.4.8-py2.py3-none-win_amd64.whl": [
+          "6ocrlWVnfyqXcLzHNcOVYl0hcjFbzTG22t72y88DEno=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "coreindicators": {
@@ -64838,6 +64866,18 @@
       "wheels": {
         "gptcache-0.1.2-py3-none-any.whl": [
           "1dzb6TVTgegPvv6kQaiH0uqd9BIGolrgFVKzRTlIBsM=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.3": {
+      "sdist": [
+        "0Pg2LnuuOKDuQV747QWEGp+edyRvaf6jXl0Nuh2Bc8o=",
+        "gptcache-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "gptcache-0.1.3-py3-none-any.whl": [
+          "Xw8YS79AbBoa6ApZAFcl/uK+zMt6ZsccfwruZ4Igly0=",
           "py3"
         ]
       }
@@ -125837,6 +125877,30 @@
           "py3"
         ]
       }
+    },
+    "0.32.1": {
+      "sdist": [
+        "jW2F2OPtgDUfaIYxVnA3VnpLqaJEy1TUhj806dFKqPc=",
+        "robotcode_robot-0.32.1.tar.gz"
+      ],
+      "wheels": {
+        "robotcode_robot-0.32.1-py3-none-any.whl": [
+          "AWMrciNfTGwhZ0oRcHTOIkPch1DmXTOxcyjxsEuCidA=",
+          "py3"
+        ]
+      }
+    },
+    "0.32.2": {
+      "sdist": [
+        "Q7VSYEjIT4i1mPajelqLRnsdu6pre/Dwphukce7nCXA=",
+        "robotcode_robot-0.32.2.tar.gz"
+      ],
+      "wheels": {
+        "robotcode_robot-0.32.2-py3-none-any.whl": [
+          "9kXpNPPQUEVrSfhIBxydDPLxUE0pS1Ytw4UKUFJaz30=",
+          "py3"
+        ]
+      }
     }
   },
   "robotframework-fritzhomelibrary": {
@@ -138312,6 +138376,18 @@
         ]
       }
     },
+    "0.1.229": {
+      "sdist": [
+        "xWt9LhiSdXAAB3LnndEj9R7HhE+tvGAdYCwCBdTUk2Y=",
+        "state-machine-semaphore-0.1.229.tar.gz"
+      ],
+      "wheels": {
+        "state_machine_semaphore-0.1.229-py3-none-any.whl": [
+          "ILc2wbYy+pRAHPib9k4uX/EGXWRDlsD8BcfnPMfkRX0=",
+          "py3"
+        ]
+      }
+    },
     "0.1.23": {
       "sdist": [
         "LXjhsS6Uwb5gdhxWkmnrhEkak02uGIfFObyJ/Oddg/I=",
@@ -143947,6 +144023,18 @@
           "py3"
         ]
       }
+    },
+    "0.2.1": {
+      "sdist": [
+        "NdBXQQKEf+Zj5PAY5VdgKIDIYVgV6vcMOfAs4pl3SPo=",
+        "Telegant-0.2.1.tar.gz"
+      ],
+      "wheels": {
+        "Telegant-0.2.1-py3-none-any.whl": [
+          "YXM8sAwTGWXMNjqBvRWA7VJhhGfyKLvg2E+zgRdcqRQ=",
+          "py3"
+        ]
+      }
     }
   },
   "telemuninn": {
@@ -147254,6 +147342,18 @@
       "wheels": {
         "TheSilent-0.0.277-py3-none-any.whl": [
           "yLbVSzW62x5mU1v2HM7KqT1a/27YdepBDhnHznPCXLc=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.278": {
+      "sdist": [
+        "l6LwcdQlGRMs1K2xAMhW/uyaMUoXVNoJxZIDG5Lif3k=",
+        "TheSilent-0.0.278.tar.gz"
+      ],
+      "wheels": {
+        "TheSilent-0.0.278-py3-none-any.whl": [
+          "V2Y9LSSQTO75WIZuzH+RyZBZgCpEtN29IR5Uk0aqKmc=",
           "py3"
         ]
       }
@@ -159662,6 +159762,30 @@
       "wheels": {
         "zfinder-0.0.1.5-py3-none-any.whl": [
           "nKOc3vhBGb4jPu2uBrAhpDKSM47lKxucd9YvmRTtv54=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "wiEVpwLUeL74mMHhFURqLweahgc2WIs7EvD02VTuv/E=",
+        "zfinder-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "zfinder-0.1.1-py3-none-any.whl": [
+          "BwPbH4D14l05Zi28970zhUnRL4WLUeVt7Hj9fT/UN98=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "8cK58c2pb+WtCXFc4TN032P6GUN3zZpfK8uPpcnzOvI=",
+        "zfinder-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "zfinder-0.1.2-py3-none-any.whl": [
+          "lAA2Zf4W4QCW3UgAoVlMJy5qLSEGNQC8meHxA/abxA8=",
           "py3"
         ]
       }

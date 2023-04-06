@@ -60032,6 +60032,14 @@
         ]
       }
     },
+    "3.1.35": {
+      "wheels": {
+        "huaweicloudsdkas-3.1.35-py2.py3-none-any.whl": [
+          "AHVvtG1Q2ih05geNop4n4yr6vReUN3EK5TT24ZyY8/4=",
+          "py2.py3"
+        ]
+      }
+    },
     "3.1.4": {
       "wheels": {
         "huaweicloudsdkas-3.1.4-py2.py3-none-any.whl": [
@@ -76723,6 +76731,32 @@
       }
     }
   },
+  "meowcorp": {
+    "0.1": {
+      "sdist": [
+        "BFKayd/NMvI1p2I4whEUJFnp5uT+6hdk2hG0p9RjkH0=",
+        "meowcorp-0.1.tar.gz"
+      ],
+      "wheels": {
+        "meowcorp-0.1-py3-none-any.whl": [
+          "2lotAM3IO9p0gjEOQdO/aLYMBqlCQCTh7DoLRAyIt50=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "4yuhJNoI+idIzhvjhdZxpqjPYElo4rbl93uxdUccNx0=",
+        "meowcorp-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "meowcorp-0.1.1-py3-none-any.whl": [
+          "sQzWLpCElc+NdXv9D2CWs7B4YGTiBbLLeuj2RZjJlyY=",
+          "py3"
+        ]
+      }
+    }
+  },
   "mergepythonsdk": {
     "2.0.0": {
       "sdist": [
@@ -85605,6 +85639,12 @@
         "JEsxioc3gMaFEGbPpJTpdWPH/SivaOxsgbIWBJYWu4E=",
         "netbluemind4-4.1.65141.tar.gz"
       ]
+    },
+    "4.1.65172": {
+      "sdist": [
+        "auvpGA8YXMneg9AEVOI1HWuO3lqClo2v1S9NQoTkGFg=",
+        "netbluemind4-4.1.65172.tar.gz"
+      ]
     }
   },
   "netbox-acls": {
@@ -90776,6 +90816,14 @@
       "wheels": {
         "odoo_addon_l10n_ro_stock_price_difference-15.0.5.2.0-py3-none-any.whl": [
           "CLIyecMYAQoVH7hcPiQt/kZvcY0Jnwrao/q+LdXE0ew=",
+          "py3"
+        ]
+      }
+    },
+    "15.0.5.2.0.2": {
+      "wheels": {
+        "odoo_addon_l10n_ro_stock_price_difference-15.0.5.2.0.2-py3-none-any.whl": [
+          "vJEjUIKAb4zoVbVCN8Et7MdrQCNpwjdtqBjLp6uq1rg=",
           "py3"
         ]
       }
@@ -105985,6 +106033,18 @@
           "py2.py3"
         ]
       }
+    },
+    "0.6.0": {
+      "sdist": [
+        "tJc4wCo/k7qfdsDayCtomlNBiCgUs2xxTpYA6fVg2vc=",
+        "pycrate-0.6.0.tar.gz"
+      ],
+      "wheels": {
+        "pycrate-0.6.0-py2.py3-none-any.whl": [
+          "lz6ubMvc0UeSvRe9Vhj5tVAVkMwodnOnuJ1HHIGp1qw=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "pycups": {
@@ -116721,6 +116781,18 @@
           "py3"
         ]
       }
+    },
+    "3.0.1": {
+      "sdist": [
+        "Z7V0Db+vsN/Vojp5JsRuPvF0ErXnVkIw/RprF9l56H4=",
+        "RecordKeeper_Client-3.0.1.tar.gz"
+      ],
+      "wheels": {
+        "RecordKeeper_Client-3.0.1-py3-none-any.whl": [
+          "Yen/dx6cMjW7Kect5GbSnBQD6DZ6xXClSrZG/kwaT8Q=",
+          "py3"
+        ]
+      }
     }
   },
   "recursion-xxx": {
@@ -123773,6 +123845,44 @@
         "92kaMndoQfrP9Qc2Yg0VSTX4hLU2Hs5cYhdvwWgNW2M=",
         "SloPOS-1.0.tar.gz"
       ]
+    }
+  },
+  "slpapy": {
+    "0.1.5": {
+      "sdist": [
+        "bA1Q5L6z6Itgj5J3DO7OJ/A1Bmw0us+5YTTIEc2bzQ4=",
+        "Slpapy-0.1.5.tar.gz"
+      ],
+      "wheels": {
+        "Slpapy-0.1.5-py3-none-any.whl": [
+          "/buXPQuVqGKa/RDIbEmX/3eZd11xRfIYDt2/1yVcC0E=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.6": {
+      "sdist": [
+        "C2weThnLQS3WfqZ+9A5qba66KOLai4n0rHGt1PCr4OE=",
+        "Slpapy-0.1.6.tar.gz"
+      ],
+      "wheels": {
+        "Slpapy-0.1.6-py3-none-any.whl": [
+          "Hfk5NHHzWImMX33iwql2T6xFuN+CR4huMira/IJcd/o=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.7": {
+      "sdist": [
+        "EEq+8R4V3hIbQhLwjciDAwPCoHj2fFQCLXxK6+7L4pM=",
+        "Slpapy-0.1.7.tar.gz"
+      ],
+      "wheels": {
+        "Slpapy-0.1.7-py3-none-any.whl": [
+          "P/mXeVGY34nDaR5O4JgezY16K7+onpuRNXk63J4kliE=",
+          "py3"
+        ]
+      }
     }
   },
   "smartparams": {

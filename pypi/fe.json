@@ -1502,6 +1502,14 @@
         ]
       }
     },
+    "1.0.17": {
+      "wheels": {
+        "agoraiot-1.0.17-py2.py3-none-any.whl": [
+          "y+pY0Ds1/GIX2VpakZ5oYXI/y72bcTcQpLP5cUhKSPM=",
+          "py2.py3"
+        ]
+      }
+    },
     "1.0.7": {
       "wheels": {
         "agoraiot-1.0.7-py2.py3-none-any.whl": [
@@ -14688,6 +14696,14 @@
       "sdist": [
         "mRu+M6Q16Y4ExyvV2QZkH1kIPEzeVQC0odIy2M1uBlA=",
         "bintraypy-0.1.1.tar.gz"
+      ]
+    }
+  },
+  "biobb-netprop": {
+    "1.12.3": {
+      "sdist": [
+        "Yx1kZESbvX4QqEgwbgyV3cGuW81eUdpjpp3pZwvP6FY=",
+        "biobb_netprop-1.12.3.tar.gz"
       ]
     }
   },
@@ -50343,6 +50359,32 @@
       }
     }
   },
+  "dsdau": {
+    "0.0.1.2": {
+      "sdist": [
+        "1cwQ1fJZ+J3Zd30u+5A985dPCfsq1UND+1sEDolrm8Q=",
+        "dsdau-0.0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "dsdau-0.0.1.2-py3-none-any.whl": [
+          "lbAYAFyYLPn5kqSnPKFROHIGJRGkexSXVivMeD0f2VA=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.1.3": {
+      "sdist": [
+        "zE0tUlO2X0RMhSihiwT+jIv1odboqQey0Knl+AJXiNY=",
+        "dsdau-0.0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "dsdau-0.0.1.3-py3-none-any.whl": [
+          "KNOTBkazflhVR+snuYTdoEi1rKaia4X4Tcs6ss7JCuY=",
+          "py3"
+        ]
+      }
+    }
+  },
   "dsmytools": {
     "0.0.1": {
       "sdist": [
@@ -51192,6 +51234,18 @@
       "wheels": {
         "dtwParallel-0.9.37-py3-none-any.whl": [
           "o37S545qwRgyg4TdR9cOCE2mSfd4DnrqLgG0o26fDZM=",
+          "py3"
+        ]
+      }
+    },
+    "0.9.38": {
+      "sdist": [
+        "ie04ALdbhbAm1TRT5F4nDhmfBzNBZVPVkv6JTtMAHg8=",
+        "dtwParallel-0.9.38.tar.gz"
+      ],
+      "wheels": {
+        "dtwParallel-0.9.38-py3-none-any.whl": [
+          "tCLOvw1X1hhjhOgzcfwzY0izC6893PHlYIfjY2jUUVk=",
           "py3"
         ]
       }
@@ -70796,6 +70850,14 @@
         ]
       }
     },
+    "3.1.35": {
+      "wheels": {
+        "huaweicloudsdkccm-3.1.35-py2.py3-none-any.whl": [
+          "yAcpBWZSSotVwjpARbdKB0zUyzTxh1XyU3QJ5f7ork4=",
+          "py2.py3"
+        ]
+      }
+    },
     "3.1.4": {
       "wheels": {
         "huaweicloudsdkccm-3.1.4-py2.py3-none-any.whl": [
@@ -76104,74 +76166,14 @@
     }
   },
   "kb-macropy": {
-    "0.0.17": {
+    "0.0.24": {
       "sdist": [
-        "WupjWZlO/NgWEXpDtUCh4Dr+jwq0RdbW+nqOansYLwk=",
-        "kb_macropy-0.0.17.tar.gz"
+        "3/7LWJAITmKqQqq7AuQczWwzqvcx5wc2TYjfdiUilrs=",
+        "kb_macropy-0.0.24.tar.gz"
       ],
       "wheels": {
-        "kb_macropy-0.0.17-cp310-cp310-win_amd64.whl": [
-          "e1F2R2z7zIX/9wvH5Jk9Y0iXlOhlp+kSV4UfT7qIt7s=",
-          "cp310"
-        ]
-      }
-    },
-    "0.0.18": {
-      "sdist": [
-        "5hLujSHWDifJqBUpLQE4uhi/7Eyy8ysRVXlidU3HvaA=",
-        "kb_macropy-0.0.18.tar.gz"
-      ],
-      "wheels": {
-        "kb_macropy-0.0.18-cp310-cp310-win_amd64.whl": [
-          "5tZeGK4DI760FDdt8EJRKCzOeB9R98tr5021dq3U9rA=",
-          "cp310"
-        ]
-      }
-    },
-    "0.0.19": {
-      "sdist": [
-        "8odssUiRf8bwKYugcMpHJjdNzjATHrbpfM1paANo4sg=",
-        "kb_macropy-0.0.19.tar.gz"
-      ],
-      "wheels": {
-        "kb_macropy-0.0.19-cp310-cp310-win_amd64.whl": [
-          "TCnH9WMn5LqFRMuR1318eMAomxj5QQL1mlcqprxZlVY=",
-          "cp310"
-        ]
-      }
-    },
-    "0.0.20": {
-      "sdist": [
-        "tDIpjp2v9IxRGdFQNiyCgbKklAWvpa4eIPuScSjab58=",
-        "kb_macropy-0.0.20.tar.gz"
-      ],
-      "wheels": {
-        "kb_macropy-0.0.20-cp310-cp310-win_amd64.whl": [
-          "/iq3egqYEvZDdBKw/RNwrRcmW/FfoyeLnG7nv/XzpB0=",
-          "cp310"
-        ]
-      }
-    },
-    "0.0.21": {
-      "sdist": [
-        "i2P/pQy9SZYcgi5XLh41HDhxjbl0/jZSKItfkAHf8dc=",
-        "kb_macropy-0.0.21.tar.gz"
-      ],
-      "wheels": {
-        "kb_macropy-0.0.21-cp310-cp310-win_amd64.whl": [
-          "XDdTVcz0YTgC4jqKKEz9DGaJaZDUufzKdCcx8MjkLVE=",
-          "cp310"
-        ]
-      }
-    },
-    "0.0.22": {
-      "sdist": [
-        "tEY0EKbd+rgvUkyNk9kCBW7pBKZfPC4mdxJz0Dndo84=",
-        "kb_macropy-0.0.22.tar.gz"
-      ],
-      "wheels": {
-        "kb_macropy-0.0.22-cp310-cp310-win_amd64.whl": [
-          "Utmjnpu5wJ4S4x+Fsyvrf+SliRZP0KuM+9Z9KRnXHsA=",
+        "kb_macropy-0.0.24-cp310-cp310-win_amd64.whl": [
+          "cIbCiz4DCyWJythniepMh7u0IAZKUJdPbn/7Yc0SL0Q=",
           "cp310"
         ]
       }
@@ -78220,6 +78222,18 @@
       "wheels": {
         "learnMSA-1.1.1-py3-none-any.whl": [
           "38XoI7Cq0x2azJ5ElN//lR7LccAhpRG5bWsVH0iRdNs=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.2": {
+      "sdist": [
+        "trc2LJZwCNHcLtBwRfBVWMoubBOHwGBU91IwpT8rOrI=",
+        "learnMSA-1.1.2.tar.gz"
+      ],
+      "wheels": {
+        "learnMSA-1.1.2-py3-none-any.whl": [
+          "ya9Abt2mpOEwX9hQmvnA1RB8aV0GTDFJmCgncvaXdjI=",
           "py3"
         ]
       }
@@ -80400,6 +80414,18 @@
         ]
       }
     },
+    "25.2023.1400": {
+      "sdist": [
+        "E8Fw7kUGMOCKdL4AfriIzReOHL9CrqCdb7L2jW2Qky8=",
+        "lsst-ctrl-bps-htcondor-25.2023.1400.tar.gz"
+      ],
+      "wheels": {
+        "lsst_ctrl_bps_htcondor-25.2023.1400-py3-none-any.whl": [
+          "zXi0kqxIgRGY+tVIoH97Je5lknKP8LK10qLko8L3i7s=",
+          "py3"
+        ]
+      }
+    },
     "25.2023.600": {
       "sdist": [
         "qNqv6yZIEi+2V+fbTQTL3/on8tfCCCgkn+17v5Mj5e0=",
@@ -80926,6 +80952,18 @@
       "wheels": {
         "lsst_utils-25.2023.1300-py3-none-any.whl": [
           "3ZWE1vKyKC/V3XRKQjVmCpOqQSWbDpZgS41BDl3ZkeE=",
+          "py3"
+        ]
+      }
+    },
+    "25.2023.1400": {
+      "sdist": [
+        "mmpp3MNDqBM6ZYELSOuE+KtMYjJo/lFZHKxWf0FUiGE=",
+        "lsst-utils-25.2023.1400.tar.gz"
+      ],
+      "wheels": {
+        "lsst_utils-25.2023.1400-py3-none-any.whl": [
+          "hrkTJ+Nbv13Gl/jCbN1T5Tns3tGWb1szFg4QmKxbcNA=",
           "py3"
         ]
       }
@@ -84794,6 +84832,18 @@
       "wheels": {
         "mpai_cae_arp-0.1.0-py3-none-any.whl": [
           "yoUzw/c1WR5FKDBcsH1QKmxdMdAR3+WCMmiyRYyR3xs=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.0": {
+      "sdist": [
+        "6YM/Is/+Lf53cU4KBRwk3WybbMb/EDaVZmmsMZYC3As=",
+        "mpai_cae_arp-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "mpai_cae_arp-0.2.0-py3-none-any.whl": [
+          "s1QQ8MwSf4pg7ttF6IeOQa3997Mf+4s4IWziY8r7Qks=",
           "py3"
         ]
       }
@@ -91990,6 +92040,18 @@
       "wheels": {
         "ndh-6.1.0-py3-none-any.whl": [
           "Wt9Vdd3LwudZnpmd5ksTZERBl2O8ocearIMmpxugzzM=",
+          "py3"
+        ]
+      }
+    },
+    "6.2.0": {
+      "sdist": [
+        "4cpEnBicvbpeLdDpr0Ie2YCCcnnIRE/cOo9rJ+1l0/o=",
+        "ndh-6.2.0.tar.gz"
+      ],
+      "wheels": {
+        "ndh-6.2.0-py3-none-any.whl": [
+          "GlPdPyF1zsAtzuB1RblDmL4kRD9TtqDM6g2bhxbEaRo=",
           "py3"
         ]
       }
@@ -112835,6 +112897,32 @@
       ]
     }
   },
+  "pspsmgen": {
+    "0.0.1": {
+      "sdist": [
+        "1kf2RzGSkndTDjHq0MFcvkGs2k5XRVqpynpvZEwo8C0=",
+        "pspsmgen-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "pspsmgen-0.0.1-py3-none-any.whl": [
+          "5fkoB0P6vaUPGYAcl8rSMYAWNeAu9wDaZAmAmuuHsfw=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "MaFtxoUIKZ0UQYE1cf0CVIts/TKCurvLFXRTj3F668s=",
+        "pspsmgen-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "pspsmgen-0.0.2-py3-none-any.whl": [
+          "HHxGzVDSS/PNa7FrTEFC5qZE/WhVt4AQyuiKKqiE8P8=",
+          "py3"
+        ]
+      }
+    }
+  },
   "ptk": {
     "1.0.0": {
       "sdist": [
@@ -123178,6 +123266,12 @@
       "sdist": [
         "Y4mrhoPEsHluUDPjDlogQAXEiGvtLGhihZDLsYYVplc=",
         "pytorch-pfn-extras-0.6.5.tar.gz"
+      ]
+    },
+    "0.6.6": {
+      "sdist": [
+        "mkNCQHl7XyjSp3ZV6I8DCPZ6QFWSFW2F3iVvA98NAsc=",
+        "pytorch-pfn-extras-0.6.6.tar.gz"
       ]
     }
   },

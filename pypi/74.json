@@ -2678,6 +2678,18 @@
         ]
       }
     },
+    "17.0.9": {
+      "sdist": [
+        "8wOLuDjwX6cW85HJtUMr61I3HbC5SJ8HIlddz/y7jsU=",
+        "aiomisc-17.0.9.tar.gz"
+      ],
+      "wheels": {
+        "aiomisc-17.0.9-py3-none-any.whl": [
+          "6ASKzHfzY3f0zlOz+1/S/V/d8WDNY1iT0f0ZVqse8Wo=",
+          "py3"
+        ]
+      }
+    },
     "2.0.0": {
       "sdist": [
         "Mo/QaWpweS5tWDhaY2q/xsj8BCIoKBY0uI2tnLXoZFk=",
@@ -43826,6 +43838,54 @@
       "wheels": {
         "fastkafka-0.3.1-py3-none-any.whl": [
           "tYbDkDI0ZIofg0Z3fa/sFCAK3wYsHnRFNjZG957r2Fg=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.0": {
+      "sdist": [
+        "SagUEM2tdhuKSPHuyWoH2+zUhs/DmLrmNqP60lYdIk4=",
+        "fastkafka-0.4.0.tar.gz"
+      ],
+      "wheels": {
+        "fastkafka-0.4.0-py3-none-any.whl": [
+          "sCLpocEfZA8nLK4Yg1z0fKwL3fPN55L9H8SYkW7oorU=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.0rc0": {
+      "sdist": [
+        "AQmg2IS8ctvKGjD65gn98Z6h4n7wYFt3Rx0jDifTp9I=",
+        "fastkafka-0.4.0rc0.tar.gz"
+      ],
+      "wheels": {
+        "fastkafka-0.4.0rc0-py3-none-any.whl": [
+          "jGIwZcjzP+hO8MsAzA4WSZ14yHfLQCG+sIAJ+irwYoM=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.0rc1": {
+      "sdist": [
+        "t3e60+JimJQzJTjpUWh8qqCG97UjOx34+RLbH+BsRgY=",
+        "fastkafka-0.4.0rc1.tar.gz"
+      ],
+      "wheels": {
+        "fastkafka-0.4.0rc1-py3-none-any.whl": [
+          "jQqiBUv2npichMe9JOPhoT7RxYH13vIdvwTytWl+8o8=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.0rc2": {
+      "sdist": [
+        "w/pISWndv06C8t6mocbSZ1pea6i1DhbnAZwsp2elA2c=",
+        "fastkafka-0.4.0rc2.tar.gz"
+      ],
+      "wheels": {
+        "fastkafka-0.4.0rc2-py3-none-any.whl": [
+          "DHS1YQQlkhkVro2tj1blkEbhwgQE7lq/z1y8VYMC8OE=",
           "py3"
         ]
       }
@@ -106796,6 +106856,134 @@
         ],
         "POT-0.8.2-cp39-cp39-win_amd64.whl": [
           "2TO2zaAPoi28AvRVVJU+SzkQXReMg9APwyCRzSzQULo=",
+          "cp39"
+        ]
+      }
+    },
+    "0.9.0": {
+      "sdist": [
+        "MAhkritGmntmFV/GEKE0lh2dRvHs3g2F5ITRSs0GshU=",
+        "POT-0.9.0.tar.gz"
+      ],
+      "wheels": {
+        "POT-0.9.0-cp310-cp310-macosx_10_9_universal2.whl": [
+          "dIThuct4Urn6lMmvcxf5v6/uk3vliT1uEuhnCY/m+dY=",
+          "cp310"
+        ],
+        "POT-0.9.0-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "9nBEL8VmAUeShC2Ly3a7fHNMNXgYMCm3qp79XsAQb7E=",
+          "cp310"
+        ],
+        "POT-0.9.0-cp310-cp310-macosx_11_0_arm64.whl": [
+          "bG17cYWSn+nC/pmc2jqmwAoBzw5w2ek09EiSI7sxhTg=",
+          "cp310"
+        ],
+        "POT-0.9.0-cp310-cp310-manylinux_2_12_i686.manylinux2010_i686.whl": [
+          "ZczB3kSa59k1KQ6GwTufdqN5OKxyal5bcMIeF4Il98g=",
+          "cp310"
+        ],
+        "POT-0.9.0-cp310-cp310-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "11XQII803xlYuuLByYzt8U4VIaRdOdZBIlgpKJpcKLY=",
+          "cp310"
+        ],
+        "POT-0.9.0-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "M4TK43fY2QqNyQVcy6PO3GJbK88XjTxYd/zZVKn4OXI=",
+          "cp310"
+        ],
+        "POT-0.9.0-cp310-cp310-win32.whl": [
+          "54DCMGkJkAGT6EkX33KBFJ+i7lremdYdu3KvkfhZzwg=",
+          "cp310"
+        ],
+        "POT-0.9.0-cp310-cp310-win_amd64.whl": [
+          "y5NHNhubqur/8paCn+xxsh5x0qqheoxKmPFeMXGfI6c=",
+          "cp310"
+        ],
+        "POT-0.9.0-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "pEgXX89YW4QA+bTuC/FLSBbN6qSU8j+98BFzWKhZ2Gc=",
+          "cp37"
+        ],
+        "POT-0.9.0-cp37-cp37m-manylinux_2_12_i686.manylinux2010_i686.whl": [
+          "pDIGsQxyBS20CsOY7FcrJu2Axtcy1NkVbSDrQWFintQ=",
+          "cp37"
+        ],
+        "POT-0.9.0-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "+bvruYfPpZHoHHY7Oi2fFC/pNphSM0K/8YdS6Wzdon4=",
+          "cp37"
+        ],
+        "POT-0.9.0-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "v/09yL2wE7eK4HWqviL3VtZZxcQU+DBRd5KdF6PBQAc=",
+          "cp37"
+        ],
+        "POT-0.9.0-cp37-cp37m-win32.whl": [
+          "JkZmVHKFJZcv2+eRt5nq7/cb4yPJPw8+tNj+YRaACOo=",
+          "cp37"
+        ],
+        "POT-0.9.0-cp37-cp37m-win_amd64.whl": [
+          "0e0zmMtHZbrcUZOMO2DZlh2TrHQqqrsfnJenm4RSid0=",
+          "cp37"
+        ],
+        "POT-0.9.0-cp38-cp38-macosx_10_9_universal2.whl": [
+          "W0YmC5oxlM2mlPT04LxEiK2Qx+vnvaqNGFol2pCksrA=",
+          "cp38"
+        ],
+        "POT-0.9.0-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "J9p+LYMox8XhLZzhd+4OCbtBQn6TSSXzE25qHspimFU=",
+          "cp38"
+        ],
+        "POT-0.9.0-cp38-cp38-macosx_11_0_arm64.whl": [
+          "fXoe6AByABxDTN9x04vDj4WwXq0HUO2CI4gyCrMzBTY=",
+          "cp38"
+        ],
+        "POT-0.9.0-cp38-cp38-manylinux_2_12_i686.manylinux2010_i686.whl": [
+          "YfVeVLhCpnUL88HYHerOq5LkiVbBlex75PO+Qof3qvo=",
+          "cp38"
+        ],
+        "POT-0.9.0-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "C1n9VHZn4jfuiOGiT93pcJfFAwAFCEL41UyXwF4GjrQ=",
+          "cp38"
+        ],
+        "POT-0.9.0-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "nrbdPgMiFaZpqTsMxPKs5F9AluJaf130yEgZqjAimWg=",
+          "cp38"
+        ],
+        "POT-0.9.0-cp38-cp38-win32.whl": [
+          "Ua3nqAvhhmY1Nx3y9ZsnGR8BKZOI1xyiSkJLtmNQGEY=",
+          "cp38"
+        ],
+        "POT-0.9.0-cp38-cp38-win_amd64.whl": [
+          "VNfDjni/Pf41kWGdcPAlU2+RtZ07lbwdWXR6kkmNrkM=",
+          "cp38"
+        ],
+        "POT-0.9.0-cp39-cp39-macosx_10_9_universal2.whl": [
+          "XHjwhgHFzA5whhzRocslyTfeDKaJ55H/fyF6sUqM+ac=",
+          "cp39"
+        ],
+        "POT-0.9.0-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "+by8+PDHya60AQsLpPRS8dVteoQ6+GkSHQy4I8qWTXE=",
+          "cp39"
+        ],
+        "POT-0.9.0-cp39-cp39-macosx_11_0_arm64.whl": [
+          "uEL9kJrkURoSlGvU3DVmX0a259Tp/8Fu3APHFXPRUAE=",
+          "cp39"
+        ],
+        "POT-0.9.0-cp39-cp39-manylinux_2_12_i686.manylinux2010_i686.whl": [
+          "vaH4DDU2fjZbjnVygPx78ZUkpikHzHBogOrQKDrzbfE=",
+          "cp39"
+        ],
+        "POT-0.9.0-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "7BP2Y9WX/kTp/B7XAmnvuZRuKgUD1gJWZbI4hu2nF4o=",
+          "cp39"
+        ],
+        "POT-0.9.0-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "YzfcgfQIMOEgROJXUqrdTf5CGH6L4EDIjmxAXLUe72k=",
+          "cp39"
+        ],
+        "POT-0.9.0-cp39-cp39-win32.whl": [
+          "RwWG/zAMyP9rcxiW83163Z5OwRt1whojkhxOxRBaIK4=",
+          "cp39"
+        ],
+        "POT-0.9.0-cp39-cp39-win_amd64.whl": [
+          "xA4cdx4YjChWcCznuKSJGvs/Y0ptmrrQSIJgr6figCg=",
           "cp39"
         ]
       }

@@ -15599,6 +15599,18 @@
           "py3"
         ]
       }
+    },
+    "2.3.0b20230408": {
+      "wheels": {
+        "bigdl_friesian_spark3-2.3.0b20230408-py3-none-macosx_10_11_x86_64.whl": [
+          "gmxyECjEQBldoCE81hunP7MoKjlwTSB7aC9p2D5UFlM=",
+          "py3"
+        ],
+        "bigdl_friesian_spark3-2.3.0b20230408-py3-none-manylinux1_x86_64.whl": [
+          "R1mgp4+8fD1LDyHMIhLLMIX1GgJ84BMhW3ei5ssbBIE=",
+          "py3"
+        ]
+      }
     }
   },
   "binsinfo": {
@@ -16412,6 +16424,18 @@
       "wheels": {
         "blind_watermark-0.4.2-py3-none-any.whl": [
           "IEEozNl0endl7/BiYKCM8dG5xrJCu05pbtHYXN4spOM=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.4": {
+      "sdist": [
+        "BMl2p6jSAxp1QEjhGBp1QQtmuYqZQUaDZb7kqnM6mW4=",
+        "blind_watermark-0.4.4.tar.gz"
+      ],
+      "wheels": {
+        "blind_watermark-0.4.4-py3-none-any.whl": [
+          "63qVh7PGgvT8io+KC3KGaJMbyhjlgKfecOE0CIdkrt4=",
           "py3"
         ]
       }
@@ -76987,6 +77011,30 @@
           "py3"
         ]
       }
+    },
+    "1.0.2": {
+      "sdist": [
+        "i9UwtjImMqb5X1GyAx7iSAeQAJeDFn8gbdP3tW3bj34=",
+        "mbox-to-json-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "mbox_to_json-1.0.2-py3-none-any.whl": [
+          "FBYOd44pZHY2eYuENgSnNtTA6s9ZofpZgxdoQAikfAY=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.3": {
+      "sdist": [
+        "aKwezUiq97vdFZDJfNk/72nybUnVKlTWLvZvWVo2EOg=",
+        "mbox-to-json-1.0.3.tar.gz"
+      ],
+      "wheels": {
+        "mbox_to_json-1.0.3-py3-none-any.whl": [
+          "JSN0u81bmSfXqseku9SgTnTV9M9yFKAGKuKW0Q4HbuE=",
+          "py3"
+        ]
+      }
     }
   },
   "mcot.utils": {
@@ -90181,6 +90229,20 @@
       }
     }
   },
+  "napari-amdtrk": {
+    "1.0.0": {
+      "sdist": [
+        "oRdCiA8fzIIz4eN8rkuoP1LGVvgOwYbGgMzLYAAUtCU=",
+        "napari-amdtrk-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "napari_amdtrk-1.0.0-py3-none-any.whl": [
+          "MyI23HXgqXJRuqEkYtEvacDXAmTDB/Mel0OJH+vIsoQ=",
+          "py3"
+        ]
+      }
+    }
+  },
   "napari-lattice": {
     "0.1.4a0": {
       "sdist": [
@@ -95995,6 +96057,14 @@
           "py3"
         ]
       }
+    },
+    "13.0.1.0.1.dev3": {
+      "wheels": {
+        "odoo13_addon_sale_procurement_group_by_commitment_date-13.0.1.0.1.dev3-py3-none-any.whl": [
+          "eWZ0RFtVhXYsfFWbnD9zDSOCvHYdgxbP/5cfIyPOh2s=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo13-addon-sale-validity-auto-cancel": {
@@ -98086,6 +98156,14 @@
       "wheels": {
         "odoo9_addon_sale_order_line_date-9.0.1.0.0.99.dev8-py2-none-any.whl": [
           "PBRO4LNGoSCAWpAb32gKGAbpMU5ilCbhEcd+cpezGro=",
+          "py2"
+        ]
+      }
+    },
+    "9.0.1.0.0.99.dev9": {
+      "wheels": {
+        "odoo9_addon_sale_order_line_date-9.0.1.0.0.99.dev9-py2-none-any.whl": [
+          "3tRZ/neHGq7ByIT84MJ20a789fgAfl/RK4tLc8yPxRY=",
           "py2"
         ]
       }
@@ -130315,6 +130393,18 @@
         "LpErSdbHd1EP/Q44jBLovEinnqP/gZbJ3/o1BJgMIlU=",
         "returnn-1.20230407.1325.tar.gz"
       ]
+    },
+    "1.20230408.152731": {
+      "sdist": [
+        "aZkeosVrJ4g2VofUsg7poqqLUMbBwxjwpS4xdNt6KOk=",
+        "returnn-1.20230408.152731.tar.gz"
+      ]
+    },
+    "1.20230408.155406": {
+      "sdist": [
+        "CsDimDO0eUej13XSMctlDKW/dMpfIiOEk3KgfBjSL+E=",
+        "returnn-1.20230408.155406.tar.gz"
+      ]
     }
   },
   "reunion": {
@@ -137350,6 +137440,18 @@
       "wheels": {
         "slack_cleaner2-3.2.1-py2.py3-none-any.whl": [
           "V7JvId5ZXuBDs3SrD4i22xdZR1tCv8PZt70maf4dVNQ=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.2.2": {
+      "sdist": [
+        "14wFBIWfaFue974aYTxwg0viLweC66fd1FCC7pQiEWc=",
+        "slack_cleaner2-3.2.2.tar.gz"
+      ],
+      "wheels": {
+        "slack_cleaner2-3.2.2-py2.py3-none-any.whl": [
+          "vJnfVMj2Y/vXJO11rCbiE/s0t08AERoInEtxXC7+qUQ=",
           "py2.py3"
         ]
       }

@@ -90633,6 +90633,22 @@
           "cp39"
         ]
       }
+    },
+    "1.1.4": {
+      "wheels": {
+        "navconfig-1.1.4-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "1+VudsKY8ekR7rDs6I35/nlV3tePR2Isl5jtgV116LM=",
+          "cp310"
+        ],
+        "navconfig-1.1.4-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "HyxdPC6DKk6htjr6cLhtieUbywMkjUNEPf+lqB1wShc=",
+          "cp311"
+        ],
+        "navconfig-1.1.4-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "xFuNjVwbmmvE3u1MGW4Llx6ErgTdJ9omu4tZApZGY+4=",
+          "cp39"
+        ]
+      }
     }
   },
   "nbsolutions": {
@@ -97488,6 +97504,14 @@
       "wheels": {
         "odoo8_addon_account_credit_control-8.0.0.3.0.99.dev65-py2-none-any.whl": [
           "Qihc1x1HkzdCYvI2B+X33cKtm7a5Vdv/GeOhgVxdrTs=",
+          "py2"
+        ]
+      }
+    },
+    "8.0.0.3.0.99.dev66": {
+      "wheels": {
+        "odoo8_addon_account_credit_control-8.0.0.3.0.99.dev66-py2-none-any.whl": [
+          "Ca2xbjwxvNGv3eScv8E9HYYA2mWB//Db4wLp7x5bn60=",
           "py2"
         ]
       }
@@ -109426,6 +109450,18 @@
       "wheels": {
         "preemo_worker_sdk-0.2.2-py3-none-any.whl": [
           "JmiSw0UJNlY0lIwn8jYQ0yz91TpozYrUzBC3adzgE5c=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.0": {
+      "sdist": [
+        "IX3CrT4q/uvMrzfiRCTxZtJhKwgpPFKwSOC6+sZ72Ws=",
+        "preemo_worker_sdk-0.3.0.tar.gz"
+      ],
+      "wheels": {
+        "preemo_worker_sdk-0.3.0-py3-none-any.whl": [
+          "ZrViJZoWLslnt080rcp3Dzwt5NXfUBegYRmeMpWOPmY=",
           "py3"
         ]
       }
@@ -126003,6 +126039,18 @@
           "py3"
         ]
       }
+    },
+    "0.32.3": {
+      "sdist": [
+        "MtEWdr/4aggTewl0XbztKrIVw5fAu7AFZOsEd3D43t4=",
+        "robotcode_robot-0.32.3.tar.gz"
+      ],
+      "wheels": {
+        "robotcode_robot-0.32.3-py3-none-any.whl": [
+          "CzzRxp6izhrNNxjLeLtRhY/EFmiv7uf7ryCyPqLhfcw=",
+          "py3"
+        ]
+      }
     }
   },
   "robotframework-fritzhomelibrary": {
@@ -130606,6 +130654,14 @@
       "wheels": {
         "ScriptCollection-3.3.74-py3-none-any.whl": [
           "hBHqsh4eaodfnGJ4eT8d9XyTTQG2QKNtgagc6PH/rng=",
+          "py3"
+        ]
+      }
+    },
+    "3.3.75": {
+      "wheels": {
+        "ScriptCollection-3.3.75-py3-none-any.whl": [
+          "V1tiSM83+CgcNulVPJC1wEkbEiFGFTOS6JlREunA86c=",
           "py3"
         ]
       }
@@ -138518,6 +138574,18 @@
       "wheels": {
         "state_machine_semaphore-0.1.230-py3-none-any.whl": [
           "XWOA2l920s0V5CWiQJ/c3F8p5vAfcSZMXNWnQNlyBAg=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.231": {
+      "sdist": [
+        "zXaMUV6mVzV3FGhMveCnxas8Ln+2ZP0Pw9AkvgisBDo=",
+        "state-machine-semaphore-0.1.231.tar.gz"
+      ],
+      "wheels": {
+        "state_machine_semaphore-0.1.231-py3-none-any.whl": [
+          "l0QL3Oxq2u5vB6dHTWvk1LsVqNBFfydcWNe4FGLmcvI=",
           "py3"
         ]
       }
@@ -147624,6 +147692,42 @@
         ]
       }
     },
+    "0.0.290": {
+      "sdist": [
+        "/SX4wfwWaXPQRkIywW+hoP25fTb/gP4GeDaYEsgTYEg=",
+        "TheSilent-0.0.290.tar.gz"
+      ],
+      "wheels": {
+        "TheSilent-0.0.290-py3-none-any.whl": [
+          "K0XwzTkS46etGoeC7UzfW7P0n1Ujqzugo31EmXYxviQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.291": {
+      "sdist": [
+        "gXGky4gvPB4lEVX9+yKuT2Qe/riivdMO8ZYoVrCpi+U=",
+        "TheSilent-0.0.291.tar.gz"
+      ],
+      "wheels": {
+        "TheSilent-0.0.291-py3-none-any.whl": [
+          "4eqvvr28p2J+eimpVkQKX6d8bemimuh8uptEt6q9sdA=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.292": {
+      "sdist": [
+        "GzF3qgUqZWD2CmlBX5E83ibfao4lWPRbxBPCfS3q8fo=",
+        "TheSilent-0.0.292.tar.gz"
+      ],
+      "wheels": {
+        "TheSilent-0.0.292-py3-none-any.whl": [
+          "bXZ6BldTEQsqw+UhC7NBF1E/b0QqVg7t6/V2nAPVqn0=",
+          "py3"
+        ]
+      }
+    },
     "0.0.3": {
       "sdist": [
         "jCZsBZgHP/xdKC858Idke9L7WrwFS5PCEJyDUVqRqLQ=",
@@ -155064,6 +155168,14 @@
       "sdist": [
         "WVQlDEl2tSCbNZyjD08/sRtLKCwGCKtPU7j00T39qVk=",
         "VLCmetadata01-0.2.tar.gz"
+      ]
+    }
+  },
+  "vmlogin": {
+    "0.1.1": {
+      "sdist": [
+        "bRMs7Q6DD6gVte5dOjxSGhHjarUYlU+pV/KGGxMg3T8=",
+        "VmLogin-0.1.1.tar.gz"
       ]
     }
   },

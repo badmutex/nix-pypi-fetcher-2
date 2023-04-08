@@ -13274,6 +13274,18 @@
         ]
       }
     },
+    "1.29.109": {
+      "sdist": [
+        "3pU/8M27jbyZckuIeEIa3lS0QyYUVWwtTNXEzlFoKcc=",
+        "botocore-a-la-carte-healthlake-1.29.109.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_healthlake-1.29.109-py3-none-any.whl": [
+          "DU3t21e38M1Yn85tJoi7bdpORkLOWWcOCmQkL3ltmmU=",
+          "py3"
+        ]
+      }
+    },
     "1.29.42": {
       "sdist": [
         "vFWeQs5Y6u5AAvnNE57XQITuCPEZsk66qxW+s+NC1XU=",
@@ -69727,6 +69739,18 @@
         "FRXR9abWU00DZ5rZbaO+Bd8SyakeqJIbquXWGtj3YNc=",
         "ml-starter-0.0.5.tar.gz"
       ]
+    },
+    "0.0.6": {
+      "sdist": [
+        "BCOYtyuUSbECxbLAsmdiGSz9br0kxpSrGGW9/V/H10g=",
+        "ml-starter-0.0.6.tar.gz"
+      ]
+    },
+    "0.0.7": {
+      "sdist": [
+        "jYqoDCaSJ05OfsgmIMMlU82gWTwiopIwtCR36jcDiAY=",
+        "ml-starter-0.0.7.tar.gz"
+      ]
     }
   },
   "mlos": {
@@ -87287,6 +87311,20 @@
       }
     }
   },
+  "otel-django-middleware": {
+    "0.1": {
+      "sdist": [
+        "bOt0HMAiHEE1f6/KjSSIZY0STfqYpnD1K3q+qG17fRY=",
+        "otel_django_middleware-0.1.tar.gz"
+      ],
+      "wheels": {
+        "otel_django_middleware-0.1-py3-none-any.whl": [
+          "zrG3+gXPrZVh18JrNK/XDmI4BrbhdJ7vizNNt7Pd8U0=",
+          "py3"
+        ]
+      }
+    }
+  },
   "other": {
     "1.0.0": {
       "sdist": [
@@ -95282,6 +95320,12 @@
       "sdist": [
         "FvWUqrix+X0JOOlC7Xy7qWUZBUu9KArzK6kKf9yTE+8=",
         "pulumi_kafka-3.5.0a1679414961.tar.gz"
+      ]
+    },
+    "3.5.0a1680909009": {
+      "sdist": [
+        "/qQLk3zJk6B3L3Md9U7cr/mfnwkBBEsic90nxXfIN5c=",
+        "pulumi_kafka-3.5.0a1680909009.tar.gz"
       ]
     }
   },
@@ -125208,6 +125252,18 @@
       "wheels": {
         "screenpy_adapter_allure-4.0.2-py3-none-any.whl": [
           "5cYLjNd6FVhQ6lN2CmQDZCg8UaF1USya0aNGdmX1AJc=",
+          "py3"
+        ]
+      }
+    },
+    "4.0.3": {
+      "sdist": [
+        "+rORSsRTmW5lwCW/0vOjfBcp5eRBXP+hznM1tE/mQac=",
+        "screenpy_adapter_allure-4.0.3.tar.gz"
+      ],
+      "wheels": {
+        "screenpy_adapter_allure-4.0.3-py3-none-any.whl": [
+          "dRg/ZayZ3Nt36/GgbXqT6FK27LtbNJXVe4AOk2suTs0=",
           "py3"
         ]
       }

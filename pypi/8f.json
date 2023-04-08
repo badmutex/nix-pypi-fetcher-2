@@ -2021,6 +2021,14 @@
           "py3"
         ]
       }
+    },
+    "0.0.4": {
+      "wheels": {
+        "aibo-0.0.4-py3-none-any.whl": [
+          "dTEo5Q6uVCr1H7J3sNUgFmSn8IC+I0tInXCO50a5MDA=",
+          "py3"
+        ]
+      }
     }
   },
   "aicafe": {
@@ -12171,6 +12179,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.0b1.post1": {
+      "sdist": [
+        "ncYoih7PD6Sgw0r/wQbGoLkuJ8h+MX9IQ0OxGvUKm3k=",
+        "azure-healthinsights-clinicalmatching-1.0.0b1.post1.zip"
+      ],
+      "wheels": {
+        "azure_healthinsights_clinicalmatching-1.0.0b1.post1-py3-none-any.whl": [
+          "tADIJkqBTJRCtJ9h0tEN3XjhMTXIuKZ/aGo9iDXukIE=",
+          "py3"
+        ]
+      }
     }
   },
   "azuremultiapi-storage": {
@@ -21570,6 +21590,18 @@
         ]
       }
     },
+    "1.29.109": {
+      "sdist": [
+        "n4e0uOAFn+6FLBoRpBBnAEO0OvK2z/ULcAsURiK2f6Y=",
+        "botocore-a-la-carte-dms-1.29.109.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_dms-1.29.109-py3-none-any.whl": [
+          "TDiMYFN9o95u5ZHDXAYkydkkDV4N9ahiwDLqRIUM4CE=",
+          "py3"
+        ]
+      }
+    },
     "1.29.42": {
       "sdist": [
         "/Hy/5+wp1gYx72WGTK2J9ZX1PvHHoz8xW1MPGoNgFGc=",
@@ -22372,6 +22404,18 @@
       "wheels": {
         "botocore_a_la_carte_efs-1.29.108-py3-none-any.whl": [
           "gWVbtsUn3kKeQ+rAmRvK8XGaYj1Momy8DRSusz10AO0=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.109": {
+      "sdist": [
+        "6CYWRCNJUXt0UWCj6dPXvviCCOn1bGsDgzWyK+xaMas=",
+        "botocore-a-la-carte-efs-1.29.109.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_efs-1.29.109-py3-none-any.whl": [
+          "Sm0JOZWAJfIPKNLThYNhEvUWpU5Vk5j1uGfD7nU3kiU=",
           "py3"
         ]
       }
@@ -81013,6 +81057,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.8": {
+      "sdist": [
+        "n6P2ZewPXzUcNkshLnPNxABGFUYdymy/qs8ChSXsdAo=",
+        "napari-console-0.0.8.tar.gz"
+      ],
+      "wheels": {
+        "napari_console-0.0.8-py3-none-any.whl": [
+          "s853POkgtsznJOqXXehSoM+m8eASGnR6EnFIN9OMe1U=",
+          "py3"
+        ]
+      }
     }
   },
   "natural-keys": {
@@ -102766,6 +102822,18 @@
       "wheels": {
         "pycaw-20230322-py3-none-any.whl": [
           "SnLdFBnLQHFcymFnDjuGScei6x/RlXZ5R+2oF4F3WlA=",
+          "py3"
+        ]
+      }
+    },
+    "20230407": {
+      "sdist": [
+        "MrGM/Zcv7K0ryX50YQfjwTI+QWZvfHBUGy+sUEazPrg=",
+        "pycaw-20230407.tar.gz"
+      ],
+      "wheels": {
+        "pycaw-20230407-py3-none-any.whl": [
+          "l8zO2oPQnQDIEbhKdm1rC8ohHChL2NQEdUY+D5rO7qA=",
           "py3"
         ]
       }
@@ -138136,6 +138204,14 @@
     }
   },
   "threadsnake": {
+    "0.0.0": {
+      "wheels": {
+        "threadsnake-0.0.0-py3-none-any.whl": [
+          "J4E520mECx1rWzZFf7E1Yiv07b4GZOmLpzhLB0U6fJE=",
+          "py3"
+        ]
+      }
+    },
     "0.0.1": {
       "sdist": [
         "1ny5qAqO1kfV4Gm12iDk/+EQXPvGY4X4rqRGbyXS8zM=",
@@ -138408,6 +138484,36 @@
       "wheels": {
         "threadsnake-1.0.0-py3-none-any.whl": [
           "3wPa+SXNLBnTlaOfPBo325Kfn6S6+C7tt5S8q8WQjM0=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.1": {
+      "sdist": [
+        "2YZHp9YP1TPAMCD54YbaJRWeOkTKdCw2oOM7Z18/IVE=",
+        "threadsnake-1.0.1.tar.gz"
+      ]
+    },
+    "1.0.2": {
+      "sdist": [
+        "ngPg81K81vSRNXGPrBzdMOv/dhxQzQfHTZW33rGc78Y=",
+        "threadsnake-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "threadsnake-1.0.2-py3-none-any.whl": [
+          "uHHCwmJM1GPd/WoJ0Do6vOb2QctgxI6HM91po2rygEc=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.3": {
+      "sdist": [
+        "tWPPvHddDDwhxdrD9DqaJmt069kbJklOnGocoKef8aY=",
+        "threadsnake-1.0.3.tar.gz"
+      ],
+      "wheels": {
+        "threadsnake-1.0.3-py3-none-any.whl": [
+          "oq9T7y+rYtqJy4jh8DcHq6VdCl3/Gx/blslJ7rGnu1E=",
           "py3"
         ]
       }

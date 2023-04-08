@@ -16292,6 +16292,18 @@
         ]
       }
     },
+    "1.29.109": {
+      "sdist": [
+        "Z66s8BqcVD1g+oZ8pwcgHqT6GZLLBdmCfwnkGWXY8+I=",
+        "botocore-a-la-carte-chime-sdk-voice-1.29.109.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_chime_sdk_voice-1.29.109-py3-none-any.whl": [
+          "SL62BrUB6VshZadOfytsfALeniFFskENOSebvioKlrs=",
+          "py3"
+        ]
+      }
+    },
     "1.29.42": {
       "sdist": [
         "m69XijwA+/Veil26qpRUuQwgsXVNOZQ60hGPbYmtq70=",
@@ -17094,6 +17106,18 @@
       "wheels": {
         "botocore_a_la_carte_mwaa-1.29.108-py3-none-any.whl": [
           "UZnHN0PFv3eR+X4rVlWI/NTk3LPQD5jehVjHcBhsg0E=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.109": {
+      "sdist": [
+        "AA8sLO4emWgCahn7w1xGX9rUf3SNpv+proJo6tJr17I=",
+        "botocore-a-la-carte-mwaa-1.29.109.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_mwaa-1.29.109-py3-none-any.whl": [
+          "+ePKbEpJJJpXStQ6khYZjnwEN7V20s+eP04Xlj5orAI=",
           "py3"
         ]
       }
@@ -74467,6 +74491,14 @@
           "py2.py3"
         ]
       }
+    },
+    "11.0.2.0.0.99.dev4": {
+      "wheels": {
+        "odoo11_addon_account_due_list-11.0.2.0.0.99.dev4-py2.py3-none-any.whl": [
+          "wEwvpcsKwljSaDg990Ap0dp2j7m+oTXfVNAt+A3HSrY=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "odoo11-addon-attachment-preview": {
@@ -76286,6 +76318,14 @@
       "wheels": {
         "odoo14_addon_account_banking_mandate-14.0.2.0.1.dev1-py3-none-any.whl": [
           "Cn+Fz2k9DVJia9QBk+ltAq2iXV+6SjrHecleZS9D0n4=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.2.0.1.dev10": {
+      "wheels": {
+        "odoo14_addon_account_banking_mandate-14.0.2.0.1.dev10-py3-none-any.whl": [
+          "7yulFXR7el18nzl8speO0HJVdkbRxxWvJ5sdWy4HVYQ=",
           "py3"
         ]
       }
@@ -86144,6 +86184,18 @@
       "wheels": {
         "problem_bank_scripts-0.4.6-py3-none-any.whl": [
           "riNpbHm4tziRtsr1gEwe9FEbnuCGZS+ZQLJ9MYrpSno=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.7": {
+      "sdist": [
+        "M7tdhhGgLQGTSfLwekipE+eWDWlnX17KL88r/vS2wmQ=",
+        "problem_bank_scripts-0.4.7.tar.gz"
+      ],
+      "wheels": {
+        "problem_bank_scripts-0.4.7-py3-none-any.whl": [
+          "CfnVFJezx+y3P1JZK2MTHLMggMq7I5gadWRhTG+Y28Q=",
           "py3"
         ]
       }
@@ -100717,6 +100769,32 @@
       }
     }
   },
+  "ryanlocal": {
+    "0.1.0": {
+      "sdist": [
+        "WlGwvz4XgAjNpBKRwANHAa1GA4TMHErAxO6bIFaFlOk=",
+        "ryanlocal-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "ryanlocal-0.1.0-py3-none-any.whl": [
+          "hc0VueZ8WPxfG3VwK+wFk5vQ5YToJAvV32h4HX5JQU8=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.0": {
+      "sdist": [
+        "BnJ3g+nx+gkYG+v5rQMOUw+Az3tCahJVDkg4xX7tchk=",
+        "ryanlocal-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "ryanlocal-0.2.0-py3-none-any.whl": [
+          "JaDTTrOOX6jLUUHjibRA/0QYfO2Mlss3mM1eUPvzD3k=",
+          "py3"
+        ]
+      }
+    }
+  },
   "ryzom": {
     "0.0.1": {
       "sdist": [
@@ -112643,6 +112721,32 @@
         "jKS+QGMNAFAhYZd+FrUlMWMWkUcX58/2SqfYEI7acq8=",
         "StealerLib-0.0.1.tar.gz"
       ]
+    }
+  },
+  "steamplayercharts": {
+    "0.1": {
+      "wheels": {
+        "SteamPlayerCharts-0.1-py3-none-any.whl": [
+          "VnS6Z7rNtBOORVb2p74Mf7DVdo/dA2EQdFXlQ8Qaxdc=",
+          "py3"
+        ]
+      }
+    },
+    "0.2": {
+      "wheels": {
+        "SteamPlayerCharts-0.2-py3-none-any.whl": [
+          "IA4jyd+AulIWofus30fx8zu5FIsJTRVhbqI3Te7MzAI=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.1": {
+      "wheels": {
+        "SteamPlayerCharts-0.2.1-py3-none-any.whl": [
+          "pEgPkr0+9rbdDgYOgmk14tWExo4pCA3wBk9LRAau5Aw=",
+          "py3"
+        ]
+      }
     }
   },
   "stiko": {

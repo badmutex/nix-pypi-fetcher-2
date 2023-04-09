@@ -8007,6 +8007,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.0": {
+      "sdist": [
+        "a/PS1v7wJfRhUXbpSAIgMh9+fjkWbkqhZ5CtbPax3oI=",
+        "AutoThaliX-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "AutoThaliX-0.1.0-py3-none-any.whl": [
+          "uFdza+IOq7RbfYxF7QUUznSG3plGeA3XBcYSO4y8r4U=",
+          "py3"
+        ]
+      }
     }
   },
   "awacs": {
@@ -30292,6 +30304,14 @@
         ]
       }
     },
+    "0.22.1": {
+      "wheels": {
+        "classiq-0.22.1-py3-none-any.whl": [
+          "isWCyBz24Q/21j1BHd4bDD0G8+L9j/Nn5zknGO2VXBw=",
+          "py3"
+        ]
+      }
+    },
     "0.3.0": {
       "sdist": [
         "o7a1ZO/vN0dIOh30JTA97yvnsRnzpi1C16rmCQjNoh8=",
@@ -46724,6 +46744,30 @@
       "wheels": {
         "donatellopyzza-1.5.3-py3-none-any.whl": [
           "aY9o/5ubuZ0ZpfxgU+iZ3PV8KzocCi+n24ElR/a7Z1M=",
+          "py3"
+        ]
+      }
+    },
+    "1.5.9": {
+      "sdist": [
+        "fm7BYw+9C2fEchw/BRbK6n2yECpqSYMoP0j4hYK6hPw=",
+        "donatellopyzza-1.5.9.tar.gz"
+      ],
+      "wheels": {
+        "donatellopyzza-1.5.9-py3-none-any.whl": [
+          "hUbmFPimkhJbAY4TieRb/ySfLt9Z0GEqOi9q+tVypIU=",
+          "py3"
+        ]
+      }
+    },
+    "1.6": {
+      "sdist": [
+        "khRQ9A1qS2QBtPVuQchrv74lJShLdZADJDA6SzR3BJk=",
+        "donatellopyzza-1.6.tar.gz"
+      ],
+      "wheels": {
+        "donatellopyzza-1.6-py3-none-any.whl": [
+          "292naOrPCV4nSCBkjQVrOK30lYdrq3dCfK8WhRXq2Ik=",
           "py3"
         ]
       }
@@ -127864,14 +127908,30 @@
         ]
       }
     },
-    "6.5.0rc1": {
+    "6.5.0rc2": {
       "wheels": {
-        "quarkstudio-6.5.0rc1-cp310-cp310-win_amd64.whl": [
-          "dUVorENDC7UUv/1nIZWo3P+G5mJcbxyCHg36FvHLuI4=",
+        "quarkstudio-6.5.0rc2-cp310-cp310-macosx_10_9_universal2.whl": [
+          "m8tPb6/fIcY5l1oh2zMLQ3Y/pGTHZB/VkfY4G1zVckg=",
           "cp310"
         ],
-        "quarkstudio-6.5.0rc1-cp311-cp311-win_amd64.whl": [
-          "WKdAVQPSfO4FDMvFoTsvoIephWP+OrzdN+GO65w0lFM=",
+        "quarkstudio-6.5.0rc2-cp310-cp310-manylinux1_x86_64.whl": [
+          "yED3/WniDeJRGNCfzhn/5xNq5IKTabt3lY26rtjmWJE=",
+          "cp310"
+        ],
+        "quarkstudio-6.5.0rc2-cp310-cp310-win_amd64.whl": [
+          "H/fsLzKlMal3yg+IEafn037kXdq0lI93/An/suxw57Y=",
+          "cp310"
+        ],
+        "quarkstudio-6.5.0rc2-cp311-cp311-macosx_10_9_universal2.whl": [
+          "dqpRmGHbN3bpWCmnPlzOG9Er5AcxpZHy9dJ9CjsldNs=",
+          "cp311"
+        ],
+        "quarkstudio-6.5.0rc2-cp311-cp311-manylinux1_x86_64.whl": [
+          "3JgDFiHs+sZ+JLfePg1V54S4jP+wz0wyUXQcsSYYhIY=",
+          "cp311"
+        ],
+        "quarkstudio-6.5.0rc2-cp311-cp311-win_amd64.whl": [
+          "vCvxZ+eEeaGkeKHIWIOuvuXlLuySb8pCtmJfywl08jc=",
           "cp311"
         ]
       }

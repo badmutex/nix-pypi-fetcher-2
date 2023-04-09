@@ -7989,6 +7989,26 @@
       }
     }
   },
+  "autothalix": {
+    "0.0.1": {
+      "sdist": [
+        "n/WJi7/KAZE3kBID2dNYlCNsnI8HTYiNm8qGPSeI938=",
+        "AutoThaliX-0.0.1.tar.gz"
+      ]
+    },
+    "0.0.2": {
+      "sdist": [
+        "KBXMWXtBq/UPmpdFtrL17PjelbXqgORLbLWfjWQU+qU=",
+        "AutoThaliX-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "AutoThaliX-0.0.2-py3-none-any.whl": [
+          "OntHET3X07KX+x9lGNgEcS10WLsH8FohMyzNLIJVAN0=",
+          "py3"
+        ]
+      }
+    }
+  },
   "awacs": {
     "0.3.0": {
       "sdist": [
@@ -127840,6 +127860,18 @@
         ],
         "quarkstudio-6.4.27-cp311-cp311-win_amd64.whl": [
           "eX+kTzpK01RzixQiu0M4vue0QGLwz8BzNpZFEAIO7LQ=",
+          "cp311"
+        ]
+      }
+    },
+    "6.5.0rc1": {
+      "wheels": {
+        "quarkstudio-6.5.0rc1-cp310-cp310-win_amd64.whl": [
+          "dUVorENDC7UUv/1nIZWo3P+G5mJcbxyCHg36FvHLuI4=",
+          "cp310"
+        ],
+        "quarkstudio-6.5.0rc1-cp311-cp311-win_amd64.whl": [
+          "WKdAVQPSfO4FDMvFoTsvoIephWP+OrzdN+GO65w0lFM=",
           "cp311"
         ]
       }

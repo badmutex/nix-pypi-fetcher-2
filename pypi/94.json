@@ -25216,6 +25216,18 @@
         ]
       }
     },
+    "1.79.0": {
+      "sdist": [
+        "YOXKYbjBV0q6nP2RjBnTgYRefJPrIXVXhVYUpcARg+A=",
+        "datayoga_core-1.79.0.tar.gz"
+      ],
+      "wheels": {
+        "datayoga_core-1.79.0-py3-none-any.whl": [
+          "Ts1flJxRknFaGNz6/KvGGa/vfSAqSYaBzVP7fUs0sRI=",
+          "py3"
+        ]
+      }
+    },
     "1.8.0": {
       "sdist": [
         "9YQgRTrFKsB31G/FKTVPC3RBz6WracP0YXnPqYv5lvE=",
@@ -62938,6 +62950,30 @@
       "wheels": {
         "layerx_sdk_beta-1.0.12b0-py3-none-any.whl": [
           "cWDPB8+2uSWIRf1Vv9VnZ+JjcOJtcJXdOee8lwxbvc4=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.12b1": {
+      "sdist": [
+        "IveHhGFp0Z+XEqP9D2a4mKMvKhIIXbV53r71o4rSkLs=",
+        "layerx-sdk-beta-1.0.12b1.tar.gz"
+      ],
+      "wheels": {
+        "layerx_sdk_beta-1.0.12b1-py3-none-any.whl": [
+          "gX/6Fn/7+ukwhQJk5mq4FmDFkGZO2bGROu0+PRRSwBQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.12b2": {
+      "sdist": [
+        "zuuH0XkGAARXDHzV/F4v4PyPrvwzpVDr9SofZiRIjvY=",
+        "layerx-sdk-beta-1.0.12b2.tar.gz"
+      ],
+      "wheels": {
+        "layerx_sdk_beta-1.0.12b2-py3-none-any.whl": [
+          "xaSpG1MZ+yZpxwjWdRkGjecUQkTie9WU0zVbSf3JFl8=",
           "py3"
         ]
       }
@@ -111019,6 +111055,158 @@
           "pp39"
         ]
       }
+    },
+    "0.1.1": {
+      "sdist": [
+        "+Ne5tbrd9kRLtm3RErwLS41QTufnh7melhIrjpg6Beo=",
+        "pyskani-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "pyskani-0.1.1-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "0S0KkQT1rZ37aUngMTt7whK2NPdJ2GdbGo9qz7+MOGc=",
+          "cp310"
+        ],
+        "pyskani-0.1.1-cp310-cp310-macosx_11_0_arm64.whl": [
+          "bA921AsdjXYbwUZu4t6iyk8IjrPW4Uiyp6YX7E/5TPk=",
+          "cp310"
+        ],
+        "pyskani-0.1.1-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "njIT2q2rldwHOs/pOu0n1yH9tcee+bNZsidVEQZ5iK4=",
+          "cp310"
+        ],
+        "pyskani-0.1.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "fBiY/YMxGt7xWDWKRp5i8Z6R4S0XxziMlMT08nyLiE0=",
+          "cp310"
+        ],
+        "pyskani-0.1.1-cp310-cp310-win_amd64.whl": [
+          "Z94dsKzj4BJhakZ4R6zM0vQAOnoOuHSxNK1gcDt7Etw=",
+          "cp310"
+        ],
+        "pyskani-0.1.1-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "cvkXo9d3dmzZcqngxUIOdTEE1qr1vr91ffHxybc8CtU=",
+          "cp311"
+        ],
+        "pyskani-0.1.1-cp311-cp311-macosx_11_0_arm64.whl": [
+          "/kcf6Kc7VaugqBRASrGvV3v/WaPGYrTLApnXp2sV2aM=",
+          "cp311"
+        ],
+        "pyskani-0.1.1-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "zexVz/uSo2iIaSf460VMOPmJdND14Qlhz0r2rM50sOI=",
+          "cp311"
+        ],
+        "pyskani-0.1.1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "eLB9n3uRDG8PWHcUYuBOi0+rle/KLlekqhDU4paxNSk=",
+          "cp311"
+        ],
+        "pyskani-0.1.1-cp311-cp311-win_amd64.whl": [
+          "cKAlLjST11O9nyWj+a42oZkTzRJOOs32yhykUpMocdA=",
+          "cp311"
+        ],
+        "pyskani-0.1.1-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "4x00eFHheN9Z9NCs8yy2qxJB6xM5mbaEZ+X763CacrI=",
+          "cp37"
+        ],
+        "pyskani-0.1.1-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "pPOCCl5ozJLGQRympG70RDqZpo5FzHOyqP1oysMDYK4=",
+          "cp37"
+        ],
+        "pyskani-0.1.1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "FA5M7HL7ZJWxDWgOTqzu8coGuubcj7Xq0v9waQAazYw=",
+          "cp37"
+        ],
+        "pyskani-0.1.1-cp37-cp37m-win_amd64.whl": [
+          "pOBPfn4l66ToO5XvgcWWsvLKvm2WHOy7jPrB00q+avM=",
+          "cp37"
+        ],
+        "pyskani-0.1.1-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "2+0NbGz2T0cIPGR3ZjLVIZMA/72PovfealVN8zWQbEE=",
+          "cp38"
+        ],
+        "pyskani-0.1.1-cp38-cp38-macosx_11_0_arm64.whl": [
+          "0SgTcNT9xUzGSpJIfumLfzlUbZb1Dr/QGxsq3Z/rVvM=",
+          "cp38"
+        ],
+        "pyskani-0.1.1-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "TXu6BQi3Sf6n87szpMB81zi16qn2UHJYhjlkC8OX5Lc=",
+          "cp38"
+        ],
+        "pyskani-0.1.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "zypJXuv9QdUPEE7pUnR4tonnVhem6Qe3aJwr4x7FWSA=",
+          "cp38"
+        ],
+        "pyskani-0.1.1-cp38-cp38-win_amd64.whl": [
+          "jTeVUPCZ45FrrtHNK6bcMjKwESJ2L14MYljvXpJcWJM=",
+          "cp38"
+        ],
+        "pyskani-0.1.1-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "LFpoDQUKWf2Z7xpHG71gyutWoOILutgYxOZtYQkzl4Q=",
+          "cp39"
+        ],
+        "pyskani-0.1.1-cp39-cp39-macosx_11_0_arm64.whl": [
+          "Zjqoue91oECDJ8gmHQFS9tcedOxfbjZj0ednLOGVdHI=",
+          "cp39"
+        ],
+        "pyskani-0.1.1-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "0AB645tgTcpbZv8Cgu7CtRglay4r42TOjSbRw0hSkms=",
+          "cp39"
+        ],
+        "pyskani-0.1.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "/1FcIQ8DMmlTBd3f8vtm9PNK/c8TWYOoHpJznNOKFjY=",
+          "cp39"
+        ],
+        "pyskani-0.1.1-cp39-cp39-win_amd64.whl": [
+          "SnH5JTlv5ELTOUwoPvzTjq32S7pSa/pSqPQE1Yqe3fo=",
+          "cp39"
+        ],
+        "pyskani-0.1.1-pp37-pypy37_pp73-macosx_10_9_x86_64.whl": [
+          "2ARhepbBUDneJE2u3pHq8Odp7cqHiD8LUborv71r3xc=",
+          "pp37"
+        ],
+        "pyskani-0.1.1-pp37-pypy37_pp73-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "ZPDibhzo6JqIqX7je9IdOuIgbagYgHQ4WYSe3V6em+w=",
+          "pp37"
+        ],
+        "pyskani-0.1.1-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "AE4rUoK8TJen53nN2icACfXH6zQvTwbxDWl5hkEGMmY=",
+          "pp37"
+        ],
+        "pyskani-0.1.1-pp37-pypy37_pp73-win_amd64.whl": [
+          "WTgUUGkTgdkf34s3ZtYFuXLWANLmLflDI1E+px0Ypt4=",
+          "pp37"
+        ],
+        "pyskani-0.1.1-pp38-pypy38_pp73-macosx_10_9_x86_64.whl": [
+          "HBYoNgTKQZcjlXL4Hew9bVuPWwIyfFr0sWo8fglON0Y=",
+          "pp38"
+        ],
+        "pyskani-0.1.1-pp38-pypy38_pp73-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "MRiYoqkqCUZ5M3A2jYWpxcP7Py2KDp9AnwI0ghoZFP4=",
+          "pp38"
+        ],
+        "pyskani-0.1.1-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "tGQn9Cd/v+WkJrRNYRvRdHYwCVGpbQBNqF7qwLj+EYg=",
+          "pp38"
+        ],
+        "pyskani-0.1.1-pp38-pypy38_pp73-win_amd64.whl": [
+          "957rIN7kv8EqZrCWE65llIyRLcfDZvekaVTOWSFcU9s=",
+          "pp38"
+        ],
+        "pyskani-0.1.1-pp39-pypy39_pp73-macosx_10_9_x86_64.whl": [
+          "2LCZPR398cglrTNdZXlNzjLEzFk/kuccyuTxSZZXi7Q=",
+          "pp39"
+        ],
+        "pyskani-0.1.1-pp39-pypy39_pp73-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "BBpAaHHnt4UoIoGZnVEH5hxRRy7fV1uem6ynM68jNRQ=",
+          "pp39"
+        ],
+        "pyskani-0.1.1-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "81mIJ/ozVII2ZmA41YheH4pg8BRtzrWWw7zKHoZ1wCg=",
+          "pp39"
+        ],
+        "pyskani-0.1.1-pp39-pypy39_pp73-win_amd64.whl": [
+          "ui1Gb+euFMHrb6FEsNNXdGtgVErlbO3Ly03OfTGx5Qw=",
+          "pp39"
+        ]
+      }
     }
   },
   "pyske": {
@@ -157802,6 +157990,16 @@
       "wheels": {
         "zipfile36-0.1.3-py3-none-any.whl": [
           "9+SK32J/dc10zbUOfYUGI7Rl9M9d6ROAkZbo86pX3Es=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "zita67": {
+    "0.0.1": {
+      "wheels": {
+        "ZiTa67-0.0.1-py3-none-any.whl": [
+          "K6lmXkHp/FGrH6FJHH101rS5ooSWDZoYNAG4tDmFVqg=",
           "py3"
         ]
       }

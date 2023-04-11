@@ -3442,6 +3442,18 @@
         ]
       }
     },
+    "3.3.19": {
+      "sdist": [
+        "0Ow+GYr+NhluCIwdM1aawI4I92vl/CCWTgUkHeLWbqY=",
+        "aliyun-python-sdk-slb-3.3.19.tar.gz"
+      ],
+      "wheels": {
+        "aliyun_python_sdk_slb-3.3.19-py2.py3-none-any.whl": [
+          "GodRYDOg0hXl9X7HxEKJfld9bX/SrF6hQlvgUcko7Y0=",
+          "py2.py3"
+        ]
+      }
+    },
     "3.3.2": {
       "sdist": [
         "VDTQkL3KZReH8wDRQNwEcE5r/8rp7YxywBZYiWmphaA=",
@@ -53454,10 +53466,10 @@
     }
   },
   "hxq": {
-    "1.0.5": {
+    "1.0.0": {
       "sdist": [
-        "SZsTkXXN9tBbla5pmC7UIKzf5CyyVXYUEi+haW/D3zs=",
-        "hxq-1.0.5.tar.gz"
+        "2V2lNC/Z7bAVeAkbqmc+e2u070zNZidF7V0CFOUpezU=",
+        "hxq-1.0.0.tar.gz"
       ]
     }
   },
@@ -89077,6 +89089,14 @@
           "py3"
         ]
       }
+    },
+    "14.0.2.1.4.dev1": {
+      "wheels": {
+        "odoo14_addon_server_environment-14.0.2.1.4.dev1-py3-none-any.whl": [
+          "8CGx/CyGDtR/rheUuQw4t+0n8Y0IRLu6tMQsE2O4nz0=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo14-addon-shopinvader-payment-condition": {
@@ -102339,6 +102359,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.7": {
+      "sdist": [
+        "4fcN9oRPpzWojMCDmpDPSBghxCh658IMTU/4z3FskUc=",
+        "pygameHat-1.0.7.tar.gz"
+      ],
+      "wheels": {
+        "pygameHat-1.0.7-py3-none-any.whl": [
+          "kCw4GmoDY6pO3WbHf88EBvEd0tLlrotRz4WDK53ByfQ=",
+          "py3"
+        ]
+      }
     }
   },
   "pygeom": {
@@ -107308,6 +107340,18 @@
       "wheels": {
         "pytest_embedded_serial_esp-1.2.4-py3-none-any.whl": [
           "55a+tXWi5u62isqMpKXYxGD8CtBmKKRl1pKt6ceGzbQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.2.5": {
+      "sdist": [
+        "IpHhnTwi8JpY2WqZp/pTX2drrdmFrmeqdefsZ3gU5sA=",
+        "pytest-embedded-serial-esp-1.2.5.tar.gz"
+      ],
+      "wheels": {
+        "pytest_embedded_serial_esp-1.2.5-py3-none-any.whl": [
+          "cq2uXyQSWV6QhE427ajirj+NujIU+bxNjR+ex/cVnUE=",
           "py3"
         ]
       }
@@ -157396,6 +157440,66 @@
       "wheels": {
         "winorwin-0.0.1-py3-none-any.whl": [
           "y35wzWRHRpyVJVx5UyG/QLyPR4PNvS98FhTMIppYWNI=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "W+PgTASk3rh1xa3B0vGiPr5HmvwOdkDW8/t5NPh+F3w=",
+        "winorwin-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "winorwin-0.0.2-py3-none-any.whl": [
+          "YqTD0wRqvVpCcWb7RXMYLEkpJhUVEVjh8W+wNLeeKng=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "c6a+VA1uiphn6Fiq5M3OHGCtNr8lFQw25C6eK0vopOE=",
+        "winorwin-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "winorwin-0.0.3-py3-none-any.whl": [
+          "x8yTsj1oORxW7BWK0eYML3HwsSqX2+Ix3VbxqO+qpXE=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4": {
+      "sdist": [
+        "ns7gjZNVcWVAOCmXdhPM3psof8IO0nRRAA/9PFtjFGQ=",
+        "winorwin-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "winorwin-0.0.4-py3-none-any.whl": [
+          "oESSV3yOdsScvhx8W2YFE1rN/acWn0uZxDiKreHpo8s=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.5": {
+      "sdist": [
+        "qVkEDhkZ3qt9EqHsq9aUCDjdu5WXg7oNHEu+A02at6g=",
+        "winorwin-0.0.5.tar.gz"
+      ],
+      "wheels": {
+        "winorwin-0.0.5-py3-none-any.whl": [
+          "xOLHxGuM8grPCb6V+utzecInDnLc6dNEG07eSH5Fcuw=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.6": {
+      "sdist": [
+        "fnmVpYvpILZ5wCCj5sqgMpWpThWkCw9FMIC76mgwVUE=",
+        "winorwin-0.0.6.tar.gz"
+      ],
+      "wheels": {
+        "winorwin-0.0.6-py3-none-any.whl": [
+          "zz7sVneg8eDVgX1jfEhp2KgOP2MPbZVAqGgfT5p8uN4=",
           "py3"
         ]
       }

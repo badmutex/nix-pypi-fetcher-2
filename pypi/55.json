@@ -61484,14 +61484,38 @@
     }
   },
   "ifd-python": {
-    "4.0": {
+    "5.0": {
       "sdist": [
-        "Fj1rrt/m00Eg7/PR356sVerWaa6mMvZ8j57H0jnzQI8=",
-        "ifd_python-4.0.tar.gz"
+        "MglFmkpNKxS22Ywl4DNlP6pw+cExNC2cNdoayUI24tA=",
+        "ifd_python-5.0.tar.gz"
       ],
       "wheels": {
-        "ifd_python-4.0-py3-none-any.whl": [
-          "89wmiFZ63X95tJMSsb57udFiAD8fqt3z1e7xyFuT5R0=",
+        "ifd_python-5.0-py3-none-any.whl": [
+          "reRK/hXdnRLFseQ7W63CjPYdv6QfnsMixPHcSJuoT+Q=",
+          "py3"
+        ]
+      }
+    },
+    "6.0": {
+      "sdist": [
+        "hSlrhVy1WNGQ3qNYH4y0ZZyfbEkEdI4NNI2DZuoqZZE=",
+        "ifd_python-6.0.tar.gz"
+      ],
+      "wheels": {
+        "ifd_python-6.0-py3-none-any.whl": [
+          "FTvl33dMQjMrRdmg5dvZUQzaE8JoXzzPHJR5sQg46Vc=",
+          "py3"
+        ]
+      }
+    },
+    "7.0": {
+      "sdist": [
+        "EOaFijjGdMPStwXb+2LDVT9PrmbuEj+6h6XG46QW7GY=",
+        "ifd_python-7.0.tar.gz"
+      ],
+      "wheels": {
+        "ifd_python-7.0-py3-none-any.whl": [
+          "y0JEQ3M9LB9zpD3C77i1mnqCVEHyk9gojMdMXyX1ynE=",
           "py3"
         ]
       }
@@ -68412,6 +68436,14 @@
     }
   },
   "kaiju-tasks": {
+    "2.0.10": {
+      "wheels": {
+        "kaiju_tasks-2.0.10-py3-none-any.whl": [
+          "8clARgQ7LLlNeYl+1phh0MVdD1anLNpK3K6f4BhB/rg=",
+          "py3"
+        ]
+      }
+    },
     "2.0.6": {
       "wheels": {
         "kaiju_tasks-2.0.6-py3-none-any.whl": [
@@ -87371,6 +87403,14 @@
           "py3"
         ]
       }
+    },
+    "16.0.1.0.1.2": {
+      "wheels": {
+        "odoo_addon_base_location-16.0.1.0.1.2-py3-none-any.whl": [
+          "iOGGKE6b6UINagpK2p73OE+1belmdx/eBVEu9bwpNG8=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo-addon-base-revision": {
@@ -96226,6 +96266,18 @@
       "wheels": {
         "percy_appium_app-1.1.0-py3-none-any.whl": [
           "H1c3fFkNV8FzjKBZhdJZy9rH2cbTPA75UBQkIkOsDDE=",
+          "py3"
+        ]
+      }
+    },
+    "1.2.0": {
+      "sdist": [
+        "kYxUk/DVl6Ld8dyOD+j0rJ9p+PM4v/V0pX7+o87Xw/k=",
+        "percy-appium-app-1.2.0.tar.gz"
+      ],
+      "wheels": {
+        "percy_appium_app-1.2.0-py3-none-any.whl": [
+          "9ofiXOOa8xiiEodzqYvi8Hach936vafbIhcMeTKVNQg=",
           "py3"
         ]
       }
@@ -128286,6 +128338,18 @@
       "wheels": {
         "sentinel_satellites-0.0.12-py3-none-any.whl": [
           "TOSPdM4qDudE+gJF46wpwvZJ9CpJpuf+MJ1xtIzTF6Q=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.13": {
+      "sdist": [
+        "/G2cMTWyvaLXaX0l9DwSR8G0w9mfURvilLOQ9C7AWDw=",
+        "sentinel_satellites-0.0.13.tar.gz"
+      ],
+      "wheels": {
+        "sentinel_satellites-0.0.13-py3-none-any.whl": [
+          "2FFLbH0NYUbSp9eRCUwEjpzmxxp3WaxryTX5n5eBMEQ=",
           "py3"
         ]
       }

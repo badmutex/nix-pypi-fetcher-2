@@ -21410,6 +21410,18 @@
         ]
       }
     },
+    "0.0.10": {
+      "sdist": [
+        "e/nhTMO5f8Z53EcvykvZQmOUgKGpBsI+XKbp+qrgGgQ=",
+        "ccbuilder-0.0.10.tar.gz"
+      ],
+      "wheels": {
+        "ccbuilder-0.0.10-py3-none-any.whl": [
+          "Pqw4GwBW5LGO4KL5Do8EXHFA+0HcBcwN6KziAxgBSak=",
+          "py3"
+        ]
+      }
+    },
     "0.0.2": {
       "sdist": [
         "BEb7nnWoA9bBjvDRx5JZJOL0wajEg7v+9gqglcr9uqQ=",
@@ -38506,6 +38518,94 @@
         ],
         "cornflakes-3.2.3-cp39-cp39-win_amd64.whl": [
           "TA/IhJSBbdObFPKVROfINGuz9HC/bt3/PgkGI9ILgGM=",
+          "cp39"
+        ]
+      }
+    },
+    "3.2.4": {
+      "sdist": [
+        "jrQC/sgc4chkRGbyJc67P8GALGmfFQaJKpy2AU3uHS4=",
+        "cornflakes-3.2.4.tar.gz"
+      ],
+      "wheels": {
+        "cornflakes-3.2.4-cp310-cp310-macosx_10_15_x86_64.whl": [
+          "jFzkCoyFrkdG5GDkvakXNmp6fH3Vkl82XqCaoTAlAbQ=",
+          "cp310"
+        ],
+        "cornflakes-3.2.4-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "PmkprucRiZBOysJG1bm97bsOvPI3HlgK2ofgXTx3sr4=",
+          "cp310"
+        ],
+        "cornflakes-3.2.4-cp310-cp310-manylinux_2_28_x86_64.manylinux_2_24_x86_64.whl": [
+          "rwjqvsFv0BwE5pVGpZFYN3bWtGatU9SaPXSgcpBih58=",
+          "cp310"
+        ],
+        "cornflakes-3.2.4-cp310-cp310-manylinux_2_35_x86_64.whl": [
+          "X+kvnaq/YvgVRP1C2llLgsZXderm8zT+QgF09CTW+E4=",
+          "cp310"
+        ],
+        "cornflakes-3.2.4-cp310-cp310-win_amd64.whl": [
+          "RyiedbtHBDao52IgPaX5quHuv5C++v+yHvNUBO5dPBI=",
+          "cp310"
+        ],
+        "cornflakes-3.2.4-cp311-cp311-macosx_10_15_x86_64.whl": [
+          "dH7SRMcodnQ6k/lkdtgeUu2ajgR6/LOaIGch+GKa48E=",
+          "cp311"
+        ],
+        "cornflakes-3.2.4-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "4hAWeHDGfTC8QVpWAsYaaAcNx4wtDbk3UjsWxHFDzfE=",
+          "cp311"
+        ],
+        "cornflakes-3.2.4-cp311-cp311-manylinux_2_28_x86_64.manylinux_2_24_x86_64.whl": [
+          "Rh3W+wyRBDlrEBT+eC/gpY/wWhrnr2S1J5LDtMpaTEU=",
+          "cp311"
+        ],
+        "cornflakes-3.2.4-cp311-cp311-manylinux_2_35_x86_64.whl": [
+          "0tstZFqdy/7YpltemfIcMusNfBwHcu3r8RGGsyjOzDs=",
+          "cp311"
+        ],
+        "cornflakes-3.2.4-cp311-cp311-win_amd64.whl": [
+          "0ECup18BKiwN8DB/rCdMzEssPbSl8r+NkE0K8RgF69w=",
+          "cp311"
+        ],
+        "cornflakes-3.2.4-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "w7xKqkZofdr72g9Tm7JBsx6g1I+MbMZLJ9HCac0UKdw=",
+          "cp38"
+        ],
+        "cornflakes-3.2.4-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Np4gB6k3H/xcyBKiBRvZiTqFhLf9BiN3TFdESIz9n2c=",
+          "cp38"
+        ],
+        "cornflakes-3.2.4-cp38-cp38-manylinux_2_28_x86_64.manylinux_2_24_x86_64.whl": [
+          "NF17Q/1EuYLy/2Wd73cgc2YjQCCMJ+MexiqQ3iAjlsQ=",
+          "cp38"
+        ],
+        "cornflakes-3.2.4-cp38-cp38-manylinux_2_35_x86_64.whl": [
+          "8QUZzZYAZeoQcU/omFAZJu+W5lEjNSAmubTQtaknYdA=",
+          "cp38"
+        ],
+        "cornflakes-3.2.4-cp38-cp38-win_amd64.whl": [
+          "UvuTtQLu53kW4ffmWXv49S+Hq+K+WfwwKfNvfPrEKvA=",
+          "cp38"
+        ],
+        "cornflakes-3.2.4-cp39-cp39-macosx_10_15_x86_64.whl": [
+          "nfAF6zrDiV1y5pa69pbF3XSkwKqLeTriWNd4t4I2xfk=",
+          "cp39"
+        ],
+        "cornflakes-3.2.4-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "yTDGLHMHRP1MMvpxPWHIPh6VogXYIG2xK3alcVxV6vc=",
+          "cp39"
+        ],
+        "cornflakes-3.2.4-cp39-cp39-manylinux_2_28_x86_64.manylinux_2_24_x86_64.whl": [
+          "fYAredV2tkI5sq2CbzbO9INX2oAw2wWEuA+17Bp0rts=",
+          "cp39"
+        ],
+        "cornflakes-3.2.4-cp39-cp39-manylinux_2_35_x86_64.whl": [
+          "3jfSQlm2YdnaYATZZvGNWS88aSZUg/xVrIe26t/JJ7s=",
+          "cp39"
+        ],
+        "cornflakes-3.2.4-cp39-cp39-win_amd64.whl": [
+          "KZe6H1WaLFsMRev4ccFqNug2yvMN8VImfNM1rjm8TgI=",
           "cp39"
         ]
       }
@@ -140627,6 +140727,20 @@
         "Xe1F0SWGPhJDl0Zy2FVGmAopWd09Kccf7AxTJ71BCzw=",
         "tap-yotpo-2.0.1.tar.gz"
       ]
+    }
+  },
+  "tarjimonlib": {
+    "0.0.1": {
+      "sdist": [
+        "Q4kTz3vMK3/AsfMm6rGY0pWjci7y/JWTyyZJnyfJ5Ds=",
+        "tarjimonlib-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "tarjimonlib-0.0.1-py3-none-any.whl": [
+          "RqaV+uH8MYepNYQ0cAsMzoTGwfdrCshrUa1EwzmLC/0=",
+          "py3"
+        ]
+      }
     }
   },
   "tbox": {

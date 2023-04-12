@@ -6251,6 +6251,18 @@
         "aEU3Bsj7eXrVWefPyDnrl1+LjA4BTCMqfNZMD/T0kS0=",
         "AttentionMOI-0.1.tar.gz"
       ]
+    },
+    "0.1.1": {
+      "sdist": [
+        "F5grsn0ft7jCXrL8xIbwnsE4zs4qpFBUpCJ6AZX5hjs=",
+        "AttentionMOI-0.1.1.tar.gz"
+      ]
+    },
+    "0.1.2": {
+      "sdist": [
+        "O5BgXKsLTUUtM4rde7IXhxNJRjmrYgWbCgnqjsRnOpE=",
+        "AttentionMOI-0.1.2.tar.gz"
+      ]
     }
   },
   "audiofile": {
@@ -11370,6 +11382,14 @@
         ]
       }
     },
+    "1.50.0": {
+      "wheels": {
+        "azureml_accel_models-1.50.0-py3-none-any.whl": [
+          "9kNOW1y1Eb/z/8CvZHM+xwE3U7bYuDSWanhjICEgMsE=",
+          "py3"
+        ]
+      }
+    },
     "1.6.0": {
       "wheels": {
         "azureml_accel_models-1.6.0-py3-none-any.whl": [
@@ -11640,6 +11660,14 @@
       "wheels": {
         "azureml_synapse-1.49.0-py3-none-any.whl": [
           "1utqgO+usPJoYWfXYtoBr8wbFFwaXFMclfpgdq9rXro=",
+          "py3"
+        ]
+      }
+    },
+    "1.50.0": {
+      "wheels": {
+        "azureml_synapse-1.50.0-py3-none-any.whl": [
+          "3REmELskxSpQSWByq5LZD3krRg9I1iU5i5p5HQnK5QY=",
           "py3"
         ]
       }
@@ -35656,6 +35684,12 @@
         "dol-0.1.130.tar.gz"
       ]
     },
+    "0.1.131": {
+      "sdist": [
+        "ggm6hlGYw+3OpeRrvm6y13UdLDpQAxsOWr/PLZDhMNQ=",
+        "dol-0.1.131.tar.gz"
+      ]
+    },
     "0.1.14": {
       "sdist": [
         "eTNdQv4pvYJYvAYp78nAgHsUDpV+kFdE4dxjXNIbN18=",
@@ -56239,6 +56273,18 @@
           "py3"
         ]
       }
+    },
+    "0.4.8": {
+      "sdist": [
+        "xAOximNRC+WKclTf/wpw44qCojugAwjIfOBO7U8/huc=",
+        "kinms_fitter-0.4.8.tar.gz"
+      ],
+      "wheels": {
+        "kinms_fitter-0.4.8-py3-none-any.whl": [
+          "3P/SRz5wjTf/mA2TzxNhRYOp3B9LxhkhtOv++HYsWVk=",
+          "py3"
+        ]
+      }
     }
   },
   "kira-gaoshu-kuihuabaodian-2017": {
@@ -76048,6 +76094,14 @@
         ]
       }
     },
+    "12.0.1.0.0.99.dev24": {
+      "wheels": {
+        "odoo12_addon_project_milestone-12.0.1.0.0.99.dev24-py3-none-any.whl": [
+          "a/Um7fdOLRbfGxfa2lNfVYGwqv/IeW2liGwCNLgL9xI=",
+          "py3"
+        ]
+      }
+    },
     "12.0.1.0.0.99.dev4": {
       "wheels": {
         "odoo12_addon_project_milestone-12.0.1.0.0.99.dev4-py3-none-any.whl": [
@@ -79958,6 +80012,18 @@
       "wheels": {
         "orchestrator_core-1.0.1rc2-py3-none-any.whl": [
           "NHKZ0xt7FdrfsN4jZ+Sv1CAqR4z4/Ph6O6rCVppfZMc=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.1rc3": {
+      "sdist": [
+        "rQCK5flpT2RVdnYNGsFbJqD/G25gFoX8MYOFOa5zpfs=",
+        "orchestrator-core-1.0.1rc3.tar.gz"
+      ],
+      "wheels": {
+        "orchestrator_core-1.0.1rc3-py3-none-any.whl": [
+          "dKaACQN3rDfmMIA9OCa0b51VGtKCZKz4OVjB9e7pvSA=",
           "py3"
         ]
       }
@@ -96542,6 +96608,20 @@
       "wheels": {
         "q2_itsxpress-1.8.0-py3-none-any.whl": [
           "1IAMExLv0otCQBmnsUtm++KjsjUBoaTwW0pkmx4Fnkc=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "qcompute-qapp": {
+    "0.0.1": {
+      "sdist": [
+        "bCvRW7fGc3z5fuso8FeHUDzqHsaWIK1FUrnbg9ifCX8=",
+        "qcompute-qapp-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "qcompute_qapp-0.0.1-py3-none-any.whl": [
+          "SfBNw4JernMtpKehgDm+2iI7k7pZqYK/Bw6/Niw8mro=",
           "py3"
         ]
       }
@@ -126352,6 +126432,14 @@
         ]
       }
     },
+    "2.13.0.dev2023041208": {
+      "wheels": {
+        "tf_estimator_nightly-2.13.0.dev2023041208-py2.py3-none-any.whl": [
+          "S5zG30F6wIV7jk4CX39pECkPmCUE5Xonn7UFTyoZKvU=",
+          "py2.py3"
+        ]
+      }
+    },
     "2.3.0.dev2020031201": {
       "wheels": {
         "tf_estimator_nightly-2.3.0.dev2020031201-py2.py3-none-any.whl": [
@@ -135014,6 +135102,18 @@
       "wheels": {
         "tickit-0.2.0-py3-none-any.whl": [
           "DlOStoYa47dqTlyeuSn4iLf2R6O7fCat3RBCUsvFWq4=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.1": {
+      "sdist": [
+        "xCSbOC3hmn4IMOUO/NgvT2SGtLHbEiI0zZ8FnmNNgt4=",
+        "tickit-0.2.1.tar.gz"
+      ],
+      "wheels": {
+        "tickit-0.2.1-py3-none-any.whl": [
+          "OypQJysvBeacOuFaPnusY226OTN5XlNv16eTNr0mLrQ=",
           "py3"
         ]
       }
@@ -148386,6 +148486,30 @@
       "wheels": {
         "ytdl_sub-2023.4.1.post1-py3-none-any.whl": [
           "dRTa3QXwxJ0DyAduaFHVvZx7VFTfeOMHurrc2CnZjdU=",
+          "py3"
+        ]
+      }
+    },
+    "2023.4.12": {
+      "sdist": [
+        "6mdMCUmn5iIabxMIPgUOT+0dgvwdJY2ft1MnZCiBjt8=",
+        "ytdl-sub-2023.4.12.tar.gz"
+      ],
+      "wheels": {
+        "ytdl_sub-2023.4.12-py3-none-any.whl": [
+          "oSIhaAh4bVpwVJCyRwmE4YdlCzAWadR9I8L3GLxkAyU=",
+          "py3"
+        ]
+      }
+    },
+    "2023.4.12.post1": {
+      "sdist": [
+        "QGYIt3LWfoMNaFMXovczo2wrD7V5Kfbw80dwAF3HQzQ=",
+        "ytdl-sub-2023.4.12.post1.tar.gz"
+      ],
+      "wheels": {
+        "ytdl_sub-2023.4.12.post1-py3-none-any.whl": [
+          "lYnd+35fe2JOtLgnnCTsevUgaTIByDAdGouSgJo3Nu8=",
           "py3"
         ]
       }

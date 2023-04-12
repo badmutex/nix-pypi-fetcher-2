@@ -6249,6 +6249,30 @@
           "cp39"
         ]
       }
+    },
+    "2.1.62b1": {
+      "wheels": {
+        "anki-2.1.62b1-cp39-abi3-macosx_10_13_x86_64.whl": [
+          "EMtG9TvH8rtl8Xn5sI73heRxMVr/yXnDbq0vutScUTQ=",
+          "cp39"
+        ],
+        "anki-2.1.62b1-cp39-abi3-macosx_11_0_arm64.whl": [
+          "0sCViErBnT1Cc9goI8brWnt7utm9M0Dls7hHqHl59PM=",
+          "cp39"
+        ],
+        "anki-2.1.62b1-cp39-abi3-manylinux_2_28_x86_64.whl": [
+          "vrWtbKlTLkwPHHJ37e3tbFD+UGuKCfg+REKJ/PPgMH8=",
+          "cp39"
+        ],
+        "anki-2.1.62b1-cp39-abi3-manylinux_2_31_aarch64.whl": [
+          "9xBYG+Eko5qtDTsXs4ECtELflgfAGOeYVwu0BassoBI=",
+          "cp39"
+        ],
+        "anki-2.1.62b1-cp39-abi3-win_amd64.whl": [
+          "RFmiG7gjKnZy4YeeCiwQwXjWt9bM8KNpNvUI40bkXHE=",
+          "cp39"
+        ]
+      }
     }
   },
   "another-statistic-distributions": {
@@ -8054,6 +8078,18 @@
       "wheels": {
         "ansible_lint-6.14.4-py3-none-any.whl": [
           "iQNY4UECgAQld39T+ghrbu/uWMIxc1PryK8uxBwBnx0=",
+          "py3"
+        ]
+      }
+    },
+    "6.14.5": {
+      "sdist": [
+        "hAUvYXooriKPEz5uMnhMivn4fs3JXkncNprRLSradYM=",
+        "ansible-lint-6.14.5.tar.gz"
+      ],
+      "wheels": {
+        "ansible_lint-6.14.5-py3-none-any.whl": [
+          "t5GgdTUYpcEdwJ/HRM/l9A7pUoLk8u6gXbM1dUnbrlY=",
           "py3"
         ]
       }
@@ -38376,6 +38412,18 @@
         ]
       }
     },
+    "0.70.11": {
+      "sdist": [
+        "1z8ypJcqYJ/SekbI4+UnY/BP23zGxgMiUS893F9VZWk=",
+        "DynamicForms-0.70.11.tar.gz"
+      ],
+      "wheels": {
+        "DynamicForms-0.70.11-py3-none-any.whl": [
+          "1MrFG5IAGV+c4bsRo8fTjhgmKC16Z3qx8J9a6C7SMd0=",
+          "py3"
+        ]
+      }
+    },
     "0.70.2": {
       "sdist": [
         "VstAio+AZ5jBVbJtUE++l14tqSBeWILRxwsaVa4faac=",
@@ -42650,6 +42698,18 @@
       "wheels": {
         "etna-1.9.0-py3-none-any.whl": [
           "0SLrzcq2AdDjuCNeWyS2jPhTDUbAMC4g3+IOxi11F/8=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.0": {
+      "sdist": [
+        "e0mKJwyi5BFGn95di6jKPjfRiGfIgYbbqr1XW9gmt8I=",
+        "etna-2.0.0.tar.gz"
+      ],
+      "wheels": {
+        "etna-2.0.0-py3-none-any.whl": [
+          "cS+y+fZWCCZceGJ9OBrA9VxOsj6YTVv88MBGrDBPm0Q=",
           "py3"
         ]
       }
@@ -61986,6 +62046,18 @@
       "wheels": {
         "gdsfactory-6.81.0-py3-none-any.whl": [
           "b6iJU37+M6+Y2MWjJgMn7iLCfVTPiQ+EdGvIaeCgxgY=",
+          "py3"
+        ]
+      }
+    },
+    "6.81.1": {
+      "sdist": [
+        "y5YHJ/+ZcsV9wvPSeRwvvtCV+JX/A3wDu1QPU1Q4YYo=",
+        "gdsfactory-6.81.1.tar.gz"
+      ],
+      "wheels": {
+        "gdsfactory-6.81.1-py3-none-any.whl": [
+          "1gYPUww0lfudCZrb1Xsb6IU3IO1AC26DB9AYXIq4A5M=",
           "py3"
         ]
       }
@@ -100180,6 +100252,42 @@
         ]
       }
     },
+    "0.0.52": {
+      "sdist": [
+        "t6aiegiHX/US6UKZTZBvUIqrom7e9aTHw6FvfI5uUzI=",
+        "p-template-crawler-0.0.52.tar.gz"
+      ],
+      "wheels": {
+        "p_template_crawler-0.0.52-py3-none-any.whl": [
+          "oIbu8ElGtmI0Sz+ChDLwBd9LiaM323jep0U1SEGuE9o=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.53": {
+      "sdist": [
+        "EiMisuLqYyzLNArdaKPr7N3lXR5vvSoJt8vmOfUwehA=",
+        "p-template-crawler-0.0.53.tar.gz"
+      ],
+      "wheels": {
+        "p_template_crawler-0.0.53-py3-none-any.whl": [
+          "UwhI3i5vjDOGl5DuoZbbpvzSg7i8W7CFmyU47+Md5Kk=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.54": {
+      "sdist": [
+        "RQz7lpx3KV2nwhxAt7iKUHWVkKRiTK+wNRxrAVol5yA=",
+        "p-template-crawler-0.0.54.tar.gz"
+      ],
+      "wheels": {
+        "p_template_crawler-0.0.54-py3-none-any.whl": [
+          "Q7YqALDuqr3kUuL3+9PKPkQJMhHrO0oK9TNZvVWb0Qc=",
+          "py3"
+        ]
+      }
+    },
     "0.0.6": {
       "sdist": [
         "FYQfoaAvYimwtO9mD8aeA7kLhrHrM22f4wweMhkTj0s=",
@@ -101674,6 +101782,18 @@
       "wheels": {
         "pelican_search-1.0.2-py3-none-any.whl": [
           "/zm6UsVzGmC1+XPljYtLmDRGxZEj9Fxb+gQAn/iAUXI=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.0": {
+      "sdist": [
+        "m9+zemlAQzXGtRD8T3M0HJ8UDj5zIN04aNTwRYEqjRg=",
+        "pelican_search-1.1.0.tar.gz"
+      ],
+      "wheels": {
+        "pelican_search-1.1.0-py3-none-any.whl": [
+          "lDAyNyw2O/Zw1neyFi8y8bUwekiB76OnQViXsNfm8Dk=",
           "py3"
         ]
       }
@@ -111168,6 +111288,54 @@
       "sdist": [
         "8caJfLqqAb7wtzO+faXyPF9z5lC/khlcevjOUg39/f4=",
         "pyaver-0.0.16.tar.gz"
+      ]
+    },
+    "0.0.17": {
+      "sdist": [
+        "AGcmjidt2vyAdlHDiOplH0IzX/lXV+huLJ2szpjZiEI=",
+        "pyaver-0.0.17.tar.gz"
+      ]
+    },
+    "0.0.20": {
+      "sdist": [
+        "u2jw66DSVZC3tviqkQByHXiP/EmEatXZe83kQ3UjXrw=",
+        "pyaver-0.0.20.tar.gz"
+      ]
+    },
+    "0.0.21": {
+      "sdist": [
+        "bx0NfdT78bd5UTO/GJV1H4QJlyNdKBY++g/LlMcIL90=",
+        "pyaver-0.0.21.tar.gz"
+      ]
+    },
+    "0.0.22": {
+      "sdist": [
+        "vWfxPhLFa94d7P9a/lPNDjj33drePQxRzcdMtQ+J9zE=",
+        "pyaver-0.0.22.tar.gz"
+      ]
+    },
+    "0.0.23": {
+      "sdist": [
+        "+STBa0QRah7igjVG47x8TdHyJYusS5UcaQ9IKaVNBaw=",
+        "pyaver-0.0.23.tar.gz"
+      ]
+    },
+    "0.0.24": {
+      "sdist": [
+        "1UbYJ3EsEyhcolCpaIr+xJFv5dy781/dbRmRLQKIbM4=",
+        "pyaver-0.0.24.tar.gz"
+      ]
+    },
+    "0.0.25": {
+      "sdist": [
+        "3pUZWAhjG8wWhjNwMAmEbj+daqN09RJs0yhr0dvj3AI=",
+        "pyaver-0.0.25.tar.gz"
+      ]
+    },
+    "0.0.26": {
+      "sdist": [
+        "+cM5gAnKOo8HVOe9N7hOSUI9DKvITNke1rZbtdqEcuM=",
+        "pyaver-0.0.26.tar.gz"
       ]
     },
     "0.0.6": {

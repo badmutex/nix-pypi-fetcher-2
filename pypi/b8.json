@@ -22648,6 +22648,12 @@
         "clip-server-0.8.2.dev20.tar.gz"
       ]
     },
+    "0.8.2.dev21": {
+      "sdist": [
+        "7Ne0fPoACPThv7U7vx268nwwc1MmL1qxPszxidmqEts=",
+        "clip-server-0.8.2.dev21.tar.gz"
+      ]
+    },
     "0.8.2.dev4": {
       "sdist": [
         "zkia8SPv7XDcazSY48h3OuZtK9RLm8pGWighjzINRw0=",
@@ -41281,6 +41287,52 @@
       }
     }
   },
+  "fastsim": {
+    "2.0.10": {
+      "sdist": [
+        "ECXkLLzPVICxwH7GV+SQDXokHYdeYysi8ISgDXsiF08=",
+        "fastsim-2.0.10.tar.gz"
+      ],
+      "wheels": {
+        "fastsim-2.0.10-cp310-cp310-macosx_10_9_universal2.whl": [
+          "MVieOZlJ1AHw657jqlWFNDNByqyNLJssNhBMej+GKJo=",
+          "cp310"
+        ],
+        "fastsim-2.0.10-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "WON6+qnD/vdoMtDcY/uMza5mH4OfSiPyjdT6+u4vIeo=",
+          "cp310"
+        ],
+        "fastsim-2.0.10-cp310-cp310-win_amd64.whl": [
+          "K5JqBGkLyePMK8Ax9xXQG7y/GGBB7VpzfKsz2XywWEE=",
+          "cp310"
+        ],
+        "fastsim-2.0.10-cp38-cp38-macosx_10_9_universal2.whl": [
+          "LpdIZexTHFDWnD2AHFTLI/64wvBsHCZwZotF3zrsSeA=",
+          "cp38"
+        ],
+        "fastsim-2.0.10-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "yo3uZuUGuDihtqzZj1pZwSiJ/G2LVqQsum9HK+wGqjc=",
+          "cp38"
+        ],
+        "fastsim-2.0.10-cp38-cp38-win_amd64.whl": [
+          "81lrOtrdGr0YHMSdIdQN8GwOykP3a1TkRI/o2PkpEXo=",
+          "cp38"
+        ],
+        "fastsim-2.0.10-cp39-cp39-macosx_10_9_universal2.whl": [
+          "U7mVhyqZ1FyEljn0wA43QtoCzbt5aanlsp+85DhoVXI=",
+          "cp39"
+        ],
+        "fastsim-2.0.10-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "yOuyZ++MbaIE07xvi7p3jHSAtCxSEeHyZyMp8X6XEy0=",
+          "cp39"
+        ],
+        "fastsim-2.0.10-cp39-cp39-win_amd64.whl": [
+          "FYz6yVqrl555qPJh1cALIwq2VaCQTVUUz4wJ33mCMQQ=",
+          "cp39"
+        ]
+      }
+    }
+  },
   "faultylambdasensor": {
     "0.0.1": {
       "sdist": [
@@ -57426,6 +57478,18 @@
       "wheels": {
         "ipydrawio_mathjax-1.2.2-py3-none-any.whl": [
           "dVFpfY6CoCJrjEq3l7lhd4sfCmOPqDZy3ZNpWrUZyt4=",
+          "py3"
+        ]
+      }
+    },
+    "1.3.0": {
+      "sdist": [
+        "Z1pXKBHb9en3DqdXfDTLoCIJieSvMYc0NmM7E0JCymk=",
+        "ipydrawio-mathjax-1.3.0.tar.gz"
+      ],
+      "wheels": {
+        "ipydrawio_mathjax-1.3.0-py3-none-any.whl": [
+          "cSMjDdCRwIbKNpscvd22k7yANaISlXxJfVIpvQwxZeo=",
           "py3"
         ]
       }
@@ -75239,6 +75303,18 @@
           "py3"
         ]
       }
+    },
+    "1.8": {
+      "sdist": [
+        "f9CmgwBWoiLB0xzTwPhhOWWX6lg8gw/pazcSEXeAgdI=",
+        "mop_utils_test-1.8.tar.gz"
+      ],
+      "wheels": {
+        "mop_utils_test-1.8-py3-none-any.whl": [
+          "Q2/p7N5kOOxnUihxJB0Is8WFpv0rqt0zTAMdXvmvJwQ=",
+          "py3"
+        ]
+      }
     }
   },
   "morgen-example-2": {
@@ -89490,6 +89566,14 @@
         ]
       }
     },
+    "12.0.1.5.0.99.dev11": {
+      "wheels": {
+        "odoo12_addon_mgmtsystem_nonconformity-12.0.1.5.0.99.dev11-py3-none-any.whl": [
+          "sasTeWow4SBbt63IA+5P29iU722qcqmhsXhTBRWTGfw=",
+          "py3"
+        ]
+      }
+    },
     "12.0.1.5.0.99.dev2": {
       "wheels": {
         "odoo12_addon_mgmtsystem_nonconformity-12.0.1.5.0.99.dev2-py3-none-any.whl": [
@@ -90096,6 +90180,14 @@
       "wheels": {
         "odoo12_addon_stock_request-12.0.1.5.0.99.dev10-py3-none-any.whl": [
           "30ZuVbeh/6uZyNK5aj3OZSYee3Qszi0yDVo4kZH7DsQ=",
+          "py3"
+        ]
+      }
+    },
+    "12.0.1.5.0.99.dev12": {
+      "wheels": {
+        "odoo12_addon_stock_request-12.0.1.5.0.99.dev12-py3-none-any.whl": [
+          "zRK/se6Ic6eA6Iaq1DkHg9PLi7JtbP7xL4MhLjVq4mw=",
           "py3"
         ]
       }
@@ -100576,6 +100668,18 @@
       "wheels": {
         "poword-0.0.10-py3-none-any.whl": [
           "adqTyRHufuNCLFjRcmgM3z2bIR1nTVj5fd8TiGVn3oM=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.11": {
+      "sdist": [
+        "4FEaD3C8MfF8uRH2VM+0rC5DWDcvJ2gfD9vr0Z5fi00=",
+        "poword-0.0.11.tar.gz"
+      ],
+      "wheels": {
+        "poword-0.0.11-py3-none-any.whl": [
+          "wBtidpBu7HudjCh+4hW08rWiiDMlbdBx5pcZfc7weUw=",
           "py3"
         ]
       }
@@ -143292,6 +143396,18 @@
       "wheels": {
         "tensorcircuit_nightly-0.8.0.dev20230411-py3-none-any.whl": [
           "YfmWQ9M8EisFqPdV/3TRis2jHg3Rq+bfUd7ZNYp2PLw=",
+          "py3"
+        ]
+      }
+    },
+    "0.8.0.dev20230412": {
+      "sdist": [
+        "FAMe2M4kDqL4n0no8ZMUH/IqcE5+LwXmOTiRFVE54B8=",
+        "tensorcircuit-nightly-0.8.0.dev20230412.tar.gz"
+      ],
+      "wheels": {
+        "tensorcircuit_nightly-0.8.0.dev20230412-py3-none-any.whl": [
+          "wwgVrKOVCUg0778YFHg3d8jGotf/bg8CRHovSJUbcgo=",
           "py3"
         ]
       }

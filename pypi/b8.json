@@ -12813,6 +12813,14 @@
           "py3"
         ]
       }
+    },
+    "1.50.0": {
+      "wheels": {
+        "azureml_automl_dnn_vision-1.50.0-py3-none-any.whl": [
+          "E0MAt9eVibCa8UXs56jgpQygQVRCfJBhPIDfiVwLn4g=",
+          "py3"
+        ]
+      }
     }
   },
   "azureml-inference-server-http": {
@@ -16964,6 +16972,18 @@
       "wheels": {
         "botocore_a_la_carte_cloud9-1.29.110-py3-none-any.whl": [
           "DtOeUWqDBdxAty63h0VrnrspwQUUgWnC1Zq2hn+q8uA=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.111": {
+      "sdist": [
+        "O4zmANJrPv0wF5fUb2sHbbhbHiNcwJTLGiVZrbSdUlQ=",
+        "botocore-a-la-carte-cloud9-1.29.111.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_cloud9-1.29.111-py3-none-any.whl": [
+          "/Yb41vhPwpW6kZP+vSlwV/JdddvEasaCNL3LZhZ+9+A=",
           "py3"
         ]
       }
@@ -83774,6 +83794,18 @@
         ]
       }
     },
+    "1.12.1": {
+      "sdist": [
+        "oaOKAnflp2xKIQWCK6pcAkNEueOSlq9iIWgxEWv5Op8=",
+        "ndtiff-1.12.1.tar.gz"
+      ],
+      "wheels": {
+        "ndtiff-1.12.1-py3-none-any.whl": [
+          "k0yFtwwjPudzCwQA+jsALt00YaJXDplo4uW0kwjWPg0=",
+          "py3"
+        ]
+      }
+    },
     "1.2.1": {
       "sdist": [
         "RK+A9spRCqKDQreig3RxvFebLEBf3YLamw1K3n8Nzfk=",
@@ -87777,6 +87809,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.3": {
+      "sdist": [
+        "r7SK5qiqO1wlnbER8JZ0yiCBrcPNLSgRxe/lUlkyXAs=",
+        "oc4idskit-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "oc4idskit-0.0.3-py3-none-any.whl": [
+          "Dh98WzDgFWLKV6EKmIV83xuZE+wX8Xj0Jyfb+HKKfuY=",
+          "py3"
+        ]
+      }
     }
   },
   "oca": {
@@ -91644,6 +91688,14 @@
         ]
       }
     },
+    "9.0.1.1.0.99.dev12": {
+      "wheels": {
+        "odoo9_addon_crm_phonecall-9.0.1.1.0.99.dev12-py2-none-any.whl": [
+          "qGyM9LkJImMezyOA60aSTS1F8UwqD9QOzeiLUk/nDcA=",
+          "py2"
+        ]
+      }
+    },
     "9.0.1.1.0.99.dev2": {
       "wheels": {
         "odoo9_addon_crm_phonecall-9.0.1.1.0.99.dev2-py2-none-any.whl": [
@@ -94961,6 +95013,20 @@
         "openvino_python-2021.1-110.5-cp37-cp37m-win_amd64.whl": [
           "s6Du+1kIa2Qsj1WBr6+qiawG43D2aIkE2m+7SL56VIs=",
           "cp37"
+        ]
+      }
+    }
+  },
+  "openvisioncapsule-tools": {
+    "0.3.7": {
+      "sdist": [
+        "1I81rx2KyV2N/3uO/bN61kPkRGCcneWBO22uwlqt3FA=",
+        "openvisioncapsule_tools-0.3.7.tar.gz"
+      ],
+      "wheels": {
+        "openvisioncapsule_tools-0.3.7-py3-none-any.whl": [
+          "MgDshQv56o2YPXQYh6dt5uwuhLZfaFxjlZep7XOmyDQ=",
+          "py3"
         ]
       }
     }
@@ -111700,6 +111766,18 @@
         ]
       }
     },
+    "23.4.11": {
+      "sdist": [
+        "eKfjl0bdrGN+HCzjiOiIrZf6FFVH+36JVx8QPsnD9KM=",
+        "PyGeodesy-23.4.11.zip"
+      ],
+      "wheels": {
+        "PyGeodesy-23.4.11-py2.py3-none-any.whl": [
+          "+ArcYaXgIYiTHi06sgH6QZK1qWyLNFdMDo4GbeSIjYw=",
+          "py2.py3"
+        ]
+      }
+    },
     "23.4.2": {
       "sdist": [
         "x+T792rJU4bZCm2PzuqkKUIA/QbZWVz0M3e9l6vvmB0=",
@@ -122314,6 +122392,18 @@
       "wheels": {
         "rime_sdk-2.0.0rc5-py3-none-any.whl": [
           "kTkSzxIAmyj+DZx35C/JC4SlS8RZMi4/Fc/R5HcX5j0=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.0rc6": {
+      "sdist": [
+        "xGtitEjr5fxp4EkijULtoXXw8uIr+IWfLszCxA//dZg=",
+        "rime_sdk-2.0.0rc6.tar.gz"
+      ],
+      "wheels": {
+        "rime_sdk-2.0.0rc6-py3-none-any.whl": [
+          "ogVLZ6W+gbof6SY4iHR3Qpxy5HJeMBmLwWR34lx2rT4=",
           "py3"
         ]
       }

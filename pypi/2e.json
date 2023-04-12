@@ -11066,6 +11066,18 @@
         ]
       }
     },
+    "1.29.111": {
+      "sdist": [
+        "6wLd32HJWYaZy0YxCMygY3WbQmyjxVyJP+0sHUjZMis=",
+        "botocore-a-la-carte-amplifyuibuilder-1.29.111.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_amplifyuibuilder-1.29.111-py3-none-any.whl": [
+          "a+vbhHqWBd5J8G7Zgt72DwUcPnlzAdDZLbpkJSUhkPw=",
+          "py3"
+        ]
+      }
+    },
     "1.29.42": {
       "sdist": [
         "JMmBFLCyiB54nCHYzTtkn63D3eKPGJFdU6XteViR3iI=",
@@ -11892,6 +11904,18 @@
       "wheels": {
         "botocore_a_la_carte_rekognition-1.29.110-py3-none-any.whl": [
           "ic7KIC9BNLnmoVodLJ7D+RH4tGj19NZONEu5lhCHJFQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.111": {
+      "sdist": [
+        "7VHKCpx9PMmjpEE/9yQb8RheBoxPXKt3v5EquVKEzv0=",
+        "botocore-a-la-carte-rekognition-1.29.111.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_rekognition-1.29.111-py3-none-any.whl": [
+          "y4flU7zmOr6Ta5eaUAPrnSQYLzzo4u/NuClIeGS43uM=",
           "py3"
         ]
       }
@@ -18990,6 +19014,18 @@
       "wheels": {
         "cdktf_github_actions-0.0.82-py3-none-any.whl": [
           "g+R4DURUI19gC+2w8pL6yKBn3yBgOtUN3b3jIXCoBjo=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.83": {
+      "sdist": [
+        "AT2/GQQzLSqUzWyA6mSm7vAZXJ2cHrZtQiUugh9rYZk=",
+        "cdktf-github-actions-0.0.83.tar.gz"
+      ],
+      "wheels": {
+        "cdktf_github_actions-0.0.83-py3-none-any.whl": [
+          "7HuEzdziiXUllPE5Zh6pVrfysg7sxOtT6t+2cdQQjUg=",
           "py3"
         ]
       }
@@ -72448,6 +72484,12 @@
         "libcnmc-23.23.5.tar.gz"
       ]
     },
+    "23.23.6": {
+      "sdist": [
+        "DllC0NtrBW2gCYY2mRe+2qz2jWDmYT3fu1u8aFEmXzQ=",
+        "libcnmc-23.23.6.tar.gz"
+      ]
+    },
     "23.3.0": {
       "sdist": [
         "sDGtTKARt5ivN1UZ88AxvAGt1QZ79ZvrWHu/aGDKhg4=",
@@ -82302,18 +82344,6 @@
         ]
       }
     },
-    "0.0.15": {
-      "sdist": [
-        "SwJFJO8kMbfagqTGae9ng7c6W2+vfaOLFwbi/TP8Nsg=",
-        "morphcp-0.0.15.tar.gz"
-      ],
-      "wheels": {
-        "morphcp-0.0.15-py3-none-any.whl": [
-          "BLRRntHbn6pEXDkPot9YW1pPNP3FpqSxfrHU1+DEyQE=",
-          "py3"
-        ]
-      }
-    },
     "0.0.16": {
       "sdist": [
         "93vTQpJO8WnpI8ewtLsO6qsZtBYslH0nTKPV20D42ds=",
@@ -82326,6 +82356,42 @@
         ]
       }
     },
+    "0.0.17": {
+      "sdist": [
+        "Dg3GLmLz9GCgWdEnsaK1nscD5p5g2m5yg56sJw47Oy4=",
+        "morphcp-0.0.17.tar.gz"
+      ],
+      "wheels": {
+        "morphcp-0.0.17-py3-none-any.whl": [
+          "47bi72815kNboHoL3J2GRbv+i6/cyR+o31IPr3+35WQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.18": {
+      "sdist": [
+        "IcuYqMgsAwMO7KufVyiFW9SDZZa6DBKTV55GOY/0VRY=",
+        "morphcp-0.0.18.tar.gz"
+      ],
+      "wheels": {
+        "morphcp-0.0.18-py3-none-any.whl": [
+          "mv0Zaa7WMpvP5rPam3Pf3M5FJ1fkSIFblmnVmGP/lNQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.19": {
+      "sdist": [
+        "2WqXfe9Z7W2ZvIYoIvTnSQhlBpm0MoLoJAqkUw4Ue5Q=",
+        "morphcp-0.0.19.tar.gz"
+      ],
+      "wheels": {
+        "morphcp-0.0.19-py3-none-any.whl": [
+          "cxablrgHMr2YNEHkIpxJuT4n7g3bgQX5F+s0vl5xxLA=",
+          "py3"
+        ]
+      }
+    },
     "0.0.2": {
       "sdist": [
         "kOyf9I5neIRgiVkhecRME2gY1z2mS5QD7X3tvvBgoGw=",
@@ -82334,6 +82400,18 @@
       "wheels": {
         "morphcp-0.0.2-py3-none-any.whl": [
           "AA9BGA6nAeaFUT5loavAvOhxjZ8IDfcxTqZwVOO6p7Y=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.20": {
+      "sdist": [
+        "ScxlvT5BUtEHs2hD22oYS6GFxUkOZyI6K9VBbpNRYJo=",
+        "morphcp-0.0.20.tar.gz"
+      ],
+      "wheels": {
+        "morphcp-0.0.20-py3-none-any.whl": [
+          "i951AIUTf3rAYWaV1HOB+VA8Xo8l5llV4uFrSEhiTUQ=",
           "py3"
         ]
       }
@@ -136950,6 +137028,18 @@
       "wheels": {
         "tencentcloud_sdk_python_zj-3.0.870-py2.py3-none-any.whl": [
           "xFuCvJa41mk9jPmM2awUYphV7UeWNz//Dwgc9+CMOCk=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.871": {
+      "sdist": [
+        "Z1k6qgocJhF1QJZHnIU9ZRkN9d6FiIyVL9PQFFWEV50=",
+        "tencentcloud-sdk-python-zj-3.0.871.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_zj-3.0.871-py2.py3-none-any.whl": [
+          "4zFlytA1ABE24VXSVgqmCiko/FXF3JoYcKD6tk9dUkI=",
           "py2.py3"
         ]
       }

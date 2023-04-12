@@ -12930,6 +12930,18 @@
         ]
       }
     },
+    "2.37.0": {
+      "sdist": [
+        "DGQYt2NMdWVvNbxwdIVnfIWwBqbK6rfs5eVEiHNwqM4=",
+        "aws-solutions-constructs.aws-kinesis-firehose-s3-kinesis-analytics-2.37.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_kinesis_firehose_s3_kinesis_analytics-2.37.0-py3-none-any.whl": [
+          "KX+GeembW4bPiUOs2fuslVrxUr1rdcZOWiNGrXHXYi4=",
+          "py3"
+        ]
+      }
+    },
     "2.4.0": {
       "sdist": [
         "KvKL4Hwq2I5un3t6BWZ9HxYb3jaIb73QMMpWpvEqu44=",
@@ -18300,6 +18312,18 @@
         ]
       }
     },
+    "1.29.111": {
+      "sdist": [
+        "ZqPp2Socmw9SgE08mF3YfW2OdUJTW+KlU73eL3SEbuk=",
+        "botocore-a-la-carte-customer-profiles-1.29.111.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_customer_profiles-1.29.111-py3-none-any.whl": [
+          "Jr+OMQPSxPvHsglXC3BJVszBKWPpqGoi0YLrniJDBkw=",
+          "py3"
+        ]
+      }
+    },
     "1.29.42": {
       "sdist": [
         "KH3oGv7QhpQNAvmAtKRMYPxXohTYXXNXOcMoWdLZyZ8=",
@@ -19130,6 +19154,18 @@
         ]
       }
     },
+    "1.29.111": {
+      "sdist": [
+        "a2fprB7n9L1ueKBA1b6w5BYLBmQjoaMpi2UcjWKFIdc=",
+        "botocore-a-la-carte-route53-1.29.111.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_route53-1.29.111-py3-none-any.whl": [
+          "A5njZU8ywWTZn+lRF+l44wUbBIHJmXveNKyslSpVmc4=",
+          "py3"
+        ]
+      }
+    },
     "1.29.42": {
       "sdist": [
         "J+ZBY2u4WA7XlDrxxaj1N9XVDx+Ptg3TDdpVa6X03IA=",
@@ -19956,6 +19992,18 @@
       "wheels": {
         "botocore_a_la_carte_timestream_query-1.29.110-py3-none-any.whl": [
           "smli8IHPJLBmNZpjOUm3Gj6ayBjDm0yKmDofF2bTUwc=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.111": {
+      "sdist": [
+        "q6mXB2QrwPjODKNapFJiyLFcXgZJUF46CmR9NuFl120=",
+        "botocore-a-la-carte-timestream-query-1.29.111.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_timestream_query-1.29.111-py3-none-any.whl": [
+          "4/bg/Ik26hSTwTqXTzBBUuJ0vF0PKEQfu4ODLo8A5j4=",
           "py3"
         ]
       }
@@ -68883,6 +68931,18 @@
           "py3"
         ]
       }
+    },
+    "0.2.2": {
+      "sdist": [
+        "aVbkZNNJG8ssqJ2fwBsGdUP4kCIX6CtRmjJ6zYdUS8c=",
+        "hasiicommon-0.2.2.tar.gz"
+      ],
+      "wheels": {
+        "hasiicommon-0.2.2-py3-none-any.whl": [
+          "12tcePWvamczudqCuer3nF/vVWCZw5V4lDmeoB4Ze7o=",
+          "py3"
+        ]
+      }
     }
   },
   "hdllib": {
@@ -71466,6 +71526,18 @@
       "wheels": {
         "hotbox-0.0.15-py3-none-any.whl": [
           "nABJlZd50iG20r/ThvG5vAq5pw2opQYWjL5DzFWa5wQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.16": {
+      "sdist": [
+        "LusH3eiDidx2j727aH/loaf863dmetOyZ38xWQXNolQ=",
+        "hotbox-0.0.16.tar.gz"
+      ],
+      "wheels": {
+        "hotbox-0.0.16-py3-none-any.whl": [
+          "TZ0ztEpL3S3pGl2rD1krF2qn2Ior0nfnknMy6BTTIrs=",
           "py3"
         ]
       }
@@ -97893,6 +97965,14 @@
           "py3"
         ]
       }
+    },
+    "15.0.1.1.3": {
+      "wheels": {
+        "odoo_addon_hr_employee_calendar_planning-15.0.1.1.3-py3-none-any.whl": [
+          "oSqumus5FaVuLy92IoblvzAuyWEYLnrdifxzsOzGCqY=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo-addon-hr-timesheet-task-domain": {
@@ -105173,6 +105253,32 @@
         "proml-0.0.1-py2.py3-none-any.whl": [
           "Pymos7PkmDKxrZF5jjNUMncRqe+hwxPN6pJXdHv2jsc=",
           "py2.py3"
+        ]
+      }
+    }
+  },
+  "promptoria": {
+    "0.1.0": {
+      "sdist": [
+        "brQBlHXkJUJoWZ2l/Lp6JpDLeBztGgeLvX2BhC9hlPw=",
+        "promptoria-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "promptoria-0.1.0-py3-none-any.whl": [
+          "iQ7vpwj5c6Q0QScPywOh66hYPtXXkMpB3i60EL7wACw=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "caND6jdsIPf04sdTIEIemkld9lBc1okjZl/qdlPDpTo=",
+        "promptoria-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "promptoria-0.1.1-py3-none-any.whl": [
+          "cwnS6XIH/cApDDB+ESpSupJekR1KAbUmmiGz15GND0A=",
+          "py3"
         ]
       }
     }
@@ -144095,6 +144201,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.871": {
+      "sdist": [
+        "N6ylmh8fnE9JtCg5EXIrXnwtyFB6CFfhkowF7WIUjjI=",
+        "tencentcloud-sdk-python-cynosdb-3.0.871.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_cynosdb-3.0.871-py2.py3-none-any.whl": [
+          "8FwDJE4ryV6/QOZS5unuBiKnJfC7oB//xBdgntwLI44=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tenet": {
@@ -157574,6 +157692,18 @@
       "sdist": [
         "jnm7w6Vokzc++ipXmcdVeuCAmGEe1VGdyHjmAd88RZw=",
         "yhgit-2.8.11.tar.gz"
+      ]
+    },
+    "2.8.12": {
+      "sdist": [
+        "eGsnlTxidos2tTK+TEzRNNNvx3Vi3ZZSsIBQZsuUcXE=",
+        "yhgit-2.8.12.tar.gz"
+      ]
+    },
+    "2.8.13": {
+      "sdist": [
+        "8kvUevVLekIQle4RenU9bvvJksJ+yh9zOwUDtvMrgS4=",
+        "yhgit-2.8.13.tar.gz"
       ]
     },
     "2.8.2": {

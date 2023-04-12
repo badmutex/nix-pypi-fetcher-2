@@ -13802,6 +13802,18 @@
         ]
       }
     },
+    "2.37.0": {
+      "sdist": [
+        "W6YYZdjfeUtyQ8yB1xwATyKu01gmGcQD4KbwHdhUu6U=",
+        "aws-solutions-constructs.aws-kinesis-streams-kinesis-firehose-s3-2.37.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_kinesis_streams_kinesis_firehose_s3-2.37.0-py3-none-any.whl": [
+          "sCiTMlfejJxpoYcAPQNPaRqAEacr0FOTotMl7en2RqI=",
+          "py3"
+        ]
+      }
+    },
     "2.4.0": {
       "sdist": [
         "pth0OSBrTvR45PRoXd+VDhhIzGgEnrMbZyBQ+fEoDU8=",
@@ -19552,6 +19564,18 @@
       "wheels": {
         "botocore_a_la_carte_internetmonitor-1.29.110-py3-none-any.whl": [
           "NQZeQw6bTpa/RgOeahbO8GhtFVWXm1vJ1997ove9qts=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.111": {
+      "sdist": [
+        "y0P6DyzMVYzcGPnNlJHLPEhcUhfLBLAot6ApPdSFKFc=",
+        "botocore-a-la-carte-internetmonitor-1.29.111.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_internetmonitor-1.29.111-py3-none-any.whl": [
+          "Or9mkdW9oTXIDi7eRz7OStSfSglcmPhwb5+ME18KSnQ=",
           "py3"
         ]
       }
@@ -37202,6 +37226,18 @@
         ]
       }
     },
+    "2.0.0b22": {
+      "sdist": [
+        "vH5HSeIyQNk6VxM3JWWzYXjqSdl85QPtG/zS/5XZiSQ=",
+        "databroker-2.0.0b22.tar.gz"
+      ],
+      "wheels": {
+        "databroker-2.0.0b22-py2.py3-none-any.whl": [
+          "1VIxZI/qN1FoTwpIcBCSRGa6UkywbcLOa/gOLx9W3W4=",
+          "py2.py3"
+        ]
+      }
+    },
     "2.0.0b3": {
       "sdist": [
         "OsDe8yRQeJu2KCEmxze27i7aAP32jycMXXnr/UoFtQQ=",
@@ -46881,6 +46917,42 @@
           "py3"
         ]
       }
+    },
+    "1.6.5.2": {
+      "sdist": [
+        "EIsCbp8kD3MwQWLzEqa/Ug3DsWMKA0BXA/Uqfsbx4B0=",
+        "donatellopyzza-1.6.5.2.tar.gz"
+      ],
+      "wheels": {
+        "donatellopyzza-1.6.5.2-py3-none-any.whl": [
+          "yZHHv0le+2L80By1tOEa0nhB2g2uN6OhZbNgviUhQqg=",
+          "py3"
+        ]
+      }
+    },
+    "1.6.5.3": {
+      "sdist": [
+        "1HHgXr0GT3dj7GapadO4c2fytmuZ9XHbrQOR00/bdl4=",
+        "donatellopyzza-1.6.5.3.tar.gz"
+      ],
+      "wheels": {
+        "donatellopyzza-1.6.5.3-py3-none-any.whl": [
+          "MgLxgNw96UvY2eo+N4Okaec+J9W/05onz+ZBHGf7+Xk=",
+          "py3"
+        ]
+      }
+    },
+    "1.6.6": {
+      "sdist": [
+        "ETeSERM4tze/Xo1uH9f9y9Q/SZhK9gtGmKp8NwEL9tQ=",
+        "donatellopyzza-1.6.6.tar.gz"
+      ],
+      "wheels": {
+        "donatellopyzza-1.6.6-py3-none-any.whl": [
+          "t5aFB/Gx6PQJ8McdJ5gDvNFzoSI7MyM5StA2WQRUkMo=",
+          "py3"
+        ]
+      }
     }
   },
   "dot-net": {
@@ -54034,6 +54106,42 @@
       "wheels": {
         "ezcode-1.0.24-py3-none-any.whl": [
           "DvdhxT7DMyUIwP6bjUWTYVHK3cmBc6nt296bwU66ITw=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.25": {
+      "sdist": [
+        "sKWxGv2ScNLwDwXZpYKZR50kBmc1qtmW/8E2MXWtbPw=",
+        "ezcode-1.0.25.tar.gz"
+      ],
+      "wheels": {
+        "ezcode-1.0.25-py3-none-any.whl": [
+          "QkqPyopYRpqAQyN1OyNsrFQjJUQZtSe4Ij6gehZIk00=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.26": {
+      "sdist": [
+        "qNyIeXm67HaxkSi3ZOQBzc50VgLpwGrQWTVTsXALp4U=",
+        "ezcode-1.0.26.tar.gz"
+      ],
+      "wheels": {
+        "ezcode-1.0.26-py3-none-any.whl": [
+          "k+DBdidnQMZ0tfvsHuf2eiPFYs1IkNtF8F8tVCCQxAY=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.27": {
+      "sdist": [
+        "wFbJSDXRUQZND2ehspF0dXQqz8yZllqr1l38ZATrcpM=",
+        "ezcode-1.0.27.tar.gz"
+      ],
+      "wheels": {
+        "ezcode-1.0.27-py3-none-any.whl": [
+          "lIJw09xygzlkw7uIhpxU2kFODCxVj1SKKN+o2FvRcP8=",
           "py3"
         ]
       }
@@ -79844,6 +79952,14 @@
       "wheels": {
         "libcbm-1.3.3-py3-none-any.whl": [
           "SyaWGP2aEuNpqySp64E+9GxDJyEjyIEQ/EeOIjOrofo=",
+          "py3"
+        ]
+      }
+    },
+    "2.3.11": {
+      "wheels": {
+        "libcbm-2.3.11-py3-none-any.whl": [
+          "b7IQi9AaZs7wjGRI3M6tJgC71/f7om0mwjMyFtQJtx4=",
           "py3"
         ]
       }
@@ -115711,6 +115827,14 @@
           "py2.py3"
         ]
       }
+    }
+  },
+  "pulumi-ngrok": {
+    "0.0.14": {
+      "sdist": [
+        "cKPqoAcK73Mx/PsvLSePlt3w3F9UM/Yh1BseM8oShfs=",
+        "pulumi_ngrok-0.0.14.tar.gz"
+      ]
     }
   },
   "py-aiger-js": {

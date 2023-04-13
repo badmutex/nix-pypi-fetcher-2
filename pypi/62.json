@@ -18324,6 +18324,18 @@
         ]
       }
     },
+    "1.29.112": {
+      "sdist": [
+        "aSnSbcW2qYG1bROF1O+sqnKI3Ve/3PD48QcSVSGXqac=",
+        "botocore-a-la-carte-customer-profiles-1.29.112.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_customer_profiles-1.29.112-py3-none-any.whl": [
+          "BLAX7VuFpT3r6r4S7FxF2omPcgc3lzwsdhbx6TU2Wjs=",
+          "py3"
+        ]
+      }
+    },
     "1.29.42": {
       "sdist": [
         "KH3oGv7QhpQNAvmAtKRMYPxXohTYXXNXOcMoWdLZyZ8=",
@@ -19166,6 +19178,18 @@
         ]
       }
     },
+    "1.29.112": {
+      "sdist": [
+        "1nFstR2BjYG2mYnevDnLjcXzF2dkzwcnTOg8zVRn4BA=",
+        "botocore-a-la-carte-route53-1.29.112.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_route53-1.29.112-py3-none-any.whl": [
+          "dHVDgdDGc69fEtgSv6UVZtk2fnJQjyO/GUjppLa1CHQ=",
+          "py3"
+        ]
+      }
+    },
     "1.29.42": {
       "sdist": [
         "J+ZBY2u4WA7XlDrxxaj1N9XVDx+Ptg3TDdpVa6X03IA=",
@@ -20004,6 +20028,18 @@
       "wheels": {
         "botocore_a_la_carte_timestream_query-1.29.111-py3-none-any.whl": [
           "4/bg/Ik26hSTwTqXTzBBUuJ0vF0PKEQfu4ODLo8A5j4=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.112": {
+      "sdist": [
+        "cHazASzuX6O9yRa9uKP3LQS5Safykgph8aTFKSxDryo=",
+        "botocore-a-la-carte-timestream-query-1.29.112.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_timestream_query-1.29.112-py3-none-any.whl": [
+          "zTOCBVqacHXnhIIClZk4V62bn+QASBsoBc+KV7GxlLQ=",
           "py3"
         ]
       }
@@ -23993,6 +24029,14 @@
           "py3"
         ]
       }
+    }
+  },
+  "cb-bus-client": {
+    "0.0.10": {
+      "sdist": [
+        "bvRlO5Spi3UbmcsCZbkvh/DqlrxoBoicv2Epyb12TZQ=",
+        "cb_bus_client-0.0.10.tar.gz"
+      ]
     }
   },
   "cb-modernapi": {
@@ -31332,6 +31376,18 @@
       "wheels": {
         "costcalc2-0.9.0-py3-none-any.whl": [
           "VmxsnyNoem4lFJu7zp/4sSuuw7QhRl2Izafk6ATjSkc=",
+          "py3"
+        ]
+      }
+    },
+    "0.9.1": {
+      "sdist": [
+        "t8scprzlqjq0QmVEDNbq6NBpH9MfLOwIDAce2N6NMR0=",
+        "costcalc2-0.9.1.tar.gz"
+      ],
+      "wheels": {
+        "costcalc2-0.9.1-py3-none-any.whl": [
+          "qI76Hkom0cY2YNYCoa0jjy9tWX4MI1N7OIsslEs1B38=",
           "py3"
         ]
       }
@@ -39413,6 +39469,16 @@
         "/edmtFsg9PCKt40jGhHbtB74gNQ0KOPd5s9n+diQgT0=",
         "decorative-0.1.tar.gz"
       ]
+    }
+  },
+  "deep-diff-patch": {
+    "0.1.0": {
+      "wheels": {
+        "deep_diff_patch-0.1.0-py3-none-any.whl": [
+          "sGoYDaAYi0U9mS1FwRjhQTdjSXvGOLWSs1uxpzVL2N0=",
+          "py3"
+        ]
+      }
     }
   },
   "deep-pipe": {
@@ -71550,6 +71616,30 @@
       "wheels": {
         "hotbox-0.0.16-py3-none-any.whl": [
           "TZ0ztEpL3S3pGl2rD1krF2qn2Ior0nfnknMy6BTTIrs=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.17": {
+      "sdist": [
+        "6f+RwjBU+1nNvsGbfLZYFzPi/78yHrFHQffKRlB0jRE=",
+        "hotbox-0.0.17.tar.gz"
+      ],
+      "wheels": {
+        "hotbox-0.0.17-py3-none-any.whl": [
+          "axfmhkNtdmhulj1lVVyhdq9p9H+gjhh2xrclpWIvEH4=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.18": {
+      "sdist": [
+        "hy53gJQD5k5aiWRHxI3LVpG+RKCH0RkfhVjk8M9rVaE=",
+        "hotbox-0.0.18.tar.gz"
+      ],
+      "wheels": {
+        "hotbox-0.0.18-py3-none-any.whl": [
+          "ACiC6x/Es9w7tR05z9gr/zZKdqQflavDVgng0sW5TDY=",
           "py3"
         ]
       }
@@ -124362,6 +124452,14 @@
         ]
       }
     },
+    "4.16.2195": {
+      "wheels": {
+        "sdkms-4.16.2195-py2.py3-none-any.whl": [
+          "M31IWRt/dXErxTkndbuGi5P565uxOrNjbZHCPzmi2OY=",
+          "py2.py3"
+        ]
+      }
+    },
     "4.2.1500": {
       "wheels": {
         "sdkms-4.2.1500-py2.py3-none-any.whl": [
@@ -130978,6 +131076,12 @@
       "sdist": [
         "dN+6uQslfYlTNQkcgXFti3jTw6U0iJjAKmGN/3gG7v4=",
         "spatialcsv-0.0.3.tar.gz"
+      ]
+    },
+    "0.0.5": {
+      "sdist": [
+        "pG5g3JfeEO9I6K2O5RjYw1RV79MSuDS4rx3EM2zCdao=",
+        "spatialcsv-0.0.5.tar.gz"
       ]
     }
   },
@@ -144254,6 +144358,18 @@
       "wheels": {
         "tencentcloud_sdk_python_cynosdb-3.0.871-py2.py3-none-any.whl": [
           "8FwDJE4ryV6/QOZS5unuBiKnJfC7oB//xBdgntwLI44=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.872": {
+      "sdist": [
+        "obVBiFiPkZW3mc40BIuSsHNhyANfTjnheYdGv/YQk7s=",
+        "tencentcloud-sdk-python-cynosdb-3.0.872.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_cynosdb-3.0.872-py2.py3-none-any.whl": [
+          "twUS5CPKkWhHx/VvRVekGadSuFbtNrIjXeOFc+A7ukA=",
           "py2.py3"
         ]
       }
@@ -157748,6 +157864,18 @@
       "sdist": [
         "8kvUevVLekIQle4RenU9bvvJksJ+yh9zOwUDtvMrgS4=",
         "yhgit-2.8.13.tar.gz"
+      ]
+    },
+    "2.8.14": {
+      "sdist": [
+        "2NO1d6qt1zJVfK5BX4uqINFnUZK4Z1Ay79bQK6yRUbY=",
+        "yhgit-2.8.14.tar.gz"
+      ]
+    },
+    "2.8.15": {
+      "sdist": [
+        "FtjvIB4NCJDXTlrn1AwIRhV+rSPOqihPqt30fqx9FOA=",
+        "yhgit-2.8.15.tar.gz"
       ]
     },
     "2.8.2": {

@@ -32594,6 +32594,34 @@
         ]
       }
     },
+    "2.4.12": {
+      "wheels": {
+        "core_universal-2.4.12-py2.py3-none-macosx_10_7_x86_64.whl": [
+          "ft1jrKtcexWi5QNC2wIoqdTuABucNro8yAdvahSaTJ0=",
+          "py2.py3"
+        ],
+        "core_universal-2.4.12-py2.py3-none-macosx_11_0_arm64.whl": [
+          "YkOzHWC5Rc07qUJ/k13j+3tmLQLmUCjxFqaSzCd8jNU=",
+          "py2.py3"
+        ],
+        "core_universal-2.4.12-py2.py3-none-manylinux1_x86_64.whl": [
+          "QfR6LlpNt0QRLFHQS7xPvZhAqVD80dW9LTi/a2NRDJw=",
+          "py2.py3"
+        ],
+        "core_universal-2.4.12-py2.py3-none-manylinux2014_aarch64.whl": [
+          "ABC3BpDIlG5BwK9M4tFMgWBcTjB8wxqB673Yt01NHlc=",
+          "py2.py3"
+        ],
+        "core_universal-2.4.12-py2.py3-none-musllinux_1_2_x86_64.whl": [
+          "bPcaQuYSPJoLMk5WEm0xlcgS/wIp+raMNzVFAcng5jE=",
+          "py2.py3"
+        ],
+        "core_universal-2.4.12-py2.py3-none-win_amd64.whl": [
+          "8e4jJvvSBUQ7IWvUhC7iEYBR6waPW8+oWBL5lf2xt8g=",
+          "py2.py3"
+        ]
+      }
+    },
     "2.4.2": {
       "wheels": {
         "core_universal-2.4.2-py2.py3-none-macosx_10_7_x86_64.whl": [
@@ -39372,6 +39400,20 @@
       "sdist": [
         "yPH5cuJhfloBhBh2p4IR0CQDewUHEr93N/1nBxd4PK4=",
         "destruct-0.1.0.tar.gz"
+      ]
+    }
+  },
+  "deterrers-cli": {
+    "0.1": {
+      "sdist": [
+        "c/6ZSs80ArkDBoW1g/zGliPZBK5baEOX8LCJv1kRMT0=",
+        "deterrers-cli-0.1.tar.gz"
+      ]
+    },
+    "0.2": {
+      "sdist": [
+        "xyVHZHAvprC2/K5utSUF3zAf60f1I8poigfSoAjBpMY=",
+        "deterrers-cli-0.2.tar.gz"
       ]
     }
   },
@@ -49628,6 +49670,12 @@
         "energinet-ml-sdk-0.10.1.dev295.tar.gz"
       ]
     },
+    "0.10.1.dev296": {
+      "sdist": [
+        "Qhog30Jg3ti8jPF+19GNc9YCHKYWUV8fTqlMyiNOmSQ=",
+        "energinet-ml-sdk-0.10.1.dev296.tar.gz"
+      ]
+    },
     "0.5.16": {
       "sdist": [
         "0SSiVPr+B4e8ALaHwmidR2UEZUthA0IuPdfgJtuQYGE=",
@@ -57452,6 +57500,14 @@
       "wheels": {
         "fauna-0.5.0-py2.py3-none-any.whl": [
           "41M1v/KN1xaGPPxMfoZYCNEyx8+YmRcTnqOreOsnZuM=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.6.0": {
+      "wheels": {
+        "fauna-0.6.0-py2.py3-none-any.whl": [
+          "0jcZvY4h6mQpv4Q29u0f/UtQ15ZKnAq0WJT+sprC930=",
           "py2.py3"
         ]
       }
@@ -91801,6 +91857,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.507": {
+      "sdist": [
+        "zjTeZqNA00CuoncOpqZ3rr9jgg6HHD5yna6bs5Sz8R0=",
+        "neetbox-0.1.507.tar.gz"
+      ],
+      "wheels": {
+        "neetbox-0.1.507-py3-none-any.whl": [
+          "m45e81YTSArY/Y/8Kd676I0nAnHZUrCBJNySKEDCbWQ=",
+          "py3"
+        ]
+      }
     }
   },
   "nemo-toolkit": {
@@ -97522,6 +97590,14 @@
       "wheels": {
         "odoo14_addon_l10n_br_nfe-14.0.7.1.4-py3-none-any.whl": [
           "hkwwRba4utzcRJAcVwm8m0Zlg42gCMjPIaLtvq/eZjA=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.7.1.5": {
+      "wheels": {
+        "odoo14_addon_l10n_br_nfe-14.0.7.1.5-py3-none-any.whl": [
+          "814pA455kSq7HIcyFdQyeDfKkedUcn/XMW/XEozxijU=",
           "py3"
         ]
       }
@@ -124532,6 +124608,14 @@
         ]
       }
     },
+    "0.11.1": {
+      "wheels": {
+        "relenv-0.11.1-py3-none-any.whl": [
+          "7C4OVzaH4Z0YB4TMhJwAzgNmtkNZ6qqqMAdykF1u8+o=",
+          "py3"
+        ]
+      }
+    },
     "0.2.0": {
       "wheels": {
         "relenv-0.2.0-py3-none-any.whl": [
@@ -131940,6 +132024,18 @@
       "wheels": {
         "seppmail_converter-0.1.5-py3-none-any.whl": [
           "NVLJCQawiSwvBSgIKeISRo6f3hd1IP/08wd52eoZlC0=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.7": {
+      "sdist": [
+        "DlM690ZX9pcDJhUYB5gp5I/hzIsbbq3c4DzZs8MTngU=",
+        "seppmail_converter-0.1.7.tar.gz"
+      ],
+      "wheels": {
+        "seppmail_converter-0.1.7-py3-none-any.whl": [
+          "QrUk82MmGWjRqWxn+8MIhVDjleVjF2DGgbnAC6z4IAM=",
           "py3"
         ]
       }
@@ -139368,6 +139464,18 @@
       "wheels": {
         "state_machine_semaphore-0.1.235-py3-none-any.whl": [
           "DpC1ONSOQp4oCa4OKsCJGssAkGcsvFYY1ibbxGNUVJM=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.236": {
+      "sdist": [
+        "mfi1SKOhhdl2nMa5DYd+gTQh6JNBrCI5o0BLdksM//k=",
+        "state-machine-semaphore-0.1.236.tar.gz"
+      ],
+      "wheels": {
+        "state_machine_semaphore-0.1.236-py3-none-any.whl": [
+          "utSeTfrFdlsL/UBxNQ/SHxRrJfaI5qZzZRcMdX5Kn74=",
           "py3"
         ]
       }

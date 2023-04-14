@@ -16126,6 +16126,18 @@
         ]
       }
     },
+    "8.16.4": {
+      "sdist": [
+        "gm6PybrPlmZvVeC1ZccJY0dcFNf0l440v3jSSGQj1UQ=",
+        "boris-behav-obs-8.16.4.tar.gz"
+      ],
+      "wheels": {
+        "boris_behav_obs-8.16.4-py3-none-any.whl": [
+          "4CnqP2Sxmu1wb4eQ4PJCjQbVcBmnV4E3BTMp8JeICQU=",
+          "py3"
+        ]
+      }
+    },
     "8.9": {
       "sdist": [
         "ItDPkywPZx7sWOjAWUdU2zMfNFcE+WYQjcZ7E9TqCDg=",
@@ -24905,6 +24917,20 @@
           "py2.py3"
         ]
       }
+    }
+  },
+  "compensating-transaction": {
+    "0.0.1": {
+      "sdist": [
+        "nyRCyhbtakNTkVbgu06DpPoAybI/Wj7hLRE17UrAvBw=",
+        "compensating-transaction-0.0.1.tar.gz"
+      ]
+    },
+    "0.0.2": {
+      "sdist": [
+        "9m2LhRZEo8FpNWuIMW6PJ/x5HvE0f2s7lAP01YaVuHQ=",
+        "compensating-transaction-0.0.2.tar.gz"
+      ]
     }
   },
   "comus000": {
@@ -126650,6 +126676,14 @@
       "wheels": {
         "tf_estimator_nightly-2.13.0.dev2023041308-py2.py3-none-any.whl": [
           "Ff3ZE1xaucCDJ9UGhToJ0BHbA0ct1XYnvzDWZVhonMw=",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.13.0.dev2023041408": {
+      "wheels": {
+        "tf_estimator_nightly-2.13.0.dev2023041408-py2.py3-none-any.whl": [
+          "Q1Lh3/yEryd2PJN3Z/glKKiTyI+wW74UIVHC+XvtwQA=",
           "py2.py3"
         ]
       }

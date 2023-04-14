@@ -26312,6 +26312,18 @@
         ]
       }
     },
+    "0.1.17.2": {
+      "sdist": [
+        "UnG2tbMKL61707RrOzj+pMHnGjEN5TkMj2pj5zcr+Fw=",
+        "coursebox-0.1.17.2.tar.gz"
+      ],
+      "wheels": {
+        "coursebox-0.1.17.2-py3-none-any.whl": [
+          "weXgCv0Ylc+ygjE5tCSRdjk4gyhu2wBjhJcle9O3wBs=",
+          "py3"
+        ]
+      }
+    },
     "0.1.3": {
       "sdist": [
         "lA7FmjpudsYlN6r458ypDUMcgWDuOa1tA8IuhDG/CIM=",
@@ -49594,6 +49606,32 @@
       "wheels": {
         "foliantcontrib.notifier-1.0.0-py3-none-any.whl": [
           "Z6C7NpygV81L5W6n3Y86IpoGd7kVfFHg4TIn7wP/Je8=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "fondant": {
+    "0.1.dev0": {
+      "sdist": [
+        "DQ0DxCbyPOKvoyP/yvvtGhP2tY9x/evz+8cT7X5G/Sw=",
+        "fondant-0.1.dev0.tar.gz"
+      ],
+      "wheels": {
+        "fondant-0.1.dev0-py3-none-any.whl": [
+          "+Z9mkE6d2mChQflSggM4j6EuDUeNBH6gDcIwXYZPytg=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.dev0": {
+      "sdist": [
+        "sVYRI7k1Que4EgtW3H26GiSIsOwkSvrcsEqWq8Ns0lc=",
+        "fondant-0.2.dev0.tar.gz"
+      ],
+      "wheels": {
+        "fondant-0.2.dev0-py3-none-any.whl": [
+          "hBLpkEDY6Yp2s/IDux0nwt3iEGx7SX6K2uILB9WBqmE=",
           "py3"
         ]
       }
@@ -86811,6 +86849,14 @@
           "py3"
         ]
       }
+    },
+    "6.8.1": {
+      "wheels": {
+        "netron-6.8.1-py3-none-any.whl": [
+          "G2Mv4zxUAbI7NQ2fAGb+yCmkyJdWMzZJJpHWc0+BCC0=",
+          "py3"
+        ]
+      }
     }
   },
   "neuralforecast": {
@@ -121075,6 +121121,18 @@
           "py3"
         ]
       }
+    },
+    "0.3.3": {
+      "sdist": [
+        "BDQBaeVXjL2HZdHkHPStAFPk9wAVfNJCFx3joHj3Nmo=",
+        "sbomtools-0.3.3.tar.gz"
+      ],
+      "wheels": {
+        "sbomtools-0.3.3-py3-none-any.whl": [
+          "I08jwag3MwO6t0DjyrHr3+mr+4nwb40ZpOm923//G1E=",
+          "py3"
+        ]
+      }
     }
   },
   "scald-cli": {
@@ -122264,6 +122322,18 @@
       "wheels": {
         "segment_reshape_qgis_plugin-0.1.3-py3-none-any.whl": [
           "Fb4OoGucCkEhIZEi9LXpZ6gLZHYQmXPSIeXG5OIyt0s=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.4": {
+      "sdist": [
+        "IQYIw6NGNKf6KAEU/4UGEgQU174AMk72ivU0rdQazSQ=",
+        "segment-reshape-qgis-plugin-0.1.4.tar.gz"
+      ],
+      "wheels": {
+        "segment_reshape_qgis_plugin-0.1.4-py3-none-any.whl": [
+          "ef/q9BvOPdMnkZOkitH+vT3JSN+vjJ4aG9LFalRTaH0=",
           "py3"
         ]
       }
@@ -124756,50 +124826,14 @@
     }
   },
   "slpapy": {
-    "0.1.5": {
+    "0.1.11": {
       "sdist": [
-        "bA1Q5L6z6Itgj5J3DO7OJ/A1Bmw0us+5YTTIEc2bzQ4=",
-        "Slpapy-0.1.5.tar.gz"
+        "XnqkmoMACSzWT2lcwk+v8fiiyXtw7YVz7lzzAVBZcdE=",
+        "Slpapy-0.1.11.tar.gz"
       ],
       "wheels": {
-        "Slpapy-0.1.5-py3-none-any.whl": [
-          "/buXPQuVqGKa/RDIbEmX/3eZd11xRfIYDt2/1yVcC0E=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.6": {
-      "sdist": [
-        "C2weThnLQS3WfqZ+9A5qba66KOLai4n0rHGt1PCr4OE=",
-        "Slpapy-0.1.6.tar.gz"
-      ],
-      "wheels": {
-        "Slpapy-0.1.6-py3-none-any.whl": [
-          "Hfk5NHHzWImMX33iwql2T6xFuN+CR4huMira/IJcd/o=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.7": {
-      "sdist": [
-        "EEq+8R4V3hIbQhLwjciDAwPCoHj2fFQCLXxK6+7L4pM=",
-        "Slpapy-0.1.7.tar.gz"
-      ],
-      "wheels": {
-        "Slpapy-0.1.7-py3-none-any.whl": [
-          "P/mXeVGY34nDaR5O4JgezY16K7+onpuRNXk63J4kliE=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.8": {
-      "sdist": [
-        "pHeinF4jrcTKlFJwsBZAahyQEf+tU6goBV/YC0W0opc=",
-        "Slpapy-0.1.8.tar.gz"
-      ],
-      "wheels": {
-        "Slpapy-0.1.8-py3-none-any.whl": [
-          "oE/YEGkV1X6CyZ+sviSb05B9DJNMS4zyyqJTUwLmp6Y=",
+        "Slpapy-0.1.11-py3-none-any.whl": [
+          "BAxEtbbljtu06dsjx0jlIQ17CT5n/pfgWRJe/PUgUiw=",
           "py3"
         ]
       }
@@ -145320,23 +145354,17 @@
     }
   },
   "truelearn": {
-    "0.0.0": {
+    "1.0.0": {
       "sdist": [
-        "aqnnTF95H42tRFpx3///7AE3kTKko0k91haU1Aoz+ao=",
-        "truelearn-0.0.0.tar.gz"
-      ]
-    },
-    "0.0.1": {
-      "sdist": [
-        "2R0Xhsg30UQFC/nzluOE9m+Q4FtXazwDpSgRqdP4/Yo=",
-        "truelearn-0.0.1.tar.gz"
-      ]
-    },
-    "0.0.2": {
-      "sdist": [
-        "AmDr0EQjCyHKl7eYPlAisLIoViuBCyNH0EaJ9UT399Y=",
-        "truelearn-0.0.2.tar.gz"
-      ]
+        "J0g1RTwFDKGJu8EsS9UyGJoDv5gjRFocFFvd9txoKWs=",
+        "truelearn-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "truelearn-1.0.0-py3-none-any.whl": [
+          "6uDDC2KGev5qaqZHHssXomB4U/AffoQbrBOl9tpL4dE=",
+          "py3"
+        ]
+      }
     }
   },
   "trytond-ebay": {
@@ -154665,6 +154693,18 @@
         "zope.contentprovider-4.2.1-py2.py3-none-any.whl": [
           "orN+yY9sGDOMrsgrsWvOqkAfGal4g8+zZ0dt/6O2HVQ=",
           "py2.py3"
+        ]
+      }
+    },
+    "5.0": {
+      "sdist": [
+        "OwwX23j6POJ3Wfo920AJYbObP8vyMDMp4GziuUeGS/U=",
+        "zope.contentprovider-5.0.tar.gz"
+      ],
+      "wheels": {
+        "zope.contentprovider-5.0-py3-none-any.whl": [
+          "YJkOm8N6v4jTDRVSUkxQpLk2oQWUjopw89lzT7FXsJ4=",
+          "py3"
         ]
       }
     }

@@ -15643,6 +15643,18 @@
           "py3"
         ]
       }
+    },
+    "2.3.0b20230414": {
+      "wheels": {
+        "bigdl_friesian_spark3-2.3.0b20230414-py3-none-macosx_10_11_x86_64.whl": [
+          "OI4YByBvXDqceSQ5NFelFQOd05euokEDRHAqXuUHFWI=",
+          "py3"
+        ],
+        "bigdl_friesian_spark3-2.3.0b20230414-py3-none-manylinux1_x86_64.whl": [
+          "XG8kQWahvq/+PR9x6au1lSS0ZnBxA3eCIKmmZi+RemY=",
+          "py3"
+        ]
+      }
     }
   },
   "binsinfo": {
@@ -45721,6 +45733,20 @@
       ]
     }
   },
+  "franpdf": {
+    "1.0": {
+      "sdist": [
+        "I5Jwhvy0QoGKetGBrxjMYLBmOmL2g5CUmZv/FKIM7ys=",
+        "franpdf-1.0.tar.gz"
+      ],
+      "wheels": {
+        "franpdf-1.0-py3-none-any.whl": [
+          "q2w01Wq9XXOYyZvZhl3nOAPxCpvi/3QUcl8jdrWnzqE=",
+          "py3"
+        ]
+      }
+    }
+  },
   "free-cash-app-money-generator-no-human-verification-2022-v-2513": {
     "3.996": {
       "sdist": [
@@ -52164,6 +52190,18 @@
       "wheels": {
         "gardener_cicd_libs-1.2032.0-py3-none-any.whl": [
           "O0b6gh0y49vTIkGW/kHWFewf/NlzRFxJ0xr/VC8MS0w=",
+          "py3"
+        ]
+      }
+    },
+    "1.2033.0": {
+      "sdist": [
+        "1gQ8CuqX9cWW83pv038KZ4an1KavoQ5jYfw/0xderIc=",
+        "gardener-cicd-libs-1.2033.0.tar.gz"
+      ],
+      "wheels": {
+        "gardener_cicd_libs-1.2033.0-py3-none-any.whl": [
+          "PwDNTvBdWNgH/c5HRwdk3Zzt/XN+YprhNHDCQ0jJupY=",
           "py3"
         ]
       }
@@ -70244,6 +70282,30 @@
       "wheels": {
         "kmRead-0.1.4-py3-none-any.whl": [
           "3jGIFOD/JH4y1hkw/zRtyKZl8reCFuDLk7PBCQsHS/g=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.5": {
+      "sdist": [
+        "9b3jDHR1srE2eUEEgJtbOJQpky/dl6ZCuWH9vUoXEH8=",
+        "kmRead-0.1.5.tar.gz"
+      ],
+      "wheels": {
+        "kmRead-0.1.5-py3-none-any.whl": [
+          "DWyAF3cB9wSdzb+gHloWDv0sO9oOqlVJNwXbsCZbxtI=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.6": {
+      "sdist": [
+        "2lygQIwQ2CvVRgTv+lUODOtTWrNJ+Gkr5LSKzRbiIho=",
+        "kmRead-0.1.6.tar.gz"
+      ],
+      "wheels": {
+        "kmRead-0.1.6-py3-none-any.whl": [
+          "+5gt8D2UhrImh9U+ax5eX6dbXOMzwTdcm7h7BrTt8mk=",
           "py3"
         ]
       }
@@ -120329,6 +120391,32 @@
       }
     }
   },
+  "randomread": {
+    "0.1.0": {
+      "sdist": [
+        "wEINS+r+upYrBkQAMI3QZYdpixIgFBrKLa5BrSO5w6g=",
+        "randomread-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "randomread-0.1.0-py3-none-any.whl": [
+          "FD86hSmJkPOznbcO/xOaAzVZfux6EoWP8Ag7jP98U44=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.0": {
+      "sdist": [
+        "4ARzIbZpnQUZWRN/PgIMIuREPiCF3dm3zIxpUiJIRc0=",
+        "randomread-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "randomread-0.2.0-py3-none-any.whl": [
+          "GzBlbG/jNUvE1ydZJ/tFdsqJEGdJDqa1LDan5h60vf4=",
+          "py3"
+        ]
+      }
+    }
+  },
   "ranked-vote": {
     "0.0.1": {
       "sdist": [
@@ -130972,6 +131060,24 @@
       "sdist": [
         "/0Adug8vzd785OsD2yckHzOUn3D4+/rCeqfSgO/i4L8=",
         "returnn-1.20230413.93323.tar.gz"
+      ]
+    },
+    "1.20230414.110554": {
+      "sdist": [
+        "xXgkVqWUyGkuexDdG0XBiLpYbKmAP+ZSIgxsg3yJ5x0=",
+        "returnn-1.20230414.110554.tar.gz"
+      ]
+    },
+    "1.20230414.112721": {
+      "sdist": [
+        "Ghks9yo0RAi6OGF0cifkOuDr7Z5Z4M5FiQXrrcpG2DM=",
+        "returnn-1.20230414.112721.tar.gz"
+      ]
+    },
+    "1.20230414.114902": {
+      "sdist": [
+        "iFEW005KgzMkTWW5dnLnRY3iC9GmZkLRUDVWmOtnpLA=",
+        "returnn-1.20230414.114902.tar.gz"
       ]
     }
   },
@@ -142338,6 +142444,18 @@
       "wheels": {
         "streaming_logs-1.0.8-py3-none-any.whl": [
           "B1xY6zrBTJ15rm2+pjpaej09Ll4awmCmtEVmSxKwMRE=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.9": {
+      "sdist": [
+        "rp/c2RTvZ3GBbBT4yp/4IGMHQ1BOP65NPQvQQJa09Wg=",
+        "streaming-logs-1.0.9.tar.gz"
+      ],
+      "wheels": {
+        "streaming_logs-1.0.9-py3-none-any.whl": [
+          "/elbuyf4CO0V7H8jzySidmYucLlSFduAjkD7tw/rnuI=",
           "py3"
         ]
       }

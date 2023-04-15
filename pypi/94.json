@@ -12590,6 +12590,18 @@
         ]
       }
     },
+    "1.29.114": {
+      "sdist": [
+        "qYJAkvNn5n6Ay3UJnCUjg9vkL5Zn+SfZzw1TkXw9rb4=",
+        "botocore-a-la-carte-ec2-1.29.114.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_ec2-1.29.114-py3-none-any.whl": [
+          "bHkOM4XZ2Sk7+Ag6d+9/J6m2/Jzeqr3wBe59YqwRelo=",
+          "py3"
+        ]
+      }
+    },
     "1.29.42": {
       "sdist": [
         "wE/fPntvwU7KAxlHM1B7YvgxvfaY9BUoAmEqU0GAU5E=",
@@ -13452,6 +13464,18 @@
       "wheels": {
         "botocore_a_la_carte_kinesis_video_webrtc_storage-1.29.113-py3-none-any.whl": [
           "X0I1L2b221mJMn/B1Qu+esOgLWClDqiTEGs+aKbppVg=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.114": {
+      "sdist": [
+        "aA2CaRhl03JqM06y+B6Ozm8b+d0fMT1H/icLC/Y9+eA=",
+        "botocore-a-la-carte-kinesis-video-webrtc-storage-1.29.114.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_kinesis_video_webrtc_storage-1.29.114-py3-none-any.whl": [
+          "Gtj89w+QyCqaYiDgW8qY5UNNGNpFsvHMg4C2vl2VcMM=",
           "py3"
         ]
       }
@@ -85755,6 +85779,18 @@
         "EUv/KAITywa+6Sevv7bIHy1C6EbMVwvQ1QEVq7OpGu4=",
         "obp-0.5.5.tar.gz"
       ]
+    },
+    "0.5.6": {
+      "sdist": [
+        "O5Fk1STFomoYHicHlgEqWJ6+1NQ1tt5BE10b6UvJQFk=",
+        "obp-0.5.6.tar.gz"
+      ]
+    },
+    "0.5.7": {
+      "sdist": [
+        "MGDWf+38+t8eem8mCJh/dEErXrdNLFZ+3rFHWVxo8qA=",
+        "obp-0.5.7.tar.gz"
+      ]
     }
   },
   "octodns-kubernetes": {
@@ -121331,6 +121367,32 @@
       }
     }
   },
+  "reactpy-jupyter": {
+    "0.8.0": {
+      "sdist": [
+        "MuWPFgdj7N6H5cO7YEjv2ptH42Ld0sYskHqiBLHR6xI=",
+        "reactpy_jupyter-0.8.0.tar.gz"
+      ],
+      "wheels": {
+        "reactpy_jupyter-0.8.0-py3-none-any.whl": [
+          "7t/GRSu2ZhDdp2aDGpE4Y4aWBxHdAQZGaRuDDPF4emk=",
+          "py3"
+        ]
+      }
+    },
+    "0.8.1": {
+      "sdist": [
+        "KEuCPqoD11iHY52az1ox4Dc9esREUcsvfGp6X9Xqcss=",
+        "reactpy_jupyter-0.8.1.tar.gz"
+      ],
+      "wheels": {
+        "reactpy_jupyter-0.8.1-py3-none-any.whl": [
+          "tpj9XiriKXly4yORYExDb0sAhteV/HztsJ45xIh2BYg=",
+          "py3"
+        ]
+      }
+    }
+  },
   "readim": {
     "0.7.0": {
       "sdist": [
@@ -129431,6 +129493,30 @@
         "M2aB9Q57iybi3bVQUGSV9CtdQBgUDDI2BA5OR/muFdI=",
         "shell-tools-1.0.2.tar.gz"
       ]
+    },
+    "1.1.7": {
+      "sdist": [
+        "1X/KGhmdBmoSvUUM0dFy6zqudXibckNXnLi0oTvm1lw=",
+        "shell-tools-1.1.7.tar.gz"
+      ],
+      "wheels": {
+        "shell_tools-1.1.7-py3-none-any.whl": [
+          "h4G/sBxarejvOwjq8YUbx9MXzTO+2Id9wKfeSjk04v0=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.8": {
+      "sdist": [
+        "QKQR/yuT3ps831auKQ3uNFmwNokxVxsY67yiOUBgz2Y=",
+        "shell-tools-1.1.8.tar.gz"
+      ],
+      "wheels": {
+        "shell_tools-1.1.8-py3-none-any.whl": [
+          "da7t3BNUpJ6ILYX88/aC7PIg8BLZ1WoYvyur2DMHJLA=",
+          "py3"
+        ]
+      }
     }
   },
   "shellfmt": {
@@ -156312,6 +156398,34 @@
         ],
         "xia_api_flask-0.1.8-cp39-none-win_amd64.whl": [
           "5BhUckI5nRgx2T8bLC8THKiWWz/UgtyMugRLvfNDOek=",
+          "cp39"
+        ]
+      }
+    },
+    "0.1.9": {
+      "wheels": {
+        "xia_api_flask-0.1.9-cp310-none-macosx_11_0_x86_64.whl": [
+          "QBRHSQ5V3bAI9tQLw5vjW+XE31u1WAGktzogSytGSz4=",
+          "cp310"
+        ],
+        "xia_api_flask-0.1.9-cp310-none-manylinux1_x86_64.whl": [
+          "+DnEL37wb890VIhp1Efc8eaFJoOVBcL/KhVqqt3T2GM=",
+          "cp310"
+        ],
+        "xia_api_flask-0.1.9-cp310-none-win_amd64.whl": [
+          "3O4K1IevbMoKmLWdnPJnPRSthCw3KVlabjcNfEy+oAI=",
+          "cp310"
+        ],
+        "xia_api_flask-0.1.9-cp39-none-macosx_11_0_x86_64.whl": [
+          "sIWVIravsVIee9grQOonjBPBlK7Tgor6S4C3hLAWPhE=",
+          "cp39"
+        ],
+        "xia_api_flask-0.1.9-cp39-none-manylinux1_x86_64.whl": [
+          "+q5yLgPZ1xgmnx7Dz1lCEdAA3BFFBee+FH7+jKcFELU=",
+          "cp39"
+        ],
+        "xia_api_flask-0.1.9-cp39-none-win_amd64.whl": [
+          "bnzYkUIhvb5L7R/QvYMYWmlPWsWVZCo/Hl7DSNtbAyg=",
           "cp39"
         ]
       }

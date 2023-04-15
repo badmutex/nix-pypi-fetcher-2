@@ -61067,6 +61067,18 @@
           "py3"
         ]
       }
+    },
+    "2.6.0a5": {
+      "sdist": [
+        "xs+9Myb4EFrHwUmFr7ckW52Z4qOeo0UQE/HYMFiqRps=",
+        "jupyterlab_pachyderm-2.6.0a5.tar.gz"
+      ],
+      "wheels": {
+        "jupyterlab_pachyderm-2.6.0a5-py3-none-any.whl": [
+          "94cgBpsHndbRAyc2cIdtOImywSVfzl76XBEZhgBtGM4=",
+          "py3"
+        ]
+      }
     }
   },
   "jw.eventview": {
@@ -70069,6 +70081,20 @@
         "W0IhgGSmUUyMEEvs+N2bLfS1xh73WwbcmoxC8oVlXBA=",
         "maploc-0.2.tar.gz"
       ]
+    }
+  },
+  "maplocal": {
+    "0.1.1": {
+      "sdist": [
+        "dgY9myvR9nNd6LNu48A5k0lDWvqCbFI9Kbpkeplh9d0=",
+        "maplocal-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "maplocal-0.1.1-py3-none-any.whl": [
+          "4hC7PCA7OtT7psX7LJqIJIX6wDdW1VaWaBEuGGfetRc=",
+          "py3"
+        ]
+      }
     }
   },
   "marge2": {
@@ -143450,6 +143476,138 @@
         ],
         "swat-1.12.1-0-cp39-cp39-win_amd64.whl": [
           "Z+mUyH4sTE8pa4LoFjGjrc0vJ4XZ5FBNWBaDbcQ0+ng=",
+          "cp39"
+        ]
+      }
+    },
+    "1.12.2": {
+      "wheels": {
+        "swat-1.12.2-0-cp27-cp27m-macosx_10_9_x86_64.whl": [
+          "7A4CdLpy+QwyzR6Ixuf54Ufs6m7LS0X7QyxEVFq9vFg=",
+          "cp27"
+        ],
+        "swat-1.12.2-0-cp27-cp27m-manylinux1_x86_64.whl": [
+          "YY28pSzy9PuaXxOPsrF3za5z468KOrWDmVkRL1zZ+Zw=",
+          "cp27"
+        ],
+        "swat-1.12.2-0-cp27-cp27m-manylinux2014_ppc64le.whl": [
+          "4BXWjzp04N8MW+DzGknNp3gWfdomiSMTOS+VlLknArY=",
+          "cp27"
+        ],
+        "swat-1.12.2-0-cp27-cp27mu-macosx_10_9_x86_64.whl": [
+          "+W8twx4M90yDGNN0UvfMv3P7v1/oxXuuqsu5dja/3+Y=",
+          "cp27"
+        ],
+        "swat-1.12.2-0-cp27-cp27mu-manylinux1_x86_64.whl": [
+          "Mlf+fcgQoS2kC+hQZkuTRtJFZscKFjxbvH9+Gt+Rsxo=",
+          "cp27"
+        ],
+        "swat-1.12.2-0-cp27-cp27mu-manylinux2014_ppc64le.whl": [
+          "SuPIWXIxuvMeuTBwbjDhXfzzl2INeafsvo0bcOO8ycs=",
+          "cp27"
+        ],
+        "swat-1.12.2-0-cp27-cp27mu-win_amd64.whl": [
+          "pLzq8VO0BX7N/OLX7Voo9Lihnl2Fxl9kzOjGKy2ufFA=",
+          "cp27"
+        ],
+        "swat-1.12.2-0-cp27-cp27m-win_amd64.whl": [
+          "It1gYBknOWrZdKTSCVrjnUYXDFKGckeEKtLJ8JwzCBY=",
+          "cp27"
+        ],
+        "swat-1.12.2-0-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "S6ELo/KOlJdXf6zBYZNeZ/XaQZbXc9UV8OwAQoZcxAk=",
+          "cp310"
+        ],
+        "swat-1.12.2-0-cp310-cp310-manylinux1_x86_64.whl": [
+          "1tr26LcH3pOfaFtpslSag7IEPFWd52aoVfFPu7dqiiY=",
+          "cp310"
+        ],
+        "swat-1.12.2-0-cp310-cp310-manylinux2014_ppc64le.whl": [
+          "jSyArkC7FBKjI/yULLWijgPnhH7hD1ktcwdHP1Gzx5w=",
+          "cp310"
+        ],
+        "swat-1.12.2-0-cp310-cp310-win_amd64.whl": [
+          "eWQXX3tTB+p4g2o3Xzqawy9m0udwBjhHLzGNqtxJO4g=",
+          "cp310"
+        ],
+        "swat-1.12.2-0-cp35-cp35m-macosx_10_9_x86_64.whl": [
+          "JgQBJqdFskoeaWNnnPMW6mPFD6ikzyvJQpPJ54BiGg8=",
+          "cp35"
+        ],
+        "swat-1.12.2-0-cp35-cp35m-manylinux1_x86_64.whl": [
+          "VYnFJLrP5de1J2Sqo2h770xgUtx7cvCqi4Nf/Nviu2g=",
+          "cp35"
+        ],
+        "swat-1.12.2-0-cp35-cp35m-manylinux2014_ppc64le.whl": [
+          "X4vpRgYBEES/mvq8QswnXCzY5eZsEOO0qy9ZGXDiXcc=",
+          "cp35"
+        ],
+        "swat-1.12.2-0-cp35-cp35m-win_amd64.whl": [
+          "PWfbRJtuvsXI4UbX6NSfw2lNA6Kytr3D3MpFIoOkmaM=",
+          "cp35"
+        ],
+        "swat-1.12.2-0-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "41dSRdsq4OD71zp/KyCGT7BGjlUOwliYq/7B0nHKwhE=",
+          "cp36"
+        ],
+        "swat-1.12.2-0-cp36-cp36m-manylinux1_x86_64.whl": [
+          "KMmMvUtrjn7axa7BB1/JmWSgDFN/2/NMJ6+va0o/fvQ=",
+          "cp36"
+        ],
+        "swat-1.12.2-0-cp36-cp36m-manylinux2014_ppc64le.whl": [
+          "vvSA7eo0D03Kjx4FBqu5t+hS2vD05s2g+gQ7ilh1wkM=",
+          "cp36"
+        ],
+        "swat-1.12.2-0-cp36-cp36m-win_amd64.whl": [
+          "nGsZCWIJYIjTHIJtUjvRufyAyOXBjdU3vR37YjhlfW4=",
+          "cp36"
+        ],
+        "swat-1.12.2-0-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "HMQYvukh3RPffTvEOgTw3p8Enxd2c4euNm3eQNXPKHM=",
+          "cp37"
+        ],
+        "swat-1.12.2-0-cp37-cp37m-manylinux1_x86_64.whl": [
+          "pTF35J/aJ9+2dgpQ3Mj5nqxEK1MYjJdL9aNt+lCdxz8=",
+          "cp37"
+        ],
+        "swat-1.12.2-0-cp37-cp37m-manylinux2014_ppc64le.whl": [
+          "2Gpg6GnWz7DCotI218fgtfiItGR2guc4klmHeWZ4BcU=",
+          "cp37"
+        ],
+        "swat-1.12.2-0-cp37-cp37m-win_amd64.whl": [
+          "DUg6+NVqjdKQfTcE8HpsyweRts1+4ujw9HM7GCc6O1Q=",
+          "cp37"
+        ],
+        "swat-1.12.2-0-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "DE+F8NCTizxrnvenU5CGRa66i7WiPqgd3pQxTaeTyF0=",
+          "cp38"
+        ],
+        "swat-1.12.2-0-cp38-cp38-manylinux1_x86_64.whl": [
+          "kaowxyWHiF9QKWWePhMUXBfYX43+r5KIlUStYf5Kls4=",
+          "cp38"
+        ],
+        "swat-1.12.2-0-cp38-cp38-manylinux2014_ppc64le.whl": [
+          "cHhc4vYjVgLeDNGBLU6Tt9IyTD7QTL3PoQ3Jqn8Q8/8=",
+          "cp38"
+        ],
+        "swat-1.12.2-0-cp38-cp38-win_amd64.whl": [
+          "mt6CxNFdaIYp1BDGwBNJbdryn5eD435Ytq4xbp2mWZc=",
+          "cp38"
+        ],
+        "swat-1.12.2-0-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "SLPszh1CbeFKsQlW8Dwvk5eXCanw3FeI8gDphdBKgXw=",
+          "cp39"
+        ],
+        "swat-1.12.2-0-cp39-cp39-manylinux1_x86_64.whl": [
+          "N3ZRbJliSDNTOqnSrhdqnD56TL/nDzuGEVMnZpJy3iA=",
+          "cp39"
+        ],
+        "swat-1.12.2-0-cp39-cp39-manylinux2014_ppc64le.whl": [
+          "sUMUT8sOJvGH+O+psVI+dH1lSyB6qQfofqEaMY8Omp4=",
+          "cp39"
+        ],
+        "swat-1.12.2-0-cp39-cp39-win_amd64.whl": [
+          "uvPARJ3vvzIMFaRpPz3ODpU+RvA9k4JOEdybxsFGd1Y=",
           "cp39"
         ]
       }

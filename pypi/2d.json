@@ -12095,6 +12095,18 @@
           "py3"
         ]
       }
+    },
+    "0.7.0b20230416": {
+      "sdist": [
+        "K5CQuiIbOgjhDprFh8PObQ2GMhJr8yl6Worl4+Hiock=",
+        "autogluon.timeseries-0.7.0b20230416.tar.gz"
+      ],
+      "wheels": {
+        "autogluon.timeseries-0.7.0b20230416-py3-none-any.whl": [
+          "dyPkarSkpJCykSIdwvkpaI81/GwInGP4vOD/azI/Vf8=",
+          "py3"
+        ]
+      }
     }
   },
   "autohooks-plugin-pytest": {
@@ -108616,6 +108628,26 @@
         ],
         "pyobjc_framework_CFNetwork-9.0.1-cp36-abi3-macosx_11_0_universal2.whl": [
           "lk5biSLGR/d+0YJvc9fvdTR0td2NZiQf9SKCGUwSR6Y=",
+          "cp36"
+        ]
+      }
+    },
+    "9.1": {
+      "sdist": [
+        "pnPuOiRn22a0sRLdLri/EmVV9pUbRfzC00c7PF6fWqM=",
+        "pyobjc-framework-CFNetwork-9.1.tar.gz"
+      ],
+      "wheels": {
+        "pyobjc_framework_CFNetwork-9.1-cp36-abi3-macosx_10_9_universal2.whl": [
+          "8GmyChcfsTUEvGhSpXqVex36iO2feFlNCdkcCg8/Fqs=",
+          "cp36"
+        ],
+        "pyobjc_framework_CFNetwork-9.1-cp36-abi3-macosx_10_9_x86_64.whl": [
+          "+AxcLSADyHPVROHgRjlQ7WzGTwTkFYno8CBou6qV4PQ=",
+          "cp36"
+        ],
+        "pyobjc_framework_CFNetwork-9.1-cp36-abi3-macosx_11_0_universal2.whl": [
+          "lJ+AJD4hTQ6+OJn4+rM7phrorW2PLUbFRiCPzNIQtHA=",
           "cp36"
         ]
       }

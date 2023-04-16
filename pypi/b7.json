@@ -10312,6 +10312,18 @@
         ]
       }
     },
+    "2.38.0": {
+      "sdist": [
+        "PyJweTCdKVXDs5/ZwcqSHM5xU5u6j/uaD0ikdkTX0sU=",
+        "aws-solutions-constructs.aws-cloudfront-mediastore-2.38.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_cloudfront_mediastore-2.38.0-py3-none-any.whl": [
+          "X9Q2t2HlZWkUa1HijMwk/Wt7mOvnUkSUg7QAuy6NP/M=",
+          "py3"
+        ]
+      }
+    },
     "2.4.0": {
       "sdist": [
         "O0h7fUYSFSIENhrO1gRy2690wqyCz8pDgb6G4IBX/Hc=",
@@ -11606,6 +11618,18 @@
       "wheels": {
         "aws_solutions_constructs.aws_lambda_eventbridge-2.37.0-py3-none-any.whl": [
           "6XEKQ90tAb8JpTha5GST28LKqFTg8HJ8H/nm3QjwIvI=",
+          "py3"
+        ]
+      }
+    },
+    "2.38.0": {
+      "sdist": [
+        "fRAvZ9SriAYtxfpRIV7wOL9VaDVleBhqFsCXnNiz5fo=",
+        "aws-solutions-constructs.aws-lambda-eventbridge-2.38.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_lambda_eventbridge-2.38.0-py3-none-any.whl": [
+          "9rGyg8YKXxScs1NSmqiyXw0AAQASbulOdr7qkE0HP8s=",
           "py3"
         ]
       }
@@ -50428,6 +50452,18 @@
       "wheels": {
         "fb_python_sdk-1.0.1-py3-none-any.whl": [
           "fshDfZrNqVBuK1b8gWN2x/inztexLcmdGFyN6oadpCg=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.0": {
+      "sdist": [
+        "9Ew0ca2T5El/tLMRFRFFFgLs7vA1Dj6W4IO8ExZVVqM=",
+        "fb-python-sdk-1.1.0.tar.gz"
+      ],
+      "wheels": {
+        "fb_python_sdk-1.1.0-py3-none-any.whl": [
+          "iHocNCLRpkaWUYevaJnDfQHOfkD5getNbniD83YBAsk=",
           "py3"
         ]
       }
@@ -98573,6 +98609,42 @@
           "py3"
         ]
       }
+    },
+    "0.1.2": {
+      "sdist": [
+        "mqk4fWyhWmJqtjt+jPjowtljlnSeWhY8j/eT+rPSCcM=",
+        "oaas_sdk_py-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "oaas_sdk_py-0.1.2-py3-none-any.whl": [
+          "wlh7aMuDNURpjUHX7BLTfXinDYnu6OUHRL7yC5FJ0/g=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.3": {
+      "sdist": [
+        "Hcb694kOXTyVoFymfi9vBK8IRFTqshDgp5k24XvwjMI=",
+        "oaas_sdk_py-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "oaas_sdk_py-0.1.3-py3-none-any.whl": [
+          "ULuZjFREASM9Thm42H/t8gCqM5h65KA7KQoqxdkE60Q=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.4": {
+      "sdist": [
+        "wNfhdGOXfMb0BCWDBrIjS2pgzhBjuAL5yVM+P28HJR8=",
+        "oaas_sdk_py-0.1.4.tar.gz"
+      ],
+      "wheels": {
+        "oaas_sdk_py-0.1.4-py3-none-any.whl": [
+          "QFi8cN2Y1/bEVLrwpw/b2ptQUKIVNGmOgdhRqEpALdo=",
+          "py3"
+        ]
+      }
     }
   },
   "oauth2-ingaia": {
@@ -99798,6 +99870,14 @@
       "wheels": {
         "odoo12_addon_purchase_order_variant_mgmt-12.0.1.0.2.99.dev2-py3-none-any.whl": [
           "OV1GZ/0M/Gwhu0wSf92f0OKgmcngt7JuVC8kCcDHtcg=",
+          "py3"
+        ]
+      }
+    },
+    "12.0.1.0.2.99.dev3": {
+      "wheels": {
+        "odoo12_addon_purchase_order_variant_mgmt-12.0.1.0.2.99.dev3-py3-none-any.whl": [
+          "WMDjYJ3SK3PZywkKPXG/5NSoGZXxY7QS4fziJHA0GcQ=",
           "py3"
         ]
       }
@@ -119090,6 +119170,18 @@
       "wheels": {
         "pyobjc_framework_DictionaryServices-9.0.1-py2.py3-none-any.whl": [
           "4vL9jQ2DPSohHArqYB1ikeEYrA4sXaZEXbmQO2P20Zc=",
+          "py2.py3"
+        ]
+      }
+    },
+    "9.1": {
+      "sdist": [
+        "diWvBKdImECjY255dl0BB85QauPO4R0EfrWhddggm3Q=",
+        "pyobjc-framework-DictionaryServices-9.1.tar.gz"
+      ],
+      "wheels": {
+        "pyobjc_framework_DictionaryServices-9.1-py2.py3-none-any.whl": [
+          "2IAmkP9/r+WkBb6c2je5fDbbqjKJZnCLyGR+kycaq5k=",
           "py2.py3"
         ]
       }
@@ -138672,6 +138764,30 @@
         ]
       }
     },
+    "0.1.80": {
+      "sdist": [
+        "C4ssLxzUWsoiGfUlDxA7w6nPkbolJQ5gBG3flYGT7xE=",
+        "sparrow-order-lib-0.1.80.tar.gz"
+      ],
+      "wheels": {
+        "sparrow_order_lib-0.1.80-py3-none-any.whl": [
+          "zPA27NoTyIWNbP7MRRwMd+QGxSKAdHL9elLTgK3a1E0=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.81": {
+      "sdist": [
+        "FWPKjxIfQE2eO7i5HteDY3KXTcidbg7SL4U/Axp7H2Q=",
+        "sparrow-order-lib-0.1.81.tar.gz"
+      ],
+      "wheels": {
+        "sparrow_order_lib-0.1.81-py3-none-any.whl": [
+          "tUp+M03LUI625lL8VSXenKFGTaNaPextP6Xj7i5roCY=",
+          "py3"
+        ]
+      }
+    },
     "0.1.9": {
       "sdist": [
         "n1JQaMABC8lRXzEiYvuVyRwJ+Qt1i40N7SkMVPDsvLw=",
@@ -148804,6 +148920,12 @@
       "sdist": [
         "sJEEriNcmY5toEmftI7bRgzdBcU6mTp39OxZZOG9GbQ=",
         "tremolo-0.0.82.tar.gz"
+      ]
+    },
+    "0.0.83": {
+      "sdist": [
+        "9BTFo/yLiI611gZmS/bwQ1BjxRevFSp/nx37XoK2fII=",
+        "tremolo-0.0.83.tar.gz"
       ]
     }
   },

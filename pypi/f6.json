@@ -13208,6 +13208,18 @@
         ]
       }
     },
+    "2.38.0": {
+      "sdist": [
+        "rqMhgDjGAOmkh+7tt3OUkvxBNsJShul8wUw+DMPAvx4=",
+        "aws-solutions-constructs.aws-kinesis-streams-lambda-2.38.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_kinesis_streams_lambda-2.38.0-py3-none-any.whl": [
+          "q6f6MUafe2D4ub7zaO09DY0l0OTHDrOxNn7XgdSBgJs=",
+          "py3"
+        ]
+      }
+    },
     "2.4.0": {
       "sdist": [
         "vRvvppAVOxDS4lcgjfjP2uFyZ9toJ2dd7TMkzAiP4k8=",
@@ -90777,6 +90789,14 @@
           "py3"
         ]
       }
+    },
+    "15.0.1.0.1.7": {
+      "wheels": {
+        "odoo_addon_stock_picking_mass_action-15.0.1.0.1.7-py3-none-any.whl": [
+          "wP48BIHtKhrJoOFComN33u3GP1U5Y6C+9N+NSqmICfg=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo-addon-web-theme-classic": {
@@ -108644,6 +108664,18 @@
       "wheels": {
         "polyaxon_sdk-2.0.0rc7-py2.py3-none-any.whl": [
           "A4jD55s8QedEVKi8Uus/CKNvPl42O5XKhyuT/G/6A9o=",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.0.0rc8": {
+      "sdist": [
+        "FLMKpTUw6Hxt+BjTgo6AbT/mLkaAXflXzo84HDrYL5Y=",
+        "polyaxon-sdk-2.0.0rc8.tar.gz"
+      ],
+      "wheels": {
+        "polyaxon_sdk-2.0.0rc8-py2.py3-none-any.whl": [
+          "zkar34XzgPYoBCKnyikMrM3FsIbhUjzfdfAUl3+wJjQ=",
           "py2.py3"
         ]
       }
@@ -155376,6 +155408,12 @@
       "sdist": [
         "/eC2kwmZctL93YyocE/VfUmEY65Ph2kgm93v+83Pd1U=",
         "yascheduler-1.0.7.tar.gz"
+      ]
+    },
+    "1.0.8": {
+      "sdist": [
+        "liXHLyOEmEia4eyUpKigj0skLpplPwD4bPin/J8SIQA=",
+        "yascheduler-1.0.8.tar.gz"
       ]
     }
   },

@@ -64605,6 +64605,24 @@
       }
     }
   },
+  "i3dfeatureextraction": {
+    "0.1": {
+      "wheels": {
+        "i3dFeatureExtraction-0.1-py3-none-any.whl": [
+          "ZZNKOO2GmUToRWYn2hiPVfwJGXd5hZh0uYP7PV1FIJU=",
+          "py3"
+        ]
+      }
+    },
+    "0.2": {
+      "wheels": {
+        "i3dFeatureExtraction-0.2-py3-none-any.whl": [
+          "u0hUVcPYeuvLCl9XNIBxIL88OFYrserzYLPg4PoMhJI=",
+          "py3"
+        ]
+      }
+    }
+  },
   "i3hub": {
     "1.0.0": {
       "sdist": [
@@ -99016,6 +99034,30 @@
       "wheels": {
         "polars_lts_cpu-0.17.3-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "a+AL1jaAtiaDq+qniZoywk7VpTSRfpFAcqfsve3eWkE=",
+          "cp37"
+        ]
+      }
+    },
+    "0.17.4": {
+      "sdist": [
+        "I3dugqTHoDoIg1/Pxu7NfENWyqhI9S++3VhfDeLMc6Y=",
+        "polars_lts_cpu-0.17.4.tar.gz"
+      ],
+      "wheels": {
+        "polars_lts_cpu-0.17.4-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "vk07WHC+xDfvqw084KNglTWmXNAuY8x2i4MWlVbrsvY=",
+          "cp37"
+        ]
+      }
+    },
+    "0.17.5": {
+      "sdist": [
+        "d5mdcohgHnWKQyl6qdAwWVXVjE516nlG4FCpIP/WJvI=",
+        "polars_lts_cpu-0.17.5.tar.gz"
+      ],
+      "wheels": {
+        "polars_lts_cpu-0.17.5-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "RGZCycVWz/w+RUY/mnvjtkXHXZO4NixEvwMM6BGl1eA=",
           "cp37"
         ]
       }
@@ -140997,6 +141039,20 @@
         "tippo-4.0.3-py2.py3-none-any.whl": [
           "P2+9/yGxwnHci50/tgvRGi2JwqgRMnHSSP4RUxKUa+A=",
           "py2.py3"
+        ]
+      }
+    }
+  },
+  "titanic-regression-model": {
+    "0.0.2": {
+      "sdist": [
+        "fMr9VKiEaz3ExILuHDWflH3mqOhdK8qewc2x7OvoqC8=",
+        "titanic-regression-model-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "titanic_regression_model-0.0.2-py3-none-any.whl": [
+          "asFUNbJLyqnSDo6VTIMkyNXYrfLhW5h/kJau0uDd7Zs=",
+          "py3"
         ]
       }
     }

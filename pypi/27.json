@@ -17413,6 +17413,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.5": {
+      "sdist": [
+        "fQ5zGgeccGoxE2CsT02SV/FAjvSM3BLxTChitSkH5Uk=",
+        "chem_templates-0.0.5.tar.gz"
+      ],
+      "wheels": {
+        "chem_templates-0.0.5-py3-none-any.whl": [
+          "GCEfg90eNdEMT4fJJtlJs74FEfJuXwKd4BRtBxwUiQo=",
+          "py3"
+        ]
+      }
     }
   },
   "chemeye": {
@@ -33198,6 +33210,30 @@
       "wheels": {
         "doji_core-0.1.3-py3-none-any.whl": [
           "8SbZlpnafP7QrSotHRH/0MRSmTBcX5LlHXDwKemuO5k=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.4": {
+      "sdist": [
+        "tx8v5ruqfn56XZgjKtjX0sjdY5yxxzczetTKtMKzHOg=",
+        "doji_core-0.1.4.tar.gz"
+      ],
+      "wheels": {
+        "doji_core-0.1.4-py3-none-any.whl": [
+          "qDcDE5trVW5O2mvQ/6wI++Kv+Lqx0ZHk0SguXjhPCkQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.5": {
+      "sdist": [
+        "bPPZHcFXFcQSzMNR4MfC3PHRWVTR6PmscDEcmuP2SCU=",
+        "doji_core-0.1.5.tar.gz"
+      ],
+      "wheels": {
+        "doji_core-0.1.5-py3-none-any.whl": [
+          "TQaB19KtfCSaP58xvUOK8IaYAdLSnB6bmmmhbCvFFHw=",
           "py3"
         ]
       }
@@ -53574,6 +53610,12 @@
       "sdist": [
         "jZwiC3nVlEF18Bwj+qVxnTxpi4bLoGUZJzh8xF9eBGg=",
         "hdn-research-environment-1.5.2.tar.gz"
+      ]
+    },
+    "1.5.3": {
+      "sdist": [
+        "wGLOFWK1t9J2xKmfI1Bs1D0UtjC3g5yCLAODdIfrF8Y=",
+        "hdn-research-environment-1.5.3.tar.gz"
       ]
     }
   },
@@ -101714,7 +101756,25 @@
       "sdist": [
         "E9OCztm7k7yKqlgKNjoq4F8iLp3Tda0kCFRng/10+SY=",
         "peaqevcore-15.3.2.tar.gz"
-      ]
+      ],
+      "wheels": {
+        "peaqevcore-15.3.2-py3-none-any.whl": [
+          "ERx5M1YLJbVAoji2fl6iaCkxJRanhQQgyH3eNKabGeE=",
+          "py3"
+        ]
+      }
+    },
+    "15.3.4": {
+      "sdist": [
+        "6luaWy9cQsl6wFJLkJkV1ogh0RvCdSo2R79CVQaXvjs=",
+        "peaqevcore-15.3.4.tar.gz"
+      ],
+      "wheels": {
+        "peaqevcore-15.3.4-py3-none-any.whl": [
+          "j4g0dkPwWRavPPeHsCyUMTl3mL4FSBkwO+gUj1mIqLU=",
+          "py3"
+        ]
+      }
     },
     "2.0.0": {
       "sdist": [
@@ -101750,54 +101810,6 @@
       "sdist": [
         "Im4efSTiok9gn/brnURUWkWP1t7b2muSfqBPPiTuRdk=",
         "peaqevcore-3.0.0.tar.gz"
-      ]
-    },
-    "3.0.1": {
-      "sdist": [
-        "HuQdKRNdpkOXe36t8n18zrDd84HQ5BFVlVSCmyQGCaI=",
-        "peaqevcore-3.0.1.tar.gz"
-      ]
-    },
-    "3.0.2": {
-      "sdist": [
-        "M0RcVfk6eqn64evozs6wiNZR6RuWDPnofkAAlhP01JI=",
-        "peaqevcore-3.0.2.tar.gz"
-      ]
-    },
-    "3.0.3": {
-      "sdist": [
-        "wm30L8wY05C3I/afBytESvukv5UdyWBTR2voS7WdLxo=",
-        "peaqevcore-3.0.3.tar.gz"
-      ]
-    },
-    "3.0.4": {
-      "sdist": [
-        "e1hyeXI9Mx3HaraMtaDyimHXrqHcmv9nIezTru2lyMo=",
-        "peaqevcore-3.0.4.tar.gz"
-      ]
-    },
-    "3.0.5": {
-      "sdist": [
-        "nRbpQxf2I+X9tgm7wZ1CGdlepDPvvwPpRjjLoDAR/k0=",
-        "peaqevcore-3.0.5.tar.gz"
-      ]
-    },
-    "3.0.6": {
-      "sdist": [
-        "/wiVyIiyNl7pqujjROgWdrQH253Li6QZzFZisUm5jlM=",
-        "peaqevcore-3.0.6.tar.gz"
-      ]
-    },
-    "3.0.7": {
-      "sdist": [
-        "yjcO5fRYR4v5334eh9Sen2VKk59zVT1WB/1iXKDd0rA=",
-        "peaqevcore-3.0.7.tar.gz"
-      ]
-    },
-    "3.1.0": {
-      "sdist": [
-        "jAhmB34Iddp3x27Fudfc1BbYMMhKw6bIOTT41q8H1Zw=",
-        "peaqevcore-3.1.0.tar.gz"
       ]
     },
     "3.1.1": {
@@ -115118,6 +115130,18 @@
       "wheels": {
         "pyPreservica-1.6.3-py3-none-any.whl": [
           "w76yvmHMuT6XykzMK2W4BqSrCYlgoGZwv1/dbhlJrHg=",
+          "py3"
+        ]
+      }
+    },
+    "1.7.0": {
+      "sdist": [
+        "+MEQnn/Wt4o8HBkICJGOSXRVcQg8/ubCWZZyJz+s1cs=",
+        "pyPreservica-1.7.0.tar.gz"
+      ],
+      "wheels": {
+        "pyPreservica-1.7.0-py3-none-any.whl": [
+          "bhTWSYJYCQVgnhOgV25oyqqVZFbsE1R5Gg7CblYUR2M=",
           "py3"
         ]
       }

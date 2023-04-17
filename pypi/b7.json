@@ -50467,6 +50467,18 @@
           "py3"
         ]
       }
+    },
+    "1.1.1": {
+      "sdist": [
+        "K/OZYp8C7a44FWdtkCGPqxiSTFHyzHA/0xywF+M24wE=",
+        "fb-python-sdk-1.1.1.tar.gz"
+      ],
+      "wheels": {
+        "fb_python_sdk-1.1.1-py3-none-any.whl": [
+          "iAegedfTDtT6r7Zr0A+lC3J3qqkmBB5iu4yQgqa3c2g=",
+          "py3"
+        ]
+      }
     }
   },
   "fc-server": {
@@ -102004,6 +102016,46 @@
     }
   },
   "openassetio": {
+    "1.0.0a10": {
+      "wheels": {
+        "openassetio-1.0.0a10-cp310-cp310-macosx_10_15_x86_64.whl": [
+          "WxyoNyk+2sq/11tczxWw7hoM08E+ZXFS/K3kwViPcD8=",
+          "cp310"
+        ],
+        "openassetio-1.0.0a10-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "bL7/eEYYiFe9WnSVpE1qgYLQprjTwmg0P57mEMUA++s=",
+          "cp310"
+        ],
+        "openassetio-1.0.0a10-cp310-cp310-win_amd64.whl": [
+          "MpoMeHcRFHI63cvvhZEZTBIg8QdvTa5aeOi/NgJuNrI=",
+          "cp310"
+        ],
+        "openassetio-1.0.0a10-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "u8UwVXKDfsHNkv9bvhVmhE2WXPpSLETyWNJ8m4c0AhE=",
+          "cp37"
+        ],
+        "openassetio-1.0.0a10-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "p1/SbbX+jOuhErls6s9VMGixIRKnB5q7MvYA04z4RaQ=",
+          "cp37"
+        ],
+        "openassetio-1.0.0a10-cp37-cp37m-win_amd64.whl": [
+          "soJaOXymDbuwcK7TBSOjNO9PzRpuv3zzKZ6CR28KXUI=",
+          "cp37"
+        ],
+        "openassetio-1.0.0a10-cp39-cp39-macosx_10_15_x86_64.whl": [
+          "UiWMFXYyrx63jIyVTtqh3fwkxicZHIUjZCI+0TN2lMM=",
+          "cp39"
+        ],
+        "openassetio-1.0.0a10-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "91vYahSxhWLSYpeUacVay1/lxW0gu6zZ2vKOBdGsfPY=",
+          "cp39"
+        ],
+        "openassetio-1.0.0a10-cp39-cp39-win_amd64.whl": [
+          "yqYKgTDGYhucJ7pWSadiD+zStMlFkyiIW5cFsOC2DuM=",
+          "cp39"
+        ]
+      }
+    },
     "1.0.0a5": {
       "wheels": {
         "openassetio-1.0.0a5-cp310-cp310-macosx_10_15_x86_64.whl": [
@@ -114996,6 +115048,30 @@
       "wheels": {
         "pydflow-1.6.107-py3-none-any.whl": [
           "F7cZnV1ujFGPdl+SJOCrkCNA8Z8OpuXE2UUXhkieN/s=",
+          "py3"
+        ]
+      }
+    },
+    "1.6.108": {
+      "sdist": [
+        "u9XflHb/58Shq1KZYdmQ+yZ7P3ZYSmhENNXmH02Fvis=",
+        "pydflow-1.6.108.tar.gz"
+      ],
+      "wheels": {
+        "pydflow-1.6.108-py3-none-any.whl": [
+          "DM3h9NjzeIyO9ZPEjU2mh+Oe3SHi6rna2HzqzxALUrg=",
+          "py3"
+        ]
+      }
+    },
+    "1.6.109": {
+      "sdist": [
+        "jzFuYZaCk2e0hj2JYmgCpHq7eWRX+M2zeWByr6juro4=",
+        "pydflow-1.6.109.tar.gz"
+      ],
+      "wheels": {
+        "pydflow-1.6.109-py3-none-any.whl": [
+          "sJXsSrvXUh1RnAJsfeDiFKIf2SlizA5lNbCj3sx+sB8=",
           "py3"
         ]
       }
@@ -138800,6 +138876,18 @@
         ]
       }
     },
+    "0.1.82": {
+      "sdist": [
+        "vcI8Yrz5B4oX5SLwNB9RX1S+0D0CEpQAwtDPA0usqL0=",
+        "sparrow-order-lib-0.1.82.tar.gz"
+      ],
+      "wheels": {
+        "sparrow_order_lib-0.1.82-py3-none-any.whl": [
+          "/CLdv46AGmQCTieAMep+BCKNxulxfXadHZx6K73N6ok=",
+          "py3"
+        ]
+      }
+    },
     "0.1.9": {
       "sdist": [
         "n1JQaMABC8lRXzEiYvuVyRwJ+Qt1i40N7SkMVPDsvLw=",
@@ -147258,6 +147346,18 @@
       "wheels": {
         "titiler.mosaic-0.11.5-py3-none-any.whl": [
           "DjC3EbsjWDjSKNAObPAQnq3xzolgG+nKLUB7Vo//L8M=",
+          "py3"
+        ]
+      }
+    },
+    "0.11.6": {
+      "sdist": [
+        "IyVdHGcp7SFNUs9N28g8B2FD3okESGKv8iH8HLO7WNA=",
+        "titiler.mosaic-0.11.6.tar.gz"
+      ],
+      "wheels": {
+        "titiler.mosaic-0.11.6-py3-none-any.whl": [
+          "eFD156Ma9gXYKD4ubi8xswFLhsGd9raOARSQgt2GtmE=",
           "py3"
         ]
       }

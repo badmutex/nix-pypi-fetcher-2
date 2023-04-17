@@ -61735,6 +61735,18 @@
           "py3"
         ]
       }
+    },
+    "7.6.1": {
+      "sdist": [
+        "BLHOj8hvyk+TSlGCz/gJrBKQAeyeKbxiUqbhZI1cpN0=",
+        "ifd_python-7.6.1.tar.gz"
+      ],
+      "wheels": {
+        "ifd_python-7.6.1-py3-none-any.whl": [
+          "4G8fFrmtShhDHnk4+j8jI6jyZSi8F+K7n3Rn51cL3Hg=",
+          "py3"
+        ]
+      }
     }
   },
   "iitg-acad-hub": {
@@ -64188,6 +64200,18 @@
       "wheels": {
         "inventree-0.10.1-py2.py3-none-any.whl": [
           "YT3PEe5xSYbo7y1TiSRURzck262hpg7Lf/JbbU4BIK8=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.11.0": {
+      "sdist": [
+        "Hkbja3YYY9/YhIgKeNM0Skj+8jTbxLCK02OHsQRC+9Y=",
+        "inventree-0.11.0.tar.gz"
+      ],
+      "wheels": {
+        "inventree-0.11.0-py2.py3-none-any.whl": [
+          "DnBwfoDDv+C1+1cDsgpGxhGHghnb/ISyQvQq0w+AwVY=",
           "py2.py3"
         ]
       }
@@ -68692,38 +68716,6 @@
       "wheels": {
         "kaiju_tasks-2.0.10-py3-none-any.whl": [
           "8clARgQ7LLlNeYl+1phh0MVdD1anLNpK3K6f4BhB/rg=",
-          "py3"
-        ]
-      }
-    },
-    "2.0.6": {
-      "wheels": {
-        "kaiju_tasks-2.0.6-py3-none-any.whl": [
-          "Sw1F9vFfJ9+Hw+tU+5VMTuoibjXdya1TdwxEXnzM7Gk=",
-          "py3"
-        ]
-      }
-    },
-    "2.0.7": {
-      "wheels": {
-        "kaiju_tasks-2.0.7-py3-none-any.whl": [
-          "GohUrL2f+2t7AAiA0Ud/udwyYz1/xaUSGPif0bp5QhQ=",
-          "py3"
-        ]
-      }
-    },
-    "2.0.8": {
-      "wheels": {
-        "kaiju_tasks-2.0.8-py3-none-any.whl": [
-          "aJeE6U+pHw4nt3Iu4hhbpmdkipI5w0Kpc+7AUL3v6Hw=",
-          "py3"
-        ]
-      }
-    },
-    "2.0.9": {
-      "wheels": {
-        "kaiju_tasks-2.0.9-py3-none-any.whl": [
-          "2BxS0U6GubcFsRTCW2MnUG5uuVCspB+9PQzB22alLb4=",
           "py3"
         ]
       }
@@ -109352,6 +109344,38 @@
         ]
       }
     },
+    "1.0.19": {
+      "wheels": {
+        "pylebai-1.0.19-cp310-cp310-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "A0kWcN7zZ0SlcekjTv+v6U8SFYqcWojFwiPv+QocvT8=",
+          "cp310"
+        ],
+        "pylebai-1.0.19-cp36-cp36m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "l/Ri2LSxSo8iqf/2NlcIZynq62rBb5eK71kMQA88TOM=",
+          "cp36"
+        ],
+        "pylebai-1.0.19-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "jhzVtV5G56Bs+fEIfYAfSjVss+pdxD72wt/QOZX7fww=",
+          "cp37"
+        ],
+        "pylebai-1.0.19-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "mkV/PNM4ATXXZ9Y20+Zx/4ZQ4UU4UGbnrn3WHNXeCvE=",
+          "cp38"
+        ],
+        "pylebai-1.0.19-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "GoUSgMQbykgqLqntJLANp26NFY2oc+nXzpzPTvH/CUY=",
+          "cp39"
+        ],
+        "pylebai-1.0.19-pp37-pypy37_pp73-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "dzo83tE9Ed67XC4Di5xO1YFbNUa7FQh7tgBB9HWhrbk=",
+          "pp37"
+        ],
+        "pylebai-1.0.19-pp38-pypy38_pp73-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "VBt825815XzN0B1mgZNECDBFetw4Py2gk387zNUfJcU=",
+          "pp38"
+        ]
+      }
+    },
     "1.0.3": {
       "wheels": {
         "pylebai-1.0.3-cp310-cp310-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
@@ -126350,6 +126374,30 @@
       "wheels": {
         "sanctum_tc-0.6.0a2-py3-none-any.whl": [
           "hVF7AHgthht/9UdBZu33VPjGgoE6EsRGRpq1LXOBtjI=",
+          "py3"
+        ]
+      }
+    },
+    "0.7.0": {
+      "sdist": [
+        "m+CmX1bKmn+YpzChJXbUGVrpnc56NOxl8CajgZQ7Mfo=",
+        "sanctum_tc-0.7.0.tar.gz"
+      ],
+      "wheels": {
+        "sanctum_tc-0.7.0-py3-none-any.whl": [
+          "7KvLYG5kLmd55vziXrcj+mHGZDmu7StdxofgV/1mCcQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.7.0a0": {
+      "sdist": [
+        "fOPjbwfEuRgEtXwU908x94ltUMJexw1PkIqJwO+ivS4=",
+        "sanctum_tc-0.7.0a0.tar.gz"
+      ],
+      "wheels": {
+        "sanctum_tc-0.7.0a0-py3-none-any.whl": [
+          "85+HG44uzIZKA5k4WdsqbQEw6WiY+2SahPPvtrcA9h8=",
           "py3"
         ]
       }

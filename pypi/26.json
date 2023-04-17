@@ -55947,6 +55947,18 @@
         "6Lao/TDfVh0eTHVJ/guiDLOa2V6dQ8nCXhpkIk4+dtw=",
         "fastapi_all_out-0.2.1.tar.gz"
       ]
+    },
+    "0.2.2": {
+      "sdist": [
+        "aVFFGu5VUNnNhO5v8rZJiQyFa5hy06L0SGdeiYp5Skc=",
+        "fastapi_all_out-0.2.2.tar.gz"
+      ]
+    },
+    "0.2.3": {
+      "sdist": [
+        "0BsskFbqydvImYzmTO2fSf4XNrFJU8O9oCErMSUdoy0=",
+        "fastapi_all_out-0.2.3.tar.gz"
+      ]
     }
   },
   "fastapi-boilerplate": {
@@ -108442,6 +108454,12 @@
         "peek-core-search-3.2.11.tar.gz"
       ]
     },
+    "3.2.12": {
+      "sdist": [
+        "oXnGfZmGMI/ZN9ed8gWsJaPmS66GZfSgzJKfaKszn8I=",
+        "peek-core-search-3.2.12.tar.gz"
+      ]
+    },
     "3.2.2": {
       "sdist": [
         "K13Q8mD0waC1GKy95YMEp7hWzslImeIux37b2rv6Vro=",
@@ -128612,6 +128630,10 @@
     },
     "6.5.0rc3": {
       "wheels": {
+        "quarkstudio-6.5.0rc3-cp310-cp310-macosx_10_9_universal2.whl": [
+          "PL+6SY65D7Aq7GRHzQNgbxEpGuO5dVrtaSRb6ak9yvA=",
+          "cp310"
+        ],
         "quarkstudio-6.5.0rc3-cp310-cp310-manylinux1_x86_64.whl": [
           "80iF89Tc4QwDCEGLazKtbEDHV4USe1pIaj8nT9i3HqI=",
           "cp310"
@@ -128620,12 +128642,28 @@
           "rUl1uTVXWgLkBVVouuYbsccdvjYalNOIby5vJ+X6b10=",
           "cp310"
         ],
+        "quarkstudio-6.5.0rc3-cp311-cp311-macosx_10_9_universal2.whl": [
+          "paFgSqoFKXjgpTDAvslXF38noioAslR7i1b1F0vllsg=",
+          "cp311"
+        ],
         "quarkstudio-6.5.0rc3-cp311-cp311-manylinux1_x86_64.whl": [
           "mXOa5NS0PgEZsM+X5Y68chWJK4rhWDLge2ihuq7HlfQ=",
           "cp311"
         ],
         "quarkstudio-6.5.0rc3-cp311-cp311-win_amd64.whl": [
           "ZfEfddj90CHY1yrVhhqlu4NlxM71oMZoPZtj/kP361M=",
+          "cp311"
+        ]
+      }
+    },
+    "6.5.0rc4": {
+      "wheels": {
+        "quarkstudio-6.5.0rc4-cp310-cp310-win_amd64.whl": [
+          "zzvoy10SoTueAtvmeizkls6jkD6Ujj2+rVE5tbZWbEY=",
+          "cp310"
+        ],
+        "quarkstudio-6.5.0rc4-cp311-cp311-win_amd64.whl": [
+          "BCH5mQR3SV8xf5tibhC/GJNAjKziLkkB6TK9E5FVR8U=",
           "cp311"
         ]
       }

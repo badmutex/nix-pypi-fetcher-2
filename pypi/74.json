@@ -73880,26 +73880,50 @@
     }
   },
   "ml-botting-core": {
-    "0.0.1": {
+    "0.0.10": {
       "sdist": [
-        "H+7O6PRtjFOePOMRNST9pq7wAWfvzNyCqvffOGhMM10=",
-        "ml-botting-core-0.0.1.tar.gz"
+        "yl8Ip1orNv4qHDbTKW9uzkf9TMAjMryqYXQCsCFstCQ=",
+        "ml_botting_core-0.0.10.tar.gz"
       ],
       "wheels": {
-        "ml_botting_core-0.0.1-py3-none-any.whl": [
-          "KfSQCjSIyBWUE0bYNn85fqJVK4WrYbhPHENocR8/XQg=",
+        "ml_botting_core-0.0.10-py3-none-any.whl": [
+          "Goa0/pdImUVpbnzfDj7rxq49xFH4t6ZxLkAfkCnJvhw=",
           "py3"
         ]
       }
     },
-    "0.0.2": {
+    "0.0.5": {
       "sdist": [
-        "rUQXEOIcDVvQaL0ap1advn8LqmeQiq2SrH42uWBhGDo=",
-        "ml-botting-core-0.0.2.tar.gz"
+        "DBrGRZaic54vFttzC/BWrvZjG8DspUWHUcjhUszJ6ik=",
+        "ml_botting_core-0.0.5.tar.gz"
       ],
       "wheels": {
-        "ml_botting_core-0.0.2-py3-none-any.whl": [
-          "t3UrdYRxJkLr10pbZ8xvBBtUv80k3OCOJg8CwUPRU5g=",
+        "ml_botting_core-0.0.5-py3-none-any.whl": [
+          "a2jNox9lg/mcVRH0HsaynybOw6efz8967gh/MfcS2hM=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.7": {
+      "sdist": [
+        "wXFlb5okbZj7Dkt1N10j2d8hqIW57QgVymAV9cX0W6E=",
+        "ml_botting_core-0.0.7.tar.gz"
+      ],
+      "wheels": {
+        "ml_botting_core-0.0.7-py3-none-any.whl": [
+          "y1OV5dA4s1MZOvQ4v69CtaVpjfbgQnFVtonXMlNO8CA=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.9": {
+      "sdist": [
+        "SWovEUlDuUW1iL+mjh0tpqkjQyCxo+GI0MQH46LNXqg=",
+        "ml_botting_core-0.0.9.tar.gz"
+      ],
+      "wheels": {
+        "ml_botting_core-0.0.9-py3-none-any.whl": [
+          "x8LKKHimqYYyjDxDwtcxFRt78p78qW4uQony5V0vaIs=",
           "py3"
         ]
       }
@@ -122666,6 +122690,30 @@
         ],
         "pytorch_triton_rocm-2.0.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "VyT3c9RrRLrlJje67I0xSIz4tifOsuM4YqbJrvIpad4=",
+          "cp39"
+        ]
+      }
+    },
+    "2.0.2.dev20230401": {
+      "wheels": {
+        "pytorch_triton_rocm-2.0.2.dev20230401-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "3dCZayEOCdqJQ/q2tmizFzJ2ae81ONL+ljpw3UylogY=",
+          "cp310"
+        ],
+        "pytorch_triton_rocm-2.0.2.dev20230401-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "K0a6jLLDHyGmhcuFqz8lMG7glt03xYrsX7jbbzPToI8=",
+          "cp311"
+        ],
+        "pytorch_triton_rocm-2.0.2.dev20230401-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "yJAGkutUmYudCADDoteH9Bp1E4MQQwBnnNmrKdXzReU=",
+          "cp37"
+        ],
+        "pytorch_triton_rocm-2.0.2.dev20230401-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "xuz1Db1sCqJygM2u9MQ8qTCxxqkK8xoS9uZ47TXveM4=",
+          "cp38"
+        ],
+        "pytorch_triton_rocm-2.0.2.dev20230401-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "3BYRa3nSyVs689U6TCqHR1UIa6oMgwGYpOK65SDjYqI=",
           "cp39"
         ]
       }

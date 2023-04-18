@@ -8853,6 +8853,18 @@
           "py3"
         ]
       }
+    },
+    "2.75.0a0": {
+      "sdist": [
+        "FDfQQccnw7e43JTPaTizgdaNnRz/Ll84IJbmCB37ij4=",
+        "aws-cdk.aws-sagemaker-alpha-2.75.0a0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_sagemaker_alpha-2.75.0a0-py3-none-any.whl": [
+          "zTzKWx0wgemvctAz0BwEh51qmA4F17jVY5vO7GCPzLg=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-cdk.aws-workspaces": {
@@ -19680,6 +19692,18 @@
       "wheels": {
         "botocore_a_la_carte_internetmonitor-1.29.114-py3-none-any.whl": [
           "/cQRlMnG2zYOuOQKYYrqvw2sGyGgKVlLeMI8wW1RRcY=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.115": {
+      "sdist": [
+        "BbuQr8zbq2O62bcFxcYpoTlx98Qo0Sz8BGDv1Y5oYnU=",
+        "botocore-a-la-carte-internetmonitor-1.29.115.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_internetmonitor-1.29.115-py3-none-any.whl": [
+          "rB9DLvjXKW8frPlCw2CUsVa8XOzm58nXb0EreSIcYYc=",
           "py3"
         ]
       }
@@ -110480,6 +110504,18 @@
         ]
       }
     },
+    "2.1.132": {
+      "sdist": [
+        "qI8SegoViFfG6i1StnYs1nUpt4Y2tk97wf7LdeFOuQc=",
+        "pex-2.1.132.tar.gz"
+      ],
+      "wheels": {
+        "pex-2.1.132-py2.py3-none-any.whl": [
+          "hZncNlsrv2a3UMRv3/b3PkjFqzEIrbNSiizvq8yfgCs=",
+          "py2.py3"
+        ]
+      }
+    },
     "2.1.14": {
       "sdist": [
         "3l5VMIbPZSQb7ufB8GswhnFJUR+m5IyNRJMwXH3a9ps=",
@@ -124685,6 +124721,12 @@
         "BbXFP3uhHRgGI1Qm1s1vtvHC8oOe6eMj8sL7p5lcsWc=",
         "PyTDC-0.3.9.tar.gz"
       ]
+    },
+    "0.4.0": {
+      "sdist": [
+        "QMskWGrDvvUVD7RTCoCTlKD9wzXdxw+Vn4rePTbEYJU=",
+        "PyTDC-0.4.0.tar.gz"
+      ]
     }
   },
   "pytest-docker-squid-fixtures": {
@@ -128714,6 +128756,26 @@
         ],
         "quarkstudio-6.5.0rc4-cp311-cp311-win_amd64.whl": [
           "BCH5mQR3SV8xf5tibhC/GJNAjKziLkkB6TK9E5FVR8U=",
+          "cp311"
+        ]
+      }
+    },
+    "6.5.0rc5": {
+      "wheels": {
+        "quarkstudio-6.5.0rc5-cp310-cp310-manylinux1_x86_64.whl": [
+          "YilKOsTvqZfi87XsIp7ApHopB9I/uoeRT6vJQZeAJDY=",
+          "cp310"
+        ],
+        "quarkstudio-6.5.0rc5-cp310-cp310-win_amd64.whl": [
+          "HK8rFShr+ipddZH/Aabrwf+eoxDTLMsiGqw1TG6Y9HM=",
+          "cp310"
+        ],
+        "quarkstudio-6.5.0rc5-cp311-cp311-manylinux1_x86_64.whl": [
+          "BE7U/ZiBryz45fUV6wEXlR6Dr2/rhvu5NW8k8UcF2c8=",
+          "cp311"
+        ],
+        "quarkstudio-6.5.0rc5-cp311-cp311-win_amd64.whl": [
+          "np7GDshDmrWRk8tR1LmGeMhYEFbwI2k0xCIcJYRylvc=",
           "cp311"
         ]
       }
@@ -139956,6 +140018,18 @@
       "wheels": {
         "snbtlib-0.0.6-py3-none-any.whl": [
           "CClmKNVoX49/8M3GYg/E0Wpcscl4b+ggtWtXDEt7OvE=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.7": {
+      "sdist": [
+        "aVzf6IxB6wak6tQMaUot0oiX03H2HHMbsTqQ5/H+Sqg=",
+        "snbtlib-0.0.7.tar.gz"
+      ],
+      "wheels": {
+        "snbtlib-0.0.7-py3-none-any.whl": [
+          "j5VhkmdgZD6hvdjr/XIwN2vd7vlbBiIrZXm3gkgQSts=",
           "py3"
         ]
       }

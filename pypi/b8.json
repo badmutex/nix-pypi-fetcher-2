@@ -17092,6 +17092,18 @@
         ]
       }
     },
+    "1.29.115": {
+      "sdist": [
+        "BkY5Tc7j0VEJw6s7QQdNDQq7WkXyfAUHHx6koU6sVMY=",
+        "botocore-a-la-carte-cloud9-1.29.115.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_cloud9-1.29.115-py3-none-any.whl": [
+          "Ts0iIXETP3Nu6TjI2XoXS6lgKO4Xm0dYb2u6oUF4o2Y=",
+          "py3"
+        ]
+      }
+    },
     "1.29.42": {
       "sdist": [
         "5TXPuUPWdGzSyrQwVPX/rDGYRWvN/nu5qVz2eAWJrVM=",
@@ -41410,338 +41422,6 @@
     }
   },
   "fastsim": {
-    "2.0.10": {
-      "sdist": [
-        "ECXkLLzPVICxwH7GV+SQDXokHYdeYysi8ISgDXsiF08=",
-        "fastsim-2.0.10.tar.gz"
-      ],
-      "wheels": {
-        "fastsim-2.0.10-cp310-cp310-macosx_10_9_universal2.whl": [
-          "MVieOZlJ1AHw657jqlWFNDNByqyNLJssNhBMej+GKJo=",
-          "cp310"
-        ],
-        "fastsim-2.0.10-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "WON6+qnD/vdoMtDcY/uMza5mH4OfSiPyjdT6+u4vIeo=",
-          "cp310"
-        ],
-        "fastsim-2.0.10-cp310-cp310-win_amd64.whl": [
-          "K5JqBGkLyePMK8Ax9xXQG7y/GGBB7VpzfKsz2XywWEE=",
-          "cp310"
-        ],
-        "fastsim-2.0.10-cp38-cp38-macosx_10_9_universal2.whl": [
-          "LpdIZexTHFDWnD2AHFTLI/64wvBsHCZwZotF3zrsSeA=",
-          "cp38"
-        ],
-        "fastsim-2.0.10-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "yo3uZuUGuDihtqzZj1pZwSiJ/G2LVqQsum9HK+wGqjc=",
-          "cp38"
-        ],
-        "fastsim-2.0.10-cp38-cp38-win_amd64.whl": [
-          "81lrOtrdGr0YHMSdIdQN8GwOykP3a1TkRI/o2PkpEXo=",
-          "cp38"
-        ],
-        "fastsim-2.0.10-cp39-cp39-macosx_10_9_universal2.whl": [
-          "U7mVhyqZ1FyEljn0wA43QtoCzbt5aanlsp+85DhoVXI=",
-          "cp39"
-        ],
-        "fastsim-2.0.10-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "yOuyZ++MbaIE07xvi7p3jHSAtCxSEeHyZyMp8X6XEy0=",
-          "cp39"
-        ],
-        "fastsim-2.0.10-cp39-cp39-win_amd64.whl": [
-          "FYz6yVqrl555qPJh1cALIwq2VaCQTVUUz4wJ33mCMQQ=",
-          "cp39"
-        ]
-      }
-    },
-    "2.0.11": {
-      "sdist": [
-        "QqHbDkWzk1jfoC4s1LvZUdpO/1/LBoWNt+dHW5iVFHg=",
-        "fastsim-2.0.11.tar.gz"
-      ],
-      "wheels": {
-        "fastsim-2.0.11-cp310-cp310-macosx_10_9_universal2.whl": [
-          "K4r/ghXqllTuTivUE1NcufSUAvL9LpMuMwq7/pbASyM=",
-          "cp310"
-        ],
-        "fastsim-2.0.11-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "q30oQPyfEGw6PNrHv8is6QIpds3sXaeFy4HWkofzYEg=",
-          "cp310"
-        ],
-        "fastsim-2.0.11-cp310-cp310-win_amd64.whl": [
-          "Mbv+uh0oUXBovhJgDXkqkGjReMwK5l2R52MvsXVwQLE=",
-          "cp310"
-        ],
-        "fastsim-2.0.11-cp38-cp38-macosx_10_9_universal2.whl": [
-          "JWsxE1r3q+flzpKs77QYNJAk6Oz7VZQKVTsn4qIuqFY=",
-          "cp38"
-        ],
-        "fastsim-2.0.11-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "keqWMrNLwMZfAcCOzldrTbnu0uTIMpMQdIhUaOwlM2M=",
-          "cp38"
-        ],
-        "fastsim-2.0.11-cp38-cp38-win_amd64.whl": [
-          "XPtmF3ymrsuc93T9CZCCmJi+2l0OxzrAPkpEz4o7eLo=",
-          "cp38"
-        ],
-        "fastsim-2.0.11-cp39-cp39-macosx_10_9_universal2.whl": [
-          "BeP0mhlzZ2WiyFP6DvKZ9XAk/MvvTX+gTzGkZg9eNYM=",
-          "cp39"
-        ],
-        "fastsim-2.0.11-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "K49979Knk02PYwa+5SvAo/dxSwvf0mFFr3jvpEeqL3Q=",
-          "cp39"
-        ],
-        "fastsim-2.0.11-cp39-cp39-win_amd64.whl": [
-          "9mPpoTfHds1KkSVvNG20AzSXG8kPektahXF8voFZvE8=",
-          "cp39"
-        ]
-      }
-    },
-    "2.0.12": {
-      "sdist": [
-        "V2z6xB1MnAkCpDGmlUjo+UhXzhQL36J+twGTxiF1MpI=",
-        "fastsim-2.0.12.tar.gz"
-      ],
-      "wheels": {
-        "fastsim-2.0.12-cp310-cp310-macosx_10_9_universal2.whl": [
-          "7Q3rqARbYSjtqB4nPM1MXZhbASBem6POVFmBiQI6s7U=",
-          "cp310"
-        ],
-        "fastsim-2.0.12-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "CeZ5vOpu9J+NmihQKI/ehAboERuwWK/cYYljAPjBjdY=",
-          "cp310"
-        ],
-        "fastsim-2.0.12-cp310-cp310-win_amd64.whl": [
-          "eW/JfD5wugFqpqjjt5dV7AzfpMUDaW18dW+xTmDgkPA=",
-          "cp310"
-        ],
-        "fastsim-2.0.12-cp38-cp38-macosx_10_9_universal2.whl": [
-          "isB5bGd/EPwEt08rp+ryOBKI/mK2KM7vjiuD+UFhCYo=",
-          "cp38"
-        ],
-        "fastsim-2.0.12-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "AfRKgJdXIYIX2sA+0nzZEwgktzNndwuWO3+Z4V3rv7o=",
-          "cp38"
-        ],
-        "fastsim-2.0.12-cp38-cp38-win_amd64.whl": [
-          "ywt3xzy+bJlMsmQPt3Lmb0FJXyvEZlEIc7VkOeU+qBM=",
-          "cp38"
-        ],
-        "fastsim-2.0.12-cp39-cp39-macosx_10_9_universal2.whl": [
-          "/uVLKQoIXvWgvMQ7L9NwgWu70uU5VYm2kNg1N6/UFbw=",
-          "cp39"
-        ],
-        "fastsim-2.0.12-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "uqqHaQpkuf1qZBKKqzUvKPrcvtvOy/NNJSGVAXv2WD8=",
-          "cp39"
-        ],
-        "fastsim-2.0.12-cp39-cp39-win_amd64.whl": [
-          "N9mW8U8XhjectfPPRdOL85xiUWOLjVCbURPMFxpm2Bk=",
-          "cp39"
-        ]
-      }
-    },
-    "2.0.13": {
-      "sdist": [
-        "4Q5g3+rdsHw1to6TNQtalfbW/djiTqDkdvdtuvbWe2I=",
-        "fastsim-2.0.13.tar.gz"
-      ],
-      "wheels": {
-        "fastsim-2.0.13-cp310-cp310-macosx_10_9_universal2.whl": [
-          "NWwxtdsrkSlBQ8xWoti5vXnfGe8uoCjz0uleVvEOJKs=",
-          "cp310"
-        ],
-        "fastsim-2.0.13-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "NGDgkMxKsI778HyYr6iOw/+QTNWNGYCqnZ966Z+ol0E=",
-          "cp310"
-        ],
-        "fastsim-2.0.13-cp310-cp310-win_amd64.whl": [
-          "PYbo3fRXaT5qii7dAG7pR4ONc7uG3BpiJqwIGgNbtBk=",
-          "cp310"
-        ],
-        "fastsim-2.0.13-cp38-cp38-macosx_10_9_universal2.whl": [
-          "1I32W1sBkOuBktX8HJUnBoF6VP1EH0RQS3kM3M69pqo=",
-          "cp38"
-        ],
-        "fastsim-2.0.13-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "f/dB5501B/j8wjFRZ3FTNrlI7bTGhEXhvaCyrfR/2T8=",
-          "cp38"
-        ],
-        "fastsim-2.0.13-cp38-cp38-win_amd64.whl": [
-          "BNAd/wv3ptZuep69g5jmwYFCc+orzZwuT12f600MoOw=",
-          "cp38"
-        ],
-        "fastsim-2.0.13-cp39-cp39-macosx_10_9_universal2.whl": [
-          "juPV3bxRdFic4O7D4D/Xoq1CMc0wz8H5w3LP32LfcFA=",
-          "cp39"
-        ],
-        "fastsim-2.0.13-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "3UGSZDicVk4haVmtgUBshddEWygl3Bvyd6Y/R5fh0ks=",
-          "cp39"
-        ],
-        "fastsim-2.0.13-cp39-cp39-win_amd64.whl": [
-          "i/hZ5BzJNQgC18J/mKvBpWDpkZ0rYUFxD613qtjJh7A=",
-          "cp39"
-        ]
-      }
-    },
-    "2.0.14": {
-      "sdist": [
-        "0u1VVl8W/u0T0Z4/O3XlU+lHP2BcJHbfgCLBjFfdulo=",
-        "fastsim-2.0.14.tar.gz"
-      ],
-      "wheels": {
-        "fastsim-2.0.14-cp310-cp310-macosx_10_9_universal2.whl": [
-          "sD773Y0UM2dKH5DEFh+6gDWJ7reffRXvNXfJyJBVLHE=",
-          "cp310"
-        ],
-        "fastsim-2.0.14-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "7+ZqUdO8VR+3T5aXpadO3FjWxK75Rfw+exXhpcX+IdE=",
-          "cp310"
-        ],
-        "fastsim-2.0.14-cp310-cp310-win_amd64.whl": [
-          "HTZAWaS1Sh616QYUngbAPz7uAYq7gdHkVr2+AyljRSg=",
-          "cp310"
-        ],
-        "fastsim-2.0.14-cp38-cp38-macosx_10_9_universal2.whl": [
-          "D8Oq2d/9GLg3cTrjQyNX+G+b4rlS2woaeHnttE1uGu8=",
-          "cp38"
-        ],
-        "fastsim-2.0.14-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "p2IhBypaizXjYS4a0QUk9YKvHdrQp7UtyNzuYJEsEVQ=",
-          "cp38"
-        ],
-        "fastsim-2.0.14-cp38-cp38-win_amd64.whl": [
-          "HjS+o6wZ/doyzsi48C9SyXWplhmGdxjjg6jTY6hTwLE=",
-          "cp38"
-        ],
-        "fastsim-2.0.14-cp39-cp39-macosx_10_9_universal2.whl": [
-          "zBl5Ko2I7NRQ2KpCFft9K4Bb8juU1HdbqbfF1+8xkdw=",
-          "cp39"
-        ],
-        "fastsim-2.0.14-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "BsWcVO6NDeiHqt7TrsqAQWIPJ/gltbWKaI7B+XQ/DAI=",
-          "cp39"
-        ],
-        "fastsim-2.0.14-cp39-cp39-win_amd64.whl": [
-          "3isfeMQxZaSswSAwz+89yL4gBAO275U/6tKZTPse7JA=",
-          "cp39"
-        ]
-      }
-    },
-    "2.0.15": {
-      "sdist": [
-        "fda+J+d0zBwxCji68CT5kbpEi/R6O3JPj/WnrFtJVxs=",
-        "fastsim-2.0.15.tar.gz"
-      ],
-      "wheels": {
-        "fastsim-2.0.15-cp310-cp310-macosx_10_9_universal2.whl": [
-          "8CL3eFlbjkeUYgBFQ2Tmk/2xGmH5RDE9RzSGGfggYiE=",
-          "cp310"
-        ],
-        "fastsim-2.0.15-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "O3ZX2x1WJ0IxdUlphBarYob74YjzNGrShh3IHQ0Z8/k=",
-          "cp310"
-        ],
-        "fastsim-2.0.15-cp310-cp310-win_amd64.whl": [
-          "M4tkmtnE0dKe7liyUJ51XZRmwVo5m8yPGs4g9VkSMTE=",
-          "cp310"
-        ],
-        "fastsim-2.0.15-cp38-cp38-macosx_10_9_universal2.whl": [
-          "tfU9EeY0UX5lPrBmGNdjVTIMv9v/DVernQrUP60xDI4=",
-          "cp38"
-        ],
-        "fastsim-2.0.15-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "Aw0G4RXpDotACYTFtE1akvaxho9CzcWY9KKHOJ6ICHk=",
-          "cp38"
-        ],
-        "fastsim-2.0.15-cp38-cp38-win_amd64.whl": [
-          "r/q0Z0G+CSSnc5ye4fnVMJHO/L3XQmX2TA4G7jNBuKQ=",
-          "cp38"
-        ],
-        "fastsim-2.0.15-cp39-cp39-macosx_10_9_universal2.whl": [
-          "P0hriSA6G0iJTd2jrOl37bVKEtiuD7y7Bri8XZzjmGc=",
-          "cp39"
-        ],
-        "fastsim-2.0.15-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "GdyUzGRgSTazAkUVa0HyoNRFOQO0O7XUEb1WaRXEUQU=",
-          "cp39"
-        ],
-        "fastsim-2.0.15-cp39-cp39-win_amd64.whl": [
-          "/996ATnn0AQm18FopagTrVwfHso+vRkY24pgriF8t/8=",
-          "cp39"
-        ]
-      }
-    },
-    "2.0.16": {
-      "sdist": [
-        "t2wIKGlqR03dkxtuAAuiuNZdhFGPiyPToEIt16zJixo=",
-        "fastsim-2.0.16.tar.gz"
-      ],
-      "wheels": {
-        "fastsim-2.0.16-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "RSKvb6VqS/1RMlApJDEhFnV16M9EAov+LU8UOdEZFgQ=",
-          "cp310"
-        ],
-        "fastsim-2.0.16-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "ohZmUYy/PEL+rbuxisQljgGQCFAA6RAzL7hx3PCDhho=",
-          "cp38"
-        ],
-        "fastsim-2.0.16-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "eymN12WZRojGXeFbLbfCzRINjjBytwpqzi92PiwQ1H0=",
-          "cp39"
-        ],
-        "fastsim-2.0.16-cp39-cp39-win_amd64.whl": [
-          "ESfp+fdjSuf/LX24ZCq8Nasb1mbndFgWZYOhRJ9nk7c=",
-          "cp39"
-        ]
-      }
-    },
-    "2.0.17": {
-      "sdist": [
-        "P5/YuOPNMoqsyogHp7PgvFEaz/hJRW54offA1DQP2JE=",
-        "fastsim-2.0.17.tar.gz"
-      ],
-      "wheels": {
-        "fastsim-2.0.17-cp310-cp310-macosx_10_9_universal2.whl": [
-          "4th6YQlzzsoSdeYJjeGz6/GdpeQipJA4M97vJT4q+kA=",
-          "cp310"
-        ],
-        "fastsim-2.0.17-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "Wbmv3UzBJ3pBuXRerkY6oMTfhQRknu90pFRLkXUB1W4=",
-          "cp310"
-        ],
-        "fastsim-2.0.17-cp310-cp310-win_amd64.whl": [
-          "iIfBGm/E4KNIRoxUusAczAVyD0hnNUzD4lw+nrWwr0A=",
-          "cp310"
-        ],
-        "fastsim-2.0.17-cp38-cp38-macosx_10_9_universal2.whl": [
-          "WtJXAn/PIKQ7pFePSJsD401bIkTs7AbdYy4NpGbu+hk=",
-          "cp38"
-        ],
-        "fastsim-2.0.17-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "9xMy8h8wA8MjsF/veV1u/t9wqLfMnLkpZGRhXbgRick=",
-          "cp38"
-        ],
-        "fastsim-2.0.17-cp38-cp38-win_amd64.whl": [
-          "1UDTjMWqDfB/XUytXLJFtsMD3K2AneSkjxeC3wK+Kng=",
-          "cp38"
-        ],
-        "fastsim-2.0.17-cp39-cp39-macosx_10_9_universal2.whl": [
-          "Jr3og0OmJd6dtHMgdVUiUczXZ/8f/VJTdbAPrLnwOz0=",
-          "cp39"
-        ],
-        "fastsim-2.0.17-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "Ttulxqe2o0MygDw2tgTL/z9MGU6f1zO7zUGPqP84jus=",
-          "cp39"
-        ],
-        "fastsim-2.0.17-cp39-cp39-win_amd64.whl": [
-          "I4K10JhH5jsiR39ljV2Lf/eCx8MxYkSKb3LGcENuVTE=",
-          "cp39"
-        ]
-      }
-    },
     "2.0.18": {
       "sdist": [
         "8FdYq5ew3CVNBX8JehKrko678AlvJT06svve3VDI854=",
@@ -86406,6 +86086,30 @@
       "wheels": {
         "NikeCA-0.1.58-py3-none-any.whl": [
           "oiB1g/+uHUeUZNo0JbqgcDNItO6hCNhkOF8m6fejGq8=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.59": {
+      "sdist": [
+        "DBplEG4T/Vruo+pEwpF2G3Vd6r7/ZhnKAa7dF6txIIM=",
+        "NikeCA-0.1.59.tar.gz"
+      ],
+      "wheels": {
+        "NikeCA-0.1.59-py3-none-any.whl": [
+          "1hR/Mw/zpxqjfAezf1rQhiScrKUdxPPUk6H97BE85G8=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.60": {
+      "sdist": [
+        "BAQZFVcGuLOhjbDITNKYapF4B97PNZMdSOQdYev+sMc=",
+        "NikeCA-0.1.60.tar.gz"
+      ],
+      "wheels": {
+        "NikeCA-0.1.60-py3-none-any.whl": [
+          "aDa3hDPa1gRDHAd1se2kySKCiSVIN5EdvtVzCBvwBPI=",
           "py3"
         ]
       }

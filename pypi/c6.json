@@ -5390,6 +5390,12 @@
         "alphaz-0.7.3.14.tar.gz"
       ]
     },
+    "0.7.3.15": {
+      "sdist": [
+        "MQyi4qG4FRFblJIec/KR7mo8tzfJZMTIPGuPoxxwC24=",
+        "alphaz-0.7.3.15.tar.gz"
+      ]
+    },
     "0.7.3.2": {
       "sdist": [
         "vRvPncmt7uzgNfJ+AZimzv+DutPl4BQfEOnB2MsKoB4=",
@@ -5436,6 +5442,12 @@
       "sdist": [
         "aE0Ft63fgV4u5Ht6aJdpXCHW3qhRrDhJfqvsZkTXUvI=",
         "alphaz-0.7.3.9.tar.gz"
+      ]
+    },
+    "0.7.4": {
+      "sdist": [
+        "TAJXxj77BI+PDbsDxRS1BZOsTt7H+cQUVjNiWGBMpl4=",
+        "alphaz-0.7.4.tar.gz"
       ]
     }
   },
@@ -52015,6 +52027,18 @@
           "py2.py3"
         ]
       }
+    },
+    "0.5.1": {
+      "sdist": [
+        "SiaxwSvj1aXPIG2NOO5RKHm5d7GmUH/GyO9AqWyJa+8=",
+        "fastbt-0.5.1.tar.gz"
+      ],
+      "wheels": {
+        "fastbt-0.5.1-py2.py3-none-any.whl": [
+          "vqnac/wC7jxoq6jeCmNIsuWkUoU8uxUxAHuVFjXUPHE=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "fastdameraulevenshtein": {
@@ -81881,6 +81905,16 @@
       }
     }
   },
+  "odoo-addon-attachment-preview": {
+    "15.0.1.0.0.4": {
+      "wheels": {
+        "odoo_addon_attachment_preview-15.0.1.0.0.4-py3-none-any.whl": [
+          "hP+MhvdEP54vWhjwaQuYs+6+lUKNenmBkH8UycCICTo=",
+          "py3"
+        ]
+      }
+    }
+  },
   "odoo-addon-base-rest-demo": {
     "15.0.1.0.0": {
       "wheels": {
@@ -82106,6 +82140,14 @@
       "wheels": {
         "odoo_addon_mail_outbound_static-16.0.1.0.0.2-py3-none-any.whl": [
           "A+PDsKM76W92K8bQzxtPKJA9TybGmeFjWBhla9bjFw0=",
+          "py3"
+        ]
+      }
+    },
+    "16.0.1.0.1": {
+      "wheels": {
+        "odoo_addon_mail_outbound_static-16.0.1.0.1-py3-none-any.whl": [
+          "w4VbADzVvDcdMDGExBTAsTKKasMzY0xx2nzE7SatVm0=",
           "py3"
         ]
       }
@@ -83398,6 +83440,14 @@
       "wheels": {
         "odoo12_addon_project_task_material_stock-12.0.1.2.1.99.dev5-py3-none-any.whl": [
           "/T/YTyM1l2p1MpuQx2HQy0nQdfCkDzEBMhVLlese9w4=",
+          "py3"
+        ]
+      }
+    },
+    "12.0.1.2.1.99.dev7": {
+      "wheels": {
+        "odoo12_addon_project_task_material_stock-12.0.1.2.1.99.dev7-py3-none-any.whl": [
+          "rPjOTKjF8zlFZXxkVyoidP8/JA6buF9yL+Gym9CDTuE=",
           "py3"
         ]
       }
@@ -96694,6 +96744,42 @@
       "wheels": {
         "pepperize.projen_awscdk_app_ts-0.0.452-py3-none-any.whl": [
           "cW5qlOCLzjf9e7tmW4OyWKgYFekvlwAK7lI/RATzSw0=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.453": {
+      "sdist": [
+        "BCZaF11fcvxmaeahH0YTX1YYNxSfDnqBx7TSn14E/b4=",
+        "pepperize.projen-awscdk-app-ts-0.0.453.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.projen_awscdk_app_ts-0.0.453-py3-none-any.whl": [
+          "iJN2m7f5jBESb4uzW6cm5Xzfo3OwiL+bYh6KZxUTN9U=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.454": {
+      "sdist": [
+        "bC9hmXqS/RAStinxjcaVseJmmePsntc2PgZYgE1w2t4=",
+        "pepperize.projen-awscdk-app-ts-0.0.454.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.projen_awscdk_app_ts-0.0.454-py3-none-any.whl": [
+          "axJEq+5MxMvXJhBrHPLGo9VAyu35l8Lyd2QW1qwd180=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.455": {
+      "sdist": [
+        "5AApF4xI2dITs+w99Jcmm4mC7pjiG54avTNmcLHnqvw=",
+        "pepperize.projen-awscdk-app-ts-0.0.455.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.projen_awscdk_app_ts-0.0.455-py3-none-any.whl": [
+          "euSSk2NACl0GXmweV0mMaR94urTt0z2XcxXEkdJ8brw=",
           "py3"
         ]
       }

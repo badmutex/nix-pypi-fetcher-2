@@ -15691,6 +15691,18 @@
           "py3"
         ]
       }
+    },
+    "2.3.0b20230418": {
+      "wheels": {
+        "bigdl_friesian_spark3-2.3.0b20230418-py3-none-macosx_10_11_x86_64.whl": [
+          "JdLx7WIrbyfk2/SjTgDZlbOBth+NoVobf4Vu55/gs8w=",
+          "py3"
+        ],
+        "bigdl_friesian_spark3-2.3.0b20230418-py3-none-manylinux1_x86_64.whl": [
+          "iO+q4vnyAPbq81P6w224F7Lo8dcqlsi0U/9AUi+44RU=",
+          "py3"
+        ]
+      }
     }
   },
   "binsinfo": {
@@ -23063,6 +23075,30 @@
           "py3"
         ]
       }
+    },
+    "0.1.5": {
+      "sdist": [
+        "OECyh3g1l3UY58ZLuvGkCLOKQCfl7MKrvaVk6gKnG0A=",
+        "chemeq-0.1.5.tar.gz"
+      ],
+      "wheels": {
+        "chemeq-0.1.5-py3-none-any.whl": [
+          "0tub7WBa9l7eqMck4ux60N41ZLBiu/Ykh/uUMBVyofo=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.7": {
+      "sdist": [
+        "8m3dI46QCU0cknm9uSAZnH5XPMGaT6JBRzRFlyDdWUM=",
+        "chemeq-0.1.7.tar.gz"
+      ],
+      "wheels": {
+        "chemeq-0.1.7-py3-none-any.whl": [
+          "gt4ZONNYvV8ndCQlqxYVSDQja/9kiK5d7gkej95jFVA=",
+          "py3"
+        ]
+      }
     }
   },
   "chequevara": {
@@ -24450,14 +24486,14 @@
     }
   },
   "code-analyza": {
-    "0.0.1": {
+    "0.0b1": {
       "sdist": [
-        "berQfgwuM3e7Pthxp4imrkHxVxd1h4hduvwITdE0cvs=",
-        "code_analyza-0.0.1.tar.gz"
+        "GIf1pVuf1V7QMWWPd9W8BYll5tyTJfbpCNmIm/G2xEU=",
+        "code_analyza-0.0b1.tar.gz"
       ],
       "wheels": {
-        "code_analyza-0.0.1-py3-none-any.whl": [
-          "ONIglmuy0w0ghYmREiwPfB5vFOGijRR1Odd/FDfGtRU=",
+        "code_analyza-0.0b1-py3-none-any.whl": [
+          "BRWjVuIeSYIR+foy3h+8KNtXN41Jv3Ud2/LZyT7MTW0=",
           "py3"
         ]
       }
@@ -64739,6 +64775,18 @@
           "py3"
         ]
       }
+    },
+    "0.3.6": {
+      "sdist": [
+        "+G5E4vsy7PMa9t9vbD7lVQFGxmjiZTTzwTGqxz1D90g=",
+        "ISENpy-0.3.6.tar.gz"
+      ],
+      "wheels": {
+        "ISENpy-0.3.6-py3-none-any.whl": [
+          "p9TeX2TAEjAxXeVd8Tz9GJYy/zvuW8gW97i9+YhXbng=",
+          "py3"
+        ]
+      }
     }
   },
   "it-asset-info": {
@@ -95616,6 +95664,14 @@
         ]
       }
     },
+    "11.0.1.1.2.99.dev72": {
+      "wheels": {
+        "odoo11_addon_mgmtsystem_nonconformity-11.0.1.1.2.99.dev72-py2.py3-none-any.whl": [
+          "KrqYSqlxGHJWMkqik/S4xxsIFCenHazNYVBA7vCf6kM=",
+          "py2.py3"
+        ]
+      }
+    },
     "11.0.1.1.2.99.dev9": {
       "wheels": {
         "odoo11_addon_mgmtsystem_nonconformity-11.0.1.1.2.99.dev9-py2.py3-none-any.whl": [
@@ -97470,6 +97526,14 @@
       "wheels": {
         "odoo14_addon_product_profile-14.0.1.0.2.dev2-py3-none-any.whl": [
           "/D5futIebNUVVOSI75n6f/l7rLjdPWwJS4cVcj7DJwg=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.1.0.2.dev3": {
+      "wheels": {
+        "odoo14_addon_product_profile-14.0.1.0.2.dev3-py3-none-any.whl": [
+          "qhWaLq3D6i7YGGyaudG4ItLwDZiR8V8LgaF0/7WfDLA=",
           "py3"
         ]
       }
@@ -131546,16 +131610,76 @@
         "returnn-1.20230417.223227.tar.gz"
       ]
     },
+    "1.20230418.100108": {
+      "sdist": [
+        "HEYoSYZmW42KbniejspJt2818HbGiRuVhI+MD17umLQ=",
+        "returnn-1.20230418.100108.tar.gz"
+      ]
+    },
     "1.20230418.10737": {
       "sdist": [
         "URPeXeyfBNw3mKKsA5ptXdKPaZkbLKxUS2urxKIJQO4=",
         "returnn-1.20230418.10737.tar.gz"
       ]
     },
+    "1.20230418.113517": {
+      "sdist": [
+        "1u4nNnTHZay1hwYtgYA+3V2Dbf3qSfZSdlEljYksrbI=",
+        "returnn-1.20230418.113517.tar.gz"
+      ]
+    },
+    "1.20230418.114718": {
+      "sdist": [
+        "ATc1nAL97RmOyNS23IfADHwjiYPxB/YBg91mwDui2Lg=",
+        "returnn-1.20230418.114718.tar.gz"
+      ]
+    },
+    "1.20230418.120338": {
+      "sdist": [
+        "bOOZLNU2Uqz/ARWKPbBL7PPp7K2M7F4CNKTAe+qz+yg=",
+        "returnn-1.20230418.120338.tar.gz"
+      ]
+    },
+    "1.20230418.120646": {
+      "sdist": [
+        "fNpao4FYVpISMNqjnhmlk0sSY3zCYQ1IA9r7cz0F+Rg=",
+        "returnn-1.20230418.120646.tar.gz"
+      ]
+    },
+    "1.20230418.124036": {
+      "sdist": [
+        "VjqbPRPBVd3PPIIl2pAPAJU4pCRNuG/PRO9RXtFutso=",
+        "returnn-1.20230418.124036.tar.gz"
+      ]
+    },
     "1.20230418.12742": {
       "sdist": [
         "kHneh9ydl0gEoT6cHyMMOj8R4pfO3vJv/EBEJ6dz/pk=",
         "returnn-1.20230418.12742.tar.gz"
+      ]
+    },
+    "1.20230418.133927": {
+      "sdist": [
+        "khYRSfHy/py6Mu790J1SNJg6s8Miyr7quskKvgg9fJI=",
+        "returnn-1.20230418.133927.tar.gz"
+      ]
+    },
+    "1.20230418.134656": {
+      "sdist": [
+        "XZ53LaKzLsD2dCXLrJ6JJCmmeQABKfxmfjRyP7hAgTk=",
+        "returnn-1.20230418.134656.tar.gz"
+      ]
+    },
+    "1.20230418.140214": {
+      "sdist": [
+        "EwOEMogeFhcbBXakCWrxJdT1JQeQBxSI4mqAdonOksk=",
+        "returnn-1.20230418.140214.tar.gz"
+      ]
+    },
+    "1.20230418.171549": {
+      "sdist": [
+        "Okpgnsi4pwz8m9eR9de4nxhb28pv8Zt9tKcyL19hMLU=",
+        "returnn-1.20230418.171549.tar.gz"
       ]
     },
     "1.20230418.5121": {

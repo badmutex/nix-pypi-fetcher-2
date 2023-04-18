@@ -31135,6 +31135,20 @@
       ]
     }
   },
+  "digitalai-release-sdk": {
+    "23.1.0rc1": {
+      "sdist": [
+        "eEAWSCdUMrmg5xWPv3OHMJorpL05CDzd5qhpbHIHzPw=",
+        "digitalai_release_sdk-23.1.0rc1.tar.gz"
+      ],
+      "wheels": {
+        "digitalai_release_sdk-23.1.0rc1-py3-none-any.whl": [
+          "mgFy38BREj18BezNB/RWPtEbKJBr7tqQdCmlz4eMqTE=",
+          "py3"
+        ]
+      }
+    }
+  },
   "dignationalityextractor": {
     "0.3.0": {
       "sdist": [
@@ -63364,6 +63378,18 @@
         ]
       }
     },
+    "0.0.10": {
+      "sdist": [
+        "2wsod0tNqi8UbmHbmwAz2WrNsyJcbo8zlfBqKByYP/I=",
+        "kzr_snowflake-0.0.10.tar.gz"
+      ],
+      "wheels": {
+        "kzr_snowflake-0.0.10-py2.py3-none-any.whl": [
+          "M77ed2r5XOsmXGil0WtmHmoaV3F06zn81eFYXsNIdmM=",
+          "py2.py3"
+        ]
+      }
+    },
     "0.0.2": {
       "sdist": [
         "6pbc9vZhNI+gJaHq5H+nijkIze2r9kjjpJTsSlSGfnY=",
@@ -88629,6 +88655,14 @@
           "py3"
         ]
       }
+    },
+    "16.0.20230417.0": {
+      "wheels": {
+        "odoo_addons_oca_server_auth-16.0.20230417.0-py3-none-any.whl": [
+          "XZrQ2w8f33F2e/YWTqziDrNz6WvyDYUEfopnZNxeSbo=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo-helper": {
@@ -89934,6 +89968,14 @@
         ]
       }
     },
+    "12.0.1.5.0.99.dev13": {
+      "wheels": {
+        "odoo12_addon_mgmtsystem_nonconformity-12.0.1.5.0.99.dev13-py3-none-any.whl": [
+          "4ppvQDPcjYOxWzygZAGZHJPS3zXYkIUlUo+tfTC6WnQ=",
+          "py3"
+        ]
+      }
+    },
     "12.0.1.5.0.99.dev2": {
       "wheels": {
         "odoo12_addon_mgmtsystem_nonconformity-12.0.1.5.0.99.dev2-py3-none-any.whl": [
@@ -90028,6 +90070,14 @@
       "wheels": {
         "odoo12_addon_sale_backorder-12.0.1.0.0.99.dev13-py3-none-any.whl": [
           "aNsHqnI51j7povRcWVX2xZZ0HZOBawyOy2RR9XNVRaI=",
+          "py3"
+        ]
+      }
+    },
+    "12.0.1.0.0.99.dev14": {
+      "wheels": {
+        "odoo12_addon_sale_backorder-12.0.1.0.0.99.dev14-py3-none-any.whl": [
+          "eEJJMLKg7bSlqI/EahcLx8fuJ48wo6bH+oS4jYdg3dY=",
           "py3"
         ]
       }
@@ -128393,6 +128443,202 @@
           "pp39"
         ]
       }
+    },
+    "6.0.8": {
+      "sdist": [
+        "DlZSmAutUhky8gqqnkSMq2TecGJ7Wgss69XT9MlKyys=",
+        "scylla-cqlsh-6.0.8.tar.gz"
+      ],
+      "wheels": {
+        "scylla_cqlsh-6.0.8-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "3RbP1xts0VTwOdla3165YmnUP/cVRPwT/u2x6wk2wd4=",
+          "cp310"
+        ],
+        "scylla_cqlsh-6.0.8-cp310-cp310-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "r1UqkLA/g5mxT5GuVCLig5t2JJ6bspcCvW9h3D9mj9w=",
+          "cp310"
+        ],
+        "scylla_cqlsh-6.0.8-cp310-cp310-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "uSGI9vbHvfiqIvuu+LG6xxd1IXd+EnbaDmK8UmCnecc=",
+          "cp310"
+        ],
+        "scylla_cqlsh-6.0.8-cp310-cp310-musllinux_1_1_i686.whl": [
+          "IQgWBAyirphGSJ/IBrtmMi33nRhkirWr/8YE99nNcfQ=",
+          "cp310"
+        ],
+        "scylla_cqlsh-6.0.8-cp310-cp310-musllinux_1_1_x86_64.whl": [
+          "0kQmp+pf1sAazLGLprLHVfdiG+IBKKGnNNa4t2S7vqU=",
+          "cp310"
+        ],
+        "scylla_cqlsh-6.0.8-cp310-cp310-win32.whl": [
+          "LboPDFNQdVrah+Q4X0Am+5AakMrykfULt6cTA18LDG0=",
+          "cp310"
+        ],
+        "scylla_cqlsh-6.0.8-cp310-cp310-win_amd64.whl": [
+          "Yxjnf/LXTLatcQC1BugyjU0OqjvuTdC50W1aKC6k9ws=",
+          "cp310"
+        ],
+        "scylla_cqlsh-6.0.8-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "oP2Bn2y5tpgPg+fN97lFZlEjWm5W5QGTL8MKMjN7fF4=",
+          "cp311"
+        ],
+        "scylla_cqlsh-6.0.8-cp311-cp311-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "ajr2mA04eCDNWPIpOeqdeGglrTcLwjTiQme7LiodRvY=",
+          "cp311"
+        ],
+        "scylla_cqlsh-6.0.8-cp311-cp311-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "BYriimxjz5EcxNVVNPhHOybXqxnHG4esuH0KMlHxbWU=",
+          "cp311"
+        ],
+        "scylla_cqlsh-6.0.8-cp311-cp311-musllinux_1_1_i686.whl": [
+          "c25IWbufi+1+YApJht1GRJFkeRbc3UHoyoZGHaPn84k=",
+          "cp311"
+        ],
+        "scylla_cqlsh-6.0.8-cp311-cp311-musllinux_1_1_x86_64.whl": [
+          "bi+RUctNg+PiLJ2DNpiv1AEkjmnE469h19B02OmWhAM=",
+          "cp311"
+        ],
+        "scylla_cqlsh-6.0.8-cp311-cp311-win32.whl": [
+          "uTVv8ZMiQlOBo+CLP1rOgYYzvbKaUisMJkB2+aAEbCU=",
+          "cp311"
+        ],
+        "scylla_cqlsh-6.0.8-cp311-cp311-win_amd64.whl": [
+          "9+DuUiSxAPtUFffwnTq3NuImmf7cqZfAJXBjn+jbtbc=",
+          "cp311"
+        ],
+        "scylla_cqlsh-6.0.8-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "uKFNnQRy9WZOmb6tHhMLnIeO5tYaKxRxDV+XaOxYxS4=",
+          "cp37"
+        ],
+        "scylla_cqlsh-6.0.8-cp37-cp37m-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "UyDEmEboZ7OSNcmyfB4M+5cOAJ5GH3tWMumq8E4uahE=",
+          "cp37"
+        ],
+        "scylla_cqlsh-6.0.8-cp37-cp37m-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "BCuv4SVCciEjhmnmcAU9gMMTld0bNdBMdtat2fo9fDU=",
+          "cp37"
+        ],
+        "scylla_cqlsh-6.0.8-cp37-cp37m-musllinux_1_1_i686.whl": [
+          "mmcEMHLBUcfy6uc4CfnmvV5u2+YciBGTUVrrbh99iDA=",
+          "cp37"
+        ],
+        "scylla_cqlsh-6.0.8-cp37-cp37m-musllinux_1_1_x86_64.whl": [
+          "rssi7ZZ1xmipBnTPUG3OUVXqQPjYBvJImamJx7mmjfk=",
+          "cp37"
+        ],
+        "scylla_cqlsh-6.0.8-cp37-cp37m-win32.whl": [
+          "dx7KiVU4/D6ZkCqRGo7MkWfg9lczLxT+h8AgsSdY6O8=",
+          "cp37"
+        ],
+        "scylla_cqlsh-6.0.8-cp37-cp37m-win_amd64.whl": [
+          "iouKTUIIBgJEs8OCGX9dxtdnQto5tNwa5iiR25fIu7s=",
+          "cp37"
+        ],
+        "scylla_cqlsh-6.0.8-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "r2RbHGbZq5TxdFrphb3OdpfwRHbjMwj/jUfnJAxVhsM=",
+          "cp38"
+        ],
+        "scylla_cqlsh-6.0.8-cp38-cp38-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "NmP5xSAcqM4dz2jeffxOqU8jl+D/p4r6Yh+knqGKJww=",
+          "cp38"
+        ],
+        "scylla_cqlsh-6.0.8-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "4iqiVa02Xq5fKlBEGPpYQ2z1oLc508WYwPaWmb+sZq8=",
+          "cp38"
+        ],
+        "scylla_cqlsh-6.0.8-cp38-cp38-musllinux_1_1_i686.whl": [
+          "RpXJRNT67GjsogeE/p2AGt1jHLlJF++xeKfqgAJWeDg=",
+          "cp38"
+        ],
+        "scylla_cqlsh-6.0.8-cp38-cp38-musllinux_1_1_x86_64.whl": [
+          "WvltBv9W0RT2BKdozV817GlwwpG03PnPhDRBNEhoSIU=",
+          "cp38"
+        ],
+        "scylla_cqlsh-6.0.8-cp38-cp38-win32.whl": [
+          "Gh3j+SKvd/ZEYbwB3Eo3ocIZB7n4TOxEgRjpu4D2yRc=",
+          "cp38"
+        ],
+        "scylla_cqlsh-6.0.8-cp38-cp38-win_amd64.whl": [
+          "iBoQdtK1cwaRWaanzkbTOybxk+Axoz7fkw58Gad/OL4=",
+          "cp38"
+        ],
+        "scylla_cqlsh-6.0.8-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "PGofpbgNTZ8omXFAn+aGngAF4sJEVLKPD6iaqZJqAI0=",
+          "cp39"
+        ],
+        "scylla_cqlsh-6.0.8-cp39-cp39-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "Vs0aVTCV2Hn06BnVMqJ4N08MAZ+AABlXu3E+38tddr0=",
+          "cp39"
+        ],
+        "scylla_cqlsh-6.0.8-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "5ebjhv6jKWYIf9LhBBp6Q9GFx3oFv36CEBd713cdv8o=",
+          "cp39"
+        ],
+        "scylla_cqlsh-6.0.8-cp39-cp39-musllinux_1_1_i686.whl": [
+          "L5NzXTnEic01cPNEkyWl28LtFg7L8N/9KBudT2tOr5M=",
+          "cp39"
+        ],
+        "scylla_cqlsh-6.0.8-cp39-cp39-musllinux_1_1_x86_64.whl": [
+          "ZYnVr6ZMlb05nrYrfzN3HYn01wbzlecthZr0CknWarI=",
+          "cp39"
+        ],
+        "scylla_cqlsh-6.0.8-cp39-cp39-win32.whl": [
+          "0HNC7bENWxPc5//D6pTsRt1CP1gD13wl/lmn5owBPd0=",
+          "cp39"
+        ],
+        "scylla_cqlsh-6.0.8-cp39-cp39-win_amd64.whl": [
+          "RPYJ8rByHIA0cvqiFuhuYzO+BSNUTfK4RU68/47Laqc=",
+          "cp39"
+        ],
+        "scylla_cqlsh-6.0.8-pp37-pypy37_pp73-macosx_10_9_x86_64.whl": [
+          "RdZm30iRrIG3xXJnPXvs2ZdSrGT3kSJtLmB0FhqXxz8=",
+          "pp37"
+        ],
+        "scylla_cqlsh-6.0.8-pp37-pypy37_pp73-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "mklA3nZK/QB4pRYDXi1p2ujTvz2HP5FOzcOSoLljD6U=",
+          "pp37"
+        ],
+        "scylla_cqlsh-6.0.8-pp37-pypy37_pp73-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "czWW9Gh89vEWRPaiVC1iLKMjo7r5hyTuQrhwzbzsgbg=",
+          "pp37"
+        ],
+        "scylla_cqlsh-6.0.8-pp37-pypy37_pp73-win_amd64.whl": [
+          "5PI1OQh0tj7jOTuCk1MRHOuon6o9R1BYtjfwnUdMnXs=",
+          "pp37"
+        ],
+        "scylla_cqlsh-6.0.8-pp38-pypy38_pp73-macosx_10_9_x86_64.whl": [
+          "cIjAF9WLW4nvda3yJiGNkXUU2JWJeW0kTrHxbKivxaQ=",
+          "pp38"
+        ],
+        "scylla_cqlsh-6.0.8-pp38-pypy38_pp73-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "HFnbzBZf8dkFcvxjbdA/+dICYnwkophb6GkZliFMDrQ=",
+          "pp38"
+        ],
+        "scylla_cqlsh-6.0.8-pp38-pypy38_pp73-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "CFd4sUNrB/BPnMmNLzZ5D5GAgtuGPDsGuj8S6wr5AQ0=",
+          "pp38"
+        ],
+        "scylla_cqlsh-6.0.8-pp38-pypy38_pp73-win_amd64.whl": [
+          "kK+o1boKySuzgc7Qv8Y1fShZXhWfBncbizEMjbiTIlA=",
+          "pp38"
+        ],
+        "scylla_cqlsh-6.0.8-pp39-pypy39_pp73-macosx_10_9_x86_64.whl": [
+          "AzrUVu2KAwcnKfvcXbeGRi3DKFlTmtpq3fecNUMZUqQ=",
+          "pp39"
+        ],
+        "scylla_cqlsh-6.0.8-pp39-pypy39_pp73-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "c3elgwfjBsvi3mbfAFlVlU4APG7LUoy0cihCNzfqCI4=",
+          "pp39"
+        ],
+        "scylla_cqlsh-6.0.8-pp39-pypy39_pp73-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "6R6Gp2rOHCHzM1m0SxX1Cxclw50iRSdUIWTQsOPEHAc=",
+          "pp39"
+        ],
+        "scylla_cqlsh-6.0.8-pp39-pypy39_pp73-win_amd64.whl": [
+          "QuA380eNJWmrm8hYg6hDEb1KBZLQcsB25b11TVavZM4=",
+          "pp39"
+        ]
+      }
     }
   },
   "sdrfcheck": {
@@ -144044,6 +144290,18 @@
       "wheels": {
         "tensorcircuit_nightly-0.8.0.dev20230417-py3-none-any.whl": [
           "+PtiaH+tGj0l8TlJKaIpvKwA+Lu2QRzyPKTCvlk3Ynw=",
+          "py3"
+        ]
+      }
+    },
+    "0.8.0.dev20230418": {
+      "sdist": [
+        "OzoOVg/+4Jj3wct1gpZs/BHFDOWjcOm5HIWFpfu9Fko=",
+        "tensorcircuit-nightly-0.8.0.dev20230418.tar.gz"
+      ],
+      "wheels": {
+        "tensorcircuit_nightly-0.8.0.dev20230418-py3-none-any.whl": [
+          "p6oJMmNfeFCAyDPoXMf2y0KSiDkswaPCiURraiPLYNY=",
           "py3"
         ]
       }

@@ -1416,6 +1416,18 @@
         ]
       }
     },
+    "0.0.139": {
+      "sdist": [
+        "gopMttAWXUbKVvh0ObxwLLSHV/tk3eDwmLTOrAZiSDM=",
+        "aitool-0.0.139.tar.gz"
+      ],
+      "wheels": {
+        "aitool-0.0.139-py3-none-any.whl": [
+          "+LhydPUr0O0uA/VC4HbHCsRUSeD6elhXvxp+Aj6nhC8=",
+          "py3"
+        ]
+      }
+    },
     "0.0.14": {
       "sdist": [
         "kkbOmTAZRrJVFmsPuoLjkQIZgXovtHL1GB5u584H2lU=",
@@ -1424,6 +1436,18 @@
       "wheels": {
         "aitool-0.0.14-py3-none-any.whl": [
           "joWoHedp1FKd9oF1ett3oMAIIko9zFTNJpfi43BLtKA=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.140": {
+      "sdist": [
+        "1SOklyp/t8eaGWmYrYImFh/RdmlbtakZFnATXGuihEM=",
+        "aitool-0.0.140.tar.gz"
+      ],
+      "wheels": {
+        "aitool-0.0.140-py3-none-any.whl": [
+          "Lm06f94trTQCSOlOUiHxUXJ2S7JGa5So6GHWaudE+GA=",
           "py3"
         ]
       }
@@ -28859,6 +28883,18 @@
           "py3"
         ]
       }
+    },
+    "2.0.1": {
+      "sdist": [
+        "wdvMJ9Sev+QawdTWbcSWwlb2d3dfrE6m+VInTx2fSbU=",
+        "chili-2.0.1.tar.gz"
+      ],
+      "wheels": {
+        "chili-2.0.1-py3-none-any.whl": [
+          "FOS4l7JeiDLX/1Wc8en3mJMWrzOv2ToPA12iYGnQmV8=",
+          "py3"
+        ]
+      }
     }
   },
   "chinese-name": {
@@ -39432,6 +39468,30 @@
       "wheels": {
         "Direct_Download-0.4.2-py3-none-any.whl": [
           "XdeMbyOqS11Gegj9j/Uodhlti3u2kcXK4Tn0h1Fs/kQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.3": {
+      "sdist": [
+        "udeLFTzz01CEzsroB29hdTxltv4F4sJ9rwaoJtWTrho=",
+        "Direct-Download-0.4.3.tar.gz"
+      ],
+      "wheels": {
+        "Direct_Download-0.4.3-py3-none-any.whl": [
+          "1i4Hva1W8TjEM3ovwUu43YY4V8fF3wa+QBbFXtCZWJo=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.4": {
+      "sdist": [
+        "H6q/LolObHZL3aDU6SPd0xTr8Md9Nk1gm7xTDLlRY9s=",
+        "Direct-Download-0.4.4.tar.gz"
+      ],
+      "wheels": {
+        "Direct_Download-0.4.4-py3-none-any.whl": [
+          "YH+umJnGbuNL6vQQ7rsH2PLFZ+sREAYbd1ZR+W5OZmM=",
           "py3"
         ]
       }
@@ -66212,6 +66272,18 @@
       "sdist": [
         "3vGZK5If8oEDErVgFXIWx6AuhdL1PDCQ+0U2iXVf76s=",
         "idds-doma-1.2.0.tar.gz"
+      ]
+    },
+    "1.2.1": {
+      "sdist": [
+        "DWmUJMw1iCeky+nVDDpDbmVWqVoa08MS0LPBlL7Puv0=",
+        "idds-doma-1.2.1.tar.gz"
+      ]
+    },
+    "1.2.2": {
+      "sdist": [
+        "zwJ8htSTqk00qAyedOHqaXNHZ/ojKmmWnCISjybx2LQ=",
+        "idds-doma-1.2.2.tar.gz"
       ]
     }
   },
@@ -128874,62 +128946,22 @@
         ]
       }
     },
-    "6.5.0rc2": {
+    "6.5.0rc7": {
       "wheels": {
-        "quarkstudio-6.5.0rc2-cp310-cp310-macosx_10_9_universal2.whl": [
-          "m8tPb6/fIcY5l1oh2zMLQ3Y/pGTHZB/VkfY4G1zVckg=",
+        "quarkstudio-6.5.0rc7-cp310-cp310-manylinux1_x86_64.whl": [
+          "13xuy1QnvwZH4vQbWAlva8W82LytJgbhB/1caWv5NjE=",
           "cp310"
         ],
-        "quarkstudio-6.5.0rc2-cp310-cp310-manylinux1_x86_64.whl": [
-          "yED3/WniDeJRGNCfzhn/5xNq5IKTabt3lY26rtjmWJE=",
+        "quarkstudio-6.5.0rc7-cp310-cp310-win_amd64.whl": [
+          "xkcJexEBcg3CR8RDkNzfz64XTDueuYtm8ZvTDn1IrJs=",
           "cp310"
         ],
-        "quarkstudio-6.5.0rc2-cp310-cp310-win_amd64.whl": [
-          "H/fsLzKlMal3yg+IEafn037kXdq0lI93/An/suxw57Y=",
-          "cp310"
-        ],
-        "quarkstudio-6.5.0rc2-cp311-cp311-macosx_10_9_universal2.whl": [
-          "dqpRmGHbN3bpWCmnPlzOG9Er5AcxpZHy9dJ9CjsldNs=",
+        "quarkstudio-6.5.0rc7-cp311-cp311-manylinux1_x86_64.whl": [
+          "UH1b3wP+MudZic4Ux3xXw6U/wAn/Jlt/OSvAfoSKvvU=",
           "cp311"
         ],
-        "quarkstudio-6.5.0rc2-cp311-cp311-manylinux1_x86_64.whl": [
-          "3JgDFiHs+sZ+JLfePg1V54S4jP+wz0wyUXQcsSYYhIY=",
-          "cp311"
-        ],
-        "quarkstudio-6.5.0rc2-cp311-cp311-win_amd64.whl": [
-          "vCvxZ+eEeaGkeKHIWIOuvuXlLuySb8pCtmJfywl08jc=",
-          "cp311"
-        ]
-      }
-    },
-    "6.5.0rc5": {
-      "wheels": {
-        "quarkstudio-6.5.0rc5-cp310-cp310-manylinux1_x86_64.whl": [
-          "YilKOsTvqZfi87XsIp7ApHopB9I/uoeRT6vJQZeAJDY=",
-          "cp310"
-        ],
-        "quarkstudio-6.5.0rc5-cp310-cp310-win_amd64.whl": [
-          "HK8rFShr+ipddZH/Aabrwf+eoxDTLMsiGqw1TG6Y9HM=",
-          "cp310"
-        ],
-        "quarkstudio-6.5.0rc5-cp311-cp311-manylinux1_x86_64.whl": [
-          "BE7U/ZiBryz45fUV6wEXlR6Dr2/rhvu5NW8k8UcF2c8=",
-          "cp311"
-        ],
-        "quarkstudio-6.5.0rc5-cp311-cp311-win_amd64.whl": [
-          "np7GDshDmrWRk8tR1LmGeMhYEFbwI2k0xCIcJYRylvc=",
-          "cp311"
-        ]
-      }
-    },
-    "6.5.0rc6": {
-      "wheels": {
-        "quarkstudio-6.5.0rc6-cp310-cp310-macosx_10_9_universal2.whl": [
-          "ZX6rJQk2C98KYdWLF+WC+YU0CwilMarfOXDKk0n216E=",
-          "cp310"
-        ],
-        "quarkstudio-6.5.0rc6-cp311-cp311-macosx_10_9_universal2.whl": [
-          "pMoYRd3L4t+5Yxvi3Ibe+rFlxs0/NcLLRyo53qe2kSQ=",
+        "quarkstudio-6.5.0rc7-cp311-cp311-win_amd64.whl": [
+          "mO3TJ4qske7NOBMRDmIrQUNAPo6M+lE6OM4D9etuG2o=",
           "cp311"
         ]
       }
@@ -133590,6 +133622,12 @@
       "sdist": [
         "aeIOKHAj+0jUzGmfW5pG0I7Q7PIXrLyb+zx88ZVli6k=",
         "RobertCommonBasic-0.1.35.tar.gz"
+      ]
+    },
+    "0.1.36": {
+      "sdist": [
+        "i17boyHWlPvXcS2SazvP14lPlYR6bV3JGb+5/wK2ALw=",
+        "RobertCommonBasic-0.1.36.tar.gz"
       ]
     }
   },

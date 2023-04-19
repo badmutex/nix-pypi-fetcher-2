@@ -5449,6 +5449,12 @@
         "TAJXxj77BI+PDbsDxRS1BZOsTt7H+cQUVjNiWGBMpl4=",
         "alphaz-0.7.4.tar.gz"
       ]
+    },
+    "0.7.4.1": {
+      "sdist": [
+        "+465sgVKo4Epq0wp2734bsDsnTf8bMGfwHch9OIIpp8=",
+        "alphaz-0.7.4.1.tar.gz"
+      ]
     }
   },
   "amancalc": {
@@ -63949,6 +63955,24 @@
       }
     }
   },
+  "issue-db-api": {
+    "0.1.0": {
+      "sdist": [
+        "EV0CmKOQRpstLMFuwS3IvB1BsXvzqySTiEfX941FcP4=",
+        "issue_db_api-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "issue_db_api-0.1.0-cp310-cp310-win_amd64.whl": [
+          "KRll6BRuWCd1uXIgeDypwRoz6eyrWjyGR8BqyNwTdXk=",
+          "cp310"
+        ],
+        "issue_db_api-0.1.0-cp311-cp311-win_amd64.whl": [
+          "VO/WcW2pasc3AE89+gFZDN1lwFxE5CTEn2c+946Dp+I=",
+          "cp311"
+        ]
+      }
+    }
+  },
   "ivory": {
     "0.1.2": {
       "sdist": [
@@ -66276,6 +66300,18 @@
       "wheels": {
         "jwskate-0.6.0-py3-none-any.whl": [
           "P4C3T2C80pEaLCyMSzhRKXiB0m/bTf2RZvqn6TLo3gg=",
+          "py3"
+        ]
+      }
+    },
+    "0.7.0": {
+      "sdist": [
+        "RNFgoErVv7wut3zIDCb5FT2te8x3J8W9piWtZme53/c=",
+        "jwskate-0.7.0.tar.gz"
+      ],
+      "wheels": {
+        "jwskate-0.7.0-py3-none-any.whl": [
+          "pwQlNn6O58ZA7Cwz+Cc18eKcu+lXN/dUNGbI17cgPFY=",
           "py3"
         ]
       }
@@ -82594,6 +82630,14 @@
       "wheels": {
         "odoo10_addon_purchase_variant_configurator_on_confirm-10.0.1.0.0.99.dev7-py2-none-any.whl": [
           "Yerze21/DRZZFoex4+jtbEMKcyR7cA34SoIY+XAapCA=",
+          "py2"
+        ]
+      }
+    },
+    "10.0.1.0.0.99.dev8": {
+      "wheels": {
+        "odoo10_addon_purchase_variant_configurator_on_confirm-10.0.1.0.0.99.dev8-py2-none-any.whl": [
+          "8QV37nOTugdH8UoLYcv4WtumFtrwDSF93QUh8pNiblI=",
           "py2"
         ]
       }
@@ -107362,6 +107406,18 @@
         ]
       }
     },
+    "0.0.11": {
+      "sdist": [
+        "JhWbfLVTikGuhpA1gPZfHvXb0x52rpDA5LyXtB5OZ6g=",
+        "pypots-0.0.11.tar.gz"
+      ],
+      "wheels": {
+        "pypots-0.0.11-py3-none-any.whl": [
+          "7S8AiMIkC11hm/fL2N4L+LEBUGuG3eheZBcL0x8sffE=",
+          "py3"
+        ]
+      }
+    },
     "0.0.2": {
       "wheels": {
         "pypots-0.0.2-py3-none-any.whl": [
@@ -119608,6 +119664,18 @@
       "wheels": {
         "s2protocol-5.0.11.89720.0-py2-none-any.whl": [
           "OlUztzZQ00htQYxMSnxsrXjiR8nH9bFxSPzDrigAPSE=",
+          "py2"
+        ]
+      }
+    },
+    "5.0.11.90136.0": {
+      "sdist": [
+        "rXmkqf8GkebHOsV9IQlEw57wpeC6De2NbVsydNg5HLo=",
+        "s2protocol-5.0.11.90136.0.tar.gz"
+      ],
+      "wheels": {
+        "s2protocol-5.0.11.90136.0-py2-none-any.whl": [
+          "PjhFm7WSUOkJGvsq3aMIO/g7traFEwWmlWqL0qaJVKg=",
           "py2"
         ]
       }
@@ -134976,6 +135044,18 @@
       "wheels": {
         "tencentcloud_sdk_python_cii-3.0.876-py2.py3-none-any.whl": [
           "Nv4+Z5EUz3mkrDTrV7oOmyOvWZXOEVm1eRN0EwZQydM=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.877": {
+      "sdist": [
+        "2zdsK8Geyzkzwhl9HU/TO+9tbduGeOUJfl0GDjsPh3k=",
+        "tencentcloud-sdk-python-cii-3.0.877.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_cii-3.0.877-py2.py3-none-any.whl": [
+          "fg9GX+luLeN0S0WCwIv24ClRlPXG5eXW3/CtcHN/TbE=",
           "py2.py3"
         ]
       }

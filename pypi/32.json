@@ -18917,6 +18917,14 @@
       ]
     }
   },
+  "btfsdk-base": {
+    "1.0.0.post1": {
+      "sdist": [
+        "1V2ESlSvyyF9AjbdF3PYQLQit4YwH2mu5lY99PGNNUE=",
+        "btfsdk-base-1.0.0.post1.tar.gz"
+      ]
+    }
+  },
   "btlejuice": {
     "1.0": {
       "sdist": [
@@ -50061,6 +50069,20 @@
       }
     }
   },
+  "google-cloud-storageinsights": {
+    "0.1.0": {
+      "sdist": [
+        "Cz4E8OrwT7E5LB+NTFDdrjivYbkLO6BG6QNLxKU/uEs=",
+        "google-cloud-storageinsights-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "google_cloud_storageinsights-0.1.0-py3-none-any.whl": [
+          "wuEfGPPpjhwLoeNqeyTrS7bYQjFS5ZSWCy/DgRM77lk=",
+          "py3"
+        ]
+      }
+    }
+  },
   "google-ldap3": {
     "0.0.1": {
       "sdist": [
@@ -51138,6 +51160,18 @@
       "wheels": {
         "herbiv-0.1a4-py3-none-any.whl": [
           "JSKypoHNdmMyK3ndb6q8VwF9nB/2IuBxsiXgE617iQs=",
+          "py3"
+        ]
+      }
+    },
+    "0.1a5": {
+      "sdist": [
+        "diniEtbSfg0kEKEJCu/BUN1dKM9VUrmM57UrX/CBXkY=",
+        "herbiv-0.1a5.tar.gz"
+      ],
+      "wheels": {
+        "herbiv-0.1a5-py3-none-any.whl": [
+          "IvjUnSymeMUpvpaaEQSmfPj+pdUstmC8sxauZTddODg=",
           "py3"
         ]
       }
@@ -93867,6 +93901,20 @@
       }
     }
   },
+  "nonebot-plugin-penguin": {
+    "0.0.1": {
+      "sdist": [
+        "aUvuHQbjcfHXnpVXAUUb8oWUmjadD4Urjt+SUHHMWP4=",
+        "nonebot_plugin_penguin-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "nonebot_plugin_penguin-0.0.1-py3-none-any.whl": [
+          "SLnXyTJxfo0gyWgjXg576KD/fUCpbz5Mz3DWGEu/BuY=",
+          "py3"
+        ]
+      }
+    }
+  },
   "nonechucks": {
     "0.1": {
       "sdist": [
@@ -102525,6 +102573,30 @@
           "py3"
         ]
       }
+    },
+    "0.0.7": {
+      "sdist": [
+        "w8LD3tmeYFPINex1TT/QnuyRi7ySLrJfCrvonDYsZ1g=",
+        "osmosispy-0.0.7.tar.gz"
+      ],
+      "wheels": {
+        "osmosispy-0.0.7-py3-none-any.whl": [
+          "P+pAnrXBRxfmjLe9sh9fHxJNa3WER3SSFjUNmrvkBQM=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.8": {
+      "sdist": [
+        "+jhLUQ4eupK2O5/XzXSg5dL/cnJ2ndN3Ys8uY/NO76I=",
+        "osmosispy-0.0.8.tar.gz"
+      ],
+      "wheels": {
+        "osmosispy-0.0.8-py3-none-any.whl": [
+          "n604dnaM4SCrxEtG3owWedIy12jgvB4aUc3Cn9KwiPo=",
+          "py3"
+        ]
+      }
     }
   },
   "ovos-tts-plugin-polly": {
@@ -107030,283 +107102,17 @@
     }
   },
   "pgui": {
-    "0.0.1": {
-      "wheels": {
-        "pgui-0.0.1-py3-none-any.whl": [
-          "SY0OilM2FtmmWa6F2tLFkXbBotzfGjn8vkNa6j0ZIxw=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.10": {
+    "0.1": {
       "sdist": [
-        "c4UuEKbRsA32Q6uwqyhTwx9I4BwFOKtj0P81/S+LIuM=",
-        "pgui-0.0.10.tar.gz"
-      ]
-    },
-    "0.0.11": {
-      "sdist": [
-        "hzf1hi3NUMhvGOnKMwbYqdO8PSM6XQLCPh3MGiF9dxM=",
-        "pgui-0.0.11.tar.gz"
-      ]
-    },
-    "0.0.12": {
-      "sdist": [
-        "tIbLxG+bQY5KQugtFRu69S5efwOF9mSN6HHDINz+5ek=",
-        "pgui-0.0.12.tar.gz"
-      ]
-    },
-    "0.0.13": {
-      "sdist": [
-        "sQgrr4cLpRfvoWh4juHUSQj67+8n9cT0lzETBbOz0QQ=",
-        "pgui-0.0.13.tar.gz"
-      ]
-    },
-    "0.0.14": {
-      "sdist": [
-        "GyePeNaq4MMf7Ad2EfxSiJiIHZJYsNzJtMLMghPkmjs=",
-        "pgui-0.0.14.tar.gz"
-      ]
-    },
-    "0.0.17": {
-      "sdist": [
-        "abeaIQHB0hDZb2HzSdUpx8iHhfMWaPtZNsxgtavvsuA=",
-        "pgui-0.0.17.tar.gz"
-      ]
-    },
-    "0.0.18": {
-      "sdist": [
-        "/LhwNCTmLb57b5l+YOHvrJPJhwXXa9iyK6C85gLZ98o=",
-        "pgui-0.0.18.tar.gz"
-      ]
-    },
-    "0.0.19": {
-      "sdist": [
-        "9oDvUwewlFq2t3Bhifs0L+AlTwbG9YmBmOML9wL89RM=",
-        "pgui-0.0.19.tar.gz"
-      ]
-    },
-    "0.0.2": {
-      "sdist": [
-        "U3yLOrZbC+f/AA79vs84GxR3AMQSziNfsQNZI/BZZBw=",
-        "pgui-0.0.2.tar.gz"
+        "grUjg6vSOSpfck5nxGpW07KDS9nWcUjD5aMse5nY6kY=",
+        "pgui-0.1.tar.gz"
       ],
       "wheels": {
-        "pgui-0.0.2-py3-none-any.whl": [
-          "yQqsav88x3lm9GeywPgnzAKEWgq6pCMje0LB2MqtFT8=",
+        "pgui-0.1-py3-none-any.whl": [
+          "De/CRVRZVD94Xw7jCuDmUYrpmu9mN+QFfAOV7SWXeb4=",
           "py3"
         ]
       }
-    },
-    "0.0.20": {
-      "sdist": [
-        "3J60lh8wNpfQsySMLCzdReYKCIhLjlCOu7Uje8bhgCQ=",
-        "pgui-0.0.20.tar.gz"
-      ]
-    },
-    "0.0.21": {
-      "sdist": [
-        "BoakVZ45oQsbDox7Em37w6Vz+8JldqAf2LjqNEpjzm0=",
-        "pgui-0.0.21.tar.gz"
-      ]
-    },
-    "0.0.22": {
-      "sdist": [
-        "mAEfsSpwPHqHl88Nrs2VGO+qEqmHpcTV/zhhpS+W64s=",
-        "pgui-0.0.22.tar.gz"
-      ]
-    },
-    "0.0.23": {
-      "sdist": [
-        "gSS4rDjbz4yiqnMMXBTMwKXBk1Kt91xaBTF+ih2Lcho=",
-        "pgui-0.0.23.tar.gz"
-      ]
-    },
-    "0.0.24": {
-      "sdist": [
-        "8tUT0NcwquolaJXAG3rPXsMpOVb0NsmF0Trp/CKDPuI=",
-        "pgui-0.0.24.tar.gz"
-      ]
-    },
-    "0.0.25": {
-      "sdist": [
-        "TxJukiDvicJvunliiPnMe9WzhlTvAvwR/qWa8UASvHc=",
-        "pgui-0.0.25.tar.gz"
-      ]
-    },
-    "0.0.26": {
-      "sdist": [
-        "aCntd1y0eiW1s8I6JW5XaHASBbCNRQKTYTEA+wLFIdE=",
-        "pgui-0.0.26.tar.gz"
-      ]
-    },
-    "0.0.27": {
-      "sdist": [
-        "NTZQLKqF5lKMMUL/fPqI9akIkVpGZECFdCxw14SUUJ4=",
-        "pgui-0.0.27.tar.gz"
-      ]
-    },
-    "0.0.28": {
-      "sdist": [
-        "gR762uzsb5U3j2xicjJxN9kADUnGs/x9Jxrj1ksKadQ=",
-        "pgui-0.0.28.tar.gz"
-      ]
-    },
-    "0.0.29": {
-      "sdist": [
-        "eoWeZOxge72hDrlWqGpr8kaWlRv5ba25m4uU6J2HoCE=",
-        "pgui-0.0.29.tar.gz"
-      ]
-    },
-    "0.0.3": {
-      "sdist": [
-        "5P9Tss+Xvb7iiKcBGuDWmBrKMjxw0PatUicWWMz6+A8=",
-        "pgui-0.0.3.tar.gz"
-      ],
-      "wheels": {
-        "pgui-0.0.3-py3-none-any.whl": [
-          "vog86Hb9E9LeVWILRc/2aEn7uBlF6XlkpCH8DloGgxE=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.30": {
-      "sdist": [
-        "k9BSPMa5aTrucGLEQTSa1UT3K36ZtWkz+47cfg4yAhg=",
-        "pgui-0.0.30.tar.gz"
-      ]
-    },
-    "0.0.31": {
-      "sdist": [
-        "fmc3ccc12dC4BC+N+RWtrtoFyQnTYm1KLRT74hvGHAU=",
-        "pgui-0.0.31.tar.gz"
-      ]
-    },
-    "0.0.32": {
-      "sdist": [
-        "L97vmzFFH/BQkxinxcRp2XNuu5rMEAkWLfNmfZ20Io8=",
-        "pgui-0.0.32.tar.gz"
-      ]
-    },
-    "0.0.33": {
-      "sdist": [
-        "QenAGIzX4rQuKOLJQQikQJPbWuEiH30Hvt9pgGeXDHg=",
-        "pgui-0.0.33.tar.gz"
-      ]
-    },
-    "0.0.4": {
-      "sdist": [
-        "jB5g3axTcmsYBtSvRvJEm57DdCczUB3t4nlso21PG9s=",
-        "pgui-0.0.4.tar.gz"
-      ],
-      "wheels": {
-        "pgui-0.0.4-py3-none-any.whl": [
-          "dAMsLUcGblxPk2b8b7u+6iJ04uCZ07oLSS5SXMrz9uk=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.5": {
-      "sdist": [
-        "7JfbUCJyEO6WWTfAWrwEHzkiP2ECzkOrk8CTGEEiL+w=",
-        "pgui-0.0.5.tar.gz"
-      ],
-      "wheels": {
-        "pgui-0.0.5-py3-none-any.whl": [
-          "g7t1vepfqRiHCUqMeL7r1OzJGDhiIGMogoiGLwx3YhA=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.6": {
-      "sdist": [
-        "tNq0YsiMc+Z6esu9xflcv9/drraIxB1MXExVuwJ5gco=",
-        "pgui-0.0.6.tar.gz"
-      ],
-      "wheels": {
-        "pgui-0.0.6-py3-none-any.whl": [
-          "0ydRSDhFmux2iwz+yBVLN5BSdbLsTLQ0NEp6/TbiMlo=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.6.post1": {
-      "sdist": [
-        "2VGLp358XluakdPk2iRziMaZlguPQUkNvhf7ZR9AmVk=",
-        "pgui-0.0.6.post1.tar.gz"
-      ],
-      "wheels": {
-        "pgui-0.0.6.post1-py3-none-any.whl": [
-          "4wllJyiQdZ4+BG5t4G3WekuouMscp8qTq3TdBdSmB2c=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.7": {
-      "sdist": [
-        "QSGTPTV6ZVw1bSFQiOIQxHXAQYosF780YRt2ZrwIPgU=",
-        "pgui-0.0.7.tar.gz"
-      ],
-      "wheels": {
-        "pgui-0.0.7-py3-none-any.whl": [
-          "rc+uR93sPwP/lzVR7Dm6wbGyWQvStSEjFuDrCuGiHO4=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.7.post1": {
-      "sdist": [
-        "u7uy9RaitBfJxchdV5gtoCyJq9UC0de9DosBRmITKbg=",
-        "pgui-0.0.7.post1.tar.gz"
-      ],
-      "wheels": {
-        "pgui-0.0.7.post1-py3-none-any.whl": [
-          "QDs11FkWIJQAyaybmCUcBSxTpx78CglroZwve+AJ5nU=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.7.post2": {
-      "sdist": [
-        "XabSrqZPrFnSG4iZ4ey5ByuRWjP1O0XcwGt9jStpzLo=",
-        "pgui-0.0.7.post2.tar.gz"
-      ],
-      "wheels": {
-        "pgui-0.0.7.post2-py3-none-any.whl": [
-          "hyHf1kavZpQtw05wEVjd6XJBFqgdOAeiGgNLA9sovwo=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.8": {
-      "sdist": [
-        "JJslNk9ytGerOA2SO1tjWJj3g4fPO6xGBClL3FK0IWE=",
-        "pgui-0.0.8.tar.gz"
-      ],
-      "wheels": {
-        "pgui-0.0.8-py3-none-any.whl": [
-          "gRO+++HDFGfEs26/wqMl1uTalJ+HqTuVU/TC8Scu4Oc=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.8.post1": {
-      "sdist": [
-        "4NmER+hJNUYfI8++mB1Aiw+X37wfaZgQy++DxrltPaY=",
-        "pgui-0.0.8.post1.tar.gz"
-      ],
-      "wheels": {
-        "pgui-0.0.8.post1-py3-none-any.whl": [
-          "bQt9R4924YFPFqi9Jr4bVMne+apzrI1oUhIFj2dCM8g=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.9": {
-      "sdist": [
-        "sLmQn0zeq20y5Ozfwu6TPl8wmxqTmfIcrO0mkhHAOOs=",
-        "pgui-0.0.9.tar.gz"
-      ]
     }
   },
   "phic": {
@@ -109638,6 +109444,20 @@
       "wheels": {
         "pretix_lyte-0.0.1-py3-none-any.whl": [
           "Br6parL4+xKVWAguuEa8HRJiRqZg+VmBd8bmwMPtfh0=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "pretty-logs": {
+    "0.0.1": {
+      "sdist": [
+        "O6yPEbHq8UUHOsP2JNlM+Sn3HGjsIpb2LVUP5/Cl9Bc=",
+        "pretty_logs-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "pretty_logs-0.0.1-py3-none-any.whl": [
+          "pLbxG1rvkySzTaV6qKX30BHDL2S6OHa9qSBY1GTw1HY=",
           "py3"
         ]
       }
@@ -119010,6 +118830,18 @@
       "wheels": {
         "pytest_redis-3.0.1-py3-none-any.whl": [
           "t++MCYTlKqis5Derge2/v3jdkEvINVfIk7kS7sawqW4=",
+          "py3"
+        ]
+      }
+    },
+    "3.0.2": {
+      "sdist": [
+        "5UZg6V+x7A/rdCZSPjdxCseFA4DGD57mk8QEWm/CisU=",
+        "pytest-redis-3.0.2.tar.gz"
+      ],
+      "wheels": {
+        "pytest_redis-3.0.2-py3-none-any.whl": [
+          "4v05ZY85a2riKXa4D5TGHr2lvCu4/n6rzHp/mU92Wfg=",
           "py3"
         ]
       }

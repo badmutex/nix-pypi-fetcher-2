@@ -12155,6 +12155,18 @@
           "py3"
         ]
       }
+    },
+    "0.7.0b20230419": {
+      "sdist": [
+        "eLyCDwJ7UwcvyWk/ciWq9nyynWtWQlhdhXaI1XVm7qc=",
+        "autogluon.timeseries-0.7.0b20230419.tar.gz"
+      ],
+      "wheels": {
+        "autogluon.timeseries-0.7.0b20230419-py3-none-any.whl": [
+          "tjaFrUv74z1zz2eMGy8tCx+DR/P+5cmXaOGG7b/mpWA=",
+          "py3"
+        ]
+      }
     }
   },
   "autohooks-plugin-pytest": {
@@ -25252,6 +25264,18 @@
       "wheels": {
         "cibuildwheel-2.12.2-py3-none-any.whl": [
           "xUFJOO+63RSPMTAfhOp0EYrHNoY5Qib1TLupodOmebM=",
+          "py3"
+        ]
+      }
+    },
+    "2.12.3": {
+      "sdist": [
+        "kIBQxZWEa51ftiIJ5KsMVFEp69Ccarq4+rcM4jtbyzo=",
+        "cibuildwheel-2.12.3.tar.gz"
+      ],
+      "wheels": {
+        "cibuildwheel-2.12.3-py3-none-any.whl": [
+          "fyIvg2pR66Hu1QGB64Dtq08FhPumjiEnEPY6czDfNbI=",
           "py3"
         ]
       }
@@ -88748,6 +88772,18 @@
         ]
       }
     },
+    "12.1.109": {
+      "wheels": {
+        "nvidia_cuda_cccl_cu12-12.1.109-py3-none-manylinux1_x86_64.whl": [
+          "arx4KcrteTIdGecUe8yFZ8ydPK+ardyfqw23s/uWThA=",
+          "py3"
+        ],
+        "nvidia_cuda_cccl_cu12-12.1.109-py3-none-win_amd64.whl": [
+          "BkxTEUdxoVl0xyL01QQCFX4sRsbh0GV39CQVSvay3cM=",
+          "py3"
+        ]
+      }
+    },
     "12.1.55": {
       "wheels": {
         "nvidia_cuda_cccl_cu12-12.1.55-py3-none-manylinux1_x86_64.whl": [
@@ -91194,6 +91230,14 @@
         ]
       }
     },
+    "10.0.1.0.3.99.dev17": {
+      "wheels": {
+        "odoo10_addon_quality_control-10.0.1.0.3.99.dev17-py2-none-any.whl": [
+          "NoLb+vfw1gbC5jVuwgVc+zT2wAUNdHEEKw9+QVXrem8=",
+          "py2"
+        ]
+      }
+    },
     "10.0.1.0.3.99.dev2": {
       "wheels": {
         "odoo10_addon_quality_control-10.0.1.0.3.99.dev2-py2-none-any.whl": [
@@ -91434,6 +91478,14 @@
       "wheels": {
         "odoo11_addon_mrp_mto_with_stock-11.0.2.0.1-py2.py3-none-any.whl": [
           "QarlghcNnD9BFrd1jRXTuXzREzO8g9eENvqmEM3/muw=",
+          "py2.py3"
+        ]
+      }
+    },
+    "11.0.2.0.1.99.dev1": {
+      "wheels": {
+        "odoo11_addon_mrp_mto_with_stock-11.0.2.0.1.99.dev1-py2.py3-none-any.whl": [
+          "Vb2FqaIBoQbhnp3O1lStc2h0dmh/0thN+5g5AhiePio=",
           "py2.py3"
         ]
       }
@@ -99707,6 +99759,18 @@
         "plone.folder-3.1.0-py2.py3-none-any.whl": [
           "PpWZJHwgn2Ac5T/Yf6Xi1sNdBTpqNUDtHe414bE5o+8=",
           "py2.py3"
+        ]
+      }
+    },
+    "4.0.0": {
+      "sdist": [
+        "CaaEucxLxMNCIbxwo6txGm+X5lCYjxBKOLpotaB/U+A=",
+        "plone.folder-4.0.0.tar.gz"
+      ],
+      "wheels": {
+        "plone.folder-4.0.0-py3-none-any.whl": [
+          "FUqtG9aDF4yNRVLtDQmJr6lkds/FZ2e63KStsfg+v2A=",
+          "py3"
         ]
       }
     }
@@ -143563,6 +143627,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.877": {
+      "sdist": [
+        "iZCdxJVCqTTmNXSj+nc1InEJgqD0h/hKjnZKF/GnqC8=",
+        "tencentcloud-sdk-python-sts-3.0.877.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_sts-3.0.877-py2.py3-none-any.whl": [
+          "conDtUXS5EcSu5KMLjQZlmtOg2CzM9kgcTUlOPXGb4g=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tencentyun": {
@@ -154578,6 +154654,14 @@
       "sdist": [
         "xlIuz0CKRKSAij86sv1etYzEfFCylPV2lD9CYY8J3pA=",
         "yatank-internal-dolbilo-66.0.2.tar.gz"
+      ]
+    }
+  },
+  "yayaliu-package": {
+    "0.0.1": {
+      "sdist": [
+        "1k7VFPpgyVgvf2ITBXD1CVDaW8wu8xcmxodJ67Iccq0=",
+        "yayaliu_package-0.0.1.tar.gz"
       ]
     }
   },

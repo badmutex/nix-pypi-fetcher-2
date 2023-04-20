@@ -26145,6 +26145,12 @@
         "XgUqb++YaY3nzpn5A1ZfqRXzqDLW/N+7hBrWgE3YOQY=",
         "deterrers-api-0.3.tar.gz"
       ]
+    },
+    "0.4": {
+      "sdist": [
+        "A1pomaVkj7dMytOGpjvGCRdIJlaf1YhYzcLLgVpzliI=",
+        "deterrers-api-0.4.tar.gz"
+      ]
     }
   },
   "detoxify": {
@@ -28506,6 +28512,18 @@
       "wheels": {
         "django_attachments-1.10-py2.py3-none-any.whl": [
           "78ane+5yspTi4T34ZzwVlN6iaMETPmPC2+ZRwx/2gSk=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.11": {
+      "sdist": [
+        "j1gRI4lVnM2ZY+v/O1E6xyC1xQ++L9u8zVZXb5Jfbkg=",
+        "django-attachments-1.11.tar.gz"
+      ],
+      "wheels": {
+        "django_attachments-1.11-py2.py3-none-any.whl": [
+          "h28dpqyO8k2cVyh0zFF2MApPtlQQZwX53vHS9Sg05u8=",
           "py2.py3"
         ]
       }
@@ -73364,6 +73382,42 @@
         ]
       }
     },
+    "0.12.6": {
+      "sdist": [
+        "xce9U2Iahh0o8MZKB1Gozb0vSskiLkj0p3yPSMbqfQA=",
+        "jpeglib-0.12.6.tar.gz"
+      ],
+      "wheels": {
+        "jpeglib-0.12.6-cp38-abi3-macosx_10_9_universal2.whl": [
+          "eO0KPQUK62KiWaHN72bD9Ly7Pbu35PDJF+FLi6itddY=",
+          "cp38"
+        ],
+        "jpeglib-0.12.6-cp38-abi3-macosx_10_9_x86_64.whl": [
+          "OgWDNNT8xXnNWJFRo7WZoMF4yZ54YNsupvwt4X+iSwM=",
+          "cp38"
+        ],
+        "jpeglib-0.12.6-cp38-abi3-macosx_11_0_arm64.whl": [
+          "KPlwi9hABEbF96YtcJc42DNysu+Z7awgYJo0xpDjUjE=",
+          "cp38"
+        ],
+        "jpeglib-0.12.6-cp38-abi3-manylinux_2_12_i686.manylinux2010_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "6ZYypir+kBPLl64hCo8BER6vt1YoqSNyIQWfQI6GCHA=",
+          "cp38"
+        ],
+        "jpeglib-0.12.6-cp38-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "GH4HVeapPtdsCrnmSCjSp2Bc00eziZiu/aZZ4MCb1Ko=",
+          "cp38"
+        ],
+        "jpeglib-0.12.6-cp38-abi3-win32.whl": [
+          "P0yEPuDg1flGRmtId3pKQKpL7Ac1/+DF/MqWRDIjyX8=",
+          "cp38"
+        ],
+        "jpeglib-0.12.6-cp38-abi3-win_amd64.whl": [
+          "TULuySq+cRzXBpea9Y5rKxl8IvL6JOyar+Sth60wcpQ=",
+          "cp38"
+        ]
+      }
+    },
     "0.4.10": {
       "sdist": [
         "jukcO+2jpqT1C+ENq7+SE7p8T3nC1M86rJqKeK7YOos=",
@@ -93585,6 +93639,18 @@
           "py2.py3"
         ]
       }
+    },
+    "1.6.0": {
+      "sdist": [
+        "VaH9PH9tClTONRutkZ/RqHaABXDHVeObZYK+sltKhck=",
+        "nifcloud-cli-1.6.0.tar.gz"
+      ],
+      "wheels": {
+        "nifcloud_cli-1.6.0-py2.py3-none-any.whl": [
+          "ROc6wKgGOj9xqSukIJVrMtOGcZclcQpXVXdVpSN0MhU=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "nimsp": {
@@ -100154,6 +100220,14 @@
       "wheels": {
         "odoo14_addon_pms-14.0.2.36.5.dev129-py3-none-any.whl": [
           "P+JgluJlxb9DUp6Ta9nbW32kGNLFecMwUagY4WIMmB4=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.2.36.5.dev131": {
+      "wheels": {
+        "odoo14_addon_pms-14.0.2.36.5.dev131-py3-none-any.whl": [
+          "9mhKa2i0Qo742ziyazxKA/DNPvBgtQTrV8RFaLRou40=",
           "py3"
         ]
       }
@@ -108468,6 +108542,18 @@
       "wheels": {
         "pharmpy_core-0.93.1-py3-none-any.whl": [
           "7Nq7FGEpe/75aP0OnUv+GeYVSCVu4PjHTQSf6iRQ5EA=",
+          "py3"
+        ]
+      }
+    },
+    "0.93.2": {
+      "sdist": [
+        "1nv9RsC+5NbOb3V6u4el9ra9PwDdV8utebJdwEX2qaU=",
+        "pharmpy-core-0.93.2.tar.gz"
+      ],
+      "wheels": {
+        "pharmpy_core-0.93.2-py3-none-any.whl": [
+          "WY9uJp1rGWpP4iI7tXl3TPoBfzaaobMv9qArPyi/CMg=",
           "py3"
         ]
       }

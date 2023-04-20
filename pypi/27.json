@@ -55545,6 +55545,14 @@
           "py2.py3"
         ]
       }
+    },
+    "3.1.37": {
+      "wheels": {
+        "huaweicloudsdksecmaster-3.1.37-py2.py3-none-any.whl": [
+          "5nm62YByhH1C5dDllJClIcFtLBwAVFH+8rDAX8MgtFw=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "huaweicloudsdksfsturbo": {
@@ -56104,6 +56112,14 @@
       "wheels": {
         "huaweicloudsdksfsturbo-3.1.36-py2.py3-none-any.whl": [
           "OccwiAiGXxVR0s3mDZkScexbkTiTi/AKwCe7aIM17mQ=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.37": {
+      "wheels": {
+        "huaweicloudsdksfsturbo-3.1.37-py2.py3-none-any.whl": [
+          "J5UUb7vFp+k7oF92dZFwiwORjOND5hJz/W+f1HTUZ9s=",
           "py2.py3"
         ]
       }
@@ -61242,6 +61258,18 @@
       "wheels": {
         "invenio_records_lom-0.7.2-py2.py3-none-any.whl": [
           "7vU5L4YUGTRJ6tJ8CTQqDcdeJQ7BKuZBdoogpII6ei0=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.8.0": {
+      "sdist": [
+        "/gXN22hdtGdCGFQJp8Zw+ohfBUbK8RptOHXCe49gZXM=",
+        "invenio-records-lom-0.8.0.tar.gz"
+      ],
+      "wheels": {
+        "invenio_records_lom-0.8.0-py2.py3-none-any.whl": [
+          "k+MrR1s/ITMwRIslgeuscbHRApuBbXk/SiLWwqWmHFQ=",
           "py2.py3"
         ]
       }
@@ -71602,6 +71630,18 @@
         ]
       }
     },
+    "1.20.4.dev71": {
+      "sdist": [
+        "7B7BIG5xUJttAQeeswlIY8PacUGR7/sKMLWyFzteTno=",
+        "large-image-source-openjpeg-1.20.4.dev71.tar.gz"
+      ],
+      "wheels": {
+        "large_image_source_openjpeg-1.20.4.dev71-py3-none-any.whl": [
+          "ju7DJySBZJxrK3rzg4Ps6fCarJYG7SRxHIxYsu6oBIU=",
+          "py3"
+        ]
+      }
+    },
     "1.20.4.dev8": {
       "sdist": [
         "yKhl6CGYAhuwqrJvOchBROhsVyKZ24sQ6b+tUQI4wz0=",
@@ -77180,6 +77220,18 @@
       "wheels": {
         "lsst_ctrl_mpexec-25.2023.1500-py3-none-any.whl": [
           "Xs/26U5u9Oyrcfaz4jaJ6kGG0rvLkrpnDCdIvmNu/g0=",
+          "py3"
+        ]
+      }
+    },
+    "25.2023.1600": {
+      "sdist": [
+        "0yeFdT6OnLqgcOjEo0xTEEd08lbtmpOwc8yySS6dxys=",
+        "lsst-ctrl-mpexec-25.2023.1600.tar.gz"
+      ],
+      "wheels": {
+        "lsst_ctrl_mpexec-25.2023.1600-py3-none-any.whl": [
+          "+zpupECMAdkVQG5p6oyKU1QKqePyVS/nHuK/F6ZwzV8=",
           "py3"
         ]
       }
@@ -83102,6 +83154,12 @@
       "sdist": [
         "Uf9IOxiM5jEULXZO2V9wSmBKjugV4tdJ1VWcVj5pFUc=",
         "mobspy-2.0.1.tar.gz"
+      ]
+    },
+    "2.0.2": {
+      "sdist": [
+        "ySdYEjMS9U/XW/m9hcabXZnHaK2nzP6tiIhVl0J+A/U=",
+        "mobspy-2.0.2.tar.gz"
       ]
     }
   },
@@ -121922,6 +121980,18 @@
     }
   },
   "revproxy-auth": {
+    "0.0.10": {
+      "sdist": [
+        "I32ubR6Tyv2YY4Oxqum7duJHiUJpA+ey6ziEGAodaHU=",
+        "revproxy_auth-0.0.10.tar.gz"
+      ],
+      "wheels": {
+        "revproxy_auth-0.0.10-py3-none-any.whl": [
+          "CQP+CGctc0WlKHg0A6nXyVpIjHh59b5eZFiglf0g52Y=",
+          "py3"
+        ]
+      }
+    },
     "0.0.9": {
       "sdist": [
         "xvva6c6ZKvVIZPdWf3snakWRtoA3YxKR4Le3pn0wrEY=",
@@ -148321,6 +148391,20 @@
         "shqgsqy/hVb0pzOX72eRJvMbcFI7cj/YDRy49gyQj1U=",
         "vcspack1-0.2.tar.gz"
       ]
+    }
+  },
+  "vdna": {
+    "0.1.0b0": {
+      "sdist": [
+        "BoN11joZ481CoJU4KwrFfgoEHc4fhSZSqYv/B8KLTVY=",
+        "vdna-0.1.0b0.tar.gz"
+      ],
+      "wheels": {
+        "vdna-0.1.0b0-py3-none-any.whl": [
+          "RUVDjSad0axutCXnHcL3+jWsm9OCP1KPNxSzNMVLTes=",
+          "py3"
+        ]
+      }
     }
   },
   "vector3d": {

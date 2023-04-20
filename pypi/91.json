@@ -3956,6 +3956,14 @@
         ]
       }
     },
+    "4.16.1": {
+      "wheels": {
+        "apache_bookkeeper_client-4.16.1-py2.py3-none-any.whl": [
+          "YWBNPvNqsextFI0Bhrpe51c67j2LLaDMrct5IqOsS0Y=",
+          "py2.py3"
+        ]
+      }
+    },
     "4.9.0": {
       "sdist": [
         "wWEPyQEclUqKxswUv8gNYaL2XtKr29Sqe2qRm4NHX/8=",
@@ -5644,6 +5652,18 @@
       "wheels": {
         "auto_gpt_plugin_template-0.0.1-py3-none-any.whl": [
           "rPdQAxTaCYDQ4rfxAKoiLj8eqeL738igQvL+GZX21c8=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "PQ9CQi4O45K/QIxPmPo+rDysGq2hCoLaVWXje4dq2mw=",
+        "auto_gpt_plugin_template-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "auto_gpt_plugin_template-0.0.2-py3-none-any.whl": [
+          "CDkncqzpC1ETJSoRfjhDUfLW58gxnsl6emQtxzBOzX0=",
           "py3"
         ]
       }
@@ -44605,6 +44625,18 @@
           "py3"
         ]
       }
+    },
+    "1.6.0b0": {
+      "sdist": [
+        "3qba9F8NxuCHwnCRjWvCcPSF6oBRuAyAaQ0f/UZ1GMA=",
+        "flytekitplugins-awsbatch-1.6.0b0.tar.gz"
+      ],
+      "wheels": {
+        "flytekitplugins_awsbatch-1.6.0b0-py3-none-any.whl": [
+          "WSr0dyXnu+om0IZ598kqU8ut1qNJJAbGxr61wZPYtOk=",
+          "py3"
+        ]
+      }
     }
   },
   "flytekitplugins-hive": {
@@ -46952,6 +46984,18 @@
       "wheels": {
         "flytekitplugins_hive-1.5.0b1-py3-none-any.whl": [
           "Lp7O2QiezTsYQI362hkz24EqFvbP9CA+4SO5ofuSiP0=",
+          "py3"
+        ]
+      }
+    },
+    "1.6.0b0": {
+      "sdist": [
+        "nprZA9OiS5JTvZhMvJGv0GluMZjYZHJ+gDBWx+cptL8=",
+        "flytekitplugins-hive-1.6.0b0.tar.gz"
+      ],
+      "wheels": {
+        "flytekitplugins_hive-1.6.0b0-py3-none-any.whl": [
+          "jlBWqBsvlVGNz4n2790A3uH7asOxrZVqiDm/GBEviG8=",
           "py3"
         ]
       }
@@ -55644,6 +55688,18 @@
       "wheels": {
         "higlass_python-1.0.0rc1-py2.py3-none-any.whl": [
           "jTiqRZZz7iz43KuSzxN+Ha2C/J1QdFHn4GSs9294OZo=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.0.0rc2": {
+      "sdist": [
+        "YEW6aj99z8B5YbfkMwJtS/SogFdAQfXhDn/h5k1AmyE=",
+        "higlass_python-1.0.0rc2.tar.gz"
+      ],
+      "wheels": {
+        "higlass_python-1.0.0rc2-py2.py3-none-any.whl": [
+          "EOQWz8tV4ZEXU8W2wWgQ2QbLhF0nQqVgtnc9ngSp1pQ=",
           "py2.py3"
         ]
       }
@@ -71704,6 +71760,20 @@
       "wheels": {
         "mingzhi_shaonian_de_guibian_daoduan_20150319-2023.2.19.0-py3-none-any.whl": [
           "+BNjsCPb9ZAoX0RC4LRtb3TVWOQD/bc25+AOT0fSg28=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "mini-memgraph": {
+    "0.1.0": {
+      "sdist": [
+        "Cs+kfaYmPngMtkWldV4fpGVi73BWbHKQkFU+EngE6qo=",
+        "mini_memgraph-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "mini_memgraph-0.1.0-py3-none-any.whl": [
+          "PnutrcYKqQCvb14+87q1UMW6VNQ02Xh/P0mbDz03/Pk=",
           "py3"
         ]
       }
@@ -87804,6 +87874,18 @@
         ]
       }
     },
+    "1.26.116": {
+      "sdist": [
+        "KQkYu6vcX22xMYqa5ufeoTskm++awIFx783Yzmls0Xc=",
+        "mypy-boto3-s3control-1.26.116.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_s3control-1.26.116-py3-none-any.whl": [
+          "e/58Qa9MJc3G3dLv8oeQ0trAZ1cqEdjVc9aG4ATVDHo=",
+          "py3"
+        ]
+      }
+    },
     "1.26.12": {
       "sdist": [
         "QdDdVtLXznObBdMo2tXiT/bmKEZrQvAyleR+Ng/sW2M=",
@@ -94343,6 +94425,30 @@
         "nano_qmflows-0.13.4-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "Wb2IWmx3FL+xEX5aclJRVHhrU1iLQ9axnbDOIGM4qaE=",
           "cp37"
+        ]
+      }
+    },
+    "0.14.0": {
+      "sdist": [
+        "SHxHdxtqvF1c7/AzunMvqzX0qWGu920yMpw9bZx0zZc=",
+        "nano-qmflows-0.14.0.tar.gz"
+      ],
+      "wheels": {
+        "nano_qmflows-0.14.0-cp38-abi3-macosx_10_14_x86_64.whl": [
+          "niw4Wh3F5IC/fYWzUvBsf6zRtNlRKZkh8AhzLd3IAhs=",
+          "cp38"
+        ],
+        "nano_qmflows-0.14.0-cp38-abi3-macosx_11_0_arm64.whl": [
+          "8HkmlTbnHi05VtTCjDJrgHq8ChosRvq8HCo/jWyBLIo=",
+          "cp38"
+        ],
+        "nano_qmflows-0.14.0-cp38-abi3-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "p7oiNathjAp1KiJp0eXsVQmivKe+NM7vxsSRwgaY67s=",
+          "cp38"
+        ],
+        "nano_qmflows-0.14.0-cp38-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "BcdtSlPTviR99wjNtFO+gGn2Oe5G7nTBDpjOPFCQIVA=",
+          "cp38"
         ]
       }
     }
@@ -109443,6 +109549,20 @@
         "h3sosOJqlfGNWUMGLZqXE5WRr7Q0+EgbfGV1/u/JMCU=",
         "pycas-0.0.3.tar.gz"
       ]
+    }
+  },
+  "pychatgpt-heroku": {
+    "1.0.0": {
+      "sdist": [
+        "cnl03QzKI1zG1pih+Pfv5QdSqhz8TpL2UVMCaPRyb8E=",
+        "pyChatGPT-heroku-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "pyChatGPT_heroku-1.0.0-py3-none-any.whl": [
+          "sPemWX6x+F+220V/d2TADKJG75/0FuZJmWw2HNDlUOc=",
+          "py3"
+        ]
+      }
     }
   },
   "pychomikbox": {
@@ -148129,6 +148249,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.878": {
+      "sdist": [
+        "cXGQqPO8Y9+ufN0D87nLNJYfrDueKrJsSyvfShJ0zPc=",
+        "tencentcloud-sdk-python-mps-3.0.878.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_mps-3.0.878-py2.py3-none-any.whl": [
+          "46k7hLM47cZTKrlcMsnqI70JdEwUUWx4dyvS6fbV0Qk=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tensor-print": {
@@ -159514,6 +159646,18 @@
       "wheels": {
         "widgets_lib-2.7.0-py2.py3-none-any.whl": [
           "SAdO6IQ2SQX6MY67VPOMlibxxWy8EyLGAZk8BF/wBfU=",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.7.1": {
+      "sdist": [
+        "o/q7X8t+LGGIKpB8mXx08ixvKQX2qcPCMhT9aH2G8SY=",
+        "widgets-lib-2.7.1.tar.gz"
+      ],
+      "wheels": {
+        "widgets_lib-2.7.1-py2.py3-none-any.whl": [
+          "UhNPH3MjXVQcrPsn/X/Z/2TCkIgMMhaKDCm+T/B3Rs8=",
           "py2.py3"
         ]
       }

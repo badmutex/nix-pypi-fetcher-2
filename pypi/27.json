@@ -7061,6 +7061,20 @@
       }
     }
   },
+  "asaas-sdk": {
+    "1.0.0": {
+      "sdist": [
+        "dfVMbH4Z5wVEdbmFo4Jq0LptB7XjVA+Sju6PMrk0qSg=",
+        "asaas-sdk-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "asaas_sdk-1.0.0-py3-none-any.whl": [
+          "ibkEDH7eTUzFdaQJwpBtlBgnhQ4dKoBh+iXdDL2Uu0s=",
+          "py3"
+        ]
+      }
+    }
+  },
   "asitop": {
     "0.0.1": {
       "sdist": [
@@ -14184,6 +14198,18 @@
       "wheels": {
         "botocore_a_la_carte_lexv2_models-1.29.115-py3-none-any.whl": [
           "+K3vCG4Pc719ZOavwDTUT3fB66GGo6SEAxaQCyJTKz0=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.116": {
+      "sdist": [
+        "zL2Dr5KakYkZN9CZWNcP+aLSDczjjYjyag62Bo6v1gk=",
+        "botocore-a-la-carte-lexv2-models-1.29.116.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_lexv2_models-1.29.116-py3-none-any.whl": [
+          "mYZjgBmfCWdz4mx/zPGfJ6G2YoZInumemy8A6XUIziU=",
           "py3"
         ]
       }
@@ -37132,6 +37158,30 @@
         ]
       }
     },
+    "0.4.81": {
+      "sdist": [
+        "g7jMzXdgKOthNh7zaCEgNwqzxZqiIFK9W86QlQr4Lag=",
+        "edc-0.4.81.tar.gz"
+      ],
+      "wheels": {
+        "edc-0.4.81-py3-none-any.whl": [
+          "WdpKLM0WiU/gnJ9gNtQFUk2M7PlhLOJzFoaYBngd8JE=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.82": {
+      "sdist": [
+        "wn1mRtfpZ+U+7PNQuWAYdVN01yKgIstAycwhbVs349U=",
+        "edc-0.4.82.tar.gz"
+      ],
+      "wheels": {
+        "edc-0.4.82-py3-none-any.whl": [
+          "38QcdrVl7c2Rq8TKYoHOJLwN1bRjXVvbsqiigdEU9QM=",
+          "py3"
+        ]
+      }
+    },
     "0.4.9": {
       "sdist": [
         "RHeZcgs65/0ZRhKThbxsBk9gRH7VBv2YEluig1skWCE=",
@@ -53554,6 +53604,18 @@
       "wheels": {
         "hatch_aws_publisher-0.2.3-py3-none-any.whl": [
           "yRpzgzgqJeaviGRZem9Fgll3KN3cjvwpY1hkCob9OkI=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.0": {
+      "sdist": [
+        "n3wLsvkNFaL8/ieEf3kt5uBQFwEyuvV6MO4FnyqJEqU=",
+        "hatch_aws_publisher-0.3.0.tar.gz"
+      ],
+      "wheels": {
+        "hatch_aws_publisher-0.3.0-py3-none-any.whl": [
+          "SRHly3sgJswKEDvp/+PEBQh7TQ7ucgg9lRH21+LYObM=",
           "py3"
         ]
       }
@@ -71528,6 +71590,18 @@
         ]
       }
     },
+    "1.20.4.dev70": {
+      "sdist": [
+        "6wg9b4hYO1PiKLq1Z9wMmhLd17m+EXSlLSkpQHP54KY=",
+        "large-image-source-openjpeg-1.20.4.dev70.tar.gz"
+      ],
+      "wheels": {
+        "large_image_source_openjpeg-1.20.4.dev70-py3-none-any.whl": [
+          "j9sZn9nqwqpMutRGewxPNGComug+SmAzbpAJR/tH2qM=",
+          "py3"
+        ]
+      }
+    },
     "1.20.4.dev8": {
       "sdist": [
         "yKhl6CGYAhuwqrJvOchBROhsVyKZ24sQ6b+tUQI4wz0=",
@@ -87040,6 +87114,22 @@
         ],
         "navigator_auth-0.6.16-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "DEGicPUpmXR7+F6CtOr/Lc3yC3dO22W69QpEv4DTqYo=",
+          "cp39"
+        ]
+      }
+    },
+    "0.6.17": {
+      "wheels": {
+        "navigator_auth-0.6.17-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "lWK/G1dyyhr8j7D8KwoQ/cnCMoWEZOLbSTH1KbbWggM=",
+          "cp310"
+        ],
+        "navigator_auth-0.6.17-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "88wHY9FEqS0tHP8vcRQ++TW+aWamdo+2y8vOMvyBaPY=",
+          "cp311"
+        ],
+        "navigator_auth-0.6.17-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "PuMhqBe+XgRX1bKs7aoTuFutsfkrOpgj/09l6I8VP5I=",
           "cp39"
         ]
       }
@@ -109212,6 +109302,12 @@
       "sdist": [
         "y4la2G7XAK/T8sAw2lZZ9DLwjh8QTm9O5h59cca8PSs=",
         "pulumi_akamai-4.4.0a1681843117.tar.gz"
+      ]
+    },
+    "4.5.0a1681926751": {
+      "sdist": [
+        "tVumEG0EhFrdlLyxlqrYfrvqAYR/YpmXHpnaTHFJz+Q=",
+        "pulumi_akamai-4.5.0a1681926751.tar.gz"
       ]
     }
   },

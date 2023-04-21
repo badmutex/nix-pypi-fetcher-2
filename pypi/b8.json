@@ -2207,6 +2207,14 @@
       ]
     }
   },
+  "aftk": {
+    "0.0.0.dev1": {
+      "sdist": [
+        "NZmDO1cBb9qen8Z3D53YkcCJb9kKWFo2zVySGHhei3M=",
+        "aftk-0.0.0.dev1.tar.gz"
+      ]
+    }
+  },
   "afx": {
     "0.0.1": {
       "sdist": [
@@ -13155,6 +13163,14 @@
           "py3"
         ]
       }
+    },
+    "0.8.4": {
+      "wheels": {
+        "azureml_inference_server_http-0.8.4-py3-none-any.whl": [
+          "NGec3fgnap+MLrS3WuCH6jm9GYzz3z0/hii8VcClcIw=",
+          "py3"
+        ]
+      }
     }
   },
   "b3q": {
@@ -17112,6 +17128,18 @@
       "wheels": {
         "botocore_a_la_carte_cloud9-1.29.116-py3-none-any.whl": [
           "Oqb8XQpbitGS6+Jv8+FhWnkCnx98Lp0er3G8/3h/bo0=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.117": {
+      "sdist": [
+        "QnW/0m2pf++nH7uWk3PFFXSf5I+89WfgDqo2yGnKXxs=",
+        "botocore-a-la-carte-cloud9-1.29.117.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_cloud9-1.29.117-py3-none-any.whl": [
+          "Z1HsUBer8RzObSnLZ2eTavV8pF4JJNwZtTzH0AOsezc=",
           "py3"
         ]
       }
@@ -41564,6 +41592,50 @@
         ],
         "fastsim-2.0.21-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "WSSBZQPhVMsxpsO1LR+POol37bXkYIp2vQn5riGblQI=",
+          "cp39"
+        ]
+      }
+    },
+    "2.0.22": {
+      "sdist": [
+        "4P/Z5ufELFzraskdnSEx2aCeJ+Z9QbHbyhiUHRBkjjs=",
+        "fastsim-2.0.22.tar.gz"
+      ],
+      "wheels": {
+        "fastsim-2.0.22-cp310-cp310-macosx_10_9_universal2.whl": [
+          "0tCUgHnw39Kx4T4Fg083XbOSI5dbhBco42nRf3QJ4Ps=",
+          "cp310"
+        ],
+        "fastsim-2.0.22-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ssceY8jJmkP7ajXoASAjdcDf9xWEZ7xvi2wZjr319JQ=",
+          "cp310"
+        ],
+        "fastsim-2.0.22-cp310-cp310-win_amd64.whl": [
+          "GF7gAkx887ioVYCHYmBibQIAJfKTiLUD9NoASUhKBOY=",
+          "cp310"
+        ],
+        "fastsim-2.0.22-cp38-cp38-macosx_10_9_universal2.whl": [
+          "JRKPMNDMxe05rDNou103zw/m6o14a89AZNfim9350rE=",
+          "cp38"
+        ],
+        "fastsim-2.0.22-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "y7C5Hj7fhz2oniToW9k2UNfio28zvsMig9M1KSlQRss=",
+          "cp38"
+        ],
+        "fastsim-2.0.22-cp38-cp38-win_amd64.whl": [
+          "fU0uNamXfAWwVb8rXgRUlXY11cJBLmqft2n8P2wQCz8=",
+          "cp38"
+        ],
+        "fastsim-2.0.22-cp39-cp39-macosx_10_9_universal2.whl": [
+          "GTdh2bVJm6LyOKBw0RDOXPXitnafcuKmlaVbdg99WxY=",
+          "cp39"
+        ],
+        "fastsim-2.0.22-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "lxRiFRmbdG6xNVuEJFt2nxO9I3gbhWaxcEOVxEk5+Lc=",
+          "cp39"
+        ],
+        "fastsim-2.0.22-cp39-cp39-win_amd64.whl": [
+          "ebJ6ZqDmVcrgR5jS6ANqKi7mr9o1kj6tBWIUY1P7yhw=",
           "cp39"
         ]
       }
@@ -86323,6 +86395,114 @@
           "py3"
         ]
       }
+    },
+    "0.1.62": {
+      "sdist": [
+        "7lHyfCQQ33okcWFgr3QwiPWbEl9CoH1njDv1BXCE4Fg=",
+        "NikeCA-0.1.62.tar.gz"
+      ],
+      "wheels": {
+        "NikeCA-0.1.62-py3-none-any.whl": [
+          "/WhQp9rOAtJmNw1Jr2PaKRXnw0pUBoH9w4TBfTaZFdM=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.63": {
+      "sdist": [
+        "thCPs68vpZ5L/QcMBW7Y1cdkxHtGwkiygwWx3XkNc/I=",
+        "NikeCA-0.1.63.tar.gz"
+      ],
+      "wheels": {
+        "NikeCA-0.1.63-py3-none-any.whl": [
+          "YSvMkP4MwLxrbs8SEKIxnnJ0CtYgyP4SDvy73zDp94k=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.64": {
+      "sdist": [
+        "NF0KPCmuR8SPCpJoEMd/zqILkM7NxSZMxJwgKhD09cU=",
+        "NikeCA-0.1.64.tar.gz"
+      ],
+      "wheels": {
+        "NikeCA-0.1.64-py3-none-any.whl": [
+          "XpoTkc5kmlB15m84IeqdHyasPgKzg2rh9hXOoKJ7tes=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.65": {
+      "sdist": [
+        "ny8nZCa2tCoz2IePCht55QJSl6zqKgc6la+6MOsjel0=",
+        "NikeCA-0.1.65.tar.gz"
+      ],
+      "wheels": {
+        "NikeCA-0.1.65-py3-none-any.whl": [
+          "tKhGOZsNSCX/nR6cCw2i8zKyrmtZWQg+mEvoVjw7+UI=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.66": {
+      "sdist": [
+        "QJpt59+o7GHzYiQHxb6Xutd2EMmSvtCBfyFr2hgJH3I=",
+        "NikeCA-0.1.66.tar.gz"
+      ],
+      "wheels": {
+        "NikeCA-0.1.66-py3-none-any.whl": [
+          "qvPv7w8fmLIcXaKME+Nfo2vUd3keJtdMzuJzgcLNF7A=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.67": {
+      "sdist": [
+        "mdC0WAvKLqo/toZHVXADsLFmNK3TEmRDZClO+hXUSlI=",
+        "NikeCA-0.1.67.tar.gz"
+      ],
+      "wheels": {
+        "NikeCA-0.1.67-py3-none-any.whl": [
+          "YwGy5pi/TW9tECby8sPsR6Zw7NCVGsLgwqXUZCowS/c=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.68": {
+      "sdist": [
+        "7cfPV0oJpR2FPpToiohMkVW1wMdWqNItTsM8ir360ws=",
+        "NikeCA-0.1.68.tar.gz"
+      ],
+      "wheels": {
+        "NikeCA-0.1.68-py3-none-any.whl": [
+          "iJpr4oQYiEy7KpSidG/A8JmLaEP2O0Qny+6+/6Shl3c=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.69": {
+      "sdist": [
+        "RMmE8w6CUiweL9/pKHm+gNuC9JrawVdy5zQuafb4Yyw=",
+        "NikeCA-0.1.69.tar.gz"
+      ],
+      "wheels": {
+        "NikeCA-0.1.69-py3-none-any.whl": [
+          "8n9KdjGoDwvVJGDO1CvGlAKcBRk5ostEzcHJBUCzxbc=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.70": {
+      "sdist": [
+        "8YgFA2N6TLG+Bb/M5xfUgra5wqd+FQUJ4etAqYMKWz4=",
+        "NikeCA-0.1.70.tar.gz"
+      ],
+      "wheels": {
+        "NikeCA-0.1.70-py3-none-any.whl": [
+          "a91JKFPa3c3Hq/6bc/hI6+Gmg9elCHcR0JgPMCPZ1J4=",
+          "py3"
+        ]
+      }
     }
   },
   "nlptoolkit-morphologicaldisambiguation": {
@@ -101500,6 +101680,18 @@
       "wheels": {
         "prefect_kubernetes-0.2.4-py3-none-any.whl": [
           "ng2Z3nOudJC1O5AlSR5koKzskDcKTez3UXTyuEQZFbM=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.5": {
+      "sdist": [
+        "yEwCM+yW0JvFzQOUNRPiUkzlWx1/aTNkvDBSJlkcCYI=",
+        "prefect-kubernetes-0.2.5.tar.gz"
+      ],
+      "wheels": {
+        "prefect_kubernetes-0.2.5-py3-none-any.whl": [
+          "dpyv0IJW8CFsZkxlm+DpHzlLYRPN76dCWe9mRLGm6PY=",
           "py3"
         ]
       }
@@ -146640,6 +146832,38 @@
         ],
         "tmlt_core-0.9.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "svgblToUtiv8IZ0gzmcYhBlCcce2p8URsEKXPMbNV3Q=",
+          "cp39"
+        ]
+      }
+    },
+    "0.9.1": {
+      "sdist": [
+        "+jageR7vpoQOOOphXzYc8gkORDwhWNtSnWohK/A+Kj8=",
+        "tmlt_core-0.9.1.tar.gz"
+      ],
+      "wheels": {
+        "tmlt_core-0.9.1-cp37-cp37m-macosx_11_0_x86_64.whl": [
+          "08aGzET4l8pz3oJK1q4XXtokCgW2GUpBeQhrHHNcUsM=",
+          "cp37"
+        ],
+        "tmlt_core-0.9.1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "pYN5fJ61RvqZAk5I7xUJZ/jvZKEDY+o+ax1HxK7Lkm4=",
+          "cp37"
+        ],
+        "tmlt_core-0.9.1-cp38-cp38-macosx_11_0_x86_64.whl": [
+          "8S34YeY6P/XA0twAKeBAjVUpM1PVPpO3JHRnzh2ekgw=",
+          "cp38"
+        ],
+        "tmlt_core-0.9.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "j0NC4ETpcviwdQZh3KPAYOlpksXQxRLzsFWmjUYvhBk=",
+          "cp38"
+        ],
+        "tmlt_core-0.9.1-cp39-cp39-macosx_11_0_x86_64.whl": [
+          "D4+/3tuxhYFLT5sind4w6A79QbWs/1Dt1JL0C9EZ73I=",
+          "cp39"
+        ],
+        "tmlt_core-0.9.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "zJ8pqYV6BrjW3NSx4xk1JEvrW2mzVm4LbDGXeLNCwus=",
           "cp39"
         ]
       }

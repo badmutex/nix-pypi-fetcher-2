@@ -13166,6 +13166,18 @@
         ]
       }
     },
+    "1.199.0": {
+      "sdist": [
+        "UAdWt+fQYZJtMix/IjQDTdr1RJlS9e8qXBAgPdIePJs=",
+        "aws-cdk.aws-kinesisfirehose-1.199.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_kinesisfirehose-1.199.0-py3-none-any.whl": [
+          "YDcIDeo425vb8mxjmxN3m01wUuHQx262kNxVwYBkgy8=",
+          "py3"
+        ]
+      }
+    },
     "1.2.0": {
       "sdist": [
         "8WTz0VokqhmCi/e0INdrjugh4oqV07qVBaDBTGhK/9Q=",
@@ -15471,6 +15483,18 @@
           "py3"
         ]
       }
+    },
+    "1.199.0": {
+      "sdist": [
+        "q01ItoRL40pcTxKu8Q23e7mn4rFQX7FR5zsoMutGDMg=",
+        "aws-cdk.aws-opensearchservice-1.199.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_opensearchservice-1.199.0-py3-none-any.whl": [
+          "+UzO+viwPtH0bj3xqLU6DRfjyYswv8w43dhJ6TgJiBE=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-prototyping-sdk.identity": {
@@ -16694,6 +16718,30 @@
       "wheels": {
         "aws_prototyping_sdk.identity-0.15.5-py3-none-any.whl": [
           "8HWJYzWCz07p59hWgaK+yB5hFfy3MMIZwMLck5GspCc=",
+          "py3"
+        ]
+      }
+    },
+    "0.16.0": {
+      "sdist": [
+        "4m026KyYaXXhOAXibJnrRzG0MvK6e4ykIx2Whsx5xko=",
+        "aws_prototyping_sdk.identity-0.16.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_prototyping_sdk.identity-0.16.0-py3-none-any.whl": [
+          "yFRHdtIUE47MKl7Q35NRF5k7nucqJMlyXshqLxPL2So=",
+          "py3"
+        ]
+      }
+    },
+    "0.16.1": {
+      "sdist": [
+        "SJFRFjyhxRSNDXuYYHbDtYKgKkwh4d7aja0jxPQiV9s=",
+        "aws_prototyping_sdk.identity-0.16.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_prototyping_sdk.identity-0.16.1-py3-none-any.whl": [
+          "LXNPMWghV7DaDuAqysDf58VS8wIamAFNltNgc8GGLRo=",
           "py3"
         ]
       }
@@ -50010,6 +50058,12 @@
         "energinet-ml-sdk-0.10.1.dev298.tar.gz"
       ]
     },
+    "0.10.1.dev299": {
+      "sdist": [
+        "UMNlydkdsilHqlthWyWjg6uH46DofM759cAaPfGbIo0=",
+        "energinet-ml-sdk-0.10.1.dev299.tar.gz"
+      ]
+    },
     "0.5.16": {
       "sdist": [
         "0SSiVPr+B4e8ALaHwmidR2UEZUthA0IuPdfgJtuQYGE=",
@@ -57850,6 +57904,14 @@
       "wheels": {
         "fauna-0.6.0-py2.py3-none-any.whl": [
           "0jcZvY4h6mQpv4Q29u0f/UtQ15ZKnAq0WJT+sprC930=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.6.1": {
+      "wheels": {
+        "fauna-0.6.1-py2.py3-none-any.whl": [
+          "RCXDlCjrw2z5miws7SVLTjLWXElgu58SlMmLYGzQYMw=",
           "py2.py3"
         ]
       }
@@ -91604,6 +91666,22 @@
         ],
         "navconfig-1.1.10-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "peQh17Tm3AD8H2mrAU//U3WbTSZ1o+No7xAD0TqOx/c=",
+          "cp39"
+        ]
+      }
+    },
+    "1.1.11": {
+      "wheels": {
+        "navconfig-1.1.11-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "KnIQSJtovbifw7FM62W2ymQv8G8LSeC/++87jZ0oKoI=",
+          "cp310"
+        ],
+        "navconfig-1.1.11-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "1BJmIseyVbXWfu/FmKrR/HVA4snXe41QaGmhO7bX+VM=",
+          "cp311"
+        ],
+        "navconfig-1.1.11-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "3bMJU9uVjnO7pG9YKWbxphvETlgUGr6gc2sKtk39NqQ=",
           "cp39"
         ]
       }
@@ -132266,6 +132344,14 @@
         ]
       }
     },
+    "3.3.77": {
+      "wheels": {
+        "ScriptCollection-3.3.77-py3-none-any.whl": [
+          "CL/ADB8cG+F4i6dIxbDZ99TSLYIf5IyachjLITyP3E0=",
+          "py3"
+        ]
+      }
+    },
     "3.3.8": {
       "wheels": {
         "ScriptCollection-3.3.8-py3-none-any.whl": [
@@ -140404,6 +140490,18 @@
       "wheels": {
         "state_machine_semaphore-0.1.241-py3-none-any.whl": [
           "Yh5Bn5u+yG36UMpH5ywHXdvH1rvOpMOkCysGxXGvsiY=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.242": {
+      "sdist": [
+        "5ZN9/OQV7TRub1pBlBJOu3WNhUw1sj/cILMDP3vYqE4=",
+        "state-machine-semaphore-0.1.242.tar.gz"
+      ],
+      "wheels": {
+        "state_machine_semaphore-0.1.242-py3-none-any.whl": [
+          "c5wyQkYiGxa0VI9gDBHTND9klGZ4hbDE7McSQxIbATc=",
           "py3"
         ]
       }

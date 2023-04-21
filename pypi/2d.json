@@ -12179,6 +12179,18 @@
           "py3"
         ]
       }
+    },
+    "0.7.0b20230421": {
+      "sdist": [
+        "HTBfREpSUZ1Vf0cxyrSPXzKhC/WoakMPE8nilO3zikM=",
+        "autogluon.timeseries-0.7.0b20230421.tar.gz"
+      ],
+      "wheels": {
+        "autogluon.timeseries-0.7.0b20230421-py3-none-any.whl": [
+          "A0rf9M0BtMRkKN+bp4m2SSWsqqapSIDSJGAKoFv03qg=",
+          "py3"
+        ]
+      }
     }
   },
   "autohooks-plugin-pytest": {
@@ -42284,6 +42296,18 @@
       "wheels": {
         "esdbclient-0.10-py3-none-any.whl": [
           "UrWFfbhoZzDWvuljX9UB7OenLhNWOaZVkrK1BfHSnqY=",
+          "py3"
+        ]
+      }
+    },
+    "0.11": {
+      "sdist": [
+        "2kaLeyAg3/iHVrt1Zt1zTlACr4vS7k9t30fZCE0QeE4=",
+        "esdbclient-0.11.tar.gz"
+      ],
+      "wheels": {
+        "esdbclient-0.11-py3-none-any.whl": [
+          "NafnsZwmcmiG0L9C6URxTG/NcKHBI1tNiZWmkblwl8s=",
           "py3"
         ]
       }
@@ -84825,6 +84849,30 @@
           "py3"
         ]
       }
+    },
+    "0.0.3": {
+      "sdist": [
+        "wjn6eashdhCD6+1E9CIMFbqm0/a9oYvCrmjj0GlaVY0=",
+        "muradmymodule-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "muradmymodule-0.0.3-py3-none-any.whl": [
+          "mhazPxbRUAtHnjNTIjOAsjSYF/nHpcb/5GQKs6JKC+c=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4": {
+      "sdist": [
+        "80ZCvdBHHoyTAAH2LJW2PFJwNKS6tfO0y3Rm8ekM2FE=",
+        "muradmymodule-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "muradmymodule-0.0.4-py3-none-any.whl": [
+          "UiGuEAo19ePwRY6YJUolduq/86QaYF0cjUp8z3wd55Y=",
+          "py3"
+        ]
+      }
     }
   },
   "musicapi": {
@@ -85958,6 +86006,18 @@
         ]
       }
     },
+    "0.0.30": {
+      "sdist": [
+        "jxPBLCk1ZBQi7nOsPKGVzC7tZvoBtSZzHV+Zv14PwNs=",
+        "napari-generic-SIMulator-0.0.30.tar.gz"
+      ],
+      "wheels": {
+        "napari_generic_SIMulator-0.0.30-py3-none-any.whl": [
+          "81jnKjj1pJEpMHASPKU5RgGZ/UnEnZfSv+Hr/V/6W4k=",
+          "py3"
+        ]
+      }
+    },
     "0.0.4": {
       "sdist": [
         "d/ffBauN0ckcXzrg8n/FL/VVDoBaYTsiU554eJc9D8Y=",
@@ -86264,6 +86324,30 @@
       "wheels": {
         "neurodeploy-0.0.10-py3-none-any.whl": [
           "82W+fVe13zC6ey6X6g1eCDSkPCm4nkIYXt2BFWl20rs=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.11": {
+      "sdist": [
+        "V9rcBzazEKW4/4FPYZLeEhSoQX7JOGckEtT2cdG02H4=",
+        "neurodeploy-0.0.11.tar.gz"
+      ],
+      "wheels": {
+        "neurodeploy-0.0.11-py3-none-any.whl": [
+          "xGPm1gMES2LPtYBecy5nULNp9OXDRSkKElWsgFxztHw=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.12": {
+      "sdist": [
+        "TOvw4AukbqQ2714tQthbZIkWxaQheGaRSLl2cU4hBrA=",
+        "neurodeploy-0.0.12.tar.gz"
+      ],
+      "wheels": {
+        "neurodeploy-0.0.12-py3-none-any.whl": [
+          "pT/hycKbX6cTTvdeVBul6ZZ20QzdAgLmweVg/Rh9EnY=",
           "py3"
         ]
       }
@@ -87386,6 +87470,54 @@
       "wheels": {
         "nlpaf-2.10.5-py2.py3-none-any.whl": [
           "wsaHHxv3iZYQc0Yvm/gctbY53rteIQ3CwBodlqYt/Ws=",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.11.0": {
+      "sdist": [
+        "FPTkm6JHCGVRIKoto3s3GUTXaRZd/jx+evbCO4Qi87c=",
+        "nlpaf-2.11.0.tar.gz"
+      ],
+      "wheels": {
+        "nlpaf-2.11.0-py2.py3-none-any.whl": [
+          "02n2GABVNxXzjfBptZYOiu3L4C2vzGdIbGtfwfa8lzw=",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.11.1": {
+      "sdist": [
+        "312dwg1IqaJZLjSfa0sLrc3dKHyNX8oQZMS3yYDCtIk=",
+        "nlpaf-2.11.1.tar.gz"
+      ],
+      "wheels": {
+        "nlpaf-2.11.1-py2.py3-none-any.whl": [
+          "7a90XnDMfSGRgE7BW1shB2oiPWRjZqZkm2WjH9GYCq0=",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.11.2": {
+      "sdist": [
+        "5SKT5nOvVxX/sQyOgBmurUjyBTunA2sSgkXPEsBFCss=",
+        "nlpaf-2.11.2.tar.gz"
+      ],
+      "wheels": {
+        "nlpaf-2.11.2-py2.py3-none-any.whl": [
+          "CNOe47hV+CjSuN0lCJCRozkZy6pA4F+h3GDl0XQU+eE=",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.11.3": {
+      "sdist": [
+        "LWgOrOyvjkWwtKGfLUOvcYeLehFlhWfEBhxOXrYEjBY=",
+        "nlpaf-2.11.3.tar.gz"
+      ],
+      "wheels": {
+        "nlpaf-2.11.3-py2.py3-none-any.whl": [
+          "zuvtzJNU271sVsY3PdCnNNwXlicBGLmPUKB7/xXHYiE=",
           "py2.py3"
         ]
       }
@@ -106970,6 +107102,18 @@
       "wheels": {
         "pygmtsar-2023.4.12-py3-none-any.whl": [
           "Z+FrHkT++au0Gqybzp/kKPWE0Pvi/n76m8qu4OihDCA=",
+          "py3"
+        ]
+      }
+    },
+    "2023.4.20": {
+      "sdist": [
+        "nhOj2VM4BefbUNjzdemthZk7h/7oXHsN3dwUKk63na0=",
+        "pygmtsar-2023.4.20.tar.gz"
+      ],
+      "wheels": {
+        "pygmtsar-2023.4.20-py3-none-any.whl": [
+          "pfyY0CoMOejcom/14mzHZDzgYpy9MZtvHuIKRqo4Q4M=",
           "py3"
         ]
       }

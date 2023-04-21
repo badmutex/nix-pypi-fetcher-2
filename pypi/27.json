@@ -22209,6 +22209,12 @@
         "Knx4Dfj52cH654VOToALiLQbinxCkRpKsKHMc6TwDHk=",
         "crypt-dir-1.1.7.tar.gz"
       ]
+    },
+    "1.1.8": {
+      "sdist": [
+        "5gQF0iPBNyE/qpxIQdwjJPQ5cE32YU/cq4FJZWd55dE=",
+        "crypt-dir-1.1.8.tar.gz"
+      ]
     }
   },
   "cryptatools-python3": {
@@ -71678,6 +71684,18 @@
         ]
       }
     },
+    "1.20.5": {
+      "sdist": [
+        "VVXUNvt53XfNE6l8ja6wIXCc0Gk1E7z0oL95y6xkjHk=",
+        "large-image-source-openjpeg-1.20.5.tar.gz"
+      ],
+      "wheels": {
+        "large_image_source_openjpeg-1.20.5-py3-none-any.whl": [
+          "Q5IXxHDPjy9pbSrHTknrzyM4PbLEAERDWnyqPc7dIH0=",
+          "py3"
+        ]
+      }
+    },
     "1.20.5.dev1": {
       "sdist": [
         "Zu3myEiICvNstWRq/BIo1tpXZP3bGNjWN4DTqLHJzvQ=",
@@ -71722,6 +71740,18 @@
       "wheels": {
         "large_image_source_openjpeg-1.20.5.dev5-py3-none-any.whl": [
           "N4O0TwUHqDDCUfG4/UxyfCr9ug163HrI3B7u5fggOnY=",
+          "py3"
+        ]
+      }
+    },
+    "1.20.6.dev3": {
+      "sdist": [
+        "vh27lBNuhbe6xnVifommIWxgu4VGyUcSd8VgiI+4olU=",
+        "large-image-source-openjpeg-1.20.6.dev3.tar.gz"
+      ],
+      "wheels": {
+        "large_image_source_openjpeg-1.20.6.dev3-py3-none-any.whl": [
+          "qReEUUeBPYh5VsfGsNGveFVcUtt689hpsuUlq3ZZVP0=",
           "py3"
         ]
       }
@@ -86080,6 +86110,18 @@
       "wheels": {
         "napari_cilia_beating_frequency-0.1-py3-none-any.whl": [
           "ZKer0K4Onk5FNT2qJb2PhA1A9tyrWmya9Vyk2ouFIxk=",
+          "py3"
+        ]
+      }
+    },
+    "0.2": {
+      "sdist": [
+        "OZ6Hf2v6Fn9YGUaJxukUJdNvEYPbBTSsQiuZ2uAF1EA=",
+        "napari-cilia-beating-frequency-0.2.tar.gz"
+      ],
+      "wheels": {
+        "napari_cilia_beating_frequency-0.2-py3-none-any.whl": [
+          "pgpQaWk64i4H5eVEFNzSUJnF2fmTc56sRVRRJggXSDo=",
           "py3"
         ]
       }
@@ -112915,6 +112957,20 @@
       }
     }
   },
+  "pygofile2": {
+    "1.0.0": {
+      "sdist": [
+        "ecSuoqjeRFIOfi2fpO2l1Ar5zeXst3OCwmQeM9vP1ww=",
+        "pygofile2-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "pygofile2-1.0.0-py3-none-any.whl": [
+          "pXahdqQQpr6KgkZerchOFFL/F604BWHHM7Wb9KO8z0s=",
+          "py3"
+        ]
+      }
+    }
+  },
   "pyguards": {
     "0.0.1": {
       "sdist": [
@@ -126984,6 +127040,18 @@
       "wheels": {
         "SensiML-2023.1.2-py3-none-any.whl": [
           "bIOolFkDnHfSjpU1/qHj46cMKYhGRDB/IRTCfu0chu0=",
+          "py3"
+        ]
+      }
+    },
+    "2023.1.3": {
+      "sdist": [
+        "otwmJwHaH2UVNcHyzOr32n0q01U8C3gsEwpPBlRZ7WE=",
+        "SensiML-2023.1.3.tar.gz"
+      ],
+      "wheels": {
+        "SensiML-2023.1.3-py3-none-any.whl": [
+          "dcS1kQsFPUm5Z7UnvpMIWhIkCLRd3Rg/6uzYyF1cTa4=",
           "py3"
         ]
       }
@@ -150360,6 +150428,30 @@
       "wheels": {
         "wanna_ml-0.2.27-py3-none-any.whl": [
           "+ufCUWN6zdPl6jNVF7crEnPUuhgpIxxcMNw+SIv1dNM=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.28": {
+      "sdist": [
+        "ebLs5LCmkVvChihmfSprIzhb8tj213wLbabN+MeiZVQ=",
+        "wanna_ml-0.2.28.tar.gz"
+      ],
+      "wheels": {
+        "wanna_ml-0.2.28-py3-none-any.whl": [
+          "TCNPqkGQNP/pSk2aI/k26nKC70b8ju2Yh+jiDIGRqIk=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.29": {
+      "sdist": [
+        "/AKR83sxv1eiTRBN0OZ5jAx1qzl9xtXJlisdqJOhdSE=",
+        "wanna_ml-0.2.29.tar.gz"
+      ],
+      "wheels": {
+        "wanna_ml-0.2.29-py3-none-any.whl": [
+          "TB70c++D03Zx+XtazAl5uXbKDYoIwNI6zRruLKMGk9w=",
           "py3"
         ]
       }

@@ -22553,6 +22553,18 @@
           "py2.py3"
         ]
       }
+    },
+    "4.0.3": {
+      "sdist": [
+        "evX72jUFSX8cFQIPxMu95CAwGtycZXHq26gf5RAoTWE=",
+        "chartify-4.0.3.tar.gz"
+      ],
+      "wheels": {
+        "chartify-4.0.3-py2.py3-none-any.whl": [
+          "4r/hZFKYiasPknOd2n851QBfVS5tQKn80+6bc2b7c34=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "chatsonic-py": {
@@ -99435,6 +99447,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.4": {
+      "sdist": [
+        "NA0Br3ByCTahfIm5tydAvYbGhDqZVJI9DwiCrPxpC+E=",
+        "openchord-0.1.4.tar.gz"
+      ],
+      "wheels": {
+        "openchord-0.1.4-py3-none-any.whl": [
+          "axYZiPBJjbnZ0FSmG+YOh3viq3VzQ9DnhBbEszSKG5M=",
+          "py3"
+        ]
+      }
     }
   },
   "openclio": {
@@ -114992,6 +115016,14 @@
         ]
       }
     },
+    "0.0.11": {
+      "wheels": {
+        "pybeef-0.0.11-py3-none-any.whl": [
+          "sjJxX0pvC4r4VZnbaSjNu5Lw3TD4dc0kjxIsnCDME0I=",
+          "py3"
+        ]
+      }
+    },
     "0.0.2": {
       "wheels": {
         "pybeef-0.0.2-py3-none-any.whl": [
@@ -118482,6 +118514,70 @@
         ],
         "pymeshlab-2022.2.post3-cp39-cp39-win_amd64.whl": [
           "wu1NcoDHjsOQSjKA0WivF3duRttJx+5ZJnBgXu9tW/8=",
+          "cp39"
+        ]
+      }
+    },
+    "2022.2.post4": {
+      "wheels": {
+        "pymeshlab-2022.2.post4-cp310-cp310-macosx_10_11_x86_64.whl": [
+          "imJgQLnEL/lM6w1LfjsWiXDb8dps+seZ/LAUNl0P+PE=",
+          "cp310"
+        ],
+        "pymeshlab-2022.2.post4-cp310-cp310-manylinux_2_31_x86_64.whl": [
+          "o+WYlT2ID5aS/ss8ed6B4ioO0vjcriXTO67tPfrceXA=",
+          "cp310"
+        ],
+        "pymeshlab-2022.2.post4-cp310-cp310-win_amd64.whl": [
+          "EEr9Mc5b07oUOo8coEs4Ngsqdo+CgEY1GDplHKW9nXU=",
+          "cp310"
+        ],
+        "pymeshlab-2022.2.post4-cp311-cp311-macosx_10_11_x86_64.whl": [
+          "xVY5kQecbi8OA68MBFyULflnpK9qFdXGODUNGv4fnrY=",
+          "cp311"
+        ],
+        "pymeshlab-2022.2.post4-cp311-cp311-manylinux_2_31_x86_64.whl": [
+          "fRNq6TawwNyLZKu1CtnVrbZnGYXm71emtn1xj6aEgD8=",
+          "cp311"
+        ],
+        "pymeshlab-2022.2.post4-cp311-cp311-win_amd64.whl": [
+          "3zYgfsJFzQdym3t6ItK8C2+X0Qto+tBuSsniFlAK5TI=",
+          "cp311"
+        ],
+        "pymeshlab-2022.2.post4-cp37-cp37m-macosx_10_11_x86_64.whl": [
+          "s+EpHZCfhTmB8qluLNycgzUEdImpFyPYj+yeCZzKXhQ=",
+          "cp37"
+        ],
+        "pymeshlab-2022.2.post4-cp37-cp37m-manylinux_2_31_x86_64.whl": [
+          "3vv0CMN6mKMsFYKhRpYMOZm65ZZqdkJgtK3qEUPnDH0=",
+          "cp37"
+        ],
+        "pymeshlab-2022.2.post4-cp37-cp37m-win_amd64.whl": [
+          "FUrItGFyhZS9a5R8h8b/lk68FWJz53kiQDoDcdUtFkM=",
+          "cp37"
+        ],
+        "pymeshlab-2022.2.post4-cp38-cp38-macosx_10_11_x86_64.whl": [
+          "gIplA4CgtVFLQzwbsFuWWno1Kl4EOiO4sfEJgZxauME=",
+          "cp38"
+        ],
+        "pymeshlab-2022.2.post4-cp38-cp38-manylinux_2_31_x86_64.whl": [
+          "w5brTV2GvHUcS45yi65Q9UKieNtvGZvCNPmBl4FvQdo=",
+          "cp38"
+        ],
+        "pymeshlab-2022.2.post4-cp38-cp38-win_amd64.whl": [
+          "fsnp+rNR+OhgUhhY1pdryJugGs5ZxmrjbwXHlHBhKfE=",
+          "cp38"
+        ],
+        "pymeshlab-2022.2.post4-cp39-cp39-macosx_10_11_x86_64.whl": [
+          "zz5gVqILGnx1K+J6WkjOMVOeNOgEKz1FKlGameSqlfM=",
+          "cp39"
+        ],
+        "pymeshlab-2022.2.post4-cp39-cp39-manylinux_2_31_x86_64.whl": [
+          "Wf3NeJszluUYuE/cV9I6R3ZXQGY3tOvSkwhXbe+lOe0=",
+          "cp39"
+        ],
+        "pymeshlab-2022.2.post4-cp39-cp39-win_amd64.whl": [
+          "ClALaCO+WBc7MGuKdirNBNYGJZdsCSpJbrOyaOz6jIU=",
           "cp39"
         ]
       }
@@ -129352,6 +129448,18 @@
       "wheels": {
         "resotocore-3.3.2-py2.py3-none-any.whl": [
           "OZEfJ5WTBBd8jIcDg94YwO/GRR3+iTSiNyAuHj9xSbc=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.3.3": {
+      "sdist": [
+        "ySitAzn003gIGWPyQzUdMomnSqp05kLZ1qtWOOiLR1U=",
+        "resotocore-3.3.3.tar.gz"
+      ],
+      "wheels": {
+        "resotocore-3.3.3-py2.py3-none-any.whl": [
+          "xnlha4c5Hpr+bQ/UB9snJwPMUUjjQY5CqXetB6Df2zk=",
           "py2.py3"
         ]
       }

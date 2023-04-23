@@ -69109,6 +69109,20 @@
       ]
     }
   },
+  "napari-tracing": {
+    "1.0.0": {
+      "sdist": [
+        "eiuKb/8d7C3OlO8TB9U0IZuaeT5ec4Nc9E1KkDKFeDs=",
+        "napari-tracing-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "napari_tracing-1.0.0-py3-none-any.whl": [
+          "Ry5rxmq2Fg/twri/0AtivW+kTlkypT2kBLXMD24CHp4=",
+          "py3"
+        ]
+      }
+    }
+  },
   "napm": {
     "0.1.0": {
       "sdist": [
@@ -127732,6 +127746,14 @@
       "wheels": {
         "tf_estimator_nightly-2.13.0.dev2023042208-py2.py3-none-any.whl": [
           "06qiiH5rOB6NRqRvtsDiRnaPDISpdeuf3Z7VUSwImFQ=",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.13.0.dev2023042308": {
+      "wheels": {
+        "tf_estimator_nightly-2.13.0.dev2023042308-py2.py3-none-any.whl": [
+          "vMjarzasCCM3ay5/xNlZ1C3XRaI6EgT5KMsX42UiE+o=",
           "py2.py3"
         ]
       }

@@ -18391,6 +18391,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.91": {
+      "sdist": [
+        "UQQbrmYE60G6AgO5nD6JrF84f/4MwfLuP8jAmSx6ASs=",
+        "cdk8s-operator-0.1.91.tar.gz"
+      ],
+      "wheels": {
+        "cdk8s_operator-0.1.91-py3-none-any.whl": [
+          "CXrMNhUsOo8KGRd2gwYUg7cTcXItKUeecJX1FJTBM4U=",
+          "py3"
+        ]
+      }
     }
   },
   "cdktf-github-actions": {
@@ -19506,6 +19518,18 @@
       "wheels": {
         "cdktf_github_actions-0.0.93-py3-none-any.whl": [
           "611tmLYMh9wyB44YdkUmRHYvujBKDe4zEYm3QGvQTPg=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.94": {
+      "sdist": [
+        "mPnZ6ZZmru0y2ewwRRLKmKjYBN7ZdPU260LeIGx4gNo=",
+        "cdktf-github-actions-0.0.94.tar.gz"
+      ],
+      "wheels": {
+        "cdktf_github_actions-0.0.94-py3-none-any.whl": [
+          "Jyawa7DOuRLhEmrqUAqQmnAPZJmL3wHv+7ZWRqSn/5Q=",
           "py3"
         ]
       }
@@ -87870,142 +87894,6 @@
     }
   },
   "netron": {
-    "6.4.2": {
-      "wheels": {
-        "netron-6.4.2-py3-none-any.whl": [
-          "YCkJUiGchNEGnKw1gCVM9hBSO+KeKDxP8+WTz8cS+AA=",
-          "py3"
-        ]
-      }
-    },
-    "6.4.4": {
-      "wheels": {
-        "netron-6.4.4-py3-none-any.whl": [
-          "Ku9ffqCcRuvYX4emGOtx50clmg9w36kjlgf0lw0lDe4=",
-          "py3"
-        ]
-      }
-    },
-    "6.4.5": {
-      "wheels": {
-        "netron-6.4.5-py3-none-any.whl": [
-          "U8MwivsxN0acxFrlI6fCC+tRyaF6J+zNb0Kr9etwHoM=",
-          "py3"
-        ]
-      }
-    },
-    "6.4.6": {
-      "wheels": {
-        "netron-6.4.6-py3-none-any.whl": [
-          "Pcaqh7WwyIhR1RkQef0G9Zca7PJyAfRGeaNyniCqKwQ=",
-          "py3"
-        ]
-      }
-    },
-    "6.4.7": {
-      "wheels": {
-        "netron-6.4.7-py3-none-any.whl": [
-          "fsCVyI0JSIc+7R8bFLP9SG6xXDZSq1Sre6MVzYlUxm8=",
-          "py3"
-        ]
-      }
-    },
-    "6.4.8": {
-      "wheels": {
-        "netron-6.4.8-py3-none-any.whl": [
-          "BAwiMHiipRDvJl6a6f6ZNOfNNqLZjp/fCzmgwAjuZ0A=",
-          "py3"
-        ]
-      }
-    },
-    "6.5.0": {
-      "wheels": {
-        "netron-6.5.0-py3-none-any.whl": [
-          "2fhbhArakD/mquSYYKIfjxZiEwNZCIlkERAo1/RGeaw=",
-          "py3"
-        ]
-      }
-    },
-    "6.7.0": {
-      "wheels": {
-        "netron-6.7.0-py3-none-any.whl": [
-          "OoqamprhYck+3Kmuqt34CbytW0+lYm4IqdLztUQ1lrc=",
-          "py3"
-        ]
-      }
-    },
-    "6.7.1": {
-      "wheels": {
-        "netron-6.7.1-py3-none-any.whl": [
-          "woSgBsI6mfUf0uUvbFO2yxktQIepdVqGq6tvaFbK2hM=",
-          "py3"
-        ]
-      }
-    },
-    "6.7.2": {
-      "wheels": {
-        "netron-6.7.2-py3-none-any.whl": [
-          "FvfT28V6B6s93T1Pqg+dnZ3j8SliNlrzwvbSSE33Tb4=",
-          "py3"
-        ]
-      }
-    },
-    "6.7.3": {
-      "wheels": {
-        "netron-6.7.3-py3-none-any.whl": [
-          "9kOKJIv59hcaJIpmz/xlBPPTl5bZyjd+UEUvJKfC5P4=",
-          "py3"
-        ]
-      }
-    },
-    "6.7.4": {
-      "wheels": {
-        "netron-6.7.4-py3-none-any.whl": [
-          "x0VFDA/c+5KhEik0GPE209pDLA8tO88RuJeLzNHQUPg=",
-          "py3"
-        ]
-      }
-    },
-    "6.7.5": {
-      "wheels": {
-        "netron-6.7.5-py3-none-any.whl": [
-          "M65Gc4A5sc4qOUJondG32EtCgjEK4VhG5WmYb0iOrho=",
-          "py3"
-        ]
-      }
-    },
-    "6.7.6": {
-      "wheels": {
-        "netron-6.7.6-py3-none-any.whl": [
-          "+EURkItVvCrXmnpk4ASnIcWYQQHMipy5lV7vBkX0daY=",
-          "py3"
-        ]
-      }
-    },
-    "6.7.7": {
-      "wheels": {
-        "netron-6.7.7-py3-none-any.whl": [
-          "gihrEBZMqgcvRHHA1QJGuoM5B9z07xcazMJnepmGkf0=",
-          "py3"
-        ]
-      }
-    },
-    "6.7.8": {
-      "wheels": {
-        "netron-6.7.8-py3-none-any.whl": [
-          "nlvpoIjUyc2r9B9ehB3GtJe907Sh/jJd1RF7/vJc3RU=",
-          "py3"
-        ]
-      }
-    },
-    "6.7.9": {
-      "wheels": {
-        "netron-6.7.9-py3-none-any.whl": [
-          "d+wBMMYedw0Re/7cyfeD23x+OAK5OTyxeZvt0WM4HiM=",
-          "py3"
-        ]
-      }
-    },
     "6.8.0": {
       "wheels": {
         "netron-6.8.0-py3-none-any.whl": [
@@ -88014,26 +87902,10 @@
         ]
       }
     },
-    "6.8.1": {
-      "wheels": {
-        "netron-6.8.1-py3-none-any.whl": [
-          "G2Mv4zxUAbI7NQ2fAGb+yCmkyJdWMzZJJpHWc0+BCC0=",
-          "py3"
-        ]
-      }
-    },
     "6.8.2": {
       "wheels": {
         "netron-6.8.2-py3-none-any.whl": [
           "koHIAoVIruQuXXkOuxRBWxAfeztenbtJLN/4lxk8xCM=",
-          "py3"
-        ]
-      }
-    },
-    "6.8.3": {
-      "wheels": {
-        "netron-6.8.3-py3-none-any.whl": [
-          "ooNSKUtRcOiTFCJJbMXudbniDv5RL9BU5kAGLsbVok8=",
           "py3"
         ]
       }
@@ -88212,6 +88084,18 @@
       "wheels": {
         "neuralforecast-1.4.0-py3-none-any.whl": [
           "WqlszMM6PU5HDeaCGbygEYBYQ5qgPPAPPNGYq280vbU=",
+          "py3"
+        ]
+      }
+    },
+    "1.5.0": {
+      "sdist": [
+        "zV1PZmav3UKTEf9FXAFKcad65mGUxO8KchVsJAYyUjA=",
+        "neuralforecast-1.5.0.tar.gz"
+      ],
+      "wheels": {
+        "neuralforecast-1.5.0-py3-none-any.whl": [
+          "ihUBrsYZOliIOZzs81CSL/4RRlK51bL8iKWyFq0P8Uc=",
           "py3"
         ]
       }
@@ -124217,6 +124101,12 @@
         "U1OHu8JUIRbrg5c5DL104uNQWkhoTz/0Iftz9G7oQXo=",
         "ShellcodeTester-0.2.6.tar.gz"
       ]
+    },
+    "0.2.7": {
+      "sdist": [
+        "wNxWbnSB+WR+GzsRaF0r35T3h6yNyzbYc5qHlrzL0pA=",
+        "ShellcodeTester-0.2.7.tar.gz"
+      ]
     }
   },
   "shenming-daren-de-gongzuo-shenming-de-gongzuo-gan-20140716": {
@@ -149138,6 +149028,22 @@
       "wheels": {
         "ubuntu_termux-0.0.3.1-py3-none-any.whl": [
           "KdiAaIbdNPYcBYoruCvK3+crAEh7EcDl3BoT8evRZC4=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4": {
+      "wheels": {
+        "ubuntu_termux-0.0.4-py3-none-any.whl": [
+          "o2Op4fefcxiQ0dr57iEDtlt7IWJcadcFkU8q96OcaLY=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4.1": {
+      "wheels": {
+        "ubuntu_termux-0.0.4.1-py3-none-any.whl": [
+          "BOkpoVepJGjb7yxXcTEAuiaKIv+EPqu2UneRqSXi7Wk=",
           "py3"
         ]
       }

@@ -18205,6 +18205,752 @@
       ]
     }
   },
+  "biobear": {
+    "0.1.1": {
+      "sdist": [
+        "0iHnEeLt1i36bDQK4FIRsHdlvUv3FLAGBVc8ELhEbvw=",
+        "biobear-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "biobear-0.1.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "3go90W9vWddHNiS5F/N2WbrzjssVn1DfyzBHfnVNvOY=",
+          "cp310"
+        ],
+        "biobear-0.1.1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "u97bcBlzMh/zdh3kJiehuaZttbGqdRHpUY16hOHpMcE=",
+          "cp311"
+        ],
+        "biobear-0.1.1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "CWhhxl3Ppld31mqoIR3Gyk6JK1u1T9HQAxLJnzOx5WE=",
+          "cp37"
+        ],
+        "biobear-0.1.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "hIZ0DVrdIAG8HGt+erGsQTUP0eHzvOvTwvPyfHKX5t8=",
+          "cp38"
+        ],
+        "biobear-0.1.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "7u2eiXaIWBiVe73OhAw9Xjw0ddD7cU94FLrTWgr/KxE=",
+          "cp39"
+        ],
+        "biobear-0.1.1-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "WYNwZ1Pgl6p4biicQ1SpOpjM2Ol5L8+VWpbVfeeyvdE=",
+          "pp37"
+        ],
+        "biobear-0.1.1-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "vPTbUwNNBWPjpgXs2/wuqFIFt9aIaj5UO4pCpCU2vTc=",
+          "pp38"
+        ],
+        "biobear-0.1.1-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "vVDIMSZcT3RaVuSM1QD1SfOYN0kXEQepdmRNvjSURRk=",
+          "pp39"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "/BZJcY+uUa5L25MPTKNT+dLU3NKNB1UhpKlallvEYQc=",
+        "biobear-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "biobear-0.1.2-cp310-cp310-manylinux_2_12_i686.manylinux2010_i686.whl": [
+          "Fh3KXRFezdopG6r+4ssVFKeM3QiYbtkPle0x3FOAI38=",
+          "cp310"
+        ],
+        "biobear-0.1.2-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "jMaK7CkhPvS4fvNmb2mffIFKTBgqsCDDOTyUO6C8HXk=",
+          "cp310"
+        ],
+        "biobear-0.1.2-cp310-cp310-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "1F+vmlHMNbYnPLZz2/jCboSiwV5E6+aCJlmxnV4Z6eI=",
+          "cp310"
+        ],
+        "biobear-0.1.2-cp310-cp310-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "pnu7JWorxtSJsdJNSrlWc2nOKdwPbi2SGF7YBcaVDPE=",
+          "cp310"
+        ],
+        "biobear-0.1.2-cp310-cp310-manylinux_2_17_s390x.manylinux2014_s390x.whl": [
+          "i4ty5jB/27PlWmBgg2KcbnOqbMMRp49KFhr1R6QXHs4=",
+          "cp310"
+        ],
+        "biobear-0.1.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "w46NXoS8oA6eJhr0o3eqj2jR7hoHDcuGZonrMp5DvRo=",
+          "cp310"
+        ],
+        "biobear-0.1.2-cp311-cp311-manylinux_2_12_i686.manylinux2010_i686.whl": [
+          "IeosqOBIEjIrDBZzFRk1jKITHsG47DlgCtXqzQi8OAI=",
+          "cp311"
+        ],
+        "biobear-0.1.2-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "4ETfYC2sZ7k1t5H/EzJJYFseZk8Inbf4NMZrN0RTlUs=",
+          "cp311"
+        ],
+        "biobear-0.1.2-cp311-cp311-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "jpEQ/ISLtJ5R5n/4+VQY7ZqRW9evxRWD0h9zD218OLM=",
+          "cp311"
+        ],
+        "biobear-0.1.2-cp311-cp311-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "RL3CsrrbsngVjqLOm8iJABFRu2I7Lulsf3tmSOfe48Y=",
+          "cp311"
+        ],
+        "biobear-0.1.2-cp311-cp311-manylinux_2_17_s390x.manylinux2014_s390x.whl": [
+          "8ryKo3DXgmzwrSvdQ4SJwqzVJNqrDY1vwALXhg5xp2g=",
+          "cp311"
+        ],
+        "biobear-0.1.2-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "flj94qlHJq58cSZo+6fG4pQlqOJ7o84EDAhdLhth3a8=",
+          "cp311"
+        ],
+        "biobear-0.1.2-cp312-cp312-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "1bE9aRPB4GjR67w92ZoS5MA8tYsLCDcK0BESZBHCIr4=",
+          "cp312"
+        ],
+        "biobear-0.1.2-cp312-cp312-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "chjaYg8DF5cP+n3C2OLjFcw640KnGS87oDgUKYgmTzM=",
+          "cp312"
+        ],
+        "biobear-0.1.2-cp312-cp312-manylinux_2_17_s390x.manylinux2014_s390x.whl": [
+          "SuibXIr3kbid5jIlmYvPL4cHxP3ohrTTT0kJd4jR3VA=",
+          "cp312"
+        ],
+        "biobear-0.1.2-cp37-cp37m-manylinux_2_12_i686.manylinux2010_i686.whl": [
+          "X9uzVkhrhkCrse3DiDJSQWWVC8chc/35DKSCuVHe1mQ=",
+          "cp37"
+        ],
+        "biobear-0.1.2-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "ww8jD3MAaVhuGEbo2XlJlTaMECmR0ink/7Icuv3K4VQ=",
+          "cp37"
+        ],
+        "biobear-0.1.2-cp37-cp37m-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "0ZxKk6QpbE/FZgKEBawnZWpvTD1w+RU3uyHj+tCOQ9k=",
+          "cp37"
+        ],
+        "biobear-0.1.2-cp37-cp37m-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "2h01N/BqQ3jes2EbSFfmd4vb/c9Th0xEEXuEyqhAy5s=",
+          "cp37"
+        ],
+        "biobear-0.1.2-cp37-cp37m-manylinux_2_17_s390x.manylinux2014_s390x.whl": [
+          "nRzwOGEkLXpqb7ncjEtjyfDj62oLYWQLCZIW/XgC3uQ=",
+          "cp37"
+        ],
+        "biobear-0.1.2-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "IZo4uQtTK/f0+za74Wt41v75TQkTa3fu3/wshlR9GUI=",
+          "cp37"
+        ],
+        "biobear-0.1.2-cp38-cp38-manylinux_2_12_i686.manylinux2010_i686.whl": [
+          "Gm4w8jViTqL6POP1HrMrOhabChqxIAi4NoPs0KlI9JM=",
+          "cp38"
+        ],
+        "biobear-0.1.2-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "rJmOxHTK8N4QsXlSiYXVp7/cQTtODu47zWqps1upX7w=",
+          "cp38"
+        ],
+        "biobear-0.1.2-cp38-cp38-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "kDsMGcN0OojN5/wktyDti52MdP9qhWGEYAGPPHogLMM=",
+          "cp38"
+        ],
+        "biobear-0.1.2-cp38-cp38-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "dPNqgxi91/6xaRPlmleS7YoAg4XlK106bwZMAUyFs9A=",
+          "cp38"
+        ],
+        "biobear-0.1.2-cp38-cp38-manylinux_2_17_s390x.manylinux2014_s390x.whl": [
+          "nvN8Op5e8fzG9QDW88wqRxhx68XTHD/eI4iKzQuqbN8=",
+          "cp38"
+        ],
+        "biobear-0.1.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "dV1hhSqv0bcnK67Sl+AOrTTKVdXFHJ8CRJaDLbSLPXc=",
+          "cp38"
+        ],
+        "biobear-0.1.2-cp39-cp39-manylinux_2_12_i686.manylinux2010_i686.whl": [
+          "4PB5+6HHwQWpCLJ2ZhO7XB74Y/4NCBaR0MKHvOBeyoA=",
+          "cp39"
+        ],
+        "biobear-0.1.2-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "vACcIzu+wfKlnqENcVO9zQAI38l4E+x7d8zHD8yVqTg=",
+          "cp39"
+        ],
+        "biobear-0.1.2-cp39-cp39-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "LiA/AfynFeHUNxya8kXEOaHjqqWyC1097YUbeKlWJ0Y=",
+          "cp39"
+        ],
+        "biobear-0.1.2-cp39-cp39-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "iMFePSNzUXpgIl2Lt9W6WkMyJaYnj1QqBND5/ACatkc=",
+          "cp39"
+        ],
+        "biobear-0.1.2-cp39-cp39-manylinux_2_17_s390x.manylinux2014_s390x.whl": [
+          "OGJoybNpTUPaJyz1O1eiiUzuaHGh+CDRZzZS/5DdMyk=",
+          "cp39"
+        ],
+        "biobear-0.1.2-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "zHUWVaH5gtgocgIGoa9U7gG7jAAPXjUF0rSLV/Vr9uI=",
+          "cp39"
+        ],
+        "biobear-0.1.2-pp37-pypy37_pp73-manylinux_2_12_i686.manylinux2010_i686.whl": [
+          "RFXLY/jzZkBGU1/uCUoQr4/Upz11bk++nzsu61A9Ff8=",
+          "pp37"
+        ],
+        "biobear-0.1.2-pp37-pypy37_pp73-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "t4lOmtPR8gl5Dqxpm1RZGV24ad3ckvBCIoqf1tGaEQY=",
+          "pp37"
+        ],
+        "biobear-0.1.2-pp37-pypy37_pp73-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "Wby990xcN5IeXD1rZ9fxr2890oGvT628YwxqM6LKxPc=",
+          "pp37"
+        ],
+        "biobear-0.1.2-pp37-pypy37_pp73-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "VY9YDRecdR6gY9DcedmOw5HWNoOiShMW0EQqphcg6Fg=",
+          "pp37"
+        ],
+        "biobear-0.1.2-pp37-pypy37_pp73-manylinux_2_17_s390x.manylinux2014_s390x.whl": [
+          "RqcCMlpx3L9DSwrj5yocVEjrtXwmnxqb7Jr3jsNddq8=",
+          "pp37"
+        ],
+        "biobear-0.1.2-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "wJxbs0tNtrufGeS8++BIn66sSSpt2wycNKpJsTn0Q8s=",
+          "pp37"
+        ],
+        "biobear-0.1.2-pp38-pypy38_pp73-manylinux_2_12_i686.manylinux2010_i686.whl": [
+          "aEDCj9TXpYrBKG+OwZtFEEjBynQYJsCiYcRaDNIK1Ic=",
+          "pp38"
+        ],
+        "biobear-0.1.2-pp38-pypy38_pp73-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "rTk4J3DlAKoAlFCJ8QYOtJrONfCAq9+iWU+n/6neY8Y=",
+          "pp38"
+        ],
+        "biobear-0.1.2-pp38-pypy38_pp73-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "uPH4aqwqhRb54zj8o05bW/KPNUCVAhRm9vp677W2bu4=",
+          "pp38"
+        ],
+        "biobear-0.1.2-pp38-pypy38_pp73-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "GLGdHW+GKZk3kKr98RFJfrl/JDNaXeXWEK+JTEQXS78=",
+          "pp38"
+        ],
+        "biobear-0.1.2-pp38-pypy38_pp73-manylinux_2_17_s390x.manylinux2014_s390x.whl": [
+          "7yLu5IaWmfy3ZAjdEHoWfs+emfrynGLlXX9EzSLk1i4=",
+          "pp38"
+        ],
+        "biobear-0.1.2-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "x18s5xaBbiLPDfww1W82IZH2yT6Q+C7BIgGdd8GOo2k=",
+          "pp38"
+        ],
+        "biobear-0.1.2-pp39-pypy39_pp73-manylinux_2_12_i686.manylinux2010_i686.whl": [
+          "bzaQY7KKkT87va9cLPp5dpl6c9zdJLvqRDhRBidzJVY=",
+          "pp39"
+        ],
+        "biobear-0.1.2-pp39-pypy39_pp73-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "SWMGLSCTmVybrN46onOStWHaZcPP1lDQ+oq+jlaZOms=",
+          "pp39"
+        ],
+        "biobear-0.1.2-pp39-pypy39_pp73-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "1sdtY/sZ8iWsteeX3KdJWvPDICxjR9XQIrvp2sDhOP8=",
+          "pp39"
+        ],
+        "biobear-0.1.2-pp39-pypy39_pp73-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "X9ZckuORiBj2DTkPj67rkEyp1aXXbLcNh6eY4gYaWps=",
+          "pp39"
+        ],
+        "biobear-0.1.2-pp39-pypy39_pp73-manylinux_2_17_s390x.manylinux2014_s390x.whl": [
+          "elcIoTcR8HSFqavpMhGbGBjYE7PpF+NOSbDx/VlvPfs=",
+          "pp39"
+        ],
+        "biobear-0.1.2-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "hZsf6OW4JnzLz4Rq/rm5lRC/OKePQj+icX8amOLY2MI=",
+          "pp39"
+        ]
+      }
+    },
+    "0.1.4": {
+      "sdist": [
+        "NsGAlR7+ft1WhEq+h826M/5p+ZvAQ2+NZDnzUPxnjTE=",
+        "biobear-0.1.4.tar.gz"
+      ],
+      "wheels": {
+        "biobear-0.1.4-cp310-cp310-macosx_10_7_x86_64.whl": [
+          "Pg9InflT4CzO7aHQuHfBrAymfouNr0At59zUzvRPElg=",
+          "cp310"
+        ],
+        "biobear-0.1.4-cp310-cp310-macosx_11_0_arm64.whl": [
+          "a6hxbiUc0O9gwnDEUR1HjyFK6+5sIinJ1phwuU0JCsk=",
+          "cp310"
+        ],
+        "biobear-0.1.4-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "EMlWLJDS85+tfsdf+JVBoM1Lipn8LYbBbxOF10DcpdA=",
+          "cp310"
+        ],
+        "biobear-0.1.4-cp310-cp310-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "bEJlz5PLhLYZ083prxmUvLwWpfU7GqjoxFB+Y2ioMuA=",
+          "cp310"
+        ],
+        "biobear-0.1.4-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "icYukJiHYLJ/DMZIvHsiaR949jgMT/fqLob8EZtyBUU=",
+          "cp310"
+        ],
+        "biobear-0.1.4-cp310-none-win32.whl": [
+          "ZCEzHQLTMqYYZ05ZniZnupyVel9PCqty5A+D9A6KqiM=",
+          "cp310"
+        ],
+        "biobear-0.1.4-cp310-none-win_amd64.whl": [
+          "nMNYKKwc6CUJvfDDdZ3G5OWgUH+6YQg50jz1psVaxJY=",
+          "cp310"
+        ],
+        "biobear-0.1.4-cp311-cp311-macosx_10_7_x86_64.whl": [
+          "Zpl8Ewu3MA6IWXTCuVT25iONp5UUnxY8v3rH+wRcFck=",
+          "cp311"
+        ],
+        "biobear-0.1.4-cp311-cp311-macosx_11_0_arm64.whl": [
+          "CkRs5rqbmoKyyMV1cO9tt/IsEtaIdozjZ+Uue3tOGPQ=",
+          "cp311"
+        ],
+        "biobear-0.1.4-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "k14RZSm84AMGWcMmBElfbnM/GFkpRG5dn0PuCjLrQPE=",
+          "cp311"
+        ],
+        "biobear-0.1.4-cp311-cp311-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "YI8LmbVQNrkLEaIsB4ax191Rs3+j70n1Ocf4kl2Ma0g=",
+          "cp311"
+        ],
+        "biobear-0.1.4-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "lzAxnOvawwwBWzqZTvTqB7XJZa6wY0sHe//IeBu35GQ=",
+          "cp311"
+        ],
+        "biobear-0.1.4-cp311-none-win32.whl": [
+          "mTxTgUHLj2rvOF/ZyJyonc4XSc31oTuhynUBF9WSOVA=",
+          "cp311"
+        ],
+        "biobear-0.1.4-cp311-none-win_amd64.whl": [
+          "Du0IHZIunp2KNITYnytKbZkqIX+sFYIoye26pRi65jE=",
+          "cp311"
+        ],
+        "biobear-0.1.4-cp312-cp312-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "vHrmqi7jY1+yLgiUpl5qlu351JeZBXZZv9E+TKfuEW0=",
+          "cp312"
+        ],
+        "biobear-0.1.4-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "MYPnqJM3btYYsqE2GyNAMkQXMI42gMWNpworSroWZcg=",
+          "cp37"
+        ],
+        "biobear-0.1.4-cp37-cp37m-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "fuKmsXHrhX8pddgN5R3I9HzPIKDB2usMMS4dZrIRiOc=",
+          "cp37"
+        ],
+        "biobear-0.1.4-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "aska8aFPSWc+Vk02NBaIHKwrukmIAwjL3dJ9Lw5JIhY=",
+          "cp37"
+        ],
+        "biobear-0.1.4-cp37-none-win32.whl": [
+          "f+5VKTfw3AhzTvfjzTBYXOt6foF595R12wXyB5Gts1k=",
+          "cp37"
+        ],
+        "biobear-0.1.4-cp37-none-win_amd64.whl": [
+          "g85dZcWY6lErAMXxhNPgJCtcgzIK9hXswFbyMIwlY0E=",
+          "cp37"
+        ],
+        "biobear-0.1.4-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "0oVUpb2cBiOGFHE1gqgXsDlMT+VgyVnKpSqcIzv4iNc=",
+          "cp38"
+        ],
+        "biobear-0.1.4-cp38-cp38-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "ZvXTnkJj3UXc4f3Qw2eaL3KeH3iaskfNyJIjq7wJ1Qc=",
+          "cp38"
+        ],
+        "biobear-0.1.4-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "MsIoDIP9ZG9qnECvutr15Wvk9eZMNbWsOOoQCrw6sz8=",
+          "cp38"
+        ],
+        "biobear-0.1.4-cp38-none-win32.whl": [
+          "Q/UzFasiblyopUln0F1xD65KCNx8OB9yTu3RqoLdndg=",
+          "cp38"
+        ],
+        "biobear-0.1.4-cp38-none-win_amd64.whl": [
+          "TxpEWqH04KLOUtqRHo9HFeD5Pi/MO29mz4dDODcRkoY=",
+          "cp38"
+        ],
+        "biobear-0.1.4-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "UVU4QfdtA4x6lj1TzxPaTdUgoVB92IlQsGrgk1kmXZ0=",
+          "cp39"
+        ],
+        "biobear-0.1.4-cp39-cp39-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "1xUkRdHE3+n18ARJswDf99kpjevLeIqMrf81eIHc1Ck=",
+          "cp39"
+        ],
+        "biobear-0.1.4-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "HQRS5JSEiHQAqfQrcmBBXlNQDx0RcwMWQmXmPVkBVnk=",
+          "cp39"
+        ],
+        "biobear-0.1.4-cp39-none-win32.whl": [
+          "kHVcMqgx537akunvoY65KqLygcdh8nk13EiE51Xxko4=",
+          "cp39"
+        ],
+        "biobear-0.1.4-cp39-none-win_amd64.whl": [
+          "CICQgpomVKxGgnpZ2IICuU86KvgUfLklV3KTAUABfYI=",
+          "cp39"
+        ],
+        "biobear-0.1.4-pp37-pypy37_pp73-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "1YBCG2gcX14GhTMTFXQjeVlfBj0h1dn1DS1nmEFCVFc=",
+          "pp37"
+        ],
+        "biobear-0.1.4-pp37-pypy37_pp73-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "sZkNeDQUESGBPKBPYUvOd7SKa76hBsJAhTBxlxnwVao=",
+          "pp37"
+        ],
+        "biobear-0.1.4-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "p1mdt/iqr2bkEiTTxXYeW8BkDAtzb+dHu0NKhhNIsKo=",
+          "pp37"
+        ],
+        "biobear-0.1.4-pp38-pypy38_pp73-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "SO6ICZa/EdhlXD/XRA14aFiTxvJOsNEPeVxhhRhSOzQ=",
+          "pp38"
+        ],
+        "biobear-0.1.4-pp38-pypy38_pp73-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "j7NFsO0Ng9XQbAOiGAvyqsadj3elro/qiPlj1+UqnBU=",
+          "pp38"
+        ],
+        "biobear-0.1.4-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "+bkK8D5db0sn0+Nj/NRs+Rtjzu+3UFZhMketihrlCus=",
+          "pp38"
+        ],
+        "biobear-0.1.4-pp39-pypy39_pp73-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "beAQ7ZHkZxRxwtWePfe+5sTS6OUYNygnooFfyqKJr4E=",
+          "pp39"
+        ],
+        "biobear-0.1.4-pp39-pypy39_pp73-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "X78vMs9bhKEHDEYwMlbUfO+O8fU7ccGK8kYnVgbAjkY=",
+          "pp39"
+        ],
+        "biobear-0.1.4-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "V9/rDP+XEZ8J82ThARQ92A3GAtQK2enmK7MDT8ekRt8=",
+          "pp39"
+        ]
+      }
+    },
+    "0.1.5": {
+      "sdist": [
+        "HLtQurnlT8U0ktRWHVhmGD4XCP0sxcbE8g/0IEu9fcw=",
+        "biobear-0.1.5.tar.gz"
+      ],
+      "wheels": {
+        "biobear-0.1.5-cp310-cp310-macosx_10_7_x86_64.whl": [
+          "wUOEWh75YCTQhISe8i9qvlSEkrIuM9cAVUhIAj4Mab8=",
+          "cp310"
+        ],
+        "biobear-0.1.5-cp310-cp310-macosx_11_0_arm64.whl": [
+          "IKcSydgirF8HQWXXHgAZHeSmA7wmUXzrolsUFHM3050=",
+          "cp310"
+        ],
+        "biobear-0.1.5-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "5sCLgl4UM5UtvH6yca/G5GiR8brIp6sO391qWqJoQfs=",
+          "cp310"
+        ],
+        "biobear-0.1.5-cp310-cp310-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "DasgXRwn6b97hlF0SNnJb0R9UkkBuR+Ha/Isqz2icqs=",
+          "cp310"
+        ],
+        "biobear-0.1.5-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "zlQ8WDe/J1kA036y49pD+bLp0yKEwG8Nk7kWdCUEyYM=",
+          "cp310"
+        ],
+        "biobear-0.1.5-cp310-none-win32.whl": [
+          "xhd2shNhA+xRe8z5l0onTXtp0Em3gbZwoE5/vkDjyzQ=",
+          "cp310"
+        ],
+        "biobear-0.1.5-cp310-none-win_amd64.whl": [
+          "MlZEsMBrYOjWU/MKJU27Qdryd3tphd8uCXRoC/u5z6Y=",
+          "cp310"
+        ],
+        "biobear-0.1.5-cp311-cp311-macosx_10_7_x86_64.whl": [
+          "RpD5WjibrzMBpd1MzYOmPANKVBDMigNHZFQDjQ9xTJ0=",
+          "cp311"
+        ],
+        "biobear-0.1.5-cp311-cp311-macosx_11_0_arm64.whl": [
+          "QEIBV6q26+ACSQDSDwJCRtaBWcRHBOwPKFmHZFL2WZA=",
+          "cp311"
+        ],
+        "biobear-0.1.5-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "tRAs2Pl+yFAZDoTJVdhMlbPVRcdvMzmu+puE1T/w2TU=",
+          "cp311"
+        ],
+        "biobear-0.1.5-cp311-cp311-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "pn0xAnfkw2fKu3NWEw8f9PgoU5ChPluvNQ3PuYpWLMU=",
+          "cp311"
+        ],
+        "biobear-0.1.5-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "wKoJy/HJv33VGALFpfolAElvLghcgM4HxYdnC3he1Y4=",
+          "cp311"
+        ],
+        "biobear-0.1.5-cp311-none-win32.whl": [
+          "tDK5f3YPWgLaBvOD6FryzG/OZeGCoAgl9cZAdLq3Xt4=",
+          "cp311"
+        ],
+        "biobear-0.1.5-cp311-none-win_amd64.whl": [
+          "qOnskToops5hqhJ0eDGpqRvANLaz3i48LeeUbR2yeh8=",
+          "cp311"
+        ],
+        "biobear-0.1.5-cp312-cp312-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "qdoDjnM0+U+Va5RfHtDhaQpe9sLzMar6wWwarH7Pzp4=",
+          "cp312"
+        ],
+        "biobear-0.1.5-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "l+T/Md04QufAjR8EvK3uNDqL/KJSepupVQeOueWkULM=",
+          "cp37"
+        ],
+        "biobear-0.1.5-cp37-cp37m-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "xPxoxUdPtpcvvF8QdWrKACjobJGqrm96N3fNZbl7bys=",
+          "cp37"
+        ],
+        "biobear-0.1.5-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "oRleACy8FXKb5Vdav9WmgNIM5awXCgeXybrfCFo8y5Q=",
+          "cp37"
+        ],
+        "biobear-0.1.5-cp37-none-win32.whl": [
+          "CboI3wfnti1ww2Z9LL9xs5tZiTsZh4vxuVstmnoADx0=",
+          "cp37"
+        ],
+        "biobear-0.1.5-cp37-none-win_amd64.whl": [
+          "ySzAlJDNAEAnjRWZNgJGgtLaTkTrKUmWATDFv+eoFHQ=",
+          "cp37"
+        ],
+        "biobear-0.1.5-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "7+nvflVdSdOjlUHzIjHNn6gHB3vrmEcBuoZvFxToasY=",
+          "cp38"
+        ],
+        "biobear-0.1.5-cp38-cp38-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "RJAfYJhxvoCq7B3FROWWp5f2TZs0Wc6hMBX/2Uzl6aM=",
+          "cp38"
+        ],
+        "biobear-0.1.5-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "dl7XPsmetvOQ+inri3jk+4goZFB50eNw7DH410s44F0=",
+          "cp38"
+        ],
+        "biobear-0.1.5-cp38-none-win32.whl": [
+          "/iGBOFZU+/tgNu1GOyt/8RxRIcPwzzckhbF0BUOCKCE=",
+          "cp38"
+        ],
+        "biobear-0.1.5-cp38-none-win_amd64.whl": [
+          "H3viVQxVjMRnI1Jgwwg8ae/SSDm7nFGe6L1Uzgly8Qo=",
+          "cp38"
+        ],
+        "biobear-0.1.5-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "qTks42Fs8wj9RIFfaXhV0JlUrZs7uQ/MTaU5kOST/EQ=",
+          "cp39"
+        ],
+        "biobear-0.1.5-cp39-cp39-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "W45NGKRzGEKC1YtKuH2KJCSjJ7hIx83OUSOn1bGGf2o=",
+          "cp39"
+        ],
+        "biobear-0.1.5-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "FJoHZ2JLx29zsKSjMwnQJX+8m+YVvDRNJf9jXRnxj0I=",
+          "cp39"
+        ],
+        "biobear-0.1.5-cp39-none-win32.whl": [
+          "jLbF1XOHju8bDaAdbtKR2BQ8PDjKe8bkFrMfzXUWy7Q=",
+          "cp39"
+        ],
+        "biobear-0.1.5-cp39-none-win_amd64.whl": [
+          "MlT0SI+jGaueCi2eWFtI+W80yYXckWK/hazZ6x2gm/s=",
+          "cp39"
+        ],
+        "biobear-0.1.5-pp37-pypy37_pp73-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "W3ehF8o0l9iT+O5shD8oHdC0x89vJu8B47xxqFD6NfY=",
+          "pp37"
+        ],
+        "biobear-0.1.5-pp37-pypy37_pp73-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "Vi52uAMBADr29NZJm/9EdsD0Ju+UV1gqe4ymFV3nRBI=",
+          "pp37"
+        ],
+        "biobear-0.1.5-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "C+jbTgzb2Y5XbSAVN1AmkIg5qecYpqdZ1zw5MCXapoU=",
+          "pp37"
+        ],
+        "biobear-0.1.5-pp38-pypy38_pp73-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "qQZHEX9FabPwXuIp6foOLNgVlLuWoUVm8puQtf6NBhw=",
+          "pp38"
+        ],
+        "biobear-0.1.5-pp38-pypy38_pp73-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "dsQvRROaU+BnYSfEicIZSLdZ8w/8FWK2R8d0+kkRl4Q=",
+          "pp38"
+        ],
+        "biobear-0.1.5-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "xb6cVPycvFji+anaZCihusDsm7TNnHBunb06MSXTTWg=",
+          "pp38"
+        ],
+        "biobear-0.1.5-pp39-pypy39_pp73-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "TQxSWwEEhht7yYUyTK7KBtmDb/3eyL90UnDMfhPf7UQ=",
+          "pp39"
+        ],
+        "biobear-0.1.5-pp39-pypy39_pp73-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "vyzvPUzGexYQMTfF1nua6wD9zjEM0KdvG8m+PVfMhqM=",
+          "pp39"
+        ],
+        "biobear-0.1.5-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "j4EbKvOcHPkCuWSwMXnORzWkwYeYX757ZniKMqVoTW4=",
+          "pp39"
+        ]
+      }
+    },
+    "0.1.6": {
+      "sdist": [
+        "LXLQ5JiRDlutuk4cJWv2WkYI4fYpybGpk/ll7Nbk2zI=",
+        "biobear-0.1.6.tar.gz"
+      ],
+      "wheels": {
+        "biobear-0.1.6-cp310-cp310-macosx_10_7_x86_64.whl": [
+          "I458ytLk3V5K174YcLI2il11TWebfVVvnHnKhr7ybfc=",
+          "cp310"
+        ],
+        "biobear-0.1.6-cp310-cp310-macosx_11_0_arm64.whl": [
+          "gcgDvXTL18+ngrkBb9FUwAnTyslpFXeI7z51LLPdr6w=",
+          "cp310"
+        ],
+        "biobear-0.1.6-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "ZhkZUI/oJlGJvtRQ/fyxFaoJlyArl9qcGFRcx/kvPtk=",
+          "cp310"
+        ],
+        "biobear-0.1.6-cp310-cp310-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "YUeCfsDPfI54qwEa4G9pqCO2jfxN6ocIArnPMWgudrA=",
+          "cp310"
+        ],
+        "biobear-0.1.6-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "SjXrf5nN8zVCxVueFejruJu1CVWUBuHVdWeUw7l0w64=",
+          "cp310"
+        ],
+        "biobear-0.1.6-cp310-none-win32.whl": [
+          "K/eXwZmnQNjQpKFz9kfX3++mV/XPy8gycLUtUtFcSK8=",
+          "cp310"
+        ],
+        "biobear-0.1.6-cp310-none-win_amd64.whl": [
+          "9357bVWjGAB7aGHN2tafBMoLqUidYEiqnP4YHIs0+VY=",
+          "cp310"
+        ],
+        "biobear-0.1.6-cp311-cp311-macosx_10_7_x86_64.whl": [
+          "tcLKLdUOwPTzLsgEp1lgKpeFPoVVyDCcwghakm7+LK0=",
+          "cp311"
+        ],
+        "biobear-0.1.6-cp311-cp311-macosx_11_0_arm64.whl": [
+          "TsWUh7bwhpoNdpg9rFce166ExX7dEiatudKIXAAmrKg=",
+          "cp311"
+        ],
+        "biobear-0.1.6-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "34d211tokQhUQckbkcYe89E/IltPEH8xsAflzLz/Mhg=",
+          "cp311"
+        ],
+        "biobear-0.1.6-cp311-cp311-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "xTeHXFyi14om5m72OZS8BQVuWDPt2o95EB1Cj7UqDZY=",
+          "cp311"
+        ],
+        "biobear-0.1.6-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "MFMZuiFZROGhseQhAgPhSpGx6P+bhMw8wMVr0dE38WQ=",
+          "cp311"
+        ],
+        "biobear-0.1.6-cp311-none-win32.whl": [
+          "R02KrmBj3z82rRh/8mjLj5+dnhZsPFzXJRAlWtdC8Sw=",
+          "cp311"
+        ],
+        "biobear-0.1.6-cp311-none-win_amd64.whl": [
+          "pFX4f/0T205bwfH/i3z8s+jwtblsKis/Wg6bzLgPHSs=",
+          "cp311"
+        ],
+        "biobear-0.1.6-cp312-cp312-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "sCJ7aU1NmZB5gGBm7FER7lftc7jdhomnlEDaU4yL0BQ=",
+          "cp312"
+        ],
+        "biobear-0.1.6-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "IPStFnsDvR04XJXeg3WNpYDwBQKypDO0O7N7FWWR9/A=",
+          "cp37"
+        ],
+        "biobear-0.1.6-cp37-cp37m-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "7qeX095w6Es4p5CbV2weyG2KOKtrcqvSlxDPEBKZNbc=",
+          "cp37"
+        ],
+        "biobear-0.1.6-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "KP0EeHOpeR1gDofP9oHq5WLmQWJ6pnUJOFjAhdUbTCg=",
+          "cp37"
+        ],
+        "biobear-0.1.6-cp37-none-win32.whl": [
+          "Gs/btfHRzlm9iSfektMJmmQnHdThfnd4IENYpjGloLc=",
+          "cp37"
+        ],
+        "biobear-0.1.6-cp37-none-win_amd64.whl": [
+          "LHiaMhPvynsLebV3WI9JlUudGv3C8I5i8dThwHGuZfQ=",
+          "cp37"
+        ],
+        "biobear-0.1.6-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "depnrDrntAdCkKQBMnAO9hVM3bXFKbA2lX9DO/SEIZM=",
+          "cp38"
+        ],
+        "biobear-0.1.6-cp38-cp38-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "gaAl90YOgaWZ9lg1iEKUkXwhenxUStm8dlKeUOQ4oXU=",
+          "cp38"
+        ],
+        "biobear-0.1.6-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "V1yG3JMbFQKGx9C0G4gob/prZzeKVO/Fs+PuxPYj2AM=",
+          "cp38"
+        ],
+        "biobear-0.1.6-cp38-none-win32.whl": [
+          "lxoAQ43Eitx3HPpi1PprjhGrzSklpQ/wmqSpmw6dub0=",
+          "cp38"
+        ],
+        "biobear-0.1.6-cp38-none-win_amd64.whl": [
+          "uGq4oH0Ukg8ay4ft2IhNxczLd7hUdOlFqIzOuFdvrwE=",
+          "cp38"
+        ],
+        "biobear-0.1.6-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "viGMvj3ZbEwtyRg4dG4AbfqtftObI2DNZkSOSgPeUe8=",
+          "cp39"
+        ],
+        "biobear-0.1.6-cp39-cp39-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "Dl9SSbeRZWrlTjpGI1y4OuxSfxZEk8dbh4FrQ+JkjD0=",
+          "cp39"
+        ],
+        "biobear-0.1.6-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "BhhMbhT0I5BZy2ej0GUwTgwKJ4oehFKUYSM5+vSJCyI=",
+          "cp39"
+        ],
+        "biobear-0.1.6-cp39-none-win32.whl": [
+          "ssMbMe/V8ssREvW25TJxuTBWOJVtBkRpikqY1JCMsRU=",
+          "cp39"
+        ],
+        "biobear-0.1.6-cp39-none-win_amd64.whl": [
+          "7aVMbjpMVjhvRbZrGicHl2ujVFhN6zmjSOKkdPOHqH8=",
+          "cp39"
+        ],
+        "biobear-0.1.6-pp37-pypy37_pp73-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "3uVbWHpleFK6QPNNmiSimENhCVZNyY7zDUDKZbMDYHs=",
+          "pp37"
+        ],
+        "biobear-0.1.6-pp37-pypy37_pp73-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "Mw8LCuz8pByLzPCa9EJh68rHM52DiuTvXGu+6HLL8OQ=",
+          "pp37"
+        ],
+        "biobear-0.1.6-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "yjvGPrvfDk2ciA6sydL65kM3JgIyjtyd8Cc91imvvXo=",
+          "pp37"
+        ],
+        "biobear-0.1.6-pp38-pypy38_pp73-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "GQe3ArTO1zY+r2vKNAut6rWVpZPxGhlc3m5xeZD7f+I=",
+          "pp38"
+        ],
+        "biobear-0.1.6-pp38-pypy38_pp73-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "fOoh+JuR5Q3KU/qdCddbL3WUxqlOhHB4PXGD3/8WfNw=",
+          "pp38"
+        ],
+        "biobear-0.1.6-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "g1DDJ8dOM54FwbHxHOVYAM47xztJY8K1E/MlnhJOhEQ=",
+          "pp38"
+        ],
+        "biobear-0.1.6-pp39-pypy39_pp73-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "ui2NA3M/dl124w8+4/TZjgXoNVQc1GNVKJ7uPluHZ+0=",
+          "pp39"
+        ],
+        "biobear-0.1.6-pp39-pypy39_pp73-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "YO91N7rrRrvOAtlxB4uINKq2IiUhggE5iDJS0o44s0Y=",
+          "pp39"
+        ],
+        "biobear-0.1.6-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "OHVvJTarE46aTZkJ+FSSTBY06Q5NTYFWFNSNKsNnWnc=",
+          "pp39"
+        ]
+      }
+    }
+  },
   "biomart": {
     "0.2.0": {
       "sdist": [
@@ -51590,6 +52336,18 @@
       "wheels": {
         "flexmod-0.1.1-py3-none-any.whl": [
           "5MDfO935M7ubagqAo6CmUtNQIZ8sfN64q/TIFArFr+Y=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "1VWKExd8dimdbPBo7LJvC7wskWltX8aHJtzmZI37RWQ=",
+        "flexmod-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "flexmod-0.1.2-py3-none-any.whl": [
+          "3/ENkceamKA1xmViQxFZsYYEu79FX6Cu2WmgYHIpdPs=",
           "py3"
         ]
       }
@@ -93381,6 +94139,38 @@
           "py3"
         ]
       }
+    },
+    "0.0.2a4": {
+      "wheels": {
+        "ovos_dinkum_listener-0.0.2a4-py3-none-any.whl": [
+          "bEKoT3Eu3LdKSqC5WZQ0km3b7kH1ySzlG9cNt4vWsUQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2a5": {
+      "wheels": {
+        "ovos_dinkum_listener-0.0.2a5-py3-none-any.whl": [
+          "fQKAx6rvB7/z6kxbswnJSqmyMkD9j4SRWzqaWoGAFT8=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2a6": {
+      "wheels": {
+        "ovos_dinkum_listener-0.0.2a6-py3-none-any.whl": [
+          "6kaNS66hXJPuUdlcXVNbSd3jpdbxh71VeErG1uVxyvA=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2a7": {
+      "wheels": {
+        "ovos_dinkum_listener-0.0.2a7-py3-none-any.whl": [
+          "4d4N05DqNGHKotD/Kxo3Sunpa32xZI6X7bzsUAHj6Cc=",
+          "py3"
+        ]
+      }
     }
   },
   "p-test123": {
@@ -99574,6 +100364,18 @@
       "wheels": {
         "polars_lts_cpu-0.17.6-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "woqElKP8v1EF6hS2aA5sq+OSBu2OryjG9ZBcd0YCuTk=",
+          "cp37"
+        ]
+      }
+    },
+    "0.17.7": {
+      "sdist": [
+        "T1g389hZDIlJsl9okKYVd1KaqtpBK+kcxYusQabl5D4=",
+        "polars_lts_cpu-0.17.7.tar.gz"
+      ],
+      "wheels": {
+        "polars_lts_cpu-0.17.7-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "qALZlL2XnvUcb1Tw1J7OjKe6wQydn5brcL6iPXa0I40=",
           "cp37"
         ]
       }

@@ -83359,6 +83359,12 @@
         "ySdYEjMS9U/XW/m9hcabXZnHaK2nzP6tiIhVl0J+A/U=",
         "mobspy-2.0.2.tar.gz"
       ]
+    },
+    "2.0.3": {
+      "sdist": [
+        "aOQS+Pd3fLGMDpdmNHhWmB48mhrxwuu6eQnriQsLTfQ=",
+        "mobspy-2.0.3.tar.gz"
+      ]
     }
   },
   "mockproc": {
@@ -87538,6 +87544,54 @@
         ],
         "navigator_auth-0.6.9-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "am17hFDNshDgn146wBkqxT+/crbFaQd2W485mQIGovQ=",
+          "cp39"
+        ]
+      }
+    },
+    "0.7.0": {
+      "wheels": {
+        "navigator_auth-0.7.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "koLHn9yNOX63lJhqOeI1TNcFVG41thABkTHAKKRlktc=",
+          "cp310"
+        ],
+        "navigator_auth-0.7.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "fQ3I5UkWluGG2x6ql1mjx+3Rnob9WiRzEUVeO7PBWjY=",
+          "cp311"
+        ],
+        "navigator_auth-0.7.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "br6dv539IoEpyFJcLKkI5NTxh1uQENbW7maCNxxsNEE=",
+          "cp39"
+        ]
+      }
+    },
+    "0.7.1": {
+      "wheels": {
+        "navigator_auth-0.7.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "fUPM266MolX3/LPBqkeQC2QDiDsBEFtudnapeboCBrM=",
+          "cp310"
+        ],
+        "navigator_auth-0.7.1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "aH3X3VVx2eE0FG1OsvVK94wB3JQhbeWAwSN6T/kTYEw=",
+          "cp311"
+        ],
+        "navigator_auth-0.7.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "SrjNlhi+07q3nHUIYLNR3hP4fJiGTjGtBxSx598r6p0=",
+          "cp39"
+        ]
+      }
+    },
+    "0.7.2": {
+      "wheels": {
+        "navigator_auth-0.7.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "2zMIbZBdNKxfoBID3hnm7CQ1Rh5t482QfGaMZooBjAM=",
+          "cp310"
+        ],
+        "navigator_auth-0.7.2-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "k2p2QV/U1ztG2Xi7T6qN+9Ns8AORPySpiDNLPm4bEFg=",
+          "cp311"
+        ],
+        "navigator_auth-0.7.2-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "v86P6NG3ojz+60glXRyJ6G9TrLsdcJ/rB5hZ1kTWD+c=",
           "cp39"
         ]
       }
@@ -102390,6 +102444,18 @@
         ]
       }
     },
+    "16.0.0": {
+      "sdist": [
+        "wejIREbGA2LeNeI41qHNM2/aT9boP8j3eYy5ySfENQA=",
+        "peaqevcore-16.0.0.tar.gz"
+      ],
+      "wheels": {
+        "peaqevcore-16.0.0-py3-none-any.whl": [
+          "qC40XHz1ykhZwXLWm62R5J4vNV6hDzz2EBHDIGl0xhw=",
+          "py3"
+        ]
+      }
+    },
     "2.0.0": {
       "sdist": [
         "ctkBzwZ5Caba1JucxCKF7kJs/eZHJz4YSrV3tNyTEXU=",
@@ -112967,6 +113033,14 @@
       ]
     }
   },
+  "pyfilewriter": {
+    "0.0.1": {
+      "sdist": [
+        "JBNoRQE4xMp3fC3jaQva/U+mkNcBaf3jI2UGguCMC68=",
+        "PyFileWriter-0.0.1.tar.gz"
+      ]
+    }
+  },
   "pyformatter": {
     "0.0.1": {
       "sdist": [
@@ -113482,11 +113556,83 @@
         ]
       }
     },
+    "0.1.45": {
+      "sdist": [
+        "9taIIL12y+EwgN0tpNNu17U9a+opXDmceb3S5uiBqJs=",
+        "pyhtcc-0.1.45.tar.gz"
+      ],
+      "wheels": {
+        "pyhtcc-0.1.45-py3-none-any.whl": [
+          "OKsjFuQcvJIa0wBmGcxoZRExIVk67b3820btlFB2SEY=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.46": {
+      "sdist": [
+        "5BfeX/iaCYKEqrsTcacJXOlGUh5J4t/f1hHIFPXYlWI=",
+        "pyhtcc-0.1.46.tar.gz"
+      ],
+      "wheels": {
+        "pyhtcc-0.1.46-py3-none-any.whl": [
+          "/COy6rZYMWRJKLH29sRATzX9e4y3L9hfWUwwk0t/DtE=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.47": {
+      "sdist": [
+        "EGXBmWDLUKItMxbSU8rLHEFnLo+9dysPQpJiVAbeyOE=",
+        "pyhtcc-0.1.47.tar.gz"
+      ],
+      "wheels": {
+        "pyhtcc-0.1.47-py3-none-any.whl": [
+          "UQ9QF10IvSVCEGORAGuZqOQXAXnpCZOzSFDaj9MqpOI=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.48": {
+      "sdist": [
+        "CvWDRbHEACL2WoXiWWGe8D8w/pt02an+nzYtYxUEpcI=",
+        "pyhtcc-0.1.48.tar.gz"
+      ],
+      "wheels": {
+        "pyhtcc-0.1.48-py3-none-any.whl": [
+          "cWa9Bsie3jhVM8In5G5nlBgDaX6ardPrrA6yQv7JAU0=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.49": {
+      "sdist": [
+        "HADM+siFQurpkwgWJuHUeqZPnfy3CD7DEHxOMRx1fgI=",
+        "pyhtcc-0.1.49.tar.gz"
+      ],
+      "wheels": {
+        "pyhtcc-0.1.49-py3-none-any.whl": [
+          "4KubKHVwAML/MUSt+hjvF9z0FkaXjvvRPtc1s2O3Zd0=",
+          "py3"
+        ]
+      }
+    },
     "0.1.5": {
       "sdist": [
         "AuQnGTPPFlMdcFZCGRKNZZZmWPt8hblultEAYGkkur4=",
         "pyhtcc-0.1.5.tar.gz"
       ]
+    },
+    "0.1.50": {
+      "sdist": [
+        "O23WYbVgVegkWPl3EzacxKRqZJasIKlN5hz25NdMN9I=",
+        "pyhtcc-0.1.50.tar.gz"
+      ],
+      "wheels": {
+        "pyhtcc-0.1.50-py3-none-any.whl": [
+          "nghWjAvxKc20JDmkoDmCZYn+Asof+7z1x9ertwTTJ0E=",
+          "py3"
+        ]
+      }
     },
     "0.1.6": {
       "sdist": [

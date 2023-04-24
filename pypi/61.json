@@ -39180,6 +39180,18 @@
         "DLMS_SPODES-0.24.4.tar.gz"
       ]
     },
+    "0.25.0": {
+      "sdist": [
+        "pWo1pRTTHoRUB+D86cQ1UUs8QoeJRsUC3k/DJiKwgwA=",
+        "DLMS_SPODES-0.25.0.tar.gz"
+      ]
+    },
+    "0.25.1": {
+      "sdist": [
+        "TC2oQisKfbOSwfM3/8Ry4cWQvxYC7znf0ijrUf8O01c=",
+        "DLMS_SPODES-0.25.1.tar.gz"
+      ]
+    },
     "0.3.0": {
       "sdist": [
         "3XFSSzJbilnuQdrmJmpA5G52VsVEp5hgB1eEMOQifFc=",
@@ -60138,6 +60150,18 @@
         ]
       }
     },
+    "0.14.0": {
+      "sdist": [
+        "Qu6rgzKE4/wdOSY8+cPRuzaxKazdgZWDhpTRZejdbK4=",
+        "huggingface_hub-0.14.0.tar.gz"
+      ],
+      "wheels": {
+        "huggingface_hub-0.14.0-py3-none-any.whl": [
+          "+mphOf5KihZL/QzakMIl/oRxtHwSgRc4ttuDSKL3A6A=",
+          "py3"
+        ]
+      }
+    },
     "0.14.0rc0": {
       "wheels": {
         "huggingface_hub-0.14.0rc0-py3-none-any.whl": [
@@ -73730,6 +73754,16 @@
       "wheels": {
         "mindai-3.0.1-py3-none-any.whl": [
           "lZTqBFJlqWUXqMiNdWzIk5+fgKn7XX2D7O08DHg0cA8=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "mindaudio": {
+    "0.1.0": {
+      "wheels": {
+        "mindaudio-0.1.0-py3-none-any.whl": [
+          "RThg5jBYYXfM4MjAWkWCGkM2IbpwFlwne0BCpzkuKRA=",
           "py3"
         ]
       }
@@ -152132,6 +152166,18 @@
       "wheels": {
         "wxviews-0.7.0-py3-none-any.whl": [
           "+b9AEUVPrcEQ5EPPCXZRBf3VBJq+SQKWkURhaFjx7NQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.8.0": {
+      "sdist": [
+        "X1XEJMK8E0J6ah/ayNCpzOkbk2fq3pp2kgpqAls7Fnc=",
+        "wxviews-0.8.0.tar.gz"
+      ],
+      "wheels": {
+        "wxviews-0.8.0-py3-none-any.whl": [
+          "AJHQXML+WRzFVCsp2hCbcO+aG98Y94lwbRfeHlTx5pk=",
           "py3"
         ]
       }

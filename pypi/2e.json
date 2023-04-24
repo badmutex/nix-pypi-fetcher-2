@@ -28469,6 +28469,18 @@
           "py3"
         ]
       }
+    },
+    "1.2.0": {
+      "sdist": [
+        "QSaT+tvaNMkkNT3UrCZC1hkozQibTtrUkEa7ZtiRVN0=",
+        "datacrunch-1.2.0.tar.gz"
+      ],
+      "wheels": {
+        "datacrunch-1.2.0-py3-none-any.whl": [
+          "6eOMqUzkocaSb0XvzIRrmN3siLNoSFt5ZmpBCCsmofQ=",
+          "py3"
+        ]
+      }
     }
   },
   "dataflows-airtable": {
@@ -56390,6 +56402,18 @@
         ]
       }
     },
+    "0.5.23.post1": {
+      "sdist": [
+        "p9Nsguy8YHCmF9Cbwatx7uiMwbNQwWlaB8/EFwQxZWI=",
+        "gpt_index-0.5.23.post1.tar.gz"
+      ],
+      "wheels": {
+        "gpt_index-0.5.23.post1-py3-none-any.whl": [
+          "2Ywva9iFMlvKBLEFKoaLRnLU+b7MNrQqHKAUg4BxFS0=",
+          "py3"
+        ]
+      }
+    },
     "0.5.3": {
       "sdist": [
         "8g+rjLGmP5ud73B0HvXJr/HLVkRun7SpgQpuzZ5xsA8=",
@@ -74002,6 +74026,12 @@
         "libcnmc-23.28.0.tar.gz"
       ]
     },
+    "23.29.0": {
+      "sdist": [
+        "TOKUsMgDUNwkuB7ApfZdT8lP1XTrvUJYIiwWxb6v0fI=",
+        "libcnmc-23.29.0.tar.gz"
+      ]
+    },
     "23.3.0": {
       "sdist": [
         "sDGtTKARt5ivN1UZ88AxvAGt1QZ79ZvrWHu/aGDKhg4=",
@@ -75436,54 +75466,6 @@
     }
   },
   "lsptrain": {
-    "0.0.3": {
-      "sdist": [
-        "+xcp/4T/Mdj3HfCVF8C3vcgVAlg4s9vUgUldPtkwNqE=",
-        "lsptrain-0.0.3.tar.gz"
-      ]
-    },
-    "0.0.4": {
-      "sdist": [
-        "7IpPrjj4S3qpWwKdUANovcTysUkzYcAfzn9nCQVOqVg=",
-        "lsptrain-0.0.4.tar.gz"
-      ]
-    },
-    "0.0.48": {
-      "sdist": [
-        "x+eoTsLVHoYXgvkfI/hxcFzJrFw3lwAia36zTTxEtG8=",
-        "lsptrain-0.0.48.tar.gz"
-      ]
-    },
-    "0.0.49": {
-      "sdist": [
-        "lgxv7MEIgjzE69bFI/buSZLpRbe7IhoLR/+r1k/3i0Q=",
-        "lsptrain-0.0.49.tar.gz"
-      ]
-    },
-    "0.0.50": {
-      "sdist": [
-        "LjahOzqsdmwIA66t1KcgtR7qGDX4LevdZNXOE2anRy8=",
-        "lsptrain-0.0.50.tar.gz"
-      ]
-    },
-    "0.0.51": {
-      "sdist": [
-        "9kJ0gD2We02PZ6QJomR2X/SvLt+m5Tc8Gc7DLnZUFDc=",
-        "lsptrain-0.0.51.tar.gz"
-      ]
-    },
-    "0.0.52": {
-      "sdist": [
-        "vMmKddYwignO3SzmeHAJaDm4AX+itkH37u5fvnmOQV4=",
-        "lsptrain-0.0.52.tar.gz"
-      ]
-    },
-    "0.0.53": {
-      "sdist": [
-        "MyLn0GLnhV+q6NIum9tfX+MA953r7MCLBr5sB549+2s=",
-        "lsptrain-0.0.53.tar.gz"
-      ]
-    },
     "0.0.55": {
       "sdist": [
         "Rr0ITxpY69dPPJH6K6rnHLn97qOxh6XWkq0Fy/mK5lE=",
@@ -92470,6 +92452,18 @@
         ]
       }
     },
+    "2.50.0": {
+      "sdist": [
+        "db+ljYa/RMhUFhxtIzTCCQ3Y+RQqN66CBzxHtd2GXyQ=",
+        "ocrd_modelfactory-2.50.0.tar.gz"
+      ],
+      "wheels": {
+        "ocrd_modelfactory-2.50.0-py3-none-any.whl": [
+          "6vzTEid8qyyxfs1scWHcomc3NEb0KYw0ifYd7U+Ep7Y=",
+          "py3"
+        ]
+      }
+    },
     "2.6.0": {
       "sdist": [
         "Q1B7SUVqUJ3D/WHlzLyZ7+ejyqq9jf4x0kBYxfAtL90=",
@@ -93764,6 +93758,14 @@
       "wheels": {
         "odoo11_addon_mail_drop_target-11.0.1.1.1-py2.py3-none-any.whl": [
           "GVwQDZ/414zAGMkc3qChf93ktllJSVFz2ICvVwg9qWY=",
+          "py2.py3"
+        ]
+      }
+    },
+    "11.0.1.1.1.99.dev1": {
+      "wheels": {
+        "odoo11_addon_mail_drop_target-11.0.1.1.1.99.dev1-py2.py3-none-any.whl": [
+          "atQ2i9RMqk4dlxjrazl9eXQ+DwCX5i+9459rnuF43GQ=",
           "py2.py3"
         ]
       }
@@ -99144,6 +99146,30 @@
       "wheels": {
         "pasqal_cloud-0.2.3-py3-none-any.whl": [
           "tLd1jyo0CGcJMlow+LrZO+zZnkIpymipmCfg8vNe9SM=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.4": {
+      "sdist": [
+        "UoqpqriL0flznL9A+0PNmj9cAf94bAFdE7I/mw9aJ78=",
+        "pasqal-cloud-0.2.4.tar.gz"
+      ],
+      "wheels": {
+        "pasqal_cloud-0.2.4-py3-none-any.whl": [
+          "LdP+ANk6Rj3JSuB31eOf3PzTfiU2VEtkuULeWEJ3G+8=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.5": {
+      "sdist": [
+        "HjhSwLekLBjgOtOrX5KivCoC0wz6lfIN/FywGLlrHo4=",
+        "pasqal-cloud-0.2.5.tar.gz"
+      ],
+      "wheels": {
+        "pasqal_cloud-0.2.5-py3-none-any.whl": [
+          "uslhrLZ0Q8jmwkMh5oEpGIQZ6JgKEMDxSXpHUlwLD94=",
           "py3"
         ]
       }
@@ -109289,6 +109315,14 @@
           "py3"
         ]
       }
+    }
+  },
+  "pyjs-code-runner": {
+    "0.0.0a0": {
+      "sdist": [
+        "wLwqpj+/KQYa41alMcahxLu+9RwCQwnPApFh217aVB8=",
+        "pyjs-code-runner-0.0.0a0.tar.gz"
+      ]
     }
   },
   "pyjsparser": {
@@ -124170,6 +124204,12 @@
       "sdist": [
         "YXdABGTivAq9glKQzpuQQBzM0upfEyBHcHbWG9K11rI=",
         "ShellcodeTester-0.2.1.tar.gz"
+      ]
+    },
+    "0.2.10": {
+      "sdist": [
+        "iPWkTwC16jwkW/ZC3sgidn3FgCzwIr21quXfuxIf1wQ=",
+        "ShellcodeTester-0.2.10.tar.gz"
       ]
     },
     "0.2.2": {

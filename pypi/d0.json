@@ -74739,6 +74739,16 @@
       }
     }
   },
+  "odoo-addon-l10n-de-holidays": {
+    "15.0.1.0.1": {
+      "wheels": {
+        "odoo_addon_l10n_de_holidays-15.0.1.0.1-py3-none-any.whl": [
+          "koFl2s964eDVbGfKSkfVBTsj9eKVOymarhd6LJ4X2po=",
+          "py3"
+        ]
+      }
+    }
+  },
   "odoo-addon-l10n-ee-accounting": {
     "15.0.1.0.0.3": {
       "wheels": {
@@ -79241,6 +79251,12 @@
         "fVhRaPzqTHJN7a/NdSgUl2V5yfCnp//Q23rmMqaCxG0=",
         "openshift-cluster-management-python-client-1.0.10.tar.gz"
       ]
+    },
+    "1.0.11": {
+      "sdist": [
+        "DnWbJSzZ9CJJqpEJn2KV3Z/NKr0Ixh+477tJ9y5a1KQ=",
+        "openshift-cluster-management-python-client-1.0.11.tar.gz"
+      ]
     }
   },
   "opentelemetry-exporter-gcp-monitoring": {
@@ -81000,6 +81016,18 @@
       "wheels": {
         "orchestrator_core-1.0.2rc1-py3-none-any.whl": [
           "+cA8f82iLo0Ic1I07NP7IuAxnkt8xG2lW6ib+wMbcpg=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.2rc2": {
+      "sdist": [
+        "Czj7z6kusV/GWMXn6WQI57d9TbnnBplPIjNMuJqauZg=",
+        "orchestrator-core-1.0.2rc2.tar.gz"
+      ],
+      "wheels": {
+        "orchestrator_core-1.0.2rc2-py3-none-any.whl": [
+          "AuNbIdGbPg7DtL110pQaAevfICHnpiKmld2SymkAl0k=",
           "py3"
         ]
       }
@@ -127778,6 +127806,14 @@
       "wheels": {
         "tf_estimator_nightly-2.13.0.dev2023042308-py2.py3-none-any.whl": [
           "vMjarzasCCM3ay5/xNlZ1C3XRaI6EgT5KMsX42UiE+o=",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.13.0.dev2023042408": {
+      "wheels": {
+        "tf_estimator_nightly-2.13.0.dev2023042408-py2.py3-none-any.whl": [
+          "3bpykjC8yVdOn9uFQdEMCT0b4aHJ193DWz1FLhmZSw8=",
           "py2.py3"
         ]
       }

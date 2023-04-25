@@ -83421,6 +83421,12 @@
         "aOQS+Pd3fLGMDpdmNHhWmB48mhrxwuu6eQnriQsLTfQ=",
         "mobspy-2.0.3.tar.gz"
       ]
+    },
+    "2.0.4": {
+      "sdist": [
+        "o7/8mlGAsJGO4bRdLeNOd2B9nXzkxOTn7KXfvtLVFi0=",
+        "mobspy-2.0.4.tar.gz"
+      ]
     }
   },
   "mockproc": {
@@ -87680,6 +87686,22 @@
         ],
         "navigator_auth-0.7.4-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "WpmfqUG1cil7G9CvQmbp6v68Jb3rPEbibR6F9+Ry5SY=",
+          "cp39"
+        ]
+      }
+    },
+    "0.7.5": {
+      "wheels": {
+        "navigator_auth-0.7.5-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "bn4wmBq/LwCDzIDvc1qn6JHQ42FSpktRfs7EJNLz0EE=",
+          "cp310"
+        ],
+        "navigator_auth-0.7.5-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "TrrrHeoWYOotvxpacKhmp7S+DhX6/C5Lfz8S8Jk+HN4=",
+          "cp311"
+        ],
+        "navigator_auth-0.7.5-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "44Gpw5SkLV69VRMSDhgbYTbUDTZlAwXs3hsy+AV/1No=",
           "cp39"
         ]
       }
@@ -111351,6 +111373,40 @@
         "pydear-2.1.0-cp310-cp310-win_amd64.whl": [
           "y+wBGjLTg5/e0Rp5jZcMBQ7+hvcWXchSjcVI2Kog5LI=",
           "cp310"
+        ]
+      }
+    }
+  },
+  "pydefillama": {
+    "1.0": {
+      "wheels": {
+        "pydefillama-1.0-py3-none-any.whl": [
+          "a+xK6aF/17PWuujQbcEdyQypkNii7uPvt95uCdPqkRM=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.1": {
+      "sdist": [
+        "Gioesr7ieLJlhfjqXo188bLY5ZbywkAdPRIw+CTX9Xo=",
+        "pydefillama-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "pydefillama-1.0.1-py3-none-any.whl": [
+          "3dPGJLjAkjOt8/U61OFgCSHpTf+W1+uXlLpmvNzcKpA=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.2": {
+      "sdist": [
+        "uzeyF5+FItxEe/04neSzGbOQMogFbZzXDZc68KEKWKg=",
+        "pydefillama-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "pydefillama-1.0.2-py3-none-any.whl": [
+          "eZFon9VDGUxHFSZwdXtgWyJWJggt2M2psAhbMsLYbl4=",
+          "py3"
         ]
       }
     }
@@ -150962,6 +151018,18 @@
       "wheels": {
         "wanna_ml-0.2.3-py3-none-any.whl": [
           "2hiJFiLkn/1/wLlXtOgMBWh+Fkxn7qGhpPkyrDbXDpM=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.30": {
+      "sdist": [
+        "wVj5i811rFz6z9uy+MoiM6hdInTzTxQK6owuVhQbTBU=",
+        "wanna_ml-0.2.30.tar.gz"
+      ],
+      "wheels": {
+        "wanna_ml-0.2.30-py3-none-any.whl": [
+          "/Sy1mN9iY+hO7krelb3rgaL0LLvHkdGuz1tRA1HiB9U=",
           "py3"
         ]
       }

@@ -39276,6 +39276,24 @@
         "DLMS_SPODES-0.25.1.tar.gz"
       ]
     },
+    "0.26.0": {
+      "sdist": [
+        "fD4iWYMIVPLzl85FqiIPgUN+IH+1qUBi46nY0BxHzXw=",
+        "DLMS_SPODES-0.26.0.tar.gz"
+      ]
+    },
+    "0.26.1": {
+      "sdist": [
+        "Rkp3aQy6riv3GxpEKHfWy72b94M6mTNOO1osgctBCpw=",
+        "DLMS_SPODES-0.26.1.tar.gz"
+      ]
+    },
+    "0.26.2": {
+      "sdist": [
+        "ew104klpaEOykboWqVeIRFsLcnSFtkGpD7HdK2sJxo8=",
+        "DLMS_SPODES-0.26.2.tar.gz"
+      ]
+    },
     "0.3.0": {
       "sdist": [
         "3XFSSzJbilnuQdrmJmpA5G52VsVEp5hgB1eEMOQifFc=",
@@ -61164,30 +61182,6 @@
     }
   },
   "i2c-autotest": {
-    "1.0.0": {
-      "sdist": [
-        "Y4YFwDvfrN9rmSKNSQHgdoMvP9zAIE0ofpNKSWTmPo4=",
-        "I2C_Autotest-1.0.0.tar.gz"
-      ],
-      "wheels": {
-        "I2C_Autotest-1.0.0-py3-none-any.whl": [
-          "gszv/vEwx3ptmeM2Wr8i9aTdPZp/2o/p68rru0jTON0=",
-          "py3"
-        ]
-      }
-    },
-    "1.0.1": {
-      "sdist": [
-        "eplM1opuP5kJcDNq8hM4/88t857ffEo7j31yRLPmJtc=",
-        "I2C_Autotest-1.0.1.tar.gz"
-      ],
-      "wheels": {
-        "I2C_Autotest-1.0.1-py3-none-any.whl": [
-          "76Kv1F8HxKzFRPl0gbnams/QmazCes+98rwNX9bUBGU=",
-          "py3"
-        ]
-      }
-    },
     "1.0.2": {
       "sdist": [
         "0vVvCPpvAwQ8hOpWscHErDyXxaylpj4qMZR3sVy0/AU=",
@@ -126242,6 +126236,18 @@
       "wheels": {
         "resotolib-3.3.3-py3-none-any.whl": [
           "gx8+DwdkYtDk3ttLi9jvGp4dVcR4RpUXd7Wtw2QEEwA=",
+          "py3"
+        ]
+      }
+    },
+    "3.3.4": {
+      "sdist": [
+        "cfFA+XkBB5FJu0+0+/HGVgJzCI9ru3zaClvdYBuo73k=",
+        "resotolib-3.3.4.tar.gz"
+      ],
+      "wheels": {
+        "resotolib-3.3.4-py3-none-any.whl": [
+          "gyDIKTSNaqaDGhScF3rLf+z2mQBu/A0L3ewcpNMkD/0=",
           "py3"
         ]
       }

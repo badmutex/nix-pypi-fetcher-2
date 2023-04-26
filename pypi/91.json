@@ -38936,6 +38936,12 @@
         "Euphorie-14.3.3.tar.gz"
       ]
     },
+    "14.3.4": {
+      "sdist": [
+        "AafFlmTQBwqQxOT1UgF8ek2qDNbAcjqBfqIGxkTAZRY=",
+        "Euphorie-14.3.4.tar.gz"
+      ]
+    },
     "2.0": {
       "sdist": [
         "rrVoLyOMeA4ICo/CltXVDGwj8NjmZ0Kf6yz/sEv0qKM=",
@@ -55801,6 +55807,18 @@
           "py3"
         ]
       }
+    },
+    "0.2.1": {
+      "sdist": [
+        "y0X5cWXQfNtAcTKGCrmJS2z4tDwknlnrvIdRtzTIcBk=",
+        "here-polyline-converter-0.2.1.tar.gz"
+      ],
+      "wheels": {
+        "here_polyline_converter-0.2.1-py3-none-any.whl": [
+          "7NsWG/1mqXyY9Tt3TNbDz4fi2W4k3EejKkCAKn3hX3g=",
+          "py3"
+        ]
+      }
     }
   },
   "herhoopstats": {
@@ -57506,6 +57524,94 @@
         ],
         "html_parsing_tools-0.34.0-cp39-cp39-manylinux_2_34_x86_64.whl": [
           "zTeyOivxxsscrorPVEVsa94f1xzZQa4yhVV3cMV/91c=",
+          "cp39"
+        ]
+      }
+    },
+    "0.35.0": {
+      "sdist": [
+        "CAnYDU1/k8c+nZmxCWUKUKwExEPxEtEtdhd+IO6Wa2M=",
+        "html_parsing_tools-0.35.0.tar.gz"
+      ],
+      "wheels": {
+        "html_parsing_tools-0.35.0-cp310-cp310-macosx_10_7_x86_64.whl": [
+          "hmJWXLzqIn5bR5eQIHq+LOc2QUE58xk1kY5DpxRnxVw=",
+          "cp310"
+        ],
+        "html_parsing_tools-0.35.0-cp310-cp310-manylinux_2_34_x86_64.whl": [
+          "SZPFO0D0CNEc3xnxbayNmcDkLDf1zxrqT5hUXOFqQ3k=",
+          "cp310"
+        ],
+        "html_parsing_tools-0.35.0-cp311-cp311-macosx_10_7_x86_64.whl": [
+          "2v886VTkXBMc1y2EglDhIco4tC76Chdh0hIOHUI7p4w=",
+          "cp311"
+        ],
+        "html_parsing_tools-0.35.0-cp311-cp311-manylinux_2_34_x86_64.whl": [
+          "yIFldaaNVFO1B/zK8VzGo6aaBA2ZOZbXCf4j1AuB29c=",
+          "cp311"
+        ],
+        "html_parsing_tools-0.35.0-cp311-none-win_amd64.whl": [
+          "WScGFK8coJiTphl+EcSgt0Exx2wdLl2EpUiqvS7Ow68=",
+          "cp311"
+        ],
+        "html_parsing_tools-0.35.0-cp38-cp38-macosx_10_7_x86_64.whl": [
+          "INCtS6W0X0xD1idSL7HI9gyNC/dXTafv9aFkl5nv3OU=",
+          "cp38"
+        ],
+        "html_parsing_tools-0.35.0-cp38-cp38-manylinux_2_34_x86_64.whl": [
+          "jTsZgMM1j3hzhvd4af6pnB1uv1fc/tfEchAN0IBoU30=",
+          "cp38"
+        ],
+        "html_parsing_tools-0.35.0-cp39-cp39-macosx_10_7_x86_64.whl": [
+          "vLmYCqQCBmOEwivJbcrN/wz/bE2KpVk3gNiiJ4pMm6g=",
+          "cp39"
+        ],
+        "html_parsing_tools-0.35.0-cp39-cp39-manylinux_2_34_x86_64.whl": [
+          "spVa89zmkvuyUSPqHL2B+3XmahLhVZi+IZUsgnuoQmY=",
+          "cp39"
+        ]
+      }
+    },
+    "0.36.0": {
+      "sdist": [
+        "vr5aGF8ZyGL0NjrIiNt1xx29NRvHyz6MxYO+xkj6ihs=",
+        "html_parsing_tools-0.36.0.tar.gz"
+      ],
+      "wheels": {
+        "html_parsing_tools-0.36.0-cp310-cp310-macosx_10_7_x86_64.whl": [
+          "ek9vGy3BI7zvEOh24SMOI/X65kwJE5iJ3Rmp0nou7xY=",
+          "cp310"
+        ],
+        "html_parsing_tools-0.36.0-cp310-cp310-manylinux_2_34_x86_64.whl": [
+          "FdbK88OeRRG5Y6zcwegJ4Qdu6sAs7t+F+S8e5LMaBWA=",
+          "cp310"
+        ],
+        "html_parsing_tools-0.36.0-cp311-cp311-macosx_10_7_x86_64.whl": [
+          "dCPxt21jWITyR7ghPJfuGVxAwgxqc1jDdPFj5X389os=",
+          "cp311"
+        ],
+        "html_parsing_tools-0.36.0-cp311-cp311-manylinux_2_34_x86_64.whl": [
+          "0rqHNNIG3Qa2f/hhfd1u3KJA+xI3TlBnUpfkTzkGF7Y=",
+          "cp311"
+        ],
+        "html_parsing_tools-0.36.0-cp311-none-win_amd64.whl": [
+          "pQ06cENl1QK5s80vE5dnilVl9yl3XcP768CTbnsfJPo=",
+          "cp311"
+        ],
+        "html_parsing_tools-0.36.0-cp38-cp38-macosx_10_7_x86_64.whl": [
+          "rUE3VPL06X9Ag5y97HustHEqSHh5R62TuMQYiV8rIzk=",
+          "cp38"
+        ],
+        "html_parsing_tools-0.36.0-cp38-cp38-manylinux_2_34_x86_64.whl": [
+          "NhHK0pojaq4y5JBISKj/gYmb7xiKovu9KMSu3MB/bO8=",
+          "cp38"
+        ],
+        "html_parsing_tools-0.36.0-cp39-cp39-macosx_10_7_x86_64.whl": [
+          "OgMxX8+ZZN3pn8ogmtGYEiIatw9gOlcX9clhjV88wEY=",
+          "cp39"
+        ],
+        "html_parsing_tools-0.36.0-cp39-cp39-manylinux_2_34_x86_64.whl": [
+          "vdFL2zyMWNwdn4vtL7BjQPVXjeLR1qGupdDfYBk1/EQ=",
           "cp39"
         ]
       }
@@ -102946,6 +103052,14 @@
       "wheels": {
         "pciw.py-0.9.6-py3-none-any.whl": [
           "zA0ZUyLE4wQYiFKhD+id2ctOr5jrlJRzK98wVziS310=",
+          "py3"
+        ]
+      }
+    },
+    "0.9.7": {
+      "wheels": {
+        "pciw.py-0.9.7-py3-none-any.whl": [
+          "Ar6UAQzz12dxGhdcPBw9Wq9bmmz717myWCgvDxczfgI=",
           "py3"
         ]
       }

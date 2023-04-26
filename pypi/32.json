@@ -29525,6 +29525,32 @@
       ]
     }
   },
+  "darkdetect-angr": {
+    "0.9.0": {
+      "sdist": [
+        "o9RRpRe/806Ml7uCce4T5wxsi5yGlufii0KZDyJ+Nq8=",
+        "darkdetect_angr-0.9.0.tar.gz"
+      ],
+      "wheels": {
+        "darkdetect_angr-0.9.0-py3-none-any.whl": [
+          "Uc1yH7+d8o4n7k7B2brQH/i4fOPBoEuBhR7BJngnNzk=",
+          "py3"
+        ]
+      }
+    },
+    "0.9.1": {
+      "sdist": [
+        "eKYI4ZOwI6Z5qQHT93vAGLEyOt3OuzBYTzd3iSsf0gw=",
+        "darkdetect_angr-0.9.1.tar.gz"
+      ],
+      "wheels": {
+        "darkdetect_angr-0.9.1-py3-none-any.whl": [
+          "7rAlN+XsrdUHiEBrnWZ0e+Faily4QY6GQxQpETbxsW4=",
+          "py3"
+        ]
+      }
+    }
+  },
   "darkmappy": {
     "0.1.0": {
       "wheels": {
@@ -106496,6 +106522,18 @@
         ]
       }
     },
+    "1.0.0b17": {
+      "sdist": [
+        "kG/3IfylJiZXbdDmcza8htsuQxRM8Oh5JIzI8JhlLyA=",
+        "panel-1.0.0b17.tar.gz"
+      ],
+      "wheels": {
+        "panel-1.0.0b17-py2.py3-none-any.whl": [
+          "fB64Ur8C3DMb/mO5Ih1faW350o4OS4WNIVkd+yDK56o=",
+          "py2.py3"
+        ]
+      }
+    },
     "1.0.0b2": {
       "sdist": [
         "vor7aZd6KYBC47mwynE9kT1RuSkasT7jpSnleLGYlh8=",
@@ -128730,6 +128768,12 @@
       "sdist": [
         "oN5A3AjWtZPfgK4jNmX9qxEROI63EmL+oa/Lowmi6ck=",
         "sagemaker-2.15.4.tar.gz"
+      ]
+    },
+    "2.150.0": {
+      "sdist": [
+        "K6OgTbnIXOtw/+P6d77HDXsTdy8R0ZpfJhylU98u2XQ=",
+        "sagemaker-2.150.0.tar.gz"
       ]
     },
     "2.16.0": {

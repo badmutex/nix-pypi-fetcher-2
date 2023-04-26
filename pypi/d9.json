@@ -13814,6 +13814,18 @@
         ]
       }
     },
+    "1.29.120": {
+      "sdist": [
+        "5RglnoxHASIvBAynhFj2I7MVfLIDRHZBT4tm4j0s2k4=",
+        "botocore-a-la-carte-healthlake-1.29.120.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_healthlake-1.29.120-py3-none-any.whl": [
+          "/gSvN28BaUm+4QkEzQvrfjkh1+qSzv4SlQB05Yko6UU=",
+          "py3"
+        ]
+      }
+    },
     "1.29.42": {
       "sdist": [
         "vFWeQs5Y6u5AAvnNE57XQITuCPEZsk66qxW+s+NC1XU=",
@@ -96997,6 +97009,12 @@
         "LvzPATzJr1inYYHnkjfi2UJ6GfkruMF90VpGimAvcOA=",
         "pulumi_kafka-3.5.0a1681930214.tar.gz"
       ]
+    },
+    "3.5.0a1682442669": {
+      "sdist": [
+        "AixYP+tWhaS3nafd/1GkLDVyFEpFeGro08tA+fYYxkI=",
+        "pulumi_kafka-3.5.0a1682442669.tar.gz"
+      ]
     }
   },
   "punt": {
@@ -100052,6 +100070,54 @@
         ],
         "pyats.connections-23.3-cp39-cp39-manylinux2014_x86_64.whl": [
           "Uvupi+pkh5EVkcKVhz84fXxGfsb7vJPD04zKLIdTYtM=",
+          "cp39"
+        ]
+      }
+    },
+    "23.4": {
+      "wheels": {
+        "pyats.connections-23.4-cp310-cp310-macosx_11_0_arm64.whl": [
+          "HkD072HNOw+3SCa8YPP7ZLxDu6lyK2xXiUZggCmJNEk=",
+          "cp310"
+        ],
+        "pyats.connections-23.4-cp310-cp310-macosx_11_0_x86_64.whl": [
+          "+nIouOjmkAlIN7S/rSuhDpTwMZhp5OIXmYqxMryf/NQ=",
+          "cp310"
+        ],
+        "pyats.connections-23.4-cp310-cp310-manylinux2014_x86_64.whl": [
+          "SPLuIs1kUm4tlk/laQSpPSuOnkF+8YAoLHuPilLY2SQ=",
+          "cp310"
+        ],
+        "pyats.connections-23.4-cp37-cp37m-macosx_11_0_x86_64.whl": [
+          "l4mnlndN54FCc+CXJStSGJW9cEBmzq/stutcGjtUWLk=",
+          "cp37"
+        ],
+        "pyats.connections-23.4-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "YHODpKQAaV3pdcUgr7V+5N14ElSWQrjmOC8Z/mUOL4k=",
+          "cp37"
+        ],
+        "pyats.connections-23.4-cp38-cp38-macosx_11_0_arm64.whl": [
+          "+E+n1Ofa8s4y0utmbD1HZ4BbUYg4AyPMJNoIj5t89js=",
+          "cp38"
+        ],
+        "pyats.connections-23.4-cp38-cp38-macosx_11_0_x86_64.whl": [
+          "Lf56Su7l9aFyaOwEj8HS4SFed+s9cPEolD5lR35irMY=",
+          "cp38"
+        ],
+        "pyats.connections-23.4-cp38-cp38-manylinux2014_x86_64.whl": [
+          "0wj+QzCfY6fgVN5c7BFZz1N2gx87IsqbZHEHi9dH52k=",
+          "cp38"
+        ],
+        "pyats.connections-23.4-cp39-cp39-macosx_11_0_arm64.whl": [
+          "rDUfgLg6639uxR1MSSgvmTXDSiSJDRi4x9M285f3w0o=",
+          "cp39"
+        ],
+        "pyats.connections-23.4-cp39-cp39-macosx_11_0_x86_64.whl": [
+          "ksFpJTmWfWVBjNTh6NowseT3cvqQaMqMID6ozh8Pm54=",
+          "cp39"
+        ],
+        "pyats.connections-23.4-cp39-cp39-manylinux2014_x86_64.whl": [
+          "+zyeHLL7iiaPYqrqUtwQL5E2hrVI/G7VgstROC0D+1U=",
           "cp39"
         ]
       }

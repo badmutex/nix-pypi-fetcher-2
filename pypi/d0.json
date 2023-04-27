@@ -23158,6 +23158,30 @@
         ]
       }
     },
+    "0.23.3": {
+      "sdist": [
+        "X7qqUwJyO8hnNm8Sq8rauMi68pcEsMDBaBzCPbBULys=",
+        "chaostoolkit-aws-0.23.3.tar.gz"
+      ],
+      "wheels": {
+        "chaostoolkit_aws-0.23.3-py3-none-any.whl": [
+          "h61zBTRfJo45SN1Qzzq1880EEJb9Rowu/HFabLX2IwA=",
+          "py3"
+        ]
+      }
+    },
+    "0.23.4": {
+      "sdist": [
+        "vz+hfufDdccds5fX2HmZh+9vRzJp2+RUry2hPNwwwAg=",
+        "chaostoolkit-aws-0.23.4.tar.gz"
+      ],
+      "wheels": {
+        "chaostoolkit_aws-0.23.4-py3-none-any.whl": [
+          "U1JHo+X2sqbf4sunvWwbdRpo0NNJT59cyzf0CCuN5mM=",
+          "py3"
+        ]
+      }
+    },
     "0.4.0": {
       "sdist": [
         "q7j3AGCTqbgGfJQoY9nF7F8633keUID38hPo7770FNE=",
@@ -31254,14 +31278,14 @@
     }
   },
   "deepsecrets": {
-    "1.0.1": {
+    "1.0.3": {
       "sdist": [
-        "urjrsWymO21eVIBTA/3obt24hHsxBjHlQvCQcp9TXIE=",
-        "deepsecrets-1.0.1.tar.gz"
+        "/WiERfy5bssfyb2512vT7Wr691GSDTAz7ylQ3nsbG8c=",
+        "deepsecrets-1.0.3.tar.gz"
       ],
       "wheels": {
-        "deepsecrets-1.0.1-py3-none-any.whl": [
-          "/2MoPa+2+7xQBDNr43fY3RBZFHOR1rIPFXJXoUyIoFE=",
+        "deepsecrets-1.0.3-py3-none-any.whl": [
+          "TPp8Y79u/yLkKpiUzJX5beJJWMl4mKmjOTlRWcsOkvU=",
           "py3"
         ]
       }
@@ -45865,6 +45889,32 @@
       }
     }
   },
+  "gbc": {
+    "0.0.1": {
+      "sdist": [
+        "cMaHPXi2ROvRjRtYJOcjOzXoHcZNjZgeB5Q27yPhVl8=",
+        "gbc-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "gbc-0.0.1-py3-none-any.whl": [
+          "FixAMbae3CrpyUpquAcgFZhu/JxPUqSCmEjSxyAe5RU=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "XtqQy7G08psIRmjtPVE6LSYoP7u6rOe7EK+87Ah0zJw=",
+        "gbc-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "gbc-0.0.2-py3-none-any.whl": [
+          "ob+lDzrF09aw++jM6fG0dQ0V4KwFrFPfi7M/M3m4D84=",
+          "py3"
+        ]
+      }
+    }
+  },
   "gbd-transformation": {
     "1.0.10": {
       "wheels": {
@@ -52279,6 +52329,14 @@
           "py2.py3"
         ]
       }
+    },
+    "3.1.38": {
+      "wheels": {
+        "huaweicloudsdkdwr-3.1.38-py2.py3-none-any.whl": [
+          "U+9SgdU1VFvFLjeZbD63a5bnrzIVhED5XFLjmDP3eC4=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "huginn": {
@@ -55274,6 +55332,14 @@
       "wheels": {
         "iree_tools_xla-20230228.444-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "/j7d9PdEGldTTkMhq47amGhPL5qxC/2vDb7wiUs0Ufw=",
+          "py3"
+        ]
+      }
+    },
+    "20230404.479": {
+      "wheels": {
+        "iree_tools_xla-20230404.479-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "PC1eY0f0cHA2o9QnnKvbTIgBTiE0L+FBQUrTCn4aAnc=",
           "py3"
         ]
       }
@@ -60242,6 +60308,30 @@
         ],
         "libertem_dectris-0.2.1-cp37-abi3-win_amd64.whl": [
           "KjMkhi0dZug2NRFUuUPLk/VIk8zgaldZAP/0IX15I7M=",
+          "cp37"
+        ]
+      }
+    },
+    "0.2.11": {
+      "sdist": [
+        "SRUPln6Mvg3AJxcTxXN0bVjuOt5pnef+r3nKEuL2zqw=",
+        "libertem_dectris-0.2.11.tar.gz"
+      ],
+      "wheels": {
+        "libertem_dectris-0.2.11-cp37-abi3-macosx_11_0_arm64.whl": [
+          "YzdG3sT7vpigwohDxhWdF+dgw4RbJT281MBU/NfQWK0=",
+          "cp37"
+        ],
+        "libertem_dectris-0.2.11-cp37-abi3-macosx_11_0_x86_64.whl": [
+          "vB+rBEJY7JDndUmFLehA+mPgENy+hP+/N+QutvZX0ng=",
+          "cp37"
+        ],
+        "libertem_dectris-0.2.11-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "WhPSvwVkUc1z+3cVnCu3qKrgWZS6VTJWgktaeS5CAsE=",
+          "cp37"
+        ],
+        "libertem_dectris-0.2.11-cp37-abi3-win_amd64.whl": [
+          "csuvHPYVd0W8wn8Y/CTSvSefjgYvGi7ZU7sR2C7XaRw=",
           "cp37"
         ]
       }
@@ -76932,6 +77022,14 @@
       "wheels": {
         "odoo12_addon_l10n_it_fatturapa_out_rc-12.0.1.1.0.99.dev1-py3-none-any.whl": [
           "7gSipiYDuVK+lfBl/HzyHxr2ZpndO045sWru6VBLrC8=",
+          "py3"
+        ]
+      }
+    },
+    "12.0.1.1.0.99.dev2": {
+      "wheels": {
+        "odoo12_addon_l10n_it_fatturapa_out_rc-12.0.1.1.0.99.dev2-py3-none-any.whl": [
+          "oMaUW7gDY647mUty27yoIuJJI7uv1itlSYT929ors5s=",
           "py3"
         ]
       }
@@ -114272,6 +114370,18 @@
         ]
       }
     },
+    "0.0.32": {
+      "sdist": [
+        "apXSJY4QFPoUWX4aVA+dSCVzRJRHPCWXa+TdjsgNweA=",
+        "ssb_altinn3_util-0.0.32.tar.gz"
+      ],
+      "wheels": {
+        "ssb_altinn3_util-0.0.32-py3-none-any.whl": [
+          "+snQ9YhMHXq+2E/BwLoz9QBZdNbr4nM8krFCNP3FkSc=",
+          "py3"
+        ]
+      }
+    },
     "0.0.5": {
       "sdist": [
         "JI8bYn3BLPURIbgE3tNW3VG9dGHf4yb7qP152u0UF5c=",
@@ -128182,6 +128292,14 @@
       "wheels": {
         "tf_estimator_nightly-2.13.0.dev2023042608-py2.py3-none-any.whl": [
           "LeYJ/7ydhfIpWXkdc2vO29G+j1csTi5oQBGt3G5hky0=",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.13.0.dev2023042708": {
+      "wheels": {
+        "tf_estimator_nightly-2.13.0.dev2023042708-py2.py3-none-any.whl": [
+          "3iziDd782XC6S+etxFsvYOX9SPAPlKrR21PILhFRWcY=",
           "py2.py3"
         ]
       }

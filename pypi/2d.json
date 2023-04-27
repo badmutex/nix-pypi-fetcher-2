@@ -12391,6 +12391,18 @@
           "py3"
         ]
       }
+    },
+    "0.7.1b20230427": {
+      "sdist": [
+        "J0otkCXhdZiGFH334U3+UsRHLrITnUx8kW9ZPTM6Xc0=",
+        "autogluon.timeseries-0.7.1b20230427.tar.gz"
+      ],
+      "wheels": {
+        "autogluon.timeseries-0.7.1b20230427-py3-none-any.whl": [
+          "ePrNTNLxTrzRrXDB1gvoQk3ePP3pGdLT4Xy1v6FmaKQ=",
+          "py3"
+        ]
+      }
     }
   },
   "autohooks-plugin-pytest": {
@@ -26421,6 +26433,18 @@
           "py3"
         ]
       }
+    },
+    "0.9.5": {
+      "sdist": [
+        "yeXwWJxbiUGLrDrYSxpal8VF/TwgGqByq+U7K6DlFSE=",
+        "ckanext-dc_serve-0.9.5.tar.gz"
+      ],
+      "wheels": {
+        "ckanext_dc_serve-0.9.5-py3-none-any.whl": [
+          "9rMUKGlpR2xc5r3L4dHeeg3A48YtypHR6lEB8Df2eic=",
+          "py3"
+        ]
+      }
     }
   },
   "ckanext-papaya": {
@@ -27317,6 +27341,18 @@
         "cmeel_lapack-3.11.0-1-pp39-pypy39_pp73-manylinux_2_17_x86_64.whl": [
           "jFB4IV5DKN5qxEavFstE10evAumey49cbmxoHQmCQt8=",
           "pp39"
+        ],
+        "cmeel_lapack-3.11.0-5-py3-none-macosx_10_15_x86_64.whl": [
+          "QaMhMm/TJgWZoTC91O/cVGMxYP6v0GtPivtrQu6Rna8=",
+          "py3"
+        ],
+        "cmeel_lapack-3.11.0-5-py3-none-manylinux_2_17_aarch64.whl": [
+          "S5rQC3LDIXvZhiyzAEQR0pNWKyv4XDToxOBa9xcHPuE=",
+          "py3"
+        ],
+        "cmeel_lapack-3.11.0-5-py3-none-manylinux_2_17_x86_64.whl": [
+          "w6EHPAs4bm0Y2YbWc2t0wcPAXbE9idES6vS40DZ2pYc=",
+          "py3"
         ]
       }
     }
@@ -27582,6 +27618,18 @@
       "wheels": {
         "cmem_cmemc-23.1-py3-none-any.whl": [
           "AIna3Cg4eDziC+qGkYFkSM7jdQP3xf8NRLxswoPGBn4=",
+          "py3"
+        ]
+      }
+    },
+    "23.1.1rc1": {
+      "sdist": [
+        "mV9sYYwg6CN7x+WRmXYMtkSvuiS1/yqw7iZ0/XtITQ4=",
+        "cmem_cmemc-23.1.1rc1.tar.gz"
+      ],
+      "wheels": {
+        "cmem_cmemc-23.1.1rc1-py3-none-any.whl": [
+          "wHQR23RlKtDv80ADLDbnR+h5Gz5mx8KF/jgNtbg6rEM=",
           "py3"
         ]
       }
@@ -74677,6 +74725,20 @@
       ]
     }
   },
+  "mecapacktools": {
+    "1.0.0": {
+      "sdist": [
+        "jk685zHawEd/I8XchPhTjIk93R1gH5WjNT1Xa9sQwkE=",
+        "mecapacktools-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "mecapacktools-1.0.0-py3-none-any.whl": [
+          "L0uT/gqN8sJCRYzRJO2fXZesq/d89z9Xf2LEScZlcjs=",
+          "py3"
+        ]
+      }
+    }
+  },
   "megacli": {
     "0.0.1": {
       "sdist": [
@@ -79428,6 +79490,18 @@
       "wheels": {
         "modelon_impact_client-3.0.0.dev31-py3-none-any.whl": [
           "dx2E8JtefMN7Sp4xiAKdGhmj/aVaYl4ZoqCyivdyL30=",
+          "py3"
+        ]
+      }
+    },
+    "3.0.0.dev32": {
+      "sdist": [
+        "vLn+SpK4plai5LTLmBnYkWlCscRt9NfofU/zSwl/AfU=",
+        "modelon_impact_client-3.0.0.dev32.tar.gz"
+      ],
+      "wheels": {
+        "modelon_impact_client-3.0.0.dev32-py3-none-any.whl": [
+          "YprgEk2sSfaAGtaBjy3WejX8sm7QQhScX6R6wV306ug=",
           "py3"
         ]
       }
@@ -93998,6 +94072,14 @@
       "wheels": {
         "odoo14_addon_jsonifier-14.0.1.1.0-py3-none-any.whl": [
           "60mXj3DIAGi0tSy3vi3Tzw52vT6269fsjkZoB517ZN0=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.1.1.1.dev1": {
+      "wheels": {
+        "odoo14_addon_jsonifier-14.0.1.1.1.dev1-py3-none-any.whl": [
+          "w8fQu9by4jTziN+WhoZufxtbKZXkg88Wmp20MRkdPWs=",
           "py3"
         ]
       }
@@ -147032,6 +147114,18 @@
       "wheels": {
         "tlgateway-0.2.10-py3-none-any.whl": [
           "kdcpo5q91HQZSGq1bnbK6BEPEdvHRyR8ezX3Kix4YEs=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.11": {
+      "sdist": [
+        "h90ufr44LZZ2IJfc3oKchwMIscm5vZao2wZjYXz8hSM=",
+        "tlgateway-0.2.11.tar.gz"
+      ],
+      "wheels": {
+        "tlgateway-0.2.11-py3-none-any.whl": [
+          "JMtVJpzY2vI3TERIxj4A+wuhGlboXLNkYdR3hpGFL74=",
           "py3"
         ]
       }

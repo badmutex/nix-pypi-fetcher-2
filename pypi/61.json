@@ -18614,6 +18614,18 @@
         ]
       }
     },
+    "1.29.122": {
+      "sdist": [
+        "MB39VBanHjUBXEQrV1ysu/17OJfc0zRrW4fMVOfJTHU=",
+        "botocore-a-la-carte-connectparticipant-1.29.122.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_connectparticipant-1.29.122-py3-none-any.whl": [
+          "AeCahJczkKwtn1L4M4bj2q/TaxbGvcsKyy0mRCEh3iU=",
+          "py3"
+        ]
+      }
+    },
     "1.29.42": {
       "sdist": [
         "c1ybFBVfLQcBihuLHV3W0sgEilQjEW4ULAIJXv9I5zk=",
@@ -19572,6 +19584,18 @@
       "wheels": {
         "botocore_a_la_carte_lakeformation-1.29.121-py3-none-any.whl": [
           "kvYOG5fw87Hfwg8cf0ysxluKh1HNJgh3O2VxalVIvzY=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.122": {
+      "sdist": [
+        "kyGBR8YMPp8gsm9oyAFYiQpoRcePanHcQwHLVunxg74=",
+        "botocore-a-la-carte-lakeformation-1.29.122.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_lakeformation-1.29.122-py3-none-any.whl": [
+          "8romwA8Hva7a1oHnLtZr6s297Kj7robRFEJYW8p08V4=",
           "py3"
         ]
       }
@@ -31034,6 +31058,18 @@
         ]
       }
     },
+    "0.19.2": {
+      "sdist": [
+        "tr5G1YBbOwp50dF5DgGZZ6ErUPJMPseiiLbRfsgrK+s=",
+        "dagster-census-0.19.2.tar.gz"
+      ],
+      "wheels": {
+        "dagster_census-0.19.2-py3-none-any.whl": [
+          "wkblLkd6XTgDqOM6dE2Pf4tf3yaeNwYCETQ5RbIuKiI=",
+          "py3"
+        ]
+      }
+    },
     "1.0.5": {
       "sdist": [
         "VJv9Kug0yQIykqjw2UqJ55zQ68Fz0FyHqF7HRwcKlFM=",
@@ -39927,6 +39963,18 @@
           "py3"
         ]
       }
+    },
+    "0.7.0": {
+      "sdist": [
+        "srV2hh+5haCvUNTTQ6x3U4solwapPB94UfOOEQLQPDs=",
+        "docmaptools-0.7.0.tar.gz"
+      ],
+      "wheels": {
+        "docmaptools-0.7.0-py3-none-any.whl": [
+          "MMbKRisL38oGDhR2r4FQzqpnCIK3fkIJc8TkmrjZCrI=",
+          "py3"
+        ]
+      }
     }
   },
   "doctestprinter": {
@@ -41608,6 +41656,30 @@
       "wheels": {
         "edl_mod-0.0.29-py2.py3-none-any.whl": [
           "VJ9FR8An6eM0lrBmZ9TCjP4p1AYmutModJTbnGY0Obo=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.30": {
+      "sdist": [
+        "b43BLOekleESMfwv/CIFQUxUQ9CKvQNPRMmFJa9w6dI=",
+        "edl-mod-0.0.30.tar.gz"
+      ],
+      "wheels": {
+        "edl_mod-0.0.30-py2.py3-none-any.whl": [
+          "5NgrzZYzZDJW9pRE4lnsv2TSPHd2/oAyX7OqfNnbX+k=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.31": {
+      "sdist": [
+        "7Pvkd1DKHrEtcpQ4PklT6HVFWatWeLhOOz6QZh0azb0=",
+        "edl-mod-0.0.31.tar.gz"
+      ],
+      "wheels": {
+        "edl_mod-0.0.31-py2.py3-none-any.whl": [
+          "kDDvnbyrFywTmGV5L29fQnguXUuKxmh5FUQ3a2Ht/Jg=",
           "py2.py3"
         ]
       }
@@ -69106,6 +69178,20 @@
       "wheels": {
         "lazhu_mofa_chuxue_zhinan-2022.10.3.0-py3-none-any.whl": [
           "tTUrrTGaU6esFf97E74ZAOQvopynXwQaeCBKsUoz7z8=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "lazytensor": {
+    "0.1.0a2": {
+      "sdist": [
+        "j3X63CSha8YEaS4TIQovWEVuxL2BS9No8Lmonnn44SU=",
+        "lazytensor-0.1.0a2.tar.gz"
+      ],
+      "wheels": {
+        "lazytensor-0.1.0a2-py3-none-any.whl": [
+          "QDmR96OZedxVAykCv0W74+ud8OUtQdM8bUOgzlZlXwA=",
           "py3"
         ]
       }
@@ -137647,6 +137733,14 @@
           "py3"
         ]
       }
+    }
+  },
+  "sonde2kml": {
+    "0.0.7": {
+      "sdist": [
+        "A/v589fN2smQng620sgo68csen1beAVcYYDA3CALqLg=",
+        "sonde2kml-0.0.7.tar.gz"
+      ]
     }
   },
   "sorted-list": {

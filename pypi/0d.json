@@ -33257,6 +33257,62 @@
           "py2.py3"
         ]
       }
+    },
+    "2.5.6": {
+      "wheels": {
+        "core_universal-2.5.6-py2.py3-none-macosx_10_7_x86_64.whl": [
+          "5FWNFfdN9yrs+ywUiM6F9DdeNA2lgwdkncm2uJhqimI=",
+          "py2.py3"
+        ],
+        "core_universal-2.5.6-py2.py3-none-macosx_11_0_arm64.whl": [
+          "QD0VrgmNmpmeLUvP/tpahfJtxriF01813gnEjIKL9cA=",
+          "py2.py3"
+        ],
+        "core_universal-2.5.6-py2.py3-none-manylinux1_x86_64.whl": [
+          "kOBshiq/W0VMQ/GXK5jzHNc/vU0CQKV8lMeejS4qk2Y=",
+          "py2.py3"
+        ],
+        "core_universal-2.5.6-py2.py3-none-manylinux2014_aarch64.whl": [
+          "/65cfcbAaUFLKTPiaUuf0CEWSn6rP9svzq05BgreAac=",
+          "py2.py3"
+        ],
+        "core_universal-2.5.6-py2.py3-none-musllinux_1_2_x86_64.whl": [
+          "vjP8dSyUrV3mmtNH3+jZ6TcTMMgavXMKTK/upKESeK8=",
+          "py2.py3"
+        ],
+        "core_universal-2.5.6-py2.py3-none-win_amd64.whl": [
+          "XoMnijD95CmvlvjN7PZ0KgPEdsXF6J9KuF2F7YoGC7U=",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.5.7": {
+      "wheels": {
+        "core_universal-2.5.7-py2.py3-none-macosx_10_7_x86_64.whl": [
+          "DOVpgqGTnH33tdvVXgZMS8KYqU9rp9X05BFAKlFj5t8=",
+          "py2.py3"
+        ],
+        "core_universal-2.5.7-py2.py3-none-macosx_11_0_arm64.whl": [
+          "swm4DuDvhKeE+b3pcjpfpq1mIWPphO635upHdwLCM8c=",
+          "py2.py3"
+        ],
+        "core_universal-2.5.7-py2.py3-none-manylinux1_x86_64.whl": [
+          "vfOReiaW4soglzVBHMDwXi5G/FDwUJeLfF7x7ZGGlcA=",
+          "py2.py3"
+        ],
+        "core_universal-2.5.7-py2.py3-none-manylinux2014_aarch64.whl": [
+          "hzaKQGTds/hCEuYGRYWyIe+GXpy/u3nzmN5GOfkvAzg=",
+          "py2.py3"
+        ],
+        "core_universal-2.5.7-py2.py3-none-musllinux_1_2_x86_64.whl": [
+          "F/JnUKHVJlWanr1EO5vi5wGlsE1nL3RRhUptbXls+qA=",
+          "py2.py3"
+        ],
+        "core_universal-2.5.7-py2.py3-none-win_amd64.whl": [
+          "pFKcqx9xZWf6v7bJc3BZLeJX5S7CsLt3/GiILWZS2Cw=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "coreindicators": {
@@ -35184,6 +35240,18 @@
       "wheels": {
         "csvthd-0.4.0b0-py3-none-any.whl": [
           "QzGnqUQu0w0dqnM7vGSExuGDK9l98BCOupzXE4p8usI=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.0b0": {
+      "sdist": [
+        "80y0Vd+me31Sq6W7W99wiO+ns/NsT0IhsDmlloOBC1Y=",
+        "csvthd-0.5.0b0.tar.gz"
+      ],
+      "wheels": {
+        "csvthd-0.5.0b0-py3-none-any.whl": [
+          "cgd0dpfKqoX7ln8DkIcL75TKxyrrZidXao3Y+YgEEGc=",
           "py3"
         ]
       }

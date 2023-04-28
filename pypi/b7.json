@@ -31577,6 +31577,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.1a8": {
+      "sdist": [
+        "ZMEjSPeCN1GUMt/Ll862zuqVUiaQFo04+X8PcDrK5iw=",
+        "datajunction-0.0.1a8.tar.gz"
+      ],
+      "wheels": {
+        "datajunction-0.0.1a8-py3-none-any.whl": [
+          "MyepdHocQPF2aC8iVkPHm+SPWOuR+5oyCumGsOOqw7Y=",
+          "py3"
+        ]
+      }
     }
   },
   "dataprovider": {
@@ -73145,6 +73157,24 @@
         "R2Ze/PRVFnbc9FpI8qC7CT1T8BkGJ9b5pr9tUa2pfv8=",
         "iniUts-1.0.3.tar.gz"
       ]
+    },
+    "1.0.4": {
+      "sdist": [
+        "XpodKuZysj+AoN0mvPFco4crYD8dTKypv0i0dUD3kjY=",
+        "iniUts-1.0.4.tar.gz"
+      ]
+    },
+    "1.0.5": {
+      "sdist": [
+        "HgxHODKTE2GtCe4c3CufB4mYFvp8qQgAKQaSOh9qrC0=",
+        "iniUts-1.0.5.tar.gz"
+      ]
+    },
+    "1.0.6": {
+      "sdist": [
+        "d1NJzybiH48UQkTPeDm8O4MVItExqgXnHw90QbWIpEQ=",
+        "iniUts-1.0.6.tar.gz"
+      ]
     }
   },
   "ink": {
@@ -87954,6 +87984,12 @@
       "sdist": [
         "oeQieF0WB6YUkkohZnGiYxhwkeW/MdSgOT/AqMhpXBE=",
         "mercury-2.2.8.tar.gz"
+      ]
+    },
+    "2.2.9": {
+      "sdist": [
+        "RvKlsS7LEhN2DzzDOxSVDerQ8Mdcb3F6RGF1Q1g1oZI=",
+        "mercury-2.2.9.tar.gz"
       ]
     }
   },
@@ -103740,6 +103776,18 @@
       "wheels": {
         "openscm_units-0.5.0-py2.py3-none-any.whl": [
           "IG+d8V1hKi2UQj9xkGXP4QdwRAar1YYqs4wOdEN4j70=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.5.1": {
+      "sdist": [
+        "3Gk8MsrhIwCMrK6gRmoaO3oTA1pnse4IRQqYqA7weuw=",
+        "openscm-units-0.5.1.tar.gz"
+      ],
+      "wheels": {
+        "openscm_units-0.5.1-py2.py3-none-any.whl": [
+          "t8qbnqThxHpK4bYwwWjvGz3WK27VLI20BcnrSZhuJ9A=",
           "py2.py3"
         ]
       }
@@ -122260,226 +122308,226 @@
     }
   },
   "pyscal2": {
-    "2.10.18": {
+    "2.10.19": {
       "sdist": [
-        "BXf4OyajdkZVq7IzrS9KDCJWURI4UpUFK7s5c9V5bXA=",
-        "pyscal2-2.10.18.tar.gz"
+        "O6X58U6w8lk68bpWxgj0gnHc5/kY4DX0wBigCHkeWNo=",
+        "pyscal2-2.10.19.tar.gz"
       ],
       "wheels": {
-        "pyscal2-2.10.18-cp310-cp310-macosx_10_9_x86_64.whl": [
-          "ls6JR5ldX+P/Mw1VBgWFy4g8FdxFQNfjieEzFeuh58g=",
+        "pyscal2-2.10.19-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "HVP143GstgHmnBTV7LJ7gIbbDeIn/dy+Qkt21fy+WXs=",
           "cp310"
         ],
-        "pyscal2-2.10.18-cp310-cp310-manylinux_2_17_i686.manylinux2014_i686.whl": [
-          "yKhD1V0TWNUpricCl/H5q4nnHY+ZcRqjmKBtJIDJfwA=",
+        "pyscal2-2.10.19-cp310-cp310-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "qsbszfnvpaU0vgLp6e7Uylg8/8fNEB6VHd1bWHedDZI=",
           "cp310"
         ],
-        "pyscal2-2.10.18-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "9vbDIJceuEqJ9eR5udSxMuh0MWvpLE7TTbWeZnFkZQM=",
+        "pyscal2-2.10.19-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "KqYdw9heAObgHfM8F2QME9vYNxkV/bGMk3eY+R0j6N0=",
           "cp310"
         ],
-        "pyscal2-2.10.18-cp310-cp310-musllinux_1_1_i686.whl": [
-          "tRgcyjm7iT2SWSQtqeHe4dYI6wR+3rw66GUTxCAaMBQ=",
+        "pyscal2-2.10.19-cp310-cp310-musllinux_1_1_i686.whl": [
+          "jVOMKq5qte0Th+7FvpjfOSBKpshCdOd+Z0ZFBt3mTR4=",
           "cp310"
         ],
-        "pyscal2-2.10.18-cp310-cp310-musllinux_1_1_x86_64.whl": [
-          "R38CGj14GAQqPBsvsT6HHIlXWqVzxhfqCbH9xMp9Hak=",
+        "pyscal2-2.10.19-cp310-cp310-musllinux_1_1_x86_64.whl": [
+          "x97ir5ZMJuTh4w9EAkCFGpo/K17nj3SG5OTs/R5WWfI=",
           "cp310"
         ],
-        "pyscal2-2.10.18-cp310-cp310-win32.whl": [
-          "5nalWhLGCz3YbpUI9K7Q7PYZSiGReL/nW6vpsxN9QHs=",
+        "pyscal2-2.10.19-cp310-cp310-win32.whl": [
+          "frk/ukjGWVufUMP4t3pqKgC72d9NIQtikC67QBHU+gE=",
           "cp310"
         ],
-        "pyscal2-2.10.18-cp310-cp310-win_amd64.whl": [
-          "e5o+gcKFJIA9FwyCWOo5d7GV5ebbbZ11vud7eBdme9g=",
+        "pyscal2-2.10.19-cp310-cp310-win_amd64.whl": [
+          "NnFm9jKTo6PjJRFwWKAi9vfTooL8kHa/PaVciCpXG6w=",
           "cp310"
         ],
-        "pyscal2-2.10.18-cp311-cp311-macosx_10_9_x86_64.whl": [
-          "nwP0JFExMyizbcpSsRW7N7WUGhjR0SntOtPITmeWV8I=",
+        "pyscal2-2.10.19-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "yuVGfoF9ud2b2z7HPSAnkqxriQHkTSl9mF4s509c4QI=",
           "cp311"
         ],
-        "pyscal2-2.10.18-cp311-cp311-manylinux_2_17_i686.manylinux2014_i686.whl": [
-          "x31LA2Y8g4Si5GExZ8jSkPWL8OF1EE33vIHgAZd2aEA=",
+        "pyscal2-2.10.19-cp311-cp311-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "YX3ayow9BR3eB2ftzFWgeVzFJF/61n+iHTS4OG59J2c=",
           "cp311"
         ],
-        "pyscal2-2.10.18-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "BKonb5uRiuj8XxLy/b45aFeDuwKQJ5nXtgv0sTnBZM4=",
+        "pyscal2-2.10.19-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Kh8GPB+uU9xA0Q8aHFFMFQyzgC1ykOao6NuExR9dvTA=",
           "cp311"
         ],
-        "pyscal2-2.10.18-cp311-cp311-musllinux_1_1_i686.whl": [
-          "/xIsMMTW8lLbt2KoT15q61i3dBpjGqvPemb3JWc9DZg=",
+        "pyscal2-2.10.19-cp311-cp311-musllinux_1_1_i686.whl": [
+          "1RojLHdKpjbXIiYrgPmU3MtaJulcLBQanOMBw3lUXYU=",
           "cp311"
         ],
-        "pyscal2-2.10.18-cp311-cp311-musllinux_1_1_x86_64.whl": [
-          "ShiwnhBjNQ4lz8hTNxv5o1aU+97lFh2VQPtaYzacG4k=",
+        "pyscal2-2.10.19-cp311-cp311-musllinux_1_1_x86_64.whl": [
+          "hBIkj97c6WL3jmtZaX9RbQx9CuQ7t7nDzUq5vPDcfOw=",
           "cp311"
         ],
-        "pyscal2-2.10.18-cp311-cp311-win32.whl": [
-          "j63t5HUFVvEPr9WhoLZ0JU2Nz4UfjZEqHRT/b9rdm20=",
+        "pyscal2-2.10.19-cp311-cp311-win32.whl": [
+          "Dn1EOewzeN59xxxDZ9B7xJBt+TYwqlJSSqUYVgI2CGE=",
           "cp311"
         ],
-        "pyscal2-2.10.18-cp311-cp311-win_amd64.whl": [
-          "7DeYQx9mQlcaFyNeGRKYVDyeI2zqMYJnG/Ei6ScGvBo=",
+        "pyscal2-2.10.19-cp311-cp311-win_amd64.whl": [
+          "cXWAMILvUfsd6IBemN3OXm9RfeJt2Ql2Z+1tjSMfN2Y=",
           "cp311"
         ],
-        "pyscal2-2.10.18-cp36-cp36m-macosx_10_9_x86_64.whl": [
-          "I8OhmaXS4+SyON0rk0t+uSLPlMMd0OQQkyoduFoGKwU=",
+        "pyscal2-2.10.19-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "s8odtzD0m+jLqwCfxPdy+SrRMDqWv3oRyjQjpR/kEho=",
           "cp36"
         ],
-        "pyscal2-2.10.18-cp36-cp36m-manylinux_2_17_i686.manylinux2014_i686.whl": [
-          "UZ3KK5NkYSVBaK6CookmWdU9lqu1ilSpwU7kasOvEyU=",
+        "pyscal2-2.10.19-cp36-cp36m-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "cc7WR2wKWtOG42u6vM6TnDiXsiVN/JEjnM7OvodUbdE=",
           "cp36"
         ],
-        "pyscal2-2.10.18-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "o6CNmnPzlevj3irH3G+yCM4WCpAVAxtxwE4p4fihEV0=",
+        "pyscal2-2.10.19-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Tr+PBINzv1jdwu5ZjdC9fcn1Ay/ExEJp75kMs9B8zYE=",
           "cp36"
         ],
-        "pyscal2-2.10.18-cp36-cp36m-musllinux_1_1_i686.whl": [
-          "aiN0TORY3vAu5CemluECJpj+3YNrzwFwX4t6+bhJ6Yo=",
+        "pyscal2-2.10.19-cp36-cp36m-musllinux_1_1_i686.whl": [
+          "07Ln/+Jok0ATCcAwHaiyWaJGr5aIndIPQA5P6pUrA0A=",
           "cp36"
         ],
-        "pyscal2-2.10.18-cp36-cp36m-musllinux_1_1_x86_64.whl": [
-          "TLq/otgkys/jjzZ8dwh+6kWA0igJJ2cx55DTM+IfOD0=",
+        "pyscal2-2.10.19-cp36-cp36m-musllinux_1_1_x86_64.whl": [
+          "iJ7qUKvnRVBw5ZsE5CtTnfHFLiE8MWKja8gOr7ugqFQ=",
           "cp36"
         ],
-        "pyscal2-2.10.18-cp36-cp36m-win32.whl": [
-          "0Vp5QgtvupbRnQLjIfLPj3NvGxiSz/cjrFN/fqLxu4Y=",
+        "pyscal2-2.10.19-cp36-cp36m-win32.whl": [
+          "Y2qfBLtycBTNK2mdHynsojkS2HAMndVkuq+tNGLg/UI=",
           "cp36"
         ],
-        "pyscal2-2.10.18-cp36-cp36m-win_amd64.whl": [
-          "B/94rAtbxCgKoNgvcVhYXol0vp3BP/25Tqik8CYkdL0=",
+        "pyscal2-2.10.19-cp36-cp36m-win_amd64.whl": [
+          "DDYlCSV5tBhEJr/R8x3O6qdTkXX+RWAtgJ6HA+we20Y=",
           "cp36"
         ],
-        "pyscal2-2.10.18-cp37-cp37m-macosx_10_9_x86_64.whl": [
-          "H2MI44SSizlBRlUU26bCKJQW5eyGJoQlf6wRGB8OhrU=",
+        "pyscal2-2.10.19-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "B+ShPOZdKbCNqaKMZJRGa06CioMNuvs7irogW5yUmZs=",
           "cp37"
         ],
-        "pyscal2-2.10.18-cp37-cp37m-manylinux_2_17_i686.manylinux2014_i686.whl": [
-          "M/CMV15CwuVHOIq4jOayov/QVqe46Fg7+4fWkzXzSwo=",
+        "pyscal2-2.10.19-cp37-cp37m-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "SwKvF1gMyCgIaCjXIlF6h0HoEgS+hePly080bA+4JWE=",
           "cp37"
         ],
-        "pyscal2-2.10.18-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "OjfmbMh64e2KC100RIcPKVoi2w52Ls24+yKQMnXQsLc=",
+        "pyscal2-2.10.19-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "NaH/Y568yQ1FfwfnrsTDV5tuJ1iXbrUSIgnNx8Dc1Ak=",
           "cp37"
         ],
-        "pyscal2-2.10.18-cp37-cp37m-musllinux_1_1_i686.whl": [
-          "Kha5ZsfXeACBeoYGl22oDqD9iVfzqcAIrlRjbRcBGz4=",
+        "pyscal2-2.10.19-cp37-cp37m-musllinux_1_1_i686.whl": [
+          "2UOZeVwg4Kh8Gn6Ik8F+/X12dv9LXWAC5GuCotsexGs=",
           "cp37"
         ],
-        "pyscal2-2.10.18-cp37-cp37m-musllinux_1_1_x86_64.whl": [
-          "AH3Mec3a9Lf9J9OYp800KOraBSDZCcEjxEB+noNsm2Q=",
+        "pyscal2-2.10.19-cp37-cp37m-musllinux_1_1_x86_64.whl": [
+          "xwVsnuXrjsPnA6YC2YI8oSGvc4x0zoMSlMFavUCmejo=",
           "cp37"
         ],
-        "pyscal2-2.10.18-cp37-cp37m-win32.whl": [
-          "fqOfgj8LzBuMrZdd7SYYObCLdHB35FP+mQJ/1epE6ws=",
+        "pyscal2-2.10.19-cp37-cp37m-win32.whl": [
+          "nncWqhSO4vHNB9+B5RJT4VXTYvERTgwLqB6cbY8yoUA=",
           "cp37"
         ],
-        "pyscal2-2.10.18-cp37-cp37m-win_amd64.whl": [
-          "CqrTT3sS8zCnb1vVz4uBK8IwW2ucphZ98tOadc4qhpM=",
+        "pyscal2-2.10.19-cp37-cp37m-win_amd64.whl": [
+          "A+02vNxPYYsypYxRdc5T58O/tDRiUTRSYtyFcoPygwM=",
           "cp37"
         ],
-        "pyscal2-2.10.18-cp38-cp38-macosx_10_9_x86_64.whl": [
-          "60D4X56Af2QnH/bmyQ09XUITyZog+fh8oBb17ns2UJw=",
+        "pyscal2-2.10.19-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "FKoTS1XQzWIDvAnI1JCjyPLRZb2vK1FgivqMGB/dzNA=",
           "cp38"
         ],
-        "pyscal2-2.10.18-cp38-cp38-manylinux_2_17_i686.manylinux2014_i686.whl": [
-          "9ankYKVwofM8+Zyx/pU0A8t1KJtqoYERqEg8CU+Dr6k=",
+        "pyscal2-2.10.19-cp38-cp38-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "nAsHnBo7dvloAuj30luzVtqbNB+Sw7ex5HoeO7oXNFw=",
           "cp38"
         ],
-        "pyscal2-2.10.18-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "pNF1dWKtGj/FhpeSQ+lbYv+xK9XKnu2/Xn9Yw+P2Lvo=",
+        "pyscal2-2.10.19-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "4/VRNuQH/pHyCtTeCqcFzkYTFTf96sOB61JQ1hQGtbE=",
           "cp38"
         ],
-        "pyscal2-2.10.18-cp38-cp38-musllinux_1_1_i686.whl": [
-          "A+UfEZoLiQXBL7nE9bPi2485jGiIOkMs/mmK83+uv38=",
+        "pyscal2-2.10.19-cp38-cp38-musllinux_1_1_i686.whl": [
+          "x0bZl2rGcCR4wyyFg/4aXfoM0SQvfu4lcChSJ58tWmE=",
           "cp38"
         ],
-        "pyscal2-2.10.18-cp38-cp38-musllinux_1_1_x86_64.whl": [
-          "BWHtBF3wdPxoDAJbQ8SLKyZnlcNZCYQfvZHU9UOJp5s=",
+        "pyscal2-2.10.19-cp38-cp38-musllinux_1_1_x86_64.whl": [
+          "nev9aVeY55UnTxiVQmPkfSBB8DQvqvsiaAc22JkT8v8=",
           "cp38"
         ],
-        "pyscal2-2.10.18-cp38-cp38-win32.whl": [
-          "EGCKtgdqXeURrH+zIJP0GTnZbBl/d2U/7C2TLwRolHc=",
+        "pyscal2-2.10.19-cp38-cp38-win32.whl": [
+          "XCLuFAN+zm3RAYDfEsROlwm7EC4CV4Oa2EIn5Y4G2RM=",
           "cp38"
         ],
-        "pyscal2-2.10.18-cp38-cp38-win_amd64.whl": [
-          "tqGqcxpvW3IJRVIcjEiMfm7yApjRpQGEfHrvwoQZcWE=",
+        "pyscal2-2.10.19-cp38-cp38-win_amd64.whl": [
+          "3W9zzFdrgwoDPq7+UcOV5fpHlYmetR6+nj9t8Np9imA=",
           "cp38"
         ],
-        "pyscal2-2.10.18-cp39-cp39-macosx_10_9_x86_64.whl": [
-          "qVOWw/EKOKFsuOhU//LPE25IF5zsbfDbcaF1y58bFSM=",
+        "pyscal2-2.10.19-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "nEHiC09AFoP/s2WQ1RC88FW5ib13NlfKULrJLARE7lU=",
           "cp39"
         ],
-        "pyscal2-2.10.18-cp39-cp39-manylinux_2_17_i686.manylinux2014_i686.whl": [
-          "imPApRvmsHJyHjcBZfnw1YHkQ3lhc4kqUQLDNbaOrBs=",
+        "pyscal2-2.10.19-cp39-cp39-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "9sL+pQ38VnNf60BJkjcNksJdGid6r5ucGstGB31LoMk=",
           "cp39"
         ],
-        "pyscal2-2.10.18-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "AV73kW6VT4fM7mPjoKsQySFf6VdIO1b3um+BeaDljXs=",
+        "pyscal2-2.10.19-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "hHC/03mTAabt53AwJieL7qZb1H2dAkew/eSoJoFbEGw=",
           "cp39"
         ],
-        "pyscal2-2.10.18-cp39-cp39-musllinux_1_1_i686.whl": [
-          "dAoGgQDuc0rItXhxt3EfyDLMHrHlT8w4bvbW+WagvR8=",
+        "pyscal2-2.10.19-cp39-cp39-musllinux_1_1_i686.whl": [
+          "Z7ELAaorovxb1z3YlsvV8OsIG+Kx5ZPxTE6/Ad+eNnc=",
           "cp39"
         ],
-        "pyscal2-2.10.18-cp39-cp39-musllinux_1_1_x86_64.whl": [
-          "TBgmGnuXpnWk0XUFTveVzpmwJLseO2GpRejNywuUrPc=",
+        "pyscal2-2.10.19-cp39-cp39-musllinux_1_1_x86_64.whl": [
+          "5wv7Qnqgz/JpUk41oB5NN0MHnVB26kONiOmERZ4Rq20=",
           "cp39"
         ],
-        "pyscal2-2.10.18-cp39-cp39-win32.whl": [
-          "Hv5MtavZdHIxkWJ8WsKBYQS6dYBM4C6fnGj+D6ImRdA=",
+        "pyscal2-2.10.19-cp39-cp39-win32.whl": [
+          "it8c2I3hoyIwridfY1ezKcAL5s0yUe2wbu7Qo4unhH4=",
           "cp39"
         ],
-        "pyscal2-2.10.18-cp39-cp39-win_amd64.whl": [
-          "cKoN8lMNQ92ZRM/HWwSP3rBbzUnkA1OSBzh5cipNssE=",
+        "pyscal2-2.10.19-cp39-cp39-win_amd64.whl": [
+          "2Yca7AcJxumqyS9/JA6Vx5rACD1KbYr+sYx1WCRYHlY=",
           "cp39"
         ],
-        "pyscal2-2.10.18-pp37-pypy37_pp73-macosx_10_9_x86_64.whl": [
-          "T4SKVcwTIJr/oqbRCqGpaHZyVN3tYzvxxFBMd/dTvy0=",
+        "pyscal2-2.10.19-pp37-pypy37_pp73-macosx_10_9_x86_64.whl": [
+          "2EWgVbGpo31mmcOkBrRQTQz0GAMvdeHO8DRDmQii9C4=",
           "pp37"
         ],
-        "pyscal2-2.10.18-pp37-pypy37_pp73-manylinux_2_17_i686.manylinux2014_i686.whl": [
-          "4i26zKCpL7i4XY5aexImbTaAYOGfna+yMpkA7PZHOWs=",
+        "pyscal2-2.10.19-pp37-pypy37_pp73-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "NvRLiaBADvO9mzfM4JrZhF56ZWxf6TJHLCjptnF3tgc=",
           "pp37"
         ],
-        "pyscal2-2.10.18-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "C8HbcPpAw5ekHznujArq1Sqh8O8JAs3G0RZj2EGFr0Y=",
+        "pyscal2-2.10.19-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "m5a9lE33ZBEgdS9RlCdhd6zYW5Y6LE6tVrpw7np9CsY=",
           "pp37"
         ],
-        "pyscal2-2.10.18-pp37-pypy37_pp73-win_amd64.whl": [
-          "RY9yVJfcotXp3ek0+enK/U3dLLWf6blJbOvowLz1Ev8=",
+        "pyscal2-2.10.19-pp37-pypy37_pp73-win_amd64.whl": [
+          "vFP9MyvKznMGk3w8sIxt3lXn5k8HcAL7qYttALEzwFA=",
           "pp37"
         ],
-        "pyscal2-2.10.18-pp38-pypy38_pp73-macosx_10_9_x86_64.whl": [
-          "8RO/x1WW+ylTbwYMPGjbCUNNEm+2/MpssSDlQumENAo=",
+        "pyscal2-2.10.19-pp38-pypy38_pp73-macosx_10_9_x86_64.whl": [
+          "gBhvyvh4VRUKANjxWiQ4TpNPRLmyv1Q5aYF12zIGI8g=",
           "pp38"
         ],
-        "pyscal2-2.10.18-pp38-pypy38_pp73-manylinux_2_17_i686.manylinux2014_i686.whl": [
-          "HMcXeZsFN1mq+iluDhI6l7B58S3ZdwNjXKJaNBzFuV0=",
+        "pyscal2-2.10.19-pp38-pypy38_pp73-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "+exqLUb4D6IEOYzC3eL3Vwa+NLbuye2BNJCY4Js+q0w=",
           "pp38"
         ],
-        "pyscal2-2.10.18-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "Hj2+6gcaiLVArl61mla56XOEYXFWbrle3rJjQ8H1FEE=",
+        "pyscal2-2.10.19-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "to3B1MJdyO6lSL7atJeStwS2lrhD8gipOSF6JKy87Vg=",
           "pp38"
         ],
-        "pyscal2-2.10.18-pp38-pypy38_pp73-win_amd64.whl": [
-          "BN9oaEWmPWTzwL3rKiXlbNGEBlAPq7gRpmbMpwVBCmo=",
+        "pyscal2-2.10.19-pp38-pypy38_pp73-win_amd64.whl": [
+          "3FCF2VgSFo+JBC8A+YwRE2vjU6T/s5ER7Gb8aWwUbKY=",
           "pp38"
         ],
-        "pyscal2-2.10.18-pp39-pypy39_pp73-macosx_10_9_x86_64.whl": [
-          "DBon+puxmqzWhfL1R5WnQF6CMbaMBRmMQIsX8PBRXAI=",
+        "pyscal2-2.10.19-pp39-pypy39_pp73-macosx_10_9_x86_64.whl": [
+          "JykQYiWSU4spcgHteo6qIK5Toy5p8wBUJtmPloM8vSc=",
           "pp39"
         ],
-        "pyscal2-2.10.18-pp39-pypy39_pp73-manylinux_2_17_i686.manylinux2014_i686.whl": [
-          "IAETVAZJON0eGiUCMaPIf5OHrqXNF1/i0Jnpo1+Zyq0=",
+        "pyscal2-2.10.19-pp39-pypy39_pp73-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "iB92w2w/boeF8j9+MglatQYoAeEqHeIULcF7Bb06oeQ=",
           "pp39"
         ],
-        "pyscal2-2.10.18-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "WkShseZ7PMEv6RdxnonlaYRkgn10R4/99rxgn3rA4LI=",
+        "pyscal2-2.10.19-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "+dq+Hlv49TAnY8lhhnasomL6dOnnlu59XZJoTxGUY7c=",
           "pp39"
         ],
-        "pyscal2-2.10.18-pp39-pypy39_pp73-win_amd64.whl": [
-          "XrWHPY39tKMtexcH4/Hv7N6s/po7XykdMNOqa9j7Jbk=",
+        "pyscal2-2.10.19-pp39-pypy39_pp73-win_amd64.whl": [
+          "EhBuf2FWxvqMG7x9+Z5KZwP65gBglxfDRW8PCl4qNLY=",
           "pp39"
         ]
       }
@@ -157366,6 +157414,18 @@
       "wheels": {
         "weaverbird-0.3.4-py3-none-any.whl": [
           "Ilm1Oj2L+42n2jdFu3C/sjQbiELR+omgm4BdVWgxMvo=",
+          "py3"
+        ]
+      }
+    },
+    "0.30.0": {
+      "sdist": [
+        "TEMsxFxge7EvmoAMyvrAvMHNVjLaS9NbB3yfpjn6d4k=",
+        "weaverbird-0.30.0.tar.gz"
+      ],
+      "wheels": {
+        "weaverbird-0.30.0-py3-none-any.whl": [
+          "g82+TZrjYXZkqY0oG8Qv/YC1+TarMhgnrAZ/jAynjr0=",
           "py3"
         ]
       }

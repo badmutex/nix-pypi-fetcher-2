@@ -15901,6 +15901,18 @@
           "py3"
         ]
       }
+    },
+    "2.4.0b20230428": {
+      "wheels": {
+        "bigdl_friesian_spark3-2.4.0b20230428-py3-none-macosx_10_11_x86_64.whl": [
+          "43R7yZHFok+7JjhnFIzL6TQu7LXW30J8mEnYsSq+Ef0=",
+          "py3"
+        ],
+        "bigdl_friesian_spark3-2.4.0b20230428-py3-none-manylinux1_x86_64.whl": [
+          "XqApZ4WUExEObIc6kaKkjfaW3pWI8hv4XoujfQbN39M=",
+          "py3"
+        ]
+      }
     }
   },
   "binsinfo": {
@@ -53005,6 +53017,18 @@
           "py3"
         ]
       }
+    },
+    "1.2044.0": {
+      "sdist": [
+        "NacSMLTCtCTAlCFb+/+wbS9conhZ+WC0iU3erVeWVWY=",
+        "gardener-cicd-libs-1.2044.0.tar.gz"
+      ],
+      "wheels": {
+        "gardener_cicd_libs-1.2044.0-py3-none-any.whl": [
+          "UardUiZHgw9UcXpVHBaufUqwgwUDkA0Hp+OTAh0ADWs=",
+          "py3"
+        ]
+      }
     }
   },
   "gcp-secret-manager-wrapper": {
@@ -64831,6 +64855,18 @@
           "py3"
         ]
       }
+    },
+    "3.0.2": {
+      "sdist": [
+        "4QbHuqn+huGJ567lgYM3yLrukcWzv7HSsz/c8w174s4=",
+        "invocations-3.0.2.tar.gz"
+      ],
+      "wheels": {
+        "invocations-3.0.2-py3-none-any.whl": [
+          "73rwkibrgQBvFMjqqy/3UwX/umn4c6XElo5fW6u5ANs=",
+          "py3"
+        ]
+      }
     }
   },
   "iomete-sdk": {
@@ -75865,6 +75901,38 @@
         "lvpyio-1.3.0-cp310-cp310-win_amd64.whl": [
           "3DUYeh38f9rCVG2FG+V+idhyE1wGGffOBdM1ptQUCNA=",
           "cp310"
+        ],
+        "lvpyio-1.3.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "jrOM703VuZtMX1aFmPKyNSO0b2z6uG7O7P588oG/fV4=",
+          "cp311"
+        ],
+        "lvpyio-1.3.0-cp311-cp311-win_amd64.whl": [
+          "pmPudUAZ9onS1KT/jLwUVwZguRMKB91AxN5oZze0/WE=",
+          "cp311"
+        ],
+        "lvpyio-1.3.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "cah1b95IpDG4xCEDFM2LYxK1NN7hQ+1kVxCCo8fh3Qc=",
+          "cp37"
+        ],
+        "lvpyio-1.3.0-cp37-cp37m-win_amd64.whl": [
+          "2qGKcZCTheTiB8hAgsGZj4L0QsCb4AAH0oKfw+M4+kU=",
+          "cp37"
+        ],
+        "lvpyio-1.3.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "bGrfk4zJ3LAB9OUSNEotFaTpK3fRPuWH1ZjWmZU6CgU=",
+          "cp38"
+        ],
+        "lvpyio-1.3.0-cp38-cp38-win_amd64.whl": [
+          "oSZOjmrusIEaHQZKQyfxZrZcyZOduFOErT33oGXUH08=",
+          "cp38"
+        ],
+        "lvpyio-1.3.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "cUr4eDiUjvJytrRXHhbwiRDHy3hXkUgD9AD0RJIcQlk=",
+          "cp39"
+        ],
+        "lvpyio-1.3.0-cp39-cp39-win_amd64.whl": [
+          "+7yFz6T7ZtGfEjifdXStNHUyz78vnx48iNSVbkk8WVU=",
+          "cp39"
         ]
       }
     }
@@ -101049,6 +101117,12 @@
           "py3"
         ]
       }
+    },
+    "1.8.3": {
+      "sdist": [
+        "e6r+RKu59OghaUfcx6f5qNZflvfNAAFHvzJ+iJ9jSWY=",
+        "optimum-1.8.3.tar.gz"
+      ]
     }
   },
   "optio": {
@@ -132810,6 +132884,36 @@
       "sdist": [
         "IR73rm3fGSqQeRk4fiLeLhaN7CC3Cz+xDT4n7JwQf1o=",
         "returnn-1.20230427.101742.tar.gz"
+      ]
+    },
+    "1.20230428.104458": {
+      "sdist": [
+        "YcZRcHgn9zv0g9FA4kfbR8sgOb1k3mpAE1vUdTam62A=",
+        "returnn-1.20230428.104458.tar.gz"
+      ]
+    },
+    "1.20230428.113217": {
+      "sdist": [
+        "a6ZKPilwOXylih9VyykAFEbBc9vjh8+6xcabtJUhO8w=",
+        "returnn-1.20230428.113217.tar.gz"
+      ]
+    },
+    "1.20230428.121803": {
+      "sdist": [
+        "JLsFuLgmfLpsiJC3yLYtPsjl2yohQWybPisP/MW/vYY=",
+        "returnn-1.20230428.121803.tar.gz"
+      ]
+    },
+    "1.20230428.123018": {
+      "sdist": [
+        "GxHiD/O2S7DUASAoY58OS1LejgjhK2EIjJQ4ARv2DdY=",
+        "returnn-1.20230428.123018.tar.gz"
+      ]
+    },
+    "1.20230428.134452": {
+      "sdist": [
+        "w9fkRNgUX7GA19W74zfq13HwRXwY8t5djq5m/hUeLcM=",
+        "returnn-1.20230428.134452.tar.gz"
       ]
     }
   },

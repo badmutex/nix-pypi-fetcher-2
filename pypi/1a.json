@@ -6294,6 +6294,30 @@
         ]
       }
     },
+    "2.1.62": {
+      "wheels": {
+        "anki-2.1.62-cp39-abi3-macosx_10_13_x86_64.whl": [
+          "k6XAb0yLau0t6gmBNcufqHshbE8aLVCKP/iXik8IYtY=",
+          "cp39"
+        ],
+        "anki-2.1.62-cp39-abi3-macosx_11_0_arm64.whl": [
+          "RN4LxzLuZZv2z1Nv5oATxSdAwprL77fmnwD9VC3Qs5A=",
+          "cp39"
+        ],
+        "anki-2.1.62-cp39-abi3-manylinux_2_28_x86_64.whl": [
+          "iq4hE49RCZn9pMqLiK/tHlm3Aqk8WzrUU3vbTdd3qsw=",
+          "cp39"
+        ],
+        "anki-2.1.62-cp39-abi3-manylinux_2_31_aarch64.whl": [
+          "RkbgmgGHPrxGduRb2588q6mapQ4IgBCdcSO69z7sIyc=",
+          "cp39"
+        ],
+        "anki-2.1.62-cp39-abi3-win_amd64.whl": [
+          "/qp7BZju+ALY4kQiVAJSgB9Sx7gdKlpMwAaCZhEN0Ko=",
+          "cp39"
+        ]
+      }
+    },
     "2.1.62b1": {
       "wheels": {
         "anki-2.1.62b1-cp39-abi3-macosx_10_13_x86_64.whl": [
@@ -47061,6 +47085,56 @@
         "uGQs2bIbMW9R/V2O1BO1NSbID1qJ/3Ak7eixLhC4xo0=",
         "Flask-CSV-1.2.0.tar.gz"
       ]
+    }
+  },
+  "flask-encrypted-cookies-session": {
+    "0.2.0": {
+      "sdist": [
+        "eJmcm6yLMQL5jZZhs7SRMxt25Op/Z/y6HuoPZ6h+/2Y=",
+        "flask_encrypted_cookies_session-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "flask_encrypted_cookies_session-0.2.0-py3-none-any.whl": [
+          "yFnQqUw6VmA53azUBkXOnlnqwwtdnUE8otDKKnuzV34=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.1": {
+      "sdist": [
+        "zsvB+k5+4nkM/H1IaBMFIpmIzOUDbUmnK14zhvIRLgc=",
+        "flask_encrypted_cookies_session-0.2.1.tar.gz"
+      ],
+      "wheels": {
+        "flask_encrypted_cookies_session-0.2.1-py3-none-any.whl": [
+          "difY5D/8ruUZaydyKqhuELhDl0/hrg6AoiM5bTZQuLs=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.3": {
+      "sdist": [
+        "fB1dmRNc9xMk1TfljrM+dPzVMeUObyk+kVyxuU30cpc=",
+        "flask_encrypted_cookies_session-0.2.3.tar.gz"
+      ],
+      "wheels": {
+        "flask_encrypted_cookies_session-0.2.3-py3-none-any.whl": [
+          "KaycbkZI+XNTI75t0bZnM6TITssTvFr3mwF3v5XxlMY=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.4": {
+      "sdist": [
+        "ct3qy3tj+IW+cHKhEqiQ60jC4RkdluNgQDRN9HmNOBY=",
+        "flask_encrypted_cookies_session-0.2.4.tar.gz"
+      ],
+      "wheels": {
+        "flask_encrypted_cookies_session-0.2.4-py3-none-any.whl": [
+          "KW54QU2q1wn/f2y8Gr2ebA4Y8fvYjUGVMnzO2P7CE7M=",
+          "py3"
+        ]
+      }
     }
   },
   "flask-login": {
@@ -100475,6 +100549,14 @@
           "py3"
         ]
       }
+    },
+    "0.0.0a2": {
+      "wheels": {
+        "ovos_translate_plugin_deepl-0.0.0a2-py3-none-any.whl": [
+          "yzHGFWUFZhssUID9HS/64nP1nK74kaBUFtr45zOror8=",
+          "py3"
+        ]
+      }
     }
   },
   "ovos-ww-plugin-nyumaya-legacy": {
@@ -138693,6 +138775,14 @@
           "py3"
         ]
       }
+    }
+  },
+  "sitescraper": {
+    "0.1": {
+      "sdist": [
+        "b04XJk8Fdu01PjwXN/EKaVRPzUBBNpSInQ7ZTmKlpQE=",
+        "SiteScraper-0.1.tar.gz"
+      ]
     }
   },
   "sivel-test": {

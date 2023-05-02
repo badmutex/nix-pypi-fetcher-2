@@ -48392,6 +48392,18 @@
         ]
       }
     },
+    "2.0.18": {
+      "sdist": [
+        "qtqqEWVzqPcTXYXCqDWmBxKXWA1vosoLXmh2BBFhQHo=",
+        "fonemas-2.0.18.tar.gz"
+      ],
+      "wheels": {
+        "fonemas-2.0.18-py3-none-any.whl": [
+          "5+ESu+3/gq5CRykGj4frkvJOiJ4/dOATzpK9EtX1xE4=",
+          "py3"
+        ]
+      }
+    },
     "2.0.2": {
       "sdist": [
         "OnnPJxvPo0isytjTyBf735j4QfRkqoBEflixj16jOQA=",
@@ -96755,6 +96767,14 @@
           "py2.py3"
         ]
       }
+    },
+    "11.0.1.0.0.99.dev5": {
+      "wheels": {
+        "odoo11_addon_l10n_it_sdi_channel-11.0.1.0.0.99.dev5-py2.py3-none-any.whl": [
+          "tdxhqnxGOfmqdVjSGBVyNyS3yB4XyMsnFTQEftpTC2g=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "odoo11-addon-partner-risk-insurance": {
@@ -125356,6 +125376,38 @@
         ],
         "pywpsrpc-2.3.3-cp39-cp39-manylinux1_x86_64.whl": [
           "OdHngzCRup9nPAdoI04kVJ7b+nPilA0/ajh8CHIkZJ8=",
+          "cp39"
+        ]
+      }
+    },
+    "2.3.4": {
+      "sdist": [
+        "6hTFzkjO3qLAHUHd95c30uucKp3vw3Lf3btGIEn7R1I=",
+        "pywpsrpc-2.3.4.tar.gz"
+      ],
+      "wheels": {
+        "pywpsrpc-2.3.4-cp310-cp310-manylinux_2_5_x86_64.whl": [
+          "MNUaufcpeEvg7UYQNbz8q7JIy7r42COp9GDgKkcca7g=",
+          "cp310"
+        ],
+        "pywpsrpc-2.3.4-cp311-cp311-manylinux_2_5_x86_64.whl": [
+          "7qlp4xVip1rd74GrpHy/SLYi5/bK48rkDeiufQwFPwQ=",
+          "cp311"
+        ],
+        "pywpsrpc-2.3.4-cp36-cp36m-manylinux1_x86_64.whl": [
+          "JX7Et3mrAcI/jikkQScp/STh3m62KpE1UU+ABbLGoJ4=",
+          "cp36"
+        ],
+        "pywpsrpc-2.3.4-cp37-cp37m-manylinux_2_5_x86_64.whl": [
+          "9065ENlIvV5jZmKl29wKgS5OgJ/QTSXLDJMZQtrztSc=",
+          "cp37"
+        ],
+        "pywpsrpc-2.3.4-cp38-cp38-manylinux_2_5_x86_64.whl": [
+          "odsitfY230ABuchvML25GTWKWbUSs1pkJiUGVDn8faU=",
+          "cp38"
+        ],
+        "pywpsrpc-2.3.4-cp39-cp39-manylinux_2_5_x86_64.whl": [
+          "pfyDmwhB0q7yohmOAswc3DB51rYJz7LuaASAzKGnKRY=",
           "cp39"
         ]
       }

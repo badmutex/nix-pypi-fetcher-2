@@ -23418,6 +23418,18 @@
         ]
       }
     },
+    "1.29.125": {
+      "sdist": [
+        "syYsBILh7TqdfCt8jYmPPURPViBiA3wn+boAQlsCfsY=",
+        "botocore-a-la-carte-dms-1.29.125.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_dms-1.29.125-py3-none-any.whl": [
+          "Ti3U90wYcpSiBmce2PG3TtMNUwQJIu3WJn5GEYhh+nM=",
+          "py3"
+        ]
+      }
+    },
     "1.29.42": {
       "sdist": [
         "/Hy/5+wp1gYx72WGTK2J9ZX1PvHHoz8xW1MPGoNgFGc=",
@@ -24412,6 +24424,18 @@
       "wheels": {
         "botocore_a_la_carte_efs-1.29.124-py3-none-any.whl": [
           "tqF78FOONh1KXBosNQgyyqH13TCQx482i2rj0gZtRHw=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.125": {
+      "sdist": [
+        "oh1tha9TSXZP0A4xqVaDbKQcdwWIDYcmp+YPAneAX1U=",
+        "botocore-a-la-carte-efs-1.29.125.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_efs-1.29.125-py3-none-any.whl": [
+          "N9Vq3UfgOsTgXYA0LC8M5woireft9YCE07MnpIm9EQQ=",
           "py3"
         ]
       }
@@ -36126,6 +36150,20 @@
       "wheels": {
         "cvebase_wiki-0.1.5-py3-none-any.whl": [
           "yc4f3NBaX4L/9l4WG8IvP8dJdVcO/VrDlS2ELQq0TN4=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "cyberutils": {
+    "0.0.1": {
+      "sdist": [
+        "StoOUZDLeeYSVHOyqclDr4hha364sJCsCoBPvGAWpSI=",
+        "cyberutils-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "cyberutils-0.0.1-py3-none-any.whl": [
+          "VW2Dq/3BxL1OgZXMwDaKjnyUCiiDEKz/RTUWP1EfnPQ=",
           "py3"
         ]
       }
@@ -51634,14 +51672,14 @@
     }
   },
   "fakenewsclassifier": {
-    "0.0.6": {
+    "0.0.13": {
       "sdist": [
-        "u42YaBEbWW1S/Q1+fQKugwgsD3N8fxaEVPt77HZGgQs=",
-        "FakeNewsClassifier-0.0.6.tar.gz"
+        "6PoHjZM/hK5759nwRusw923wzdAq11Ui0d9waQ35U8s=",
+        "FakeNewsClassifier-0.0.13.tar.gz"
       ],
       "wheels": {
-        "FakeNewsClassifier-0.0.6-py3-none-any.whl": [
-          "igzV5eSU/hqcZi/jzW34Aee8vQofZcJG1Q0z3IZ/9vU=",
+        "FakeNewsClassifier-0.0.13-py3-none-any.whl": [
+          "k8+rlto5NIu2NdP70FXXjtVslLV84/x6dIkOn8Yu090=",
           "py3"
         ]
       }
@@ -57576,6 +57614,18 @@
       "wheels": {
         "flytekit-1.6.0b0-py3-none-any.whl": [
           "rDNjdflaTM/88AiG2ShHs5GGv6p1tyOQ0w7I33RpgI8=",
+          "py3"
+        ]
+      }
+    },
+    "1.6.0b1": {
+      "sdist": [
+        "yzrJc1TegHOF4BRx2ccUE2Md/BIEcmkkMtNcl/CvZhc=",
+        "flytekit-1.6.0b1.tar.gz"
+      ],
+      "wheels": {
+        "flytekit-1.6.0b1-py3-none-any.whl": [
+          "vvIZ2TXJhCfqV/GWu5qU01x/1g4KKbZR0XZtNJilOGw=",
           "py3"
         ]
       }
@@ -72552,6 +72602,14 @@
       "wheels": {
         "koya_utilities-0.0.15-py2.py3-none-any.whl": [
           "smXCV9EzyKjrMRQc++RNhA5534+Uwz7cRf9gtz8KRNs=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.16": {
+      "wheels": {
+        "koya_utilities-0.0.16-py2.py3-none-any.whl": [
+          "QQgni0Rm62t6WZXZMwGxUAzM8akVPDufv01/I5P1fSs=",
           "py2.py3"
         ]
       }
@@ -152766,10 +152824,46 @@
         "volworld_aws_api_common-0.1.78.tar.gz"
       ]
     },
+    "0.1.79": {
+      "sdist": [
+        "EGL0QAdyH/gIaq/oIwSdP+JCGRl9j+rIFmE66aGyfMA=",
+        "volworld_aws_api_common-0.1.79.tar.gz"
+      ]
+    },
     "0.1.8": {
       "sdist": [
         "Z49ByBEA6jxKi6p4yQQZ+fZfC1hBlWTSVvzfLEPnbg0=",
         "volworld_aws_api_common-0.1.8.tar.gz"
+      ]
+    },
+    "0.1.80": {
+      "sdist": [
+        "ODpUNrcwE0Sj3hQWqThs/pafv/FAZlmRa+XU/YixC0g=",
+        "volworld_aws_api_common-0.1.80.tar.gz"
+      ]
+    },
+    "0.1.81": {
+      "sdist": [
+        "Q1pYWHvnrlcMj6nlC8A3qGkb8jUBTBFg6hMwJ4OW4tU=",
+        "volworld_aws_api_common-0.1.81.tar.gz"
+      ]
+    },
+    "0.1.82": {
+      "sdist": [
+        "3XT/0gVKGr+9xNhw67wNMbG2Uw9yJrtCYME4SsEoJAs=",
+        "volworld_aws_api_common-0.1.82.tar.gz"
+      ]
+    },
+    "0.1.83": {
+      "sdist": [
+        "PohJmSaZSkuJ2KM/PxMKCHE9l6Yf2uQ/gRQDnQoHBEM=",
+        "volworld_aws_api_common-0.1.83.tar.gz"
+      ]
+    },
+    "0.1.84": {
+      "sdist": [
+        "9XWx3gEBQx1mDsrtooOcuzLT4VYAwfhtCfN3/DI5rck=",
+        "volworld_aws_api_common-0.1.84.tar.gz"
       ]
     },
     "0.1.9": {

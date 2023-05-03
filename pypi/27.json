@@ -13885,6 +13885,20 @@
       }
     }
   },
+  "bmw-lobster-core": {
+    "0.9.1": {
+      "sdist": [
+        "ma4MO4iw3ENWIRDy3syBa7AAxioCKP8wKlxECu2mEbU=",
+        "bmw-lobster-core-0.9.1.tar.gz"
+      ],
+      "wheels": {
+        "bmw_lobster_core-0.9.1-py3-none-any.whl": [
+          "9fcj7LyhLnFnuEMfqS7BNWOiGDeGSx44s92TZiOBZaw=",
+          "py3"
+        ]
+      }
+    }
+  },
   "boardgamegeek": {
     "0.0.10": {
       "sdist": [
@@ -49213,6 +49227,18 @@
           "py3"
         ]
       }
+    },
+    "0.12.0": {
+      "sdist": [
+        "br4tVTHXwK6bikBHMrFxsn1KKShe1u6wTlEqhH6F44s=",
+        "frequenz-api-microgrid-0.12.0.tar.gz"
+      ],
+      "wheels": {
+        "frequenz_api_microgrid-0.12.0-py3-none-any.whl": [
+          "Sk/o3bzAYK3vv+cC3BBWo2B+c8PKKCgUJKuQCQjRZtk=",
+          "py3"
+        ]
+      }
     }
   },
   "frostbyte": {
@@ -59022,6 +59048,14 @@
       "wheels": {
         "inmanta_module_postgresql-0.4.1-py3-none-any.whl": [
           "3lKlkowmmo60j9MWdLP7nGMZheAwe8IARF0FyRcxbmg=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.2": {
+      "wheels": {
+        "inmanta_module_postgresql-0.4.2-py3-none-any.whl": [
+          "P5RljQ41jTiRlCel3a7xRImoCwARJR5d5MQ41dF4t2I=",
           "py3"
         ]
       }
@@ -88909,6 +88943,12 @@
           "cp36"
         ]
       }
+    },
+    "1.0.4": {
+      "sdist": [
+        "cwsqhsPaAYryloa+WOnQLZ1lsfHd5ClXMuNtihdTnhU=",
+        "neoscrypt_python-1.0.4.tar.gz"
+      ]
     }
   },
   "nerdlog": {
@@ -103388,6 +103428,30 @@
         ]
       }
     },
+    "17.0.5": {
+      "sdist": [
+        "dFHEHh9ISjyAxNphJcrpwzZIvAQwLqzhnjmf9ud1qq4=",
+        "peaqevcore-17.0.5.tar.gz"
+      ],
+      "wheels": {
+        "peaqevcore-17.0.5-py3-none-any.whl": [
+          "iPPWsB8NgWYzurkMOp5u625avqO6m3WebE9fXiK5HjY=",
+          "py3"
+        ]
+      }
+    },
+    "17.0.6": {
+      "sdist": [
+        "Aq4Gk7TzY31VJnMLz09PdoCpAPCqrpxw7pUiSADr8Rw=",
+        "peaqevcore-17.0.6.tar.gz"
+      ],
+      "wheels": {
+        "peaqevcore-17.0.6-py3-none-any.whl": [
+          "pWwhRnhuT5CFnqwLq+O85V9ARa3LhEPdNY/SslFd2f4=",
+          "py3"
+        ]
+      }
+    },
     "2.0.0": {
       "sdist": [
         "ctkBzwZ5Caba1JucxCKF7kJs/eZHJz4YSrV3tNyTEXU=",
@@ -114998,36 +115062,6 @@
         ]
       }
     },
-    "0.1.21": {
-      "sdist": [
-        "m7v8Ixeq7v62qKEJiZz/XYoheoir+5IemC5J40phcjY=",
-        "pykillerx-0.1.21.tar.gz"
-      ]
-    },
-    "0.1.22": {
-      "sdist": [
-        "Oox5xk3PUDa3xpD2va6WvbMIgYepDvpfogHXFMyw960=",
-        "pykillerx-0.1.22.tar.gz"
-      ],
-      "wheels": {
-        "pykillerx-0.1.22-py2.py3-none-any.whl": [
-          "3nqAAXEPN1WzXpa6aMpxjD54JRsXvpTpzctGgLNZwEQ=",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.1.23": {
-      "sdist": [
-        "TWCQKW0WTdShStwpdoiv3Nyfb8T69GAD5cCctnQdlaM=",
-        "pykillerx-0.1.23.tar.gz"
-      ],
-      "wheels": {
-        "pykillerx-0.1.23-py2.py3-none-any.whl": [
-          "OktmQHxKuYZxBMKK8uSfEZZaLxXn9hcifrvX0IYz3ug=",
-          "py2.py3"
-        ]
-      }
-    },
     "0.1.24": {
       "sdist": [
         "JOM+IJ3Uk/Gv2bFtVUDJwdmtqi2DNnyhPexkvYea1WY=",
@@ -115036,30 +115070,6 @@
       "wheels": {
         "pykillerx-0.1.24-py2.py3-none-any.whl": [
           "Dq6J0JUcq7dUhsJ5p9epl1i8FZryOuAGcJEVgHFOjtc=",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.1.25": {
-      "sdist": [
-        "YgHwx6TDvhh3tLrVGUHdJGQRR7yakHPvtgSFYfnB+EE=",
-        "pykillerx-0.1.25.tar.gz"
-      ],
-      "wheels": {
-        "pykillerx-0.1.25-py2.py3-none-any.whl": [
-          "PX38tD/GTURUl/YfB+hzw8d9V5FBexrmvgd4n+Nj/kQ=",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.1.26": {
-      "sdist": [
-        "rumY8gOKTT65PdsisbEFxXb0EO8fnQkxngj9ZuKUU5Q=",
-        "pykillerx-0.1.26.tar.gz"
-      ],
-      "wheels": {
-        "pykillerx-0.1.26-py2.py3-none-any.whl": [
-          "cgXWl9S4MZlvdQn76y1+C7j06UEd9DxxE5c47M+ow48=",
           "py2.py3"
         ]
       }
@@ -117146,6 +117156,18 @@
       "wheels": {
         "pyPreservica-1.7.0-py3-none-any.whl": [
           "bhTWSYJYCQVgnhOgV25oyqqVZFbsE1R5Gg7CblYUR2M=",
+          "py3"
+        ]
+      }
+    },
+    "1.7.1": {
+      "sdist": [
+        "bidCBv8Ze/zitCI6RS9UUEVjTJayAhu+yKzmRFp8kcI=",
+        "pyPreservica-1.7.1.tar.gz"
+      ],
+      "wheels": {
+        "pyPreservica-1.7.1-py3-none-any.whl": [
+          "Med6eX4+ASJIzKg2Y9dO2HjuLcBjYzFVpcs3bY+4Bqc=",
           "py3"
         ]
       }
@@ -121114,6 +121136,12 @@
       "sdist": [
         "nLSPYC4EcPEL16oCDcP4KZ2stgxMUtsI9zVTeRFhgSU=",
         "q_random_number_generator-0.0.7.tar.gz"
+      ]
+    },
+    "0.1.0": {
+      "sdist": [
+        "z8tsp1U9ztgdEz+6zgYr3GL++EKoQsQp0CQPYB2wpsw=",
+        "q_random_number_generator-0.1.0.tar.gz"
       ]
     }
   },
@@ -150286,6 +150314,18 @@
       "wheels": {
         "verime-1.0.0rc1-py3-none-any.whl": [
           "OIsZUyT189VnCAJhHW7IEs9zINmLM0wkVZCnx1p3/ug=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.1": {
+      "sdist": [
+        "S2eBYpCdcETm1cixwb/fyp3YPP/ZyceyxJyx+3gAKN0=",
+        "verime-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "verime-1.0.1-py3-none-any.whl": [
+          "h4I7mci0ocySt2sHOKqz1OLExrnBSPhI2eMeSNbSRRc=",
           "py3"
         ]
       }

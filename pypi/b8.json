@@ -46539,6 +46539,18 @@
           "py3"
         ]
       }
+    },
+    "1.6.0b1": {
+      "sdist": [
+        "Jjmb6XjURzcX4PXutOg6/COL4Ko8NqA8ugo9eN2TpQs=",
+        "flytekitplugins-vaex-1.6.0b1.tar.gz"
+      ],
+      "wheels": {
+        "flytekitplugins_vaex-1.6.0b1-py3-none-any.whl": [
+          "/Qn2FdSy9EDhC6bWmYFkExCWFfcgQhZ9/7Qe1uk/PUo=",
+          "py3"
+        ]
+      }
     }
   },
   "fmdl": {
@@ -49738,7 +49750,13 @@
       "sdist": [
         "oECt/EhhTOr80KDpsll7RGU8zAnGBwW4g94DIT4bibs=",
         "girdgui-1.1.0.tar.gz"
-      ]
+      ],
+      "wheels": {
+        "girdgui-1.1.0-py3-none-any.whl": [
+          "Xh6rMeUYeImVv7Nl4Edle4oMWNyMTiQ7K6fdI+IAYbw=",
+          "py3"
+        ]
+      }
     }
   },
   "git-syncer": {
@@ -50016,6 +50034,18 @@
       "wheels": {
         "gitconnect-0.1.2-py3-none-any.whl": [
           "Z36jwIjtYx4W/xWxQNkcXciDZ3GT/Dg4+J+M/VrtvtE=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.3": {
+      "sdist": [
+        "XzjqRQZRLrlDkw2dLPZqh+hQOV/CqWl5+eMEWr/fWVs=",
+        "gitconnect-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "gitconnect-0.1.3-py3-none-any.whl": [
+          "7+WZHzNLwZi1JTZA1y6HUE6bvbbALJkppeam7efGtVM=",
           "py3"
         ]
       }
@@ -53368,6 +53398,18 @@
       "wheels": {
         "hpo3-0.1.0-cp311-cp311-macosx_11_0_arm64.whl": [
           "dbOpIdsBLTcppEkS9lc5oyGp1ibwZVmq1jTBwTmhTtk=",
+          "cp311"
+        ]
+      }
+    },
+    "0.2.0": {
+      "sdist": [
+        "PSRrco2u5e+8c7FWwqp2xqY/Ys3+muKo+YVTIO+ba1M=",
+        "hpo3-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "hpo3-0.2.0-cp311-cp311-macosx_11_0_arm64.whl": [
+          "OqwRWXf+a+MB7HgUFOKtipbKCuz+3QIynSeY9WcV3EY=",
           "cp311"
         ]
       }
@@ -87311,6 +87353,30 @@
           "py3"
         ]
       }
+    },
+    "0.1.87": {
+      "sdist": [
+        "gwhsRcGDD19fdFFYVhdLdgWAeQlnnpB1Qsi8vh8jVDQ=",
+        "NikeCA-0.1.87.tar.gz"
+      ],
+      "wheels": {
+        "NikeCA-0.1.87-py3-none-any.whl": [
+          "RSN+dbDxSTXzRcXYxImPRAiObwg4s4qFEneX/gQfW5c=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.88": {
+      "sdist": [
+        "gGhz4fFlDHjCkNHjbrVDvQ9/r7ee0aDoxn6GXTL607w=",
+        "NikeCA-0.1.88.tar.gz"
+      ],
+      "wheels": {
+        "NikeCA-0.1.88-py3-none-any.whl": [
+          "EQrLOt65Wv4HnS/Q3/+KgyxBPJa9RF5fDMcsRlYRd7E=",
+          "py3"
+        ]
+      }
     }
   },
   "nlptoolkit-morphologicaldisambiguation": {
@@ -92426,6 +92492,16 @@
       "wheels": {
         "odoo14_addon_mass_mailing_subscription_date-14.0.1.0.1.dev3-py3-none-any.whl": [
           "9kMfCx5byfYHhjXX7UR34TWUjC+tFkoYTkNl6ZgD6WY=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "odoo14-addon-sale-customer-rank": {
+    "14.0.1.0.1.dev3": {
+      "wheels": {
+        "odoo14_addon_sale_customer_rank-14.0.1.0.1.dev3-py3-none-any.whl": [
+          "88T7LoCToEh7AH+BEUP0HJCb1jkalyqYUhFBTQPWMO8=",
           "py3"
         ]
       }
@@ -104684,6 +104760,102 @@
         ],
         "pyaiken-0.5.0-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "5AV3AgXRaB1ouSycCsj3q/Fn9WWO2dbOWTSRB9gqDkk=",
+          "pp39"
+        ]
+      }
+    },
+    "0.5.1": {
+      "sdist": [
+        "4btFkypALGlbxfn9ViCenpt6ZkySUu94IgL6+ug2lhE=",
+        "pyaiken-0.5.1.tar.gz"
+      ],
+      "wheels": {
+        "pyaiken-0.5.1-cp310-cp310-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "oPqa7hGch8pzMUOQSxH/pnVumipzDVK4fZGAmsdoujo=",
+          "cp310"
+        ],
+        "pyaiken-0.5.1-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "qN1hmXYBt9J91cKmQ3EJDWrL1LsV3QNK3WOx17mYbCo=",
+          "cp310"
+        ],
+        "pyaiken-0.5.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "uMNddn7oWMIxpLW3zqIR7bjVvxk2vJMn4/BctEG1bCs=",
+          "cp310"
+        ],
+        "pyaiken-0.5.1-cp310-none-win_amd64.whl": [
+          "KC1J5xMOxFzf9ttTQ4lTFNaSTZHtVg3flBXRfeJkg4o=",
+          "cp310"
+        ],
+        "pyaiken-0.5.1-cp311-cp311-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "6h9hK4HyomxVMUSXmR9C96/Z9rVtM4JxhokuKZUnwMg=",
+          "cp311"
+        ],
+        "pyaiken-0.5.1-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "ylRHFem46UlBNzEn94fOn0+NHSTbRLya1odv2valwEA=",
+          "cp311"
+        ],
+        "pyaiken-0.5.1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "JRhr3F7Rp9PmDx6JO3KcFaDHJ9XmYE2/joRNjaWLPHs=",
+          "cp311"
+        ],
+        "pyaiken-0.5.1-cp311-none-win_amd64.whl": [
+          "MaAK4KCw7+eu3KA01bLajwlNj+9XHbEsOnKMJHVQUik=",
+          "cp311"
+        ],
+        "pyaiken-0.5.1-cp37-cp37m-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "3lFik+w+9waDJvWmku/8C52gKJsogaK2Tg43KWjJsfY=",
+          "cp37"
+        ],
+        "pyaiken-0.5.1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "KEJa4Sg9KXcptA9eztZ50uWAAT/jXwFAsxfKA9Z4flE=",
+          "cp37"
+        ],
+        "pyaiken-0.5.1-cp37-none-win_amd64.whl": [
+          "0Czeu5DzkV4gcG1E56Pfp3lk7pewdVoYtlLZQhfsIQE=",
+          "cp37"
+        ],
+        "pyaiken-0.5.1-cp38-cp38-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "45YW068sCS66aq0UnGdsk1EBWZT4KJmYMkdzaQfSA5A=",
+          "cp38"
+        ],
+        "pyaiken-0.5.1-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "MaBM/hsHKbkTI7p9/7kVth7fhtX9wzrQmVQsBovRO0E=",
+          "cp38"
+        ],
+        "pyaiken-0.5.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "fvGxfhwuC/q+RHgujAQ1aiWnv4xgLPBxyGiMPX7Cwj8=",
+          "cp38"
+        ],
+        "pyaiken-0.5.1-cp38-none-win_amd64.whl": [
+          "z3q4RmYBaVd/lQPzRyue04JPU0Q3l2b2mhebEmV9/3E=",
+          "cp38"
+        ],
+        "pyaiken-0.5.1-cp39-cp39-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "KAW4BiCfqFai9KS69U72teD1oFTPIjTdBJ6ungx3pbY=",
+          "cp39"
+        ],
+        "pyaiken-0.5.1-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "lIK0L1UHh7j0XCQfTAK8RcpVNzK8EDAnVuJtaIQinDA=",
+          "cp39"
+        ],
+        "pyaiken-0.5.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "3myxNTtUoSHwyXt0zRsSzGQoskzQkYpfoAIEF1B7DhM=",
+          "cp39"
+        ],
+        "pyaiken-0.5.1-cp39-none-win_amd64.whl": [
+          "JcVJWXm9vKuawHr2V058GDFixfaONx4woXSdhZiJ4A8=",
+          "cp39"
+        ],
+        "pyaiken-0.5.1-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "9TFGQMNHpg58f9zufRijwUgPUS5S7mp3wriYmxYbfUc=",
+          "pp37"
+        ],
+        "pyaiken-0.5.1-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "OQaZ+3a1ENrFnTU1VXq2TSOkTTnZbJ0xzsTFg4Rc1kA=",
+          "pp38"
+        ],
+        "pyaiken-0.5.1-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "lNXWvWCGcXY+WGHOMvar7b7lxiT76Cpz5WuGEaBNkos=",
           "pp39"
         ]
       }
@@ -146139,6 +146311,18 @@
           "py3"
         ]
       }
+    },
+    "0.8.0.dev20230503": {
+      "sdist": [
+        "HqDOs/QygcCRWpMxQSq+vshVjOFA5bK8pi4ozCSGbPI=",
+        "tensorcircuit-nightly-0.8.0.dev20230503.tar.gz"
+      ],
+      "wheels": {
+        "tensorcircuit_nightly-0.8.0.dev20230503-py3-none-any.whl": [
+          "tja6LZ9wgquRu7HZT5mMIJ+73k4QWO413oh1KYV+aqA=",
+          "py3"
+        ]
+      }
     }
   },
   "tensorflow-juanji-shenjingwangluo-shiyong-zhinan-chuyi": {
@@ -148627,6 +148811,20 @@
         "tool_box-0.5.1-py2.py3-none-any.whl": [
           "bsrqx5nI5C+kNnNWR9YrYLrdAydDtsnrPxP3VKegZjQ=",
           "3.4"
+        ]
+      }
+    }
+  },
+  "toolnew1": {
+    "1.3": {
+      "sdist": [
+        "2sVjsMpgeu4ImekD1EoQnvpRmDEvbVd5pMXfjdg60+k=",
+        "toolnew1-1.3.tar.gz"
+      ],
+      "wheels": {
+        "toolnew1-1.3-py3-none-any.whl": [
+          "GDKcPKiLsOjBRNDdKoQ7Hd8wly9C+nUg3iJeqvtp+Vw=",
+          "py3"
         ]
       }
     }
@@ -152758,6 +152956,18 @@
       "wheels": {
         "types_Markdown-3.4.2.7-py3-none-any.whl": [
           "f9PstIfx1BwEP6JMACWKt+H+N1he5q0Baho8A7yjT3M=",
+          "py3"
+        ]
+      }
+    },
+    "3.4.2.8": {
+      "sdist": [
+        "9BFNROvWYO36Xmg2aXH/MsRMkNzlhBWPqhq+a/gHW9g=",
+        "types-Markdown-3.4.2.8.tar.gz"
+      ],
+      "wheels": {
+        "types_Markdown-3.4.2.8-py3-none-any.whl": [
+          "c3WU3JfdONpyovkPVZHDahcAPJE91imhUUXzsiHa+V0=",
           "py3"
         ]
       }

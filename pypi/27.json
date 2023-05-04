@@ -14482,6 +14482,18 @@
         ]
       }
     },
+    "1.29.126": {
+      "sdist": [
+        "1AXZoCUj7WD8D0CtEJfzNMH+fXTLnt7xf7eZXRYmhs0=",
+        "botocore-a-la-carte-lexv2-models-1.29.126.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_lexv2_models-1.29.126-py3-none-any.whl": [
+          "9haUSz4z6KQNU0atZL5VL6mZ0lQNkPImlnStkhvKNIc=",
+          "py3"
+        ]
+      }
+    },
     "1.29.42": {
       "sdist": [
         "Fe7T2WBXnqPAqx6Vv0kf/qo6Bq96DYQFg1BwSUi1r8I=",
@@ -37626,6 +37638,18 @@
         ]
       }
     },
+    "0.4.84": {
+      "sdist": [
+        "5d1ot/IMTJUlkszQEodXVPszxYiZteIPn9xUptQT6Aw=",
+        "edc-0.4.84.tar.gz"
+      ],
+      "wheels": {
+        "edc-0.4.84-py3-none-any.whl": [
+          "Y/6m+2bxzPuB1kEA8Iut7DRRb1SP1fjZWvtA0JoKHMQ=",
+          "py3"
+        ]
+      }
+    },
     "0.4.9": {
       "sdist": [
         "RHeZcgs65/0ZRhKThbxsBk9gRH7VBv2YEluig1skWCE=",
@@ -48009,6 +48033,14 @@
       }
     }
   },
+  "foggyday": {
+    "1.0.0": {
+      "sdist": [
+        "aUVMxqjRpi7uSyMesp1DlCRtmLAZr/ffTuW+p5wCVCM=",
+        "foggyday-1.0.0.tar.gz"
+      ]
+    }
+  },
   "foliadocserve": {
     "0.2.1": {
       "sdist": [
@@ -53030,6 +53062,56 @@
       "wheels": {
         "gotipy-0.2.2-py3-none-any.whl": [
           "1ILKUjANz0pVyHyF9P+KTrA3q0elga0/cxEy0bo6uT8=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "gpt-json": {
+    "0.1.0": {
+      "sdist": [
+        "uvVm5Nq/wJD3SDwL5fxaEB/qV15IlXX+ZcE6uZH49HQ=",
+        "gpt-json-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "gpt_json-0.1.0-py3-none-any.whl": [
+          "qpstE+OMjXouwzp6EPdi195lB+di+XzLzpLQApzEvco=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "/vP5ZZX+o/yyM6pIxJEczT0lMORCh4Ifv7uGtLO3c08=",
+        "gpt_json-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "gpt_json-0.1.1-py3-none-any.whl": [
+          "ms57AR8TnAG8dr85h9q7y38HzuNabowGNKHw5oxP3Mc=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "o9xv8zvPOTxUaxM+8kVg/2jYyhM8WnQ43+otM++cYZU=",
+        "gpt_json-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "gpt_json-0.1.2-py3-none-any.whl": [
+          "t2i6SC9GfC4GlAivsiVV+MmMUrmesF612zlITlPTA2g=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.3": {
+      "sdist": [
+        "Dv1A0MWb+SFl7Jv9L366aLr3oXlu2YxYxlVsZC4KUs0=",
+        "gpt_json-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "gpt_json-0.1.3-py3-none-any.whl": [
+          "Mz0D7NpW71d5jG7YRNh5Bler8Jxv5l8YLciwjd0u7fs=",
           "py3"
         ]
       }
@@ -94094,6 +94176,22 @@
       "wheels": {
         "odoo12_addon_l10n_it_fatturapa_out-12.0.3.1.2.99.dev9-py3-none-any.whl": [
           "iUcXROHjCU/UTaxQZBVXiPBpICj8BRvmqNzetK1alys=",
+          "py3"
+        ]
+      }
+    },
+    "12.0.3.2.0": {
+      "wheels": {
+        "odoo12_addon_l10n_it_fatturapa_out-12.0.3.2.0-py3-none-any.whl": [
+          "pCn+Q/aOycZu8MR4FFaWyc6OzMStqIAhdn7MaDbgjow=",
+          "py3"
+        ]
+      }
+    },
+    "12.0.3.2.1": {
+      "wheels": {
+        "odoo12_addon_l10n_it_fatturapa_out-12.0.3.2.1-py3-none-any.whl": [
+          "pgpdwQEBVfn8IEWOugFLShSRN1oOjPosTuoO8Gwj8uQ=",
           "py3"
         ]
       }

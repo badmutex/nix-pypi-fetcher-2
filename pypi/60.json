@@ -15997,6 +15997,18 @@
           "py3"
         ]
       }
+    },
+    "2.4.0b20230505": {
+      "wheels": {
+        "bigdl_friesian_spark3-2.4.0b20230505-py3-none-macosx_10_11_x86_64.whl": [
+          "w3d1eIi9s3DBieRQifcxxZvBbZX4M+mw2R1m9EiBzBs=",
+          "py3"
+        ],
+        "bigdl_friesian_spark3-2.4.0b20230505-py3-none-manylinux1_x86_64.whl": [
+          "VpVJFoTgFnUx1uH7Y00IBlSxS8ObBWqhbFBiVJm1CK4=",
+          "py3"
+        ]
+      }
     }
   },
   "binsinfo": {
@@ -55243,6 +55255,42 @@
           "py3"
         ]
       }
+    },
+    "0.2.6": {
+      "sdist": [
+        "I2QyTeMl+1ZTeLXhTaqMlxxgABGJPxVCnYyjwfkwd4o=",
+        "gpyt-0.2.6.tar.gz"
+      ],
+      "wheels": {
+        "gpyt-0.2.6-py3-none-any.whl": [
+          "o+8JtZ0rP9KR69i0uuauifUmd6y47fRDdb4YM2qd1P0=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.7": {
+      "sdist": [
+        "IkVf/BynMw1fKWA2c8YVscFktCklnCTiconEIidPDvg=",
+        "gpyt-0.2.7.tar.gz"
+      ],
+      "wheels": {
+        "gpyt-0.2.7-py3-none-any.whl": [
+          "f3ukNpjzUdkw0kpAKoYp2a/RuBzZiQBBDI7ttN21aM4=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.8": {
+      "sdist": [
+        "a/mskobGz4Nv24RWuss7VHBFmowwrWZZn1g4714Rrqo=",
+        "gpyt-0.2.8.tar.gz"
+      ],
+      "wheels": {
+        "gpyt-0.2.8-py3-none-any.whl": [
+          "qcOO3Hl2YerCJlDLCQLjYGW3ocnLvkc1KaaLSTSI6TI=",
+          "py3"
+        ]
+      }
     }
   },
   "grafane": {
@@ -56470,6 +56518,18 @@
       "wheels": {
         "gscipy-0.1.2-py3-none-any.whl": [
           "Xeqwyywi5puYDxZvwZHNg2E4IJ4zLNN+mYuNx6xkwjY=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.3": {
+      "sdist": [
+        "2UUAF/LmaN+jScKgG0PoJFI7OT1+ZEe1QvhcRX7YI1s=",
+        "gscipy-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "gscipy-0.1.3-py3-none-any.whl": [
+          "3whhA4yEP+wZCtygGiioLxnT8ix565QYEZMW6u+h9pE=",
           "py3"
         ]
       }
@@ -76354,10 +76414,10 @@
     }
   },
   "lzy-desktop": {
-    "2.0": {
+    "1.0": {
       "sdist": [
-        "UtEQTmjKY6JKa++8TY+0U1EsY+/FdiUp7iz+fdnoYPg=",
-        "lzy-desktop-2.0.tar.gz"
+        "+0RzQFjWxP7Fx8yxi3DN/jh8k0tCpwwkskPePR6P/mg=",
+        "lzy-desktop-1.0.tar.gz"
       ]
     }
   },
@@ -116010,17 +116070,17 @@
     }
   },
   "pygrained": {
-    "1.0.0": {
+    "1.0.1": {
       "sdist": [
-        "U4LNdjkn35HEux31myFwh1Ec76ZVGYizYeF6K6dk/qs=",
-        "pyGrained-1.0.0.tar.gz"
-      ],
-      "wheels": {
-        "pyGrained-1.0.0-py3-none-any.whl": [
-          "kBQNFzIGc3jlwDUl57+pYoGFy3vdUn9l8DZygqvV3Dw=",
-          "py3"
-        ]
-      }
+        "IhJpU2UNhzQTgG2CmOHbAAs+wzwMNpuXmZmeSLK3qpg=",
+        "pyGrained-1.0.1.tar.gz"
+      ]
+    },
+    "1.0.2": {
+      "sdist": [
+        "gq6qExwpTIMk7WzIUjrEEm4Olq7VJN9T7YINdwxlyyU=",
+        "pyGrained-1.0.2.tar.gz"
+      ]
     }
   },
   "pygrapher": {
@@ -119532,6 +119592,30 @@
       "wheels": {
         "pyproject_generator-0.2.0-py3-none-any.whl": [
           "bObWQQxNSYkXIig12mrjBzJm3/2eY/IGE+r2O8CgWz0=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.1": {
+      "sdist": [
+        "otmoS6+gWnp+GtT8c6keXKvETvHQie57DNuJZ+ta/x8=",
+        "pyproject-generator-0.2.1.tar.gz"
+      ],
+      "wheels": {
+        "pyproject_generator-0.2.1-py3-none-any.whl": [
+          "MgJI17/1pWu9GUoVdhdhRD/IgEPhis0BWTXFOpERMLs=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.2": {
+      "sdist": [
+        "NaFpteoNznwgmrdtDdrrRFSDllu5Jl8S+MpUvKaZnzs=",
+        "pyproject-generator-0.2.2.tar.gz"
+      ],
+      "wheels": {
+        "pyproject_generator-0.2.2-py3-none-any.whl": [
+          "NGrSG2Rz9YTFTMmtd8AwvGAo5nU1jm5Qwzzk4Vb2HPY=",
           "py3"
         ]
       }
@@ -157960,6 +158044,20 @@
       "wheels": {
         "Weblate_a1az-4.3.2.2-py3-none-any.whl": [
           "RIHViAIecB9EHtY6cRyq7ua9BLKArr8wM7o29Hvnty8=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "wechat-api": {
+    "0.1.0": {
+      "sdist": [
+        "RdxDwakeuvAfWQ+WjrRQ1Jl2CQ2Sdy0QT/eGJLW75cM=",
+        "wechat_api-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "wechat_api-0.1.0-py3-none-any.whl": [
+          "Kf0USWVe/XtOzw9xMhEW644cEu5DjJiRtOX66bfdBxQ=",
           "py3"
         ]
       }

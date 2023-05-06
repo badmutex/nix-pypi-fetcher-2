@@ -47085,6 +47085,12 @@
         "Rs+h0TMsFQVJD5k1pr7eDXH04LaJ8fKahV60Sealmak=",
         "frykit-0.1.7.tar.gz"
       ]
+    },
+    "0.2.0": {
+      "sdist": [
+        "uASHbiXrlyEg1/r9bqe9G/y4dnQbG6gJZQEdjHghF2A=",
+        "frykit-0.2.0.tar.gz"
+      ]
     }
   },
   "fsd-tools-river": {
@@ -90426,6 +90432,14 @@
       "wheels": {
         "odoo_addons_oca_server_auth-16.0.20230417.0-py3-none-any.whl": [
           "XZrQ2w8f33F2e/YWTqziDrNz6WvyDYUEfopnZNxeSbo=",
+          "py3"
+        ]
+      }
+    },
+    "16.0.20230505.0": {
+      "wheels": {
+        "odoo_addons_oca_server_auth-16.0.20230505.0-py3-none-any.whl": [
+          "Oms34cSkHdBwNjarwZzQ2zENdF0LT9EKYopbHrFeX14=",
           "py3"
         ]
       }
@@ -135055,6 +135069,20 @@
       }
     }
   },
+  "solution-harsha": {
+    "0.1": {
+      "sdist": [
+        "WpKrtK378jyPZZaqX0DMvcaFgwJ3e1XrojXuAi1M9oY=",
+        "solution_harsha-0.1.tar.gz"
+      ],
+      "wheels": {
+        "solution_harsha-0.1-py3-none-any.whl": [
+          "IDJf2Nt0T07ov6JDCv52Nmx1+de0Dp4xUkc0xb8ETwY=",
+          "py3"
+        ]
+      }
+    }
+  },
   "solvent": {
     "0.0.1": {
       "sdist": [
@@ -146986,6 +147014,18 @@
       "wheels": {
         "tensorcircuit_nightly-0.9.0.dev20230505-py3-none-any.whl": [
           "iPUCfr6tIzQC3QRiZLTUvkH+KKkqJ9D3Cqm1zYnwdrw=",
+          "py3"
+        ]
+      }
+    },
+    "0.9.0.dev20230506": {
+      "sdist": [
+        "yFSA15Civm8tqbVqAUmlDfQYhJqPCmMi+eb8D2kt1nU=",
+        "tensorcircuit-nightly-0.9.0.dev20230506.tar.gz"
+      ],
+      "wheels": {
+        "tensorcircuit_nightly-0.9.0.dev20230506-py3-none-any.whl": [
+          "BBcTQHfvUNqSAcTy+jT7+/1wru+BGKCR1GbFUAy+Bgk=",
           "py3"
         ]
       }

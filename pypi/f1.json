@@ -9935,6 +9935,12 @@
         "US62Ci/EnRK8yJcj4rUa6gRFg+MjBdiEEKs2R7MSYJk=",
         "blond-2.1.1.tar.gz"
       ]
+    },
+    "2.1.2": {
+      "sdist": [
+        "65esthXQD0PYW+/R574MBLnrHwLm52Kt0dRdEJacgqM=",
+        "blond-2.1.2.tar.gz"
+      ]
     }
   },
   "bloxone": {
@@ -39324,6 +39330,18 @@
         ]
       }
     },
+    "0.3.30": {
+      "sdist": [
+        "ymkKFmK4UFXHW7fwd5/Lh1L7HWPEkr0AYjfB4V+GnC0=",
+        "django-vendor-0.3.30.tar.gz"
+      ],
+      "wheels": {
+        "django_vendor-0.3.30-py2.py3-none-any.whl": [
+          "UNqDQSQ3qEQ67nePR/O+M0gTVzBHZG+1dnv12/zzBqc=",
+          "py2.py3"
+        ]
+      }
+    },
     "0.3.4": {
       "sdist": [
         "a8OVP1yK5mXha5Mtj2+0nrYjkdkwjBjDJwViIHvX8Vg=",
@@ -47752,7 +47770,13 @@
       "sdist": [
         "/KxZdv5/rtBfWY6tu3SYlsSUdfyS2JkQTmyNf8DKAR4=",
         "emergefs-0.0.5.linux-x86_64.tar.gz"
-      ]
+      ],
+      "wheels": {
+        "emergefs-0.0.5-py3-none-any.whl": [
+          "oW8NaVLfc0hUUGDbkl5n4ECOgBU+5+shdZy05t7zb9w=",
+          "py3"
+        ]
+      }
     }
   },
   "emoji-translate": {
@@ -56380,6 +56404,18 @@
       "wheels": {
         "fluidsimfoam-0.0.2-py3-none-any.whl": [
           "YTs9f7brQoWPFVcqNYvSHSogCLW+sKTIQM2P2HPVTuo=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "TK9TlXOZoPPezbIXnrqjuGEKngLpjRywAqFnnqm/SNI=",
+        "fluidsimfoam-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "fluidsimfoam-0.0.3-py3-none-any.whl": [
+          "euVbk1zPxNfphQRlv5UKsxJu9JPvzlCoqwzuSP94v7I=",
           "py3"
         ]
       }
@@ -101910,6 +101946,14 @@
       "wheels": {
         "odoo14_addon_pos_order_mgmt-14.0.1.0.1.dev4-py3-none-any.whl": [
           "OLrYTu0oVYbvWqdGBW5CASLuPP1HrPkSXi88K5bPN8Q=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.1.0.1.dev5": {
+      "wheels": {
+        "odoo14_addon_pos_order_mgmt-14.0.1.0.1.dev5-py3-none-any.whl": [
+          "uonzxOpYy3wvLFSzvNGB3gv46tYObqItxZWXTUa/yxI=",
           "py3"
         ]
       }

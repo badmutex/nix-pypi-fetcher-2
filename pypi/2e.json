@@ -2846,6 +2846,12 @@
         "alibabacloud-ros-tran-0.3.10.tar.gz"
       ]
     },
+    "0.3.11": {
+      "sdist": [
+        "y0csFdG5HIfjZLdPbjOnfuX5nX0/3X5PkGEVD22FvP0=",
+        "alibabacloud-ros-tran-0.3.11.tar.gz"
+      ]
+    },
     "0.3.2": {
       "sdist": [
         "EGSNjb4fdXcBTujNKJaHr7n2VYkQh7dLfuGHAPI5bVQ=",
@@ -75484,6 +75490,24 @@
         "libcnmc-23.30.0.tar.gz"
       ]
     },
+    "23.30.1": {
+      "sdist": [
+        "L91NAtfyQt6XboU7JxHhlw6wOAv+qQse0Hm1YWM0D9I=",
+        "libcnmc-23.30.1.tar.gz"
+      ]
+    },
+    "23.30.2": {
+      "sdist": [
+        "lMn5McsXz+cXCASC9Yh7MqeUacFpMSFYtANEZy80pYE=",
+        "libcnmc-23.30.2.tar.gz"
+      ]
+    },
+    "23.31.0": {
+      "sdist": [
+        "hFrfCdP5bAjMDSp9grb2OUOPlOSejEkeEqXhqmIgD0I=",
+        "libcnmc-23.31.0.tar.gz"
+      ]
+    },
     "23.4.0": {
       "sdist": [
         "m7hsgDoKtXdh8Jr7Ee2GUa152OPUAdrXX6Zr0Zi9aQ4=",
@@ -76528,6 +76552,18 @@
       "wheels": {
         "litestar-2.0.0a5-py3-none-any.whl": [
           "7j0zITXLA5jIsBqtZOfBSdMSKTjjQfdpl7PNen8RutA=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.0a6": {
+      "sdist": [
+        "HQUE1Av6PYE9+7F7B7/be8XL9ZzQ+F9UtNIvKSmDm1A=",
+        "litestar-2.0.0a6.tar.gz"
+      ],
+      "wheels": {
+        "litestar-2.0.0a6-py3-none-any.whl": [
+          "6SJ6TUTnjV/yHE6Nsd7w6T6q8dimuscsPM4sDM7LVcE=",
           "py3"
         ]
       }
@@ -97798,6 +97834,18 @@
       "wheels": {
         "omniplate-0.9.6-py3-none-any.whl": [
           "uuVVwMcdUpw5j1/JtecNkUXwlRrTEB/TUpO4ILTaLtI=",
+          "py3"
+        ]
+      }
+    },
+    "0.9.82": {
+      "sdist": [
+        "UtrPWW7KJ8tGHsUsIe8RaadJYGHYpTbNlv2hM08EKNk=",
+        "omniplate-0.9.82.tar.gz"
+      ],
+      "wheels": {
+        "omniplate-0.9.82-py3-none-any.whl": [
+          "qFx1ljmGawudES7cDKE64nhPuz6tLc6ryrxZz7XJ35w=",
           "py3"
         ]
       }
@@ -128226,30 +128274,6 @@
         ]
       }
     },
-    "0.2.1": {
-      "sdist": [
-        "83OrJPnySvn/cOvjBQEKYfBBpmpX6HZxc6LNvBOM9/4=",
-        "Slpapy-0.2.1.tar.gz"
-      ],
-      "wheels": {
-        "Slpapy-0.2.1-py3-none-any.whl": [
-          "M2KxghWPjrcPBof+Or87axR/TRtFWFAI5UaIlf+7TBg=",
-          "py3"
-        ]
-      }
-    },
-    "0.2.10": {
-      "sdist": [
-        "zYmcOFI5tbNgii1T6UQFduRoSjB0hLTIjv91PxHezbU=",
-        "Slpapy-0.2.10.tar.gz"
-      ],
-      "wheels": {
-        "Slpapy-0.2.10-py3-none-any.whl": [
-          "kptRiDaN5uFOfq0HMi4hb6UOBPle4pdWQd7As5Pt5aQ=",
-          "py3"
-        ]
-      }
-    },
     "0.2.11": {
       "sdist": [
         "Xr8QbEZxbHsdlGFvqiU5ZA+17Tr1q+jhDKurodjn3hw=",
@@ -128262,82 +128286,26 @@
         ]
       }
     },
-    "0.2.3": {
+    "0.3.2": {
       "sdist": [
-        "UXryLrxfm3hvFJT22cn5QDckXFPOr1ZAZNOqxAnoXlg=",
-        "Slpapy-0.2.3.tar.gz"
+        "jy+goQgh+UyXVXgS/L+49vJnODJ7yKMHyBff1I4kZH0=",
+        "Slpapy-0.3.2.tar.gz"
       ],
       "wheels": {
-        "Slpapy-0.2.3-py3-none-any.whl": [
-          "tn4C67tzGQrtHJYdvpbtD1PwTCz9K8c9JO/4NeSAw2o=",
+        "Slpapy-0.3.2-py3-none-any.whl": [
+          "OuvYjSqPjtqDr1yPZfAl/ZSA+fUulNWOvSsla/xhd+Q=",
           "py3"
         ]
       }
     },
-    "0.2.4": {
+    "0.3.3": {
       "sdist": [
-        "UzEdq9xQ1aPvEP2fdHDC+j6yVg1es9u5STi96qJGCw8=",
-        "Slpapy-0.2.4.tar.gz"
+        "MR8EqivSOLVXQz5ymAZTLZQIJ/QlxFtp2hBzRPsZh64=",
+        "Slpapy-0.3.3.tar.gz"
       ],
       "wheels": {
-        "Slpapy-0.2.4-py3-none-any.whl": [
-          "6QpjnJBCKY7g4UsxMoQs1wuQ3kberz5w93uL5QaIcrQ=",
-          "py3"
-        ]
-      }
-    },
-    "0.2.5": {
-      "wheels": {
-        "Slpapy-0.2.5-py3-none-any.whl": [
-          "O8aB7TdmqIzMvFo/wmdgKrIqHpme2uatmQDaDFlW9xo=",
-          "py3"
-        ]
-      }
-    },
-    "0.2.6": {
-      "sdist": [
-        "z4nrlo0boHu9ngkh4y3U+uUzsWil9S/82nqUdbBJAz0=",
-        "Slpapy-0.2.6.tar.gz"
-      ],
-      "wheels": {
-        "Slpapy-0.2.6-py3-none-any.whl": [
-          "LmE4bEwc+C2WfN6/Hb/DHuCPXMqAxj/BNAglqVYoS14=",
-          "py3"
-        ]
-      }
-    },
-    "0.2.7": {
-      "sdist": [
-        "ufp+LHOjB35EhKXgj/xLxZR3uvcs0IsvUOaFXq+oPzI=",
-        "Slpapy-0.2.7.tar.gz"
-      ],
-      "wheels": {
-        "Slpapy-0.2.7-py3-none-any.whl": [
-          "mcczZ9/mXsP2OlVkA2KqQZ+oTt+8LDVUtoYR93D1/tw=",
-          "py3"
-        ]
-      }
-    },
-    "0.2.8": {
-      "sdist": [
-        "lBuo+PA6OyRHZHYzgfoPdo9DCCcNEGgdqV2ap9jF0RA=",
-        "Slpapy-0.2.8.tar.gz"
-      ],
-      "wheels": {
-        "Slpapy-0.2.8-py3-none-any.whl": [
-          "L/e6KgCRIFvsv9uUYukGLz+fTtrzzYoqjAE75jfogT0=",
-          "py3"
-        ]
-      }
-    },
-    "0.2.9": {
-      "sdist": [
-        "3YOE1kOgbeCyinyTRxeRP/0Um7Ga+GcmWmKw6eo7xEY=",
-        "Slpapy-0.2.9.tar.gz"
-      ],
-      "wheels": {
-        "Slpapy-0.2.9-py3-none-any.whl": [
-          "w2dQUE1rSpVapdSDF48dnUUQadoi7dNPh0BjzGyRcYU=",
+        "Slpapy-0.3.3-py3-none-any.whl": [
+          "/FT8eHF3qdwHNzoZl0Ed1RSvrPOqhcYpSbv6QqrP5sU=",
           "py3"
         ]
       }

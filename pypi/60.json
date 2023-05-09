@@ -4253,6 +4253,54 @@
           "cp39"
         ]
       }
+    },
+    "1.1.0": {
+      "wheels": {
+        "arcticdb-1.1.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "AhJf76Pg4IBhmbmWl08t/E2ZEZnPgGvo++xq3ce6vEc=",
+          "cp310"
+        ],
+        "arcticdb-1.1.0-cp310-cp310-win_amd64.whl": [
+          "t8k0Z8eAdCRxstaqDf0pn6N8Qf0vhtjTbOOh6Rmg00k=",
+          "cp310"
+        ],
+        "arcticdb-1.1.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "DxM0NlvsMPQDqntHG3f4CLkGNy6BIQxISuORW8bMAZs=",
+          "cp311"
+        ],
+        "arcticdb-1.1.0-cp311-cp311-win_amd64.whl": [
+          "U28UmV1tpVNCe2JCJAxz9E+igJmeCWYa1A3Gh5+nQCA=",
+          "cp311"
+        ],
+        "arcticdb-1.1.0-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "HeO3nFS/m4lg4ciUx7B9Mn2/IDoefHJrtNeAMC1bwPs=",
+          "cp36"
+        ],
+        "arcticdb-1.1.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "n/QTwEHgO3Zw1+lSK0YyHwhiuX6oJzkp2XRUpmvPwRg=",
+          "cp37"
+        ],
+        "arcticdb-1.1.0-cp37-cp37m-win_amd64.whl": [
+          "33E+3rKQbliFAfdMTxOpEK3lG8uh7lMcVEkig8N0k9g=",
+          "cp37"
+        ],
+        "arcticdb-1.1.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "FEBIcfrkDdvo9PUrDp15Cu9wtYzlj0HAPivzoVdnf08=",
+          "cp38"
+        ],
+        "arcticdb-1.1.0-cp38-cp38-win_amd64.whl": [
+          "Q9ABJyVk48mV4OhI9uu6q8a50+Q8Ik+Z680Y29l2p1Q=",
+          "cp38"
+        ],
+        "arcticdb-1.1.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "YduxLzw3AxCwUfjg4ekXngvi4MgnBtOicsyPrH6ekI4=",
+          "cp39"
+        ],
+        "arcticdb-1.1.0-cp39-cp39-win_amd64.whl": [
+          "RIA1N1UnHficUz5Kus6gTtF2i86enhh5+czE65Q0xXo=",
+          "cp39"
+        ]
+      }
     }
   },
   "artilipy": {
@@ -23152,6 +23200,18 @@
       "wheels": {
         "chat2plot-0.0.3-py3-none-any.whl": [
           "KGWidbgX/rfY6n6MWA/v+l7oQeiHRRwC3PGZo9rdzIE=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4": {
+      "sdist": [
+        "NpcQ+SzRddLD4ouVGA52IqVB5TsfjEzKtso5VzzuTho=",
+        "chat2plot-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "chat2plot-0.0.4-py3-none-any.whl": [
+          "WUfozQ/UHBTlHq7F2tuk6sD5eUo82LjW0iEux1mMdqM=",
           "py3"
         ]
       }
@@ -56704,6 +56764,18 @@
       "wheels": {
         "gscipy-0.1.3-py3-none-any.whl": [
           "3whhA4yEP+wZCtygGiioLxnT8ix565QYEZMW6u+h9pE=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.4": {
+      "sdist": [
+        "2vExDgitGc7+bqFohLvcZQTkLVJvRHoH0XwyrOWnEho=",
+        "gscipy-0.1.4.tar.gz"
+      ],
+      "wheels": {
+        "gscipy-0.1.4-py3-none-any.whl": [
+          "wPaz5R8zt0yLiZhi70myPS8uroVo5rv6gwiHuCNZ5yY=",
           "py3"
         ]
       }
@@ -119959,6 +120031,18 @@
           "py3"
         ]
       }
+    },
+    "0.2.4": {
+      "sdist": [
+        "jqAAOt2h6kPmF6q8BfIlxLnIHnOsUShWyCdvw6V/bRU=",
+        "pyproject-generator-0.2.4.tar.gz"
+      ],
+      "wheels": {
+        "pyproject_generator-0.2.4-py3-none-any.whl": [
+          "fp5XpwUBjYWdGTToW1GFSO3Hv//POal2xePjOyzhRmE=",
+          "py3"
+        ]
+      }
     }
   },
   "pyramid-simpleform-boldprogressives-fork": {
@@ -134324,6 +134408,12 @@
       "sdist": [
         "+OpK7FaS3sb95rwhoU7y07x40eBnTayrbigvKH7cESg=",
         "returnn-1.20230508.105629.tar.gz"
+      ]
+    },
+    "1.20230509.160323": {
+      "sdist": [
+        "t3Wv+wEAIog0zHsib5Is4fI2AyQhSt7QEtT+oWexU4U=",
+        "returnn-1.20230509.160323.tar.gz"
       ]
     }
   },

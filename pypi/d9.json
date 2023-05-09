@@ -14090,6 +14090,18 @@
         ]
       }
     },
+    "1.29.130": {
+      "sdist": [
+        "HirBhpPItAti2kzcwWwiA0tPSAuaGn5eSWdfzhIWSNA=",
+        "botocore-a-la-carte-healthlake-1.29.130.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_healthlake-1.29.130-py3-none-any.whl": [
+          "R/LZSn6okIHQ4blO1WC4jZTNhhRsvaCBtDBumR7Ihig=",
+          "py3"
+        ]
+      }
+    },
     "1.29.42": {
       "sdist": [
         "vFWeQs5Y6u5AAvnNE57XQITuCPEZsk66qxW+s+NC1XU=",
@@ -20234,6 +20246,12 @@
       "sdist": [
         "2zHNZ2GpXpuC0JsA1mEeZy9UIeZdZlE4OsCKc28zBzc=",
         "cohere-sagemaker-0.5.0.tar.gz"
+      ]
+    },
+    "0.6.0": {
+      "sdist": [
+        "O/yfAELAyw04U2GzxS+cS1lRJRBZzltQJ2ez2uYYdJE=",
+        "cohere-sagemaker-0.6.0.tar.gz"
       ]
     }
   },
@@ -48337,6 +48355,22 @@
           "py3"
         ]
       }
+    },
+    "0.4.1": {
+      "wheels": {
+        "hindilemmatizer-0.4.1-py3-none-any.whl": [
+          "NGGrphC3XRgskuHhQLJTMIRV6vXg9p2xOUAag6CJy3c=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.0": {
+      "wheels": {
+        "hindilemmatizer-0.5.0-py3-none-any.whl": [
+          "5UZuMBap3ZpkXIPQasqZVsnsAAJ+zuFKhpsGUZK8AZw=",
+          "py3"
+        ]
+      }
     }
   },
   "hinhello": {
@@ -58116,10 +58150,10 @@
         ]
       }
     },
-    "3.0b0": {
+    "3.0a0": {
       "wheels": {
-        "jarvis_ironman-3.0b0-py3-none-any.whl": [
-          "/YDXmiNTSUqFl68/VufHXZUBGoKiqb+S4XwlCRPDZ5o=",
+        "jarvis_ironman-3.0a0-py3-none-any.whl": [
+          "BJEOfYKd3ij+TzxdSAn9GFKSLZJBMd7yJpqvsGosi1Q=",
           "py3"
         ]
       }
@@ -71944,6 +71978,18 @@
       "wheels": {
         "ml_starter-0.0.31-py3-none-any.whl": [
           "0kv39ybfUfHaKgoVg3aJMWSnzBHts1n6WSyGwfBTbCM=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.32": {
+      "sdist": [
+        "jK/NY0aP5DaJeV9TTOB9y3F3Ee5aK1h4u0UF7b42L4Y=",
+        "ml-starter-0.0.32.tar.gz"
+      ],
+      "wheels": {
+        "ml_starter-0.0.32-py3-none-any.whl": [
+          "ZqTRy+hsTqWoaMgNXtatmSZkOeDrM1rFZmpnWK360Lg=",
           "py3"
         ]
       }
@@ -89974,6 +90020,20 @@
       "wheels": {
         "panchuang_ai_202012_202104-2023.2.16.0-py3-none-any.whl": [
           "b1hI/sXX96tbR+PhWw5t/z4MH6YKRgKdrHXqwW5PXdw=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "pano-airflow": {
+    "2.7.0.dev0": {
+      "sdist": [
+        "kJZmMAk9A7SP6eJwF3e+XJW1ushGS1tCGU64nXW8ksE=",
+        "pano-airflow-2.7.0.dev0.tar.gz"
+      ],
+      "wheels": {
+        "pano_airflow-2.7.0.dev0-py3-none-any.whl": [
+          "g90lhz38gmYAmfyD2ZsEWrZdWAdxTVb2AlyEhQeYO2g=",
           "py3"
         ]
       }
@@ -148252,6 +148312,18 @@
       "wheels": {
         "wallaroo-2023.1.0rc1-py3-none-any.whl": [
           "A76dqA0RIAPIxH0IlXstDHEkkWot2aq16aRViyCgbbI=",
+          "py3"
+        ]
+      }
+    },
+    "2023.2.0rc1": {
+      "sdist": [
+        "EFUWhkkfmekmR0TlDY+vEX0hkcFpIt97+nqT2oK9DFE=",
+        "wallaroo-2023.2.0rc1.tar.gz"
+      ],
+      "wheels": {
+        "wallaroo-2023.2.0rc1-py3-none-any.whl": [
+          "QcZF6oLr2I5anSQguU6Y7kpxQbaX9JEdHL1Y7rDrHg8=",
           "py3"
         ]
       }

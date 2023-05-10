@@ -9186,6 +9186,14 @@
         ]
       }
     },
+    "0.37.4": {
+      "wheels": {
+        "aws_glue_sessions-0.37.4-2f254a-py2.py3-none-any.whl": [
+          "17G8BuDo8b3zMG06On28pieSo9p00DqpmQiMIMerIQM=",
+          "py2.py3"
+        ]
+      }
+    },
     "0.4": {
       "sdist": [
         "qEdiD0ExmGSuL7zKVsJAx+EACqZaT41MpHLmgwxnvMM=",
@@ -14098,6 +14106,18 @@
       "wheels": {
         "botocore_a_la_carte_healthlake-1.29.130-py3-none-any.whl": [
           "R/LZSn6okIHQ4blO1WC4jZTNhhRsvaCBtDBumR7Ihig=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.131": {
+      "sdist": [
+        "4zJaeUXOUCNgn+de+cJH7dGNnoEpcKgtFgUbz36S+Ko=",
+        "botocore-a-la-carte-healthlake-1.29.131.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_healthlake-1.29.131-py3-none-any.whl": [
+          "9gAwMeoj5oqF8eoJMIoW3FqdO6buoidrMyjPSgORivM=",
           "py3"
         ]
       }
@@ -20258,6 +20278,12 @@
       "sdist": [
         "rvtNLLMY/dNR62nk0RUajwUsdOnqFLVqeqEFirPc90Q=",
         "cohere-sagemaker-0.6.1.tar.gz"
+      ]
+    },
+    "0.6.2": {
+      "sdist": [
+        "/dCp9Ahjjg3ZJ9Vnl3XjhBJC4hBAPK3sGbeUs7LDG5E=",
+        "cohere-sagemaker-0.6.2.tar.gz"
       ]
     }
   },
@@ -27870,6 +27896,30 @@
       "wheels": {
         "devopstestor-1.4-py3-none-any.whl": [
           "z3jPdl1HhSWgRWfwZ3HJDYG5mm62z4LIsLeXajdGNMM=",
+          "py3"
+        ]
+      }
+    },
+    "1.5": {
+      "sdist": [
+        "N7BElCYTJCP5Z59aKdILC4ugyWDxSXU6sN5GKI5zV2o=",
+        "devopstestor-1.5.tar.gz"
+      ],
+      "wheels": {
+        "devopstestor-1.5-py3-none-any.whl": [
+          "xsKs7b8mFqXwhhfZ18wp/IQB2WjTaZtYZy9F0DHDm4M=",
+          "py3"
+        ]
+      }
+    },
+    "1.6": {
+      "sdist": [
+        "KMEkCJz0Kuq5a11RxwZj7WPIYmlt/L2fhEni2oslz48=",
+        "devopstestor-1.6.tar.gz"
+      ],
+      "wheels": {
+        "devopstestor-1.6-py3-none-any.whl": [
+          "sp9tBzP8XCcODM0FnXDylBXz2+YjbQhKHsl2XsQH0+Q=",
           "py3"
         ]
       }
@@ -44766,22 +44816,10 @@
     }
   },
   "fuzzypyseg": {
-    "0.1": {
+    "1.0.1": {
       "sdist": [
-        "cyiPXjVtoihye06LmNAH7Oon7iKdwkNqEfYrTRq+e68=",
-        "FuzzyPySeg-0.1.tar.gz"
-      ]
-    },
-    "0.2": {
-      "sdist": [
-        "o+YG4GgxdR5YOsX/QWP8Z4V7q+QVNfs1D9EtkaAWhkg=",
-        "FuzzyPySeg-0.2.tar.gz"
-      ]
-    },
-    "0.3": {
-      "sdist": [
-        "SG4mICr0aCVOEA9qar01CaV+X8Rw6kUnoULP0qFiA2E=",
-        "FuzzyPySeg-0.3.tar.gz"
+        "IchdPECexnfpkkTvpZRN7Uj6SvuWIiAO4DOiWtHiN4Q=",
+        "FuzzyPySeg-1.0.1.tar.gz"
       ]
     }
   },
@@ -48374,6 +48412,38 @@
       "wheels": {
         "hindilemmatizer-0.5.0-py3-none-any.whl": [
           "5UZuMBap3ZpkXIPQasqZVsnsAAJ+zuFKhpsGUZK8AZw=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.1": {
+      "wheels": {
+        "hindilemmatizer-0.5.1-py3-none-any.whl": [
+          "LvAvs8miTRODSxTxKxh29A+7gE3hXlqrlDvLwo7LToc=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.2": {
+      "wheels": {
+        "hindilemmatizer-0.5.2-py3-none-any.whl": [
+          "GUJVKqgi6Gl0Pv/gKPtOXM7CjYnscRQIuE+r+DksOCY=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.3": {
+      "wheels": {
+        "hindilemmatizer-0.5.3-py3-none-any.whl": [
+          "XzCowyplP3MtIg1bmA5DHlIhj2iikEBbQoakgbj8hGw=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.4": {
+      "wheels": {
+        "hindilemmatizer-0.5.4-py3-none-any.whl": [
+          "z6wjLhG0LvrGLyWiFrSTfG1drxpnZWCkXb4I5DWe5pg=",
           "py3"
         ]
       }
@@ -72035,6 +72105,30 @@
           "py3"
         ]
       }
+    },
+    "0.0.33": {
+      "sdist": [
+        "nf8pELZK3ctFvl3J9QLz4O1BEWiit38vUEBxImPp+qc=",
+        "ml-starter-0.0.33.tar.gz"
+      ],
+      "wheels": {
+        "ml_starter-0.0.33-py3-none-any.whl": [
+          "F8fYUagbjCQ7Q0F7OC4tK29/GPSooMzVcgckDir5lGg=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.34": {
+      "sdist": [
+        "rE4moa822yq4WoeSbAEJ/PO4qAT9eYRZu62h9RT7Z70=",
+        "ml-starter-0.0.34.tar.gz"
+      ],
+      "wheels": {
+        "ml_starter-0.0.34-py3-none-any.whl": [
+          "dx5IwUb9vn6UNg/ZnQVcCrUTfATBf+kbX86nb185UIo=",
+          "py3"
+        ]
+      }
     }
   },
   "mlos": {
@@ -85894,6 +85988,14 @@
       "wheels": {
         "odoo11_addon_account_invoice_start_end_dates-11.0.1.0.0.99.dev7-py2.py3-none-any.whl": [
           "k+M1Qs2msFDj8g7gB2IDF2UMxPYNNTrP0w/R1CYcrAE=",
+          "py2.py3"
+        ]
+      }
+    },
+    "11.0.1.0.0.99.dev8": {
+      "wheels": {
+        "odoo11_addon_account_invoice_start_end_dates-11.0.1.0.0.99.dev8-py2.py3-none-any.whl": [
+          "1xDsbw1TR5AlcrIEj66qRB5VfZKAXJj6ik57sekNM9Q=",
           "py2.py3"
         ]
       }

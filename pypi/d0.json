@@ -16466,6 +16466,30 @@
         ]
       }
     },
+    "8.19.2": {
+      "sdist": [
+        "IKzvIHZYc37OVYg4P3TuyY1w9ETWnwmw7weWydiEO5A=",
+        "boris-behav-obs-8.19.2.tar.gz"
+      ],
+      "wheels": {
+        "boris_behav_obs-8.19.2-py2.py3-none-any.whl": [
+          "mNzDCsmdUGBR067SLzS87v6MegQYqkpI4ht7lfmYz8M=",
+          "py2.py3"
+        ]
+      }
+    },
+    "8.19.3": {
+      "sdist": [
+        "2zHz7C4Vqvh1q4XxwdZy8xQ6DTVW9LIqpm9chmGHA0g=",
+        "boris-behav-obs-8.19.3.tar.gz"
+      ],
+      "wheels": {
+        "boris_behav_obs-8.19.3-py2.py3-none-any.whl": [
+          "RJPJ04wecyaCuCFhbaR6kaf98i2s6mNoHG8FDTQfSoM=",
+          "py2.py3"
+        ]
+      }
+    },
     "8.9": {
       "sdist": [
         "ItDPkywPZx7sWOjAWUdU2zMfNFcE+WYQjcZ7E9TqCDg=",
@@ -41493,6 +41517,14 @@
           "py3"
         ]
       }
+    },
+    "0.21.3": {
+      "wheels": {
+        "fds.sdk.ExchangeDataFeedSnapshotAPIEntireExchange-0.21.3-py3-none-any.whl": [
+          "3YGHmiiRm2T0MYzUtsrtgBRErcnJXk90l6fk4DaOuPU=",
+          "py3"
+        ]
+      }
     }
   },
   "fds.sdk.factsetownershipreportbuilder": {
@@ -41524,6 +41556,14 @@
       "wheels": {
         "fds.sdk.FactSetOwnershipReportBuilder-1.0.1-py3-none-any.whl": [
           "J73z1yHQl5odNZx3el36M+nea1vt+ZyMuz9uedfgwSU=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.2": {
+      "wheels": {
+        "fds.sdk.FactSetOwnershipReportBuilder-1.0.2-py3-none-any.whl": [
+          "TkXkH/mOeVST7iJsFfuaedjB4YUMv6n5A0DYdDHgm9o=",
           "py3"
         ]
       }
@@ -52981,6 +53021,14 @@
           "py2.py3"
         ]
       }
+    },
+    "3.1.39": {
+      "wheels": {
+        "huaweicloudsdkdwr-3.1.39-py2.py3-none-any.whl": [
+          "8mLg/wu/jxgHGn1pyR3myZQS/d39hSGP3+sswluLlj4=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "huginn": {
@@ -62568,6 +62616,18 @@
       "wheels": {
         "lightly-1.4.4-py3-none-any.whl": [
           "tzWS667XcPAoSgPtpW9mMYKfWUDM3N9f+a6GCw7xWrY=",
+          "py3"
+        ]
+      }
+    },
+    "1.4.5": {
+      "sdist": [
+        "++a9/ZPnNt9z+l7FaKZlq78DAOkoicRW79WtL3ZlPrI=",
+        "lightly-1.4.5.tar.gz"
+      ],
+      "wheels": {
+        "lightly-1.4.5-py3-none-any.whl": [
+          "DuoVbvp8E6Ufhs8zMxWPwM6Px3m4cg2k2SQmOZVDtGg=",
           "py3"
         ]
       }
@@ -94814,6 +94874,18 @@
         ]
       }
     },
+    "0.21.0": {
+      "sdist": [
+        "MjC4Aq9N5RrGpCjJomKWsvPcf81Lc+oD5xlTcqx1ikg=",
+        "pyroSAR-0.21.0.tar.gz"
+      ],
+      "wheels": {
+        "pyroSAR-0.21.0-py3-none-any.whl": [
+          "sQM8nhkdvzKK0aHZgo1DYzIH8p/H3Q3ReNey4mSgpKE=",
+          "py3"
+        ]
+      }
+    },
     "0.5": {
       "sdist": [
         "kbHtSfN4XcSSZKx0b428J9Emo2oNmYkL8QGEM2MYNSk=",
@@ -104076,125 +104148,13 @@
     }
   },
   "sail": {
-    "0.1.0": {
-      "sdist": [
-        "5LSPSPn2c6PPtS1r8B14PYOHeFzYVFxqJeZxVbTq9EA=",
-        "sail-0.1.0.tar.gz"
-      ]
-    },
-    "0.1.1": {
-      "sdist": [
-        "HE9XlBDqJIDbaUd7F3CCPLAOOm+1IeIJYZIIicXJ7i0=",
-        "sail-0.1.1.tar.gz"
-      ]
-    },
-    "0.1.2": {
-      "sdist": [
-        "zJMTqPcwbt+2JUmRzSTIdlUDzVMDKwhBRj9xSl9jr78=",
-        "sail-0.1.2.tar.gz"
-      ]
-    },
-    "0.1.2.1": {
-      "sdist": [
-        "p1VRMtN41dYeDY2emHmWP9d3fY9Qjk49ZZQ6wrxaT/M=",
-        "sail-0.1.2.1.tar.gz"
-      ]
-    },
-    "0.1.3": {
-      "sdist": [
-        "3BQk69EHJ1hNw3z1FEdjuSVJfAY3ABywI52wKX8X9cI=",
-        "sail-0.1.3.tar.gz"
-      ]
-    },
-    "0.1.3.1": {
-      "sdist": [
-        "p8/Mo73mj3Ix6434O12aZ9xxQJKE7oPTa/rjcrZGV08=",
-        "sail-0.1.3.1.tar.gz"
-      ]
-    },
     "0.2.0": {
-      "sdist": [
-        "Z5iG1vaHR4hDY7m4ovk/1CLTl0ffh+/5FiTZGQt1zUM=",
-        "sail-0.2.0.tar.gz"
-      ]
-    },
-    "0.2.1": {
-      "sdist": [
-        "0aWyqa3cPWHL8RbIxYBcuZHJBA46td7nJ7ndlUSduBo=",
-        "sail-0.2.1.tar.gz"
-      ]
-    },
-    "0.2.2": {
-      "sdist": [
-        "yoi3y9kSbM4nsq9hsmyxNF9G/ykS7C3P6epyd3GoTj8=",
-        "sail-0.2.2.tar.gz"
-      ]
-    },
-    "0.2.3": {
-      "sdist": [
-        "x+RpDWtc4T6Yf4nVsGSxs0Qj7T+Tuy2HMYjqgoV80CE=",
-        "sail-0.2.3.tar.gz"
-      ]
-    },
-    "0.2.4": {
-      "sdist": [
-        "pv9P/uI2BT230GjhWaxsyXe58yXCDqxZGpeu4KGQTG0=",
-        "sail-0.2.4.tar.gz"
-      ]
-    },
-    "0.3.0": {
-      "sdist": [
-        "3nV5ProVtyDwy7IWBR73PP5iUkvIMcYx6dGKegJeNSQ=",
-        "sail-0.3.0.tar.gz"
-      ]
-    },
-    "0.4.0": {
-      "sdist": [
-        "z2jZYOtDcjFk21jJD2Dnvo7OPG64F4IUW17KagH2opU=",
-        "sail-0.4.0.tar.gz"
-      ]
-    },
-    "0.5.0": {
-      "sdist": [
-        "l0awCJBpTE9iTniKEhaCh7rQ1neLdMD8S4VsHrqAk1Q=",
-        "sail-0.5.0.tar.gz"
-      ]
-    },
-    "0.5.1": {
-      "sdist": [
-        "X7u3PcYNYtLBayEu8uD9pCkt6V1MjhVL1bIq+9KVJus=",
-        "sail-0.5.1.tar.gz"
-      ]
-    },
-    "0.5.2": {
-      "sdist": [
-        "XPkZ+NUDtEfsPZqvYRPbcnzryGKR0cPAHGRLWTXImV8=",
-        "sail-0.5.2.tar.gz"
-      ]
-    },
-    "0.5.3": {
-      "sdist": [
-        "56LZPB2zBl9B/SeaZ8z4o8UV4xZWnogwTa/3529uOFU=",
-        "sail-0.5.3.tar.gz"
-      ]
-    },
-    "0.5.4": {
-      "sdist": [
-        "LcoKPFRY2sX5+Xbw4XYQb81oNBK6o1v2Rz8clCX94dQ=",
-        "sail-0.5.4.tar.gz"
-      ]
-    },
-    "0.5.5": {
-      "sdist": [
-        "OmoVqdd0BguSb/l8YdGQaFRzRgFcCrWrNYvLKn1eufs=",
-        "sail-0.5.5.tar.gz"
-      ]
-    },
-    "0.5.6": {
-      "sdist": [
-        "NIM+Uhrys8mH6kav0/v5/k4w420+pAtNmTX11uvSqDY=",
-        "sail-0.5.6.tar.gz"
-      ]
+      "wheels": {
+        "sail-0.2.0-py3-none-any.whl": [
+          "qBFgZxKPtDJgF94F12wE/Ym8Ud74RnikgsnBl/18xy0=",
+          "py3"
+        ]
+      }
     }
   },
   "salesforce-requests-oauthlib": {
@@ -115568,6 +115528,18 @@
       "wheels": {
         "ssb_altinn3_util-0.0.37-py3-none-any.whl": [
           "1qZKCYc7vEph+v3dHIfx2MIQJLlUCU0AzH82kTCVVy4=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.38": {
+      "sdist": [
+        "y20YfOd5EAhvgHtvNGjMTsVcahKWB/+tdj3Rr2PtMQY=",
+        "ssb_altinn3_util-0.0.38.tar.gz"
+      ],
+      "wheels": {
+        "ssb_altinn3_util-0.0.38-py3-none-any.whl": [
+          "53pGNFaTILlg80gvZvsh9JmC3aDWlRHSmbZWu7pZC/k=",
           "py3"
         ]
       }
@@ -129696,6 +129668,14 @@
       "wheels": {
         "tf_estimator_nightly-2.14.0.dev2023051008-py2.py3-none-any.whl": [
           "CEkutin6gM1AW4bqwa6X38N+tzV2n/NsXmW4i3EZurw=",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.14.0.dev2023051108": {
+      "wheels": {
+        "tf_estimator_nightly-2.14.0.dev2023051108-py2.py3-none-any.whl": [
+          "9hTEcT+JjkfZuS/0DUtonO9p9SK4Hr2X6+eAIFb1Ttw=",
           "py2.py3"
         ]
       }

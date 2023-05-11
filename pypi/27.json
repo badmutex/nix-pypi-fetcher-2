@@ -44567,6 +44567,20 @@
       }
     }
   },
+  "fastapi-gateway-ultra": {
+    "0.1.0": {
+      "sdist": [
+        "s0GBJQWqdw9d0zMnMxfZTztCqKBgaL4oiEB16q5nKso=",
+        "fastapi_gateway_ultra-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "fastapi_gateway_ultra-0.1.0-py3-none-any.whl": [
+          "Y1iOGoabUu1DURczGG5kemh88pMOcbsWNiRftwv9IPo=",
+          "py3"
+        ]
+      }
+    }
+  },
   "fastapi-scheduler": {
     "0.0.10": {
       "sdist": [
@@ -51538,6 +51552,18 @@
         ]
       }
     },
+    "0.10.0rc4": {
+      "sdist": [
+        "WsTJmINmfdBHFKl3LOrYUfFrVbGEvS+B+VxBYShc9xk=",
+        "geoapps-0.10.0rc4.tar.gz"
+      ],
+      "wheels": {
+        "geoapps-0.10.0rc4-py3-none-any.whl": [
+          "xK5KTeNpSWGBxj2IkWlmqLp4pFqmFzng5C2FnYd68TY=",
+          "py3"
+        ]
+      }
+    },
     "0.2.0": {
       "sdist": [
         "f9tBjlgwj31JwVLRYfp0CIT8Bv0pO8XlnMz84N8kyTY=",
@@ -56495,6 +56521,14 @@
           "py2.py3"
         ]
       }
+    },
+    "3.1.39": {
+      "wheels": {
+        "huaweicloudsdksecmaster-3.1.39-py2.py3-none-any.whl": [
+          "+TtypNDXB1yqXLfXgt98A9YNoKazpIkdHs3N0SAEzLA=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "huaweicloudsdksfsturbo": {
@@ -57070,6 +57104,14 @@
       "wheels": {
         "huaweicloudsdksfsturbo-3.1.38-py2.py3-none-any.whl": [
           "UwbTz9rlmSHsFkcFL1PVFD4oMZZfQQnd7x4rqssjK0U=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.39": {
+      "wheels": {
+        "huaweicloudsdksfsturbo-3.1.39-py2.py3-none-any.whl": [
+          "ArRSquH7Q7ukt+TF/09w2poyJSuwJzt5fFAzzOXmtKc=",
           "py2.py3"
         ]
       }
@@ -78556,6 +78598,18 @@
       "wheels": {
         "lsst_ctrl_mpexec-25.2023.1800-py3-none-any.whl": [
           "4w9fH8GCxh3eU6sUwo2lrhOQkER8oysbxp5uccr4vcU=",
+          "py3"
+        ]
+      }
+    },
+    "25.2023.1900": {
+      "sdist": [
+        "mB/1hLqjAk5Wxqk0Oz89cyi+tyW05oQxAtO0n8lgMK8=",
+        "lsst-ctrl-mpexec-25.2023.1900.tar.gz"
+      ],
+      "wheels": {
+        "lsst_ctrl_mpexec-25.2023.1900-py3-none-any.whl": [
+          "JkrbZpxmjOFDaGeJ4ZRW7fYyFErtkodouCEZh18LbKA=",
           "py3"
         ]
       }
@@ -111419,6 +111473,12 @@
         "OnqBKPCpswq3PcJyAkmflS/MeOM86HdDpNDMucOufVM=",
         "pulumi_akamai-4.5.0a1683661246.tar.gz"
       ]
+    },
+    "4.6.0a1683782330": {
+      "sdist": [
+        "AXEYAn0lZLbFLNtJjmRX2otgRXUuKXJZ/96/UneG8Eg=",
+        "pulumi_akamai-4.6.0a1683782330.tar.gz"
+      ]
     }
   },
   "pulumi-aws-lambdaedge": {
@@ -116686,6 +116746,90 @@
       "wheels": {
         "pyneweb-0.2.0-py3-none-any.whl": [
           "6K7di/CcobT9adfahyiu0MoN8H55ldrrRD7/xEjz0bk=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.0": {
+      "sdist": [
+        "vC5+2CbtACTJRzr+88rLhkmJa5mtX3m/gSHzelyL6Iw=",
+        "pyneweb-0.3.0.tar.gz"
+      ],
+      "wheels": {
+        "pyneweb-0.3.0-py3-none-any.whl": [
+          "HFOe1pJtz8F09Q22B/UU0JiTotuSwNxrBkpucRIvwOs=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.0": {
+      "sdist": [
+        "dEUypSYlBRuVhqQMWBQo70GWKHmIISig8OpuRDIFIRU=",
+        "pyneweb-0.4.0.tar.gz"
+      ],
+      "wheels": {
+        "pyneweb-0.4.0-py3-none-any.whl": [
+          "aycFOz+8TvbJwgu5hl8mpbgzeeRu/ysrbzdHO/II8DA=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.0": {
+      "sdist": [
+        "ZObrSwlPq1RrBFKJbANz5CsbUWjiF8ib+Mkqx3s+jfw=",
+        "pyneweb-0.5.0.tar.gz"
+      ],
+      "wheels": {
+        "pyneweb-0.5.0-py3-none-any.whl": [
+          "ythFXz7aHwH6C8H/fLERIhZv3UV00P8kwM9o12qDojQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.1": {
+      "sdist": [
+        "HGt3kxIV8q0q9rMbK1Wm1p4E12CM5XbLGvzOLqqCo7E=",
+        "pyneweb-0.5.1.tar.gz"
+      ],
+      "wheels": {
+        "pyneweb-0.5.1-py3-none-any.whl": [
+          "gTBmxEcmN7gW0LNpC8GWKyqvS0K5XOVzFW168Y4tV+E=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.2": {
+      "sdist": [
+        "EYthK/Yx2f9G3gCVwZ2ramZVqppjLEVFl6uaV8BuXvY=",
+        "pyneweb-0.5.2.tar.gz"
+      ],
+      "wheels": {
+        "pyneweb-0.5.2-py3-none-any.whl": [
+          "46vTrhV9CQ+/iTyv9s06P94DRJkF3n5IjhZtNae/GRA=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.3": {
+      "sdist": [
+        "poYm5tOfb4QVQTwa0EHEwnQUba6kU6gp+JC4Gutxx5k=",
+        "pyneweb-0.5.3.tar.gz"
+      ],
+      "wheels": {
+        "pyneweb-0.5.3-py3-none-any.whl": [
+          "UbYro3LuiMnviqqSqsy7aljdD9Bm/7nkfgfOXZzaKgI=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.4": {
+      "sdist": [
+        "m0X25CfkdwOmErvwLP6qK/UiHgTSq6Gk7Wa53EIw/fM=",
+        "pyneweb-0.5.4.tar.gz"
+      ],
+      "wheels": {
+        "pyneweb-0.5.4-py3-none-any.whl": [
+          "AKPJBZ/Bx8lPfkTPLvyjknO1VmLnTWmFZQYmPX4iDzs=",
           "py3"
         ]
       }
@@ -153132,6 +153276,18 @@
       "wheels": {
         "wanna_ml-0.2.31-py3-none-any.whl": [
           "O5ywzR6SpSttRhTQ8xqdSWGaQL4LShjnpLW79D3piFs=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.32": {
+      "sdist": [
+        "8tkRheoWEymMzQyumcjmlEWMQD1Yxs+Macc+o9+DOYo=",
+        "wanna_ml-0.2.32.tar.gz"
+      ],
+      "wheels": {
+        "wanna_ml-0.2.32-py3-none-any.whl": [
+          "u5WK5nFecE21GJ9/DGNGnjAiNWNLqgkUiUNcrGi29TA=",
           "py3"
         ]
       }

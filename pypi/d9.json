@@ -15451,6 +15451,44 @@
       ]
     }
   },
+  "btconfig": {
+    "4.4.0": {
+      "sdist": [
+        "rWZ11mpuQZd4XY8pL6V5WSKBjiXS1Qt9of6z/TX4U1w=",
+        "btconfig-4.4.0.tar.gz"
+      ],
+      "wheels": {
+        "btconfig-4.4.0-py3-none-any.whl": [
+          "VqB91M0dugyU8TSBJAQfXI/hJJ6DX+ZxWu0+mAkXLdA=",
+          "py3"
+        ]
+      }
+    },
+    "4.4.1": {
+      "sdist": [
+        "jNKADeSbytnQxkdmAlamW8opLRGhtjgl1CCukXw8J28=",
+        "btconfig-4.4.1.tar.gz"
+      ],
+      "wheels": {
+        "btconfig-4.4.1-py3-none-any.whl": [
+          "uGuBeRc+FpuFbUYxrkqkHR8pr9Bs10iG9ND2IMY27TM=",
+          "py3"
+        ]
+      }
+    },
+    "4.4.2": {
+      "sdist": [
+        "nH5riWsdazQy2t9zNfaQwDqAEckaTUMEeSi4J/5IGRM=",
+        "btconfig-4.4.2.tar.gz"
+      ],
+      "wheels": {
+        "btconfig-4.4.2-py3-none-any.whl": [
+          "m6pYW1r7O1REllc3ZOs+051Ifsx0nLtsvqAuRuQRBvk=",
+          "py3"
+        ]
+      }
+    }
+  },
   "buddha": {
     "1.0.0": {
       "sdist": [
@@ -57890,38 +57928,14 @@
     }
   },
   "isqlab": {
-    "0.2.0": {
+    "0.3.3": {
       "sdist": [
-        "aoDznp17DZfw53VsODOpWutmJmtEBK76X+gBmiy1DfE=",
-        "isqlab-0.2.0.tar.gz"
+        "zphCWy4DbM8R3sgHLHm++NreOfIqnAEtND3RqMfhlBE=",
+        "isqlab-0.3.3.tar.gz"
       ],
       "wheels": {
-        "isqlab-0.2.0-py3-none-any.whl": [
-          "2gHVHzJpSAmfUbvy9DWcoWcBDkTv0VHLdQ+tbN+uM/o=",
-          "py3"
-        ]
-      }
-    },
-    "0.3.0": {
-      "sdist": [
-        "TPSn0vQ89j5vKdcYZm+ct7ANcIxEogu26Jjj1np1O9I=",
-        "isqlab-0.3.0.tar.gz"
-      ],
-      "wheels": {
-        "isqlab-0.3.0-py3-none-any.whl": [
-          "j48RKyxldHOj1GWYhuaoeD39jNVq2lgXbpsvcx7mr/s=",
-          "py3"
-        ]
-      }
-    },
-    "0.3.1": {
-      "sdist": [
-        "+HPNqxsGxCUGpOCI6gTztb2AYpmATk/LTWg8ix3f1Eg=",
-        "isqlab-0.3.1.tar.gz"
-      ],
-      "wheels": {
-        "isqlab-0.3.1-py3-none-any.whl": [
-          "wVPEUTLeiqdXEV+e2JOynaGG/QIygTHh54RNckeC/CE=",
+        "isqlab-0.3.3-py3-none-any.whl": [
+          "0oilslvbnKM0D9Jp6VFMMJxon30cgHaEkP9scS6Vosc=",
           "py3"
         ]
       }
@@ -68566,6 +68580,30 @@
       "wheels": {
         "mattlib-1.1.0-py3-none-any.whl": [
           "aeMsIw6YPYlRsrl6b9zZ7OoIxpHZ1N3ezBv9ybKfRj4=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.1": {
+      "sdist": [
+        "sjzgYm6u4yO3bvZfQuchjXbOlKkK0Y1yH/o+qroI31s=",
+        "mattlib-1.1.1.tar.gz"
+      ],
+      "wheels": {
+        "mattlib-1.1.1-py3-none-any.whl": [
+          "Lm18qjT0owNLscUyC/cGIikbKiS32NuwnIoJYRjlHuI=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.2": {
+      "sdist": [
+        "fa6NRXBONdK53RZgnrCKrx95dLExQB9NdVks6t2u/GU=",
+        "mattlib-1.1.2.tar.gz"
+      ],
+      "wheels": {
+        "mattlib-1.1.2-py3-none-any.whl": [
+          "pQjifuMQ0gfbT6XV992QXntD6MrSovW3eReC1AhBSKU=",
           "py3"
         ]
       }
@@ -85484,6 +85522,14 @@
         ]
       }
     },
+    "15.0.1.0.0.35": {
+      "wheels": {
+        "odoo_addon_hotel-15.0.1.0.0.35-py3-none-any.whl": [
+          "4WK/pk3QKn0Z1r6n66Tev9/X/WfQ5z/Mhny/EgHy4yc=",
+          "py3"
+        ]
+      }
+    },
     "15.0.1.0.0.7": {
       "wheels": {
         "odoo_addon_hotel-15.0.1.0.0.7-py3-none-any.whl": [
@@ -85566,6 +85612,14 @@
       "wheels": {
         "odoo_addon_rpc_helper-16.0.1.0.0.2-py3-none-any.whl": [
           "nbFV7ANOGQLmacoP+fhPOL8/3Nbcf9KbtlXRx03ckQw=",
+          "py3"
+        ]
+      }
+    },
+    "16.0.1.0.0.3": {
+      "wheels": {
+        "odoo_addon_rpc_helper-16.0.1.0.0.3-py3-none-any.whl": [
+          "Kqh/UoKwD8q4OJaaJhbP2+2Y+JXoWiXm3mNFtIDAP7s=",
           "py3"
         ]
       }
@@ -97246,6 +97300,18 @@
         ]
       }
     },
+    "0.3.3.dev61": {
+      "sdist": [
+        "qzR7ob5NSPSoW9CFy3iEdeh3XmNYLS7pNjOZXALCRFQ=",
+        "psyke-0.3.3.dev61.tar.gz"
+      ],
+      "wheels": {
+        "psyke-0.3.3.dev61-py3-none-any.whl": [
+          "ZbVUUuW/OaaqdsrHMZ841bUg9DfNdsIkQDnLB/5B4sg=",
+          "py3"
+        ]
+      }
+    },
     "0.3.3.dev7": {
       "sdist": [
         "RV5LdyCmI+gQG5P/lVXiC7LLiQHleEoKv/2E1ZZWqpI=",
@@ -98424,6 +98490,12 @@
       "sdist": [
         "Ak7xuo3rYzytSgEi2gEBGbarpMnl5r3wWbQvR+R3bOM=",
         "pulumi_kafka-3.5.0a1683612894.tar.gz"
+      ]
+    },
+    "3.5.0a1683784467": {
+      "sdist": [
+        "ns5l70oIT7tMBXCXPnKRL8W/NkXDjVeMqBHgyEuPBv4=",
+        "pulumi_kafka-3.5.0a1683784467.tar.gz"
       ]
     }
   },
@@ -134124,6 +134196,22 @@
       "wheels": {
         "starcatalogquery-0.1.1-py3-none-any.whl": [
           "zwytK9JqcHDWH8XgDfsuYoMqwv0qS/o1E7jpHuVENoM=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "wheels": {
+        "starcatalogquery-0.1.2-py3-none-any.whl": [
+          "RyV/uM3/HrB+evAYLOxQ2T10GEfvlfD992cdsrsloxY=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.3": {
+      "wheels": {
+        "starcatalogquery-0.1.3-py3-none-any.whl": [
+          "odLn91t0Cp1nNc5CbmMpLRl0qCMTMpxaYSpgoNpYArQ=",
           "py3"
         ]
       }

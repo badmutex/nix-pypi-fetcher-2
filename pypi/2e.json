@@ -401,6 +401,30 @@
         "MjNET9NBbznzOBk1q1eTo1hrxlsMCCHFb+pF1Vzzi60=",
         "adafruit-circuitpython-fona-2.1.9.tar.gz"
       ]
+    },
+    "2.2.0": {
+      "sdist": [
+        "KCs9YgNdXWh+oG+5a2/J8AiNk9kowm3zBFXSm2F/FeM=",
+        "adafruit-circuitpython-fona-2.2.0.tar.gz"
+      ],
+      "wheels": {
+        "adafruit_circuitpython_fona-2.2.0-py3-none-any.whl": [
+          "+ZgaJkpUWflcKHNOrqGm6phHy4EdHiepujTf9eqXg4o=",
+          "py3"
+        ]
+      }
+    },
+    "3.0.0": {
+      "sdist": [
+        "dLZ+qnRftf9F+SV2p19BOWKujBKjbXtGGY6Yabj+7ys=",
+        "adafruit-circuitpython-fona-3.0.0.tar.gz"
+      ],
+      "wheels": {
+        "adafruit_circuitpython_fona-3.0.0-py3-none-any.whl": [
+          "GU4GCzjewD1Wf+2BrcB0MnwMq+U9s/SIBKaN5+1OXcc=",
+          "py3"
+        ]
+      }
     }
   },
   "adafruit-circuitpython-ms8607": {
@@ -47886,6 +47910,14 @@
         ]
       }
     },
+    "0.21.3": {
+      "wheels": {
+        "fds.sdk.Publisher-0.21.3-py3-none-any.whl": [
+          "iTCPX2n+jWi331cAxvZ7zk63ffvMhS3XmhuX9pZ8DZk=",
+          "py3"
+        ]
+      }
+    },
     "0.8.0": {
       "wheels": {
         "fds.sdk.Publisher-0.8.0-py3-none-any.whl": [
@@ -47930,6 +47962,14 @@
       "wheels": {
         "fds.sdk.Publisher-0.8.5-py3-none-any.whl": [
           "XkXosF7S5FqrLJjXkxNhE91Cgp+mjx1Ff3suEYYiVpI=",
+          "py3"
+        ]
+      }
+    },
+    "0.8.6": {
+      "wheels": {
+        "fds.sdk.Publisher-0.8.6-py3-none-any.whl": [
+          "CRkxDEiKjoTS68fLXxi88SbmRLFQaobYWrjFIqB6Pbc=",
           "py3"
         ]
       }
@@ -51334,6 +51374,10 @@
         "fondant-0.1.dev0.tar.gz"
       ],
       "wheels": {
+        "fondant-0.1.0.dev0-py3-none-any.whl": [
+          "CtFo/rltOvAQ8SLaM8AOZbi6aaL4kQZs+kT4/C/nEVE=",
+          "py3"
+        ],
         "fondant-0.1.dev0-py3-none-any.whl": [
           "+Z9mkE6d2mChQflSggM4j6EuDUeNBH6gDcIwXYZPytg=",
           "py3"
@@ -62702,6 +62746,14 @@
         ]
       }
     },
+    "3.1.39": {
+      "wheels": {
+        "huaweicloudsdkas-3.1.39-py2.py3-none-any.whl": [
+          "//XuCf6GeLAK4LH7Tx+R2FzNzJk9MA3QLlxONFrbIeo=",
+          "py2.py3"
+        ]
+      }
+    },
     "3.1.4": {
       "wheels": {
         "huaweicloudsdkas-3.1.4-py2.py3-none-any.whl": [
@@ -68552,6 +68604,20 @@
       "wheels": {
         "jquery3_xuexi_shouce_jifan-2023.2.11.0-py3-none-any.whl": [
           "7igWQfBQqMEF7bzEXrPgYz/lXHAw/qsRu1td+tiok1s=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "jschemator": {
+    "0.0.1": {
+      "sdist": [
+        "AKW8eklnk499XoNoBh0d4p5mDFXwNYaNT4HvJuOuV8Q=",
+        "jschemator-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "jschemator-0.0.1-py3-none-any.whl": [
+          "qOmut4AAzOd08JFZp2IP7d2mbvijRDfzQrXxinsukg4=",
           "py3"
         ]
       }
@@ -83680,6 +83746,30 @@
         ]
       }
     },
+    "21.5.0": {
+      "sdist": [
+        "eNZDE6lGmd9bcwzZ7Wfk1EbMdvj1q4HcqW7J3rxODWU=",
+        "mirutil-21.5.0.tar.gz"
+      ],
+      "wheels": {
+        "mirutil-21.5.0-py2.py3-none-any.whl": [
+          "ldeoX0jFDSihjSgHw+hTop84/pFPIREM3+fBd5/QOE4=",
+          "py2.py3"
+        ]
+      }
+    },
+    "21.5.1": {
+      "sdist": [
+        "p0DU6GXPj2zyB6V4J5NyuuEa3Xix/HZEBBsma/UrFNg=",
+        "mirutil-21.5.1.tar.gz"
+      ],
+      "wheels": {
+        "mirutil-21.5.1-py2.py3-none-any.whl": [
+          "bBAFYtHNrp0tF5TablLAdYWDpr4/2OdEYUyQwEEdMSw=",
+          "py2.py3"
+        ]
+      }
+    },
     "3.0": {
       "sdist": [
         "tH9Jc0svtwTNqR+uj2WCcDaNWhxlTpKgIu+eSI1yv4A=",
@@ -89716,6 +89806,12 @@
       "sdist": [
         "s94PQM9Q0OD3KoAaVM1kxuZyrnUF9LnkqC5qBynhmyc=",
         "netbluemind4-4.1.65201.tar.gz"
+      ]
+    },
+    "4.1.65207": {
+      "sdist": [
+        "wgFn1K4M2YMi0tcW9TudTqw/O2+T8d6CHyIvL220I8A=",
+        "netbluemind4-4.1.65207.tar.gz"
       ]
     }
   },
@@ -102062,6 +102158,20 @@
       "wheels": {
         "persianSyllableCounter-0.0.1-py3-none-any.whl": [
           "WY5IjP/I+JSbZOBI+VFCK5dHU6DSEhXIYwqoK+J7dUM=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "petriflowlibrary": {
+    "1.0.1": {
+      "sdist": [
+        "pinMAtNQFpZAXrovrhent7PtsUDy3b+xI5s+cSI3HK0=",
+        "petriflowLibrary-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "petriflowLibrary-1.0.1-py3-none-any.whl": [
+          "/yeJByCybTXRlps48+eTHPJFMs/6oJGfbX4Cd1ZYjis=",
           "py3"
         ]
       }
@@ -128614,6 +128724,26 @@
         ]
       }
     },
+    "0.3.13": {
+      "sdist": [
+        "Ucq3EBKNh9zvPp50s4R1va3gm5QcKzqRqRoADxEzDBc=",
+        "Slpapy-0.3.13.tar.gz"
+      ],
+      "wheels": {
+        "Slpapy-0.3.13-py3-none-any.whl": [
+          "UsN4ue1uFLdYF3BexZ89OIE3+T20noC51T6GnD/d7ZM=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.14": {
+      "wheels": {
+        "Slpapy-0.3.14-py3-none-any.whl": [
+          "ryCcIkqg9dRQYhyyllEzNayLp4DUhqnAgPEcCpVxr4I=",
+          "py3"
+        ]
+      }
+    },
     "0.3.2": {
       "sdist": [
         "jy+goQgh+UyXVXgS/L+49vJnODJ7yKMHyBff1I4kZH0=",
@@ -154626,10 +154756,10 @@
         ]
       }
     },
-    "0.3.0rc1": {
+    "0.3.0rc3": {
       "wheels": {
-        "WeConnect_SolarManager-0.3.0rc1-py3-none-any.whl": [
-          "yqbjW5s3jwELjEoAEBQA0lADyPUt9bbB2fWthg5n8fI=",
+        "WeConnect_SolarManager-0.3.0rc3-py3-none-any.whl": [
+          "Xi+sXmvzJffQ473kM2W5ND9JEYrK2irwmGFqypVhnOk=",
           "py3"
         ]
       }

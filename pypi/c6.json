@@ -5594,10 +5594,40 @@
         "alphaz-0.7.7.15.tar.gz"
       ]
     },
+    "0.7.7.17": {
+      "sdist": [
+        "Dhs9hSzqMKurOdMfDkP3PW9uReaC8i1yg18Imfhw5kM=",
+        "alphaz-0.7.7.17.tar.gz"
+      ]
+    },
+    "0.7.7.18": {
+      "sdist": [
+        "Y8aFmVfYx0EW80ZJ+amKJeHhPJH2Jx3Rh6hS6Pb9BCI=",
+        "alphaz-0.7.7.18.tar.gz"
+      ]
+    },
+    "0.7.7.19": {
+      "sdist": [
+        "pgejVNYJ0NVsBVl5BujGxmJhUZEF7wTy0lpiYG1YESA=",
+        "alphaz-0.7.7.19.tar.gz"
+      ]
+    },
     "0.7.7.2": {
       "sdist": [
         "6pTZSeDIID8alXLuRRU/3qxx17zYTGs3qmVwuAFcf9A=",
         "alphaz-0.7.7.2.tar.gz"
+      ]
+    },
+    "0.7.7.20": {
+      "sdist": [
+        "E1N0xnR2p8XdnF9kwGwkYoBpuOdd+HAjzHy8Y7gLlCs=",
+        "alphaz-0.7.7.20.tar.gz"
+      ]
+    },
+    "0.7.7.21": {
+      "sdist": [
+        "52y+DlheFRm4O794Klyl3dBarxoTxAcii8OPZwHqNHs=",
+        "alphaz-0.7.7.21.tar.gz"
       ]
     },
     "0.7.7.3": {
@@ -16474,6 +16504,18 @@
         ]
       }
     },
+    "1.29.132": {
+      "sdist": [
+        "yN1bYaCmfnSC0v7dHvO1wN6jycKoGxPKexPOJu+2o9s=",
+        "botocore-a-la-carte-chime-sdk-identity-1.29.132.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_chime_sdk_identity-1.29.132-py3-none-any.whl": [
+          "w7SOWpnVwz+Vp2AfCUAdq5bDzJ6TwAZvHnwrJi9uKiQ=",
+          "py3"
+        ]
+      }
+    },
     "1.29.42": {
       "sdist": [
         "DOG3nmiqvxD7mw9W7o0gaqy3vq8k49ATwp/1WSE6SDE=",
@@ -17540,6 +17582,18 @@
       "wheels": {
         "botocore_a_la_carte_controltower-1.29.131-py3-none-any.whl": [
           "886k+2YeA1UrO9CzSHkDc/S6UefGjMzjXCAB6JmKpgs=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.132": {
+      "sdist": [
+        "2EXomiC08GDcn3QonixvEQ/tFqEgTJ67EDh6sAFAqOg=",
+        "botocore-a-la-carte-controltower-1.29.132.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_controltower-1.29.132-py3-none-any.whl": [
+          "9FkLww4o6K3t2hytpv7wqK46Bz6ffRCp3SvQOOmQqFo=",
           "py3"
         ]
       }
@@ -18614,6 +18668,18 @@
         ]
       }
     },
+    "1.29.132": {
+      "sdist": [
+        "UQXGHogBivVOreGfYStxvE51Q3XlMxXzItQi6F4ePVs=",
+        "botocore-a-la-carte-mgn-1.29.132.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_mgn-1.29.132-py3-none-any.whl": [
+          "Q/aAqZaElan9aHyzN1FIH0a3vRvFd8KGcyVu2fcseWI=",
+          "py3"
+        ]
+      }
+    },
     "1.29.42": {
       "sdist": [
         "5rEOt0VidYPL/sI6EHsduIsa4Z4qmOQ7L3l6bpIt9jM=",
@@ -19680,6 +19746,18 @@
       "wheels": {
         "botocore_a_la_carte_sesv2-1.29.131-py3-none-any.whl": [
           "jxIa33zV5UMyuDYUSv7vklbwKcSfgtJVi/SmRbkfawg=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.132": {
+      "sdist": [
+        "XItDhIAxETPOYHKyxYWWUgj2YY1r98KMiEkOAy5Ulo4=",
+        "botocore-a-la-carte-sesv2-1.29.132.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_sesv2-1.29.132-py3-none-any.whl": [
+          "f7IgC8WmAMl3K162rs34CRZwyY2kENiGit7+PJ9YH1Q=",
           "py3"
         ]
       }
@@ -53541,6 +53619,20 @@
       }
     }
   },
+  "fastlingo": {
+    "1.2.0": {
+      "sdist": [
+        "p97tFzOx8nVLIO6n0L72ZjCvzyAVl66m14VW33XQXsc=",
+        "fastlingo-1.2.0.tar.gz"
+      ],
+      "wheels": {
+        "fastlingo-1.2.0-py3-none-any.whl": [
+          "zf/m1igeqxzf/JbJcxaGKZcOuq9zdz63Sf48I28OKu8=",
+          "py3"
+        ]
+      }
+    }
+  },
   "fastminer": {
     "0.1.0": {
       "sdist": [
@@ -56518,6 +56610,18 @@
       "wheels": {
         "forestadmin_datasource_toolkit-0.1.0b19-py3-none-any.whl": [
           "MB07yuaZr1TVdPWXqQttVMtGT52GDllMGKS3P8YUxiw=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.0b20": {
+      "sdist": [
+        "Ol1ld9Dxd8QHYpwQyN0enVxubTlp425UPHADAzkEJEw=",
+        "forestadmin_datasource_toolkit-0.1.0b20.tar.gz"
+      ],
+      "wheels": {
+        "forestadmin_datasource_toolkit-0.1.0b20-py3-none-any.whl": [
+          "klGvvR3oCmBHd/1xC7fqjzuG4ZX56rshJ3W07Dhz2j8=",
           "py3"
         ]
       }
@@ -73093,6 +73197,42 @@
           "py3"
         ]
       }
+    },
+    "0.0.6": {
+      "sdist": [
+        "liCTpRz8yhMgKhBBYRryQoDf+eDJK+cv0Twr5Wtse+E=",
+        "maoc_support_functions-0.0.6.tar.gz"
+      ],
+      "wheels": {
+        "maoc_support_functions-0.0.6-py3-none-any.whl": [
+          "S0eJmbbK5hOxBtDNXjYTlaKiSE0Lmwfzmn/RKbLXKKc=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.7": {
+      "sdist": [
+        "gQpJFNKthb3N+SWJQG+RsIXX3F8A67Sk87TMR8I9qT4=",
+        "maoc_support_functions-0.0.7.tar.gz"
+      ],
+      "wheels": {
+        "maoc_support_functions-0.0.7-py3-none-any.whl": [
+          "dDLbYlFxoDv33Tpi1kTsZeRw5ZdbKcMT8bQ+x0ZijBg=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.8": {
+      "sdist": [
+        "xYnA6Csbe5PWuf9ZI3aXWn2L/pw5Zffkq264V4Xt5mA=",
+        "maoc_support_functions-0.0.8.tar.gz"
+      ],
+      "wheels": {
+        "maoc_support_functions-0.0.8-py3-none-any.whl": [
+          "+ublS5zBjd/GPOlbRrWMF8mpTJmXc4t0wL1GU6iiuTE=",
+          "py3"
+        ]
+      }
     }
   },
   "mapbox-vector-tile": {
@@ -78058,6 +78198,56 @@
       "wheels": {
         "moby-0.0.3-py3-none-any.whl": [
           "ujUBwYlI6I09p2dy6Cyjpm/+cDgEy5HPzN1gWLxGvkI=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "mockupgen": {
+    "0.0.1": {
+      "sdist": [
+        "rZElLOzQsFrMaZGUflnL+37V9bALFnm7qcgAdKkZCoc=",
+        "mockupgen-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "mockupgen-0.0.1-py3-none-any.whl": [
+          "Gqz0u2Dcv4bzYTWxK6TA5KqAZUm1Xk2LKV94rTY/lLY=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "XFKDX+RIGwPQ8YKLlbhCGrPz0qETO+bUUMW23mt8Ekk=",
+        "mockupgen-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "mockupgen-0.0.2-py3-none-any.whl": [
+          "pkFL9jaq+ZuLV1WQvTZhH8LxYjHxd5jrolS6ADGjIqc=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "Eve97RSelMtNRRx3NBjz8vkxwROyjYsz7BImaXj6yss=",
+        "mockupgen-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "mockupgen-0.0.3-py3-none-any.whl": [
+          "1BTc7UkDtzP001P+tbHQ7Id3rdUS7tj5APduiL6vYyo=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.0": {
+      "sdist": [
+        "5RIBPH1MGOoz2XuxijloYrSTP3Uqa0KYHhrqfY5NL0Y=",
+        "mockupgen-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "mockupgen-1.0.0-py3-none-any.whl": [
+          "02Mi+wEgTzHyzL03f+f7oDFoSNMQwdlVcnBjgb2rJkg=",
           "py3"
         ]
       }
@@ -83754,6 +83944,30 @@
       "wheels": {
         "nudebomb-0.3.1-py3-none-any.whl": [
           "wBJSXPwLwNp1MsLbAfv6ufrmgOEBRUB/KzdCBPbai6Q=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.2": {
+      "sdist": [
+        "ZUy8et6JovZ9Y+MdTbQ2ELfjyL/L6GP9uCyDjWPd/sg=",
+        "nudebomb-0.3.2.tar.gz"
+      ],
+      "wheels": {
+        "nudebomb-0.3.2-py3-none-any.whl": [
+          "cmn417r3T/i2IxMvgeWqhDElQevkZ86vll/xEyP1yn4=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.3": {
+      "sdist": [
+        "XKS4jFqSrkfOjXb9GQnQ/+mjfSKV0iK1N9K5gQYO5Hs=",
+        "nudebomb-0.3.3.tar.gz"
+      ],
+      "wheels": {
+        "nudebomb-0.3.3-py3-none-any.whl": [
+          "17ydhBvAE8WhPk0m+UPP4DrIhhuYaTFeSZiZsZztd40=",
           "py3"
         ]
       }
@@ -138343,6 +138557,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.889": {
+      "sdist": [
+        "b5vwfcCvdcTL0qY/036rxI3XhbeWK1RQrUG+7V1Uigo=",
+        "tencentcloud-sdk-python-cii-3.0.889.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_cii-3.0.889-py2.py3-none-any.whl": [
+          "vPGuhrnTNmB+jUSFRgN9q/s3/a0t9ZCNEHFm6rsH8Ac=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tensorbay": {
@@ -140190,6 +140416,18 @@
       "wheels": {
         "testgres-1.8.6-py3-none-any.whl": [
           "Ql1S+uJJlQ8mc26KrodkLCAqylFx8ChJrk16YfPwiJE=",
+          "py3"
+        ]
+      }
+    },
+    "1.8.7": {
+      "sdist": [
+        "yWiTPCt+lzWv9suWaPeosG+Fq6z6IatpafJ1eymjOIU=",
+        "testgres-1.8.7.tar.gz"
+      ],
+      "wheels": {
+        "testgres-1.8.7-py3-none-any.whl": [
+          "gxgr8vAPzYdp4TvDkWWA4YAsBLQKVXoHvzIw5RhO3q8=",
           "py3"
         ]
       }
@@ -144720,6 +144958,18 @@
       "wheels": {
         "types_caldav-1.2.0.1-py3-none-any.whl": [
           "W8OWsg7CvaDwI66GX0N1oX8TEsEV/TIHAePu1JdefYk=",
+          "py3"
+        ]
+      }
+    },
+    "1.2.0.2": {
+      "sdist": [
+        "9h5aVpiiboD5VNWlvC1iO4dvrLX3WCADmOR939B/hdA=",
+        "types-caldav-1.2.0.2.tar.gz"
+      ],
+      "wheels": {
+        "types_caldav-1.2.0.2-py3-none-any.whl": [
+          "LTVTAX2VIW+O+g/hHIOOepkANuDNhKAtfOFx9Io97Ko=",
           "py3"
         ]
       }

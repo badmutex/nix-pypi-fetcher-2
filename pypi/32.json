@@ -485,6 +485,18 @@
           "py3"
         ]
       }
+    },
+    "2.0.0": {
+      "sdist": [
+        "prDpyT8IqnSVOt/I/tL1pGJnj1YLWiTAJ7+mBx36SLI=",
+        "adafruit-circuitpython-mcp9600-2.0.0.tar.gz"
+      ],
+      "wheels": {
+        "adafruit_circuitpython_mcp9600-2.0.0-py3-none-any.whl": [
+          "x10KUrK3SdI5+MjqSvSF6YZaSQHFG+S2eM/dcFBAmw8=",
+          "py3"
+        ]
+      }
     }
   },
   "adfs-aws-login": {
@@ -48197,6 +48209,26 @@
         "furiosa_native_postprocess-0.2.2-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "81hCs+Uzem+ktEtbzN6GLoz1FeLKLCLj1tDiMwxYNPo=",
           "pp37"
+        ]
+      }
+    },
+    "0.9.0": {
+      "sdist": [
+        "03lCeJ23hKrMA4b4x9Xxk9o6GftfpLxiAAq9n0X0SUY=",
+        "furiosa_native_postprocess-0.9.0.tar.gz"
+      ],
+      "wheels": {
+        "furiosa_native_postprocess-0.9.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "EU6UCxLCa3J12ziBUc6rywLwVhyDWOx+4eV1P+iiXys=",
+          "cp310"
+        ],
+        "furiosa_native_postprocess-0.9.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "xFTxDxPzTuGJmRqvfHxwAaqXboRmfXOhuQ+hWHwsS+I=",
+          "cp38"
+        ],
+        "furiosa_native_postprocess-0.9.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "qqIopj42yElFv6r8/aS7Q3whqvLAPEETGhLUsxFfMB4=",
+          "cp39"
         ]
       }
     }
@@ -130580,6 +130612,12 @@
       "sdist": [
         "Gw7K5wUI/aYfpDiNOblDn96Jgl0Vm9QEb9W6WdT7zWg=",
         "sagemaker-2.153.0.tar.gz"
+      ]
+    },
+    "2.154.0": {
+      "sdist": [
+        "S713O7QlKhfgr1/xzWg1gWnMQKYKF1PWGbd1b/3ehSU=",
+        "sagemaker-2.154.0.tar.gz"
       ]
     },
     "2.16.0": {

@@ -24995,10 +24995,6 @@
       ]
     },
     "1.64": {
-      "sdist": [
-        "bov1Slvd6V9n3cjVK8nzlpHhexeY0tPhAk2OoIA9hSw=",
-        "chython-1.64.tar.gz"
-      ],
       "wheels": {
         "chython-1.64-cp310-cp310-macosx_11_0_x86_64.whl": [
           "WCUuPqQs1y8ZuL7j0xSUAFyp1g2Xn513vmVZ8YST+rM=",
@@ -25025,6 +25021,12 @@
           "cp39"
         ]
       }
+    },
+    "1.64.1": {
+      "sdist": [
+        "gsQSpM8zyO8LDqK1ZTn5SVkAg/yzylJi/NJ3XH+qQD8=",
+        "chython-1.64.1.tar.gz"
+      ]
     },
     "1.8": {
       "sdist": [
@@ -54380,6 +54382,14 @@
       "wheels": {
         "g42cloudsdkces-0.0.5b0-py2.py3-none-any.whl": [
           "aHJGCRgj1AAFwsjR3QTbRCymLTTlSowTl9Kolaai5M4=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.6b0": {
+      "wheels": {
+        "g42cloudsdkces-0.0.6b0-py2.py3-none-any.whl": [
+          "JevesnX7YJvCwLzSry0rOmEf2fgZIlicsGY88YhlrZg=",
           "py2.py3"
         ]
       }
@@ -103069,6 +103079,30 @@
           "py3"
         ]
       }
+    },
+    "0.0.8": {
+      "sdist": [
+        "1pq6A/lHInd+jhGIBZnIVbMzHBT6wrT/0YjPO7Y/LpI=",
+        "prime-faster-0.0.8.tar.gz"
+      ],
+      "wheels": {
+        "prime_faster-0.0.8-py3-none-any.whl": [
+          "FNTS2WAkm9fimfl8pQm1sRiqCPU4j0ranpqMxprDef0=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.9": {
+      "sdist": [
+        "+a1mkmNbol8N3fsCTVao3KcLpvcWgWQGIByVnm7Bqc8=",
+        "prime-faster-0.0.9.tar.gz"
+      ],
+      "wheels": {
+        "prime_faster-0.0.9-py3-none-any.whl": [
+          "2GrkPYPUiCrMQTj48xEZ/7XR2mBihwFJRJyl8LZmmg0=",
+          "py3"
+        ]
+      }
     }
   },
   "print-lolfunction": {
@@ -124964,6 +124998,18 @@
       "wheels": {
         "rmmbr-0.0.4-py3-none-any.whl": [
           "1P27ZogjdzyvZfdYL0Avd3c2NlehRx056j4/y2mjd+o=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.5": {
+      "sdist": [
+        "qEAikG+eFRRW0BsQVbFWRyFqPksD1+JOV1a9ACtUPi0=",
+        "rmmbr-0.0.5.tar.gz"
+      ],
+      "wheels": {
+        "rmmbr-0.0.5-py3-none-any.whl": [
+          "Dz7J0lcLyFfJuGantoNiDu7u1sp/LmLZDOlah2TLOSw=",
           "py3"
         ]
       }

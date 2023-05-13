@@ -17056,6 +17056,18 @@
         ]
       }
     },
+    "1.29.133": {
+      "sdist": [
+        "/gvmW6qmXM8DGqjowYX8YsC2CDJzozkN6luaHs0LtVM=",
+        "botocore-a-la-carte-chime-sdk-voice-1.29.133.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_chime_sdk_voice-1.29.133-py3-none-any.whl": [
+          "VxiZI6x2VNGetkaS1FcR5LeU2pR2VYdd4MmIH3fFE2E=",
+          "py3"
+        ]
+      }
+    },
     "1.29.42": {
       "sdist": [
         "m69XijwA+/Veil26qpRUuQwgsXVNOZQ60hGPbYmtq70=",
@@ -18134,6 +18146,18 @@
       "wheels": {
         "botocore_a_la_carte_mwaa-1.29.132-py3-none-any.whl": [
           "pR/DOYxXE7QRB3C+zZKZPvf1QUkT9YRNmj7kI1cw/o8=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.133": {
+      "sdist": [
+        "pNjGkpsmiECpu2WC4PhtHYYSCu81TtBcrk3cLBp7JiM=",
+        "botocore-a-la-carte-mwaa-1.29.133.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_mwaa-1.29.133-py3-none-any.whl": [
+          "hJWeNEWSbWNpy4pzZlBapo3pv/484l/80eXpKgaTiSY=",
           "py3"
         ]
       }
@@ -22918,6 +22942,18 @@
       "wheels": {
         "cdk_budibase-0.0.42-py3-none-any.whl": [
           "gDXVe7swVKjYOd5/y1KFcwhYSlohFTjFlPq4VImTdu0=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.43": {
+      "sdist": [
+        "7pD+H6ffpyXLD3ZunXpu1IcrIB+Z+v7HuybRPBqlWQU=",
+        "cdk-budibase-0.0.43.tar.gz"
+      ],
+      "wheels": {
+        "cdk_budibase-0.0.43-py3-none-any.whl": [
+          "/Y/HOxeoaEeLwvh3esAvaZX+oqj6zRXA355hja0sK4Y=",
           "py3"
         ]
       }
@@ -41537,6 +41573,14 @@
           "py3"
         ]
       }
+    },
+    "0.21.4": {
+      "wheels": {
+        "fds.sdk.ExchangeDataFeedSnapshotAPIEntireExchange-0.21.4-py3-none-any.whl": [
+          "xLhZ/OYRL0v5Rx4IYCNvaD4eLSLIPpLnDAsZwmfI06w=",
+          "py3"
+        ]
+      }
     }
   },
   "fds.sdk.factsetownershipreportbuilder": {
@@ -41576,6 +41620,14 @@
       "wheels": {
         "fds.sdk.FactSetOwnershipReportBuilder-1.0.2-py3-none-any.whl": [
           "TkXkH/mOeVST7iJsFfuaedjB4YUMv6n5A0DYdDHgm9o=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.3": {
+      "wheels": {
+        "fds.sdk.FactSetOwnershipReportBuilder-1.0.3-py3-none-any.whl": [
+          "M7uOyt9qmZts6MXnvjofLYoPGQk7lX6l/rdh8ovoklw=",
           "py3"
         ]
       }
@@ -42480,6 +42532,18 @@
       "wheels": {
         "FLASH_pytorch-0.1.7-py3-none-any.whl": [
           "oaPH/aONrlSy5tg55guGB90rsCOl+HeshYAvGIVJg38=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.8": {
+      "sdist": [
+        "+vKhhUuxEp8eFNYi/x1he8eOY6LN5vd4Q+C1le2UqBM=",
+        "FLASH-pytorch-0.1.8.tar.gz"
+      ],
+      "wheels": {
+        "FLASH_pytorch-0.1.8-py3-none-any.whl": [
+          "wUtSX4vKJxjmXZZksIE5tmcUpGpIivuWp+jxcbRni/Y=",
           "py3"
         ]
       }
@@ -47377,6 +47441,30 @@
           "py3"
         ]
       }
+    },
+    "4.0": {
+      "sdist": [
+        "svxgRph4FUNH1jACXAe1hjSCgMu3HCq5zWsVl906S0A=",
+        "generativepy-4.0.tar.gz"
+      ],
+      "wheels": {
+        "generativepy-4.0-py3-none-any.whl": [
+          "cGhGsiY+vdYqk//nmCops60NPdhWgzdEegrthBV+ijg=",
+          "py3"
+        ]
+      }
+    },
+    "4.0b0": {
+      "sdist": [
+        "+ZLYlIqOhMHITvOpOqaN+nKLJFBVwp3n+jVc8hdWVqg=",
+        "generativepy-4.0b0.tar.gz"
+      ],
+      "wheels": {
+        "generativepy-4.0b0-py3-none-any.whl": [
+          "q2UltxlRp3kvLvqpiVD1lH61NEVFYc2z+YIMXw7WFNM=",
+          "py3"
+        ]
+      }
     }
   },
   "generic-encoders": {
@@ -49058,6 +49146,30 @@
       "wheels": {
         "google_sheet_downloader-1.0.4-py3-none-any.whl": [
           "03Y9Vuf8EzwCNGK8X6NLJp6HTkwMbsJ7EZsE7mnt4J8=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.5": {
+      "sdist": [
+        "ebU/KLtlcbJEw2VVk7D3EZ/aTFHd6YdMr3k3i8Q6MMs=",
+        "google-sheet-downloader-1.0.5.tar.gz"
+      ],
+      "wheels": {
+        "google_sheet_downloader-1.0.5-py3-none-any.whl": [
+          "5PFSHNCvnvqQarr/9gmEELjfmfTncm2XG/RkTRLuWCQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.6": {
+      "sdist": [
+        "Jh+nKpN80am3Ey+L9ntbopW2gi53WwMBCOim8ucbhiI=",
+        "google-sheet-downloader-1.0.6.tar.gz"
+      ],
+      "wheels": {
+        "google_sheet_downloader-1.0.6-py3-none-any.whl": [
+          "4kI4Hvt0Uf3yfKmkYtTrv1nn5O1+YVrDvVoB9/SOCYc=",
           "py3"
         ]
       }
@@ -79084,6 +79196,14 @@
       "wheels": {
         "odoo14_addon_account_banking_mandate-14.0.2.0.1.dev13-py3-none-any.whl": [
           "/boMNsWV/o86OtCcLpM/evR7kFpXkoVqmCoXyv/0MGQ=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.2.0.1.dev14": {
+      "wheels": {
+        "odoo14_addon_account_banking_mandate-14.0.2.0.1.dev14-py3-none-any.whl": [
+          "TfIPES4C7xIvHDfSgUL0UQ2GXAOlm8ceGBTeFC2ToLg=",
           "py3"
         ]
       }

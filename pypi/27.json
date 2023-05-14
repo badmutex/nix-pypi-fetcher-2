@@ -103107,6 +103107,18 @@
           "py3"
         ]
       }
+    },
+    "2.0.5": {
+      "sdist": [
+        "zhmZtAbzVqRuPhyb19Wunpra5oaod0XU2dRX4CR+wx4=",
+        "patas-2.0.5.tar.gz"
+      ],
+      "wheels": {
+        "patas-2.0.5-py3-none-any.whl": [
+          "64xV+DYyO3JHLyZ044rlwM5XypwGOCITRXi2XQ0o+dM=",
+          "py3"
+        ]
+      }
     }
   },
   "path-and-address": {
@@ -115175,6 +115187,132 @@
         "enxhQeeKQCam0bY+uPdLwIgOuwp3xjHjjLKhV3XKyXk=",
         "pyformatter-0.0.1.tar.gz"
       ]
+    }
+  },
+  "pyfreerdp": {
+    "0.0.1": {
+      "wheels": {
+        "pyfreerdp-0.0.1-cp310-cp310-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "LHPcnIfBhc0AnABWEQKkcnuwzf9p5p7rmvAqh7HtYno=",
+          "cp310"
+        ],
+        "pyfreerdp-0.0.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "NjqcrqG1b4JybupCvEL0d1BECGfOGVjjhV9aAa7T0jo=",
+          "cp310"
+        ],
+        "pyfreerdp-0.0.1-cp310-cp310-musllinux_1_1_i686.whl": [
+          "MQqEca+1M9CrT/H9sQxUEGiEiD7XJ+Gta2FJGn/tRm8=",
+          "cp310"
+        ],
+        "pyfreerdp-0.0.1-cp310-cp310-musllinux_1_1_x86_64.whl": [
+          "yGnKEB5+Ji36U2Ry46wZLImZk1H2gjKL+88FbaqYqpk=",
+          "cp310"
+        ],
+        "pyfreerdp-0.0.1-cp311-cp311-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "Ltxdk48ruzN7cMRkE6OleCV9r4UiEaT7ca1ZLFeHBDY=",
+          "cp311"
+        ],
+        "pyfreerdp-0.0.1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "7hQ55vyC7Vlz7AmOtHxTKr243m1I82tzbMOYVfdt8hc=",
+          "cp311"
+        ],
+        "pyfreerdp-0.0.1-cp311-cp311-musllinux_1_1_i686.whl": [
+          "DqQAqv88APprL9zfUmlrJ8/hbOg/7v/CKWnqvrrP3h0=",
+          "cp311"
+        ],
+        "pyfreerdp-0.0.1-cp311-cp311-musllinux_1_1_x86_64.whl": [
+          "TV8zQAhpVr7b+M8LQ7uXTlFt8XMPgOY+SRT9DGAB4X8=",
+          "cp311"
+        ],
+        "pyfreerdp-0.0.1-cp36-cp36m-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "V3nIAvL0XQ8T8LKBZluep9tAloyz6R67jPVQtt4dc9U=",
+          "cp36"
+        ],
+        "pyfreerdp-0.0.1-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "O1quyW8axYTgtJIw4yZvuLWP6TMw+rtVsuqbpKV4/30=",
+          "cp36"
+        ],
+        "pyfreerdp-0.0.1-cp36-cp36m-musllinux_1_1_i686.whl": [
+          "0Q/qvMS3OjDZN3fKlsR54XQCb4C26vkZ8O+KuQg2V4s=",
+          "cp36"
+        ],
+        "pyfreerdp-0.0.1-cp36-cp36m-musllinux_1_1_x86_64.whl": [
+          "OFa3gDjUqjLFFi/KCNpGmaYb5mhnfxC9FcgW81QUu7Y=",
+          "cp36"
+        ],
+        "pyfreerdp-0.0.1-cp37-cp37m-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "8gX00p2juxGGgbvJrnMvtgf8htohCwS0kWpxH6G2ep0=",
+          "cp37"
+        ],
+        "pyfreerdp-0.0.1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "PUJMcKNigPVEW20hP5R/P//KEUKkQU5bO7Vshw8RQ5c=",
+          "cp37"
+        ],
+        "pyfreerdp-0.0.1-cp37-cp37m-musllinux_1_1_i686.whl": [
+          "OOr8amB1miXZeuRfAwoMTmyMigGFQfwgdhFc8wL9lHU=",
+          "cp37"
+        ],
+        "pyfreerdp-0.0.1-cp37-cp37m-musllinux_1_1_x86_64.whl": [
+          "myap/04l0EYxMw2hbzva0ugFlI7bM2fxdbXbTMbu1XM=",
+          "cp37"
+        ],
+        "pyfreerdp-0.0.1-cp38-cp38-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "XOwEzOmqIyaKDosd54xlcItGqfuLdmT3vACTJ2Hu01k=",
+          "cp38"
+        ],
+        "pyfreerdp-0.0.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "dfMdkWvK3AFcd1FniVyCO+iQmv+ChoR7xh8RYt11H8A=",
+          "cp38"
+        ],
+        "pyfreerdp-0.0.1-cp38-cp38-musllinux_1_1_i686.whl": [
+          "NS0w/j1/QyOzf0dPqu00sh6j8jClORHoNOxaUenMdHs=",
+          "cp38"
+        ],
+        "pyfreerdp-0.0.1-cp38-cp38-musllinux_1_1_x86_64.whl": [
+          "3T5M9/JPuKPu9L8uEUfZJDfjKYAnKA7vKabQjISz590=",
+          "cp38"
+        ],
+        "pyfreerdp-0.0.1-cp39-cp39-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "xPV3vroTXBtgPgzDsacfv8U721Olru3HZQ8RIKXVLRQ=",
+          "cp39"
+        ],
+        "pyfreerdp-0.0.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "TIMR01W1TN+tzMLbp8nYliqoF59MWoUuyzozvJpvDuI=",
+          "cp39"
+        ],
+        "pyfreerdp-0.0.1-cp39-cp39-musllinux_1_1_i686.whl": [
+          "Uez+zBqKQKJGGltP8QW8ku+GpX/WNkw8MJxv58Zvtec=",
+          "cp39"
+        ],
+        "pyfreerdp-0.0.1-cp39-cp39-musllinux_1_1_x86_64.whl": [
+          "SM9cc9mNP47a8inHiISChlIkIDZITf8+YZdL8bzoUqM=",
+          "cp39"
+        ],
+        "pyfreerdp-0.0.1-pp37-pypy37_pp73-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "hktG77PaGiDRyzoAXWBu+kadrpHbq0t+Tglv1w5SwSg=",
+          "pp37"
+        ],
+        "pyfreerdp-0.0.1-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "462q97suMsIoiku5ORMPoKOvtdh6EcRsLW+ILAUe5D4=",
+          "pp37"
+        ],
+        "pyfreerdp-0.0.1-pp38-pypy38_pp73-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "jtfwQT5OXAwDwB+bzyTrP+KwIj/ISUeRc1JCH71UjeU=",
+          "pp38"
+        ],
+        "pyfreerdp-0.0.1-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "QKkcUJ/mLvdDQeXvZrOshTD5id+Hz1R3lF3i64mEUi8=",
+          "pp38"
+        ],
+        "pyfreerdp-0.0.1-pp39-pypy39_pp73-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "UJ4WQ/yHxZfsW8GrlQXig5tenKBJta+Vo9cLgo6MS/0=",
+          "pp39"
+        ],
+        "pyfreerdp-0.0.1-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "b4bvV9/CQoQGk01hxQO88Cu+D9wlNZ/AJW4JKOXy+0s=",
+          "pp39"
+        ]
+      }
     }
   },
   "pyfuzzyset": {

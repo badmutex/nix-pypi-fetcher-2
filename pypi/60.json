@@ -16131,6 +16131,18 @@
           "py3"
         ]
       }
+    },
+    "2.4.0b20230514": {
+      "wheels": {
+        "bigdl_friesian_spark3-2.4.0b20230514-py3-none-macosx_10_11_x86_64.whl": [
+          "aD9dwAnjo2CPH/iKMZJDZa2BE99pAyXc9yvRVsW75Hg=",
+          "py3"
+        ],
+        "bigdl_friesian_spark3-2.4.0b20230514-py3-none-manylinux1_x86_64.whl": [
+          "Ha75PhtQIZifs96zmogeLFKEjukITA3WCSaNVis6GuE=",
+          "py3"
+        ]
+      }
     }
   },
   "binsinfo": {
@@ -108144,6 +108156,122 @@
         ],
         "p4p-4.1.5a1-cp39-cp39-win_amd64.whl": [
           "dBDBeyDf7aI3V8yxxWQ2pd6ssAvMsL3ON49HiA1edao=",
+          "cp39"
+        ]
+      }
+    },
+    "4.1.6a1": {
+      "sdist": [
+        "FOa59ngzfJDJlvYCWCsH5W8JYihQU/86HCsUMH0LNUo=",
+        "p4p-4.1.6a1.tar.gz"
+      ],
+      "wheels": {
+        "p4p-4.1.6a1-cp27-cp27m-macosx_10_9_intel.whl": [
+          "pL910VtQSCfV8TvEPnDe9SfDBTEvjqnXib8lfe0iUyA=",
+          "cp27"
+        ],
+        "p4p-4.1.6a1-cp27-cp27m-manylinux1_i686.whl": [
+          "HGENW3aZBaskch4EHhBJiv3civnB+ltJtBSt1TF86ys=",
+          "cp27"
+        ],
+        "p4p-4.1.6a1-cp27-cp27m-manylinux1_x86_64.whl": [
+          "OthZP26/wRrEypCAebG8SC0+gnqeMovGetdK6miry8s=",
+          "cp27"
+        ],
+        "p4p-4.1.6a1-cp27-cp27mu-manylinux1_i686.whl": [
+          "ocULtt5TCFc2qmxUVI/0gsmw8StROep5hiLG+2iSS3w=",
+          "cp27"
+        ],
+        "p4p-4.1.6a1-cp27-cp27mu-manylinux1_x86_64.whl": [
+          "1GySOtcC1x7xjYRxfnP+iTmV98QveAwkD/4h6KRP1f0=",
+          "cp27"
+        ],
+        "p4p-4.1.6a1-cp310-cp310-macosx_10_9_intel.whl": [
+          "K4XOfllrGhqDYGKpDCD7ndjmc2uz1+THzJMixWZgx+M=",
+          "cp310"
+        ],
+        "p4p-4.1.6a1-cp310-cp310-manylinux2014_x86_64.whl": [
+          "6sEZT/pa56t0cB/iyVbt1fo8L2JEgg4gypIDqcf7jIM=",
+          "cp310"
+        ],
+        "p4p-4.1.6a1-cp310-cp310-win_amd64.whl": [
+          "un94cdjcZ4l0keGhRiKKixZetnu6gC0AMDnYpygSHaY=",
+          "cp310"
+        ],
+        "p4p-4.1.6a1-cp35-cp35m-manylinux1_i686.whl": [
+          "pZOEf+bYMXbkGWrsWB183wu8o8f36r3dJ/ISaTSMlbg=",
+          "cp35"
+        ],
+        "p4p-4.1.6a1-cp35-cp35m-manylinux1_x86_64.whl": [
+          "/ktL8yXmwEGgL9RYt4ky1gUnZxOIgSQ9IXh/hQ9xWn4=",
+          "cp35"
+        ],
+        "p4p-4.1.6a1-cp35-cp35m-win_amd64.whl": [
+          "CvTbU6hMC6izxTg30ym4I9ViwhZcPpeAxQtr6ub62Rk=",
+          "cp35"
+        ],
+        "p4p-4.1.6a1-cp36-cp36m-macosx_10_9_intel.whl": [
+          "pr/CQTy/nZgenMNoHp3LnoCK/INjy7VWDgaqbf8JtWs=",
+          "cp36"
+        ],
+        "p4p-4.1.6a1-cp36-cp36m-manylinux1_i686.whl": [
+          "/t+wjP628xfHoCByn6YwtiFjI0IU+LxVQPpxQszgcl8=",
+          "cp36"
+        ],
+        "p4p-4.1.6a1-cp36-cp36m-manylinux1_x86_64.whl": [
+          "gAYOXf9shAxwNzuIW2asJOa15X08Rhfx4YQzP8UAKSs=",
+          "cp36"
+        ],
+        "p4p-4.1.6a1-cp36-cp36m-win_amd64.whl": [
+          "Qtp3Uc1dc/rFosrFsf6xdGYqekEdj2PHgk1ykLvScoY=",
+          "cp36"
+        ],
+        "p4p-4.1.6a1-cp37-cp37m-macosx_10_9_intel.whl": [
+          "anQu7NDF03gxCID4096GR9oQqSn3a7npnIYYzJCY6m8=",
+          "cp37"
+        ],
+        "p4p-4.1.6a1-cp37-cp37m-manylinux1_i686.whl": [
+          "vk59OZgKraRPga74d7PWrtqiBzW9eMioB1zYBvIHGbk=",
+          "cp37"
+        ],
+        "p4p-4.1.6a1-cp37-cp37m-manylinux1_x86_64.whl": [
+          "rZcpOHtvbL2vWPickEMFmDVQaF63pIUPK4i6YwriiLo=",
+          "cp37"
+        ],
+        "p4p-4.1.6a1-cp37-cp37m-win_amd64.whl": [
+          "0GiYxeeemB1VKLZvZC+iTIDey2LG4z9yhjnrGdcaiEw=",
+          "cp37"
+        ],
+        "p4p-4.1.6a1-cp38-cp38-macosx_10_9_intel.whl": [
+          "0DaGFeVVxmFDgYou5GiWmI19Tb4FdO9PaJo89ok5qhM=",
+          "cp38"
+        ],
+        "p4p-4.1.6a1-cp38-cp38-manylinux1_i686.whl": [
+          "HRiSiqdsvtJBpuV9RZ35Ggqq7m96NzS8OPWYytoj1t8=",
+          "cp38"
+        ],
+        "p4p-4.1.6a1-cp38-cp38-manylinux1_x86_64.whl": [
+          "Cyt5LU6wIEVhCnsemJkSrhXHul4SaiwauF/HvCmD+tk=",
+          "cp38"
+        ],
+        "p4p-4.1.6a1-cp38-cp38-win_amd64.whl": [
+          "oeIpCVflpRFswaydxxPQ8wGJ08/NvRdtl0BugXwAR2g=",
+          "cp38"
+        ],
+        "p4p-4.1.6a1-cp39-cp39-macosx_10_9_intel.whl": [
+          "vPKWYXPp58JcW2Hd8HvUEu6wnWqRQNtHIrNiILO7N+E=",
+          "cp39"
+        ],
+        "p4p-4.1.6a1-cp39-cp39-manylinux2010_i686.whl": [
+          "/ehzw/4ZvnZLPkMEebJIcBAvR5ctjFvFuP81qpc6iqs=",
+          "cp39"
+        ],
+        "p4p-4.1.6a1-cp39-cp39-manylinux2010_x86_64.whl": [
+          "+MHdTUplUC75EzL/crSGZoXzqgQh8wpzjrnET2AoFz0=",
+          "cp39"
+        ],
+        "p4p-4.1.6a1-cp39-cp39-win_amd64.whl": [
+          "2P4tN2A+IILHvTCs4TjKMvc4/y4pdfK/JhJ1HGQdKjE=",
           "cp39"
         ]
       }

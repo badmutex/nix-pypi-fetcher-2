@@ -14375,6 +14375,14 @@
           "py3"
         ]
       }
+    },
+    "0.1.0b3": {
+      "wheels": {
+        "azureml_ai_monitoring-0.1.0b3-py3-none-any.whl": [
+          "iuKxfqMJd9m1yHY+cZJ5gVW0wcSNjYucT82hl6SL+Qo=",
+          "py3"
+        ]
+      }
     }
   },
   "b2gpopulate-v2.1": {
@@ -32066,7 +32074,33 @@
       "sdist": [
         "OMql/SFt0oyGWflnShZHfllFmZx2Ht6Z3D90hIrxWqA=",
         "datumaro-1.2.1.tar.gz"
-      ]
+      ],
+      "wheels": {
+        "datumaro-1.2.1-cp310-cp310-manylinux_2_24_x86_64.whl": [
+          "Yeu8+Dfi2mVSbammuxOdbs0YgXUePkQ4j+uxAPPSchE=",
+          "cp310"
+        ],
+        "datumaro-1.2.1-cp310-cp310-win_amd64.whl": [
+          "Elu3Ib1EPL7tpMMo5WdMov30wz8dJHgs7r2hIFII7+o=",
+          "cp310"
+        ],
+        "datumaro-1.2.1-cp38-cp38-manylinux_2_24_x86_64.whl": [
+          "YPkLb6gB4ISiO15OfkjV9GYjG9hujgqTktpJ2xXP0as=",
+          "cp38"
+        ],
+        "datumaro-1.2.1-cp38-cp38-win_amd64.whl": [
+          "J807z75MOvAyn6alfAlqSfqyJeCvJoFZ/qn0crBTFuE=",
+          "cp38"
+        ],
+        "datumaro-1.2.1-cp39-cp39-manylinux_2_24_x86_64.whl": [
+          "3obbdiZb3aGKvpU9O4xUhmsIJqnRbZBm+3tMib+p0bs=",
+          "cp39"
+        ],
+        "datumaro-1.2.1-cp39-cp39-win_amd64.whl": [
+          "Sb2IByUrnTasN9sVoTLv8QzQjBXutfPL2epzZkDXlE8=",
+          "cp39"
+        ]
+      }
     }
   },
   "dave": {
@@ -39898,6 +39932,12 @@
       "sdist": [
         "Fwf2MuHtmVodLK7dOvBFHBDpwG/gUFnFbabLI6YpI90=",
         "DLMS_SPODES-0.28.1.tar.gz"
+      ]
+    },
+    "0.28.2": {
+      "sdist": [
+        "mlFakIjNbiYrYNJPUGKkBMSVub7oK0kOuOPyXXiG9Zg=",
+        "DLMS_SPODES-0.28.2.tar.gz"
       ]
     },
     "0.3.0": {
@@ -71654,6 +71694,18 @@
       "wheels": {
         "lnschema_lamin1-0.16.1-py2.py3-none-any.whl": [
           "J+DQWMSUvIDYRtiYxgCMPn7bqh6jsKjEq54PESmPH9E=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.16.2": {
+      "sdist": [
+        "4JL425ZeJ63lmPlNxnyTehbpl/Bhty3KPXn8xjJjPdw=",
+        "lnschema_lamin1-0.16.2.tar.gz"
+      ],
+      "wheels": {
+        "lnschema_lamin1-0.16.2-py2.py3-none-any.whl": [
+          "CX+LfbOU0sQzfIHW8uu56avS0p/38JL6APKtLtXS2fU=",
           "py2.py3"
         ]
       }
@@ -127112,6 +127164,12 @@
         "resens-0.4.3.12.tar.gz"
       ]
     },
+    "0.4.3.13": {
+      "sdist": [
+        "CoXXtgacSoVGm8M9guTxHQ+wMtHtKj7sjVOJRjZ0CnE=",
+        "resens-0.4.3.13.tar.gz"
+      ]
+    },
     "0.4.3.2": {
       "sdist": [
         "F9jNcZpgBTvHST0QBKoXSVNoLmi4Tc//p7XUE51ibhI=",
@@ -129382,6 +129440,18 @@
       "wheels": {
         "robotcode_plugin-0.37.1-py3-none-any.whl": [
           "ucmaAZSR/Wv4qwGRWYYgd9sEhk3yaLEtxojlYJFBoN8=",
+          "py3"
+        ]
+      }
+    },
+    "0.38.0": {
+      "sdist": [
+        "8x6QGqNc4UEm8MKEf/KdicvVi9klKSkvmebvyXbbUoU=",
+        "robotcode_plugin-0.38.0.tar.gz"
+      ],
+      "wheels": {
+        "robotcode_plugin-0.38.0-py3-none-any.whl": [
+          "HgEV1aKdO3jP4KVT8GNMTyNeJNmGNKKGt7ZPE3awWB4=",
           "py3"
         ]
       }
@@ -152068,6 +152138,30 @@
       "wheels": {
         "validmind-1.11.2-py3-none-any.whl": [
           "KcGeZzjQgvX522NTKxn8YkxwrFo0fMjzhJv3Za/mYI4=",
+          "py3"
+        ]
+      }
+    },
+    "1.11.3": {
+      "sdist": [
+        "7S2sxgFGGZyw7nSib/IsuFn4hNXh/cXKmaI38PG6HXc=",
+        "validmind-1.11.3.tar.gz"
+      ],
+      "wheels": {
+        "validmind-1.11.3-py3-none-any.whl": [
+          "oOX5UEXSWkENQtO5Ntz1AE0xq6A7MC1i53AdgIwo0HI=",
+          "py3"
+        ]
+      }
+    },
+    "1.11.4": {
+      "sdist": [
+        "yi6W+1icEbfwNoW6HRubEvnJhGupM0qfVPqaf9haeYY=",
+        "validmind-1.11.4.tar.gz"
+      ],
+      "wheels": {
+        "validmind-1.11.4-py3-none-any.whl": [
+          "xxgGZyY0f1LyIQSGN187KxLZsK0fmZAzONnDghny+BE=",
           "py3"
         ]
       }

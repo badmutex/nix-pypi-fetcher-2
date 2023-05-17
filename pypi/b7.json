@@ -46258,6 +46258,30 @@
         ]
       }
     },
+    "2.57.0": {
+      "sdist": [
+        "3Ff4kYFIrw1ULSDabyrMdI+IjcHnnU22O2/7SyTMTLI=",
+        "dvc-2.57.0.tar.gz"
+      ],
+      "wheels": {
+        "dvc-2.57.0-py3-none-any.whl": [
+          "Od6YBRSfj1ys0n+VllPqOwVHKgSFkMJMkXtOL3WD/5A=",
+          "py3"
+        ]
+      }
+    },
+    "2.57.1": {
+      "sdist": [
+        "B6N9lzBJ34d7oyatsErijikQt6nRygLod7sYVLAw7jk=",
+        "dvc-2.57.1.tar.gz"
+      ],
+      "wheels": {
+        "dvc-2.57.1-py3-none-any.whl": [
+          "ISBQrdrGUPDcb6LaSiLXFJk3V6aY1DSD6W0sF0wHZ1o=",
+          "py3"
+        ]
+      }
+    },
     "2.6.0": {
       "sdist": [
         "48HomK/59SpmU4cyae3npqR1DdTlEGHKvTlHyprRJJQ=",
@@ -117516,6 +117540,18 @@
         ]
       }
     },
+    "1.6.128": {
+      "sdist": [
+        "Ex9Qa/uqeeVNDNbcnfc7U83zAx9nEpXUoRnW61gnqpE=",
+        "pydflow-1.6.128.tar.gz"
+      ],
+      "wheels": {
+        "pydflow-1.6.128-py3-none-any.whl": [
+          "pgIZPsJFHeFzLirgRprGa+N+O757aF9r/eN0hbxgJLE=",
+          "py3"
+        ]
+      }
+    },
     "1.6.13": {
       "sdist": [
         "5kQCsmm+34a1ahOVlNtfHzDkLbLyUKWnhFgF6Bk5AtM=",
@@ -131897,6 +131933,20 @@
       ]
     }
   },
+  "roboflow-yolov12": {
+    "0.0.1": {
+      "sdist": [
+        "6V6yYrT/nmJV8kK37Wi6esFfZJeH9MFQDq+YmrGM1mg=",
+        "roboflow-yolov12-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "roboflow_yolov12-0.0.1-py3-none-any.whl": [
+          "Q6t7WSBrUlZ6u0+QRyEdt/if6ANZ03L0KM2Uo8OWwgc=",
+          "py3"
+        ]
+      }
+    }
+  },
   "robotframework-ncclient": {
     "0.1.0": {
       "sdist": [
@@ -139370,6 +139420,34 @@
         ],
         "singlestoredb-0.5.4-cp36-abi3-win_amd64.whl": [
           "QKOK0SibncwJwmKj+W49pjK+ylGYCNRB+4xx8J1/iqo=",
+          "cp36"
+        ]
+      }
+    },
+    "0.6.0": {
+      "sdist": [
+        "QjBXHJZ8ZruyNO2H+qPWmfKt7+iNSplL6eC75TBCnXo=",
+        "singlestoredb-0.6.0.tar.gz"
+      ],
+      "wheels": {
+        "singlestoredb-0.6.0-cp36-abi3-macosx_10_9_universal2.whl": [
+          "+v/C3ldoVlkd1Bjr2BQp17YYUct1gsnBqIcTKPNPnt4=",
+          "cp36"
+        ],
+        "singlestoredb-0.6.0-cp36-abi3-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "N8LAHSg+/cFiL/+1e0xXLkKUKajX9wZmDhGkp+5RIio=",
+          "cp36"
+        ],
+        "singlestoredb-0.6.0-cp36-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "FWiLIf9ydvzw3eY9LsWxqT04fkUVTeeSu5aYMH8/zxQ=",
+          "cp36"
+        ],
+        "singlestoredb-0.6.0-cp36-abi3-win32.whl": [
+          "LTjsZ956f7GRiA++tnifnrGH0KSdZa+5mX0oBrqJOQU=",
+          "cp36"
+        ],
+        "singlestoredb-0.6.0-cp36-abi3-win_amd64.whl": [
+          "2UYV+hnG9jVWTJPiWdG9NOCyWLShJHke2iwnO4qcPxw=",
           "cp36"
         ]
       }

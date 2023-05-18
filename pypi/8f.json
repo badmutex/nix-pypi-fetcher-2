@@ -1036,8 +1036,24 @@
         "adani-0.10.tar.gz"
       ],
       "wheels": {
+        "adani-0.10.0-cp310-cp310-macosx_13_0_arm64.whl": [
+          "F6my+KjG6YfoZUI/AyMtb9uBpybTx3v/TcRPixhKGUk=",
+          "cp310"
+        ],
         "adani-0.10-cp310-cp310-macosx_13_0_arm64.whl": [
           "fQqxcvWKGIfDVuJIRm8wy5zoO3D7KovnyUIXqRb91nw=",
+          "cp310"
+        ]
+      }
+    },
+    "0.11": {
+      "sdist": [
+        "4NT5pn3/NL7g6SBjjTO+XZ+7kvzGj7vZHhTp7z1zvN8=",
+        "adani-0.11.tar.gz"
+      ],
+      "wheels": {
+        "adani-0.11-cp310-cp310-macosx_13_0_arm64.whl": [
+          "RMdlEGf0L5VhN0I0YrEH+x5/yToBlRwOg93IAfHEEjc=",
           "cp310"
         ]
       }
@@ -3324,6 +3340,18 @@
       "wheels": {
         "aihandler-1.12.1-py3-none-any.whl": [
           "HsNDUziCT4I4WpjxNwZlgPkWFpIuXXX2i7okT9xuQJY=",
+          "py3"
+        ]
+      }
+    },
+    "1.12.2": {
+      "sdist": [
+        "LporHRWNBNxIUCZ3Tla/yqEVgSPdwUvjT0mxatiThBk=",
+        "aihandler-1.12.2.tar.gz"
+      ],
+      "wheels": {
+        "aihandler-1.12.2-py3-none-any.whl": [
+          "WT0Fk12GFIKzCdm8yGG2ltyrROIcsMHLeLDD6kOIIZs=",
           "py3"
         ]
       }
@@ -27550,6 +27578,18 @@
       "wheels": {
         "brown_clustering-0.1.4-py3-none-any.whl": [
           "XGJUHYpDfKjeOF1X3qrS/RfbCkeGSqqscxTK3Omr1W0=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.6": {
+      "sdist": [
+        "yB75j0OQAJvDNiF8+0/OGl0OOToJsufS5sKnWg7Zx/8=",
+        "brown_clustering-0.1.6.tar.gz"
+      ],
+      "wheels": {
+        "brown_clustering-0.1.6-py3-none-any.whl": [
+          "njJIxZjZOf+CGF8ma6ZibXoTyl8TrVpT67WV3ufzy4Q=",
           "py3"
         ]
       }
@@ -66544,6 +66584,14 @@
         ]
       }
     },
+    "3.1.40": {
+      "wheels": {
+        "huaweicloudsdkecs-3.1.40-py2.py3-none-any.whl": [
+          "NHCxl6V1mdtdzZ/Pb8NA1G6UXx6RwxELrwpzt0SlPU8=",
+          "py2.py3"
+        ]
+      }
+    },
     "3.1.5": {
       "wheels": {
         "huaweicloudsdkecs-3.1.5-py2.py3-none-any.whl": [
@@ -67142,6 +67190,14 @@
       "wheels": {
         "huaweicloudsdkief-3.1.4-py2.py3-none-any.whl": [
           "BaQzKkA94Q82dKnX2XhEqAptSN3cVzMTrkxmQ3138gA=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.40": {
+      "wheels": {
+        "huaweicloudsdkief-3.1.40-py2.py3-none-any.whl": [
+          "6iW/lRwlfeDs+RiFS5ygZOgkYn2OhGWLhcXq155/9go=",
           "py2.py3"
         ]
       }
@@ -91483,6 +91539,14 @@
           "py3"
         ]
       }
+    },
+    "14.0.2.0.2.dev9": {
+      "wheels": {
+        "odoo14_addon_base_changeset-14.0.2.0.2.dev9-py3-none-any.whl": [
+          "4Di3s74h7NAfrLRWyGuNfoFmCqfs2oo9Ld++wpx2R4s=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo14-addon-hr-employee-document": {
@@ -91716,6 +91780,14 @@
       "wheels": {
         "odoo14_addon_stock_picking_invoice_link-14.0.1.2.2.dev1-py3-none-any.whl": [
           "MSr+eKGGjuBuG5rOv2tqKBszKRDTQmoaIfnTOEjnEK8=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.1.2.3.dev1": {
+      "wheels": {
+        "odoo14_addon_stock_picking_invoice_link-14.0.1.2.3.dev1-py3-none-any.whl": [
+          "I0gElXeSNhGnJflU4cvTBoGpWF0AIelwmNiVwEnqMaY=",
           "py3"
         ]
       }
@@ -152630,6 +152702,12 @@
         "vid2info-1.108.tar.gz"
       ]
     },
+    "1.109": {
+      "sdist": [
+        "zmsg81H1P0+a12sAeqsEZaa2aJqn8/xexPMqxFEbFJ0=",
+        "vid2info-1.109.tar.gz"
+      ]
+    },
     "1.11": {
       "sdist": [
         "ts72bjJ8js216+bvlL0L4wEtLszv1sbj6WMp7YYBDFM=",
@@ -160164,6 +160242,34 @@
         ],
         "xia_user-0.1.2-cp39-none-win_amd64.whl": [
           "5p1XgaYZ5h9eojLFtNJZntlNJBEmSW2ZVaC4r9Cy84Q=",
+          "cp39"
+        ]
+      }
+    },
+    "0.1.20": {
+      "wheels": {
+        "xia_user-0.1.20-cp310-none-macosx_11_0_x86_64.whl": [
+          "aA6COpf/APnXjfyJuVD3zDlMx8Y4M9KBpqZVDp0vTqE=",
+          "cp310"
+        ],
+        "xia_user-0.1.20-cp310-none-manylinux1_x86_64.whl": [
+          "j+YAxqN+DcZtVeaqJCPMGuIUBfGDVb70NRfk9zBjeVg=",
+          "cp310"
+        ],
+        "xia_user-0.1.20-cp310-none-win_amd64.whl": [
+          "x3wJcl2BxTJHMAUsg0Bmuha0wqErf9hUot7mCQtZAR8=",
+          "cp310"
+        ],
+        "xia_user-0.1.20-cp39-none-macosx_11_0_x86_64.whl": [
+          "gYeglFJn4t0YZ9i3DaIF1B0hScoXN6lrTOWOSZb91eg=",
+          "cp39"
+        ],
+        "xia_user-0.1.20-cp39-none-manylinux1_x86_64.whl": [
+          "Qp0j3grsRWuwOX1Ln0uJkvK21rE9OLVvTm6a8NEZOdE=",
+          "cp39"
+        ],
+        "xia_user-0.1.20-cp39-none-win_amd64.whl": [
+          "ARsu6k275sGw1kKJa4+iYV7WchdCgmF/EypjCze6cYc=",
           "cp39"
         ]
       }

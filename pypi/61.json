@@ -2066,6 +2066,18 @@
         ]
       }
     },
+    "3.1.17": {
+      "sdist": [
+        "00aW08vlOl1CbhmUdfQoaJMs5/2+w7jO2ZOcbHAYKVg=",
+        "adafruit-circuitpython-ra8875-3.1.17.tar.gz"
+      ],
+      "wheels": {
+        "adafruit_circuitpython_ra8875-3.1.17-py3-none-any.whl": [
+          "Z6sc7BtcbOsCY/9adjyvLVIC+mR/h1vSDH7zDoxWqZw=",
+          "py3"
+        ]
+      }
+    },
     "3.1.2": {
       "sdist": [
         "F1dQR/EieQk1Rr1B6OiAPt5wsbIvwdhICLr2eLqPFy0=",
@@ -13281,6 +13293,20 @@
       }
     }
   },
+  "atominsmiles": {
+    "1.0.2": {
+      "sdist": [
+        "4mWxzSZVPxcPYYz6mvkNKnU+BIXBAddmJM3GIu4dBUY=",
+        "atomInSmiles-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "atomInSmiles-1.0.2-py3-none-any.whl": [
+          "QE7IR7Oo/aZ1tVPxV3BPT4F5qJ6RfeU8e9/rCHgLnGg=",
+          "py3"
+        ]
+      }
+    }
+  },
   "atomisator.db": {
     "0.1.0": {
       "sdist": [
@@ -21979,6 +22005,368 @@
       ]
     }
   },
+  "can-ada": {
+    "1.0.4": {
+      "sdist": [
+        "lp8QiBZC0RqzLSsblJgJtJ1THMAM07dAUYT8ZaJiR4c=",
+        "can_ada-1.0.4.tar.gz"
+      ],
+      "wheels": {
+        "can_ada-1.0.4-cp310-cp310-macosx_10_15_universal2.whl": [
+          "nb5WDK7UJYjmAbscEAv2eYqAr+dsN+N2mKIS7ayG9Lk=",
+          "cp310"
+        ],
+        "can_ada-1.0.4-cp310-cp310-macosx_10_15_x86_64.whl": [
+          "srVxhh8MJktv9Gmiko2ML4M916piJ8Xuwt3HeRiGp1s=",
+          "cp310"
+        ],
+        "can_ada-1.0.4-cp310-cp310-macosx_11_0_arm64.whl": [
+          "lRvY060S8J1ZjQojCOrEe4U2gfDb7JBhHAE6408lKTM=",
+          "cp310"
+        ],
+        "can_ada-1.0.4-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "r2EXnVu5O0pjU3Qr21AKelsXZtqJ4V75qpr5Y6ETajw=",
+          "cp310"
+        ],
+        "can_ada-1.0.4-cp310-cp310-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "wbJZOzvHk3fHsOFGt9IGyQfyH/0RNWvFOc6hVYREkKc=",
+          "cp310"
+        ],
+        "can_ada-1.0.4-cp310-cp310-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "DA5HEgFAdTaYuZ8dC/s6AfBGsHgPULw/CUM4zyXSBxo=",
+          "cp310"
+        ],
+        "can_ada-1.0.4-cp310-cp310-manylinux_2_17_s390x.manylinux2014_s390x.whl": [
+          "YvFezD0AxwWk/lY1Tlynq3bTksLoBRsMXdFsu4j0DM4=",
+          "cp310"
+        ],
+        "can_ada-1.0.4-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "N5OfI+oX/SqiASMWOa6QwVtishUEhMPh+TzdnR9nkwM=",
+          "cp310"
+        ],
+        "can_ada-1.0.4-cp310-cp310-musllinux_1_1_aarch64.whl": [
+          "kjHOvYD1Sgzk6NOcHs07P+avlvTMtwXOMeZOZH8tXzg=",
+          "cp310"
+        ],
+        "can_ada-1.0.4-cp310-cp310-musllinux_1_1_i686.whl": [
+          "ZbxvU3q4x/Iz27zUf/THVby7oTblp3hzIOiqUo8S0qo=",
+          "cp310"
+        ],
+        "can_ada-1.0.4-cp310-cp310-musllinux_1_1_ppc64le.whl": [
+          "MEeBQX7DVT0VPxXd96Ga5mGGbmPOQ1GiknQqhtSqKWw=",
+          "cp310"
+        ],
+        "can_ada-1.0.4-cp310-cp310-musllinux_1_1_s390x.whl": [
+          "yTo0Q8xziqlEfgt7f5Brfnqy19YAC5SqDbXUv0ZfH4I=",
+          "cp310"
+        ],
+        "can_ada-1.0.4-cp310-cp310-musllinux_1_1_x86_64.whl": [
+          "Msc0BndIekdmFIVw+CPgf0Ileotxdld/c9eqZuyS21Q=",
+          "cp310"
+        ],
+        "can_ada-1.0.4-cp310-cp310-win32.whl": [
+          "2AZftqhkIs5wpZ4DBaLUBn/VVQbY+BwbGoVUAHVf0rQ=",
+          "cp310"
+        ],
+        "can_ada-1.0.4-cp310-cp310-win_amd64.whl": [
+          "lEXjLr4nJwwMLfu8R5re3xDeCF+gO7XBqnpVBklx3H4=",
+          "cp310"
+        ],
+        "can_ada-1.0.4-cp311-cp311-macosx_10_15_universal2.whl": [
+          "6Ux/FISPqawc00pc1Cf2jAYN45rcHfcGHL1+C5zQ6Uo=",
+          "cp311"
+        ],
+        "can_ada-1.0.4-cp311-cp311-macosx_10_15_x86_64.whl": [
+          "A+TpyBQbG9z4nakLt+Vxz9NIQQsCNNYxv4OA5AIkTWg=",
+          "cp311"
+        ],
+        "can_ada-1.0.4-cp311-cp311-macosx_11_0_arm64.whl": [
+          "b4kGRzM/ZMmACW3zUATT/yNDA3hwvDddIHhhZvINLYE=",
+          "cp311"
+        ],
+        "can_ada-1.0.4-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "E/HvSvInddCUAgl/SB2LMVlwW/oWBWgaNM61Rtrd/7s=",
+          "cp311"
+        ],
+        "can_ada-1.0.4-cp311-cp311-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "hsnR0MiXQ0KNbCKt0loue/aoVq2nKEjspU0bcxzl7HM=",
+          "cp311"
+        ],
+        "can_ada-1.0.4-cp311-cp311-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "8zIUqDxhPQ5rV9MSPCCqYa/7Wt8bLtm8HuATOydJdsU=",
+          "cp311"
+        ],
+        "can_ada-1.0.4-cp311-cp311-manylinux_2_17_s390x.manylinux2014_s390x.whl": [
+          "hrwuz35U+mNDUsYrhenKy6c4xPcb8aEiRjMprDEFPMY=",
+          "cp311"
+        ],
+        "can_ada-1.0.4-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "flegqE767zAnwrRUSOUp/jkSMfAK47i4DjX5I3KByfU=",
+          "cp311"
+        ],
+        "can_ada-1.0.4-cp311-cp311-musllinux_1_1_aarch64.whl": [
+          "tvVnThzLY54txs8LljBSe1ua7FwSiBduhEJVJocMJE8=",
+          "cp311"
+        ],
+        "can_ada-1.0.4-cp311-cp311-musllinux_1_1_i686.whl": [
+          "xdmvZYOwmKsY1FMcCnx1QyfUNuFZhncg8gsgFL3+m+o=",
+          "cp311"
+        ],
+        "can_ada-1.0.4-cp311-cp311-musllinux_1_1_ppc64le.whl": [
+          "SKTqc30AftGMuUErG++ooZ3+0Od2e7AlwqiUxFGIkck=",
+          "cp311"
+        ],
+        "can_ada-1.0.4-cp311-cp311-musllinux_1_1_s390x.whl": [
+          "pdWmiuDmoiyK3HKsF7HxBn5ExyjMGkQL2MChbXcsULA=",
+          "cp311"
+        ],
+        "can_ada-1.0.4-cp311-cp311-musllinux_1_1_x86_64.whl": [
+          "MmY/7t7+PbDuRUvAQ2w1ZsiYada64uVzvtilynneDMU=",
+          "cp311"
+        ],
+        "can_ada-1.0.4-cp311-cp311-win32.whl": [
+          "3CjdEG07sKVe/0TrM6ZI7MneeUu7UPQB7+ginthd9hU=",
+          "cp311"
+        ],
+        "can_ada-1.0.4-cp311-cp311-win_amd64.whl": [
+          "HDJaT+4lAbCmuDDmVreZOv/Oe0K8h4myUukSXxzjmMA=",
+          "cp311"
+        ],
+        "can_ada-1.0.4-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "46gqYtn8bn6J4lCdZ9G98ZvySFQMBo/AtSQpcyo/Yrs=",
+          "cp37"
+        ],
+        "can_ada-1.0.4-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "r+W7JFLIvRrHjrURSrplKj15xA4jTB8h1r3eLKSaKJk=",
+          "cp37"
+        ],
+        "can_ada-1.0.4-cp37-cp37m-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "ZJ2X8MnAGxUHtdZ01RjSsTu99RL+60OywqKjWjDM4bs=",
+          "cp37"
+        ],
+        "can_ada-1.0.4-cp37-cp37m-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "sjYdstuJufj/IMSmXUlQGtVLwyvTasKL2yhSSr6vJLI=",
+          "cp37"
+        ],
+        "can_ada-1.0.4-cp37-cp37m-manylinux_2_17_s390x.manylinux2014_s390x.whl": [
+          "iQGVzYeLEyIjYfMI/673PE3ssFiOD424yH8Hsh9WXWA=",
+          "cp37"
+        ],
+        "can_ada-1.0.4-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "FiCeixku4ktpB1oeFA5Y0FfN3UPRVTjLw83ddr6hz+c=",
+          "cp37"
+        ],
+        "can_ada-1.0.4-cp37-cp37m-musllinux_1_1_aarch64.whl": [
+          "Ij1XkwrGVA0/IjMAN4HmCGQgkDU7gnW8fiznvDfprpo=",
+          "cp37"
+        ],
+        "can_ada-1.0.4-cp37-cp37m-musllinux_1_1_i686.whl": [
+          "NugxteXQ72dtP9pTiWs4/0k3ryCT9dE6c4GsnB/6isU=",
+          "cp37"
+        ],
+        "can_ada-1.0.4-cp37-cp37m-musllinux_1_1_ppc64le.whl": [
+          "mJUl9K+6JMhDeoGirEgHzbkTTMLE3HD58UbQkqWIO6M=",
+          "cp37"
+        ],
+        "can_ada-1.0.4-cp37-cp37m-musllinux_1_1_s390x.whl": [
+          "Sw/jRJ56s3an1HYZEWtXX3ITLskT26QbFfs4X99Kx3s=",
+          "cp37"
+        ],
+        "can_ada-1.0.4-cp37-cp37m-musllinux_1_1_x86_64.whl": [
+          "XsuXFUhIRdzlb9Tb+eE2fWlIMhv4SQ2JBcF8kXy9PqY=",
+          "cp37"
+        ],
+        "can_ada-1.0.4-cp37-cp37m-win32.whl": [
+          "owyb+UfVox7hL50QTdYegVYIkAnevSNQpbjVCmC4T/0=",
+          "cp37"
+        ],
+        "can_ada-1.0.4-cp37-cp37m-win_amd64.whl": [
+          "32xGHciE4ptd+svn6lp7NK67MdZGnjuCXJZYsXjk2GY=",
+          "cp37"
+        ],
+        "can_ada-1.0.4-cp38-cp38-macosx_10_15_universal2.whl": [
+          "3IEk+q1aGNw0aJOThsM2HJlBns5OlttGzLuyCj33HbA=",
+          "cp38"
+        ],
+        "can_ada-1.0.4-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "wPBwK8Kv54+Phd2kG11edh1t+j5Vz8Q7z8i/9OdVreE=",
+          "cp38"
+        ],
+        "can_ada-1.0.4-cp38-cp38-macosx_11_0_arm64.whl": [
+          "zJdQi3drmHzOWKcHwdFkSn41BUf5eWRFAshSGmesiWI=",
+          "cp38"
+        ],
+        "can_ada-1.0.4-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "0N3TR7mPU25ajoazlchfL8IUXVr6cWPE/WZeBwyle+E=",
+          "cp38"
+        ],
+        "can_ada-1.0.4-cp38-cp38-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "i6sdDdSY/PkR8pkZQUCoz4ZOCs19iLxxwjNGQ8/5E/E=",
+          "cp38"
+        ],
+        "can_ada-1.0.4-cp38-cp38-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "N7w9iglszzqUniGW1dLsg57DOtSDAVQCYQRu7KKaeEU=",
+          "cp38"
+        ],
+        "can_ada-1.0.4-cp38-cp38-manylinux_2_17_s390x.manylinux2014_s390x.whl": [
+          "yiuTYp2tF9XlYvc+2++hhWGlRNL0K6AFzPBq5vRyqDk=",
+          "cp38"
+        ],
+        "can_ada-1.0.4-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "CveVffz2HT4eD89z2907IRJZyauX7GENbghiq+a0/mk=",
+          "cp38"
+        ],
+        "can_ada-1.0.4-cp38-cp38-musllinux_1_1_aarch64.whl": [
+          "Yeh1TlWndFUf/uASGAZI0JXwSFEctEMoWRz2bLViT+0=",
+          "cp38"
+        ],
+        "can_ada-1.0.4-cp38-cp38-musllinux_1_1_i686.whl": [
+          "tY5V0WPHXcvHxmybeVoD9CthIC1bnDESQVD46leVUjk=",
+          "cp38"
+        ],
+        "can_ada-1.0.4-cp38-cp38-musllinux_1_1_ppc64le.whl": [
+          "0gO/CipJNOgXS2SF1xp6l5BDRwZ/l9kHXUqHadL3FjQ=",
+          "cp38"
+        ],
+        "can_ada-1.0.4-cp38-cp38-musllinux_1_1_s390x.whl": [
+          "jE6tu13JEIV9/xTZq/g+wngaN9ZvfccnjH2xQyrDR8E=",
+          "cp38"
+        ],
+        "can_ada-1.0.4-cp38-cp38-musllinux_1_1_x86_64.whl": [
+          "2fmZ2XnDwXmiKfLofypp7dSqp3MFxU72OR5SvKnp6Dg=",
+          "cp38"
+        ],
+        "can_ada-1.0.4-cp38-cp38-win32.whl": [
+          "hMtTYhzLPKZnb4O0u9rVSkgV8x7DE4t202zQ2Q08rQ8=",
+          "cp38"
+        ],
+        "can_ada-1.0.4-cp38-cp38-win_amd64.whl": [
+          "1WV0XIO7QqI79W4QyKl8JTzzZack+qhsSdwpMmJE7JM=",
+          "cp38"
+        ],
+        "can_ada-1.0.4-cp39-cp39-macosx_10_15_universal2.whl": [
+          "TF8Zc7+GgAeAtkm3IFZKa6mF5l5GqXpH6M6CtOMDIcs=",
+          "cp39"
+        ],
+        "can_ada-1.0.4-cp39-cp39-macosx_10_15_x86_64.whl": [
+          "dbHTUjiK10nhzue3g7HnvmkLnQxFS0r32+2PPSqKEWc=",
+          "cp39"
+        ],
+        "can_ada-1.0.4-cp39-cp39-macosx_11_0_arm64.whl": [
+          "ZDnAl9Srax0E+4edQdEaQc8OmqzRNtmhcCW4/d0JZTU=",
+          "cp39"
+        ],
+        "can_ada-1.0.4-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "v2Te5r2GsXn0/wql234fB844Uqd4ngSSy+GrMqF4Q3E=",
+          "cp39"
+        ],
+        "can_ada-1.0.4-cp39-cp39-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "gMI4cs2AR0ItYbzCvLsIweGpEcHfQrUdIlmopDJ8po0=",
+          "cp39"
+        ],
+        "can_ada-1.0.4-cp39-cp39-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "djCXmt2N7xS73vRQ81WZqJ3Mrn16iI2Nh6WQWheB0NM=",
+          "cp39"
+        ],
+        "can_ada-1.0.4-cp39-cp39-manylinux_2_17_s390x.manylinux2014_s390x.whl": [
+          "Zm5cWytQjIVlCWCBnWecAjYDpJVHbYslUhtrBDtTslE=",
+          "cp39"
+        ],
+        "can_ada-1.0.4-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "XVY8vN+8YMQF8q6xo6WiXdcKa79VGLN3hGBXinJrA3c=",
+          "cp39"
+        ],
+        "can_ada-1.0.4-cp39-cp39-musllinux_1_1_aarch64.whl": [
+          "dGzA/d/f8AuVAkSqCs4VdMkFo8VoGsQi0PIabCntGLo=",
+          "cp39"
+        ],
+        "can_ada-1.0.4-cp39-cp39-musllinux_1_1_i686.whl": [
+          "XrXWYEe59B03txsN82hArWPMrgVgVDtR5dQN3xcerjY=",
+          "cp39"
+        ],
+        "can_ada-1.0.4-cp39-cp39-musllinux_1_1_ppc64le.whl": [
+          "TsVJtk9cbupzNi2liaPKiGzbvIgThp0iAfCKH34fs5s=",
+          "cp39"
+        ],
+        "can_ada-1.0.4-cp39-cp39-musllinux_1_1_s390x.whl": [
+          "8/tP95EjTIbBmblQkjPPQZlLpAnBf8Mgzt3shv6VmWA=",
+          "cp39"
+        ],
+        "can_ada-1.0.4-cp39-cp39-musllinux_1_1_x86_64.whl": [
+          "zBm/LwdzHxFgqo0AuSwyL6uipLxwyAIj2gc3aKtuQYU=",
+          "cp39"
+        ],
+        "can_ada-1.0.4-cp39-cp39-win32.whl": [
+          "M2OEi5VFL7dZ1YPZSRHWOYVI/pA2Ghgu6+bWfz1lCBc=",
+          "cp39"
+        ],
+        "can_ada-1.0.4-cp39-cp39-win_amd64.whl": [
+          "DmIsHR3hQ3CH6v1p2EJ0hTTpWuRC7Iak0fKAqaKeK2I=",
+          "cp39"
+        ],
+        "can_ada-1.0.4-pp37-pypy37_pp73-macosx_10_15_x86_64.whl": [
+          "oiDYox9ZlmM4VeeHuI13CD2mlnZLsRUfxz+Ug6bS7co=",
+          "pp37"
+        ],
+        "can_ada-1.0.4-pp37-pypy37_pp73-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "x5c46LLNFZKDLBqFWIEpONh6s8yazf3bAS/OO6tvaoY=",
+          "pp37"
+        ],
+        "can_ada-1.0.4-pp37-pypy37_pp73-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "u3O8bj9zbos+bVO5BlkFUei0uk7CP9GAaQsJlQuILus=",
+          "pp37"
+        ],
+        "can_ada-1.0.4-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "iDIJrwemM+5JEwL5ubK8FJ3rm/l53ahKZhZ03SubqVU=",
+          "pp37"
+        ],
+        "can_ada-1.0.4-pp37-pypy37_pp73-win_amd64.whl": [
+          "IMagbm4ag2ov/nA4ymaQIkmEIPS5mn0TRolZk4uHqus=",
+          "pp37"
+        ],
+        "can_ada-1.0.4-pp38-pypy38_pp73-macosx_10_15_x86_64.whl": [
+          "NFWznOqPn+zb9Z6pZJzFk7y6mnxl5gcrH3+wi/KAJFc=",
+          "pp38"
+        ],
+        "can_ada-1.0.4-pp38-pypy38_pp73-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "upxpOghzqnBBkrWzQihjc/n7d2TePG0QwR1+tipDIuE=",
+          "pp38"
+        ],
+        "can_ada-1.0.4-pp38-pypy38_pp73-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "54thYcbXge8yKqRV+Dx/daKvCqkF/EF1orpv0f8oTJU=",
+          "pp38"
+        ],
+        "can_ada-1.0.4-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "xs4JdL/Nt3FtL6ijxpvjBWZblaEY1H1Uacx2nYUzjyI=",
+          "pp38"
+        ],
+        "can_ada-1.0.4-pp38-pypy38_pp73-win_amd64.whl": [
+          "PfO9pJOg+zxdNrOoSZay92PtQXs153R2ZcTCjp8BkPk=",
+          "pp38"
+        ],
+        "can_ada-1.0.4-pp39-pypy39_pp73-macosx_10_15_x86_64.whl": [
+          "6Nx8vXQA5bwfkcLyGYAOKprXy8mhf9aaaK/gKjeaqbs=",
+          "pp39"
+        ],
+        "can_ada-1.0.4-pp39-pypy39_pp73-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "khbGGZppjjIhQVA2zScPNBUhy5l7k1b/Gfuq4yXh30A=",
+          "pp39"
+        ],
+        "can_ada-1.0.4-pp39-pypy39_pp73-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "0xn4nKsTz4PKJYA3w2VybWpucwK2kh1TPknxs6buqjY=",
+          "pp39"
+        ],
+        "can_ada-1.0.4-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "vG7U1OJI5SiLzWl2JZsm80L+US0q09G0rhJREj6u+6c=",
+          "pp39"
+        ],
+        "can_ada-1.0.4-pp39-pypy39_pp73-win_amd64.whl": [
+          "kRrefGGhwv0ydM1EODIQfOlNRPhnRZPQADv33AUvSv4=",
+          "pp39"
+        ]
+      }
+    }
+  },
   "cap2-assembly": {
     "0.1.0": {
       "sdist": [
@@ -26008,6 +26396,18 @@
       "wheels": {
         "collective.exportimport-1.8-py3-none-any.whl": [
           "QU08qACDDfvrsmrQ2UD9/0GnuB0II0Au/CgB0efQsdo=",
+          "py3"
+        ]
+      }
+    },
+    "1.9": {
+      "sdist": [
+        "H3ulqMBFknLn8/WBiTGz9LDbGjAAcTmQm+QKdWSL45M=",
+        "collective.exportimport-1.9.tar.gz"
+      ],
+      "wheels": {
+        "collective.exportimport-1.9-py3-none-any.whl": [
+          "i5MoJnHdD0K9X+oW6lyJAiwh2AOgiTr/wXm/YBflPi0=",
           "py3"
         ]
       }
@@ -32674,6 +33074,18 @@
       "wheels": {
         "deep_copilot-0.0.11-py3-none-any.whl": [
           "Vmw/V+40UmnzRf8Y3B1PUINOWB4tDgsrRQako9FCH5Q=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.12": {
+      "sdist": [
+        "4LFrPZ88S5jaBwOEFAwFThLkVeqK/47AOP40olVSSCk=",
+        "deep_copilot-0.0.12.tar.gz"
+      ],
+      "wheels": {
+        "deep_copilot-0.0.12-py3-none-any.whl": [
+          "Z3l0KtSQw4Ij/oNlIorNTYy8xt5riyWVLXCG2i4LWcI=",
           "py3"
         ]
       }
@@ -60894,6 +61306,14 @@
       "wheels": {
         "huaweicloudsdkclassroom-3.1.4-py2.py3-none-any.whl": [
           "5Mbj0VHuMjIa2KrJeCpYerrFkGgip3OWRDeYNGBMLX8=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.40": {
+      "wheels": {
+        "huaweicloudsdkclassroom-3.1.40-py2.py3-none-any.whl": [
+          "6YthIiRs8QgZX8TivfYeinTTnu0J9/gRNYsbmHozeEM=",
           "py2.py3"
         ]
       }

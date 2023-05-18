@@ -12763,6 +12763,18 @@
           "py3"
         ]
       }
+    },
+    "0.7.1b20230518": {
+      "sdist": [
+        "g+51oZvXrjJG9Wx/cte2QMLU041MXkZTqEHN/Ndo498=",
+        "autogluon.timeseries-0.7.1b20230518.tar.gz"
+      ],
+      "wheels": {
+        "autogluon.timeseries-0.7.1b20230518-py3-none-any.whl": [
+          "UHDop/YSG/SCWDg1e8LvRxswhDmbk03FHzcZ13iVnDo=",
+          "py3"
+        ]
+      }
     }
   },
   "autohooks-plugin-pytest": {
@@ -89586,6 +89598,18 @@
         ]
       }
     },
+    "2.12.7": {
+      "sdist": [
+        "xkThLRZKMenCMOiNwnVqUxJaweUsBmunkn3i6VQuJx8=",
+        "nlpaf-2.12.7.tar.gz"
+      ],
+      "wheels": {
+        "nlpaf-2.12.7-py2.py3-none-any.whl": [
+          "6g0Q5be/XRMAWe1W/RNByeWc1TuN4LGP6PT0X0Iap+I=",
+          "py2.py3"
+        ]
+      }
+    },
     "2.2.0": {
       "sdist": [
         "hrEXMzfnvv5c4poka8S6ogJnMKYknguYQw7DvY/wqFo=",
@@ -95618,6 +95642,14 @@
       "wheels": {
         "odoo13_addon_stock_picking_invoice_link-13.0.2.0.5.dev1-py3-none-any.whl": [
           "LgrXs5bBk/hgLpOu+DsDXn+67p+StdwLcRJ/DNuLc4s=",
+          "py3"
+        ]
+      }
+    },
+    "13.0.2.0.5.dev2": {
+      "wheels": {
+        "odoo13_addon_stock_picking_invoice_link-13.0.2.0.5.dev2-py3-none-any.whl": [
+          "Y64oS7XDq2YeW9QR1gbfjq0v3nZV/B8zbEOEb7Mo3Zk=",
           "py3"
         ]
       }

@@ -496,6 +496,18 @@
         "adafruit-circuitpython-progressbar-2.3.1.tar.gz"
       ]
     },
+    "2.3.10": {
+      "sdist": [
+        "wCxL7+sr/oCGKxgqyeHe4RPpVIaJjF8NfyqehoeyeFI=",
+        "adafruit-circuitpython-progressbar-2.3.10.tar.gz"
+      ],
+      "wheels": {
+        "adafruit_circuitpython_progressbar-2.3.10-py3-none-any.whl": [
+          "KIlY+owjNYMF/fRx/TvuzoMYMZbXnJS7M+cwNhyx418=",
+          "py3"
+        ]
+      }
+    },
     "2.3.2": {
       "sdist": [
         "0gZQvVCzDJBHVhLXAfYizsEZKfIHyNzrHk2Xil/drqk=",
@@ -3776,6 +3788,18 @@
       "wheels": {
         "anyio-3.6.2-py3-none-any.whl": [
           "+74yvScNKi7z7RxdRQQSUChOMfwKTfSlpgcYQgUaUeM=",
+          "py3"
+        ]
+      }
+    },
+    "3.7.0rc1": {
+      "sdist": [
+        "j/oqNXLUqYUkgftvi3/TxniyeGDge4eJ2k3bBmdaohk=",
+        "anyio-3.7.0rc1.tar.gz"
+      ],
+      "wheels": {
+        "anyio-3.7.0rc1-py3-none-any.whl": [
+          "aRrfw8NsDZIsaajUEF5zz0z2l/fmahuvBDR79fGg1qk=",
           "py3"
         ]
       }
@@ -53393,6 +53417,14 @@
           "py2.py3"
         ]
       }
+    },
+    "3.1.40": {
+      "wheels": {
+        "huaweicloudsdkdwr-3.1.40-py2.py3-none-any.whl": [
+          "z4dTgZBywFZiUJNDGtCcp8oA3whS2JnjTSbBqqOwx14=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "huginn": {
@@ -70000,6 +70032,32 @@
       "wheels": {
         "mwconstants-0.1.0-py3-none-any.whl": [
           "MCNgLtRlpUKOWdWl/FGwFRrLT8YkZxTVcvVC2e+7B4Y=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "mycalcpackage": {
+    "0.1.0": {
+      "sdist": [
+        "aNRWPZhV+AbzFcivLHnkttc+XL6Cjbv1zxQ+tCsbTzE=",
+        "mycalcpackage-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "mycalcpackage-0.1.0-py3-none-any.whl": [
+          "EP4rxuKyksgMCM/twrIiwShMnifIwTI9uzkZfWrlapc=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "6oQ1rj7uQt2i+IfS31MEmKVb43JfVVjKY7IBw6xnS8c=",
+        "mycalcpackage-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "mycalcpackage-0.1.1-py3-none-any.whl": [
+          "y/fueiILhGdj6wtps3/fJis7FQcvLce2Qyt02Bs/hU0=",
           "py3"
         ]
       }
@@ -130324,6 +130382,14 @@
         ]
       }
     },
+    "2.14.0.dev2023051808": {
+      "wheels": {
+        "tf_estimator_nightly-2.14.0.dev2023051808-py2.py3-none-any.whl": [
+          "tG4g/iSYugg9s7VsKw1XKI2N9G0soIErLxHg2Y4v4FQ=",
+          "py2.py3"
+        ]
+      }
+    },
     "2.3.0.dev2020031201": {
       "wheels": {
         "tf_estimator_nightly-2.3.0.dev2020031201-py2.py3-none-any.whl": [
@@ -152826,6 +152892,30 @@
       "wheels": {
         "ytdl_sub-2023.4.5.post1-py3-none-any.whl": [
           "FoRdX4aNkZ4pL4TOANttDQ3gWMpvFiWxdcFtFaJBIsk=",
+          "py3"
+        ]
+      }
+    },
+    "2023.5.18": {
+      "sdist": [
+        "wWWmZnUfyBTYvKerlFY56z38XxuhwUN+xmKLjLoCaRU=",
+        "ytdl-sub-2023.5.18.tar.gz"
+      ],
+      "wheels": {
+        "ytdl_sub-2023.5.18-py3-none-any.whl": [
+          "H6r7HWnpAwDl9fR95qcjR7OS8p7fcmDDEdiMyX1Te6k=",
+          "py3"
+        ]
+      }
+    },
+    "2023.5.18.post1": {
+      "sdist": [
+        "ZgK6a+2/q66JGXowCoFNAIUJpX6cmgoWThmhOTVzlJc=",
+        "ytdl-sub-2023.5.18.post1.tar.gz"
+      ],
+      "wheels": {
+        "ytdl_sub-2023.5.18.post1-py3-none-any.whl": [
+          "U+DWhD+yAn8m+N0+CYKcQjGjIU2M6szkz7V0cIiLos0=",
           "py3"
         ]
       }

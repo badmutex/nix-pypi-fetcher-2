@@ -2771,6 +2771,20 @@
       }
     }
   },
+  "ai-dq-module": {
+    "1.1.0": {
+      "sdist": [
+        "YEO502iRcCE7g+olC0PUOEhp+3qz6SBdPsFvPuFL+jQ=",
+        "ai_dq_module-1.1.0.tar.gz"
+      ],
+      "wheels": {
+        "ai_dq_module-1.1.0-py3-none-any.whl": [
+          "sUkbKmMkeLpvxei5Ghsg4f61WvKeGGbHy1clW3oOp7M=",
+          "py3"
+        ]
+      }
+    }
+  },
   "aibekpdf": {
     "1.1": {
       "sdist": [
@@ -105984,11 +105998,21 @@
     }
   },
   "pyavd": {
-    "0.1": {
-      "sdist": [
-        "mde9LuuFRJQQuKsgB1msAhjOQxt3/U5+N+3ELiEHiAo=",
-        "pyavd-0.1.tar.gz"
-      ]
+    "4.0.0.dev10": {
+      "wheels": {
+        "pyavd-4.0.0.dev10-py3-none-any.whl": [
+          "HHEPVFuc9mM3BNKb2t3SU5t/oMl2PGAowm3MMawc8OY=",
+          "py3"
+        ]
+      }
+    },
+    "4.0.0a1.dev10": {
+      "wheels": {
+        "pyavd-4.0.0a1.dev10-py3-none-any.whl": [
+          "zqKCk1n3R32l6SLWr/Qkib/P4UrXg1EqbaYJFqNLu+U=",
+          "py3"
+        ]
+      }
     }
   },
   "pybacklogpy": {
@@ -139170,6 +139194,18 @@
       "wheels": {
         "tencentcloud_sdk_python_cii-3.0.893-py2.py3-none-any.whl": [
           "itfEJE2PHcVHz+PKzNeGDPu0iMEPaJc3xj61TTs0u9w=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.894": {
+      "sdist": [
+        "Ps/sdCZE1D9zsGQCkCXY7M+Qwc+Urw4NGOTbQ11YC2Q=",
+        "tencentcloud-sdk-python-cii-3.0.894.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_cii-3.0.894-py2.py3-none-any.whl": [
+          "wc90JAPVOnVxU/Dkzb8Jz9Mry95KSPfqSFVar3utz5c=",
           "py2.py3"
         ]
       }

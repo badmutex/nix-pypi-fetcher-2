@@ -7301,6 +7301,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.6": {
+      "sdist": [
+        "REF9B09yaVqoiYOMUqKCSa1QDToU7cbrLD62mKU4tY0=",
+        "autodistill-0.0.6.tar.gz"
+      ],
+      "wheels": {
+        "autodistill-0.0.6-py3-none-any.whl": [
+          "905yUqvky+gDzY1Ecb1sA967WvCKV2Rv1tYzups/qbw=",
+          "py3"
+        ]
+      }
     }
   },
   "autofeatureengineering": {
@@ -19592,6 +19604,18 @@
       "wheels": {
         "cdktf_github_actions-0.0.118-py3-none-any.whl": [
           "RW9ORqjhrge+9b+y/gRYbsSLf85KUSi+98VBoNzHepc=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.119": {
+      "sdist": [
+        "fRe0gyTYPf4AhoyOYC/XJsGsIUbaEJ9L2q5L9/ZG44g=",
+        "cdktf-github-actions-0.0.119.tar.gz"
+      ],
+      "wheels": {
+        "cdktf_github_actions-0.0.119-py3-none-any.whl": [
+          "44REJEyzFEwiPUBonLVIFpOK0ZJmCfmalZ0Hjzf3xRs=",
           "py3"
         ]
       }
@@ -100443,6 +100467,18 @@
           "py3"
         ]
       }
+    },
+    "1.5.0": {
+      "sdist": [
+        "qbuV5OztFYe9UqCZfeRs50GlXOSb0hfOFn2YTjDxEWQ=",
+        "opentelemetry-propagator-gcp-1.5.0.tar.gz"
+      ],
+      "wheels": {
+        "opentelemetry_propagator_gcp-1.5.0-py3-none-any.whl": [
+          "3DXsAKzki0RNfg3NBrXyOAchTbXttwDrrg4xObZEoHA=",
+          "py3"
+        ]
+      }
     }
   },
   "opfi": {
@@ -101570,6 +101606,20 @@
       "wheels": {
         "overcome-0.4.0-py3-none-any.whl": [
           "D7H6nq3PSuDMZfpqB/LkP7fbP2Q9ARGrc0uynJfQmCs=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "ovos-microphone-plugin-pyaudio": {
+    "0.0.0a1": {
+      "sdist": [
+        "7riByN+ZJhc6LbEnf1tOmjb5f7hg/wyXzcYRb8Y5WS8=",
+        "ovos-microphone-plugin-pyaudio-0.0.0a1.tar.gz"
+      ],
+      "wheels": {
+        "ovos_microphone_plugin_pyaudio-0.0.0a1-py3-none-any.whl": [
+          "f4JcMnvLPahC8012Sen7/vNUUwdJm/w3k4LY4D2kgA8=",
           "py3"
         ]
       }
@@ -129674,154 +129724,26 @@
         ]
       }
     },
-    "0.3.10": {
+    "0.3.16": {
       "sdist": [
-        "6T/6erhLBE4oOmX+dbw6+L7dCuIb7vEcbrRdAvM94B0=",
-        "Slpapy-0.3.10.tar.gz"
+        "iI0SZeNfxn3W+T8kSlKbZxwua6PALcbgc5wbKjctmM0=",
+        "Slpapy-0.3.16.tar.gz"
       ],
       "wheels": {
-        "Slpapy-0.3.10-py3-none-any.whl": [
-          "N4l+r6WWHvdkvwwaxAJzvM45ywRK502LnD/KiRnscds=",
+        "Slpapy-0.3.16-py3-none-any.whl": [
+          "nG+60xZBREAjGRtsnqYUA8emq6lDtBH5EMvutQsuKx0=",
           "py3"
         ]
       }
     },
-    "0.3.11": {
+    "0.3.17": {
       "sdist": [
-        "claCTvQ1jhNKxGUEupMLAO2smlUoMqi2Bzed6f57QgQ=",
-        "Slpapy-0.3.11.tar.gz"
+        "Ko948kNSoJvMFaWUkGmI/7d6czXB2nnpPmq7QuNmYio=",
+        "Slpapy-0.3.17.tar.gz"
       ],
       "wheels": {
-        "Slpapy-0.3.11-py3-none-any.whl": [
-          "8oa6f0T7zKcRJ8XdMluAmBx4HRe5/6VORbS+3E6gWes=",
-          "py3"
-        ]
-      }
-    },
-    "0.3.12": {
-      "sdist": [
-        "0j1hoBV0DOhzEEjsdxEMm3DWrifgoZLPmc/egnYNPCE=",
-        "Slpapy-0.3.12.tar.gz"
-      ],
-      "wheels": {
-        "Slpapy-0.3.12-py3-none-any.whl": [
-          "0j20XKImMAHAwYSlcEwB7C6C6O7Kzi3lEsSMWAy19tI=",
-          "py3"
-        ]
-      }
-    },
-    "0.3.13": {
-      "sdist": [
-        "Ucq3EBKNh9zvPp50s4R1va3gm5QcKzqRqRoADxEzDBc=",
-        "Slpapy-0.3.13.tar.gz"
-      ],
-      "wheels": {
-        "Slpapy-0.3.13-py3-none-any.whl": [
-          "UsN4ue1uFLdYF3BexZ89OIE3+T20noC51T6GnD/d7ZM=",
-          "py3"
-        ]
-      }
-    },
-    "0.3.14": {
-      "wheels": {
-        "Slpapy-0.3.14-py3-none-any.whl": [
-          "ryCcIkqg9dRQYhyyllEzNayLp4DUhqnAgPEcCpVxr4I=",
-          "py3"
-        ]
-      }
-    },
-    "0.3.2": {
-      "sdist": [
-        "jy+goQgh+UyXVXgS/L+49vJnODJ7yKMHyBff1I4kZH0=",
-        "Slpapy-0.3.2.tar.gz"
-      ],
-      "wheels": {
-        "Slpapy-0.3.2-py3-none-any.whl": [
-          "OuvYjSqPjtqDr1yPZfAl/ZSA+fUulNWOvSsla/xhd+Q=",
-          "py3"
-        ]
-      }
-    },
-    "0.3.3": {
-      "sdist": [
-        "MR8EqivSOLVXQz5ymAZTLZQIJ/QlxFtp2hBzRPsZh64=",
-        "Slpapy-0.3.3.tar.gz"
-      ],
-      "wheels": {
-        "Slpapy-0.3.3-py3-none-any.whl": [
-          "/FT8eHF3qdwHNzoZl0Ed1RSvrPOqhcYpSbv6QqrP5sU=",
-          "py3"
-        ]
-      }
-    },
-    "0.3.4": {
-      "sdist": [
-        "+IiCbxVaS21oRh3VgHQUTXUM8XolhhPZ0BEysKNESX0=",
-        "Slpapy-0.3.4.tar.gz"
-      ],
-      "wheels": {
-        "Slpapy-0.3.4-py3-none-any.whl": [
-          "id4bdG4yLTupRwgMwAAFEPCM0IfmmJGc2A9mMojC/lA=",
-          "py3"
-        ]
-      }
-    },
-    "0.3.5": {
-      "sdist": [
-        "YBnXIFhG5o6sHA5XRv2bggX89PkrWPqYf04kNUSgLas=",
-        "Slpapy-0.3.5.tar.gz"
-      ],
-      "wheels": {
-        "Slpapy-0.3.5-py3-none-any.whl": [
-          "NEy6IuSjGqLFzlGOxSyoSvewRbQxKoxlH1SmM4ycei0=",
-          "py3"
-        ]
-      }
-    },
-    "0.3.6": {
-      "sdist": [
-        "I+jTHeLtd0o12nhNdPFp/Z6rwgbAvC1CIBR0j8eD0aM=",
-        "Slpapy-0.3.6.tar.gz"
-      ],
-      "wheels": {
-        "Slpapy-0.3.6-py3-none-any.whl": [
-          "EPrzqIjaw3JmfmAipf86Dh907fI2NZ8hOTwK3mvDyms=",
-          "py3"
-        ]
-      }
-    },
-    "0.3.7": {
-      "sdist": [
-        "HMfY9z6J34A3H3aYki4a3WixLr7PKZwmLdLHLMlpFNc=",
-        "Slpapy-0.3.7.tar.gz"
-      ],
-      "wheels": {
-        "Slpapy-0.3.7-py3-none-any.whl": [
-          "DS97J0IhEfc1xbafNjDnXxm56m0jnUmAttwoXppwg+E=",
-          "py3"
-        ]
-      }
-    },
-    "0.3.8": {
-      "sdist": [
-        "Fa47lmZEyx5EypM7m1XC0rf7KmPBhddOUQcOPUQKiEo=",
-        "Slpapy-0.3.8.tar.gz"
-      ],
-      "wheels": {
-        "Slpapy-0.3.8-py3-none-any.whl": [
-          "yz11jkxBf+QDhh3qTcNL6aHttLIMqGMBxpequ12B2qI=",
-          "py3"
-        ]
-      }
-    },
-    "0.3.9": {
-      "sdist": [
-        "gVVjL1G9TODmQithrVDdVs1vCpXKaaOFkWDjJrD6Cxo=",
-        "Slpapy-0.3.9.tar.gz"
-      ],
-      "wheels": {
-        "Slpapy-0.3.9-py3-none-any.whl": [
-          "ETWug5yD6JRA3H5qk/XNxDDpqsVVUjo2i/dSD2FSY7Q=",
+        "Slpapy-0.3.17-py3-none-any.whl": [
+          "HNd7TIyuIKQmrhYzoPna100685f1+uD/heueIHqCefE=",
           "py3"
         ]
       }
@@ -142632,6 +142554,18 @@
       "wheels": {
         "tencentcloud_sdk_python_zj-3.0.893-py2.py3-none-any.whl": [
           "mw8iDGbvAvXoD7f1RRYlavbExEAKLMEceDsz8vqw19k=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.894": {
+      "sdist": [
+        "qmUpNB1sti6Gn9i/FiYhxM9oztvCkepTBF/qnlYePDY=",
+        "tencentcloud-sdk-python-zj-3.0.894.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_zj-3.0.894-py2.py3-none-any.whl": [
+          "kP3ZiXmZmlS+JWSz+tT+lGcOkKXGrMXvObZ1Q+cmNBM=",
           "py2.py3"
         ]
       }

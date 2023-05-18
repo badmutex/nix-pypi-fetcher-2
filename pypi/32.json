@@ -34952,6 +34952,12 @@
         "django-jacc-3.11.7.tar.gz"
       ]
     },
+    "3.11.8": {
+      "sdist": [
+        "+wRVUaONbw/vljQ9x8YqQ9+W0E9J7wTARzO/KdhDA/M=",
+        "django-jacc-3.11.8.tar.gz"
+      ]
+    },
     "3.2.1": {
       "sdist": [
         "q7u/HvXM3VffwKwt5o6+nkx18xRhP5yoeoVtwULx1SI=",
@@ -37856,6 +37862,18 @@
       "wheels": {
         "dls_utilpack-1.3.0-py3-none-any.whl": [
           "UKo12apsm8p6LEk21LPHoE3HjBRrfnDNMtq1kibi/4I=",
+          "py3"
+        ]
+      }
+    },
+    "1.3.1": {
+      "sdist": [
+        "c6Wl8jbSS9eANrZtv46f3cDGwBuKk+GEeNSbwGr8OXQ=",
+        "dls-utilpack-1.3.1.tar.gz"
+      ],
+      "wheels": {
+        "dls_utilpack-1.3.1-py3-none-any.whl": [
+          "J6YeqJFH0Zgzefyt5GeV9YfmLsG2Vmr5u+wRtxfCBM0=",
           "py3"
         ]
       }
@@ -46956,6 +46974,18 @@
       "wheels": {
         "foxglove_websocket-0.1.0-py3-none-any.whl": [
           "VSl4dlPSOlDhi1zFoabBnsjC9QiDg6KdijR1tY7zHj8=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "YjI+BE2D20k2DzEMU+56ivOFbtZcUw8OSmTjMENLGUo=",
+        "foxglove-websocket-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "foxglove_websocket-0.1.1-py3-none-any.whl": [
+          "tIUwRWMeAhyASlDTCKLsuY/61keWUrhq3oAWOTzf138=",
           "py3"
         ]
       }
@@ -104157,6 +104187,32 @@
       }
     }
   },
+  "ovos-microphone-plugin-alsa": {
+    "0.0.0a1": {
+      "sdist": [
+        "wbQLv0PY9rxP4lmsopDzx2hzORYzgNzSVbCJowXD/LA=",
+        "ovos-microphone-plugin-alsa-0.0.0a1.tar.gz"
+      ],
+      "wheels": {
+        "ovos_microphone_plugin_alsa-0.0.0a1-py3-none-any.whl": [
+          "16oDxfFdGqUdrswxhrWuCMjIutAR/o56moSM64KwpFY=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.0a2": {
+      "sdist": [
+        "sKEprOn6KMivm0SHbcSX9BybaQAgY0C8Tqeb1j8Y6kA=",
+        "ovos-microphone-plugin-alsa-0.0.0a2.tar.gz"
+      ],
+      "wheels": {
+        "ovos_microphone_plugin_alsa-0.0.0a2-py3-none-any.whl": [
+          "Qc1Qy0J/9dBcGDJLXcWs3qMu/2qwQL42O3Qcx62G2Qo=",
+          "py3"
+        ]
+      }
+    }
+  },
   "ovos-tts-plugin-polly": {
     "0.0.1": {
       "sdist": [
@@ -107604,6 +107660,18 @@
         ]
       }
     },
+    "1.0.0": {
+      "sdist": [
+        "mvABSvIoJbWQiiw6pbtiNaizMcGEkzKabmQR57w+O+I=",
+        "panel-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "panel-1.0.0-py2.py3-none-any.whl": [
+          "9vm8YYzVKecii8njVK9dcIY6IqdmLqu3giNSdXzVfOU=",
+          "py2.py3"
+        ]
+      }
+    },
     "1.0.0a1": {
       "sdist": [
         "ymZH46lkbRHK+fh5N7hO1+EFIBxeI0yZLB4nGSzS2ds=",
@@ -107900,6 +107968,18 @@
       "wheels": {
         "panel-1.0.0rc10-py2.py3-none-any.whl": [
           "IQhl69cqSMo7n+acs6S7geQn+6n6C6npwU6f7KM8oj0=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.0.0rc11": {
+      "sdist": [
+        "oxEtf9VoplUAV/H9ipM8Zo9l/Gklog9aDla1MDgZUJ4=",
+        "panel-1.0.0rc11.tar.gz"
+      ],
+      "wheels": {
+        "panel-1.0.0rc11-py2.py3-none-any.whl": [
+          "AJY+LNxx9g/CLwjX1rCP2W1OveKDEjHjRvXeGxjA+6k=",
           "py2.py3"
         ]
       }
@@ -117254,6 +117334,12 @@
       "sdist": [
         "B8HQuFh6vchy273VHJVnp7LgDmgozwNZz+IypkIg1Ek=",
         "pyowletapi-2023.5.24.tar.gz"
+      ]
+    },
+    "2023.5.25": {
+      "sdist": [
+        "8HjB3CE4UcK3scoYCszKDA0spLHrMvJUCFJRAbjIkLs=",
+        "pyowletapi-2023.5.25.tar.gz"
       ]
     },
     "2023.5.3": {

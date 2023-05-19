@@ -32243,6 +32243,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.1a9": {
+      "sdist": [
+        "fmKHaAYqlMr5D1Y7I8070ztA4cfhTNulLfNgG4uDm90=",
+        "datajunction-0.0.1a9.tar.gz"
+      ],
+      "wheels": {
+        "datajunction-0.0.1a9-py3-none-any.whl": [
+          "IMguXaO3diuaz9q5BXb6MYjN1Cy0MhNIo70C36Fw3xA=",
+          "py3"
+        ]
+      }
     }
   },
   "dataprovider": {
@@ -40862,6 +40874,30 @@
         ],
         "dpsa4fl_bindings-0.1.64-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "j13fRu06Dzng6EdqjOsFCXoyweFE8MxbbglPWMd1z14=",
+          "cp39"
+        ]
+      }
+    },
+    "0.1.65": {
+      "sdist": [
+        "IPHC1jz9gMp09T3qvp4Fzp1mqBnms3Nj1Mz18e6JvmA=",
+        "dpsa4fl_bindings-0.1.65.tar.gz"
+      ],
+      "wheels": {
+        "dpsa4fl_bindings-0.1.65-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "qAx5H9zrGeAJl2OYqI69KhgWzXqX3D5nWjgsySeKh8c=",
+          "cp310"
+        ],
+        "dpsa4fl_bindings-0.1.65-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "5SyWRZ1aQhDe7bmRl6wPE6+mEeWet9dzvJhDfv8HT5c=",
+          "cp37"
+        ],
+        "dpsa4fl_bindings-0.1.65-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "W1eW73gqjN/XK3s7hz/BYnZY2qDZz37UF9AHY6zeJm0=",
+          "cp38"
+        ],
+        "dpsa4fl_bindings-0.1.65-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "/8p39Olj8cjzc43ejbnHygiiPDPbEwBjBPuf0BFPplo=",
           "cp39"
         ]
       }
@@ -104320,6 +104356,58 @@
         ]
       }
     },
+    "1.0.0a11": {
+      "wheels": {
+        "openassetio-1.0.0a11-cp310-cp310-macosx_10_15_x86_64.whl": [
+          "8AnUCGx5TFqv0+O4mmfaj4UzB7TR8IDtmcsSWZrkv/s=",
+          "cp310"
+        ],
+        "openassetio-1.0.0a11-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "0DmGUNKO8nCWpFVBANNKbHV7jqVAtk9Sy/UJPDTBFgs=",
+          "cp310"
+        ],
+        "openassetio-1.0.0a11-cp310-cp310-win_amd64.whl": [
+          "zGoCfPEjnhJdPANjcE8CMIFTcyRwRYi2BbV5GkxqsKs=",
+          "cp310"
+        ],
+        "openassetio-1.0.0a11-cp311-cp311-macosx_10_15_x86_64.whl": [
+          "jQwqqtAhH9idRIrX+arzGHRqBPwRgeWIP839RqBQLFs=",
+          "cp311"
+        ],
+        "openassetio-1.0.0a11-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "C+GxW5bzXByN/KGcZ4VvMDJkdVIfpreWy8G82n9+CV0=",
+          "cp311"
+        ],
+        "openassetio-1.0.0a11-cp311-cp311-win_amd64.whl": [
+          "tsxVv3ZsgdxRQt8jOUSYieYefYVeJr1ZRa693ee+EL0=",
+          "cp311"
+        ],
+        "openassetio-1.0.0a11-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "bOWcuU4Fqh8zhmmhJj0oHf0Wd649ymoPLRcCMy6OolY=",
+          "cp37"
+        ],
+        "openassetio-1.0.0a11-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "lXzD9R5lEDEY1foZotO5qVrRF97zpQsuseA1kXD9x7Y=",
+          "cp37"
+        ],
+        "openassetio-1.0.0a11-cp37-cp37m-win_amd64.whl": [
+          "ppNJLDAo8q8NUNlrCBR5s5R+oTOn9JSkGZrKNXblwGg=",
+          "cp37"
+        ],
+        "openassetio-1.0.0a11-cp39-cp39-macosx_10_15_x86_64.whl": [
+          "ISCQybarA8Jm36DJ3sprA0YOE3PMsQLmViXQnGGNwyc=",
+          "cp39"
+        ],
+        "openassetio-1.0.0a11-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Lflm6+8BcVGnoNblAbBDg5zpXd1VLaYWpG5LWvGKRlg=",
+          "cp39"
+        ],
+        "openassetio-1.0.0a11-cp39-cp39-win_amd64.whl": [
+          "edKwVrcHzuODrJweHzP3nR7J2Fw4Kyhb05wDQT1Z8bo=",
+          "cp39"
+        ]
+      }
+    },
     "1.0.0a5": {
       "wheels": {
         "openassetio-1.0.0a5-cp310-cp310-macosx_10_15_x86_64.whl": [
@@ -142461,6 +142549,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.91": {
+      "sdist": [
+        "luFmyYlouiN/N1nwp/n2Zqx7pRYGZj8p3lV8w11Ysu4=",
+        "sparrow-order-lib-0.1.91.tar.gz"
+      ],
+      "wheels": {
+        "sparrow_order_lib-0.1.91-py3-none-any.whl": [
+          "7qVZJOnNMJANf9S4A2IMJfKQbryLxPwH9HM2BlQbfFA=",
+          "py3"
+        ]
+      }
     }
   },
   "sparsedeconv-bioinfotongli": {
@@ -156467,6 +156567,14 @@
           "py3"
         ]
       }
+    }
+  },
+  "vnpy-akshare": {
+    "1.0.0": {
+      "sdist": [
+        "m9+9l05/b7MW+2GLUGkCzYD1SBb45O81plRyxF4qu/8=",
+        "vnpy_akshare-1.0.0.tar.gz"
+      ]
     }
   },
   "voider": {

@@ -4634,6 +4634,18 @@
         "AlgorithmLib-3.9.50.tar.gz"
       ]
     },
+    "3.9.51": {
+      "sdist": [
+        "t1a3CRjdGzUEciHA2EJza9F1gpSI6wp1Onc5i3wGvBs=",
+        "AlgorithmLib-3.9.51.tar.gz"
+      ]
+    },
+    "3.9.52": {
+      "sdist": [
+        "hSpgTYtZxYZ1C7ObIiA2T0vf0dLzAocQf6xC6gTVYTo=",
+        "AlgorithmLib-3.9.52.tar.gz"
+      ]
+    },
     "3.9.6": {
       "sdist": [
         "cEB4ZArLXHds5Nriivz00NIQk8OueCy5CcENcTSlIbs=",
@@ -14470,6 +14482,18 @@
       "wheels": {
         "autogluon.cloud-0.2.1b20230518-py3-none-any.whl": [
           "kcARZ5IbPLN6+CM4oW4lS33IOmZgvLHY/Pymbrz4Gf0=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.1b20230519": {
+      "sdist": [
+        "S2v6wmHPhiSXUymbJr/uhe97AB2IDSYP+eyHOARjvl0=",
+        "autogluon.cloud-0.2.1b20230519.tar.gz"
+      ],
+      "wheels": {
+        "autogluon.cloud-0.2.1b20230519-py3-none-any.whl": [
+          "2FkaxAYiTeuVyduK2xFofaJkF7X4ozTreXzRN+e/zTs=",
           "py3"
         ]
       }
@@ -45225,6 +45249,30 @@
           "py3"
         ]
       }
+    },
+    "0.6.1": {
+      "sdist": [
+        "ptSNmBiWIxrTm829ydQG0ZGj93HpAqcBgyvHs69z2/s=",
+        "fastkafka-0.6.1.tar.gz"
+      ],
+      "wheels": {
+        "fastkafka-0.6.1-py3-none-any.whl": [
+          "xO3bz5QR/uXbRuL4LPjsCMYqo4Rf5/mSP5CN+NjRBQA=",
+          "py3"
+        ]
+      }
+    },
+    "0.6.1rc0": {
+      "sdist": [
+        "i+cly5C6941gZg0E8adEuC8BN+22fWmlGDhN4Ev+UAM=",
+        "fastkafka-0.6.1rc0.tar.gz"
+      ],
+      "wheels": {
+        "fastkafka-0.6.1rc0-py3-none-any.whl": [
+          "3JI/v/6w9v4CQFamhsBH+K4XzfdzQbbfhYHfisjf1m0=",
+          "py3"
+        ]
+      }
     }
   },
   "fastsearch": {
@@ -49238,6 +49286,18 @@
       "wheels": {
         "font_CLI-0.9.14-py3-none-any.whl": [
           "eOg5zSxo2KzisBgBAzyvlsmXT+MjMeooCwThpAq3pWs=",
+          "py3"
+        ]
+      }
+    },
+    "0.9.15": {
+      "sdist": [
+        "nU8+shmamhxTRtkjFMnhWGYiK95xwmPEby7JSoX/EKk=",
+        "font-CLI-0.9.15.tar.gz"
+      ],
+      "wheels": {
+        "font_CLI-0.9.15-py3-none-any.whl": [
+          "xTKDqt+OUp00hgqAFLgBBoYW+OJeQg758WwhLshNKIw=",
           "py3"
         ]
       }
@@ -126635,6 +126695,38 @@
           "cp39"
         ]
       }
+    },
+    "2.3.5": {
+      "sdist": [
+        "EcmtD3XQMvKIGDDva2rnP6cKcRnR6+d7I148VMGAlbw=",
+        "pywpsrpc-2.3.5.tar.gz"
+      ],
+      "wheels": {
+        "pywpsrpc-2.3.5-cp310-cp310-manylinux_2_5_x86_64.whl": [
+          "23nDwcFn3pzdoPKaqi46dQuLqBeTyhczmD/5i5uf2XI=",
+          "cp310"
+        ],
+        "pywpsrpc-2.3.5-cp311-cp311-manylinux_2_5_x86_64.whl": [
+          "MkS9k+UizgdETJGYHQ07eYIFO+NAoZc93REvowxdRio=",
+          "cp311"
+        ],
+        "pywpsrpc-2.3.5-cp36-cp36m-manylinux1_x86_64.whl": [
+          "cD0lmBr8QlA5I4MFWabu2ilTYA6F2RSTlgU77RIv7Tg=",
+          "cp36"
+        ],
+        "pywpsrpc-2.3.5-cp37-cp37m-manylinux_2_5_x86_64.whl": [
+          "bdnjOjatNAFDMAkTkM7afq7CenmvotYzyCaVGrK7+Ps=",
+          "cp37"
+        ],
+        "pywpsrpc-2.3.5-cp38-cp38-manylinux_2_5_x86_64.whl": [
+          "zgiTURgVQUfrk9dWuI7DuiIY4QdAeTVmXcEUVNmK/RE=",
+          "cp38"
+        ],
+        "pywpsrpc-2.3.5-cp39-cp39-manylinux_2_5_x86_64.whl": [
+          "tUx5+EsKx8KcIfx1xs2TsjIittXyztcEzvTG3fr5iHA=",
+          "cp39"
+        ]
+      }
     }
   },
   "pyzelectrode": {
@@ -150900,6 +150992,32 @@
       "wheels": {
         "toilet-0.0.0.9-py3-none-any.whl": [
           "5jBwhR8SzhashKvH3wdoTjbQMINCMIF6ay8qdN9M8Dk=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "tokflow": {
+    "1.0.0": {
+      "sdist": [
+        "NT1cz9lTGIZr0Le9pbh5aqwFCCT67RrMLnKV6G2ocvs=",
+        "TokFlow-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "TokFlow-1.0.0-py3-none-any.whl": [
+          "0FwCdyQUihyaqu21NCS4KlTPweFtQWEUaiQTw0O9rdY=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.1": {
+      "sdist": [
+        "jlv3HYe5eanFwoBQGzEtOZ3f8/4zigntfptTCWTephY=",
+        "TokFlow-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "TokFlow-1.0.1-py3-none-any.whl": [
+          "kV+IRrSyXhOd7V9AOGOuKUJO8RuVPEv9yAcXXhhFqKE=",
           "py3"
         ]
       }

@@ -85,6 +85,32 @@
       }
     }
   },
+  "academyai": {
+    "1.0.2": {
+      "sdist": [
+        "1G7urN7uYGST7AbFOTPbhtnf/11BId7AWn7OL5F9Hh8=",
+        "academyAI-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "academyAI-1.0.2-py3-none-any.whl": [
+          "RCuZaVoO/whTLuO0MLoHrDk9FUB31hMqcJbuBoq0SY8=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.3": {
+      "sdist": [
+        "d6wlJdDmEHHgLorzJLr/1YeDiREFB3IwOPXOJd3ZAGg=",
+        "academyAI-1.0.3.tar.gz"
+      ],
+      "wheels": {
+        "academyAI-1.0.3-py3-none-any.whl": [
+          "M5DZvCtw64A7w5kePv/JRoa0y2N/tTvWfqUgfWY57Rs=",
+          "py3"
+        ]
+      }
+    }
+  },
   "ace-sklearn-crfsuite": {
     "0.4.0": {
       "sdist": [
@@ -24711,6 +24737,18 @@
           "py3"
         ]
       }
+    },
+    "0.2.1": {
+      "sdist": [
+        "PNtm7NwtU4h/By+fyOchHjPSbR7yj6gcRYhsbT7RywM=",
+        "crosscompute-views-map-0.2.1.tar.gz"
+      ],
+      "wheels": {
+        "crosscompute_views_map-0.2.1-py3-none-any.whl": [
+          "pBxgeZdlfCnKdSTpbZaKKqi8nLUGNB4mR+pOFibtawc=",
+          "py3"
+        ]
+      }
     }
   },
   "crypto-data-fetcher": {
@@ -29500,6 +29538,18 @@
       "wheels": {
         "dagstermill-0.19.4-py3-none-any.whl": [
           "w3ACiHJtvDo4tqSIbh+A/NP9Wz8uHvwNVTC9jj1tKDs=",
+          "py3"
+        ]
+      }
+    },
+    "0.19.5": {
+      "sdist": [
+        "/giLb+UpBZLMEAs7/bfreRc7EHf6MplnZip1GJrSxV0=",
+        "dagstermill-0.19.5.tar.gz"
+      ],
+      "wheels": {
+        "dagstermill-0.19.5-py3-none-any.whl": [
+          "FxVe+y/vccSNsYSlhvd9Qa0I3yugrMlvP94+AyJ8skE=",
           "py3"
         ]
       }
@@ -115035,6 +115085,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.0": {
+      "sdist": [
+        "vENGzJ1D3tY3Tt2MIp8S9KV9vxU+hY5Wz2uv2ktcxEU=",
+        "pychuck-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "pychuck-1.0.0-py3-none-any.whl": [
+          "d7i2VjOagrMVhTsC7hCIDAbvEqkjiXx4lH9OiGYCBDU=",
+          "py3"
+        ]
+      }
     }
   },
   "pycodsetyle": {
@@ -139536,6 +139598,34 @@
         ],
         "singlestoredb-0.6.0-cp36-abi3-win_amd64.whl": [
           "2UYV+hnG9jVWTJPiWdG9NOCyWLShJHke2iwnO4qcPxw=",
+          "cp36"
+        ]
+      }
+    },
+    "0.6.1": {
+      "sdist": [
+        "LgD0zYadwezzPfhTxSHr1s6ROvK/Oy+YZ1/6PcaRFjY=",
+        "singlestoredb-0.6.1.tar.gz"
+      ],
+      "wheels": {
+        "singlestoredb-0.6.1-cp36-abi3-macosx_10_9_universal2.whl": [
+          "vxdp5TmTmBQgZQoCxZujZ5E9nwJWlIzJj2+dRk90hSo=",
+          "cp36"
+        ],
+        "singlestoredb-0.6.1-cp36-abi3-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "pOkPod/eHjH3q+AR912dyMzLw1uWjtg4G9RMC33UAms=",
+          "cp36"
+        ],
+        "singlestoredb-0.6.1-cp36-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "RNNhw/pN5iKLUl0LHSLbdXkNjm+4TD0LIhO/QXdNQyM=",
+          "cp36"
+        ],
+        "singlestoredb-0.6.1-cp36-abi3-win32.whl": [
+          "rZVDxBKGoglXGK1+EzzIs7Xek49zEVf7stTSsNFiOv8=",
+          "cp36"
+        ],
+        "singlestoredb-0.6.1-cp36-abi3-win_amd64.whl": [
+          "+fn+2pR7n+kYKGN1gRjIlh67dCgQmLQolMmbWNMLJSY=",
           "cp36"
         ]
       }

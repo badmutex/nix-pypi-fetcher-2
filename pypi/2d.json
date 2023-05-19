@@ -13332,10 +13332,10 @@
     }
   },
   "avio": {
-    "2.1.4": {
+    "2.1.7": {
       "sdist": [
-        "34z80uvyUFwUD4mr8nLpC3Zq9n9RThqtZl4TFUveh4E=",
-        "avio-2.1.4.tar.gz"
+        "1n1FJT8oCy64QPr0CrcgHO1U0i7D11YTD83yXg85w18=",
+        "avio-2.1.7.tar.gz"
       ]
     }
   },
@@ -52148,6 +52148,18 @@
         ]
       }
     },
+    "1.2.13": {
+      "sdist": [
+        "5ANN5hevTw+VwuwRcFz8RmGNH/vJW4VXVcivgPhcyeI=",
+        "flytekitplugins-kfmpi-1.2.13.tar.gz"
+      ],
+      "wheels": {
+        "flytekitplugins_kfmpi-1.2.13-py3-none-any.whl": [
+          "O4Vnj4PyoTm+I14mnOTaaUVLBfCDXlBz5q/mvnTJ4Uk=",
+          "py3"
+        ]
+      }
+    },
     "1.2.2": {
       "sdist": [
         "nKSEsT2IiqefygJYNjoj7CdVseWIUusm+IPpVvyH9YU=",
@@ -61327,6 +61339,18 @@
         "QLUbD/Ij9Iv1FA4E7B9qbkHWsxJaDIl/U8A5npFeNqQ=",
         "horizonai-0.1.8.tar.gz"
       ]
+    },
+    "0.1.9": {
+      "sdist": [
+        "l/81L97aqMSQFpwf8DY0S4z3nWUiYz1UtDhn/2yBAqk=",
+        "horizonai-0.1.9.tar.gz"
+      ],
+      "wheels": {
+        "horizonai-0.1.9-py3-none-any.whl": [
+          "kE5pS2O54xXxFp+G5X65JVRi9Zekj035Zp0VEBKW8vw=",
+          "py3"
+        ]
+      }
     }
   },
   "hourly-price-prediction": {
@@ -98276,6 +98300,18 @@
       "wheels": {
         "openai_helper-0.2.2-py3-none-any.whl": [
           "0olXQpcMREn7qpH0uF8kTfrq2G2i9ba4MyDF59a1HC0=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.3": {
+      "sdist": [
+        "trbn5H/oyDZ5wMu/++ZJhFQ7FHT4JalTnVsfAw6KxjI=",
+        "openai-helper-0.2.3.tar.gz"
+      ],
+      "wheels": {
+        "openai_helper-0.2.3-py3-none-any.whl": [
+          "6ECWMOYvFkP6hvIJ/UEnrvmaCaHz0n0GEYWAh6T3ciE=",
           "py3"
         ]
       }
@@ -147033,6 +147069,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.895": {
+      "sdist": [
+        "Tf7PQOziz2arTaaAMkoGawuODuEM9QQKIX/AWslo7AI=",
+        "tencentcloud-sdk-python-sts-3.0.895.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_sts-3.0.895-py2.py3-none-any.whl": [
+          "9zBFufvGGyBnp1NYbUx6JXvrkH9BMZEoCIT2JvBIYZk=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tencentyun": {
@@ -150436,42 +150484,6 @@
         ]
       }
     },
-    "1.2a3": {
-      "sdist": [
-        "YfhUr9f4My2Hje39xd/k0YR+YqwMUBRGwFNOGvc/ZSY=",
-        "torchmanager-nightly-1.2a3.tar.gz"
-      ],
-      "wheels": {
-        "torchmanager_nightly-1.2a3-py3-none-any.whl": [
-          "bE1KbC1CdJ1uj3BertFXko+dswwz5MK+sMXLl/gCjEI=",
-          "py3"
-        ]
-      }
-    },
-    "1.2a5": {
-      "sdist": [
-        "qFXi2lvFLRZhqPjDmaN8h8eZE+FU/8Ll6CuUtV/TepA=",
-        "torchmanager-nightly-1.2a5.tar.gz"
-      ],
-      "wheels": {
-        "torchmanager_nightly-1.2a5-py3-none-any.whl": [
-          "r5iebrR1VfOSIR4wST/Fm6MO1KI2HaQQxDLA1i6nQpA=",
-          "py3"
-        ]
-      }
-    },
-    "1.2a6": {
-      "sdist": [
-        "fYhtCoEYi+vAe1z5TifZDDlpetYGagjqiwyZ1wHqY30=",
-        "torchmanager-nightly-1.2a6.tar.gz"
-      ],
-      "wheels": {
-        "torchmanager_nightly-1.2a6-py3-none-any.whl": [
-          "Bl4po7QCA+BCE8MSC3dwZozhfSVJqC5aNcbX3fXAVjA=",
-          "py3"
-        ]
-      }
-    },
     "1.2b1": {
       "sdist": [
         "bnyC/12jHOZ3MZmjDKuYL9hPDrmrTaNAr9m5Ypfknew=",
@@ -150528,6 +150540,18 @@
       "wheels": {
         "torchmanager_nightly-1.2b5-py3-none-any.whl": [
           "itMn/XgIg0q5rqSdho5AHl4ahj82je2ZXQbXmehsWXk=",
+          "py3"
+        ]
+      }
+    },
+    "1.2b6": {
+      "sdist": [
+        "TenDaRXiPJU1+9N7pr1PbZwxLWON6dmbIVItMnScPrg=",
+        "torchmanager_nightly-1.2b6.tar.gz"
+      ],
+      "wheels": {
+        "torchmanager_nightly-1.2b6-py3-none-any.whl": [
+          "Tgq9811x9CRE49ipYiuYDY7Q3DUFgyimJ6TR1uPta/M=",
           "py3"
         ]
       }
@@ -155998,6 +156022,18 @@
       "wheels": {
         "webui2-2.2.0.2-py3-none-any.whl": [
           "Kv7mGM/ayoK1L8cvAnnn5AkmHVoJYij/73wZgOpgBxo=",
+          "py3"
+        ]
+      }
+    },
+    "2.3.0.0": {
+      "sdist": [
+        "ZF8C/vqZGTQhpjuGoZ/nWhPvUOht7w+1pZyhZEY1DNE=",
+        "webui2-2.3.0.0.tar.gz"
+      ],
+      "wheels": {
+        "webui2-2.3.0.0-py3-none-any.whl": [
+          "0L32Obp6uYEppu0t574woybL4xWKQUVLDiIF7xt454Y=",
           "py3"
         ]
       }

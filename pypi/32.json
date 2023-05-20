@@ -3615,6 +3615,18 @@
           "py3"
         ]
       }
+    },
+    "3.7.0rc2": {
+      "sdist": [
+        "oEqqOPGWQi71h78amSFIG6UjcNsAl8Nl9J2CplbLjBc=",
+        "apache-airflow-providers-docker-3.7.0rc2.tar.gz"
+      ],
+      "wheels": {
+        "apache_airflow_providers_docker-3.7.0rc2-py3-none-any.whl": [
+          "Tm2Csec4ZNQ71s3m20XeAR8WQmRBuyxAYHGpbPb+gRM=",
+          "py3"
+        ]
+      }
     }
   },
   "app-confetti": {
@@ -50912,6 +50924,18 @@
       "wheels": {
         "GOFevaluation-0.1.1-py3-none-any.whl": [
           "4D0LryKUz/8vOo1qjU+gZc3/8M5KqTzS3IOdHBabu8g=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "Vw0oScWrg56+PUOYj5aSQ3fsbqyGhcc4EJTUOLh2c+g=",
+        "GOFevaluation-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "GOFevaluation-0.1.2-py3-none-any.whl": [
+          "EO4NObI3KeNmA1i/mt/8SwV6fqy0dCxFqnHiTQ31Dko=",
           "py3"
         ]
       }
@@ -104265,6 +104289,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.0a3": {
+      "sdist": [
+        "w0G0xs5YRCQIGcAkGA5Xr33vX5bryI0tkwd/VJLhNfc=",
+        "ovos-microphone-plugin-alsa-0.0.0a3.tar.gz"
+      ],
+      "wheels": {
+        "ovos_microphone_plugin_alsa-0.0.0a3-py3-none-any.whl": [
+          "iSBIbMNaCZR6ghIvOg4MPR2TyV0aqe714JBirKbQ4nc=",
+          "py3"
+        ]
+      }
     }
   },
   "ovos-tts-plugin-polly": {
@@ -108138,6 +108174,18 @@
       "wheels": {
         "panel-1.0.1-py2.py3-none-any.whl": [
           "EnEnCaRMpRTNYPNswVhFXNxJP3EL3Za2pWkgixjnRn0=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.0.2": {
+      "sdist": [
+        "n70giFis4iXdfTCOvfoGkdjZ5JHbQGwuk+5hVpSv00E=",
+        "panel-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "panel-1.0.2-py2.py3-none-any.whl": [
+          "bO1MCBhs7pY3Vz4nIkidCOZwQ43rFR5ceqOYq0jnfdo=",
           "py2.py3"
         ]
       }
@@ -141363,6 +141411,20 @@
       }
     }
   },
+  "spaeti": {
+    "0.0": {
+      "sdist": [
+        "MwRwoaJJnLkNIciGPtucJcgziiFs0SusWH8I+ZMnAHs=",
+        "spaeti-0.0.tar.gz"
+      ],
+      "wheels": {
+        "spaeti-0.0-py3-none-any.whl": [
+          "T9Byzc6ifARcNqX5vuoP/s0Uv5O2c1VqA3yzu+6wAks=",
+          "py3"
+        ]
+      }
+    }
+  },
   "spam-bot": {
     "0.0.1": {
       "sdist": [
@@ -151947,6 +152009,44 @@
         "trtm-0.1.2-py2.py3-none-any.whl": [
           "/1G57etNWnXIHlTmPpYX4uxG2yJ53aGqWTx0OJUMtR4=",
           "py2.py3"
+        ]
+      }
+    }
+  },
+  "truesight": {
+    "0.0.1a0": {
+      "sdist": [
+        "46u6ZTfyGbG5iayKoJ4jnvmxvCmtwra19FFj9FRXwss=",
+        "truesight-0.0.1a0.tar.gz"
+      ],
+      "wheels": {
+        "truesight-0.0.1a0-py3-none-any.whl": [
+          "MbKSQCUYcwH37eGQnlQov1yOJn+8AeQFrMpx7TNRg1U=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2a0": {
+      "sdist": [
+        "EiXl0H8BEtITRAyUQVqWFwfFNeJqgBbUXbUEXikbHDE=",
+        "truesight-0.0.2a0.tar.gz"
+      ],
+      "wheels": {
+        "truesight-0.0.2a0-py3-none-any.whl": [
+          "F3EsihAcfPINnM+mxXAYnsAiEMq4HM27o5nBA/g+oUM=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2a2": {
+      "sdist": [
+        "sFG5EXWaLCoosgSXVEVQJhj1N+up9MXV0REgkWeEU40=",
+        "truesight-0.0.2a2.tar.gz"
+      ],
+      "wheels": {
+        "truesight-0.0.2a2-py3-none-any.whl": [
+          "bkalyOqQI3BABQP1yDHxv90TtGCHo9FmxPE6b0eoYLU=",
+          "py3"
         ]
       }
     }

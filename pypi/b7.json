@@ -24749,6 +24749,18 @@
           "py3"
         ]
       }
+    },
+    "0.2.2": {
+      "sdist": [
+        "048UPJXj+2PXKrn8UhoIBMj+F5Q/+gs+L7KzQ+rEvoE=",
+        "crosscompute-views-map-0.2.2.tar.gz"
+      ],
+      "wheels": {
+        "crosscompute_views_map-0.2.2-py3-none-any.whl": [
+          "c0xYo9A3boAwH+T9pox/2uPK8SG+N798KlncQ2m3IZU=",
+          "py3"
+        ]
+      }
     }
   },
   "crypto-data-fetcher": {
@@ -102735,6 +102747,14 @@
           "py3"
         ]
       }
+    },
+    "14.0.3.0.0": {
+      "wheels": {
+        "odoo14_addon_l10n_br_sale-14.0.3.0.0-py3-none-any.whl": [
+          "Wwrf2peJ5+AS6zmYIWYyIdnwbSE7we5XLdegdptiYGM=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo14-addon-product-stock-state": {
@@ -117788,6 +117808,18 @@
         ]
       }
     },
+    "1.6.130": {
+      "sdist": [
+        "OS341a/fQo1QZBbzsGgbK3IDSXwsZesmJZ0bfd/Zwkk=",
+        "pydflow-1.6.130.tar.gz"
+      ],
+      "wheels": {
+        "pydflow-1.6.130-py3-none-any.whl": [
+          "IkJZf4lI98J4bGoPzL2MzzY7MiXI4Pquh41zP+bwArw=",
+          "py3"
+        ]
+      }
+    },
     "1.6.14": {
       "sdist": [
         "zM2R/MkZlFdia+ZQfcT8jfNEkwJ255pV4YoaaL5qXEU=",
@@ -123843,6 +123875,20 @@
         "7IgzqYKObUDPuVueSBF0dwyjeFI/q2vwGcsmvbTraTM=",
         "pysa_aws-0.0.1.tar.gz"
       ]
+    }
+  },
+  "pysast": {
+    "1.0.0a0": {
+      "sdist": [
+        "o3Y78yXeUBYplpDHYiwqu3zXRgAPdXpTuOjCxijjY/I=",
+        "pysast-1.0.0a0.tar.gz"
+      ],
+      "wheels": {
+        "pysast-1.0.0a0-py3-none-any.whl": [
+          "mXpZVvDe8iOkufMPZbVkPssry+bDok1LZ5iEkKqfePQ=",
+          "py3"
+        ]
+      }
     }
   },
   "pyscal2": {
@@ -152560,16 +152606,16 @@
     }
   },
   "tremolo": {
-    "0.0.94": {
-      "sdist": [
-        "MVHIJwgTYtdV8I7uCMKuOj/9/QxcqIelFeoXU/pgzws=",
-        "tremolo-0.0.94.tar.gz"
-      ]
-    },
     "0.0.95": {
       "sdist": [
         "6N6kQh0oYWD07vWAi2+5YTM8e7kAZJpSkRxm5N1pTO0=",
         "tremolo-0.0.95.tar.gz"
+      ]
+    },
+    "0.0.96": {
+      "sdist": [
+        "C3ZE1Y8pzVA7It9/sm/iMf72KcNIavq5kht6/KjCPv4=",
+        "tremolo-0.0.96.tar.gz"
       ]
     }
   },

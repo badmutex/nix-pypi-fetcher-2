@@ -9464,6 +9464,18 @@
         ]
       }
     },
+    "1.202.0": {
+      "sdist": [
+        "gr7dMLq7dpy4uvSGI/PwwRvLhWW57iFdD6jvLImj/68=",
+        "aws-cdk.aws-globalaccelerator-endpoints-1.202.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_globalaccelerator_endpoints-1.202.0-py3-none-any.whl": [
+          "8+ki3aFAiS4jKdfHKhNoHIemsOVxJO7S48ian6TE3xE=",
+          "py3"
+        ]
+      }
+    },
     "1.96.0": {
       "sdist": [
         "/wdDEcQVu7EY4qC68gygkqxkzThhxaAD4nWgDKXuxIQ=",
@@ -18378,6 +18390,18 @@
       "wheels": {
         "cdk8s_operator-0.1.110-py3-none-any.whl": [
           "qRTE7HoavAMAXrsv74vit6iHcXTWeR1rwweTj2TCCC8=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.111": {
+      "sdist": [
+        "2PI3LcyNIy/o90e3iAEEqf/tZ3m+CfGd+EmvNRsCjDY=",
+        "cdk8s-operator-0.1.111.tar.gz"
+      ],
+      "wheels": {
+        "cdk8s_operator-0.1.111-py3-none-any.whl": [
+          "hnH6T6GLd7bbxhnRQoTPJ3QJjgsQtxw8vrR2jegsTRM=",
           "py3"
         ]
       }
@@ -56814,6 +56838,14 @@
         ]
       }
     },
+    "1.112.0": {
+      "wheels": {
+        "gps_building_blocks-1.112.0-py3-none-any.whl": [
+          "6CegYHG5hppOnAY74lCgLuel/Mm38eO82sUBLFc0zMs=",
+          "py3"
+        ]
+      }
+    },
     "1.13.0": {
       "wheels": {
         "gps_building_blocks-1.13.0-py3-none-any.whl": [
@@ -66582,6 +66614,18 @@
       "wheels": {
         "idem_core_functions-0.2.2-py3-none-any.whl": [
           "khqb8Bt+d6P1R7cVAYjXFaA/L2ite6XImjnTUeyIKQY=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.0": {
+      "sdist": [
+        "oERkpa9WEecUv/6TFtuxqot2o1+zev762cDxmxeZZ1w=",
+        "idem-core-functions-0.3.0.tar.gz"
+      ],
+      "wheels": {
+        "idem_core_functions-0.3.0-py3-none-any.whl": [
+          "YPLHzpinpWbDz7mNVLDqJIbJqXi2sPEJcHIpU5hjAfE=",
           "py3"
         ]
       }
@@ -76914,6 +76958,18 @@
       "sdist": [
         "8ANpynuyYCFNbulEx2IcJlRD8TygWLBQrtFEXlmTMhw=",
         "libcnmc-23.37.0.tar.gz"
+      ]
+    },
+    "23.38.0": {
+      "sdist": [
+        "4uDim+z+xW1TCjD0vDCNeV9jk7gVwy4u4hASsH7KWz8=",
+        "libcnmc-23.38.0.tar.gz"
+      ]
+    },
+    "23.39.0": {
+      "sdist": [
+        "GCbOjQJStHNoVeKBKBB0+JlzTfND9fkdewOPYkcNc6E=",
+        "libcnmc-23.39.0.tar.gz"
       ]
     },
     "23.4.0": {
@@ -89687,6 +89743,56 @@
       ]
     }
   },
+  "natalify": {
+    "1.0": {
+      "sdist": [
+        "fIdquNn8/doltikM8ot2C5Bxwjx0+7QJpenAa1zhHgQ=",
+        "natalify-1.0.tar.gz"
+      ]
+    },
+    "1.2": {
+      "sdist": [
+        "+LW7y4zkuMFTK6UIjmJOYLbJIyl1+JegOt9xNmfnCm8=",
+        "natalify-1.2.tar.gz"
+      ]
+    },
+    "1.4": {
+      "sdist": [
+        "W/c1CGR8UOky+xwmDvP1MJ0FDO6blKm09PJp+8uHHHs=",
+        "natalify-1.4.tar.gz"
+      ]
+    },
+    "1.6": {
+      "sdist": [
+        "sH4/RNa8pZnhHsZZMhp75yJgt/enRe/TIbTkSTyNgCE=",
+        "natalify-1.6.tar.gz"
+      ]
+    },
+    "1.8": {
+      "sdist": [
+        "B15w50kvm23PhIewEuBZpfnmbe1RIrDXxjndTuXkpmM=",
+        "natalify-1.8.tar.gz"
+      ]
+    },
+    "2.0": {
+      "sdist": [
+        "HRsQ+G2S07ORSVXwT4rOSG6axBYAVhkMCG/+9jayMwA=",
+        "natalify-2.0.tar.gz"
+      ]
+    },
+    "2.2": {
+      "sdist": [
+        "jjOU/RjZW8KioK7NBiPTcyjQwcaUREF0L/yKhJWRr5U=",
+        "natalify-2.2.tar.gz"
+      ]
+    },
+    "2.4": {
+      "sdist": [
+        "hov6NmSwneSlVtjd0HXXFAPtS82DT9lwUk0ZrJSXBus=",
+        "natalify-2.4.tar.gz"
+      ]
+    }
+  },
   "natcap.rios": {
     "1.1.16": {
       "sdist": [
@@ -93750,6 +93856,18 @@
       "wheels": {
         "oarepo_model_builder_ui-2.0.7-py3-none-any.whl": [
           "y4loqfmR9/kPNMIRmw0LQUAHo10GsF2b2CXe0OIfNbg=",
+          "py3"
+        ]
+      }
+    },
+    "4.0.0": {
+      "sdist": [
+        "NJNa+Ca6AQ5Pzav6V0KQTGMKnnntzbijJZj3PVi0a04=",
+        "oarepo-model-builder-ui-4.0.0.tar.gz"
+      ],
+      "wheels": {
+        "oarepo_model_builder_ui-4.0.0-py3-none-any.whl": [
+          "s1pPijukdsaAqT8wI748Ad3x9jzhvFpmxP/IChy8o0Y=",
           "py3"
         ]
       }
@@ -128467,6 +128585,32 @@
       }
     }
   },
+  "simple-calculator-sdk": {
+    "0.0.2": {
+      "sdist": [
+        "FmKtXqL0iX98XUbsR8atJz+o+8C4txXX/tk9QqeTEBI=",
+        "simple-calculator-sdk-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "simple_calculator_sdk-0.0.2-py3-none-any.whl": [
+          "htTif77+gBGY8U4KBIVFFyQcpyjMSC8CikMZrXTzUxE=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.9": {
+      "sdist": [
+        "bGlrY60PsPniBVv0ZT24+NM8JFy+AkYGCh/SQCU30CA=",
+        "simple-calculator-sdk-0.0.9.tar.gz"
+      ],
+      "wheels": {
+        "simple_calculator_sdk-0.0.9-py3-none-any.whl": [
+          "hHyZvyDwTW1HIRuopLTVBRBq7vffNDMx19cU/rh9IwI=",
+          "py3"
+        ]
+      }
+    }
+  },
   "simple-cs453-homework1-dictionary-pasha": {
     "2.0.1": {
       "sdist": [
@@ -130330,6 +130474,30 @@
       "wheels": {
         "Slpapy-0.3.20-py3-none-any.whl": [
           "pu80T6hv1XZVmUlv/e/qiFK1aGcfa/jPtYg2UcOG5w4=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.21": {
+      "sdist": [
+        "ROrxfQvph8SpCJe9tezFPDq7GBujZloQRos1Vc1D5WA=",
+        "Slpapy-0.3.21.tar.gz"
+      ],
+      "wheels": {
+        "Slpapy-0.3.21-py3-none-any.whl": [
+          "vmCLD0GGX5juK3DMx2yhNKpkO/dhu8EORJzFLKHqt5g=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.22": {
+      "sdist": [
+        "FJQXcukyqEKVzD95VamdDE/iCv5TJygTLliV+zQ26kY=",
+        "Slpapy-0.3.22.tar.gz"
+      ],
+      "wheels": {
+        "Slpapy-0.3.22-py3-none-any.whl": [
+          "dabOCFl2hRqja+7VsCNTGg9vyO4PRBrhw2dQPAXD33w=",
           "py3"
         ]
       }

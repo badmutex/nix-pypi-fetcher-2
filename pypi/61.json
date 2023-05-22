@@ -15713,6 +15713,18 @@
           "py3"
         ]
       }
+    },
+    "1.1.1": {
+      "sdist": [
+        "BK1lzCwSu9NZZmTaSNyDWPm47bepaQmD0MrbaajDw1g=",
+        "bdsim-1.1.1.tar.gz"
+      ],
+      "wheels": {
+        "bdsim-1.1.1-py3-none-any.whl": [
+          "ZdsOQogQxJpim1PP9L/DvXHWWqmlWYiKFJl66GynzQw=",
+          "py3"
+        ]
+      }
     }
   },
   "beginnersbook-servlet-zh": {
@@ -32669,6 +32681,12 @@
           "cp39"
         ]
       }
+    },
+    "1.3.0rc1": {
+      "sdist": [
+        "VEXJJ59EUTI6JuL3390KXrJidMo7rw1wDbjnv1HI+5k=",
+        "datumaro-1.3.0rc1.tar.gz"
+      ]
     }
   },
   "dave": {
@@ -43078,6 +43096,42 @@
       "wheels": {
         "edl_mod-0.0.35-py2.py3-none-any.whl": [
           "yY0e+/5kbF0JrPZD23bxLMv3d//kT4UM03EHHHy0HG4=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.36": {
+      "sdist": [
+        "nN4NXNnfspOBQ44vKbtyJn1ijaWw7xBrtdZ4yQSbLAg=",
+        "edl-mod-0.0.36.tar.gz"
+      ],
+      "wheels": {
+        "edl_mod-0.0.36-py2.py3-none-any.whl": [
+          "wHmTAdetCz9znKZar8bH9ABKyFAdag5PUFQ6PkBlRyk=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.37": {
+      "sdist": [
+        "7yCn5xrcR0EHvvLvBUTm6oThZ/y76DeK1zL9sndiybY=",
+        "edl-mod-0.0.37.tar.gz"
+      ],
+      "wheels": {
+        "edl_mod-0.0.37-py2.py3-none-any.whl": [
+          "nq/odbupkzLEPgy1VwtznVDPKhvaRMxvUNgt/StRYAU=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.38": {
+      "sdist": [
+        "wSfNJPsQ/6vBouqV0+pUfiF3/Hgh1dEGGi8GCwbhGBc=",
+        "edl-mod-0.0.38.tar.gz"
+      ],
+      "wheels": {
+        "edl_mod-0.0.38-py2.py3-none-any.whl": [
+          "gwj9d1shw9wPKST32O/ZQZyKTTafuji27w4A8i2z/Qk=",
           "py2.py3"
         ]
       }
@@ -97488,6 +97542,30 @@
         ],
         "nurikit-0.1.0.dev1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "IyNr0lEXgI8mD+4LBAMyxVrafY2e8GLo8p4eJUTuAqo=",
+          "cp39"
+        ]
+      }
+    },
+    "0.1.0.dev2": {
+      "wheels": {
+        "nurikit-0.1.0.dev2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "9v/gF3NpRrDZ1SLOpmhHsFzXUTX+u8a9UUQ/uH6RzD4=",
+          "cp310"
+        ],
+        "nurikit-0.1.0.dev2-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "iqpoeWBvf1m1dTtgZpZuQHPuMl4zXXppV96YSZboxNU=",
+          "cp311"
+        ],
+        "nurikit-0.1.0.dev2-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "AuQYI+9GdEGUcC9IgiY25dizfGlDA/m613Xi6nzhAz0=",
+          "cp37"
+        ],
+        "nurikit-0.1.0.dev2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "UsGAkef9z0sShhvsnqdwUQ/MrKJeVNIX40PG5NEvSXU=",
+          "cp38"
+        ],
+        "nurikit-0.1.0.dev2-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "4t+BJxVfqyMV6KMMw1/hzaCY2gsnGo6OvCYQhsXbV4U=",
           "cp39"
         ]
       }
@@ -153790,6 +153868,32 @@
       "wheels": {
         "ventaapi-1.0.0-py3-none-any.whl": [
           "8mtpDWUXFRO6cMXFpRfhsL7DK+AWtTC0qdowbGF7tOE=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "verdiscloudconfig": {
+    "0.0.1": {
+      "wheels": {
+        "VerdisCloudConfig-0.0.1-py3-none-any.whl": [
+          "S21Myfls80j/c+FZRfSY4NNYDtUCPAAJvH2lDwO6pB8=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "wheels": {
+        "VerdisCloudConfig-0.0.2-py3-none-any.whl": [
+          "hm+/Rqm9J9FsL+tKeDiq0LOA0SXM7curtawvbPZMthQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "wheels": {
+        "VerdisCloudConfig-0.0.3-py3-none-any.whl": [
+          "3UABNTkex1NjPdBOXNaqKZ/zS8vBeIzRnz8JzcQyk8U=",
           "py3"
         ]
       }

@@ -9090,6 +9090,18 @@
         ]
       }
     },
+    "1.202.0": {
+      "sdist": [
+        "TyOi+OjKKlPtzv/f6rc673U3kkCfgl7iLpbnndKX26g=",
+        "aws-cdk.core-1.202.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.core-1.202.0-py3-none-any.whl": [
+          "3LS674xuUc7ZuP4qpuwN6ef/euQjdn8e4c95oizoQzA=",
+          "py3"
+        ]
+      }
+    },
     "1.21.0": {
       "sdist": [
         "5SGmxWJdhHI76+1VDaJbXCIKKlOT4q4GnGp3HN10f18=",
@@ -40146,6 +40158,10 @@
         "easyvec-0.0.23.tar.gz"
       ],
       "wheels": {
+        "easyvec-0.0.23-cp311-cp311-win_amd64.whl": [
+          "lI3OZBmCU6qyIlZHNFNSi64O8EwXRayZKAUpf+f4dhE=",
+          "cp311"
+        ],
         "easyvec-0.0.23-cp38-cp38-win_amd64.whl": [
           "fRlyBKI7sA4zW8oJOIq0qGrF4ik30NyM+vltpK8vSwc=",
           "cp38"
@@ -124847,6 +124863,18 @@
           "py3"
         ]
       }
+    },
+    "8.4.0": {
+      "sdist": [
+        "EhjpL1Ulg7l5BQgd/TTb2fGwOdan5ZnoQB/a03FL5MU=",
+        "ramqp-8.4.0.tar.gz"
+      ],
+      "wheels": {
+        "ramqp-8.4.0-py3-none-any.whl": [
+          "N6TuC10EtSF7U5sPtiLMEu/6kDQxEc9HnSw6tWQIvT0=",
+          "py3"
+        ]
+      }
     }
   },
   "rand-pass-generator": {
@@ -137480,6 +137508,18 @@
       "wheels": {
         "simple_locations-4.0.1a0-py3-none-any.whl": [
           "bbOE4ojq0KaD6JlYN+153gAVIL/XBiIaf4bOzwh7Xhs=",
+          "py3"
+        ]
+      }
+    },
+    "4.1.0a0": {
+      "sdist": [
+        "QednvYNkEck4t2lDy8kyQ9e8pkwQFRdphSRrxtZxTk8=",
+        "simple_locations-4.1.0a0.tar.gz"
+      ],
+      "wheels": {
+        "simple_locations-4.1.0a0-py3-none-any.whl": [
+          "uibRVwCmrv1Y3rzASsQYxM3GAto0BWM3GvgKXqjzJ6k=",
           "py3"
         ]
       }
@@ -159556,6 +159596,26 @@
       "sdist": [
         "L5Q0aEE0hg4f63N4iBvoaYLhci2bswS6vsMO/prWyJ8=",
         "word_image-0.1.3.tar.gz"
+      ]
+    }
+  },
+  "wordlink": {
+    "1.0.0": {
+      "sdist": [
+        "LKg5X8wdVGdsodv6d6d0q3Zu34FGcWP4/DzNQYS9pPs=",
+        "wordlink-1.0.0.tar.gz"
+      ]
+    },
+    "1.0.1": {
+      "sdist": [
+        "6qxeIlQ0VSQnLmMBqIqFnTCwmduJ1r7Ww2jBz6ekCQo=",
+        "wordlink-1.0.1.tar.gz"
+      ]
+    },
+    "1.0.2": {
+      "sdist": [
+        "WJzW6o3fhTy2/E9svGN9sD9eSWJBILoegw3Or9FTIY0=",
+        "wordlink-1.0.2.tar.gz"
       ]
     }
   },

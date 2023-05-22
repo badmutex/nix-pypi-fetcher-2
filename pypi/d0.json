@@ -9252,6 +9252,18 @@
         ]
       }
     },
+    "1.202.0": {
+      "sdist": [
+        "d+/2gAXm1gzttBs1tkC+uUYnV5sR67I+zPkjYJeA8fw=",
+        "aws-cdk.aws-efs-1.202.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_efs-1.202.0-py3-none-any.whl": [
+          "diHpfxN30hytGjQL0WRb7RmHE6Tlm980kbtStSxzKeQ=",
+          "py3"
+        ]
+      }
+    },
     "1.21.0": {
       "sdist": [
         "EjLa3andYAF+ZTcgd996mVO/rnIzHhq920Jw6kpFsmg=",
@@ -63425,6 +63437,32 @@
       }
     }
   },
+  "limiters": {
+    "0.1.1": {
+      "sdist": [
+        "A6KttAsrc5QM23J0qjbyQ8pCz6TYNYBNK19Rj3Shj2k=",
+        "limiters-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "limiters-0.1.1-py3-none-any.whl": [
+          "1vjpudh8XZts6IlgecBTzLJLvi0SUiTFFkX8nK0rAUs=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "IcGHrpKqRtw2gSmxR7uQqneKx6lmA9H93nSKKZC/yQE=",
+        "limiters-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "limiters-0.1.2-py3-none-any.whl": [
+          "V0I0M8gkby80d8y/XfpxY4fqcQ/h4s4s0B5cTSZqYNw=",
+          "py3"
+        ]
+      }
+    }
+  },
   "lingorm": {
     "0.0.1": {
       "sdist": [
@@ -93707,6 +93745,18 @@
         "hBO6YFHvGcgddh9ORPnSFczsGQx5G/PH1xxbYjByVMw=",
         "PyEng-1.0.1.tar.gz"
       ]
+    },
+    "1.0.2": {
+      "sdist": [
+        "vGZ+oPN6/gaLYkztHZzgFjmU4Hen9ergvoPDJIpraP4=",
+        "PyEng-1.0.2.tar.gz"
+      ]
+    },
+    "1.0.3": {
+      "sdist": [
+        "uXc7KbWkI0Lp/T0aVL86vQ7AB4fVfp2IzzfC8iAE3Mo=",
+        "PyEng-1.0.3.tar.gz"
+      ]
     }
   },
   "pyenv.command": {
@@ -116416,6 +116466,18 @@
         ]
       }
     },
+    "0.0.40": {
+      "sdist": [
+        "HJa0acyphyaXcP0FX0i/1yZgLN71sqPnPD4POlK4/oE=",
+        "ssb_altinn3_util-0.0.40.tar.gz"
+      ],
+      "wheels": {
+        "ssb_altinn3_util-0.0.40-py3-none-any.whl": [
+          "vO1HiUp/aaxmKsPEeglQj+NJ3Vs+2LgfjpV30ubLtM4=",
+          "py3"
+        ]
+      }
+    },
     "0.0.5": {
       "sdist": [
         "JI8bYn3BLPURIbgE3tNW3VG9dGHf4yb7qP152u0UF5c=",
@@ -130700,6 +130762,14 @@
       "wheels": {
         "tf_estimator_nightly-2.14.0.dev2023052108-py2.py3-none-any.whl": [
           "7tZL65zZKb7Uh0LYg4RpE23GY8X8NuuSBi8FjuH6PGA=",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.14.0.dev2023052208": {
+      "wheels": {
+        "tf_estimator_nightly-2.14.0.dev2023052208-py2.py3-none-any.whl": [
+          "QRE0PBUdBcp7Wz0Fuc1L/QjXciZmiZgJYYJASudiDgQ=",
           "py2.py3"
         ]
       }

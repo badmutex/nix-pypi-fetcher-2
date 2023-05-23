@@ -21463,6 +21463,18 @@
           "py3"
         ]
       }
+    },
+    "20230523.10.50.879141": {
+      "sdist": [
+        "YIH3SmYJ3qtXg/ERkXgVabDZU+8LPD6oUuXIgDzcLhY=",
+        "certora-cli-alpha-shays-CERT-2259-20230523.10.50.879141.tar.gz"
+      ],
+      "wheels": {
+        "certora_cli_alpha_shays_CERT_2259-20230523.10.50.879141-py3-none-any.whl": [
+          "IfoNJ18+7jxvlpCCJW6PpvTUvZOeRR30BQU2jXsxRLY=",
+          "py3"
+        ]
+      }
     }
   },
   "cf-ddns": {
@@ -52288,6 +52300,30 @@
     }
   },
   "fondant": {
+    "0.1.0": {
+      "sdist": [
+        "H3wjYDJT+FXochPm659ZzANoR3uCIGWskocCyVsvxq4=",
+        "fondant-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "fondant-0.1.0-py3-none-any.whl": [
+          "PB6JlNVAoeL+TUq/MBkzsIFOV2eSwhVkA1Ga5S1fsmQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.0.dev6": {
+      "sdist": [
+        "4bR68aKBg8L/JB44oqPqa/Po+4+QumJ5zUivlOtRqR0=",
+        "fondant-0.1.0.dev6.tar.gz"
+      ],
+      "wheels": {
+        "fondant-0.1.0.dev6-py3-none-any.whl": [
+          "moYuj/GxAsgoHN1igvEvB6CAmCdApyL4TJSjf9GdSVc=",
+          "py3"
+        ]
+      }
+    },
     "0.1.dev0": {
       "sdist": [
         "DQ0DxCbyPOKvoyP/yvvtGhP2tY9x/evz+8cT7X5G/Sw=",
@@ -56354,6 +56390,18 @@
       "wheels": {
         "glaceon-1.15.0-py3-none-any.whl": [
           "A5N6MffQogdEFrlU2/wemVq1o1XJw/9ECEh7XtGVgVc=",
+          "py3"
+        ]
+      }
+    },
+    "1.16.0": {
+      "sdist": [
+        "fYEmWZY80p22qdBiQICaHkR9CCkarTLuZL3igQpihFI=",
+        "glaceon-1.16.0.tar.gz"
+      ],
+      "wheels": {
+        "glaceon-1.16.0-py3-none-any.whl": [
+          "pCBmnEmIUJ7KrMBvCKUL8A1UGxdCmpN8C2P5C4fax4I=",
           "py3"
         ]
       }
@@ -77046,10 +77094,40 @@
         "libcnmc-23.39.0.tar.gz"
       ]
     },
+    "23.39.1": {
+      "sdist": [
+        "93aXne0Q9bE6CTXFTzGp3SghmdYLCg0xuS90v9PO7Q0=",
+        "libcnmc-23.39.1.tar.gz"
+      ]
+    },
+    "23.39.2": {
+      "sdist": [
+        "RJ7HIPRQwAFCrwMnqnGWj0r9vwqzdZQ8rKwioripTio=",
+        "libcnmc-23.39.2.tar.gz"
+      ]
+    },
     "23.4.0": {
       "sdist": [
         "m7hsgDoKtXdh8Jr7Ee2GUa152OPUAdrXX6Zr0Zi9aQ4=",
         "libcnmc-23.4.0.tar.gz"
+      ]
+    },
+    "23.40.0": {
+      "sdist": [
+        "A2CTSaEHJZut129fUJjPs0RAlmJW3oq5Y/O4N3/NDvQ=",
+        "libcnmc-23.40.0.tar.gz"
+      ]
+    },
+    "23.41.0": {
+      "sdist": [
+        "6DLclVKXPMRfS6tq+61alRgCZwJD9nbGYxATQSAxGU8=",
+        "libcnmc-23.41.0.tar.gz"
+      ]
+    },
+    "23.41.1": {
+      "sdist": [
+        "O4tXJbpm8MLkyLMY4BTjT7ykv3+aaW2Buqq1FUVlBtE=",
+        "libcnmc-23.41.1.tar.gz"
       ]
     },
     "23.5.0": {
@@ -80082,6 +80160,20 @@
       "wheels": {
         "manchester_code-1.1.0-py3-none-any.whl": [
           "IyUe7UyR9CuPBd1+HMTJe4ldn3rY2tqgFit1aA4oLTc=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "mapfun": {
+    "0.0.1": {
+      "sdist": [
+        "EGpuBjBMo+Dd6nIKV7PKwOPCx1uiuLBBtdfbL436F3k=",
+        "mapfun-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "mapfun-0.0.1-py3-none-any.whl": [
+          "hwVypCPg9ZBH7g1KUcPNNV6VrNOHc+l7o9aEhkyrXjw=",
           "py3"
         ]
       }
@@ -107424,6 +107516,12 @@
       "sdist": [
         "TeHQat4z4+vjTa+3M3JvImsphnuSBwsS/WUNLdYUqg8=",
         "poonia-0.1.22.tar.gz"
+      ]
+    },
+    "0.1.23": {
+      "sdist": [
+        "IFqZXh4WkeWArOoL7v8pTd5WYQCY2TNLFUgGLlWSNFc=",
+        "poonia-0.1.23.tar.gz"
       ]
     },
     "0.1.3": {

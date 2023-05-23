@@ -10379,6 +10379,44 @@
       ]
     }
   },
+  "at-fetch-data": {
+    "1.0.0": {
+      "sdist": [
+        "/jgWiCnmIeQXk4nh2zBN/dMl+trabaGORmDA9elGiAw=",
+        "at-fetch-data-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "at_fetch_data-1.0.0-py3-none-any.whl": [
+          "ZbstQfXlaC1Va7MFO62KnGPl1Dcbfoqs2gld0oYlelA=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.1": {
+      "sdist": [
+        "eHlUzYN7k5deQNXlFM4OET/i7oG4+EJDvRFLrQW2r9o=",
+        "at-fetch-data-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "at_fetch_data-1.0.1-py3-none-any.whl": [
+          "mAHQ/Lkv0/2OTLOKLto7wWulvSn30AW03u4c5CBAf5A=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.2": {
+      "sdist": [
+        "par3JFdDLgZUQZfoiOCtGvsF4KeZqKKkqmJmcqNV/H8=",
+        "at-fetch-data-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "at_fetch_data-1.0.2-py3-none-any.whl": [
+          "Ygx5haqFKBoXVhsDCy5zU/J3RHn7qE8N6eOFGR9qGcE=",
+          "py3"
+        ]
+      }
+    }
+  },
   "atbot": {
     "1.0.0": {
       "sdist": [
@@ -51565,6 +51603,18 @@
           "py3"
         ]
       }
+    },
+    "0.7.0": {
+      "sdist": [
+        "XeGb8bixRyVzXWci+0xGWsRlu29STzMmoC8sqqt7iDE=",
+        "esmf_regrid-0.7.0.tar.gz"
+      ],
+      "wheels": {
+        "esmf_regrid-0.7.0-py3-none-any.whl": [
+          "AlzNuyV2zd3uh1pFLnTNlYjfcUHxT19NnpKQbvSs2hY=",
+          "py3"
+        ]
+      }
     }
   },
   "essearch": {
@@ -57180,6 +57230,18 @@
       "wheels": {
         "forestadmin_datasource_toolkit-0.1.0b23-py3-none-any.whl": [
           "g6UY+IhyKAjy3N0nb0fjisTUfAkuJ9t9FOxOPwZNx54=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.0b24": {
+      "sdist": [
+        "3Rjyksz8I8NWsrFLl3JDpeM+nPW4TEyA6iRFChTKLzs=",
+        "forestadmin_datasource_toolkit-0.1.0b24.tar.gz"
+      ],
+      "wheels": {
+        "forestadmin_datasource_toolkit-0.1.0b24-py3-none-any.whl": [
+          "jNLZDtF1mmSl1/CqWNTMXdfb07A/oi1Wqx3dwaGqVlI=",
           "py3"
         ]
       }
@@ -64413,6 +64475,14 @@
           "py3"
         ]
       }
+    },
+    "4.4.3": {
+      "wheels": {
+        "hyperactive-4.4.3-py3-none-any.whl": [
+          "OarCqvW873v6vzYX1jwvdKiH9XeSQ0AEQ560E0jCKZU=",
+          "py3"
+        ]
+      }
     }
   },
   "hypergrowth": {
@@ -66734,6 +66804,12 @@
       "sdist": [
         "3382qax+226JTa3ljkxTaaIulyW+u8lBV1/Ig8iVTCs=",
         "issue_db_api-0.9.3.tar.gz"
+      ]
+    },
+    "0.9.4": {
+      "sdist": [
+        "6PJFaKJkWwCGasWGcF3ZI3W/IcZEj14bVwdLfCvXtSc=",
+        "issue_db_api-0.9.4.tar.gz"
       ]
     }
   },
@@ -73398,10 +73474,82 @@
         "MandiriUtils-0.1.tar.gz"
       ]
     },
+    "0.10": {
+      "sdist": [
+        "KLbXklTXtVrBTWCYjqv2Lk8IbhInDmA+h5q8AB+Ld4w=",
+        "MandiriUtils-0.10.tar.gz"
+      ]
+    },
+    "0.11": {
+      "sdist": [
+        "v/xkNuf5RlhMvK+F+kd8x3elRzC6GZAvfNUWQT6EVTc=",
+        "MandiriUtils-0.11.tar.gz"
+      ]
+    },
+    "0.12": {
+      "sdist": [
+        "2j+O9HlU/JFP9Zy/jIwN2NwogDYR9f9xdUuKkgk7nBE=",
+        "MandiriUtils-0.12.tar.gz"
+      ]
+    },
+    "0.13": {
+      "sdist": [
+        "vgUhTElc320CcGkhwclOidVrAa+5ZJfIvV+Upz6+leA=",
+        "MandiriUtils-0.13.tar.gz"
+      ]
+    },
+    "0.14": {
+      "sdist": [
+        "Wk3+LZYexBN/19AHQy09I6O0+TEMs1dzPFXXK8ku+ss=",
+        "MandiriUtils-0.14.tar.gz"
+      ]
+    },
+    "0.15": {
+      "sdist": [
+        "s5n7GVo1UIxyxF8g32vCOTyQxttMJ/hUuifwMYI/Dpc=",
+        "MandiriUtils-0.15.tar.gz"
+      ]
+    },
     "0.2": {
       "sdist": [
         "nzW2OQQkOYJTUS9S64Eo1qnJQzi+IUwElC0w1jwTpDE=",
         "MandiriUtils-0.2.tar.gz"
+      ]
+    },
+    "0.4": {
+      "sdist": [
+        "bq7SYq4lO6uUxQl6O9OZR3u1mqlbfPd8KPSzblk0wKA=",
+        "MandiriUtils-0.4.tar.gz"
+      ]
+    },
+    "0.5": {
+      "sdist": [
+        "idlAiL7jxwBIMGyjafgDNFAcRbOwYtWFZJGpoYY6nCs=",
+        "MandiriUtils-0.5.tar.gz"
+      ]
+    },
+    "0.6": {
+      "sdist": [
+        "BtVgLdACUGEecnOT977G+4ucUyTKEwjd2+9DS1KmhT8=",
+        "MandiriUtils-0.6.tar.gz"
+      ]
+    },
+    "0.7": {
+      "sdist": [
+        "OIlwtXjvb+gAnnnkw5pzi9Qv5qF49d9pED6OzFT0J1E=",
+        "MandiriUtils-0.7.tar.gz"
+      ]
+    },
+    "0.8": {
+      "sdist": [
+        "KVBBdFUnzfP0Cj8/zRBlvHbzoh7afGo27/4Ag53BayI=",
+        "MandiriUtils-0.8.tar.gz"
+      ]
+    },
+    "0.9": {
+      "sdist": [
+        "KxWRMnA4iyMFsjxUsR9IdLRUPdmwgXODWTgRtr6C3Yw=",
+        "MandiriUtils-0.9.tar.gz"
       ]
     }
   },
@@ -85408,6 +85556,14 @@
         ]
       }
     },
+    "15.0.1.0.1": {
+      "wheels": {
+        "odoo_addon_fieldservice_vehicle-15.0.1.0.1-py3-none-any.whl": [
+          "Zjg3gwRTQBkOunSD6Ge3BlC8CeTWxYkOy2Q4iirx8e8=",
+          "py3"
+        ]
+      }
+    },
     "16.0.1.0.0.2": {
       "wheels": {
         "odoo_addon_fieldservice_vehicle-16.0.1.0.0.2-py3-none-any.whl": [
@@ -88184,6 +88340,14 @@
       "wheels": {
         "odoo14_addon_stock_quant_reservation_info_mrp-14.0.1.1.0-py3-none-any.whl": [
           "T2J+gdRqHAUOTQL3xj0hA9eZkDLZZxi4muOc//7t5uc=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.1.1.1": {
+      "wheels": {
+        "odoo14_addon_stock_quant_reservation_info_mrp-14.0.1.1.1-py3-none-any.whl": [
+          "+7WPC5JJduxLjS5MZ8pMsV9/+H+lm/jES2SdD0N5fXE=",
           "py3"
         ]
       }
@@ -100604,6 +100768,30 @@
         ]
       }
     },
+    "0.0.478": {
+      "sdist": [
+        "PixUYTYC32wIwB5IBWIdQHjQMxhGHI1y7x1QRH0h51Y=",
+        "pepperize.projen-awscdk-app-ts-0.0.478.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.projen_awscdk_app_ts-0.0.478-py3-none-any.whl": [
+          "ScE/RwBA1l/nM8F7xoDN1R+LX4gDqI8z5CDVuEpPo7Y=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.479": {
+      "sdist": [
+        "R1lUa4fmtix3e+baDC+kbSmBJooxB7TD1UvJNmPrS4w=",
+        "pepperize.projen-awscdk-app-ts-0.0.479.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.projen_awscdk_app_ts-0.0.479-py3-none-any.whl": [
+          "Iy5o/T9mDBLYBwiLE13kvBHLDAHUH2v+GtrXfAjxQTI=",
+          "py3"
+        ]
+      }
+    },
     "0.0.48": {
       "sdist": [
         "BdJCycxQIT0hbNEsYBbsL9nmgB8i5FOXaPctSX1gqO4=",
@@ -100612,6 +100800,42 @@
       "wheels": {
         "pepperize.projen_awscdk_app_ts-0.0.48-py3-none-any.whl": [
           "/glWDEtl2NJqwF+Ttm6FTcZ51tbYkY8pEiF5RyhSVew=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.480": {
+      "sdist": [
+        "BzuxsM00eDCHsvcME1i+G3l1JLqr5+cF6W2gNWlmYEM=",
+        "pepperize.projen-awscdk-app-ts-0.0.480.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.projen_awscdk_app_ts-0.0.480-py3-none-any.whl": [
+          "wSWfyMU3Wq1mRB6S1RwTcHSiVvoNalrBxHKd62NeBdk=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.481": {
+      "sdist": [
+        "nBaW2xvhS5fo9Ok5rzVMQUNhUi30MEQvSTrjy75o/tk=",
+        "pepperize.projen-awscdk-app-ts-0.0.481.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.projen_awscdk_app_ts-0.0.481-py3-none-any.whl": [
+          "pHssGGHV1IQU4l7j1ytH8X1IFKKHC34EdaQ5FhoY3U0=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.482": {
+      "sdist": [
+        "oWOzjSFKnDHTnVuq8eLpzO0G4ufH9vME7yUKG+6ZEEw=",
+        "pepperize.projen-awscdk-app-ts-0.0.482.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.projen_awscdk_app_ts-0.0.482-py3-none-any.whl": [
+          "4IscMsgJssK3Jkl0igofu/ejbdFWyn/m9N8xz0dKfkU=",
           "py3"
         ]
       }
@@ -102749,6 +102973,20 @@
         "BSWtHVeEQ2WI7WedrthyLvLZzVorFdl5ApVAW70KY50=",
         "pltk-0.3.tar.gz"
       ]
+    }
+  },
+  "pltsave": {
+    "0.0.1": {
+      "sdist": [
+        "J+WiqFSrrHalqMD9EBuW1Jv/B50vr8W2R5WxhkktIyU=",
+        "pltsave-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "pltsave-0.0.1-py3-none-any.whl": [
+          "ET4pVirwoHmwAKjyHOAMBu8KPOvHwIMkEUzmF5Oy9Hw=",
+          "py3"
+        ]
+      }
     }
   },
   "pluggable": {
@@ -131811,6 +132049,42 @@
           "py3"
         ]
       }
+    },
+    "0.1.6": {
+      "sdist": [
+        "gMxpcUsN14tw2lX7ryCnWBf1fgIAT3M/8HYmukpveDo=",
+        "surv_ai-0.1.6.tar.gz"
+      ],
+      "wheels": {
+        "surv_ai-0.1.6-py3-none-any.whl": [
+          "kMS+lRmio79nbZm895kneants+mH+DOHh81grdH63F0=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.7": {
+      "sdist": [
+        "1eqtZ2VaLOSjm+eN28TjImYtrxb6/a6xtyblvGwJFkE=",
+        "surv_ai-0.1.7.tar.gz"
+      ],
+      "wheels": {
+        "surv_ai-0.1.7-py3-none-any.whl": [
+          "BrIsejdaAuQrSRSEF9b8Qj40QNnSWsQ/mrZrds7LGKA=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.8": {
+      "sdist": [
+        "hfBxPYeu+TwCjpfJPjVgZHhk4B9hkMQhBImmXRRj7Zg=",
+        "surv_ai-0.1.8.tar.gz"
+      ],
+      "wheels": {
+        "surv_ai-0.1.8-py3-none-any.whl": [
+          "IklE+Wpcv94SufeNsYdjEbA3PKCHABkt92G31Ch6GI8=",
+          "py3"
+        ]
+      }
     }
   },
   "svchipiga-yandex": {
@@ -152992,6 +153266,18 @@
       "wheels": {
         "watchmen_storage_mssql-16.5.1-py3-none-any.whl": [
           "JfKBmUsCWJxmKxI31ml68TRN3ICPypMN3+RxATdgPSI=",
+          "py3"
+        ]
+      }
+    },
+    "16.5.2": {
+      "sdist": [
+        "Wfu60vvJwAIiKEroi0dYJwIz3v8n/5uQxjcmsp+nG8w=",
+        "watchmen_storage_mssql-16.5.2.tar.gz"
+      ],
+      "wheels": {
+        "watchmen_storage_mssql-16.5.2-py3-none-any.whl": [
+          "QIy7L091g6W9AYlSZrr7YVw9Y843wOfQ9M6heIsPsHI=",
           "py3"
         ]
       }

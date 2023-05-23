@@ -62673,6 +62673,22 @@
           "py3"
         ]
       }
+    },
+    "1.33.0": {
+      "sdist": [
+        "58kIWPkNItzTjxizzp+jUi6km8Yptmo8YlrcBK7Rhug=",
+        "koji-1.33.0.tar.gz"
+      ],
+      "wheels": {
+        "koji-1.33.0-py2-none-any.whl": [
+          "iwAkIwDHboRi9/WAfpWd4M9jbs+/PNDQ8dOsUjW3vQM=",
+          "py2"
+        ],
+        "koji-1.33.0-py3-none-any.whl": [
+          "hjb5A9jHJBT/vTkILnmEoJWncRTjYXkw57nRldejO5s=",
+          "py3"
+        ]
+      }
     }
   },
   "kolejkajudge": {
@@ -109230,6 +109246,14 @@
       "wheels": {
         "phic-2.0.10-py3-none-any.whl": [
           "NdKjm5WaUeIcQhGEyCWD8g9pneIJg5PaR2UznRi7nYA=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.11": {
+      "wheels": {
+        "phic-2.0.11-py3-none-any.whl": [
+          "nmAO753TejjQiidcBcrZXlvVnqYf3SWHgkYM40Hfnx4=",
           "py3"
         ]
       }

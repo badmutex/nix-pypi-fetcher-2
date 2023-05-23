@@ -3989,6 +3989,18 @@
           "py3"
         ]
       }
+    },
+    "0.5.1": {
+      "sdist": [
+        "d8TwBkrmlqAW16Jf+9FSX7gEpVEkmsU+E966jHMNll0=",
+        "alicat-0.5.1.tar.gz"
+      ],
+      "wheels": {
+        "alicat-0.5.1-py3-none-any.whl": [
+          "qPYo2drvEixlMt+TcIW5Hp2INI/GKDcj8NhuUw7H2UE=",
+          "py3"
+        ]
+      }
     }
   },
   "aliyun-python-sdk-cloudwf": {
@@ -13402,7 +13414,25 @@
       "sdist": [
         "1n1FJT8oCy64QPr0CrcgHO1U0i7D11YTD83yXg85w18=",
         "avio-2.1.7.tar.gz"
-      ]
+      ],
+      "wheels": {
+        "avio-2.1.7-cp310-cp310-win_amd64.whl": [
+          "eDC6aoPpqGfTFoRcSAgVL7ugLa3gJP/Y4KhUY6QzF7s=",
+          "cp310"
+        ],
+        "avio-2.1.7-cp311-cp311-win_amd64.whl": [
+          "PTobRKQ/jFHqhNS5odq7yymMDYuPJq7fFg9KCfAQU2o=",
+          "cp311"
+        ],
+        "avio-2.1.7-cp38-cp38-win_amd64.whl": [
+          "w3Epjb3Gkrqzh2jZD7tNoX8NOoFQuBAAU8JSyplOn/U=",
+          "cp38"
+        ],
+        "avio-2.1.7-cp39-cp39-win_amd64.whl": [
+          "xaSoIYKVZwcGyMkWHZMP8uVoZiVbUn3BBQpp1xwvNh0=",
+          "cp39"
+        ]
+      }
     }
   },
   "awesome-slugify": {
@@ -54411,6 +54441,12 @@
         "QEcaY5nehO/5+NKGCpgx1RKUiu4HQT5G1dDRBrKchnU=",
         "front-0.1.90.tar.gz"
       ]
+    },
+    "0.1.91": {
+      "sdist": [
+        "kxvDCGvNrisyB+2si2fbJGCNEpupJFbUIv8qAYR/uRQ=",
+        "front-0.1.91.tar.gz"
+      ]
     }
   },
   "fsd-tools-testing": {
@@ -55768,6 +55804,14 @@
       "wheels": {
         "genet-0.5.2-py3-none-any.whl": [
           "iLyrH58zixVXVNa0MHG4h0N1FvNCQgBuPdJSjSo92/M=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.3": {
+      "wheels": {
+        "genet-0.5.3-py3-none-any.whl": [
+          "lhr7c7Mk/LMebzU1IoxEowDOI2S1YTOh26haN39EX3I=",
           "py3"
         ]
       }
@@ -88610,6 +88654,18 @@
       "wheels": {
         "neurodeploy-0.0.17-py3-none-any.whl": [
           "7GAEnd5CrPp4DgxB6Qx8saR3IpTFz1mYCGOSHKDgAZE=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.18": {
+      "sdist": [
+        "Yuv9NS3SIaZ8ey95L3Li3rB4/I2HQs7iMdm2WE4pUy4=",
+        "neurodeploy-0.0.18.tar.gz"
+      ],
+      "wheels": {
+        "neurodeploy-0.0.18-py3-none-any.whl": [
+          "0ZeHWqc/86TQRc5mqGU0J6meUDGkY9ttMkJnyrhLxM8=",
           "py3"
         ]
       }
@@ -147372,6 +147428,18 @@
       "wheels": {
         "tencentcloud_sdk_python_sts-3.0.896-py2.py3-none-any.whl": [
           "2U4OCpM/CerQxnk51Q1Zhku+cSG8Nz02LwiMenxr0i0=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.897": {
+      "sdist": [
+        "JGLfg+6BxIskwDj1cV1KFuMFfMcEHG0Xur5UA/o/QJY=",
+        "tencentcloud-sdk-python-sts-3.0.897.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_sts-3.0.897-py2.py3-none-any.whl": [
+          "Edc3Cc+iU9ej/PD/SjM7qEV1T8bddQu5eE4QSRfoLvo=",
           "py2.py3"
         ]
       }

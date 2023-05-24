@@ -6435,6 +6435,30 @@
           "cp39"
         ]
       }
+    },
+    "2.1.64": {
+      "wheels": {
+        "anki-2.1.64-cp39-abi3-macosx_10_13_x86_64.whl": [
+          "/Xp9D3LIE8U50xBWB+2ZyJdxd06fSS+wjZAAeehtuZQ=",
+          "cp39"
+        ],
+        "anki-2.1.64-cp39-abi3-macosx_11_0_arm64.whl": [
+          "uqm8Y1Nfgs7Um2ylUi8LS0S+TF1Xd4r/pXOElFmn/G8=",
+          "cp39"
+        ],
+        "anki-2.1.64-cp39-abi3-manylinux_2_28_x86_64.whl": [
+          "XzqVFAJ4AkBQZe62hPuPK4vWkd6ceK/PXdybz1t/MhM=",
+          "cp39"
+        ],
+        "anki-2.1.64-cp39-abi3-manylinux_2_31_aarch64.whl": [
+          "aZ/7eBVuAK+r/MrK+aT/bSIlDHkJFkxn6cVE2Gbv9MU=",
+          "cp39"
+        ],
+        "anki-2.1.64-cp39-abi3-win_amd64.whl": [
+          "q/5dxxS0gkH/804XwuJkk54XJd79WfyC/ChWBxXagPA=",
+          "cp39"
+        ]
+      }
     }
   },
   "another-statistic-distributions": {
@@ -14288,6 +14312,18 @@
       "wheels": {
         "BookerWikiTool-2023.3.30.0-py3-none-any.whl": [
           "c6UJgQYlM7mU4QKQQdFdm/vzZzAn+1Dt99daAyqf9ng=",
+          "py3"
+        ]
+      }
+    },
+    "2023.5.24.0": {
+      "sdist": [
+        "RfVeFt7uMe95H7d8LVTpkr3qvyPTCPXdQ5IeJMqF/jg=",
+        "BookerWikiTool-2023.5.24.0.tar.gz"
+      ],
+      "wheels": {
+        "BookerWikiTool-2023.5.24.0-py3-none-any.whl": [
+          "1rjCrCpNsZh9ogrTHlFLUhtMUH/ADmTGn558aRCcxCI=",
           "py3"
         ]
       }
@@ -63901,6 +63937,18 @@
           "py3"
         ]
       }
+    },
+    "6.98.0": {
+      "sdist": [
+        "BnSlXwUTCn8Yw98CYPqfxZKz0sdOn8Y9ue/MAydtU24=",
+        "gdsfactory-6.98.0.tar.gz"
+      ],
+      "wheels": {
+        "gdsfactory-6.98.0-py3-none-any.whl": [
+          "cMUokT9FkDPkU8W9L3bdHsSLBzFnuoC+ZkDd9Wl+A6Y=",
+          "py3"
+        ]
+      }
     }
   },
   "gemseo-mlearning": {
@@ -78666,6 +78714,12 @@
       "sdist": [
         "AcbadMjQLZlQYlMwBZR3801U1BoLjQX3LGL5yeiXwno=",
         "kiwi-9.24.60.tar.gz"
+      ]
+    },
+    "9.24.61": {
+      "sdist": [
+        "iNSxU5+1QSaNrApcXiz4K7qRZx+++UPZDfHBJeXRPrY=",
+        "kiwi-9.24.61.tar.gz"
       ]
     },
     "9.24.7": {
@@ -101786,6 +101840,12 @@
         "otx-1.2.0rc2.tar.gz"
       ]
     },
+    "1.2.1": {
+      "sdist": [
+        "3OQq+qGeUnASqmmWqzZlUo4rEsrt54P2ZCc9kLC93I4=",
+        "otx-1.2.1.tar.gz"
+      ]
+    },
     "1.2.1rc1": {
       "sdist": [
         "Ivlk9rS/2hHR9bTG0y5l85bI0nNhT8q7Y7K2J/GHXfI=",
@@ -101820,6 +101880,12 @@
       "sdist": [
         "wTpfexhNUZwIDiPxNLq37ATpLUwFPoxP4TJCsCyN7Dw=",
         "otx-1.2.1rc6.tar.gz"
+      ]
+    },
+    "1.2.1rc7": {
+      "sdist": [
+        "0m46nNWyOKA1HsnNCt9IKHcwx9RS1e+wp6Qg1NAKGPY=",
+        "otx-1.2.1rc7.tar.gz"
       ]
     },
     "1.3.0rc1": {
@@ -127342,6 +127408,18 @@
         ]
       }
     },
+    "1.2.26": {
+      "sdist": [
+        "BphwTdEdX284vN5bWm64nAqB9TBikhTGdO5Kfo3JT0A=",
+        "pyubx2-1.2.26.tar.gz"
+      ],
+      "wheels": {
+        "pyubx2-1.2.26-py3-none-any.whl": [
+          "+CjEGdhSySUTpfc9Rtn8/HYIcmbI7NF70x8xwjEJdNw=",
+          "py3"
+        ]
+      }
+    },
     "1.2.3": {
       "sdist": [
         "UPDWeS9oshPjg5hIQS2K5i1DUT0wRVwABJELq3mdc9c=",
@@ -142542,6 +142620,14 @@
       "wheels": {
         "specfabpy-2023.4.9-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "ftOKpTcmraD+Vv0uTyo57l6HTUheyXUG22vwhstkr4Y=",
+          "py3"
+        ]
+      }
+    },
+    "2023.5.26": {
+      "wheels": {
+        "specfabpy-2023.5.26-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "5pnjwgKPAUOCKoGV8ME2KPsFBg3U6RfCRNZrCrms0ls=",
           "py3"
         ]
       }

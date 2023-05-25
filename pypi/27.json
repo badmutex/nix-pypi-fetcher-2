@@ -57155,6 +57155,14 @@
           "py2.py3"
         ]
       }
+    },
+    "3.1.41": {
+      "wheels": {
+        "huaweicloudsdksecmaster-3.1.41-py2.py3-none-any.whl": [
+          "lxJ+TZMz8RTWL0rwXTN/+k+0yMeVQbEwnZT8/AkZSB8=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "huaweicloudsdksfsturbo": {
@@ -57754,6 +57762,14 @@
       "wheels": {
         "huaweicloudsdksfsturbo-3.1.40-py2.py3-none-any.whl": [
           "9kMQNR6mRWYMqbT3bA5sgh/L4VDsgOfdqw25togIAxM=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.41": {
+      "wheels": {
+        "huaweicloudsdksfsturbo-3.1.41-py2.py3-none-any.whl": [
+          "NRsbVUEvVEkOGnNLuZtbP4aRuhBDJymCboJIodv9viI=",
           "py2.py3"
         ]
       }
@@ -73866,6 +73882,30 @@
         ]
       }
     },
+    "1.21.1.dev8": {
+      "sdist": [
+        "kgl4ktvBR/DuoTPDCi7pwVyi3J2UA6PsGSv9T1m+foU=",
+        "large-image-source-openjpeg-1.21.1.dev8.tar.gz"
+      ],
+      "wheels": {
+        "large_image_source_openjpeg-1.21.1.dev8-py3-none-any.whl": [
+          "RfZgJpNyxHrfG+OFXj/lsGq5rsn6yQMq+Niyb40qYgM=",
+          "py3"
+        ]
+      }
+    },
+    "1.21.1.dev9": {
+      "sdist": [
+        "f61xeYSP/vQwGTA9ePP3ofoxe/FlzjsxU/GwbRQKJS4=",
+        "large-image-source-openjpeg-1.21.1.dev9.tar.gz"
+      ],
+      "wheels": {
+        "large_image_source_openjpeg-1.21.1.dev9-py3-none-any.whl": [
+          "eX2RXvlunTt269cTgnTqn0NvMEm+A/E2t2dmaycgeI4=",
+          "py3"
+        ]
+      }
+    },
     "1.3.0": {
       "sdist": [
         "GWElhtTfXREl6yWltyDmqtyPjCn7Z+zW4aoSd2Mmcqk=",
@@ -77539,6 +77579,12 @@
         "i8QAHI1wqm8sMqa9iqrGYNE2tjFrHMjOcpIQHXUT3PQ=",
         "lbrlabs_pulumi_dynatrace-0.0.3a1684948997.tar.gz"
       ]
+    },
+    "0.1.0": {
+      "sdist": [
+        "5xeFZvdJe/VFUyQzVKOL8N/H7lBsYX8dOFrEMhv5DUA=",
+        "lbrlabs_pulumi_dynatrace-0.1.0.tar.gz"
+      ]
     }
   },
   "lcmfinda-kb": {
@@ -78206,6 +78252,18 @@
       "wheels": {
         "libfmp-1.2.3-py3-none-any.whl": [
           "BdqBb/UJ6DUFFMTUYYshchRev9tro4ITwAnxANRUnM4=",
+          "py3"
+        ]
+      }
+    },
+    "1.2.5": {
+      "sdist": [
+        "W+QJO38sb53FSg9yjSyck9iwK5cYVb2zEv3vzmDB5gg=",
+        "libfmp-1.2.5.tar.gz"
+      ],
+      "wheels": {
+        "libfmp-1.2.5-py3-none-any.whl": [
+          "nYD0HY4h0OZ4sA1oNpuEJS4IlXjLsjxa4+iuwn6rFms=",
           "py3"
         ]
       }
@@ -79516,6 +79574,18 @@
       "wheels": {
         "lsst_ctrl_mpexec-25.2023.2000-py3-none-any.whl": [
           "4GjWgM5bscWVWFEgHdx9H5+IkbD3WDDpZbv78SS+9pI=",
+          "py3"
+        ]
+      }
+    },
+    "25.2023.2100": {
+      "sdist": [
+        "tmINDsqYWtHyETV2CBg+53/4XcbFrR5s/Amf8dFHRBs=",
+        "lsst-ctrl-mpexec-25.2023.2100.tar.gz"
+      ],
+      "wheels": {
+        "lsst_ctrl_mpexec-25.2023.2100-py3-none-any.whl": [
+          "Cz2MCpTsnkrRyWXUTlx9ATz7tfWQWxAWLTDb8ULyXRA=",
           "py3"
         ]
       }
@@ -94378,6 +94448,14 @@
       "wheels": {
         "odoo10_addon_membership_initial_fee-10.0.1.0.2.99.dev2-py2-none-any.whl": [
           "RJWPSZ/ySqkX6bLKvd8HyPjOE6nqFk1GrO3A1hxzDgg=",
+          "py2"
+        ]
+      }
+    },
+    "10.0.1.0.2.99.dev3": {
+      "wheels": {
+        "odoo10_addon_membership_initial_fee-10.0.1.0.2.99.dev3-py2-none-any.whl": [
+          "TnWK6qzvxgkclk3eFwWdboGVb0x6uc8wC9eJYfZ6yuk=",
           "py2"
         ]
       }
@@ -120125,6 +120203,18 @@
           "py3"
         ]
       }
+    },
+    "2.0.0": {
+      "sdist": [
+        "QRLWFi9UOyJzrloR3lp53jLM1FkL7ZmFEummGqaqhgU=",
+        "pyPreservica-2.0.0.tar.gz"
+      ],
+      "wheels": {
+        "pyPreservica-2.0.0-py3-none-any.whl": [
+          "nkQtPd6a5G5HR1VrbBcMUoJj9Y+dOnd/KrTJoWA3hN8=",
+          "py3"
+        ]
+      }
     }
   },
   "pypupil": {
@@ -126658,6 +126748,30 @@
       "wheels": {
         "revproxy_auth-0.1.3-py3-none-any.whl": [
           "fMHU9JwHLizgthgFj20LgDhqFE9tgpRf0albnpxBBF8=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.4": {
+      "sdist": [
+        "YapzWVqB3e42W/QXrBNWKfCJHl2j/KIxkFD+HyQUnAs=",
+        "revproxy_auth-0.1.4.tar.gz"
+      ],
+      "wheels": {
+        "revproxy_auth-0.1.4-py3-none-any.whl": [
+          "RRtZkTTVn4123YP9wsyckog7C5P8dNFI0TzrHtBem3A=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.5": {
+      "sdist": [
+        "APua7z/bMVkJcQULWMvwKZum4+qua5yACAAqN6i3bQg=",
+        "revproxy_auth-0.1.5.tar.gz"
+      ],
+      "wheels": {
+        "revproxy_auth-0.1.5-py3-none-any.whl": [
+          "J6gQ4fc5TdTuDdimm4ij84PBVi+sbc5wZYmpINMm8cM=",
           "py3"
         ]
       }

@@ -30883,6 +30883,58 @@
           "cp39"
         ]
       }
+    },
+    "12.1.0": {
+      "wheels": {
+        "cupy_cuda12x-12.1.0-cp310-cp310-manylinux2014_aarch64.whl": [
+          "o9vHbOD2l6lDBh3dLEe8ITi8I6tWoCDx9f+RQYYbUkU=",
+          "cp310"
+        ],
+        "cupy_cuda12x-12.1.0-cp310-cp310-manylinux2014_x86_64.whl": [
+          "xDKgAg9tbjOZFJ5zEoqaWBwp5PmWpLY2FIEcR6gs9E4=",
+          "cp310"
+        ],
+        "cupy_cuda12x-12.1.0-cp310-cp310-win_amd64.whl": [
+          "pVn0LbKO0QrqlkK5CE3LMYYLRiQ3FKRkCJ2v/mwKfo8=",
+          "cp310"
+        ],
+        "cupy_cuda12x-12.1.0-cp311-cp311-manylinux2014_aarch64.whl": [
+          "YKcSlvhTCmXn+2k2NfbVljVXeJo0pCp9jKnzG0DDWSA=",
+          "cp311"
+        ],
+        "cupy_cuda12x-12.1.0-cp311-cp311-manylinux2014_x86_64.whl": [
+          "dSpJxAZUMR1TqJU9jBb34hbhDoUUWZpHbqgMb2srAWM=",
+          "cp311"
+        ],
+        "cupy_cuda12x-12.1.0-cp311-cp311-win_amd64.whl": [
+          "iaLwicsEeD3PvKHE6CM4lT+5M/Hm2DjsUHE7m4vQqcg=",
+          "cp311"
+        ],
+        "cupy_cuda12x-12.1.0-cp38-cp38-manylinux2014_aarch64.whl": [
+          "2B39x/b0fDkvJKpQTjtkcy63apCx58oxrXJlNxvgrEI=",
+          "cp38"
+        ],
+        "cupy_cuda12x-12.1.0-cp38-cp38-manylinux2014_x86_64.whl": [
+          "3EedA5e7GWpiwFMiwP+BpXr0270CCn+7tLCEPDX2HCc=",
+          "cp38"
+        ],
+        "cupy_cuda12x-12.1.0-cp38-cp38-win_amd64.whl": [
+          "fqhsCF/KjkFXms7Vpf70XMLdkMJw4DDDIhPOosRxu0A=",
+          "cp38"
+        ],
+        "cupy_cuda12x-12.1.0-cp39-cp39-manylinux2014_aarch64.whl": [
+          "tSFE67s+HeHKPajBi3xhBmrB9tguYlK36jetEcZrXDo=",
+          "cp39"
+        ],
+        "cupy_cuda12x-12.1.0-cp39-cp39-manylinux2014_x86_64.whl": [
+          "Hs0CfSeVU6nhcMNyT50esJHb+Bseq70hZa3Q2l1opbw=",
+          "cp39"
+        ],
+        "cupy_cuda12x-12.1.0-cp39-cp39-win_amd64.whl": [
+          "JZ/MrD7spLmgTh0tMqH3nnRDbSspmmtr6nuEQ1wdrQ4=",
+          "cp39"
+        ]
+      }
     }
   },
   "curies": {
@@ -61560,6 +61612,30 @@
     }
   },
   "horizonai": {
+    "0.1.10": {
+      "sdist": [
+        "OeGy5BR491MgO4DfFIcinloq7PFoUZX2bGBInxZQ8To=",
+        "horizonai-0.1.10.tar.gz"
+      ],
+      "wheels": {
+        "horizonai-0.1.10-py3-none-any.whl": [
+          "vnSaP/eLtD6c/AqwabeoGatY/JIWkypmdYJtkP/OZ3Y=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.11": {
+      "sdist": [
+        "JmCLkNEwiRx9JdcmZrejPfcjVCwzaRkI3+Qns/0bxpw=",
+        "horizonai-0.1.11.tar.gz"
+      ],
+      "wheels": {
+        "horizonai-0.1.11-py3-none-any.whl": [
+          "pze33xR0PHgDq71BHZVMV2n8ZdVXposjuLYkhUGwA7I=",
+          "py3"
+        ]
+      }
+    },
     "0.1.8": {
       "sdist": [
         "QLUbD/Ij9Iv1FA4E7B9qbkHWsxJaDIl/U8A5npFeNqQ=",
@@ -93164,6 +93240,14 @@
       "wheels": {
         "odoo_addons_oca_account_financial_tools-16.0.20230216.0-py3-none-any.whl": [
           "Sk2k2pavdKWLkerUiVtGFI30BOPsZM6g/ckE6YtP75Y=",
+          "py3"
+        ]
+      }
+    },
+    "16.0.20230524.0": {
+      "wheels": {
+        "odoo_addons_oca_account_financial_tools-16.0.20230524.0-py3-none-any.whl": [
+          "UmB4IzSdT850SJj+eqDvow9bUHGlkLafBYLF54lTMgE=",
           "py3"
         ]
       }
@@ -136957,6 +137041,30 @@
           "py2.py3"
         ]
       }
+    },
+    "0.5": {
+      "sdist": [
+        "JVGUSCHvdePVuL3lFmlnLMi267G9Hlm8aTdH6bQ5m38=",
+        "suddendeath-0.5.tar.gz"
+      ],
+      "wheels": {
+        "suddendeath-0.5-py3-none-any.whl": [
+          "DQGZpghHs45EUdrOXR+5Mt8rr+XlNsfEYhjc6pH76Ck=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.1": {
+      "sdist": [
+        "J7k2BXLMyNrHDyVFKCTgNWD3mkbb0MSw/3FH22GF9W8=",
+        "suddendeath-0.5.1.tar.gz"
+      ],
+      "wheels": {
+        "suddendeath-0.5.1-py3-none-any.whl": [
+          "+j67wQYDFk4AyVvyJiC9q6AwnGcQxz6jYqAX1Ccm5CY=",
+          "py3"
+        ]
+      }
     }
   },
   "suiran-xianzai-huan-zhishi-qingmeizhuma-de-meimei-liang-mu-gao-20210908": {
@@ -147700,6 +147808,18 @@
       "wheels": {
         "tencentcloud_sdk_python_sts-3.0.898-py2.py3-none-any.whl": [
           "7TZJewykdaGowSZDeQBCOEdw++hjInA5QEY6o6wF06U=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.899": {
+      "sdist": [
+        "WrApN18oUqofViKpomeu46weUiG7z0AHufz+/80yo6Q=",
+        "tencentcloud-sdk-python-sts-3.0.899.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_sts-3.0.899-py2.py3-none-any.whl": [
+          "toszION6JVamHd8i0rAZdaokwFvAxWF7FZ4sRS+0OYE=",
           "py2.py3"
         ]
       }

@@ -776,6 +776,18 @@
         ]
       }
     },
+    "0.2.18": {
+      "sdist": [
+        "THdZ6zv7WKzfkamfcZBJDQfNvdQDfqMExVxyJPwesqs=",
+        "adafruit-circuitpython-miniesptool-0.2.18.tar.gz"
+      ],
+      "wheels": {
+        "adafruit_circuitpython_miniesptool-0.2.18-py3-none-any.whl": [
+          "SY3Rs/a3LHMOFKQiitNEKCb13ZsuSU8EPMYS5XU+P3w=",
+          "py3"
+        ]
+      }
+    },
     "0.2.2": {
       "sdist": [
         "dYvY5z36XkU8uRZOuieSgZ7A4Eal917kkmF0kwi0Sc4=",
@@ -50091,6 +50103,18 @@
           "py3"
         ]
       }
+    },
+    "0.14.0": {
+      "sdist": [
+        "NC1YFUeZko4GMoNAcoa0RsgBgB+WD2eXFCexI1+Cmwg=",
+        "frequenz-api-microgrid-0.14.0.tar.gz"
+      ],
+      "wheels": {
+        "frequenz_api_microgrid-0.14.0-py3-none-any.whl": [
+          "1bNmi3Bo4buJlWMRlQJuncuJLaTyhLoobtr8qODHAIw=",
+          "py3"
+        ]
+      }
     }
   },
   "frostbyte": {
@@ -68835,6 +68859,32 @@
       }
     }
   },
+  "langchain-discord": {
+    "0.0.2": {
+      "sdist": [
+        "fXfsgV3Tr7hYj5Ow0aVp6YJRfgRjoUz475OR0/rFo+g=",
+        "langchain_discord-0.0.2.tar.gz"
+      ]
+    },
+    "0.0.3": {
+      "sdist": [
+        "citP/qT+STAW/DSu1KOxjFX6UscDcV5Btg0qTvgQejY=",
+        "langchain_discord-0.0.3.tar.gz"
+      ]
+    },
+    "0.0.4": {
+      "sdist": [
+        "tEB2Eg4BXIsN1zIOyLJBTRB6akVE1YJCBg+KFpt5m34=",
+        "langchain_discord-0.0.4.tar.gz"
+      ]
+    },
+    "0.0.5": {
+      "sdist": [
+        "f0PcNBw0CPtWmd8LAmmma9d1QXPbxYDS3xW8QoeljGw=",
+        "langchain_discord-0.0.5.tar.gz"
+      ]
+    }
+  },
   "large-image-source-openjpeg": {
     "1.0.1": {
       "sdist": [
@@ -73878,6 +73928,42 @@
       "wheels": {
         "large_image_source_openjpeg-1.21.1.dev2-py3-none-any.whl": [
           "rwRHF7nTOKgjrgaf94w9kvlaIgQQEsJwoJFAS84zyJQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.21.1.dev26": {
+      "sdist": [
+        "Ktqh7Lr1ouvh+tZ1R4wl9X/iNMCvrUJC6TT2ew6YKuo=",
+        "large-image-source-openjpeg-1.21.1.dev26.tar.gz"
+      ],
+      "wheels": {
+        "large_image_source_openjpeg-1.21.1.dev26-py3-none-any.whl": [
+          "+5aqSQ4zF7MrCGFUnfeMH/F/w1VQFYXMLkpIEUtaDLI=",
+          "py3"
+        ]
+      }
+    },
+    "1.21.1.dev28": {
+      "sdist": [
+        "/Pdw5AsJppvIiXm1Q09RiFlFZbIRQEXKcUVrq0UO1qA=",
+        "large-image-source-openjpeg-1.21.1.dev28.tar.gz"
+      ],
+      "wheels": {
+        "large_image_source_openjpeg-1.21.1.dev28-py3-none-any.whl": [
+          "T/+yzWCs3fkFL0OTnYXXZxNXlXtKA0uKG40fRF7oTDI=",
+          "py3"
+        ]
+      }
+    },
+    "1.21.1.dev29": {
+      "sdist": [
+        "XWIm8soUdDGDHtun02BId/nAnpuMN5nBRHXmJIG8LBo=",
+        "large-image-source-openjpeg-1.21.1.dev29.tar.gz"
+      ],
+      "wheels": {
+        "large_image_source_openjpeg-1.21.1.dev29-py3-none-any.whl": [
+          "M8cv1Fth4GY1IWER1oHeRRVu9zM/RhXwUB+Kw/xdYMI=",
           "py3"
         ]
       }
@@ -82180,6 +82266,202 @@
         ],
         "mapel_elections-2.0.3.dev7-pp39-pypy39_pp73-win_amd64.whl": [
           "tr6U/oln8SJdP5tXDDNbR79TI/cTv1L6rXEJ9iRCW7U=",
+          "pp39"
+        ]
+      }
+    },
+    "2.0.4": {
+      "sdist": [
+        "TrwerW2qQ12c46awlYh/PmS+SSdPHMUwycCoocyOp4o=",
+        "mapel-elections-2.0.4.tar.gz"
+      ],
+      "wheels": {
+        "mapel_elections-2.0.4-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "zqc2lZkRsCYiHlWPjfrGbhs8ATOoe+9mYGhryhp/2r8=",
+          "cp310"
+        ],
+        "mapel_elections-2.0.4-cp310-cp310-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "3rCyJkZvolBrQ62S0LejAYUDC+75HsSjGYsYTNTN6eQ=",
+          "cp310"
+        ],
+        "mapel_elections-2.0.4-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "rxHFfjj1bjrS5uNcO4KZZy58/H0dg3CeqHlGsJ124EI=",
+          "cp310"
+        ],
+        "mapel_elections-2.0.4-cp310-cp310-musllinux_1_1_i686.whl": [
+          "BCGaHxd2O937R1y4LhULNsTXXbNtW9hBLeJf/SZt5jc=",
+          "cp310"
+        ],
+        "mapel_elections-2.0.4-cp310-cp310-musllinux_1_1_x86_64.whl": [
+          "Cp6h54TN/KSofE1P5M5ahHv1IjWGxSbifTDKInwKn7U=",
+          "cp310"
+        ],
+        "mapel_elections-2.0.4-cp310-cp310-win32.whl": [
+          "tL4Yf9ypW2wSYt2fyV5ciLI5Il52QcEc8WhxnvTYwRY=",
+          "cp310"
+        ],
+        "mapel_elections-2.0.4-cp310-cp310-win_amd64.whl": [
+          "BOgvfE11xmg0n76bcHspX9EpYbhy7pgIzSV1LKWLmvs=",
+          "cp310"
+        ],
+        "mapel_elections-2.0.4-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "JE4LzqYWAIjyi/MET1wiJGkT8pWXGWIegOC3+5OguIg=",
+          "cp311"
+        ],
+        "mapel_elections-2.0.4-cp311-cp311-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "wOn8aIEWgs4cZzS8JpPmGhcMIiPWlnloSvgWvmV9aLQ=",
+          "cp311"
+        ],
+        "mapel_elections-2.0.4-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "aiyYezOWT5sA8HjJHpl2OsA6qBrhF5XaU3WyLMs0XC8=",
+          "cp311"
+        ],
+        "mapel_elections-2.0.4-cp311-cp311-musllinux_1_1_i686.whl": [
+          "NWHudXA8lYSskp5ngXx4VljpDXoUdakEqpRjgzpnjPA=",
+          "cp311"
+        ],
+        "mapel_elections-2.0.4-cp311-cp311-musllinux_1_1_x86_64.whl": [
+          "4RR0wQeum7vWQngPY1MmBUAdsyeZIJkIu2HNWbiHsVQ=",
+          "cp311"
+        ],
+        "mapel_elections-2.0.4-cp311-cp311-win32.whl": [
+          "JMNkmqxwLbgoP0P+0JnBE5WNfToN+TJ1aNZG3vK0xyo=",
+          "cp311"
+        ],
+        "mapel_elections-2.0.4-cp311-cp311-win_amd64.whl": [
+          "l34bJcIzkq9JF2gYMeyrSwDed3PTsLXjm2FREFW7pqw=",
+          "cp311"
+        ],
+        "mapel_elections-2.0.4-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "Gcu8eV4IPLQG/L4XQLds3qeuRD8rDcKS9YD1OKXMOP0=",
+          "cp37"
+        ],
+        "mapel_elections-2.0.4-cp37-cp37m-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "hGq2DIK1v29JvWwD9dB/DQgS/CTr8OSFgHPnv8weUzE=",
+          "cp37"
+        ],
+        "mapel_elections-2.0.4-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "6lg4fRAeTLMtxEYLBkZ/OMrmrt3x0lmQt0xgRcC1nWI=",
+          "cp37"
+        ],
+        "mapel_elections-2.0.4-cp37-cp37m-musllinux_1_1_i686.whl": [
+          "4kpJo3yZU08NcgnTEhNkDv72cFCCkOtB1og9+zG2PtI=",
+          "cp37"
+        ],
+        "mapel_elections-2.0.4-cp37-cp37m-musllinux_1_1_x86_64.whl": [
+          "boQu3Xy2rUZrOcoNAQRuxoxLfqCdpwNd3+SQ/UcbW24=",
+          "cp37"
+        ],
+        "mapel_elections-2.0.4-cp37-cp37m-win32.whl": [
+          "V6eAoLw7ReYqkCTj1zj1+xLEQrB958dzxvuY8VyptSw=",
+          "cp37"
+        ],
+        "mapel_elections-2.0.4-cp37-cp37m-win_amd64.whl": [
+          "jd5w76UaLepCRKm5569OsYku5504YUnA5A70lssLLUo=",
+          "cp37"
+        ],
+        "mapel_elections-2.0.4-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "VdqDKHYaoSG2pKqThdFY57CPRnAyvCpHohYCZCYG3Qs=",
+          "cp38"
+        ],
+        "mapel_elections-2.0.4-cp38-cp38-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "yeL0jDJIvkn4IbEvWNm/voJ1lsQJE4PZSjncNNL3VhM=",
+          "cp38"
+        ],
+        "mapel_elections-2.0.4-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "jZjO/4mSBx8QJhxNmfA6YMBVzUyceneVl6dsUDrI5OA=",
+          "cp38"
+        ],
+        "mapel_elections-2.0.4-cp38-cp38-musllinux_1_1_i686.whl": [
+          "sMukZ+tAT5mB1QdatJOekGABL+BgAJZV2rgt88g+Gjc=",
+          "cp38"
+        ],
+        "mapel_elections-2.0.4-cp38-cp38-musllinux_1_1_x86_64.whl": [
+          "PLzqQykGDf3yMreWBhckDiWPTem8UJK6Dal0OQbp1Zs=",
+          "cp38"
+        ],
+        "mapel_elections-2.0.4-cp38-cp38-win32.whl": [
+          "KZ3XcgLuLN0LikrMd2n4+9gkv36XQ/B27wd3OLJcRn0=",
+          "cp38"
+        ],
+        "mapel_elections-2.0.4-cp38-cp38-win_amd64.whl": [
+          "W8y0osI8WYEecf+EXdOGkjEVOcLZeese0qFzVkmxw7Y=",
+          "cp38"
+        ],
+        "mapel_elections-2.0.4-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "L9WLn3AoNSkVvvNKjchYQUm7KovrQhj48V5JgWD8znw=",
+          "cp39"
+        ],
+        "mapel_elections-2.0.4-cp39-cp39-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "GO8XBOyLWT9/nro2k4pKRJ5jKHycvf24W4s9uaw7ioE=",
+          "cp39"
+        ],
+        "mapel_elections-2.0.4-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "8jJzRYQsIdCaJ8oHhGRJqDFuw/KZW5w/w1wcF4lbICA=",
+          "cp39"
+        ],
+        "mapel_elections-2.0.4-cp39-cp39-musllinux_1_1_i686.whl": [
+          "T6zs2MOvNQLdxoLyYbGyOfTGwubcch3k8uslSC3r1AU=",
+          "cp39"
+        ],
+        "mapel_elections-2.0.4-cp39-cp39-musllinux_1_1_x86_64.whl": [
+          "25TrUCcRyenkXlVJPqVuF3u5feQF2B5409swQUlNrao=",
+          "cp39"
+        ],
+        "mapel_elections-2.0.4-cp39-cp39-win32.whl": [
+          "xy1EIo0ZGO+hpcSt9shxn9AmQELKQArIOQDtyXkDdl0=",
+          "cp39"
+        ],
+        "mapel_elections-2.0.4-cp39-cp39-win_amd64.whl": [
+          "dqTq1Y8ROElF2vQU/KreiEnYeGdjRS6aKiLJJA27rWA=",
+          "cp39"
+        ],
+        "mapel_elections-2.0.4-pp37-pypy37_pp73-macosx_10_9_x86_64.whl": [
+          "ry7E1VmMIWzxMjQPKAs3gQxux4wsI7AHDPuDtRytkPI=",
+          "pp37"
+        ],
+        "mapel_elections-2.0.4-pp37-pypy37_pp73-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "PU1NPlT1zzwcb0MS7n+SMm1bX2uAvKc3J6DOEssFbFg=",
+          "pp37"
+        ],
+        "mapel_elections-2.0.4-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "OwdM7oouwk/alZBvGT4pYMR8NvS51BT+li4NuMevUQM=",
+          "pp37"
+        ],
+        "mapel_elections-2.0.4-pp37-pypy37_pp73-win_amd64.whl": [
+          "BVJx4oSLEnL6wCQPK2ihhsNjiG84GyhUi0a3IGEjhI8=",
+          "pp37"
+        ],
+        "mapel_elections-2.0.4-pp38-pypy38_pp73-macosx_10_9_x86_64.whl": [
+          "OJF4Clc0pUiTy0plXD2ivlPX7izoPs/KBvhdZk8mCfw=",
+          "pp38"
+        ],
+        "mapel_elections-2.0.4-pp38-pypy38_pp73-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "VpFGTtFQJtdUoO++9uZgoCnOqb5XDyZMOmSieT4tQvM=",
+          "pp38"
+        ],
+        "mapel_elections-2.0.4-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "b+WXGeMsNEykilH24qdPRCpvMaHgY25VOvnA5tTLT28=",
+          "pp38"
+        ],
+        "mapel_elections-2.0.4-pp38-pypy38_pp73-win_amd64.whl": [
+          "Gq7b59K7eWu2hiOpp+W9Omm2YSwNCch1WjXf0FQeU3g=",
+          "pp38"
+        ],
+        "mapel_elections-2.0.4-pp39-pypy39_pp73-macosx_10_9_x86_64.whl": [
+          "oE0lUR9dInRo1Rsv+wBJ/zm9o8Zmc5pIfjKk0mtYQlE=",
+          "pp39"
+        ],
+        "mapel_elections-2.0.4-pp39-pypy39_pp73-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "RWzSV9+IIWmKnIRgC7uenTeXMRXNqZ5mR/k7oFa4pBI=",
+          "pp39"
+        ],
+        "mapel_elections-2.0.4-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "uvV/AOxYDQUdYqtSppbUx/mN4zJUgUHtGO/OYbdeOYg=",
+          "pp39"
+        ],
+        "mapel_elections-2.0.4-pp39-pypy39_pp73-win_amd64.whl": [
+          "4sz+xcep8rQaR29XJBE+QbHOhOHS77qqmGLOKVVnBHY=",
           "pp39"
         ]
       }
@@ -102641,6 +102923,14 @@
           "py3"
         ]
       }
+    },
+    "0.49.1": {
+      "wheels": {
+        "orquestra_sdk-0.49.1-py3-none-any.whl": [
+          "jDZO9o81nszhvq3CFgfa9dE0JUiTueCFWPSCBDWPR1Y=",
+          "py3"
+        ]
+      }
     }
   },
   "os-scrapy": {
@@ -113358,6 +113648,12 @@
       "sdist": [
         "lADCqfgcXbhpkiPH/NsN9Pq8ixWypmuUG9ZsQJWPAwE=",
         "pulumi_akamai-4.6.0a1684387003.tar.gz"
+      ]
+    },
+    "4.6.0a1685078259": {
+      "sdist": [
+        "Lh/KRM+66NUtqwC2Gu4ywLXfZez2bkmPspoYuDfHxqc=",
+        "pulumi_akamai-4.6.0a1685078259.tar.gz"
       ]
     }
   },
@@ -126811,6 +127107,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.6": {
+      "sdist": [
+        "p5KrnH8TFyCAaC/9ohpgwPseGc31vgCqhk1ElMvllWs=",
+        "revproxy_auth-0.1.6.tar.gz"
+      ],
+      "wheels": {
+        "revproxy_auth-0.1.6-py3-none-any.whl": [
+          "i9XamphfOIbW1QipEIIwdMLxFh/9bPcTgc184tsf5Aw=",
+          "py3"
+        ]
+      }
     }
   },
   "rhwrapper": {
@@ -128548,6 +128856,18 @@
       "wheels": {
         "safeget-1.5.0-py3-none-any.whl": [
           "BbYcm1rBTnB6utPnvr57VzWO/fYFXpFHTD/nL/FHfac=",
+          "py3"
+        ]
+      }
+    },
+    "1.5.5": {
+      "sdist": [
+        "nGPl8lzLN21kWOCbghAqJxQEzKAxK5iUNPSW+gEVTzo=",
+        "safeget-1.5.5.tar.gz"
+      ],
+      "wheels": {
+        "safeget-1.5.5-py3-none-any.whl": [
+          "85ctUUCnnlvWLPz11CI0QfWdIqOJVZU5v4KznQnD9sY=",
           "py3"
         ]
       }
@@ -150999,6 +151319,20 @@
         "3j++Ni75QqdOghIaO8KxVqiXrK+RmePuPmrdibr8GUw=",
         "typecheck-decorator-1.3.zip"
       ]
+    }
+  },
+  "typed-dataclass": {
+    "0.1.0": {
+      "sdist": [
+        "Ym1b1D9tVvRhoekbSp9Wevicj8yJn7FObVefhRIknGo=",
+        "typed-dataclass-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "typed_dataclass-0.1.0-py3-none-any.whl": [
+          "GZQdpMqmM/K5BDhddtRQPIjCHwwLTx1wjlO3GH72iss=",
+          "py3"
+        ]
+      }
     }
   },
   "ua-clarity-api": {

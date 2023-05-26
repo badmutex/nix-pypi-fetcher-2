@@ -19072,6 +19072,18 @@
         ]
       }
     },
+    "1.29.141": {
+      "sdist": [
+        "qdf6G6yZO88HGdMX49g75czWpaamr1888vTU/Usx/E0=",
+        "botocore-a-la-carte-connectparticipant-1.29.141.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_connectparticipant-1.29.141-py3-none-any.whl": [
+          "uuKNTHT7Firt68Fe36vc4UGxpsrnY7VDDoBofXusvlM=",
+          "py3"
+        ]
+      }
+    },
     "1.29.42": {
       "sdist": [
         "c1ybFBVfLQcBihuLHV3W0sgEilQjEW4ULAIJXv9I5zk=",
@@ -20246,6 +20258,18 @@
       "wheels": {
         "botocore_a_la_carte_lakeformation-1.29.140-py3-none-any.whl": [
           "e+crxM4fE7MgGLLFxD2i79njbID+ncHqNhUqlw3+MWg=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.141": {
+      "sdist": [
+        "dTapHTNdBUWtqwGEq28WsAZrhxs+/7UxuP2N9Pvv5oM=",
+        "botocore-a-la-carte-lakeformation-1.29.141.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_lakeformation-1.29.141-py3-none-any.whl": [
+          "RF7tv2UUSelaKM1+xX8l9//BZg/ZMdoUsBtzj/iPQlw=",
           "py3"
         ]
       }
@@ -32220,6 +32244,18 @@
         ]
       }
     },
+    "0.19.6": {
+      "sdist": [
+        "2egY40pPO33Fwq9Apf950B9b6/StXBPCrDDfrlvf1qw=",
+        "dagster-census-0.19.6.tar.gz"
+      ],
+      "wheels": {
+        "dagster_census-0.19.6-py3-none-any.whl": [
+          "Qem764ANXZTDVfUAiE+tsnUmZdEZ36hCmtlu5BlmM/c=",
+          "py3"
+        ]
+      }
+    },
     "1.0.5": {
       "sdist": [
         "VJv9Kug0yQIykqjw2UqJ55zQ68Fz0FyHqF7HRwcKlFM=",
@@ -32817,6 +32853,38 @@
         "VEXJJ59EUTI6JuL3390KXrJidMo7rw1wDbjnv1HI+5k=",
         "datumaro-1.3.0rc1.tar.gz"
       ]
+    },
+    "1.3.1": {
+      "sdist": [
+        "GMxJovIwGwwG8x7zw8OfbTGVmKzTKEQ2UWgbSmw4C/I=",
+        "datumaro-1.3.1.tar.gz"
+      ],
+      "wheels": {
+        "datumaro-1.3.1-cp310-cp310-manylinux_2_24_x86_64.whl": [
+          "0tFIJkbJdCCmUdjL+3oPw1tJOBHMybMRwCoIflKTmxM=",
+          "cp310"
+        ],
+        "datumaro-1.3.1-cp310-cp310-win_amd64.whl": [
+          "U4CMQnLhcLY7jyxCzA5MB5j9PZANT9J0T1gOaVTInxk=",
+          "cp310"
+        ],
+        "datumaro-1.3.1-cp38-cp38-manylinux_2_24_x86_64.whl": [
+          "jJ+MtV44qU1YThxlMtSPtH4gnH8gj40ZzMhrQ5Cot1Y=",
+          "cp38"
+        ],
+        "datumaro-1.3.1-cp38-cp38-win_amd64.whl": [
+          "XBiGOJSjOB9tEZY6RGNECB/M1wZgSsEU7+QuDa0nhmI=",
+          "cp38"
+        ],
+        "datumaro-1.3.1-cp39-cp39-manylinux_2_24_x86_64.whl": [
+          "EfD1CC8JeD1xA95RrdV9Er0jOgOz4pgPQm3YHx2gzqo=",
+          "cp39"
+        ],
+        "datumaro-1.3.1-cp39-cp39-win_amd64.whl": [
+          "L3DHiy9kHVams7SsqVwlXAntsXgYZDZGseklUMuaewc=",
+          "cp39"
+        ]
+      }
     }
   },
   "dave": {
@@ -72865,6 +72933,18 @@
           "py2.py3"
         ]
       }
+    },
+    "0.17a1": {
+      "sdist": [
+        "QcUIyk/Q8iHZ+nwOZeXxbPQlqSMLEXZeA5Guxc04iBg=",
+        "lnschema_lamin1-0.17a1.tar.gz"
+      ],
+      "wheels": {
+        "lnschema_lamin1-0.17a1-py2.py3-none-any.whl": [
+          "/uyJg6PE+0i+8InhukiNGFOnNcaWOPmfH+bSwKEPqAw=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "load-xl": {
@@ -99960,6 +100040,14 @@
         ]
       }
     },
+    "10.0.1.0.2.99.dev14": {
+      "wheels": {
+        "odoo10_addon_sale_product_set-10.0.1.0.2.99.dev14-py2-none-any.whl": [
+          "S0tIYjeSZn9ysKd3MQoAOc1SqG52PJqO+40JUgxVpak=",
+          "py2"
+        ]
+      }
+    },
     "10.0.1.0.2.99.dev2": {
       "wheels": {
         "odoo10_addon_sale_product_set-10.0.1.0.2.99.dev2-py2-none-any.whl": [
@@ -100258,6 +100346,14 @@
       "wheels": {
         "odoo11_addon_sale_product_set_variant-11.0.1.0.0.99.dev6-py2.py3-none-any.whl": [
           "1sPCmk++tOIYD7CGnRIJzUecZB+pNG/H7vjpu8Yj210=",
+          "py2.py3"
+        ]
+      }
+    },
+    "11.0.1.0.0.99.dev7": {
+      "wheels": {
+        "odoo11_addon_sale_product_set_variant-11.0.1.0.0.99.dev7-py2.py3-none-any.whl": [
+          "LMoaxfvvZ7lPcZxNbJ6vJ3X61a/CKmM/GJCt6uoKH+4=",
           "py2.py3"
         ]
       }
@@ -100878,6 +100974,14 @@
       "wheels": {
         "odoo14_addon_hr_employee_id-14.0.1.0.1.dev5-py3-none-any.whl": [
           "9ax+z8MeNHnLogPklcjAFrOlMBBz8UocFupHSaFtXlQ=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.1.0.1.dev6": {
+      "wheels": {
+        "odoo14_addon_hr_employee_id-14.0.1.0.1.dev6-py3-none-any.whl": [
+          "rPAFmmipOgRdbIfG5o83+0MzjrRsQzzcYjUikLzcHrE=",
           "py3"
         ]
       }

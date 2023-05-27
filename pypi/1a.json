@@ -64659,6 +64659,18 @@
         "0FX0ASwtrI+mr/v8hfNWooV+P0QXP4zKQ5K1Q/z42p4=",
         "global_hotkeys-0.0.4.tar.gz"
       ]
+    },
+    "0.0.5": {
+      "sdist": [
+        "G4uTadkqT4wcHIuvbECNeeaXwlu6DX69P6c+/0ULs3Y=",
+        "global_hotkeys-0.0.5.tar.gz"
+      ]
+    },
+    "0.0.6": {
+      "sdist": [
+        "ezPyp+49xx5Ed1YKGXIH5IFvzt7KiEY5fUbnchJhllk=",
+        "global_hotkeys-0.0.6.tar.gz"
+      ]
     }
   },
   "glowseeds": {
@@ -96627,6 +96639,14 @@
       }
     }
   },
+  "nopaths": {
+    "1": {
+      "sdist": [
+        "4cvdvYHvcz83HTD/M8v16nirP53mBnrt6VM6vcI9640=",
+        "nopaths-1.tar.gz"
+      ]
+    }
+  },
   "nornir-tests": {
     "0.1.0a1": {
       "sdist": [
@@ -112492,6 +112512,12 @@
       "sdist": [
         "QuJnxIy4/aSsIyPmx5Yt13PYAtrqcEIVArFftR649Nw=",
         "pulumi_splunk-1.3.0a1685084245.tar.gz"
+      ]
+    },
+    "1.3.0a1685168804": {
+      "sdist": [
+        "DWlu03V2UpYvUlQJPP70IKgx4hCrjJiKR/3e0S3mreE=",
+        "pulumi_splunk-1.3.0a1685168804.tar.gz"
       ]
     }
   },
@@ -143732,6 +143758,56 @@
       "wheels": {
         "ssh_commands-1.7.7-py3-none-any.whl": [
           "gKW+wJ4k065JxnfrX4D4bUX2fA0e7QETqpETMrKZMK8=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "sso-aws": {
+    "1.0.2": {
+      "sdist": [
+        "W2CgwdmZzEdAYad2Dcad1sHVDe0l04LTnwYOuyN1K2s=",
+        "sso-aws-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "sso_aws-1.0.2-py3-none-any.whl": [
+          "7oWEUQo6/xyYmQBSItsAgeSYwDEPK4t9OulHpncavuI=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.3": {
+      "sdist": [
+        "2yByXeW+koLRFdqSL3rWuTqroKa5NipW5TJtZ4/U7cM=",
+        "sso-aws-1.0.3.tar.gz"
+      ],
+      "wheels": {
+        "sso_aws-1.0.3-py3-none-any.whl": [
+          "YQQ4yYI45VUBWdN4PdhHB+/lJHeaoDWBDo076WZ8bt4=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.4": {
+      "sdist": [
+        "RMpKPeH8wqk2OJCtT43fjwVUljDmg4xSjQaKQIDsTQc=",
+        "sso-aws-1.0.4.tar.gz"
+      ],
+      "wheels": {
+        "sso_aws-1.0.4-py3-none-any.whl": [
+          "+hwE6bJJ6gCKyuoK0mPY5mlE2UKqZNHeysXeH20DrYc=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.5": {
+      "sdist": [
+        "eyNgXLriGpkXkjAnU8MflMXxSgLMVPEEvMBNHiJ74CE=",
+        "sso-aws-1.0.5.tar.gz"
+      ],
+      "wheels": {
+        "sso_aws-1.0.5-py3-none-any.whl": [
+          "sbygZxvTTgvYl9UBLiP73+Ueki2O//TdzwYO8GokfiQ=",
           "py3"
         ]
       }

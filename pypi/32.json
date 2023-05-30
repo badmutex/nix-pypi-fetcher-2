@@ -35862,6 +35862,18 @@
         "django-modeltranslation-0.18.1.tar.gz"
       ]
     },
+    "0.18.10b0": {
+      "sdist": [
+        "hpuY9oJbKvqSop04tXoTVa8D9r6NHmi3dy0Q+AqDh34=",
+        "django-modeltranslation-0.18.10b0.tar.gz"
+      ],
+      "wheels": {
+        "django_modeltranslation-0.18.10b0-py3-none-any.whl": [
+          "6uj0eeqlOM5+j8KuxpBGPinpz3+wvSvnqO31mip4FO8=",
+          "py3"
+        ]
+      }
+    },
     "0.18.2": {
       "sdist": [
         "cPvQmzI7I+6Kk5/59IUTeDlvD4OunXXxOnnG5A1DQ24=",
@@ -38084,6 +38096,18 @@
       "wheels": {
         "dls_utilpack-1.4.1-py3-none-any.whl": [
           "FwRt/A9vVdauD/oXpW+zB6UQhmTRWE1cG2RbM/N/NNo=",
+          "py3"
+        ]
+      }
+    },
+    "1.5.0": {
+      "sdist": [
+        "XRBKHIM611oscsCBULXaaazzS1l8jJ9jHF7avbT1lQw=",
+        "dls-utilpack-1.5.0.tar.gz"
+      ],
+      "wheels": {
+        "dls_utilpack-1.5.0-py3-none-any.whl": [
+          "2efJKxew94R2wgkE6RawOte3I0FR6mb8sderPtuCT6c=",
           "py3"
         ]
       }
@@ -52265,6 +52289,24 @@
       ]
     }
   },
+  "gwpconfig": {
+    "1.0.0": {
+      "wheels": {
+        "gwpconfig-1.0.0-py3-none-any.whl": [
+          "c94DFBZGJ6WBsCkeCEod2LoJsvWHdZPngDri89t8KmI=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.1": {
+      "wheels": {
+        "gwpconfig-1.0.1-py3-none-any.whl": [
+          "LxFZHYQp2dLKuE61cKuuelklzVi+CInadcbigs7WbNI=",
+          "py3"
+        ]
+      }
+    }
+  },
   "h2o4gpu": {
     "0.2.0": {
       "wheels": {
@@ -55712,6 +55754,18 @@
       "wheels": {
         "idpmodem-2.3.8-py3-none-any.whl": [
           "5rCLXyAJHT8wRYrmBZpCq23V6Ct4vebhrJ5YmX3bZHQ=",
+          "py3"
+        ]
+      }
+    },
+    "2.3.9": {
+      "sdist": [
+        "UFJpWcvPxyy4Jzs6ftCSwPYB/Vgrjuyp/a6PKCq76zM=",
+        "idpmodem-2.3.9.tar.gz"
+      ],
+      "wheels": {
+        "idpmodem-2.3.9-py3-none-any.whl": [
+          "v5asmT7I/SYCF+VZfjgLpK5/DpEkPqDu6cezyLcZayw=",
           "py3"
         ]
       }
@@ -108723,6 +108777,18 @@
           "py2.py3"
         ]
       }
+    },
+    "1.0.4rc1": {
+      "sdist": [
+        "AaMt5wMioPhOHBj/9ClfFM6MKVGu6h3axXPc1h+Xo5M=",
+        "panel-1.0.4rc1.tar.gz"
+      ],
+      "wheels": {
+        "panel-1.0.4rc1-py2.py3-none-any.whl": [
+          "cI8GI0icu73nkBzazWs3Fay/YHcGEPDGIbHuh9mPoTc=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "paneleventstudy": {
@@ -129283,6 +129349,18 @@
           "py3"
         ]
       }
+    },
+    "2.5.2a4": {
+      "sdist": [
+        "6wUkt3pFLbcKR0im0y2FFq55TeuVW9csmmtAJj1+Rdo=",
+        "rtc-tools-2.5.2a4.tar.gz"
+      ],
+      "wheels": {
+        "rtc_tools-2.5.2a4-py3-none-any.whl": [
+          "UYWuen6DLJfuPoIyq+/g0k4x+uksnTa3834GTBarti0=",
+          "py3"
+        ]
+      }
     }
   },
   "ruslat": {
@@ -142814,14 +142892,6 @@
     }
   },
   "splicekit": {
-    "0.1": {
-      "wheels": {
-        "splicekit-0.1-py3-none-any.whl": [
-          "chERG4WLM3WQVkFURZFnRnP1Mz0ZtBwcaUk67wyuSXk=",
-          "py3"
-        ]
-      }
-    },
     "0.4.1": {
       "sdist": [
         "0hJEsHZhh6FvjS/A3nE9AqcL0a6DxDVLSdApGfLv0Ww=",
@@ -142830,6 +142900,18 @@
       "wheels": {
         "splicekit-0.4.1-py3-none-any.whl": [
           "oVwqqKz0+M+gbuCAX34v/DVTpsxykYkctVFIFb/ST4o=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.2": {
+      "sdist": [
+        "ZsXaFh6m+C5hbQ/SPkMzfeQu6LrHbJ2GO6gKQ+wKsMo=",
+        "splicekit-0.4.2.tar.gz"
+      ],
+      "wheels": {
+        "splicekit-0.4.2-py3-none-any.whl": [
+          "E3LdXhUZcgTDXVSCUCZFlLeKsGbf31+XDlPlFu9Czv0=",
           "py3"
         ]
       }

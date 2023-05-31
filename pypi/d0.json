@@ -26865,6 +26865,12 @@
         "9m2LhRZEo8FpNWuIMW6PJ/x5HvE0f2s7lAP01YaVuHQ=",
         "compensating-transaction-0.0.2.tar.gz"
       ]
+    },
+    "0.0.3": {
+      "sdist": [
+        "mfzj0kn/bw7gCbCJ/LoW03CoPeDf2YVXN+G/KR46/1w=",
+        "compensating-transaction-0.0.3.tar.gz"
+      ]
     }
   },
   "comus000": {
@@ -85711,6 +85717,12 @@
           "py3"
         ]
       }
+    },
+    "0.3.2": {
+      "sdist": [
+        "yUuUJllIlsiB+/0NXGIv5KBUcgKe1cGQpnF4EHGsEq0=",
+        "pdb-toolkit-0.3.2.tar.gz"
+      ]
     }
   },
   "pdfire": {
@@ -111110,50 +111122,26 @@
     }
   },
   "simplegeomap": {
-    "0.0.21": {
+    "0.0.25": {
       "sdist": [
-        "VYBSz/ysJ+/D5KJnhGPgzJ2i/rjDiOV09GRIdc5CSGw=",
-        "simplegeomap-0.0.21.tar.gz"
+        "iLgeCbIrmBtjPz94UC3n1/cId4n4KZPRoa+YVTP0O3M=",
+        "simplegeomap-0.0.25.tar.gz"
       ],
       "wheels": {
-        "simplegeomap-0.0.21-py3-none-any.whl": [
-          "A3DmBmhMSqjEgjmizFv6aD489sj4xLkHh5VIg1Q5jU0=",
+        "simplegeomap-0.0.25-py3-none-any.whl": [
+          "fVH/bkDsvK7ki5bSXPFcwdU9c6WSOHiISogr9MgT/T4=",
           "py3"
         ]
       }
     },
-    "0.0.22": {
+    "0.0.26": {
       "sdist": [
-        "Nysu+syOxLzNI9d2FZlfgTnGGfz6oNKQk152ruk17xo=",
-        "simplegeomap-0.0.22.tar.gz"
+        "e98UJ07cbhduBxunqMC9UbQBsGXm6OkH8LBplLZyMbc=",
+        "simplegeomap-0.0.26.tar.gz"
       ],
       "wheels": {
-        "simplegeomap-0.0.22-py3-none-any.whl": [
-          "JZwlaQ7WS3Q/Epp6aH3/N+WOYXkidnnvsV4IVSoKU+U=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.23": {
-      "sdist": [
-        "BG+nkSqtntaLDHQY8dVX+FTCHu8vYZy7pE8ZqB9aRMs=",
-        "simplegeomap-0.0.23.tar.gz"
-      ],
-      "wheels": {
-        "simplegeomap-0.0.23-py3-none-any.whl": [
-          "umvIqhjaDA8AmgcspCFn8UvUaZteyi9jA9JN5Q1/0Fo=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.24": {
-      "sdist": [
-        "JI2BQEdRR63WYgZf1Lr3ZCCb46eCqbAYiFCSoQszTSQ=",
-        "simplegeomap-0.0.24.tar.gz"
-      ],
-      "wheels": {
-        "simplegeomap-0.0.24-py3-none-any.whl": [
-          "i14yz/Y/qZE5yyDcWAbIOUF8utiNhVr7eyL37Tolo3o=",
+        "simplegeomap-0.0.26-py3-none-any.whl": [
+          "hGgSJq0ypVzZfipDZNvP1pUFQaOQoyXiXgJmDzClCT0=",
           "py3"
         ]
       }
@@ -116093,6 +116081,32 @@
       }
     }
   },
+  "sprt-tandem": {
+    "0.1.1": {
+      "sdist": [
+        "6WmzI98v7TV5EGjZHnD/5QnJqDIL2Ioso/y8Kd0vzhM=",
+        "SPRT-TANDEM-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "SPRT_TANDEM-0.1.1-py3-none-any.whl": [
+          "qB8tyiG/66+TBzG29K2/ZxjdI0ltaQtM+1bJPWl0Rik=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "cD2zFkGLHp8jHKiOlt39ZQnLWugqxPTfzfWCWhonwwc=",
+        "SPRT-TANDEM-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "SPRT_TANDEM-0.1.2-py3-none-any.whl": [
+          "BMoPrDMKEkoV0qoD/JoBaORUzjTW8bwRHe/Y3Cbse1Q=",
+          "py3"
+        ]
+      }
+    }
+  },
   "sqlalchemy-auth": {
     "1.2.0": {
       "sdist": [
@@ -117178,6 +117192,18 @@
       "wheels": {
         "ssb_altinn3_util-0.0.40-py3-none-any.whl": [
           "vO1HiUp/aaxmKsPEeglQj+NJ3Vs+2LgfjpV30ubLtM4=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.41": {
+      "sdist": [
+        "Hhhougk/JkNhO9zT8anmesCvw0kZNNJdtCRPzFisD2w=",
+        "ssb_altinn3_util-0.0.41.tar.gz"
+      ],
+      "wheels": {
+        "ssb_altinn3_util-0.0.41-py3-none-any.whl": [
+          "t3nDQ9Iuws98vPJhm0VU1269196RdCmF9R2Dfqtt1q0=",
           "py3"
         ]
       }
@@ -121486,6 +121512,12 @@
       "sdist": [
         "kQTd0GjeWWjgUiDF/easgfze6ROKpfA08UUoabpvxPk=",
         "tap-typeform-2.1.0.tar.gz"
+      ]
+    },
+    "2.2.0": {
+      "sdist": [
+        "ekoYMfpYVfPmQWDvNFCXZRwGAj8L8fz/fDjdEW2jkFs=",
+        "tap-typeform-2.2.0.tar.gz"
       ]
     }
   },
@@ -131660,6 +131692,14 @@
       "wheels": {
         "tf_estimator_nightly-2.14.0.dev2023053008-py2.py3-none-any.whl": [
           "z8TXwRzLLzCicsm7ZSm7nCdG0AtBe1QX3MsSuAFIJ50=",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.14.0.dev2023053108": {
+      "wheels": {
+        "tf_estimator_nightly-2.14.0.dev2023053108-py2.py3-none-any.whl": [
+          "wBoVDdJ9rvP+IhbKI3LZowDsqiptFe+fn5s2jhNepQg=",
           "py2.py3"
         ]
       }
@@ -154330,6 +154370,18 @@
       "wheels": {
         "ytdl_sub-2023.5.28-py3-none-any.whl": [
           "+Q0qxjzu2wBntHb26trW7Mdmn5i3qYC8cr+MIJue3Q4=",
+          "py3"
+        ]
+      }
+    },
+    "2023.5.31": {
+      "sdist": [
+        "4TGYGHL8KGSGojX/eHy4dpEVDtcZik2MFccO++s0f8c=",
+        "ytdl-sub-2023.5.31.tar.gz"
+      ],
+      "wheels": {
+        "ytdl_sub-2023.5.31-py3-none-any.whl": [
+          "Up9mvV1eR5iCBJnoLwCMfl0FnMTNzJEaxdzS8TQP2cA=",
           "py3"
         ]
       }

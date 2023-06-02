@@ -73787,6 +73787,18 @@
           "py3"
         ]
       }
+    },
+    "3.6.99": {
+      "sdist": [
+        "46C3vtnNzNQ8OBvRctufLRFK5bNHJK2LrkZCajmE1EE=",
+        "jvc_projector_remote_improved2-3.6.99.tar.gz"
+      ],
+      "wheels": {
+        "jvc_projector_remote_improved2-3.6.99-py3-none-any.whl": [
+          "KC5P/FyktX0s5AYHnP7ibedR38IW4nivSE25BXHXFVA=",
+          "py3"
+        ]
+      }
     }
   },
   "kaboom-python": {
@@ -81300,13 +81312,45 @@
   "libpitlakq": {
     "0.1.0": {
       "wheels": {
+        "libpitlakq-0.1.0-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "Koglld0FS8nOaOK2uzsQIRZ5s15yuG7V7S7H0mnw5Wc=",
+          "cp310"
+        ],
+        "libpitlakq-0.1.0-cp310-cp310-macosx_11_0_arm64.whl": [
+          "h2LDJyiv1DfPJfISLH2LSvcbx3sZWflsgMQq7s5TPwY=",
+          "cp310"
+        ],
+        "libpitlakq-0.1.0-cp310-cp310-manylinux2014_x86_64.whl": [
+          "BfUFcWBz6dthSvbGs9bYeM9o7HlFZg9G9CNMcgXB70k=",
+          "cp310"
+        ],
         "libpitlakq-0.1.0-cp310-cp310-win_amd64.whl": [
           "WSzddx8zwovI7Aj+H6OaFT528S1pbp3AmfZtfv9VJx8=",
           "cp310"
         ],
+        "libpitlakq-0.1.0-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "ZL7ARjiPWBREBQ1uDvQfE+msFsT4YdfmUgQS8YUaBoI=",
+          "cp311"
+        ],
+        "libpitlakq-0.1.0-cp311-cp311-macosx_11_0_arm64.whl": [
+          "6UGBq9hCR/pNKKpCJGNPzWKz52abwMT/yfpBIPhosHg=",
+          "cp311"
+        ],
+        "libpitlakq-0.1.0-cp311-cp311-manylinux2014_x86_64.whl": [
+          "RJkl6dORcoQXf4kh8x3RZGqGkYRRT9LCi1wF1gljdiU=",
+          "cp311"
+        ],
         "libpitlakq-0.1.0-cp311-cp311-win_amd64.whl": [
           "jkRRegDDg+bOwzPPw80LMNXciBRdflzDd2bRu7wlRLE=",
           "cp311"
+        ],
+        "libpitlakq-0.1.0-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "OYgUMxkJK15PmEO45Oi34NXhy5mlvYdKATUDtzcSCGE=",
+          "cp39"
+        ],
+        "libpitlakq-0.1.0-cp39-cp39-macosx_11_0_arm64.whl": [
+          "HkujhQJnWdlfdicw2UM8nJ277Q/hsUUBH/NSPCh1epY=",
+          "cp39"
         ],
         "libpitlakq-0.1.0-cp39-cp39-manylinux2014_x86_64.whl": [
           "rSLkUuqIRAmTXP/UgnWR3MLvfIa73J6oXokTyy3R8L0=",
@@ -88620,6 +88664,18 @@
       "wheels": {
         "markata-0.6.2.dev0-py3-none-any.whl": [
           "XST8ee6NB9IqpOfnveyBXYqAeP1rxwbXrrEkB9lWyS0=",
+          "py3"
+        ]
+      }
+    },
+    "0.7.0": {
+      "sdist": [
+        "FoPl6tvDqVPCQ/F69J5k6K4P3ZFRJhvYLdigV/c5ilQ=",
+        "markata-0.7.0.tar.gz"
+      ],
+      "wheels": {
+        "markata-0.7.0-py3-none-any.whl": [
+          "uABdxbNyQNWQlh+hzChxnNMEXzPjhU/UNTCWLzW+kB8=",
           "py3"
         ]
       }
@@ -100490,6 +100546,14 @@
       "wheels": {
         "odoo14_addon_account_invoice_date_due-14.0.1.0.2.dev3-py3-none-any.whl": [
           "OZLvQb/Au95pnfEV+bQLm7Y+6ghiWQD5L6doAWWSRFI=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.1.0.2.dev4": {
+      "wheels": {
+        "odoo14_addon_account_invoice_date_due-14.0.1.0.2.dev4-py3-none-any.whl": [
+          "rIklI/HexrcFSc97HDDdctsyW+LpmShvhA7YCx9NqpE=",
           "py3"
         ]
       }
@@ -143002,6 +143066,32 @@
         ],
         "soteruser-0.2-py3-none-any.whl": [
           "SyPFNUskWDVxAKIyAuWkGQSi0X0cCXUXYuRhN2Vg3XE=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "soundmonitor": {
+    "0.0.1": {
+      "sdist": [
+        "SBhhfBL40Ai0Hg3+Np8AzaEAA28fF6LbsXlT648sPQA=",
+        "soundmonitor-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "soundmonitor-0.0.1-py3-none-any.whl": [
+          "gtAe7J8f5MQCHHvDcwkhhOtClunPio2Bv6reXd+LjBk=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "dG3xSDGxDGQJtVepW150YpiG2W+UMxDajOhqqnCu3v0=",
+        "soundmonitor-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "soundmonitor-0.0.2-py3-none-any.whl": [
+          "Di5movLq9HwnPT2ZTNIWwJ05BMeNsmrScX5Bd1W88OE=",
           "py3"
         ]
       }

@@ -18406,6 +18406,18 @@
         ]
       }
     },
+    "0.2.19": {
+      "sdist": [
+        "NiyHLybVuxfHPGRVvxgVfcoJkLcLiZcWolNDeC03wEA=",
+        "cdktf-local-exec-0.2.19.tar.gz"
+      ],
+      "wheels": {
+        "cdktf_local_exec-0.2.19-py3-none-any.whl": [
+          "v8OphIAw3RI9GVkfYcsRZ3kL5x0xbzuIbBHx/SK1/uk=",
+          "py3"
+        ]
+      }
+    },
     "0.2.2": {
       "sdist": [
         "XKVLzOWEQQ9lttulYUu0rZXygiAibFmLUTqM+DCeb4o=",
@@ -48006,6 +48018,18 @@
       "wheels": {
         "egcd-0.4.3-py3-none-any.whl": [
           "bbx5We7y+S9be4i1XTsUNlMNPJEvwbOgnvnd1Yykw/0=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.0": {
+      "sdist": [
+        "fOPZao/6zwP/mJdAWXsnzRNiIaQ4zG+0c2pltl6leBU=",
+        "egcd-0.5.0.tar.gz"
+      ],
+      "wheels": {
+        "egcd-0.5.0-py3-none-any.whl": [
+          "jQ8YVfnDKsqUUXibRv0wPYvfpf5Rgh6Ss51jbT9bED8=",
           "py3"
         ]
       }
@@ -108847,6 +108871,12 @@
         "vbEoqQViN0eSSvhy6DlbqYqqmWcAnohsOGYBCDH6crE=",
         "pagarme-python-5.7.3.tar.gz"
       ]
+    },
+    "5.7.4": {
+      "sdist": [
+        "Rv4BIwr1IiTBEkxqvU3v7ed2k4bOX89SoJnxkQXFi0c=",
+        "pagarme-python-5.7.4.tar.gz"
+      ]
     }
   },
   "pagerdutystats": {
@@ -130320,6 +130350,58 @@
         ],
         "quil-0.1.0rc0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "vp1g5TG60TFhmRSakum1BbSsTDMn3P5vwVV49asC9oI=",
+          "cp39"
+        ]
+      }
+    },
+    "0.1.1": {
+      "wheels": {
+        "quil-0.1.1-cp310-cp310-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "UmFjsf6nMoyv8N8RyMO50iV6b8x4wdsig7BJvRUGd70=",
+          "cp310"
+        ],
+        "quil-0.1.1-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "33dBqip6h2o+T5nByWck5JldVKYbdw1M0RIDDqDbnpg=",
+          "cp310"
+        ],
+        "quil-0.1.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "qg3m0pATz52THD5jkubbKC9Ba9FEC/kz5AMbASxB1j8=",
+          "cp310"
+        ],
+        "quil-0.1.1-cp311-cp311-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "Acr1nlxf8qV4BIS6B32RJ9RJQDrYfcEALoRW98P7tqs=",
+          "cp311"
+        ],
+        "quil-0.1.1-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "yn4XMtsn8BrmNK2EfJYFIDnge84/Ymnr89/07GTDJXc=",
+          "cp311"
+        ],
+        "quil-0.1.1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "OAK1XJrwxvZibkdW+9ZbyJyRTAGNdq9MHCVRqi7jDiY=",
+          "cp311"
+        ],
+        "quil-0.1.1-cp38-cp38-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "GHy02EpcpFWP9gpqc4VRFjQAlVgfSNj7n1WTvlapZ/o=",
+          "cp38"
+        ],
+        "quil-0.1.1-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "7gWyvblifkV9FH19wzHhGjhAm24EtnDIxnn5R2zXOww=",
+          "cp38"
+        ],
+        "quil-0.1.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "VvVlzkj2sylFZ6jvscVtfy7iLF7JOdtK4FeygAkxpig=",
+          "cp38"
+        ],
+        "quil-0.1.1-cp39-cp39-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "HYJhN3vz9BBOLN5YBZ+JaDd+yiFwMRcel3qIzX2+pCI=",
+          "cp39"
+        ],
+        "quil-0.1.1-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "TaWjAWrxzCPLE5iR/OtpjxQE6v2fGcP8cFI/Bzlm6Xs=",
+          "cp39"
+        ],
+        "quil-0.1.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "fk+t8u6Ud5taBbb/Rby7BWp8/1SDC2jvtxB2NT/JyxI=",
           "cp39"
         ]
       }

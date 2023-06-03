@@ -23685,6 +23685,18 @@
           "py3"
         ]
       }
+    },
+    "4.0.3": {
+      "sdist": [
+        "t/UG9YD1mRcMtkKjXmNwG68kKF+fQXTY7bnM3a/TSNc=",
+        "cdktf-cdktf-provider-hcp-4.0.3.tar.gz"
+      ],
+      "wheels": {
+        "cdktf_cdktf_provider_hcp-4.0.3-py3-none-any.whl": [
+          "FWJPbDdYodEeYh2ABYqt4tARIJQ4PYHFxx/6VLbAbIg=",
+          "py3"
+        ]
+      }
     }
   },
   "cdktf-cdktf-provider-opc": {
@@ -38480,6 +38492,18 @@
         ]
       }
     },
+    "23.3": {
+      "sdist": [
+        "NT9okwZuem70aTMO0eZsoxlDW376tjGywURw6oSsBWs=",
+        "django_icons-23.3.tar.gz"
+      ],
+      "wheels": {
+        "django_icons-23.3-py3-none-any.whl": [
+          "rueNx0jLH64tHPCQlgGR4eK2Uk/rSflskE3QjYjZYBo=",
+          "py3"
+        ]
+      }
+    },
     "3.0.0": {
       "sdist": [
         "aOIafkdRfZ8z2oqKKyDWWTQr94d+zpTRKju5Wql7YAI=",
@@ -46622,6 +46646,14 @@
       "wheels": {
         "dolphin_python-0.0.7-py2.py3-none-any.whl": [
           "MlvNpnqPsBzTxr4NNDOyvT2vs4PonCznDffrI0dlMzU=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.8": {
+      "wheels": {
+        "dolphin_python-0.0.8-py2.py3-none-any.whl": [
+          "C660SLXMPn/g1KVGEXHb8wQFMcM5eAhbaEaHyiWCTAE=",
           "py2.py3"
         ]
       }
@@ -86342,6 +86374,14 @@
       "wheels": {
         "odoo_addon_account_banking_sepa_credit_transfer-15.0.2.0.1-py3-none-any.whl": [
           "IeK4l9Ui8q0Qb+lsPPdEFS8XNs2InHwRH8rXfsLnphA=",
+          "py3"
+        ]
+      }
+    },
+    "16.0.1.0.0.2": {
+      "wheels": {
+        "odoo_addon_account_banking_sepa_credit_transfer-16.0.1.0.0.2-py3-none-any.whl": [
+          "bv+GA4ZKUJDpI9SWuhYXz4kc7zZq4qZUkHBWmUCit8A=",
           "py3"
         ]
       }
@@ -131993,6 +132033,68 @@
         "NzfJuKHrS5Gj9fBdVSDYezECj+2s04mPW769y44Qmeo=",
         "streamlit_stepper_bar-0.0.8.tar.gz"
       ]
+    }
+  },
+  "streams-py": {
+    "0.1.0": {
+      "sdist": [
+        "DkXaeO4h0vul+SWgsG5SWZYKJQBaSo3RPRR1ANnJpyk=",
+        "streams.py-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "streams.py-0.1.0-py3-none-any.whl": [
+          "BFnsc3hvnnEBGY4DSsuc+mhYx/o4Y4uJWZirtAfDZ2k=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "AU4CEu0LV2q7egwijgBy7DdoRYjqTCd1DjUPZBpqwnA=",
+        "streams.py-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "streams.py-0.1.1-py3-none-any.whl": [
+          "WLeSEieLOfHT86Kk7+92S4oyxRNauBMW7Oi1PESFrRo=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "1pEVzCQoTa9CqWsClv6pZXx76iDLZandosVqWfcKA0s=",
+        "streams.py-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "streams.py-0.1.2-py3-none-any.whl": [
+          "3DYEfosZy8ahINZQW/EJowlbHKnvVcaHh3L6A7Fs1fA=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.3": {
+      "sdist": [
+        "YH73BM63qNDevu7MkQhwx7mkq+t5IxtV2A59oz6SHIY=",
+        "streams.py-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "streams.py-0.1.3-py3-none-any.whl": [
+          "7f4XnRNH3Oso6wl5Vd/GrSvhPD9WX7dv/R5lEBFbZ5U=",
+          "py3"
+        ]
+      }
+    },
+    "0.2": {
+      "sdist": [
+        "mNCxS6QCcKlH6sWFXB1k4bvML+iQyPMKheqSAaV4ypU=",
+        "streams_py-0.2.tar.gz"
+      ],
+      "wheels": {
+        "streams_py-0.2-py3-none-any.whl": [
+          "fN9BQt0rBNgeZMcJ1fnOMLaZTn5UiWKyj+mFR9dvSNg=",
+          "py3"
+        ]
+      }
     }
   },
   "stringdb": {

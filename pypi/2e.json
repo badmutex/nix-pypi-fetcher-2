@@ -49920,6 +49920,14 @@
         ]
       }
     },
+    "0.21.6": {
+      "wheels": {
+        "fds.sdk.Publisher-0.21.6-py3-none-any.whl": [
+          "jJGU9Vbtbphq+LcdjOdMSFRaQYXTo9RNhxsovoPbrZk=",
+          "py3"
+        ]
+      }
+    },
     "0.8.0": {
       "wheels": {
         "fds.sdk.Publisher-0.8.0-py3-none-any.whl": [
@@ -49988,6 +49996,14 @@
       "wheels": {
         "fds.sdk.Publisher-0.8.8-py3-none-any.whl": [
           "cEOTM+DXZ54kxQ70X+YXiVUwW5MDp4f0aGaqCNt4G4k=",
+          "py3"
+        ]
+      }
+    },
+    "0.8.9": {
+      "wheels": {
+        "fds.sdk.Publisher-0.8.9-py3-none-any.whl": [
+          "0MP4sXSCJWZR7t1ubch1nSAZcvjEDKY1f2qWK5T7l0A=",
           "py3"
         ]
       }
@@ -68509,6 +68525,18 @@
           "py3"
         ]
       }
+    },
+    "0.2.2": {
+      "sdist": [
+        "ta4Qk0D7IPJH7zNQZottpTbVc1bSwONx6JXP7sDtkPg=",
+        "ilastik-napari-0.2.2.tar.gz"
+      ],
+      "wheels": {
+        "ilastik_napari-0.2.2-py3-none-any.whl": [
+          "u5bRAQhPOrDO8+WloN2Lt0ryvV29xQygAYJzxanDpIE=",
+          "py3"
+        ]
+      }
     }
   },
   "ilision": {
@@ -78710,6 +78738,18 @@
       "sdist": [
         "4oV8750OxlkBHIoQoGfyWEogLrMh6TxgYR1w5DWRFls=",
         "libcnmc-23.54.0.tar.gz"
+      ]
+    },
+    "23.54.1": {
+      "sdist": [
+        "r4bD15XsrVfbCgiQktDYL7nF9FSLJ15SCLVFZAAruYs=",
+        "libcnmc-23.54.1.tar.gz"
+      ]
+    },
+    "23.55.0": {
+      "sdist": [
+        "/sderkeBFtjZlTjLXHgbAR1Z1HaM42cM5vllRGUVg/E=",
+        "libcnmc-23.55.0.tar.gz"
       ]
     },
     "23.6.0": {
@@ -111273,6 +111313,44 @@
         "Td7gYnsosvqIcskFYtvxD3It6wMDA+RrxLV1S/PllrI=",
         "prometeo-dsl-0.0.9.tar.gz"
       ]
+    }
+  },
+  "prometheus-dirsize-exporter": {
+    "1.0.1": {
+      "sdist": [
+        "PZSsgQEBHxZbqaA3sh69gzA1SMWwnVmMplDjBkuwERA=",
+        "prometheus-dirsize-exporter-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "prometheus_dirsize_exporter-1.0.1-py3-none-any.whl": [
+          "ymbhYZ3epfG4HcKHK6HcWDfs45oNnWNUSQfRXCjDsCw=",
+          "py3"
+        ]
+      }
+    },
+    "1.1": {
+      "sdist": [
+        "N2mjCrVCofzcS74d6iqISd8NRyEc3o57gY4qDG/zkyc=",
+        "prometheus-dirsize-exporter-1.1.tar.gz"
+      ],
+      "wheels": {
+        "prometheus_dirsize_exporter-1.1-py3-none-any.whl": [
+          "1kKv2h2PAmCr53IaJD0XI4ZWF5zE4/lmIpCELCNwuQ0=",
+          "py3"
+        ]
+      }
+    },
+    "1.2": {
+      "sdist": [
+        "0dqUtaNKv4eR0+VqDeF1jHSecQ354MFpVRbDBIzgSgs=",
+        "prometheus-dirsize-exporter-1.2.tar.gz"
+      ],
+      "wheels": {
+        "prometheus_dirsize_exporter-1.2-py3-none-any.whl": [
+          "jzLci77jG17diiihNre8KvS6E8W4my3t9uiIXcD1lW4=",
+          "py3"
+        ]
+      }
     }
   },
   "prometheus-pgbouncer-exporter": {

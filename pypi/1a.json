@@ -46789,6 +46789,14 @@
           "py3"
         ]
       }
+    },
+    "0.22.6": {
+      "wheels": {
+        "fds.sdk.DirectStreamingofTransactionMessages-0.22.6-py3-none-any.whl": [
+          "WqajQ/z8YIwbssA9Zb29GBFN0BoKcRlGhq1ZciL22VE=",
+          "py3"
+        ]
+      }
     }
   },
   "fetch-aws-secrets-test": {
@@ -48578,6 +48586,18 @@
         ],
         "fleetspeak_server_bin-0.1.11-py2.py3-none-manylinux2010_x86_64.whl": [
           "ayZ/GRvxJBn4wdasIkr3bSd7yC5KIbOXrV3Cc1G36Sw=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.1.12": {
+      "wheels": {
+        "fleetspeak_server_bin-0.1.12-py2.py3-none-manylinux1_x86_64.whl": [
+          "OwCw647CmCGOdvUhcYREosRKRxE62fcq86IBdaPNbxQ=",
+          "py2.py3"
+        ],
+        "fleetspeak_server_bin-0.1.12-py2.py3-none-manylinux2010_x86_64.whl": [
+          "cYuFzj1OhTitdZid9nnl7QXKo1pCZRLS0kVTbr40OlA=",
           "py2.py3"
         ]
       }
@@ -128556,6 +128576,18 @@
         ]
       }
     },
+    "1.2.27": {
+      "sdist": [
+        "WSEyQWpajjyxLb8fURYOenPP5H6zeFxdy56U3VFDI2o=",
+        "pyubx2-1.2.27.tar.gz"
+      ],
+      "wheels": {
+        "pyubx2-1.2.27-py3-none-any.whl": [
+          "5U4SzLmdwPjjWoLbGTuaOzqvUtomSFJFvpxQ2sFV4WU=",
+          "py3"
+        ]
+      }
+    },
     "1.2.3": {
       "sdist": [
         "UPDWeS9oshPjg5hIQS2K5i1DUT0wRVwABJELq3mdc9c=",
@@ -143440,29 +143472,11 @@
     }
   },
   "soundmonitor": {
-    "0.0.1": {
+    "0.0.3": {
       "sdist": [
-        "SBhhfBL40Ai0Hg3+Np8AzaEAA28fF6LbsXlT648sPQA=",
-        "soundmonitor-0.0.1.tar.gz"
-      ],
-      "wheels": {
-        "soundmonitor-0.0.1-py3-none-any.whl": [
-          "gtAe7J8f5MQCHHvDcwkhhOtClunPio2Bv6reXd+LjBk=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.2": {
-      "sdist": [
-        "dG3xSDGxDGQJtVepW150YpiG2W+UMxDajOhqqnCu3v0=",
-        "soundmonitor-0.0.2.tar.gz"
-      ],
-      "wheels": {
-        "soundmonitor-0.0.2-py3-none-any.whl": [
-          "Di5movLq9HwnPT2ZTNIWwJ05BMeNsmrScX5Bd1W88OE=",
-          "py3"
-        ]
-      }
+        "egxSAUFcsT7zy2SqyeI25OGp9sI5nAzss0vRE7NkWNg=",
+        "soundmonitor-0.0.3.tar.gz"
+      ]
     }
   },
   "souper.plone": {

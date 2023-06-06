@@ -46352,6 +46352,14 @@
         ]
       }
     },
+    "1.1.271": {
+      "wheels": {
+        "DKCloudCommand-1.1.271-py2.py3-none-any.whl": [
+          "sZhj6bmyvJ0tznHoNJZfdyADXrXMTlE4tJUWNuYPsJI=",
+          "py2.py3"
+        ]
+      }
+    },
     "1.1.271rc1": {
       "wheels": {
         "DKCloudCommand-1.1.271rc1-py2.py3-none-any.whl": [
@@ -79813,6 +79821,18 @@
           "py3"
         ]
       }
+    },
+    "0.2.4": {
+      "sdist": [
+        "v0BEuVGjkfmh7a5preaimALYZA59zjlXNebqemQOzvM=",
+        "mlflow_oidc_client-0.2.4.tar.gz"
+      ],
+      "wheels": {
+        "mlflow_oidc_client-0.2.4-py3-none-any.whl": [
+          "bCsrVj+xG++VNusCgqQkohhCt3zMgu1lYkpU3KmXDww=",
+          "py3"
+        ]
+      }
     }
   },
   "mlpkg": {
@@ -86842,6 +86862,16 @@
       "wheels": {
         "odoo_addon_mail_outbound_static-16.0.1.0.1-py3-none-any.whl": [
           "w4VbADzVvDcdMDGExBTAsTKKasMzY0xx2nzE7SatVm0=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "odoo-addon-mrp-production-serial-matrix": {
+    "15.0.0.1.0.2": {
+      "wheels": {
+        "odoo_addon_mrp_production_serial_matrix-15.0.0.1.0.2-py3-none-any.whl": [
+          "YSDcTW3IGHgUJmeb9raJdWGlCtZme/PbAh/6Kej6I48=",
           "py3"
         ]
       }
@@ -102112,6 +102142,30 @@
       "wheels": {
         "pepperize.projen_awscdk_app_ts-0.0.486-py3-none-any.whl": [
           "dniFYHlT8pc0KHTR56K7z8u4nv1/oJ6ge5oTbJDTpNo=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.487": {
+      "sdist": [
+        "5KDvwHNNDku+dV4Vtv+ISjayjUxLQ/sfXCg28NFMAqc=",
+        "pepperize.projen-awscdk-app-ts-0.0.487.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.projen_awscdk_app_ts-0.0.487-py3-none-any.whl": [
+          "uggO8FXVlzSYSePSnVueg8FKLy1DSKxA1QDnkas9QqI=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.488": {
+      "sdist": [
+        "P+bY2anbAPvsYIvtj01AzamMbloIwfUG2fQVevIhAB8=",
+        "pepperize.projen-awscdk-app-ts-0.0.488.tar.gz"
+      ],
+      "wheels": {
+        "pepperize.projen_awscdk_app_ts-0.0.488-py3-none-any.whl": [
+          "1bWvcyAeeTR0XyxJp5ZQW4HdnWO7bClmDG5jzCZDjwk=",
           "py3"
         ]
       }
@@ -155028,6 +155082,18 @@
       "wheels": {
         "watchmen_storage_mssql-16.5.4-py3-none-any.whl": [
           "W809JAGUQwcNthUzfHnG8Dg9cktgRRehLMwBvdUMy7g=",
+          "py3"
+        ]
+      }
+    },
+    "16.5.5": {
+      "sdist": [
+        "BDZkfRlRLwQqZt4jlqIS6maaFXlQXkBMK6RwT2lPh6w=",
+        "watchmen_storage_mssql-16.5.5.tar.gz"
+      ],
+      "wheels": {
+        "watchmen_storage_mssql-16.5.5-py3-none-any.whl": [
+          "m2Nm6m720YvT8t1Xq73g+c3QnKAOQxxwfbI2BO1xnjs=",
           "py3"
         ]
       }

@@ -22172,6 +22172,12 @@
         "bw2data-4.0.dev18.tar.gz"
       ]
     },
+    "4.0.dev19": {
+      "sdist": [
+        "vW7stgnVkDzuqr96ROceBuFt9dv/fw6TqO/ONC39E1c=",
+        "bw2data-4.0.dev19.tar.gz"
+      ]
+    },
     "4.0.dev2": {
       "sdist": [
         "boRd1Gdx8NFGjbO9vG32QoyDdWJfT7P6NOkHKWETNbg=",
@@ -42679,6 +42685,14 @@
           "py3"
         ]
       }
+    },
+    "0.21.6": {
+      "wheels": {
+        "fds.sdk.ExchangeDataFeedSnapshotAPIEntireExchange-0.21.6-py3-none-any.whl": [
+          "9MMgrpj0lsUgHQg7ZAy9MpKuhAZuw0StzqsIphtsXuM=",
+          "py3"
+        ]
+      }
     }
   },
   "fds.sdk.factsetownershipreportbuilder": {
@@ -42734,6 +42748,14 @@
       "wheels": {
         "fds.sdk.FactSetOwnershipReportBuilder-1.0.4-py3-none-any.whl": [
           "0dLFl8F8fpWaWDuds8vKE8F+7cCE+jFmKfac9+pPxAs=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.5": {
+      "wheels": {
+        "fds.sdk.FactSetOwnershipReportBuilder-1.0.5-py3-none-any.whl": [
+          "3RffHkGSpPwt//LPoec5uQvwW4Q4OmXYP9yIEdtZLtI=",
           "py3"
         ]
       }
@@ -111632,26 +111654,14 @@
     }
   },
   "simplegeomap": {
-    "0.0.26": {
+    "0.0.29": {
       "sdist": [
-        "e98UJ07cbhduBxunqMC9UbQBsGXm6OkH8LBplLZyMbc=",
-        "simplegeomap-0.0.26.tar.gz"
+        "ELV8wMv4n7Thvg7ShBWAvWBV3OsKwxPZfD1vFMq0cCw=",
+        "simplegeomap-0.0.29.tar.gz"
       ],
       "wheels": {
-        "simplegeomap-0.0.26-py3-none-any.whl": [
-          "hGgSJq0ypVzZfipDZNvP1pUFQaOQoyXiXgJmDzClCT0=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.27": {
-      "sdist": [
-        "Ct6P2/atpIGBe960iwrSABeRGGIFMQqKBvoiqNyRahk=",
-        "simplegeomap-0.0.27.tar.gz"
-      ],
-      "wheels": {
-        "simplegeomap-0.0.27-py3-none-any.whl": [
-          "kyOaMKKnZTamnZ/w+N6wLG0zbqaScjb7OaipBM/Vgtg=",
+        "simplegeomap-0.0.29-py3-none-any.whl": [
+          "MWCIyDa9fVl0qMKao3PDeh735eb9XXuVEm8ulPEM6Rk=",
           "py3"
         ]
       }
@@ -121042,6 +121052,30 @@
       "wheels": {
         "swh.storage-1.14.1-py3-none-any.whl": [
           "jbvc2M3+2Rqlml6yU3daiDgG7vRQpvOr82Inncpsvo4=",
+          "py3"
+        ]
+      }
+    },
+    "1.14.2": {
+      "sdist": [
+        "cBljF5folJAwIQYHW4db2BRj1wAWkvLeRYOpPIqrmFw=",
+        "swh.storage-1.14.2.tar.gz"
+      ],
+      "wheels": {
+        "swh.storage-1.14.2-py3-none-any.whl": [
+          "mkY9cwRm5H2VQdGMK3ZiTFXZfB7QV74eB89Aklt0vKw=",
+          "py3"
+        ]
+      }
+    },
+    "1.14.3": {
+      "sdist": [
+        "qW4E9PDw1RD2jIM1E6WkaqQNbWVbDTaz2Ukwwjd/WY4=",
+        "swh.storage-1.14.3.tar.gz"
+      ],
+      "wheels": {
+        "swh.storage-1.14.3-py3-none-any.whl": [
+          "YT8zhRtQXxWynFDxuEmBTsWloimOvTF2lY14TONXYgA=",
           "py3"
         ]
       }

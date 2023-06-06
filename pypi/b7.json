@@ -4623,6 +4623,64 @@
       }
     }
   },
+  "am4utils": {
+    "0.1.0": {
+      "sdist": [
+        "yj4285xpkI7zm9ODK4fIcC3m27rk4yy+dsapQGfhpg8=",
+        "am4utils-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "am4utils-0.1.0-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "/7V+wibSJqUV4CVoK/LP72QKAfH1Z0N01pePosn/Jog=",
+          "cp310"
+        ],
+        "am4utils-0.1.0-cp310-cp310-macosx_11_0_arm64.whl": [
+          "m79IHWI1T5JvVTLBLIAfJlqqbGzZrPUqtK53IpQ2Sn0=",
+          "cp310"
+        ],
+        "am4utils-0.1.0-cp310-cp310-manylinux_2_24_x86_64.whl": [
+          "qIWRdEm1u1kWCQleyvqX8pjpfsunBujlAKrIKCEFk/w=",
+          "cp310"
+        ],
+        "am4utils-0.1.0-cp310-cp310-win_amd64.whl": [
+          "ngcXImVHygutE0a6yzcjfCWgHGYrZSgsEVsekHkihz4=",
+          "cp310"
+        ],
+        "am4utils-0.1.0-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "a14Bz/eoBj2kQP1YNGWeSWYfFi2Oegvu7szd2eFX5MY=",
+          "cp311"
+        ],
+        "am4utils-0.1.0-cp311-cp311-macosx_11_0_arm64.whl": [
+          "wSkdZzLz/DzX5Vn3l701qaPavAc5AzC3VN7BzWyxi28=",
+          "cp311"
+        ],
+        "am4utils-0.1.0-cp311-cp311-manylinux_2_24_x86_64.whl": [
+          "P+5yPy3UkDDSgo5f/TX++6Uu8uEQkgSFDUObUp8MTcs=",
+          "cp311"
+        ],
+        "am4utils-0.1.0-cp311-cp311-win_amd64.whl": [
+          "JoGHxiFObBUyY25xj2u43rnssjXecf7CEvUSuPGbLZM=",
+          "cp311"
+        ],
+        "am4utils-0.1.0-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "QCfxMcjDVetbgFWdVwjybQk6kAlYlxWTAauyPn/gfs0=",
+          "cp39"
+        ],
+        "am4utils-0.1.0-cp39-cp39-macosx_11_0_arm64.whl": [
+          "oSmPVU40CFgVSE65tuiMoxbhs5h67oOYb1IncUsFFz8=",
+          "cp39"
+        ],
+        "am4utils-0.1.0-cp39-cp39-manylinux_2_24_x86_64.whl": [
+          "kqjPknLgQvAcvJrqjve7MEkEphwCm32TIqXTJUwHGHg=",
+          "cp39"
+        ],
+        "am4utils-0.1.0-cp39-cp39-win_amd64.whl": [
+          "BaUJAgCHxqTcIOkj/hEbx68kMy97U3IkIuqfSSe+Oyw=",
+          "cp39"
+        ]
+      }
+    }
+  },
   "amsin": {
     "0.0.0": {
       "sdist": [
@@ -18536,6 +18594,18 @@
       "wheels": {
         "cdktf_local_exec-0.2.21-py3-none-any.whl": [
           "vjjBEq+PB1vuIPrATVW8uVabeXzgWrUsSS/ro+94paQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.22": {
+      "sdist": [
+        "sHIz5ixjSIZn2qIgzQWssCQjcCr7Qxoz+XngD4X9Ero=",
+        "cdktf-local-exec-0.2.22.tar.gz"
+      ],
+      "wheels": {
+        "cdktf_local_exec-0.2.22-py3-none-any.whl": [
+          "63aidg+JMRiAJuzK0AoHyXHz4lN0e3OEkZ1x6WRzaE0=",
           "py3"
         ]
       }
@@ -102341,6 +102411,14 @@
           "py3"
         ]
       }
+    },
+    "15.0.1.0.1": {
+      "wheels": {
+        "odoo_addon_website_whatsapp-15.0.1.0.1-py3-none-any.whl": [
+          "wjmAURt1PxjQeojR+y2ggZa3TpFFnxjRyaSgHKC2K00=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo10-addon-mgmtsystem-review": {
@@ -107334,6 +107412,18 @@
       "wheels": {
         "osu_wiki_tools-1.1.3-py3-none-any.whl": [
           "sCZdLXy4ZZsPCbbOGmfIlAbfDUums51zz+zg9prvbgg=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.4": {
+      "sdist": [
+        "q2554u2ECj2vI7ne79innyVAoI0l7MzxHEzz03CIWOE=",
+        "osu-wiki-tools-1.1.4.tar.gz"
+      ],
+      "wheels": {
+        "osu_wiki_tools-1.1.4-py3-none-any.whl": [
+          "uGndzRi21VOxPf4TNJl7vrfIOM4HdZSVl0moD4jKzMM=",
           "py3"
         ]
       }
@@ -141724,6 +141814,18 @@
       "wheels": {
         "slack_to_discord-1.1.3-py3-none-any.whl": [
           "n8d4V8ecz2nX3AGi7miqsY4OhHbM4rWwkMU0UnO54io=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.4": {
+      "sdist": [
+        "DgdKP46NNa31YfdG8kYqPsvaWqpSvPAgAu8WjiZyXUI=",
+        "slack-to-discord-1.1.4.tar.gz"
+      ],
+      "wheels": {
+        "slack_to_discord-1.1.4-py3-none-any.whl": [
+          "kG7UWEltr8tDKjG6e+MvFbO/rVq8ILq7+h9RaqOsIYs=",
           "py3"
         ]
       }

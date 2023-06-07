@@ -58,14 +58,14 @@
     }
   },
   "ablator": {
-    "0.1": {
+    "0.0.1b1": {
       "sdist": [
-        "GF6Y4UOy7xBmH5tL6gAVpCLNNzvmmAtzjmQcLemtz3I=",
-        "ablator-0.1.tar.gz"
+        "CBtS/TEngkyjROkQG6TtxjKjZrKLJ4uTgN45yShAUh4=",
+        "ablator-0.0.1b1.tar.gz"
       ],
       "wheels": {
-        "ablator-0.1-py3-none-any.whl": [
-          "kD/DVgYzD+IjF1xuS2790+IsoVK/CvmbjavSB5LAHl0=",
+        "ablator-0.0.1b1-py3-none-any.whl": [
+          "38SSfckVNZhSxIQH2l0qxnJz70DqvPgSZ1tkoOV29kg=",
           "py3"
         ]
       }
@@ -15197,6 +15197,18 @@
           "py3"
         ]
       }
+    },
+    "0.4.0": {
+      "sdist": [
+        "uURhFA4CcJ9/TdUo+D2Lxi/wnoXzZmrAlTWEums4WKg=",
+        "bmtool-0.4.0.tar.gz"
+      ],
+      "wheels": {
+        "bmtool-0.4.0-py3-none-any.whl": [
+          "90pYqpk3fRMfiSUtIBNdHE5jR40f5gEIhPF4Ac3URbE=",
+          "py3"
+        ]
+      }
     }
   },
   "bolt": {
@@ -15820,6 +15832,18 @@
       "wheels": {
         "bolt-0.35.0-py3-none-any.whl": [
           "3CpxHahzFw0FDvBQDhJLNNybw3aP5AWCEgPVko91BRA=",
+          "py3"
+        ]
+      }
+    },
+    "0.36.0": {
+      "sdist": [
+        "yi3JVCDrw4ti9rUkQLBQEIbbKvFOMieAouVk0WWlbyU=",
+        "bolt-0.36.0.tar.gz"
+      ],
+      "wheels": {
+        "bolt-0.36.0-py3-none-any.whl": [
+          "Ye8QdK/qWnQVV+FEoZXgw7ywmRj7T+KM4wHRKOKwiZg=",
           "py3"
         ]
       }
@@ -17516,6 +17540,18 @@
         ]
       }
     },
+    "1.29.148": {
+      "sdist": [
+        "GXx0XzSgubaqzAw4npjX6pGH5ryOrpNGK4mXfJgrt8I=",
+        "botocore-a-la-carte-chime-sdk-voice-1.29.148.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_chime_sdk_voice-1.29.148-py3-none-any.whl": [
+          "SEPM4NaLPRXXz1qL3CURSzRYzCbtLh1+OVM9u5x5WWU=",
+          "py3"
+        ]
+      }
+    },
     "1.29.42": {
       "sdist": [
         "m69XijwA+/Veil26qpRUuQwgsXVNOZQ60hGPbYmtq70=",
@@ -18774,6 +18810,18 @@
       "wheels": {
         "botocore_a_la_carte_mwaa-1.29.147-py3-none-any.whl": [
           "Dpv16gKHy71RecJlm4NXt+rtRUuc5bng2Ye5CPiSZkI=",
+          "py3"
+        ]
+      }
+    },
+    "1.29.148": {
+      "sdist": [
+        "Gm3nmsMix1yXVOpFnnFw/vciIYpwEDoiZkWeSRPLUao=",
+        "botocore-a-la-carte-mwaa-1.29.148.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_mwaa-1.29.148-py3-none-any.whl": [
+          "yjdVJCksWRN/0tmsWzkcHzOc+P36viemkmUZyIRUzq8=",
           "py3"
         ]
       }
@@ -23914,6 +23962,18 @@
       "wheels": {
         "cdk_budibase-0.0.67-py3-none-any.whl": [
           "qR107wDJHZ6KQNZCW1XM4pSBcbU6byHuG39yOWwj5NA=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.68": {
+      "sdist": [
+        "HlAHSgpL+ZKqPsCWuWSFyaJ776wq3Whk/76l2BO8e2U=",
+        "cdk-budibase-0.0.68.tar.gz"
+      ],
+      "wheels": {
+        "cdk_budibase-0.0.68-py3-none-any.whl": [
+          "WGekrkmOjeN041kgPf0V/PfmoqYcEc6uMa+BqG6MfOg=",
           "py3"
         ]
       }
@@ -80852,6 +80912,14 @@
         ]
       }
     },
+    "14.0.2.0.1.dev17": {
+      "wheels": {
+        "odoo14_addon_account_banking_mandate-14.0.2.0.1.dev17-py3-none-any.whl": [
+          "p73uw7ueKho7NT0CdnUmJXiaWiBOdQNSPuxi9UQ40p0=",
+          "py3"
+        ]
+      }
+    },
     "14.0.2.0.1.dev2": {
       "wheels": {
         "odoo14_addon_account_banking_mandate-14.0.2.0.1.dev2-py3-none-any.whl": [
@@ -101026,6 +101094,12 @@
       "sdist": [
         "n4UlfdFHuPi641zd6bC4RenGjs9qaI20gqN+067Se1g=",
         "pyzm-0.3.6.tar.gz"
+      ]
+    },
+    "0.3.60": {
+      "sdist": [
+        "guQzlKGtmMdkYvpLYBfK9SqKna09RF3MZCFWfS9h7BI=",
+        "pyzm-0.3.60.tar.gz"
       ]
     },
     "0.3.7": {
@@ -125858,6 +125932,18 @@
       "wheels": {
         "tencentcloud_sdk_python_dasb-3.0.907-py2.py3-none-any.whl": [
           "ExBeADBu5Ja+JJcej5AZ3k/2dPLH/GZBRFM3noUSZAo=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.908": {
+      "sdist": [
+        "/k0fbWXOEZWjt83iHbj5MMqb+/dpSHzEQQn+5+cQ0S8=",
+        "tencentcloud-sdk-python-dasb-3.0.908.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_dasb-3.0.908-py2.py3-none-any.whl": [
+          "JdCUrnP3fUB2GL5DGzp2QwOI0EMWm0Loias7t8kHqOQ=",
           "py2.py3"
         ]
       }

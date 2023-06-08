@@ -24644,6 +24644,18 @@
         ]
       }
     },
+    "0.24.1": {
+      "sdist": [
+        "M5wbrwTfVwtYrJ7tJ4+71qizInJBjk7GnLr6nJsx/vY=",
+        "codat-bankfeeds-0.24.1.tar.gz"
+      ],
+      "wheels": {
+        "codat_bankfeeds-0.24.1-py3-none-any.whl": [
+          "uUcOa9c9HEwJU92Psor+bxHhu2+jUhqciGSvsnew8WQ=",
+          "py3"
+        ]
+      }
+    },
     "0.4.0": {
       "sdist": [
         "sNhCpu7sCUXmLfV9UqeEqL+kJ+oHlIRYvZfOV4kiyy4=",
@@ -61808,6 +61820,30 @@
         ]
       }
     },
+    "6.103.3": {
+      "sdist": [
+        "UQWn8BpJjG9IeCuc2dFT/wWb9csqdNSbIHneQBxjTOM=",
+        "gdsfactory-6.103.3.tar.gz"
+      ],
+      "wheels": {
+        "gdsfactory-6.103.3-py3-none-any.whl": [
+          "dFhNNMHoxbnX9KVFejyZtr+vgKrVi3CArgwFGolwyaE=",
+          "py3"
+        ]
+      }
+    },
+    "6.103.4": {
+      "sdist": [
+        "it1kNuhLq8TOxBSlSTPg79mxcgBQVpqtWKQkPzGCOjw=",
+        "gdsfactory-6.103.4.tar.gz"
+      ],
+      "wheels": {
+        "gdsfactory-6.103.4-py3-none-any.whl": [
+          "S7ejwNmOIJHdshtgOBpbtFtjNMafWf6PnJQTcNuGMtI=",
+          "py3"
+        ]
+      }
+    },
     "6.11.0": {
       "sdist": [
         "hGFWCpKBf5tB7Od5isyFMarFQQhipfwF5qbxQAzV4og=",
@@ -76989,6 +77025,30 @@
           "cp37"
         ]
       }
+    },
+    "1.0.9": {
+      "sdist": [
+        "CKspjqxVhsiIev61uxca6JA36I2BRBRNFQ2lpghVx/U=",
+        "kgraph-1.0.9.tar.gz"
+      ],
+      "wheels": {
+        "kgraph-1.0.9-cp37-cp37m-manylinux_2_24_x86_64.manylinux_2_27_x86_64.whl": [
+          "/UoQRWS3IO2gcopovu4yE2YfqqIk/VyiTBcLLsHMnCg=",
+          "cp37"
+        ],
+        "kgraph-1.0.9-cp37-cp37m-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl": [
+          "oBxNQ0AfuHrqOiHR/MMvDZIpdDRb36TuHdw/XJZYd2w=",
+          "cp37"
+        ],
+        "kgraph-1.0.9-cp37-cp37m-manylinux_2_24_x86_64.manylinux_2_31_x86_64.whl": [
+          "v/L+pHfo1nxb6IR7DYZtNFXtN34VpZAS/Ly57FMuNCI=",
+          "cp37"
+        ],
+        "kgraph-1.0.9-cp37-cp37m-win_amd64.whl": [
+          "SLwAeYFiP4Kmdj7lDZzkHm8fr5AsjrBGuoEUNRzxSfs=",
+          "cp37"
+        ]
+      }
     }
   },
   "khufu-javascript": {
@@ -87966,6 +88026,18 @@
       "wheels": {
         "macro_kit-0.4.2-cp311-cp311-win_amd64.whl": [
           "BHdCOHiHigU3Qcp6CRu2+lw/fX9OcoGKm4COFqgst6E=",
+          "cp311"
+        ]
+      }
+    },
+    "0.4.3": {
+      "sdist": [
+        "F1tWf0PeZIRTjA+qxaW6IR+bPfsduTY61JPXKKE9lWU=",
+        "macro-kit-0.4.3.tar.gz"
+      ],
+      "wheels": {
+        "macro_kit-0.4.3-cp311-cp311-win_amd64.whl": [
+          "aS0tdQeX+58ycAj+d3FOgAyS6+N72WIuzRI/RIf+MCg=",
           "cp311"
         ]
       }
@@ -108613,6 +108685,24 @@
         "yVNH4zPEeLRKukWAzhauV84aiDg4sB6ZDU5BiBWJzTE=",
         "pikanetwork.py-1.0.0.tar.gz"
       ]
+    },
+    "1.0.1": {
+      "sdist": [
+        "AQ4JkqgXwh8zl4h6YBYmU5KUkupjdrEVEZKQdV7YNYQ=",
+        "pikanetwork.py-1.0.1.tar.gz"
+      ]
+    },
+    "1.0.2": {
+      "sdist": [
+        "J5xbFscR+bPs49t+LnwGv5TVRfdOPbb4/GHJ3HlJ2dU=",
+        "pikanetwork.py-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "pikanetwork.py-1.0.2-py3-none-any.whl": [
+          "wJMizQp6wAF88zSVCeG0FJvBhb3j+454AbM1zV7NknE=",
+          "py3"
+        ]
+      }
     }
   },
   "pinax-stripe-fixed2": {
@@ -113734,6 +113824,20 @@
       "wheels": {
         "Pxucz-0.0.1.8-py3-none-any.whl": [
           "UzhuqzdgXgFN2PSmaccheUcoqlD69fdKY6LX5apINuQ=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "py-bigdata-util": {
+    "0.1.0": {
+      "sdist": [
+        "pm3/CNoO/A0bsglznqHQ2mU6nQ9rsdbY5xYs5Ci5fkY=",
+        "py-bigdata-util-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "py_bigdata_util-0.1.0-py3-none-any.whl": [
+          "mKZZQ63XUu4MRC72ywI44sJjfqdaRhTOSY2YS/SkRJo=",
           "py3"
         ]
       }
@@ -137677,6 +137781,18 @@
           "py3"
         ]
       }
+    },
+    "2.4.3": {
+      "sdist": [
+        "459qTqRQBgiw/VT9I2sJUV/DQ+K9csKjaAN5pfvAYGU=",
+        "salt-rewrite-2.4.3.tar.gz"
+      ],
+      "wheels": {
+        "salt_rewrite-2.4.3-py3-none-any.whl": [
+          "bjzd8MnxCPUKQnLlF2BP5i491rtRnkEI5Qq9BIuOUYY=",
+          "py3"
+        ]
+      }
     }
   },
   "sambristol-ssabp-w": {
@@ -143550,6 +143666,18 @@
       "wheels": {
         "soil_sdk-0.6.12.dev1-py3-none-any.whl": [
           "tAIdNM1JSMCvK+BHh1owsscX+Fd36V/qXVcnqfA4NoM=",
+          "py3"
+        ]
+      }
+    },
+    "0.6.13": {
+      "sdist": [
+        "ZYrEwq2cvQbGMCWEHXBWbafAJAWuU7B+7BzjKEMmyio=",
+        "soil-sdk-0.6.13.tar.gz"
+      ],
+      "wheels": {
+        "soil_sdk-0.6.13-py3-none-any.whl": [
+          "v8WB3U1NG2CXGz1al2y6vhh4ORhzDSUQzGIMIwY4oNw=",
           "py3"
         ]
       }

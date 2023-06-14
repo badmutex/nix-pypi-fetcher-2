@@ -31957,6 +31957,18 @@
           "py3"
         ]
       }
+    },
+    "1.4.0": {
+      "sdist": [
+        "mYHmjdNqBZk6REIzh/tFZsV4Ji+2Wxw9GjRJ+AufjBc=",
+        "datacrunch-1.4.0.tar.gz"
+      ],
+      "wheels": {
+        "datacrunch-1.4.0-py3-none-any.whl": [
+          "KVe45f2sz9MhJfegQpdC9eEYeM5VQRhmpSAc8apHQIU=",
+          "py3"
+        ]
+      }
     }
   },
   "dataflows-airtable": {
@@ -37752,40 +37764,10 @@
     }
   },
   "django-mails": {
-    "2.4": {
+    "1.0.0": {
       "sdist": [
-        "zU0/G2RBU8/W/XUZDQr6hhfqpsnbtGgLiEppSq9Lego=",
-        "django-mails-2.4.tar.gz"
-      ]
-    },
-    "2.5": {
-      "sdist": [
-        "8zvw3CURUeCsWKNvtoO3DNPdqpgxdohwS3HCePtt/hk=",
-        "django-mails-2.5.tar.gz"
-      ]
-    },
-    "2.6": {
-      "sdist": [
-        "siq/0IRQch+Uk+hCjZV3+oIZmhUYbSzpvCK9RHos7kI=",
-        "django-mails-2.6.tar.gz"
-      ]
-    },
-    "2.7": {
-      "sdist": [
-        "fgXn5pw89MjMMRfehH1xpdtN+4RKE6kKI92fr4fEbuo=",
-        "django-mails-2.7.tar.gz"
-      ]
-    },
-    "2.9": {
-      "sdist": [
-        "lzxC/9YRkpChVXB8nyPHlI7gNtVTNqlptE2PxDeb3tc=",
-        "django-mails-2.9.tar.gz"
-      ]
-    },
-    "3.0": {
-      "sdist": [
-        "/R0u1Ux3B8TNCqHjTB/29v0e0wXde8NsKJAtn66jeWM=",
-        "django-mails-3.0.tar.gz"
+        "kf+a8m95BQvcTp42v8e9aelGzmYRBhZU0Dg0s7y96So=",
+        "django-mails-1.0.0.tar.gz"
       ]
     }
   },
@@ -61330,6 +61312,18 @@
       "wheels": {
         "gpt_index-0.6.25.post1-py3-none-any.whl": [
           "/YcJLs4nXz3rj65sqL4/EaX6LsBKQx1HLizN3pfpu28=",
+          "py3"
+        ]
+      }
+    },
+    "0.6.26": {
+      "sdist": [
+        "XeYJWoCu9iVWoUtoSanVdgxXCVePRNXt6QO+yI7Abgs=",
+        "gpt_index-0.6.26.tar.gz"
+      ],
+      "wheels": {
+        "gpt_index-0.6.26-py3-none-any.whl": [
+          "1i7rKcQqM+kv99LdVO2mil6gwF9d3Q4ClxSgSnQg7+w=",
           "py3"
         ]
       }
@@ -101699,6 +101693,20 @@
       }
     }
   },
+  "odoo14-addon-cooperator-account-banking-mandate": {
+    "14.0.1.0.1": {
+      "sdist": [
+        "n9J50DjFGUaiObP37LIcl7Xx+melWt88iqB5Mx4yWCI=",
+        "odoo14-addon-cooperator_account_banking_mandate-14.0.1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "odoo14_addon_cooperator_account_banking_mandate-14.0.1.0.1-py2.py3-none-any.whl": [
+          "sJ4h2cAyBPqpFUgPQ0U3uQITnepv05nrR/WykmPgir8=",
+          "py2.py3"
+        ]
+      }
+    }
+  },
   "odoo14-addon-hr-employee-phone-extension": {
     "14.0.1.0.1.dev2": {
       "wheels": {
@@ -105686,6 +105694,20 @@
       "wheels": {
         "package_dio_test01-0.0.1-py3-none-any.whl": [
           "Ym0XGJ1bkQ0ujFZKKMtT0tGq9Fx7ocWnJgbXQRyKoCc=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "packagenkm": {
+    "0.1": {
+      "sdist": [
+        "GUPdooSbf9H0snpRa3NqPBSjZV1sYbte47MdM7O8bLw=",
+        "packagenkm-0.1.tar.gz"
+      ],
+      "wheels": {
+        "packagenkm-0.1-py3-none-any.whl": [
+          "mNCJz9AYJJ+VKy76aqkelzilR9IUnfISj3ezPzGLdNk=",
           "py3"
         ]
       }

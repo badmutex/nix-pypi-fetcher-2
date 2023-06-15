@@ -79696,6 +79696,12 @@
         "kiwi-9.24.9.tar.gz"
       ]
     },
+    "9.25.0": {
+      "sdist": [
+        "KBpu3fadwXVfJFcLu7//1Ky9QYtZEWobydv4bnCzzPk=",
+        "kiwi-9.25.0.tar.gz"
+      ]
+    },
     "9.3.0": {
       "sdist": [
         "I2U4Ke1S2aoj+T+NJW1o9V/Recx7g1pRchqgtp27lgk=",
@@ -102773,6 +102779,14 @@
       ]
     }
   },
+  "openet-sims": {
+    "0.1.0": {
+      "sdist": [
+        "J9sYLnMpl39CG2M6Aggwodtngc5T8iPw89ya9OwnsY8=",
+        "openet-sims-0.1.0.tar.gz"
+      ]
+    }
+  },
   "openstack-voms-auth-type": {
     "1.0": {
       "sdist": [
@@ -113648,6 +113662,18 @@
       "wheels": {
         "PublicDataReader-1.0.22-py3-none-any.whl": [
           "QX3E3XRzoYtvrmGbzzyYTi0q18Mx12o8gB1NJD5V3Kc=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.23": {
+      "sdist": [
+        "b0Sy9RM0tM/jMxu3JhXceJZBp3y7YjZ/FtZWoQ9bxuw=",
+        "PublicDataReader-1.0.23.tar.gz"
+      ],
+      "wheels": {
+        "PublicDataReader-1.0.23-py3-none-any.whl": [
+          "LM2HiMctbvVTlXOzK8AU4BUq8BIcTeFaTBc/wBUcrVU=",
           "py3"
         ]
       }

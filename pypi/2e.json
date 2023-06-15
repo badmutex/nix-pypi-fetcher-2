@@ -28837,6 +28837,38 @@
           "cp38"
         ]
       }
+    },
+    "0.2.1.dev95": {
+      "wheels": {
+        "composabl_dev-0.2.1.dev95-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "vXonbJuaj1teQtkyqtbFJK45QmQeW1PvH1NggNwfdio=",
+          "cp38"
+        ],
+        "composabl_dev-0.2.1.dev95-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "jIEvinr1WuF74+1XPxPCPx/54yDe5yCIRtKKg29UnCc=",
+          "cp38"
+        ],
+        "composabl_dev-0.2.1.dev95-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "7779Bm/RiGZuft2nYJ+PYHvjpHLn5S7EQszGpmT1L64=",
+          "cp38"
+        ],
+        "composabl_dev-0.2.1.dev95-cp38-cp38-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "dB4Yt7lhnbRkUtvejCwcCPHBAyY5ugZzW55y1txvijw=",
+          "cp38"
+        ],
+        "composabl_dev-0.2.1.dev95-cp38-cp38-musllinux_1_1_aarch64.whl": [
+          "e8YFhkyiMs/+VodHtQ5E4l1QHUg3NiCkLQp1D7ghnXw=",
+          "cp38"
+        ],
+        "composabl_dev-0.2.1.dev95-cp38-cp38-musllinux_1_1_i686.whl": [
+          "KyO7CVvvd9qWTgj5zW938Yfhq+/4xPCCsQEFoqZowGc=",
+          "cp38"
+        ],
+        "composabl_dev-0.2.1.dev95-cp38-cp38-musllinux_1_1_x86_64.whl": [
+          "Xgp3KGP5bAuYGKIYUC9mS+bHNhSHDDOAiVO05cTIlWw=",
+          "cp38"
+        ]
+      }
     }
   },
   "compose.db2": {
@@ -30264,6 +30296,18 @@
       "wheels": {
         "coursebox-0.1.17.9-py3-none-any.whl": [
           "yhG9omBsBnsf/iODkW1hPWT910qVy/jRo4xv9yqvtf0=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.18.0": {
+      "sdist": [
+        "QSVtfVEtJwR4ZG+3VdvYTe/v+hjB4JnrkX6orU0pQEs=",
+        "coursebox-0.1.18.0.tar.gz"
+      ],
+      "wheels": {
+        "coursebox-0.1.18.0-py3-none-any.whl": [
+          "eER9fQPZD4RtIffhdYzETuF495ADMfYjgj1Fxo9DMaU=",
           "py3"
         ]
       }
@@ -66344,6 +66388,14 @@
         ]
       }
     },
+    "3.1.44": {
+      "wheels": {
+        "huaweicloudsdkas-3.1.44-py2.py3-none-any.whl": [
+          "0ku8/rsCS5gSJ54EuAA3JnOa40tZkjE3lVHd38IdEZs=",
+          "py2.py3"
+        ]
+      }
+    },
     "3.1.5": {
       "wheels": {
         "huaweicloudsdkas-3.1.5-py2.py3-none-any.whl": [
@@ -72974,6 +73026,18 @@
       "wheels": {
         "jury-2.2.3-py3-none-any.whl": [
           "3LUyzJOxDZ1kZ0RG93ZIUeNWII+7B73TlYmOHZ6lZc8=",
+          "py3"
+        ]
+      }
+    },
+    "2.2.4": {
+      "sdist": [
+        "df/6qphGxzIxAco1xkOYA7utMOjwUIco5Av72mTDgIs=",
+        "jury-2.2.4.tar.gz"
+      ],
+      "wheels": {
+        "jury-2.2.4-py3-none-any.whl": [
+          "nIK5gFBosuYstEPDiCqM9xPWEUhp7JS1sNM4/Zk452Q=",
           "py3"
         ]
       }
@@ -79914,6 +79978,12 @@
       "sdist": [
         "UKuhdUV0Dkg2axqBRbCAFujsZDNuW/s2YPM+hWPp2NQ=",
         "libcnmc-23.56.5.tar.gz"
+      ]
+    },
+    "23.57.0": {
+      "sdist": [
+        "qyLSNFlM8BG+uME8gnyjhLLstWTBW3IB2bziUpf4ac0=",
+        "libcnmc-23.57.0.tar.gz"
       ]
     },
     "23.6.0": {
@@ -94383,6 +94453,12 @@
         "S710wxV+BwlNSnll0c8VsoXhrq0IuSyJWVlmH10e2Ow=",
         "netbluemind4-4.1.65219.tar.gz"
       ]
+    },
+    "4.1.65222": {
+      "sdist": [
+        "4AUz+4aijWmWO2wsV3XuUIPfug6prnm69vEyEJV9170=",
+        "netbluemind4-4.1.65222.tar.gz"
+      ]
     }
   },
   "netbox-acls": {
@@ -101996,6 +102072,14 @@
     }
   },
   "odoo14-addon-web-search-with-and": {
+    "14.0.1.0.1": {
+      "wheels": {
+        "odoo14_addon_web_search_with_and-14.0.1.0.1-py3-none-any.whl": [
+          "M5S+o4MB15rwPGUjN4DG0yqh2MlmVmDdZJNmZEdqRLA=",
+          "py3"
+        ]
+      }
+    },
     "14.0.1.0.1.dev2": {
       "wheels": {
         "odoo14_addon_web_search_with_and-14.0.1.0.1.dev2-py3-none-any.whl": [

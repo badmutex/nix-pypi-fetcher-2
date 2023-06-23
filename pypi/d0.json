@@ -63840,6 +63840,12 @@
         "libprobe-0.2.31.tar.gz"
       ]
     },
+    "0.2.32": {
+      "sdist": [
+        "c0BdHgkTgfdUHwbN0J89zV3sv8OEiuvzK5QTEwXAXv4=",
+        "libprobe-0.2.32.tar.gz"
+      ]
+    },
     "0.2.4": {
       "sdist": [
         "wkgSLqeRMkRE4YkzJlHE/F8vMb89Gghcwkoaf0cF7yg=",
@@ -112917,6 +112923,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.34": {
+      "sdist": [
+        "vmH/a/gO0ipOjKcM7FVpYeFNqSedp8uY/M2SGy1bjx0=",
+        "simplegeomap-0.0.34.tar.gz"
+      ],
+      "wheels": {
+        "simplegeomap-0.0.34-py3-none-any.whl": [
+          "jlG0kYgJUlJjHaDDGiJHXJJ0/+f8keHDJzbTjd2E7p4=",
+          "py3"
+        ]
+      }
     }
   },
   "simpler-rlp": {
@@ -134076,6 +134094,14 @@
       "wheels": {
         "tf_estimator_nightly-2.14.0.dev2023062208-py2.py3-none-any.whl": [
           "ATeqC1lc9IVgkCQtAyizTyQ87GmqEI1nBsfCBW9IgRs=",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.14.0.dev2023062308": {
+      "wheels": {
+        "tf_estimator_nightly-2.14.0.dev2023062308-py2.py3-none-any.whl": [
+          "2XUQlYKX+UAGcJuHVI2DUXEdgYwebhvS154jHEClBXo=",
           "py2.py3"
         ]
       }

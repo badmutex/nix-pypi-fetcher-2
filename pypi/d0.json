@@ -74899,6 +74899,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.6": {
+      "sdist": [
+        "TFGK6MJUzBxSWvt67A2SrYiV4i1lyQnWOz3Usf23pVI=",
+        "nonebot_plugin_code-0.0.6.tar.gz"
+      ],
+      "wheels": {
+        "nonebot_plugin_code-0.0.6-py3-none-any.whl": [
+          "Ffxth+veL22ggX8WszaW12qtAw11IjzRmH1GQGVW9Dk=",
+          "py3"
+        ]
+      }
     }
   },
   "nonebot-plugin-grouplock": {
@@ -112950,30 +112962,6 @@
     }
   },
   "simplegeomap": {
-    "0.0.32": {
-      "sdist": [
-        "9ZdKf4ss0A7zRJ0m0/jxKiaNtqTXWCXChdeehNxpy9M=",
-        "simplegeomap-0.0.32.tar.gz"
-      ],
-      "wheels": {
-        "simplegeomap-0.0.32-py3-none-any.whl": [
-          "Vh6/jAAHztIxRIVA0frCLk5g9KGGG42d1Vk4uk9U7YA=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.33": {
-      "sdist": [
-        "hLIBIigH3FDAOqZfFWf1gC+S/DlYE3r/rDwWur75zxg=",
-        "simplegeomap-0.0.33.tar.gz"
-      ],
-      "wheels": {
-        "simplegeomap-0.0.33-py3-none-any.whl": [
-          "qY813SxAOkb27t3DDqcaRGclPPx9Q3W8eYgk2MJ49fk=",
-          "py3"
-        ]
-      }
-    },
     "0.0.34": {
       "sdist": [
         "vmH/a/gO0ipOjKcM7FVpYeFNqSedp8uY/M2SGy1bjx0=",
@@ -134152,6 +134140,14 @@
       "wheels": {
         "tf_estimator_nightly-2.14.0.dev2023062308-py2.py3-none-any.whl": [
           "2XUQlYKX+UAGcJuHVI2DUXEdgYwebhvS154jHEClBXo=",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.14.0.dev2023062408": {
+      "wheels": {
+        "tf_estimator_nightly-2.14.0.dev2023062408-py2.py3-none-any.whl": [
+          "wbIRJKv0Nfp+zqys7vyA6UKFMNpV+uz1f5v6q9qGk7I=",
           "py2.py3"
         ]
       }

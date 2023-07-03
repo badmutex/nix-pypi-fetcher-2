@@ -22105,6 +22105,26 @@
           "cp310"
         ]
       }
+    },
+    "3.6.0": {
+      "wheels": {
+        "bpy-3.6.0-cp310-cp310-macosx_10_15_x86_64.whl": [
+          "EhXVuXL9ca4d3LRRCOJbKzoNe4lkU2W8oBNBYE3Oy18=",
+          "cp310"
+        ],
+        "bpy-3.6.0-cp310-cp310-macosx_11_0_arm64.whl": [
+          "S8i7d8yIFD54wEZFNRp3kdDkEshPeKR3HmgFLsrH1Bw=",
+          "cp310"
+        ],
+        "bpy-3.6.0-cp310-cp310-manylinux_2_28_x86_64.whl": [
+          "7eLJWs54SPT1oHWn2Mw6nmQ8M19FlsPBUIfZPHrl9Wo=",
+          "cp310"
+        ],
+        "bpy-3.6.0-cp310-cp310-win_amd64.whl": [
+          "O0qdKt1ExGiUNe4eexjLtMK+SRSUQ4JdnGGB37YLQ4E=",
+          "cp310"
+        ]
+      }
     }
   },
   "brainlib": {
@@ -61658,6 +61678,18 @@
       "wheels": {
         "hcloud-1.23.1-py3-none-any.whl": [
           "KmDHj7PftZMAFyO1O3yRUiBDPknfuATUZfQZDqyUfpw=",
+          "py3"
+        ]
+      }
+    },
+    "1.24.0": {
+      "sdist": [
+        "VqC9ckhVW4ypLnF2aKCN8yDAkflaXu7MlS5hZChWJdw=",
+        "hcloud-1.24.0.tar.gz"
+      ],
+      "wheels": {
+        "hcloud-1.24.0-py3-none-any.whl": [
+          "3V/oBJGW6o8SXr3YUYgmGn0l9y3qqBxT1jdjNyLVF34=",
           "py3"
         ]
       }
@@ -110441,6 +110473,12 @@
         "djhtcA9m9zmUDuPIkKE1/vn2wfFQxK4YtnoVpJNmTsw=",
         "peek-plugin-livedb-3.4.6.tar.gz"
       ]
+    },
+    "3.4.7": {
+      "sdist": [
+        "hTPAHXU8o1884cqMc2yNShmWuYNlxVC0OorN3QIEZzA=",
+        "peek-plugin-livedb-3.4.7.tar.gz"
+      ]
     }
   },
   "pegasuspy": {
@@ -120134,6 +120172,18 @@
       "wheels": {
         "pydyf-0.6.0-py3-none-any.whl": [
           "KRgCv7f3hBNN4nQE61kkFLPFahKQIx/m+1SKJVm8k2o=",
+          "py3"
+        ]
+      }
+    },
+    "0.7.0": {
+      "sdist": [
+        "paiMsG5b62Sh7yFH7oebDlE59f24J/2i/PFKAYx7EeY=",
+        "pydyf-0.7.0.tar.gz"
+      ],
+      "wheels": {
+        "pydyf-0.7.0-py3-none-any.whl": [
+          "I6dT2qda26OHYGxU6rTVybyoPwdr5pfln3GdI4dT+wU=",
           "py3"
         ]
       }
@@ -131956,6 +132006,18 @@
         ]
       }
     },
+    "0.12.7": {
+      "sdist": [
+        "pSvClcNqyEp8UI05wWfZsSUTj9EBppu7ZL6rQBgLB1o=",
+        "report-dh-0.12.7.tar.gz"
+      ],
+      "wheels": {
+        "report_dh-0.12.7-py3-none-any.whl": [
+          "mrFKjKvRzUiTVNouuhWsSSA7xZKsdTUiJuziSXnojTI=",
+          "py3"
+        ]
+      }
+    },
     "0.2": {
       "sdist": [
         "OYwplthnas8bNUtAEF2CqSjqum/h+wCY3wuQjXVsb70=",
@@ -137964,6 +138026,18 @@
       "wheels": {
         "scinumtools-1.6.2-py3-none-any.whl": [
           "bwgDdMyWjofOqtDVhPquoJIK64qB5noIdytXVS9WyYc=",
+          "py3"
+        ]
+      }
+    },
+    "1.6.3": {
+      "sdist": [
+        "bDG1K/0hrCTsMirM3stG1KnI/CCjPTu2qxmA93G8Llg=",
+        "scinumtools-1.6.3.tar.gz"
+      ],
+      "wheels": {
+        "scinumtools-1.6.3-py3-none-any.whl": [
+          "2cxE3z5eZ25Yrpa4PM0hXdHq7DQRZ2Awq+1zdZZluG0=",
           "py3"
         ]
       }
@@ -149456,6 +149530,12 @@
       "sdist": [
         "MI2o9jPAUAFQcecGHZrMynwDOv3QQvRL30KhG6lGlBs=",
         "synerty-peek-3.4.6.tar.gz"
+      ]
+    },
+    "3.4.7": {
+      "sdist": [
+        "+UCo7v5NU1qilRYUlhLVCnsLNHujsnuO5wsguCk071c=",
+        "synerty-peek-3.4.7.tar.gz"
       ]
     }
   },

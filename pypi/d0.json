@@ -34213,6 +34213,18 @@
           "py3"
         ]
       }
+    },
+    "1.1.0": {
+      "sdist": [
+        "5RZ+DsmcWN+iOP3sx8zHebrDHCvhvG+VovLORFlDKLg=",
+        "deepsecrets-1.1.0.tar.gz"
+      ],
+      "wheels": {
+        "deepsecrets-1.1.0-py3-none-any.whl": [
+          "2C1+iKxS4T6ed3soR3lz7DfIrlxWcu91P7IAFUy6kz4=",
+          "py3"
+        ]
+      }
     }
   },
   "defydatabase": {
@@ -57789,6 +57801,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.2": {
+      "sdist": [
+        "fB6P+n0pjy4v3RKh163prOBUnYu+fq6DNFDfohC+pUc=",
+        "inductance-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "inductance-0.1.2-py3-none-any.whl": [
+          "NwBL5epK3dFHhVyqz6xakRU+yTr+RM0fi1WLbmK5VNM=",
+          "py3"
+        ]
+      }
     }
   },
   "inegm.staff": {
@@ -65794,6 +65818,18 @@
       "wheels": {
         "lightly-1.4.10-py3-none-any.whl": [
           "ULmMXSKcM/Q1VxhbglbMKYbJsJra2h540xRwciiRRsI=",
+          "py3"
+        ]
+      }
+    },
+    "1.4.11": {
+      "sdist": [
+        "j1yMyuIFZ9IEoonVFtSlS+qMI/qnC2K0FaVE65/vVdc=",
+        "lightly-1.4.11.tar.gz"
+      ],
+      "wheels": {
+        "lightly-1.4.11-py3-none-any.whl": [
+          "thv5XgQCGE8Yt2NuzkUyQz2wcilkzKg6zKREJaYGRt0=",
           "py3"
         ]
       }
@@ -75793,6 +75829,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.6": {
+      "sdist": [
+        "DmbPaI9UOfCaBKTtYHxct5nITxejsNnyzZHSPOGE7QU=",
+        "nonebot_plugin_poke-0.0.6.tar.gz"
+      ],
+      "wheels": {
+        "nonebot_plugin_poke-0.0.6-py3-none-any.whl": [
+          "QEUl4jOo20Jpg0NrDb4LfbOOC7GZyc28qh18/mmEtvQ=",
+          "py3"
+        ]
+      }
     }
   },
   "nonmockobjects": {
@@ -82180,6 +82228,14 @@
       "wheels": {
         "odoo12_addon_stock_inventory_barcode-12.0.1.0.1-py3-none-any.whl": [
           "8YhRAW9orpVvt3con9OCaLvg176wuokkE80F1lP7QyE=",
+          "py3"
+        ]
+      }
+    },
+    "12.0.1.0.1.99.dev1": {
+      "wheels": {
+        "odoo12_addon_stock_inventory_barcode-12.0.1.0.1.99.dev1-py3-none-any.whl": [
+          "DUyTHkJnLjM424PNRQxrmqBrKCPJe5X8TTdBCDs3oEA=",
           "py3"
         ]
       }
@@ -109137,6 +109193,90 @@
           "pp39"
         ]
       }
+    },
+    "12.3.0": {
+      "wheels": {
+        "saxoncee-12.3.0-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "jPJEaQP7izerM5xnQNbPcyhwRAXgsUnwelOWFOdadBs=",
+          "cp310"
+        ],
+        "saxoncee-12.3.0-cp310-cp310-macosx_11_0_arm64.whl": [
+          "kPK0xHr3nhjrjFIXegr1AUdwIjydlfddjDeOPZVF8kE=",
+          "cp310"
+        ],
+        "saxoncee-12.3.0-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "NPitX/8B8xl0plfAzb77WI2HP1VQTkw2I8PKcesQCSY=",
+          "cp310"
+        ],
+        "saxoncee-12.3.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "oT37uINeG0QozE+JmhmWL0hNlROOEkOzpUDhyE3/bfo=",
+          "cp310"
+        ],
+        "saxoncee-12.3.0-cp310-cp310-win_amd64.whl": [
+          "7clTkMgS5n27G18p8BiZs+JR0NH3trJPbiJ/VJHI3fA=",
+          "cp310"
+        ],
+        "saxoncee-12.3.0-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "YSPsPJgtKRzFoEJg/AWv5rdM5jPjekA2q4LSDmlaLKw=",
+          "cp311"
+        ],
+        "saxoncee-12.3.0-cp311-cp311-macosx_11_0_arm64.whl": [
+          "s7UMQeZ8AaV9MO5tHqKGypMpVXg6u1pDuXamcoU//aE=",
+          "cp311"
+        ],
+        "saxoncee-12.3.0-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "pcUe1ovNv4TTsPv/8Bf6kCphmu7rgMJbNWVFBmqVou4=",
+          "cp311"
+        ],
+        "saxoncee-12.3.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "stShdIEdBUxa5B+SyxXzkNd03n6EAaa3gaDDG2te3eI=",
+          "cp311"
+        ],
+        "saxoncee-12.3.0-cp311-cp311-win_amd64.whl": [
+          "+mPaffQW65ul4zWZWYmj4GPOrRi5C0D8evtSTG7IhwM=",
+          "cp311"
+        ],
+        "saxoncee-12.3.0-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "rD7KSEwp1STKzjOtzJDPFZksJGmF1feWGH9dJnMA3yM=",
+          "cp38"
+        ],
+        "saxoncee-12.3.0-cp38-cp38-macosx_11_0_arm64.whl": [
+          "V0SeLZiUgq4ky4/HqhBx9Um15iuz01Yvl5GxDjENA1U=",
+          "cp38"
+        ],
+        "saxoncee-12.3.0-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "q0k7ALvngxkHv7J6mS7RVOo7ZoWJW/dQC8n3iP8lG7o=",
+          "cp38"
+        ],
+        "saxoncee-12.3.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "32nWMrsK24V0ZaRJCdtq0TKyLOwNHsuc4bLELyygbdg=",
+          "cp38"
+        ],
+        "saxoncee-12.3.0-cp38-cp38-win_amd64.whl": [
+          "9+I6nrQrvRhVRyub8qUPwIqzl9AnIT1mZxUf0eUmCBw=",
+          "cp38"
+        ],
+        "saxoncee-12.3.0-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "lYuqXwt5EIOS3L5RHevXKVhYwlmlt+x3uJzsBsjnWVE=",
+          "cp39"
+        ],
+        "saxoncee-12.3.0-cp39-cp39-macosx_11_0_arm64.whl": [
+          "qcQ/XOs1cwiMj0QBfMx2C6g7aqtXwpo49VmNSoLqCfI=",
+          "cp39"
+        ],
+        "saxoncee-12.3.0-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "QrMv48Vg1bfGbu4tardmHa0WxMLEFLot1AG1Dj5yejQ=",
+          "cp39"
+        ],
+        "saxoncee-12.3.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "PkJYtKy478QkTuCtI6j4ubGExdEFBkNUYCICG9xb74g=",
+          "cp39"
+        ],
+        "saxoncee-12.3.0-cp39-cp39-win_amd64.whl": [
+          "VNTqXGsaJOWQFNEOhQy8pyNHkU/JmsYrDTLLs/ZMPb4=",
+          "cp39"
+        ]
+      }
     }
   },
   "scanjobs": {
@@ -123508,6 +123648,18 @@
         ]
       }
     },
+    "1.15.1": {
+      "sdist": [
+        "I9+Xd8HyO+um4+uHKVkFN/kD5R63iPK4PpJwZEZ0O5Y=",
+        "swh.storage-1.15.1.tar.gz"
+      ],
+      "wheels": {
+        "swh.storage-1.15.1-py3-none-any.whl": [
+          "0vJb7Voo2qwlbCq0vwPwMhyoDlbRqdnUR4FYf1atmxQ=",
+          "py3"
+        ]
+      }
+    },
     "1.2.0": {
       "sdist": [
         "iAK8XaC2j1hPhibNWGcqxE3eEmp2UIOOVAHLOVXT6n4=",
@@ -135340,6 +135492,14 @@
       "wheels": {
         "tf_estimator_nightly-2.14.0.dev2023070308-py2.py3-none-any.whl": [
           "7Z//01JmIqlmD4zkZOQHbjOM3sd/VgAWD7UjI8E8vwU=",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.14.0.dev2023070408": {
+      "wheels": {
+        "tf_estimator_nightly-2.14.0.dev2023070408-py2.py3-none-any.whl": [
+          "EMvT2MjMPT9DT66tejMozOKTfPeEQyINDHG7IfTfks4=",
           "py2.py3"
         ]
       }

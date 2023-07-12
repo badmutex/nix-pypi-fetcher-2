@@ -45863,6 +45863,32 @@
       }
     }
   },
+  "extlog": {
+    "20230712.1": {
+      "sdist": [
+        "D9u6LWw4OChTzkAYyny3yQdtATfmKlxRHiNl69qfRPI=",
+        "extLog-20230712.1.tar.gz"
+      ],
+      "wheels": {
+        "extLog-20230712.1-py3-none-any.whl": [
+          "DsxmvB+nSFSIxbUxQhCFJ4gAjQnh8O0A8aaeSXLJ2eI=",
+          "py3"
+        ]
+      }
+    },
+    "20230712.2": {
+      "sdist": [
+        "xLHbC+9fdASp9T7rfMjSKA0iFGyNUeDPNeS/Vu+D5L4=",
+        "extLog-20230712.2.tar.gz"
+      ],
+      "wheels": {
+        "extLog-20230712.2-py3-none-any.whl": [
+          "ehth6YNVs9bQhMRNlWlk1rlCtl0ISpaOaR61EZLD7RQ=",
+          "py3"
+        ]
+      }
+    }
+  },
   "f1-2021-race-strategist": {
     "0.0.1": {
       "sdist": [
@@ -54118,6 +54144,14 @@
       "wheels": {
         "fusionprov-1.2.2-py3-none-any.whl": [
           "CoYAn+mPd1Oj4qscMedTOTQcwFEy60tDZhI5Du8JK8Y=",
+          "py3"
+        ]
+      }
+    },
+    "1.3.0": {
+      "wheels": {
+        "fusionprov-1.3.0-py3-none-any.whl": [
+          "PQZuN0ML0QIBdfMRGXw2mAcYq7/Pr2jZMskTQgOgD7E=",
           "py3"
         ]
       }

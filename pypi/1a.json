@@ -79075,6 +79075,26 @@
           "cp37"
         ]
       }
+    },
+    "1.1.0": {
+      "sdist": [
+        "+BM0CU7tsCvX0WQg2tcnBH8vubA/lAPgiq/Wl+1kpLA=",
+        "kgraph-1.1.0.tar.gz"
+      ],
+      "wheels": {
+        "kgraph-1.1.0-cp310-cp310-manylinux_2_24_x86_64.manylinux_2_27_x86_64.whl": [
+          "zSfKnR556PWc1Aqfl6/QxzzX+qja3YBI+GRs+fykwKA=",
+          "cp310"
+        ],
+        "kgraph-1.1.0-cp310-cp310-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl": [
+          "HtCsqQB056hMlkqWLK/zCHkW1+jzQaJztquJug/IcjY=",
+          "cp310"
+        ],
+        "kgraph-1.1.0-cp310-cp310-manylinux_2_24_x86_64.manylinux_2_31_x86_64.whl": [
+          "HvdqGN+81X8W9NhlyCGIo/SJdYbhiT5jNPKk+Izn0B0=",
+          "cp310"
+        ]
+      }
     }
   },
   "khufu-javascript": {
@@ -91052,6 +91072,30 @@
       "wheels": {
         "madml-0.2.8-py3-none-any.whl": [
           "qoU0LfOnXHvxz6lPbq6YDYXaOloRRfRMKpLH8V7h4iA=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.9": {
+      "sdist": [
+        "XNQb3H3ZU+7QOmxW79uSdPTGjd/z6bVjW0ew5GnGhIc=",
+        "madml-0.2.9.tar.gz"
+      ],
+      "wheels": {
+        "madml-0.2.9-py3-none-any.whl": [
+          "Vhac8SeKTCwh58XcvXUe9LMEoBOXQ8p128owk8ylgZ4=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.0": {
+      "sdist": [
+        "iW2VT0L5crJWJtoz5c4u7uQh1H2A0Utj05w1j7F2UtI=",
+        "madml-0.3.0.tar.gz"
+      ],
+      "wheels": {
+        "madml-0.3.0-py3-none-any.whl": [
+          "W+EGKlVhLC0uBzJIMd7M+FyvsddZhZNgFx/okIXHH8k=",
           "py3"
         ]
       }
@@ -140525,6 +140569,12 @@
         "JEvq0YS6ZMlJIM03Y4r709xNzIuQ3Wc6w8t8founpN0=",
         "rom-1.0.7.tar.gz"
       ]
+    },
+    "1.1.0": {
+      "sdist": [
+        "bL18329TkWUP4T7z12hZwUExoLuSJpcemrAsoDKHxM8=",
+        "rom-1.1.0.tar.gz"
+      ]
     }
   },
   "rootfinding": {
@@ -140626,6 +140676,12 @@
         "ros-cdk-ecs-1.0.15.tar.gz"
       ]
     },
+    "1.0.16": {
+      "sdist": [
+        "u8qPbQJ4QlO5zsmKNVC41iuoAgy8dYQcVI0kcdKCquM=",
+        "ros-cdk-ecs-1.0.16.tar.gz"
+      ]
+    },
     "1.0.2": {
       "sdist": [
         "84pMqi9iGwibOMGeOOMUyB1/Rr2y+3O9/B4vUNlDApc=",
@@ -140722,6 +140778,12 @@
       "sdist": [
         "x1B/ZDf59/L0ajJon9vw05AxYCLybXwxuw0U8ZrOHiI=",
         "ros-cdk-ram-1.0.15.tar.gz"
+      ]
+    },
+    "1.0.16": {
+      "sdist": [
+        "76GZUEcNMEEbQwCcZ4iacGYjFFYxhHaHXSj2wL6Lt2E=",
+        "ros-cdk-ram-1.0.16.tar.gz"
       ]
     },
     "1.0.2": {

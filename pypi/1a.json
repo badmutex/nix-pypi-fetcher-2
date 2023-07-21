@@ -39922,6 +39922,18 @@
         ]
       }
     },
+    "0.30.0": {
+      "sdist": [
+        "UJpvw/J/ElqGfmq53YPxKSCO4DWk6N3u4CgESIptAX0=",
+        "DynamicForms-0.30.0.tar.gz"
+      ],
+      "wheels": {
+        "DynamicForms-0.30.0-py3-none-any.whl": [
+          "iT3NJTvE9QWRQXi+55VxX9th3vGqZD5ZUNp+PGwCMTA=",
+          "py3"
+        ]
+      }
+    },
     "0.4.0": {
       "sdist": [
         "fGWMH8DNYtqbX+qYPEz29FsKCyihDMio/fLLMcffsAo=",
@@ -40638,6 +40650,18 @@
       "wheels": {
         "DynamicForms-0.71.16-py3-none-any.whl": [
           "Cxd1uEJ4NqFVhvWZ/DB5YEzMGgu/UO86yYxdyZmtY6s=",
+          "py3"
+        ]
+      }
+    },
+    "0.71.17": {
+      "sdist": [
+        "i5SVpOwbBIUFn+7Yvy8p6zuN1b07XSiLhttXS1Hc4JY=",
+        "DynamicForms-0.71.17.tar.gz"
+      ],
+      "wheels": {
+        "DynamicForms-0.71.17-py3-none-any.whl": [
+          "Hc/i6uu3WdeIRTXvqfOLKaRl3sMFkdiqlO8hnm7c0iQ=",
           "py3"
         ]
       }
@@ -101087,6 +101111,20 @@
       }
     }
   },
+  "nonebot-plugin-tempfile": {
+    "0.1.0": {
+      "sdist": [
+        "wiLbv6qtkEwUoFWeahoE+tdnr4WE+KmD33haC5FbOhA=",
+        "nonebot-plugin-tempfile-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "nonebot_plugin_tempfile-0.1.0-py3-none-any.whl": [
+          "SCxiT9uJhSTJa6ao05SDNVfp0fm21LToJ1IMriRCyvc=",
+          "py3"
+        ]
+      }
+    }
+  },
   "nonrad": {
     "1.0.0": {
       "sdist": [
@@ -102368,6 +102406,16 @@
       "wheels": {
         "octocruncher-0.2.0-py3-none-any.whl": [
           "wrY2g3b+cb5NqFpHr4kPVdaCqKNbo9LVebtNRo/sS2Y=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "odoo-addon-crm-project-task": {
+    "15.0.1.0.1": {
+      "wheels": {
+        "odoo_addon_crm_project_task-15.0.1.0.1-py3-none-any.whl": [
+          "isSGcLLbFoAosLlJQG0d+j2JOlAebWVtKkWjcqsu0DA=",
           "py3"
         ]
       }
@@ -106160,6 +106208,18 @@
         ]
       }
     },
+    "0.0.14": {
+      "sdist": [
+        "62fMf3z2gZiZEIiFLlVMUo1hAlI1KbpKjBiz53ULNr8=",
+        "openxlab-0.0.14.tar.gz"
+      ],
+      "wheels": {
+        "openxlab-0.0.14-py3-none-any.whl": [
+          "fM45QQFLmIkNE7vS1JY0ZxdZ3OLJ/vBIDLB7NXhSlVo=",
+          "py3"
+        ]
+      }
+    },
     "0.0.2": {
       "sdist": [
         "XTUjZF2lux2K+1wEWCQQiT77kcXKI6oZClBYOPnbl8A=",
@@ -107046,6 +107106,30 @@
         ],
         "otx-1.4.0rc3-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "cdi8I/fenj4hVFtD3vzurBqFPAH/GxThzeSbAbz1oG4=",
+          "cp39"
+        ]
+      }
+    },
+    "1.4.0rc4": {
+      "sdist": [
+        "3/1anrtr/RXFstub9sSN6sd2CR5rA7/FO4+UEmaiW+c=",
+        "otx-1.4.0rc4.tar.gz"
+      ],
+      "wheels": {
+        "otx-1.4.0rc4-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "CvwKF0MIwcyt1hQQRD8P1tXGHSjz1bOeH3ogj6bMvc4=",
+          "cp310"
+        ],
+        "otx-1.4.0rc4-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "n9RqttkEOch6c+l1ZHwfI1kWE51F1jOjJ2dLExQDWik=",
+          "cp37"
+        ],
+        "otx-1.4.0rc4-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "gMj1v1SxWhMpyOXgGNWz0A6ojyF8zDDugNMtx1gCKF4=",
+          "cp38"
+        ],
+        "otx-1.4.0rc4-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "6Dwn8Bf5xqnnyfFhPC5s5zuTAWUTAH2ns61oK3BtUYw=",
           "cp39"
         ]
       }
@@ -126219,6 +126303,26 @@
           "py3"
         ]
       }
+    }
+  },
+  "pyntweb": {
+    "0.2": {
+      "sdist": [
+        "/DLE//4k5dNWk4h7vVWdJGWTTYLFrnLvA5mq/ZBkUTI=",
+        "pyntweb-0.2.tar.gz"
+      ]
+    },
+    "0.2.1": {
+      "sdist": [
+        "zEGGg4lp6mIMUNyLMbkmSixBLT0wGC8Z8Qh7Q0/BWIM=",
+        "pyntweb-0.2.1.tar.gz"
+      ]
+    },
+    "0.2.2": {
+      "sdist": [
+        "a+E6SH+V/g7zYOdZNL8OKoAczAR917pyDlhqynaCPbQ=",
+        "pyntweb-0.2.2.tar.gz"
+      ]
     }
   },
   "pynuki": {
@@ -151090,10 +151194,26 @@
         ]
       }
     },
+    "6.0.0": {
+      "wheels": {
+        "stix_shifter_modules_infoblox-6.0.0-py2.py3-none-any.whl": [
+          "f+vcrWfiPFC60nRgLhxu+MASLzTlSI3r+6Q5Sgo9bBA=",
+          "py2.py3"
+        ]
+      }
+    },
     "6.0.0.dev74": {
       "wheels": {
         "stix_shifter_modules_infoblox-6.0.0.dev74-py2.py3-none-any.whl": [
           "AlUbvPe3yBw6y7RuKjnFGYY6vdbWUjAj6xQalZJXEiw=",
+          "py2.py3"
+        ]
+      }
+    },
+    "6.0.0.dev75": {
+      "wheels": {
+        "stix_shifter_modules_infoblox-6.0.0.dev75-py2.py3-none-any.whl": [
+          "hJ4cwRZ/ycMxkK3nTIqMZEKFmd5W3c+vA5jgZyC2LVQ=",
           "py2.py3"
         ]
       }

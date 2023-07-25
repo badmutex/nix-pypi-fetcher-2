@@ -18944,6 +18944,18 @@
         ]
       }
     },
+    "1.31.10": {
+      "sdist": [
+        "FBaqW1+l3cIlbWDDPAe/c3l3Dk+a07qywOFugVE8ukU=",
+        "botocore-a-la-carte-chime-sdk-voice-1.31.10.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_chime_sdk_voice-1.31.10-py3-none-any.whl": [
+          "ppUFQMuFKKYzAMFvX44SZLnGpCxiTEarcRcCY2F5nwI=",
+          "py3"
+        ]
+      }
+    },
     "1.31.2": {
       "sdist": [
         "ZEWtbRAKqY7SFpJ5z8LbEBfk+ltOnpUkQeMxJUuRlxs=",
@@ -20550,6 +20562,18 @@
       "wheels": {
         "botocore_a_la_carte_mwaa-1.31.1-py3-none-any.whl": [
           "XncES/LOOf+Ngr38oKNNoO4ed5likvg5JdK1OM2DTQU=",
+          "py3"
+        ]
+      }
+    },
+    "1.31.10": {
+      "sdist": [
+        "AUP0H57g5e5ztyze4qb0vPnONwascEK6DD1LuLwwK3w=",
+        "botocore-a-la-carte-mwaa-1.31.10.tar.gz"
+      ],
+      "wheels": {
+        "botocore_a_la_carte_mwaa-1.31.10-py3-none-any.whl": [
+          "vm7S8/59yYlJoCMZWUZx0Zyv4+8gQ1/Tv6WvGPGj5ZA=",
           "py3"
         ]
       }
@@ -24854,6 +24878,18 @@
       "wheels": {
         "cdk_budibase-0.0.115-py3-none-any.whl": [
           "QDtMVPiU+9QlgtnZrTec6r6dtUsO+8vxR/+d3wfJY2w=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.116": {
+      "sdist": [
+        "P69b5N8zlhDXVnhVCTvCYHZaZCkGwhk+Adpu47ca8lk=",
+        "cdk-budibase-0.0.116.tar.gz"
+      ],
+      "wheels": {
+        "cdk_budibase-0.0.116-py3-none-any.whl": [
+          "/aIdXc7aBpIB7Novalz+IPaDmDNgv08yTq3sHbQTF4A=",
           "py3"
         ]
       }
@@ -123443,6 +123479,18 @@
         "vVxA614SSoCV1Q2MXcj7TA5luEJ6N+iTq9qBoahoolk=",
         "suta_ble_bed-0.3.2.tar.gz"
       ]
+    },
+    "0.3.3": {
+      "sdist": [
+        "ZYvT54xPuVBfIRxHxe0rjclvyojoDQC7ykOfu7IX9IE=",
+        "suta_ble_bed-0.3.3.tar.gz"
+      ],
+      "wheels": {
+        "suta_ble_bed-0.3.3-py2.py3-none-any.whl": [
+          "kYxTQvkfPaQkJDvS48e1X8MXsGN+c3CcLWQmZOAX3zE=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "swh.storage": {
@@ -130944,6 +130992,18 @@
       "wheels": {
         "tencentcloud_sdk_python_dasb-3.0.941-py2.py3-none-any.whl": [
           "1vQRv4dBMii1hDqJHzvNAQ3wWV7CjlZ/CHGKYK7YRiA=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.942": {
+      "sdist": [
+        "deraKWJ3kFJrPF2/58amCpLSzl+RP6obKwO9nGS1Dag=",
+        "tencentcloud-sdk-python-dasb-3.0.942.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_dasb-3.0.942-py2.py3-none-any.whl": [
+          "/UQ+Sg3NKD7KM/D8AsF9O2V7sPFRs23/DA6VZmDthF4=",
           "py2.py3"
         ]
       }
@@ -161228,6 +161288,66 @@
       "wheels": {
         "ytdl_sub-2023.7.24-py3-none-any.whl": [
           "7i+IPsi/w6zx3WGfKSGoDgPQrpyiOmpd5rAsyZQbbRk=",
+          "py3"
+        ]
+      }
+    },
+    "2023.7.24.post1": {
+      "sdist": [
+        "vj1c8DuTKt2so4V+8u6xfxYys5nWg+ITpBWSy+xGiaM=",
+        "ytdl-sub-2023.7.24.post1.tar.gz"
+      ],
+      "wheels": {
+        "ytdl_sub-2023.7.24.post1-py3-none-any.whl": [
+          "KaYotGmgP0rv6y2JAsWnCVYL4VjzMsnDW6Ocxi9pXEM=",
+          "py3"
+        ]
+      }
+    },
+    "2023.7.24.post2": {
+      "sdist": [
+        "C6YqABB2lRALEg4RPCOVNFcrMxeGpnbR0DBM7/WVGz4=",
+        "ytdl-sub-2023.7.24.post2.tar.gz"
+      ],
+      "wheels": {
+        "ytdl_sub-2023.7.24.post2-py3-none-any.whl": [
+          "Y5UOSwPT5gtL95rbZmCBQV4AbewWYOaCZe/JqwInnQw=",
+          "py3"
+        ]
+      }
+    },
+    "2023.7.24.post3": {
+      "sdist": [
+        "BejV572AlCz6Vnd/3Ad0GJQlz755N5xREdmK3/UdDsk=",
+        "ytdl-sub-2023.7.24.post3.tar.gz"
+      ],
+      "wheels": {
+        "ytdl_sub-2023.7.24.post3-py3-none-any.whl": [
+          "rypP6HaRn5Kh6Q/aPwqtRIKzg4dxg9ICeTdmtHsjass=",
+          "py3"
+        ]
+      }
+    },
+    "2023.7.25": {
+      "sdist": [
+        "YCcuER1FMKiNk5IckWlMrPdJpHaTMRFgg5np7EdEzQ4=",
+        "ytdl-sub-2023.7.25.tar.gz"
+      ],
+      "wheels": {
+        "ytdl_sub-2023.7.25-py3-none-any.whl": [
+          "0kc49O6GcJBIFdjBnIZ8hzPdteqyid7QcC3rPlk0CgQ=",
+          "py3"
+        ]
+      }
+    },
+    "2023.7.25.post1": {
+      "sdist": [
+        "48WrLid4uuW6+yRuSDKcI44G9SWOtLGjzcW3DWCLJG4=",
+        "ytdl-sub-2023.7.25.post1.tar.gz"
+      ],
+      "wheels": {
+        "ytdl_sub-2023.7.25.post1-py3-none-any.whl": [
+          "nfsJ2AXspJj2yN76ZW4OWu5wx3rWIO55GgHtW9dyeOM=",
           "py3"
         ]
       }

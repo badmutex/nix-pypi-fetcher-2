@@ -24126,6 +24126,12 @@
         "bw2data-4.0.dev20.tar.gz"
       ]
     },
+    "4.0.dev21": {
+      "sdist": [
+        "QRiKXtMpCO1qRCQYaJkYyYi6KJ3u3hGNI48Oec1S2rs=",
+        "bw2data-4.0.dev21.tar.gz"
+      ]
+    },
     "4.0.dev3": {
       "sdist": [
         "GAgx4ZR+68RBECSTJQ6D6x+gRLdFQvI29D9NQXWLcC0=",
@@ -92209,6 +92215,18 @@
           "py3"
         ]
       }
+    },
+    "1.4.3": {
+      "sdist": [
+        "Vc1QB+Ae9oqFDuGZiT0frLZ2eEnkUUoEW82KA/ZdNO0=",
+        "permetrics-1.4.3.tar.gz"
+      ],
+      "wheels": {
+        "permetrics-1.4.3-py3-none-any.whl": [
+          "RKMc7t7azIMHhoXOQhnnmoO+aChULDvF6qSFF5J5tHU=",
+          "py3"
+        ]
+      }
     }
   },
   "petanalysis": {
@@ -103582,6 +103600,20 @@
       "wheels": {
         "pyserial_asyncio-0.6-py3-none-any.whl": [
           "3pM3kiYZQhtiubGoQEhjSzrFIOHWkKZ07SRqKvfOH8U=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "pysilenttask": {
+    "1.5": {
+      "sdist": [
+        "KAHUUlQW2+N7OK+ocpwl0DOJ7GyUx/haUaVcEpLSZ+o=",
+        "pysilenttask-1.5.tar.gz"
+      ],
+      "wheels": {
+        "pysilenttask-1.5-py3-none-any.whl": [
+          "qp8jnLEkaMBcy5ggY3VbXkb9ZtEBGrfuepgHDZbT7N4=",
           "py3"
         ]
       }
